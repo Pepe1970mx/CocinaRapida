@@ -164,10 +164,10 @@ http://usuarios.club/stream/3177_TVPREMIUM/r3l/300.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO Family 
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/63.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Action 
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Premium Action 
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/46.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Family
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Premium Family
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/49.m3u8
 
 
@@ -207,6 +207,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=71f1da86-eee5-11ea-ac99-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo=" " group-title="DOC Y NOT",  Pluto Series Latinas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=21.3563&deviceLon=-97.6896&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=f83fdf19-0d08-11eb-a6e3-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="KIDS AND FAMILY", FOX 
 http://tvx.zapto.org:25468/garcia.luis.m28/WT6k7ircuU/64?PlaylistM3UCL
