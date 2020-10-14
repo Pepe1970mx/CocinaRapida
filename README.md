@@ -263,7 +263,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b991420009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de58ef515635d00091f605d/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android+Browser&deviceModel=Android+Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=d0572f33-f189-11ea-ac99-0242ac110002&userId=&serverSideAds=true
  
 #EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Cartoons Network 
-http://tvx.zapto.org:25468/garcia.luis.m28/WT6k7ircuU/11878?PlaylistM3UCL
+http://usuarios.club/stream/3177_TVPREMIUM/r3l/17.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Disney Channels 
 http://tvx.zapto.org:25468/garcia.luis.m28/WT6k7ircuU/16653?PlaylistM3UCL
@@ -290,18 +290,18 @@ http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.mi-television.com/uploads/1/0/3/0/103099212/new-image-for-youtube_orig.png" group-title="KIDS AND FAMILY", MITV 
 http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="RETRO" ,  CACHIPUM CL
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="KIDS AND FAMILY" ,  CACHIPUM CL
 
 #EXTINF:-1 group-title="KIDS AND FAMILY" , Tele Más 
 https://www.webmedialive.org:1936/8024/8024/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/Canal-11.jpg" group-title="LATINO" , Telesistema 11
+#EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/Canal-11.jpg" group-title="KIDS AND FAMILY" , Telesistema 11
 http://ss3.domint.net:2114/t11_str/telesistema/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="http://www.teleamazonas.com/wp-content/uploads/2017/11/logoTA119x90.png" group-title="LATINO" ,Tele Amazonas 
+#EXTINF: -1 tvg-logo="http://www.teleamazonas.com/wp-content/uploads/2017/11/logoTA119x90.png" group-title="KIDS AND FAMILY" ,Tele Amazonas 
 http://173.212.247.99/hls/tvec4.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINO", Canal 11
+#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY", Canal 11
 http://stream2.livestreamingservices.com:1935/tvcanal11/tvcanal11/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY", Canal TN8 
@@ -313,7 +313,7 @@ http://stream.mxiptv.org:25461/live/tvabierta/opentv/292.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY", Quinta TV
 https://livefocamundo.com:8081/8164/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINO" , Atacama TV
+#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Atacama TV
 https://v2.tustreaming.cl/atacamatv/live1/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="KIDS AND FAMILY" , Retro Plus TV 
