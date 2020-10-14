@@ -189,8 +189,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e10
 #EXTINF:-1 tvg-logo=" " group-title="SERIES Y PELICULAS PLUTO" , Pluto Narco Novelas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66900909b4410007e74a50/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=37.7353&deviceLon=-122.3732&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=d41a4891-ef2a-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo=" " group-title="SERIES Y PELICULAS PLUTO" , Series Pluto
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android+Browser&deviceModel=Android+Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=d0572f33-f189-11ea-ac99-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo=" " group-title="SERIES Y PELICULAS PLUTO" , Cine Acción Pluto
 https://stitcher.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=123&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
@@ -204,18 +202,20 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff0009
 #EXTINF:-1 tvg-logo=" " group-title="SERIES Y PELICULAS PLUTO" , Pluto Family 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=71f1da86-eee5-11ea-ac99-0242ac110002&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo=" " group-title="SERIES Y PELICULAS PLUTO" , Series Pluto
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android+Browser&deviceModel=Android+Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=d0572f33-f189-11ea-ac99-0242ac110002&userId=&serverSideAds=true
 
 
-#EXTINF:-1 tvg-logo=" " group-title="DOC Y NOT",  Pluto Series Latinas
+#EXTINF:-1 tvg-logo=" " group-title="SERIES Y PELICULAS PLUTO",  Pluto Series Latinas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=21.3563&deviceLon=-97.6896&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=f83fdf19-0d08-11eb-a6e3-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo=" " group-title="SERIES Y PELICULAS PLUTO" , Pluto Cine Latino 
+#EXTINF:-1 tvg-logo=" " group-title="SERIES Y PELICULAS PLUTO" , Pluto Latino 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=64589062-ef97-11ea-b899-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo=" " group-title="SERIES Y PELICULAS PLUTO" , Pluto Cine Latino
+#EXTINF:-1 tvg-logo=" " group-title="SERIES Y PELICULAS PLUTO" , Pluto Latino
 
 #EXTINF:-1 tvg-logo=" " group-title="SERIES Y PELICULAS", Cine Latino 
-https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
+https://srv3.zcast.com.br/diego3294/diego3294/playlist.m3u8
 
 
 
