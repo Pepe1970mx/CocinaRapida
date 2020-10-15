@@ -150,7 +150,7 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/183.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , TNT 
-http://usuarios.club/stream/3177_TVPREMIUM/r3l/179.m3u8
+http://ingrid.ltd:25461/Cc1/Cc1/16734
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Space 
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/83.m3u8
