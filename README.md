@@ -224,7 +224,7 @@ http://ingrid.ltd:25461/Cc1/Cc1/19484
 
 
 
-#EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="KIDS AND FAMILY", FOX Channel
+#EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="KIDS AND FAMILY", FOX channel
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/45.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY",  Distrito Comedia 
@@ -254,7 +254,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/125px-Boing.svg.png" group-title="KIDS AND FAMILY" , Boing 
 https://linear01-i.akamaihd.net/hls/live/837814/boing/02.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Nick 
+#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Nickelodeon
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=33.4532&deviceLon=-112.0748&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=45468964-ef2c-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , TeenNick
@@ -410,16 +410,16 @@ http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Gol 
 http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_2500_av-p.m3u8
  
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN Mexico
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/530.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN2 
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Espn 2 Mexico
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/531.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Fox Sports 
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Fox Sports Mexico
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/527.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Fox Sports2 
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Fox SPORTS 2 Mexico
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/528.m3u8
  
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN 
