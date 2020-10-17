@@ -10,7 +10,7 @@ http://usuarios.club/stream/3177_TVPREMIUM/r3l/341.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="MEXICO", Foro TV 
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1048_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png"group-title="MEXICO" , Canal Cinco
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png"group-title="MEXICO" , Canal 5
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/14.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO" , Canal 6
@@ -19,7 +19,7 @@ http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="MEXICO" , Azteca 7 
 https://aztkhlslive5-i.akamaihd.net/hls/live/1019873/4ztk7bacf4uoy8/master.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="MEXICO" , A+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="MEXICO" , a mas
 https://aztkhlslive6-i.akamaihd.net:443/hls/live/1019872/4m4s8qo47rr3/master.m3u8
  
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EM8Ks47kwqSGMiH4twcCBgAAAA&pid=Api&P=0&w=175&h=43" group-title="MEXICO", Canal Nueve
@@ -64,7 +64,7 @@ https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8O0WxdF.png" group-title="MEXICO" , TV MAS  
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w1862368642.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/4/4b/Mexiquense_tv.jpg/revision/latest?cb=20170525194804&path-prefix=es" group-title="MEXICO" , Mexiquense TV
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/4/4b/Mexiquense_tv.jpg/revision/latest?cb=20170525194804&path-prefix=es" group-title="MEXICO" , Canal Mexiquense TV
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/4/4b/Mexiquense_tv.jpg/revision/latest?cb=20170525194804&path-prefix=es" group-title="MEXICO" , Mexiquense Noticias 
@@ -275,7 +275,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de58ef515635d0009
 #EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Cartoon Network 
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/17.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Disney Channels 
+#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Disney Channel 
 http://tvx.zapto.org:25468/garcia.luis.m28/WT6k7ircuU/16653?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Disney XD 
@@ -410,16 +410,16 @@ http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Gol 
 http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_2500_av-p.m3u8
  
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN México 
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/530.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2 México 
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2  
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/531.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports México 
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports  
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/527.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports 2 México 
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports 2 
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/528.m3u8
  
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN 
