@@ -410,16 +410,16 @@ http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Gol 
 http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_2500_av-p.m3u8
  
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN Mexico
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN México 
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/530.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2 Mexico
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2 México 
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/531.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports Mexico
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports México 
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/527.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports 2 Mexico
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports 2 México 
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/528.m3u8
  
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN 
