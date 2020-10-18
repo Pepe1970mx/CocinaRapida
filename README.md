@@ -79,7 +79,7 @@ https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_171_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Univisión 
-http://usuarios.club/stream/3177_TVPREMIUM/r3l/411.m3u8
+http://ingrid.ltd:25461/Cc1/Cc1/89986
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Galavisión
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/56.m3u8
