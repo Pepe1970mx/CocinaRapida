@@ -276,10 +276,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de58ef515635d0009
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/17.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Disney Channel 
-http://tvx.zapto.org:25468/garcia.luis.m28/WT6k7ircuU/16653?PlaylistM3UCL
+http://tvla.xyz:80/phglwqwo/8riA39f6bS/35227
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Disney XD 
-http://tvx.zapto.org:25468/garcia.luis.m28/WT6k7ircuU/16655?PlaylistM3UCL
+http://tvla.xyz:80/phglwqwo/8riA39f6bS/35230
 
 
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.DBorsB6-EyN6FETFx-kwjQAAAA&pid=Api&P=0&w=300&h=300" group-title="KIDS AND FAMILY", ACS NETWORK 
