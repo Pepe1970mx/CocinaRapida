@@ -445,6 +445,7 @@ http://usuarios.club/stream/3177_TVPREMIUM/r3l/91.m3u8
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/80.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", 24/7 Pop
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo Music Pluto
 https://5d8e38d13bbf423233826467.ssai.zype.com/5d8e38d13bbf423233826467/manifest/2.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5d8e38d13bbf4232https://5f29d07b0fe38c0001fb7f7fpluto.ssai.zype.com/5f29d07b0fe38c0001fb7f7f_pluto/manifest/2.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5f29d07b0fe38c0001fb7f7f_pluto&manifest_id=5b73896e-d65a-43f5-a345-3829544ff409&rendition=480&session_id=46b79fad-ba8a-94ad-8687-4a6352751e1c&partner_id=pluto_tv
