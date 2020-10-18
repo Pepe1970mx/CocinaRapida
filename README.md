@@ -96,8 +96,8 @@ http://stream.mxiptv.org:25461/live/tvabierta/opentv/341.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-5-el-lider-honduras-logo-FED83D8EE6-seeklogo.com.png" group-title="LATINO" , Canal 5 El Líder 
 https://bcovlive-a.akamaihd.net/8520a5c6a0384300b735385e02e2f582/us-west-2/6056665196001/profile_3/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/TSi.png" group-title="LATINO" , Telesistema 
-https://www.dailymotion.com/cdn/live/video/x7vqby4.m3u8?sec=HCJ6oi6KkAT0KWvRo7m-ZwbJiOzQjwMGZqCy14QDzfsRbO_29okcA3Q-vYoWoPHtfvoKW_J2pYMx0VL4IjJ6pQ
+#EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/TSi.png" group-title="LATINO" , TSI
+https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/6056665196001/playlist.m3u8
 
 
 
