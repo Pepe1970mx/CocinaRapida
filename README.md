@@ -444,8 +444,10 @@ http://usuarios.club/stream/3177_TVPREMIUM/r3l/91.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA" , NickMusic
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/80.m3u8
 
-#EXTINF:0, Vevo Music Pluto
-https://5d8e38d13bbf423233826467.ssai.zype.com/5d8e38d13bbf423233826467/manifest/2.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5d8e38d13bbf423233826467&manifest_id=40049d7c-8a8d-4a4f-b6c7-a50b8baed29e&rendition=480&session_id=916a0434-ff31-a0a0-e3e3-512681cbd87a&partner_id=pluto_tv
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA", 24/7 Pop
+
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo Music Pluto
+https://5d8e38d13bbf423233826467.ssai.zype.com/5d8e38d13bbf423233826467/manifest/2.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5d8e38d13bbf4232https://5f29d07b0fe38c0001fb7f7fpluto.ssai.zype.com/5f29d07b0fe38c0001fb7f7f_pluto/manifest/2.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5f29d07b0fe38c0001fb7f7f_pluto&manifest_id=5b73896e-d65a-43f5-a345-3829544ff409&rendition=480&session_id=46b79fad-ba8a-94ad-8687-4a6352751e1c&partner_id=pluto_tv
 
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="MUSICA", MTV POP
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
