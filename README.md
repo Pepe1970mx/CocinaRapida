@@ -79,10 +79,10 @@ https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_171_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Univisión 
-http://ingrid.ltd:25461/Cc1/Cc1/89986
+http://tvla.xyz:80/phglwqwo/8riA39f6bS/43917
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINO", Galavisión
-http://usuarios.club/stream/3177_TVPREMIUM/r3l/56.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="LATINO", Unimas
+http://tvla.xyz:80/phglwqwo/8riA39f6bS/43918
 
 #EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/Azteca-Honduras.jpg" group-title="LATINO", Azteca Honduras
 http://190.122.96.187:8888/http/002
