@@ -219,7 +219,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f062
 https://srv3.zcast.com.br/diego3294/diego3294/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="SERIES Y PELICULAS", Cinema Dinamita
-http://ingrid.ltd:25461/Cc1/Cc1/19484
+http://tvla.xyz:80/phglwqwo/8riA39f6bS/35232
 
 
 
