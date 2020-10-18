@@ -283,10 +283,10 @@ http://tvx.zapto.org:25468/garcia.luis.m28/WT6k7ircuU/16655?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.DBorsB6-EyN6FETFx-kwjQAAAA&pid=Api&P=0&w=300&h=300" group-title="KIDS AND FAMILY", ACS NETWORK 
-https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8?PlaylistM3UCL
+https://cloudflare.streamgato.us:3283/live/acsnetworklive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="KIDS AND FAMILY" , Dreiko TV 
-https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w1291732993.m3u8
+https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY", TVRETROPALMARES 
 http://tvretropalmares.com:8090/hls/envivo.m3u8?PlaylistM3UCL
