@@ -360,8 +360,8 @@ https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
  #EXTINF:-1 tvg-logo="https://ghtelevision.com/images/gh_television_logo_sm.png" group-title="ENTRETENIMIENTO" , GHTV DO
 http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8?fluxustv.m3u8
  
-#EXTINF:-1 group-logo="http://bhtv.pe/wp-content/uploads/2019/04/bhtv-logo-web-300x219.png"group-title="ENTRETENIMIENTO", BHTV PE
-https://5949aa132c8fb.streamlock.net:554/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 group-logo="http://bhtv.pe/wp-content/uploads/2019/04/bhtv-logo-web-300x219.png"group-title="ENTRETENIMIENTO", BHTV 
+https://5c3fb01839654.streamlock.net:554/iptvbhtv/livebhtvtv/chunklist_w2110583875.m3u8
  
 #EXTINF:-1 type="stream" channelId="-1" group="Rep. Dom." logo="https://3.bp.blogspot.com/-CIIL9YFIXIo/Xb4iX-kPD2I/AAAAAAAAooM/tQnM-j_g_cUzjj9yBr8BdZpgr0dCiOcVwCLcBGAsYHQ/s200/GDM%2BEstudioTV.png" group-title="ENTRETENIMIENTO" , GDM DO
 https://cm.hostlagarto.com:4445/gdmstudiotv/gdmstudiotv.myStream/chunks.m3u8
