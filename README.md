@@ -75,7 +75,7 @@ https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINO", Telemundo Internacional
+#EXTINF:-1 tvg-logo=" " group-title="LATINO", Telemundo 
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_171_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Univisión 
@@ -223,7 +223,7 @@ http://tvla.xyz:80/phglwqwo/8riA39f6bS/35232
 
 
 
-#EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="KIDS AND FAMILY", FOX channel
+#EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="KIDS AND FAMILY", FOX Channel
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/45.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FRECUENCIA MUSICAL 2 EC
@@ -260,7 +260,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/125px-Boing.svg.png" group-title="KIDS AND FAMILY" , Boing 
 https://linear01-i.akamaihd.net/hls/live/837814/boing/02.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Nickelodeon
+#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Nick
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=33.4532&deviceLon=-112.0748&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=45468964-ef2c-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , TeenNick
