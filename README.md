@@ -1,3 +1,4 @@
+
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg400.jpg?v=1515007950", Azteca Uno
 https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
 
@@ -99,9 +100,8 @@ https://bcovlive-a.akamaihd.net/8520a5c6a0384300b735385e02e2f582/us-west-2/60566
 #EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/TSi.png" group-title="LATINO" , TSI
 https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/6056665196001/playlist.m3u8
 
-
-
-
+#EXTINF:-1 tvg-logo=" " group-title="LATINO" , DHE
+http://stream.mxiptv.org:25461/live/tvabierta/opentv/74.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="DOC Y NOT", DW AMERICA
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
@@ -170,7 +170,7 @@ http://usuarios.club/stream/3177_TVPREMIUM/r3l/49.m3u8
 #EXTINF:-1 tvg-logo="http://orbittv.net/images/orbit_logo4.png" group-title="PREMIUM" , ORBITV DO
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:0 tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="PREMIUM", ZEE Mundo US
+#EXTINF:0 tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="PREMIUM", ZEE Mundo 
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
 
@@ -223,13 +223,13 @@ http://tvla.xyz:80/phglwqwo/8riA39f6bS/35232
 
 
 
-#EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="KIDS AND FAMILY", FOX Channel
+#EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="KIDS AND FAMILY", FOX channel
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/45.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FRECUENCIA MUSICAL 2 EC
+#EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FRECUENCIA MUSICAL 2 
 http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="ENTRETENIMIENTO" , WOWTV SV
+#EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 
