@@ -334,7 +334,7 @@ https://v2.tustreaming.cl/atacamatv/live1/index.m3u8?PlaylistM3UCL
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="KIDS AND FAMILY" , Retro Plus TV 2
-https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8?PlaylistM3UCL
+https://59f2354c05961.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 
 
  
