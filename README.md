@@ -116,6 +116,9 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="DOC Y NOT", RT Español
 https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="DOC Y NOT", Pluto Noticias
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f523aa5523ae000074745ec/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=f9c64ab1-1414-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
+
 #EXTINF:-1 tvg-logo=" " group-title="DOC Y NOT" , Investigation Discovery
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/68.m3u8
 
