@@ -1,4 +1,4 @@
-No
+
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg400.jpg?v=1515007950", Azteca Uno
 https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
 
@@ -250,6 +250,8 @@ http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY", Mutantes X
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acc91cc9e1b000711ff21/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=41.3888&deviceLon=2.1590&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=ES&sid=88936f6d-1674-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY",  Distrito Comedia 
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/32.m3u8
