@@ -406,7 +406,7 @@ http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wi
 https://cdo.04.cl.cdnz.cl/cdoplus/smil:cdn.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", WWE Network
-https://peer7.ustv24h.live/WWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMjAgMTE6NDU6NTQgUE0maGFzaF92YWx1ZT1ZKzNaelZnQitFR1o1eHFzV1oxOWVBPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=8da1fbed-166b-11eb-bde1-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Olimpic Channels 
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
