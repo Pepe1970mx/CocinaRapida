@@ -428,8 +428,8 @@ http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES",Fight Time 
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
  
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Gol 
-http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_2500_av-p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Sky Italy
+https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/530.m3u8
