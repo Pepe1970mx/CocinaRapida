@@ -427,6 +427,10 @@ http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES",Fight Time 
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
  
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Being Extra
+https://bein-xtra-roku-us.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Sky Italy
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
  
