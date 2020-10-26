@@ -85,9 +85,6 @@ http://tvla.xyz:80/phglwqwo/8riA39f6bS/43917
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Unimas
 http://tvla.xyz:80/phglwqwo/8riA39f6bS/43918
 
-
-
-
 #EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/Azteca-Honduras.jpg" group-title="LATINO", Azteca Honduras
 http://190.122.96.187:8888/http/002
 
@@ -434,7 +431,7 @@ http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
  
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Being Extra
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Bein Extra
 https://bein-xtra-roku-us.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Sky Italy
