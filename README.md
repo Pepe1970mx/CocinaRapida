@@ -260,12 +260,11 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LATINO", City TV
 http://190.122.96.187:8888/http/004
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY", Mutantes X
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acc91cc9e1b000711ff21/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=41.3888&deviceLon=2.1590&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=ES&sid=88936f6d-1674-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
-
-
 #EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/#&gid=1&pid=1" group-title="KIDS AND FAMILY", Telecosta 
 https://5c5c125d8dbaa.streamlock.net:1936/telecosta/telecosta/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY", Mutantes X
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acc91cc9e1b000711ff21/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=41.3888&deviceLon=2.1590&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=ES&sid=88936f6d-1674-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Los Simpson
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL 
@@ -306,12 +305,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009
 #EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Nick Jr. 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=40.7308&deviceLon=-73.9975&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=df2364b1-f791-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Teen
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android+Browser&deviceModel=Android+Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=d0572f33-f189-11ea-ac99-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Degrassi
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de58ef515635d00091f605d/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android+Browser&deviceModel=Android+Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=d0572f33-f189-11ea-ac99-0242ac110002&userId=&serverSideAds=true
- 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Cartoon Network 
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/17.m3u8
 
@@ -321,7 +314,12 @@ http://tvla.xyz:80/phglwqwo/8riA39f6bS/35227
 #EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Disney XD 
 http://tvla.xyz:80/phglwqwo/8riA39f6bS/35230
 
+#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Teen
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android+Browser&deviceModel=Android+Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=d0572f33-f189-11ea-ac99-0242ac110002&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Degrassi
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de58ef515635d00091f605d/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android+Browser&deviceModel=Android+Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=d0572f33-f189-11ea-ac99-0242ac110002&userId=&serverSideAds=true
+ 
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.DBorsB6-EyN6FETFx-kwjQAAAA&pid=Api&P=0&w=300&h=300" group-title="KIDS AND FAMILY", ACS NETWORK 
 https://cloudflare.streamgato.us:3283/live/acsnetworklive.m3u8?PlaylistM3UCL
 
@@ -421,7 +419,7 @@ http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wi
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", CDO Sports
 https://cdo.04.cl.cdnz.cl/cdoplus/smil:cdn.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", WWE Network
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", AEW
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=8da1fbed-166b-11eb-bde1-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Olimpic Channels 
