@@ -25,7 +25,7 @@ https://aztkhlslive6-i.akamaihd.net:443/hls/live/1019872/4m4s8qo47rr3/master.m3u
  
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EM8Ks47kwqSGMiH4twcCBgAAAA&pid=Api&P=0&w=175&h=43" group-title="MEXICO", Canal Nueve
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=24&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
- 
+
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/quiero-tv-en-vivo-768x480.png" group-title="MEXICO" , Quiero TV
 https://quierotvlive.tk/httplive/playlist_playlist.m3u8
 
