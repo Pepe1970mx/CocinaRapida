@@ -110,9 +110,8 @@ https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/60566
 #EXTINF:-1 tvg-logo=" " group-title="LATINO" , DHE
 http://stream.mxiptv.org:25461/live/tvabierta/opentv/74.m3u8
 
-
-
-
+#EXTINF:-1 tvg-logo=" " group-title="LATINO" , RTS
+http://173.212.247.99/hls/tvec3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="DOC Y NOT", DW AMERICA
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
