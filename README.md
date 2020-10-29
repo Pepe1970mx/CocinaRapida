@@ -32,13 +32,11 @@ https://quierotvlive.tk/httplive/playlist_playlist.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="MEXICO", Canal once 
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
  
+#EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="MEXICO", Canal once Niños
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=3315&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="MEXICO", RGC1
-http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="MEXICO" , RGC2
-http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+#EXTINF: -1 tvg-logo = "https://i.pinimg.com/280x280_RS/01/ca/56/01ca569f92b45cecb0cf738a912cfea0.jpg" group-title = "MEXICO", TELEMAX
+http://s5.mexside.net:1935/telemax/telemax/chunklist_w1982711424.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO" , Canal Catorce
 https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/2a01d801265741e581c396e8ad4fa405/index_1.m3u8
@@ -55,9 +53,11 @@ https://nuestravision-plutolive-vo.akamaized.net/r/hlslive/nuestra.m3u8?chname=n
 #EXTINF:-1 tvg-logo="" group-title="MEXICO", TVP
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8?DVR
 
+#EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="MEXICO", RGC1
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
 
-#EXTINF: -1 tvg-logo = "https://i.pinimg.com/280x280_RS/01/ca/56/01ca569f92b45cecb0cf738a912cfea0.jpg" group-title = "MEXICO", TELEMAX
-http://s5.mexside.net:1935/telemax/telemax/chunklist_w1982711424.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="MEXICO" , RGC2
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 
 #EXTINF: -1 tvg-logo = "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/b1/77/39/b1773967-9b0b-b342-77c6-177816dff58d/AppIcon-1x_U007emarketing- 0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png / 1200x630wa.png "group-title =" MEXICO ", CANAL 15TV 
 http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
