@@ -32,11 +32,13 @@ https://quierotvlive.tk/httplive/playlist_playlist.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="MEXICO", Canal once 
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="" group-title="MEXICO", TVP
-https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8?DVR
+
 
 #EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="MEXICO", RGC1
 http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="MEXICO" , RGC2
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO" , Canal Catorce
 https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/2a01d801265741e581c396e8ad4fa405/index_1.m3u8
@@ -50,8 +52,9 @@ http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO" , Nuestra Vision 
 https://nuestravision-plutolive-vo.akamaized.net/r/hlslive/nuestra.m3u8?chname=nuestra&pub=cd44c23c-4796-475f-bcb1-b846bed4cf40&ctype=0&acsurl=pluto-acs-lb.adsparx.net&mcdn=nuestravision-plutolive-vo.akamaized.net&userParams=ccp%3DeyJkZXZpY2VJZCI6IjQyYzI5MTE1LTEzMjktNDFmYi05ZTMwLTVlYTI5MjllY2ZlMyIsImRldmljZVZlcnNpb24iOiI0LjAiLCJhcHBWZXJzaW9uIjoiNS43LjUtMGIxNjc0YjYyNmY1ZTVhZGMxZjJiMWQxMmIwNjhlODlhOTUwZmRmNyIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VNYWtlIjoiQW5kcm9pZCtCcm93c2VyIiwiYWR2ZXJ0aXNpbmdJZCI6IiIsImRldmljZUxhdCI6IjQwLjgzNjQiLCJkZXZpY2VMb24iOiItNzQuMTQwMyIsImRldmljZUROVCI6ImZhbHNlIiwiZGV2aWNlTW9kZWwiOiJBbmRyb2lkK0Jyb3dzZXIiLCJ1c2VySWQiOiIiLCJhcHBOYW1lIjoid2ViIiwiYXJjaGl0ZWN0dXJlIjoiIiwiaW5jbHVkZUV4dGVuZGVkRXZlbnRzIjoiZmFsc2UiLCJzcmNQcm90b2NvbCI6Imh0dHBzIiwic3RpdGNoZXJWZXJzaW9uIjoiMi40MS4wIiwic3RpdGNoZXJSZXFJZCI6ImU0MzNjNTc4LTk3MTYtNGMxZS1hNjk0LWM5MTcxMjMyODg4NyIsImFkSW1wcmVzc2lvblByb3h5Ijp0cnVlLCJpcF9hZGRyZXNzIjoiNjguMTgzLjE0NS4xMTgiLCJkZXZpY2VfdWEiOiJNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgNS4xOyBOZXh1cyA2IEJ1aWxkL0xNWTQ3RSkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzQxLjAuMjI3Mi45NiBNb2JpbGUgU2FmYXJpLzUzNy4zNiIsInRyYW5zYWN0aW9uX2lkIjoiMzMxZTc3NTUtNDQyOC00MGJhLWJmZGMtYjc1OGI0ZWUzODJmIiwiZGV2aWNlVXNlckFnZW50IjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDUuMTsgTmV4dXMgNiBCdWlsZC9MTVk0N0UpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS80MS4wLjIyNzIuOTYgTW9iaWxlIFNhZmFyaS81MzcuMzYiLCJpcEFkZHJlc3MiOiI2OC4xODMuMTQ1LjExOCIsImNoSWQiOiI1ZTY2OTBiZWZiZGY3ODAwMDdmNzgxNTgiLCJ0aW1lbGluZUlkIjoiNWY1ZmI1NDIyMDVlMTcwMDA3OGJkMzU0IiwiY2xpcElkIjoiNWYwZTI1MzgzMTIzZDYwMDA3YzZjY2VlIiwic2Vzc2lvbklkIjoiNGUzYWJiMzctZjZmZi0xMWVhLWI4OTktMDI0MmFjMTEwMDAyIiwiZXBpc29kZUlkIjoiNWYwZTI2ODExMDllYTAwMDA3MGI3NTdlIiwicGFydG5lckNvZGUiOiJOdWVzdHJhIFZpc2lvbiIsInBhcnRuZXJfaWQiOiI1ZjBkZWY4N2NiNTQyMjAwMDgyMDdiZDgiLCJvcmlnaW4iOiJhZFNwYXJ4IiwiZnJvbV9zdGl0Y2hlciI6dHJ1ZX0%3D
 
-#EXTINF:-1 tvg-logo=" " group-title="MEXICO" , RGC2
-http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MEXICO", TVP
+https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8?DVR
+
 
 #EXTINF: -1 tvg-logo = "https://i.pinimg.com/280x280_RS/01/ca/56/01ca569f92b45cecb0cf738a912cfea0.jpg" group-title = "MEXICO", TELEMAX
 http://s5.mexside.net:1935/telemax/telemax/chunklist_w1982711424.m3u8
@@ -73,6 +76,7 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qO0nkZz.png" group-title="MEXICO" , ADN 40
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
+
 
 
 
@@ -105,6 +109,8 @@ https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/60566
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO" , DHE
 http://stream.mxiptv.org:25461/live/tvabierta/opentv/74.m3u8
+
+
 
 
 
@@ -151,6 +157,9 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 
 
 
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Energy 
+https://linear02-i.akamaihd.net/hls/live/837816/energy/02.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , AMC 
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/183.m3u8
 
@@ -159,9 +168,6 @@ http://ingrid.ltd:25461/Cc1/Cc1/16734
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Space 
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/83.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Energy 
-https://linear02-i.akamaihd.net/hls/live/837816/energy/02.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO 
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/62.m3u8
@@ -211,9 +217,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d0007
 #EXTINF:-1 tvg-logo=" " group-title="SERIES Y PELICULAS" , Pluto Cine Estelar
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.7.1-a6476e5c6aae81513d57183396914e3b74493662&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=6f083dbf-eb33-11ea-bd9c-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo=" " group-title="SERIES Y PELICULAS" , Pluto Family 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=71f1da86-eee5-11ea-ac99-0242ac110002&userId=&serverSideAds=true
-
 #EXTINF:-1 tvg-logo=" " group-title="SERIES Y PELICULAS" , Pluto Series
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android+Browser&deviceModel=Android+Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=d0572f33-f189-11ea-ac99-0242ac110002&userId=&serverSideAds=true
 
@@ -237,6 +240,11 @@ http://ingrid.ltd:25461/Cc1/Cc1/19484
 
 #EXTINF:-1 tvg-logo=" " group-title="SERIES Y PELICULAS", Az Cinema
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/186.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="SERIES Y PELICULAS" , Pluto Family 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=71f1da86-eee5-11ea-ac99-0242ac110002&userId=&serverSideAds=true
+
+
 
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="KIDS AND FAMILY", FOX channel
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/45.m3u8
