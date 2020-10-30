@@ -6,7 +6,7 @@ https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/411.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Imagen_TV_logo.png/200px-Imagen_TV_logo.png" group-title="MEXICO",  Imagen TV
-http://usuarios.club/stream/3177_TVPREMIUM/r3l/341.m3u8 
+http://156.96.44.13:8081/televall2021/76_.m3u8?md5=ZLx4BC2lWlEVZO0WvpdWTg&expires=1604110899 
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="MEXICO", Foro TV 
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1048_av-p.m3u8?sd=10&rebase=on
