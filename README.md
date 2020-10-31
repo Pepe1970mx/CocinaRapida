@@ -39,7 +39,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=3315&f=HLSAD&s=ze
 http://s5.mexside.net:1935/telemax/telemax/chunklist_w1982711424.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO" , Canal Catorce
-https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/2a01d801265741e581c396e8ad4fa405/index_1.m3u8
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://puu.sh/mwdSw/26eea6807c.png" group-title="MEXICO" , Milenio Televisión 
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
