@@ -113,6 +113,137 @@ http://stream.mxiptv.org:25461/live/tvabierta/opentv/74.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="LATINO" , RTS
 http://173.212.247.99/hls/tvec3.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="LATINO", City TV
+http://190.122.96.187:8888/http/004
+
+#EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/#&gid=1&pid=1" group-title="LATINO", Telecosta 
+https://5c5c125d8dbaa.streamlock.net:1936/telecosta/telecosta/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="KIDS AND FAMILY", FOX channel
+http://usuarios.club/stream/3177_TVPREMIUM/r3l/45.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY",  Distrito Comedia 
+http://usuarios.club/stream/3177_TVPREMIUM/r3l/32.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Comedy Central 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=40.7308&deviceLon=-73.9975&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=cb4abc9a-f113-11ea-b77a-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="KIDS AND FAMILY" , Pluto Humor
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=9aab038a-166d-11eb-8c1a-0242ac110002&userId=&serverSideAds=true
+
+
+#EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FRECUENCIA MUSICAL 
+http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="ENTRETENIMIENTO" , WOW TV 
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY", Mutantes X
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acc91cc9e1b000711ff21/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=41.3888&deviceLon=2.1590&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=ES&sid=88936f6d-1674-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Los Simpson
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL 
+
+#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" ,Big Time Rush
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa7aab66c76000790ee7e/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=41.3888&deviceLon=2.1590&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=ES&sid=88936f6d-1674-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="KIDS AND FAMILY" , El Chavo 
+https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
+ 
+#EXTINF:-1 group-title="KIDS AND FAMILY" , Pluto Anime 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5291&deviceLon=-97.4497&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=40f49eb5-f544-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="KIDS AND FAMILY" , Pluto Series Retro
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=275a49f5-f05f-11ea-b899-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="KIDS AND FAMILY" , Pluto Kids
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=e271eb73-ef8c-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=41.3888&deviceLon=2.1590&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=ES&sid=c69f3bfb-16ff-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/125px-Boing.svg.png" group-title="KIDS AND FAMILY" , Boing 
+https://linear01-i.akamaihd.net/hls/live/837814/boing/02.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Pluto Animakids
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=41.3888&deviceLon=2.1590&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=ES&sid=c69f3bfb-16ff-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Pluto Kid Hallowen
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abeb21044ee0007f19d33/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=41.3888&deviceLon=2.1590&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=ES&sid=88936f6d-1674-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Nick
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=37.7510&deviceLon=-97.8220&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=537fe437-141b-11eb-85e0-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , TeenNick
+http://usuarios.club/stream/3177_TVPREMIUM/r3l/184.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Nick Clasico
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.9348&deviceLon=-97.4117&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=3cffdfd2-0d84-11eb-9e7d-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Nick Jr. 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=40.7308&deviceLon=-73.9975&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=df2364b1-f791-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Cartoon Network 
+http://usuarios.club/stream/3177_TVPREMIUM/r3l/17.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Disney Channel 
+http://tvla.xyz:80/phglwqwo/8riA39f6bS/35227
+
+#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Disney XD 
+http://156.96.44.13:8081/televall2021/171_.m3u8?md5=NoqvJJPRn8ZWyhimiW5Iwg&expires=1604189225
+
+#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Teen
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android+Browser&deviceModel=Android+Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=d0572f33-f189-11ea-ac99-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Degrassi
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de58ef515635d00091f605d/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android+Browser&deviceModel=Android+Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=d0572f33-f189-11ea-ac99-0242ac110002&userId=&serverSideAds=true
+ 
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.DBorsB6-EyN6FETFx-kwjQAAAA&pid=Api&P=0&w=300&h=300" group-title="KIDS AND FAMILY", ACS NETWORK 
+https://cloudflare.streamgato.us:3283/live/acsnetworklive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="KIDS AND FAMILY" , Dreiko TV 
+https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY", TVRETROPALMARES 
+http://tvretropalmares.com:8090/hls/envivo.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="KIDS AND FAMILY" , Tele Más 
+https://www.webmedialive.org:1936/8024/8024/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="KIDS AND FAMILY", TELERED 
+http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="KIDS AND FAMILY", MASTV 
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.mi-television.com/uploads/1/0/3/0/103099212/new-image-for-youtube_orig.png" group-title="KIDS AND FAMILY", MITV 
+http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="KIDS AND FAMILY" ,  CACHIPUM CL
+
+#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Atacama TV
+https://v2.tustreaming.cl/atacamatv/live1/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/Canal-11.jpg" group-title="KIDS AND FAMILY" , Telesistema 11
+http://ss3.domint.net:2114/t11_str/telesistema/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="KIDS AND FAMILY", Microvision 
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
+
+
+#EXTINF: -1 tvg-logo="http://www.teleamazonas.com/wp-content/uploads/2017/11/logoTA119x90.png" group-title="KIDS AND FAMILY" ,Tele Amazonas 
+http://173.212.247.99/hls/tvec4.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY", Canal TN8 
+https://cootv.cootel.com.ni/streams/d/SSLCH08-HD-MCD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Canal Punta De Cana C8
+http://stream.mxiptv.org:25461/live/tvabierta/opentv/292.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="KIDS AND FAMILY" , Retro Plus TV 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="DOC Y NOT", DW AMERICA
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
  
@@ -247,133 +378,6 @@ http://usuarios.club/stream/3177_TVPREMIUM/r3l/186.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=71f1da86-eee5-11ea-ac99-0242ac110002&userId=&serverSideAds=true
 
 
-
-#EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="KIDS AND FAMILY", FOX channel
-http://usuarios.club/stream/3177_TVPREMIUM/r3l/45.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY",  Distrito Comedia 
-http://usuarios.club/stream/3177_TVPREMIUM/r3l/32.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Comedy Central 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=40.7308&deviceLon=-73.9975&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=cb4abc9a-f113-11ea-b77a-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="KIDS AND FAMILY" , Pluto Humor
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=9aab038a-166d-11eb-8c1a-0242ac110002&userId=&serverSideAds=true
-
-
-#EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FRECUENCIA MUSICAL 
-http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="ENTRETENIMIENTO" , WOW TV 
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="LATINO", City TV
-http://190.122.96.187:8888/http/004
-
-#EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/#&gid=1&pid=1" group-title="KIDS AND FAMILY", Telecosta 
-https://5c5c125d8dbaa.streamlock.net:1936/telecosta/telecosta/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY", Mutantes X
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acc91cc9e1b000711ff21/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=41.3888&deviceLon=2.1590&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=ES&sid=88936f6d-1674-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Los Simpson
-https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL 
-
-#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" ,Big Time Rush
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa7aab66c76000790ee7e/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=41.3888&deviceLon=2.1590&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=ES&sid=88936f6d-1674-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="KIDS AND FAMILY" , El Chavo 
-https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
- 
-#EXTINF:-1 group-title="KIDS AND FAMILY" , Pluto Anime 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5291&deviceLon=-97.4497&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=40f49eb5-f544-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="KIDS AND FAMILY" , Pluto Series Retro
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=275a49f5-f05f-11ea-b899-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="KIDS AND FAMILY" , Pluto Kids
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=e271eb73-ef8c-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=41.3888&deviceLon=2.1590&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=ES&sid=c69f3bfb-16ff-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/125px-Boing.svg.png" group-title="KIDS AND FAMILY" , Boing 
-https://linear01-i.akamaihd.net/hls/live/837814/boing/02.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Pluto Animakids
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=41.3888&deviceLon=2.1590&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=ES&sid=c69f3bfb-16ff-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Pluto Kid Hallowen
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abeb21044ee0007f19d33/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=41.3888&deviceLon=2.1590&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=ES&sid=88936f6d-1674-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Nick
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=37.7510&deviceLon=-97.8220&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=537fe437-141b-11eb-85e0-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , TeenNick
-http://usuarios.club/stream/3177_TVPREMIUM/r3l/184.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Nick Clasico
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.9348&deviceLon=-97.4117&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=3cffdfd2-0d84-11eb-9e7d-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Nick Jr. 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=40.7308&deviceLon=-73.9975&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=df2364b1-f791-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Cartoon Network 
-http://usuarios.club/stream/3177_TVPREMIUM/r3l/17.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Disney Channel 
-http://tvla.xyz:80/phglwqwo/8riA39f6bS/35227
-
-#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Disney XD 
-http://156.96.44.13:8081/televall2021/171_.m3u8?md5=NoqvJJPRn8ZWyhimiW5Iwg&expires=1604189225
-
-#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Teen
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android+Browser&deviceModel=Android+Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=d0572f33-f189-11ea-ac99-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Degrassi
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de58ef515635d00091f605d/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android+Browser&deviceModel=Android+Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=d0572f33-f189-11ea-ac99-0242ac110002&userId=&serverSideAds=true
- 
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.DBorsB6-EyN6FETFx-kwjQAAAA&pid=Api&P=0&w=300&h=300" group-title="KIDS AND FAMILY", ACS NETWORK 
-https://cloudflare.streamgato.us:3283/live/acsnetworklive.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="KIDS AND FAMILY" , Dreiko TV 
-https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY", TVRETROPALMARES 
-http://tvretropalmares.com:8090/hls/envivo.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="KIDS AND FAMILY" , Tele Más 
-https://www.webmedialive.org:1936/8024/8024/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="KIDS AND FAMILY", TELERED 
-http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="KIDS AND FAMILY", MASTV 
-http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.mi-television.com/uploads/1/0/3/0/103099212/new-image-for-youtube_orig.png" group-title="KIDS AND FAMILY", MITV 
-http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="KIDS AND FAMILY" ,  CACHIPUM CL
-
-#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Atacama TV
-https://v2.tustreaming.cl/atacamatv/live1/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/Canal-11.jpg" group-title="KIDS AND FAMILY" , Telesistema 11
-http://ss3.domint.net:2114/t11_str/telesistema/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="KIDS AND FAMILY", Microvision 
-http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
-
-
-#EXTINF: -1 tvg-logo="http://www.teleamazonas.com/wp-content/uploads/2017/11/logoTA119x90.png" group-title="KIDS AND FAMILY" ,Tele Amazonas 
-http://173.212.247.99/hls/tvec4.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY", Canal TN8 
-https://cootv.cootel.com.ni/streams/d/SSLCH08-HD-MCD/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Canal Punta De Cana C8
-http://stream.mxiptv.org:25461/live/tvabierta/opentv/292.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="KIDS AND FAMILY" , Retro Plus TV 2
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 
 
  
