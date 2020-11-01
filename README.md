@@ -523,6 +523,9 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", HIT TV
 http://hitmusic.hu/hitmusic.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA", Latinos TV
+https://limited20.todostreaming.es/live/simbana-livestream1.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", RU TV
 https://rutv.gcdn.co/streams/1410_1272/360n/index.m3u8
 
