@@ -11,6 +11,7 @@ http://156.96.44.13:8081/televall2021/76_.m3u8?md5=ZLx4BC2lWlEVZO0WvpdWTg&expire
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="MEXICO", Foro TV 
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1048_av-p.m3u8?sd=10&rebase=on
 
+
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png"group-title="MEXICO" , Canal 5
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/14.m3u8
  
@@ -576,7 +577,8 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgrat
 #EXTINF:-1 tvg-logo" "group-title="MUSICA" , RADIO CAPITAL TV
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on?e74
  
-
+#EXTINF:-1 tvg-logo" "group-title="MUSICA" , TVPOP
+https://v2.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
 
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fyPHgEH.png" group-title="MUSICA", COLOSAL TV
