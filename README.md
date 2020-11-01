@@ -82,7 +82,7 @@ https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
 
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Telemundo 
-https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_171_av-b.m3u8?sd=10&rebase=on
+https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Univisión 
 http://tvla.xyz:80/phglwqwo/8riA39f6bS/43917
