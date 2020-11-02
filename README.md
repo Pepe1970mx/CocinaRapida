@@ -567,9 +567,14 @@ https://cootv.cootel.com.ni/streams/d/SSLCH22-HD-VWT/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="MUSICA", VH1 CLASSIC
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="KIDS AND FAMILY" , RetroPlus Musica 
+#EXTINF:-1 tvg-logo=""  group-title="MUSICA" , RetroPlus Musica 
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=""  group-title="MUSICA" , 24/7 Retro
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/4.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo=""  group-title="MUSICA" , 24/7 Vintage
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="MUSICA", OTTO FM
 http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8?fluxustv.m3u8
