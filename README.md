@@ -429,21 +429,17 @@ https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/playlist.m3u8?PlaylistM3U
 https://stmv.panel.mivideo.pro/fmtvmundo3/fmtvmundo3/playlist.m3u8?PlaylistM3UCL
 
 
+
+
 #EXTINF:-1 tvg-logo="http://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="DEPORTES" , MLB Network 
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
  
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", CDO Sports
-https://cdo.04.cl.cdnz.cl/cdoplus/smil:cdn.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", AEW
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=8da1fbed-166b-11eb-bde1-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Olimpic Channels 
-http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Fight Time 
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
- 
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Bein Extra
 https://bein-xtra-roku-us.amagi.tv/playlist.m3u8
