@@ -85,7 +85,7 @@ https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Univisión 
-http://tvla.xyz:80/phglwqwo/8riA39f6bS/43917
+http://156.96.44.13:8081/televall2021/59_.m3u8?md5=ZVtTA6m7a-Kkf0zgCnOgbA&expires=1604473555
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Galavision
 http://156.96.44.13:8081/televall2021/63_.m3u8?md5=ZVtTA6m7a-Kkf0zgCnOgbA&expires=1604473555
