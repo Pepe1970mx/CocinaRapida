@@ -361,7 +361,7 @@ https://srv3.zcast.com.br/diego3294/diego3294/playlist.m3u8
 http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/1
 
 #EXTINF:-1 tvg-logo=" " group-title="SERIES Y PELICULAS", Az Cinema
-http://usuarios.club/stream/3177_TVPREMIUM/r3l/186.m3u8
+http://156.96.44.13:8081/televall2021/109_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
 #EXTINF:-1 tvg-logo=" " group-title="SERIES Y PELICULAS" , Pluto Family 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=71f1da86-eee5-11ea-ac99-0242ac110002&userId=&serverSideAds=true
