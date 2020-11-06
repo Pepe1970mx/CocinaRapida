@@ -473,7 +473,7 @@ http://usuarios.club/stream/3177_TVPREMIUM/r3l/80.m3u8
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo Music Pluto
-https://5f29d07b0fe38c0001fb7f7fpluto.ssai.zype.com/5f29d07b0fe38c0001fb7f7f_pluto/manifest/2.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5f29d07b0fe38c0001fb7f7f_pluto&manifest_id=9aa2abe6-6090-4c7b-9e6e-abcffd52e5c6&rendition=480&session_id=32a03c4e-0e19-3a20-e8cb-97f32dbc8412&partner_id=pluto_tv
+https://5f29d07b0fe38c0001fb7f7fpluto.ssai.zype.com/5f29d07b0fe38c0001fb7f7f_pluto/manifest/0.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5f29d07b0fe38c0001fb7f7f_pluto&manifest_id=aedec261-8655-4732-a34b-f27326de2d60&rendition=1080&session_id=5dcb65d0-33d2-8c58-33ec-ee298d168a52&partner_id=pluto_tv7f_pluto&manifest_id=9aa2abe6-6090-4c7b-9e6e-abcffd52e5c6&rendition=480&session_id=32a03c4e-0e19-3a20-e8cb-97f32dbc8412&partner_id=pluto_tv
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo R&B
 https://5f29d23f0fe38c0001fb8036pluto.ssai.zype.com/5f29d23f0fe38c0001fb8036_pluto/manifest/2.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5f29d23f0fe38c0001fb8036_pluto&manifest_id=a9513541-8f20-44e1-b55f-83bcd74677a1&rendition=480&session_id=801abf1f-09e9-e23a-4d80-3f6848b70931&partner_id=pluto_tv
