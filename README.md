@@ -450,7 +450,7 @@ http://usuarios.club/stream/3177_TVPREMIUM/r3l/527.m3u8
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/528.m3u8
  
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN 
-http://156.96.44.13:8081/televall2021/64_.m3u8?md5=ZVtTA6m7a-Kkf0zgCnOgbA&expires=1604473555
+http://156.96.44.13:8081/televall2021/151_.m3u8?md5=ZVtTA6m7a-Kkf0zgCnOgbA&expires=1604473555
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Claro Sports 
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/328.m3u8
