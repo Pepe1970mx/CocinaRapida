@@ -441,7 +441,7 @@ https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/530.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2  
-http://usuarios.club/stream/3177_TVPREMIUM/r3l/531.m3u8
+http://156.96.44.13:8081/televall2021/142_.m3u8?md5=xZpuv2jKjnNyD-h3-y04wA&expires=1604745559
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports  
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/527.m3u8
