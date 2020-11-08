@@ -358,7 +358,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f062
 https://srv3.zcast.com.br/diego3294/diego3294/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="SERIES Y PELICULAS", Cinema Dinamita
-http://zufreelist.net:8080/Mekekdksjshsisbsbsuwuienewnbshs77/Mekekdksjshsisbsbsuwuienewnbshs77/1
+http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/1
 
 #EXTINF:-1 tvg-logo=" " group-title="SERIES Y PELICULAS", Az Cinema
 http://156.96.44.13:8081/televall2021/109_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
