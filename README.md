@@ -453,7 +453,7 @@ http://156.96.44.13:8081/televall2021/145_.m3u8?md5=xZpuv2jKjnNyD-h3-y04wA&expir
 http://156.96.44.13:8081/televall2021/151_.m3u8?md5=ZVtTA6m7a-Kkf0zgCnOgbA&expires=1604473555
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Claro Sports 
-http://usuarios.club/stream/3177_TVPREMIUM/r3l/328.m3u8
+https://d21r053hxdt5v1.cloudfront.net/live/cs01/live.isml/cs01.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TVC Deportes 
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/837.m3u8
