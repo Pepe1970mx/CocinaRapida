@@ -447,7 +447,7 @@ http://156.96.44.13:8081/televall2021/142_.m3u8?md5=xZpuv2jKjnNyD-h3-y04wA&expir
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/527.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports 2 
-http://usuarios.club/stream/3177_TVPREMIUM/r3l/528.m3u8
+http://156.96.44.13:8081/televall2021/145_.m3u8?md5=xZpuv2jKjnNyD-h3-y04wA&expires=1604745559
  
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN 
 http://156.96.44.13:8081/televall2021/151_.m3u8?md5=ZVtTA6m7a-Kkf0zgCnOgbA&expires=1604473555
