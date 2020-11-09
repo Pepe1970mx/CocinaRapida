@@ -133,7 +133,20 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007
 http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="KIDS AND FAMILY" , WOW TV 
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Atacama TV
+https://v2.tustreaming.cl/atacamatv/live1/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/Canal-11.jpg" group-title="KIDS AND FAMILY" , Telesistema 11
+http://ss3.domint.net:2114/t11_str/telesistema/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="KIDS AND FAMILY", Microvision 
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
+
+
+#EXTINF: -1 tvg-logo="http://www.teleamazonas.com/wp-content/uploads/2017/11/logoTA119x90.png" group-title="KIDS AND FAMILY" ,Tele Amazonas 
+http://173.212.247.99/hls/tvec4.m3u8
+
+
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Los Simpson
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL 
@@ -151,14 +164,14 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=e271eb73-ef8c-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=41.3888&deviceLon=2.1590&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=ES&sid=c69f3bfb-16ff-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/125px-Boing.svg.png" group-title="KIDS AND FAMILY" , Boing 
-https://linear01-i.akamaihd.net/hls/live/837814/boing/02.m3u8
-
 #EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Pluto Animakids
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=41.3888&deviceLon=2.1590&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=ES&sid=c69f3bfb-16ff-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Pluto Kid Hallowen
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abeb21044ee0007f19d33/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=41.3888&deviceLon=2.1590&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=ES&sid=88936f6d-1674-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/125px-Boing.svg.png" group-title="KIDS AND FAMILY" , Boing 
+https://linear01-i.akamaihd.net/hls/live/837814/boing/02.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Nick
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=37.7510&deviceLon=-97.8220&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=537fe437-141b-11eb-85e0-0242ac110002&userId=&serverSideAds=true
@@ -205,31 +218,11 @@ http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.mi-television.com/uploads/1/0/3/0/103099212/new-image-for-youtube_orig.png" group-title="KIDS AND FAMILY", MITV 
 http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="KIDS AND FAMILY" ,  CACHIPUM CL
-
-#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Atacama TV
-https://v2.tustreaming.cl/atacamatv/live1/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/Canal-11.jpg" group-title="KIDS AND FAMILY" , Telesistema 11
-http://ss3.domint.net:2114/t11_str/telesistema/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="KIDS AND FAMILY", Microvision 
-http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
 
 
-#EXTINF: -1 tvg-logo="http://www.teleamazonas.com/wp-content/uploads/2017/11/logoTA119x90.png" group-title="KIDS AND FAMILY" ,Tele Amazonas 
-http://173.212.247.99/hls/tvec4.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY", Canal TN8 
 https://cootv.cootel.com.ni/streams/d/SSLCH08-HD-MCD/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Canal Punta De Cana C8
-http://stream.mxiptv.org:25461/live/tvabierta/opentv/292.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="KIDS AND FAMILY" , Retro Plus TV 2
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="DOC Y NOT", DW AMERICA
@@ -369,51 +362,53 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a0009
 #EXTINF:-1 tvg-logo=" " group-title="SERIES Y PELICULAS" , GENtv
 https://inliveserver.com:1936/14030/14030/.m3u8
 
- 
+ #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="SERIES Y PELICULAS" , Retro Plus TV 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="SERIES Y PELICULAS" , Fmhot 2
+https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FRECUENCIA MUSICAL EC
+#EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="SERIES Y PELICULAS" , Fmhot 3
+https://stmv.panel.mivideo.pro/fmtvmundo3/fmtvmundo3/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="SERIES Y PELICULAS", FRECUENCIA MUSICAL EC
 https://v8.ciclano.io:1443/dostres/_definst_/dostres/playlist.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/93/b2/93b20146d534d4b089aae90e11bf775f.jpg" group-title="ENTRETENIMIENTO" , VALLEVISION DO
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/93/b2/93b20146d534d4b089aae90e11bf775f.jpg" group-title="SERIES Y PELICULAS" , VALLEVISION DO
 http://stream.mxiptv.org:25461/live/tvabierta/opentv/264.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/www.tenarenses.com/wp-content/uploads/2018/08/DSC_0076.jpg?resize=640%2C424&ssl=1" group-title="ENTRETENIMIENTO" , Tele Caribe DO
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.tenarenses.com/wp-content/uploads/2018/08/DSC_0076.jpg?resize=640%2C424&ssl=1" group-title="SERIES Y PELICULAS" , Tele Caribe DO
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://wmservice.com.do/images/banner.jpg" group-title="ENTRETENIMIENTO" ,  WMSHD 12
+#EXTINF:-1 tvg-logo="http://wmservice.com.do/images/banner.jpg" group-title="SERIES Y PELICULAS" ,  WMSHD 12
 http://cm.hostlagarto.com:8081/wmserviceHD/wmservicehd.myStream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="ENTRETENIMIENTO" , PHTV DO
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="SERIES Y PELICULAS" , PHTV DO
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 
  #EXTINF:-1 tvg-logo="https://ghtelevision.com/images/gh_television_logo_sm.png" group-title="ENTRETENIMIENTO" , GHTV DO
 http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8?fluxustv.m3u8
  
-#EXTINF:-1 group-logo="http://bhtv.pe/wp-content/uploads/2019/04/bhtv-logo-web-300x219.png"group-title="ENTRETENIMIENTO", BHTV 
+#EXTINF:-1 group-logo="http://bhtv.pe/wp-content/uploads/2019/04/bhtv-logo-web-300x219.png"group-title="SERIES Y PELICULAS", BHTV 
 https://5c3fb01839654.streamlock.net:554/iptvbhtv/livebhtvtv/chunklist_w2110583875.m3u8
  
-#EXTINF:-1 type="stream" channelId="-1" group="Rep. Dom." logo="https://3.bp.blogspot.com/-CIIL9YFIXIo/Xb4iX-kPD2I/AAAAAAAAooM/tQnM-j_g_cUzjj9yBr8BdZpgr0dCiOcVwCLcBGAsYHQ/s200/GDM%2BEstudioTV.png" group-title="ENTRETENIMIENTO" , GDM DO
+#EXTINF:-1 type="stream" channelId="-1" group="Rep. Dom." logo="https://3.bp.blogspot.com/-CIIL9YFIXIo/Xb4iX-kPD2I/AAAAAAAAooM/tQnM-j_g_cUzjj9yBr8BdZpgr0dCiOcVwCLcBGAsYHQ/s200/GDM%2BEstudioTV.png" group-title="SERIES Y PELICULAS" , GDM DO
 https://cm.hostlagarto.com:4445/gdmstudiotv/gdmstudiotv.myStream/chunks.m3u8
  
-#EXTINF:-1 tvg-logo="https://rec-onlinebolivia.com/wp-content/uploads/2019/02/logo-rec-online.jpg" group-title="ENTRETENIMIENTO" , REC ONLINE BO
+#EXTINF:-1 tvg-logo="https://rec-onlinebolivia.com/wp-content/uploads/2019/02/logo-rec-online.jpg" group-title="SERIES Y PELICULAS" , REC ONLINE BO
 http://america.tucableip.com:8181/reconline/live/tracks-v1a1/mono.m3u8
  
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.RKlMeeY5FJWfXURLiItI0wHaEK&pid=Api&P=0&w=270&h=152"group-title="ENTRETENIMIENTO" , READYTV DO
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.RKlMeeY5FJWfXURLiItI0wHaEK&pid=Api&P=0&w=270&h=152"group-title="SERIES Y PELICULAS" , READYTV DO
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
  
-#EXTINF:-1 tvg-logo="http://puñaltv.com/imagenes/logo%20de%20pu%C3%B1al%20tv.png" group-title="ENTRETENIMIENTO" , DANTV DO
+#EXTINF:-1 tvg-logo="http://puñaltv.com/imagenes/logo%20de%20pu%C3%B1al%20tv.png" group-title="SERIES Y PELICULAS" , DANTV DO
  
-#EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="ENTRETENIMIENTO" , FMHOT
+#EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="SERIES Y PELICULAS" , FMHOT
 https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8?PlaylistM3UCL
  
-#EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="ENTRETENIMIENTO" , Fmhot 2
-https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="ENTRETENIMIENTO" , Fmhot 3
-https://stmv.panel.mivideo.pro/fmtvmundo3/fmtvmundo3/playlist.m3u8?PlaylistM3UCL
 
 
 
