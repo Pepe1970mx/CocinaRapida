@@ -433,13 +433,13 @@ https://bein-plutolive-vo.akamaized.net/r/hlslive/bein.m3u8?chname=bein&pub=cd44
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 
-http://usuarios.club/stream/3177_TVPREMIUM/r3l/530.m3u8
+http://usuarios.club/stream/somosjovenes/YouTube/530.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2  
 http://156.96.44.13:8081/televall2021/142_.m3u8?md5=xZpuv2jKjnNyD-h3-y04wA&expires=1604745559
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports  
-http://usuarios.club/stream/3177_TVPREMIUM/r3l/527.m3u8
+http://usuarios.club/stream/somosjovenes/YouTube/527.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports 2 
 http://156.96.44.13:8081/televall2021/145_.m3u8?md5=xZpuv2jKjnNyD-h3-y04wA&expires=1604745559
@@ -451,7 +451,7 @@ http://156.96.44.13:8081/televall2021/64_.m3u8?md5=ZVtTA6m7a-Kkf0zgCnOgbA&expire
 https://d21r053hxdt5v1.cloudfront.net/live/cs01/live.isml/cs01.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TVC Deportes 
-http://usuarios.club/stream/3177_TVPREMIUM/r3l/837.m3u8
+http://usuarios.club/stream/somosjovenes/YouTube/837.m3u8
  
 
 
@@ -461,10 +461,10 @@ http://usuarios.club/stream/3177_TVPREMIUM/r3l/837.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=40.7308&deviceLon=-73.9975&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=fbbab74e-ef25-11ea-a685-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 group-title="MUSICA", Tele Hits
-http://usuarios.club/stream/3177_TVPREMIUM/r3l/91.m3u8
+http://usuarios.club/stream/somosjovenes/YouTube/91.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA" , NickMusic
-http://usuarios.club/stream/3177_TVPREMIUM/r3l/80.m3u8
+http://usuarios.club/stream/somosjovenes/YouTube/80.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", 24/7 Pop
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8?PlaylistM3UCL
