@@ -275,7 +275,7 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 https://linear02-i.akamaihd.net/hls/live/837816/energy/02.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , AMC 
-http://usuarios.club/stream/3177_TVPREMIUM/r3l/183.m3u8
+http://156.96.44.13:8081/televall2021/104_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , TNT 
 http://ingrid.ltd:25461/Cc1/Cc1/16734
