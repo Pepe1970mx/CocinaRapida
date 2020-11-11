@@ -294,7 +294,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e930009
 http://156.96.44.13:8081/televall2021/104_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , TNT 
-http://ingrid.ltd:25461/Cc1/Cc1/16734
+http://156.96.44.13:8081/televall2021/108_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Space 
 http://156.96.44.13:8081/televall2021/107_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
