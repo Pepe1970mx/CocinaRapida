@@ -297,7 +297,7 @@ http://156.96.44.13:8081/televall2021/104_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expir
 http://ingrid.ltd:25461/Cc1/Cc1/16734
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Space 
-http://usuarios.club/stream/3177_TVPREMIUM/r3l/83.m3u8
+http://156.96.44.13:8081/televall2021/107_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO 
 http://usuarios.club/stream/3177_TVPREMIUM/r3l/62.m3u8
