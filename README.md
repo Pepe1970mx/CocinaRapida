@@ -117,7 +117,7 @@ http://190.122.96.187:8888/http/004
 https://5c5c125d8dbaa.streamlock.net:1936/telecosta/telecosta/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="KIDS AND FAMILY", FOX channel
-http://156.96.44.13:8081/televall2021/85_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
+http://156.96.44.13:8081/televall2021/157_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY",  Distrito Comedia 
 http://156.96.44.13:8081/televall2021/82_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
@@ -293,7 +293,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e930009
 http://156.96.44.13:8081/televall2021/104_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , TNT 
-http://156.96.44.13:8081/televall2021/108_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
+http://156.96.44.13:8081/televall2021/156_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Space 
 http://156.96.44.13:8081/televall2021/107_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
