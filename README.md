@@ -311,7 +311,7 @@ http://usuarios.club/stream/3177_TVPREMIUM/r3l/63.m3u8
 http://156.96.44.13:8081/televall2021/103_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Premium Family
-http://usuarios.club/stream/3177_TVPREMIUM/r3l/49.m3u8
+http://156.96.44.13:8081/televall2021/176_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
 #EXTINF:-1 tvg-logo="http://orbittv.net/images/orbit_logo4.png" group-title="PREMIUM" , ORBITV DO
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
