@@ -187,7 +187,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe
 http://156.96.44.13:8081/televall2021/155_.m3u8?md5=NoqvJJPRn8ZWyhimiW5Iwg&expires=1604189225
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Disney Channel 
-http://156.96.44.13:8081/televall2021/169_.m3u8?md5=NoqvJJPRn8ZWyhimiW5Iwg&expires=1604189225
+http://156.96.44.13:8081/televall2021/234_.m3u8?md5=NoqvJJPRn8ZWyhimiW5Iwg&expires=1604189225
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Disney XD 
 http://156.96.44.13:8081/televall2021/171_.m3u8?md5=NoqvJJPRn8ZWyhimiW5Iwg&expires=1604189225
