@@ -379,7 +379,7 @@ https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/playlist.m3u8?PlaylistM3U
 https://stmv.panel.mivideo.pro/fmtvmundo3/fmtvmundo3/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="SERIES Y PELICULAS", FRECUENCIA MUSICAL EC
-https://v8.ciclano.io:1443/dostres/_definst_/dostres/playlist.m3u8?PlaylistM3UCL
+https://cdn-luis-8044-1.ciclano.io:1443/luis-8044-1/luis-8044-1/playlist.m3u8?ver=5.5.3&PlaylistM3UCL
 
 
 
