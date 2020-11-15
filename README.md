@@ -546,7 +546,7 @@ https://live.siete.us:1991/bestcablemusic/bestcablemusic/playlist.m3u8?PlaylistM
 https://5b38ce71f1f00.streamlock.net/8196/8196/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="MUSICA", MTV Lat.Am PA
-http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=212&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
  
 
 
