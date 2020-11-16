@@ -308,7 +308,7 @@ EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Golden Plus
 http://156.96.44.13:8081/televall2021/98_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
 EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO Plus
-http://156.96.44.13:8081/televall2021/107_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
+http://156.96.44.13:8081/televall2021/205_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO 
 http://156.96.44.13:8081/televall2021/154_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
