@@ -3,7 +3,7 @@
 https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO" , Las Estrellas 
-http://156.96.44.13:8081/televall2021/80_.m3u8?md5=CD29hwZS8ZBLJ2NldFVWYQ&expires=1604452683
+http://156.96.44.13:8081/televanll2021/80_.m3u8?md5=CD29hwZS8ZBLJ2NldFVWYQ&expires=1604452683
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Imagen_TV_logo.png/200px-Imagen_TV_logo.png" group-title="MEXICO",  Imagen TV
 http://156.96.44.13:8081/televall2021/76_.m3u8?md5=ZLx4BC2lWlEVZO0WvpdWTg&expires=1604110899 
@@ -196,7 +196,7 @@ http://156.96.44.13:8081/televall2021/234_.m3u8?md5=NoqvJJPRn8ZWyhimiW5Iwg&expir
 http://156.96.44.13:8081/televall2021/171_.m3u8?md5=NoqvJJPRn8ZWyhimiW5Iwg&expires=1604189225
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Tooncast
-http://156.96.44.13:8081/televall2021/171_.m3u8?md5=NoqvJJPRn8ZWyhimiW5Iwg&expires=1604189225
+http://156.96.44.13:8081/televall2021/119_.m3u8?md5=NoqvJJPRn8ZWyhimiW5Iwg&expires=1604189225
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Teen
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android+Browser&deviceModel=Android+Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=d0572f33-f189-11ea-ac99-0242ac110002&userId=&serverSideAds=true
