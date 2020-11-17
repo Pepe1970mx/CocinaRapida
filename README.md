@@ -205,7 +205,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b991420009
 https://cloudflare.streamgato.us:3283/live/acsnetworklive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="KIDS AND FAMILY" , Dreiko TV 
-https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8?PlaylistM3UCL
+https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY", TVRETROPALMARES 
 http://tvretropalmares.com:8090/hls/envivo.m3u8?PlaylistM3UCL
