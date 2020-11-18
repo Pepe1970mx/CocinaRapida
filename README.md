@@ -169,6 +169,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c0007
 #EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Pluto Kid Hallowen
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abeb21044ee0007f19d33/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=41.3888&deviceLon=2.1590&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=ES&sid=88936f6d-1674-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Pluto Kid Navidad
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?advertisingId=&appName=web&appVersion=5.11.0-1d883e1216be36c166cbf982f832a992718a0632&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=41.3888&deviceLon=2.1590&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=ES&sid=53ef521a-29ef-11eb-953f-0242ac110002&userId=&serverSideAds=true
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/125px-Boing.svg.png" group-title="KIDS AND FAMILY" , Boing 
 https://linear01-i.akamaihd.net/hls/live/837814/boing/02.m3u8
 
