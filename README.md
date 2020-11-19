@@ -133,14 +133,14 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007
 http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="KIDS AND FAMILY" , WOW TV 
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Atacama TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
 
 #EXTINF:-1 group-title="KIDS AND FAMILY" , Atacama TV
 https://v2.tustreaming.cl/atacamatv/live1/index.m3u8?PlaylistM3UCL
 
-
 #EXTINF:-1 group-title="KIDS AND FAMILY" , Canal 10
-https://panel.livetvvideo.net:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
+https://panel.livetvvideo.net:1936/8040/8040/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/Canal-11.jpg" group-title="KIDS AND FAMILY" , Telesistema 11
 http://ss3.domint.net:2114/t11_str/telesistema/playlist.m3u8
