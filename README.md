@@ -130,7 +130,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007
 
 
 #EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="KIDS AND FAMILY", FRECUENCIA MUSICAL 
-http://streaminglivehd.com:1935/8056/8056/playlist.m3u8
+https://streaminglivehd.com:1935/8056/8056/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="KIDS AND FAMILY" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
