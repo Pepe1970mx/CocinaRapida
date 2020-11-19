@@ -139,6 +139,9 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8#EXTINF:-1 tvg-lo
 https://v2.tustreaming.cl/atacamatv/live1/index.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 group-title="KIDS AND FAMILY" , Canal 10
+https://panel.livetvvideo.net:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/Canal-11.jpg" group-title="KIDS AND FAMILY" , Telesistema 11
 http://ss3.domint.net:2114/t11_str/telesistema/playlist.m3u8
 
