@@ -340,6 +340,9 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="PREMIUM", ZEE Mundo 
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
+#EXTINF:0 tvg-logo="" group-title="PREMIUM", HMTV
+http://156.96.44.13:8081/televall2021/96_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
+
 #EXTINF:0 tvg-logo="" group-title="PREMIUM", FlixTube
 https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
 
