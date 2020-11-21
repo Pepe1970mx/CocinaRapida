@@ -346,6 +346,9 @@ https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="PREMIUM", HMTV
 http://156.96.44.13:8081/televall2021/96_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
+#EXTINF:0 tvg-logo="" group-title="PREMIUM", All Peliculas
+http://190.3.169.119:8080/latina/latina/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:0 tvg-logo="" group-title="PREMIUM", FlixTube
 https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
 
