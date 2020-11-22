@@ -205,8 +205,8 @@ http://156.96.44.13:8081/televall2021/169_.m3u8?md5=NoqvJJPRn8ZWyhimiW5Iwg&expir
 #EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Disney XD 
 http://156.96.44.13:8081/televall2021/171_.m3u8?md5=NoqvJJPRn8ZWyhimiW5Iwg&expires=1604189225
 
-
-#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Nick
+#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Disney Jr
+http://156.96.44.13:8081/televall2021/170_.m3u8?md5=oSeVaZZno1fWVz-hgfYNCw&expires=1606087923
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Teen
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android+Browser&deviceModel=Android+Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=d0572f33-f189-11ea-ac99-0242ac110002&userId=&serverSideAds=true
