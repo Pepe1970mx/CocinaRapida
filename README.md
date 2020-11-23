@@ -340,6 +340,10 @@ http://156.96.44.13:8081/televall2021/103_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expir
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Premium Family
 http://156.96.44.13:8081/televall2021/176_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Cine Club
+https://Stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="SERIES Y PELICULAS" , Fmhot 2
 https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/playlist.m3u8?PlaylistM3UCL
 
