@@ -304,6 +304,9 @@ http://156.96.44.13:8081/televall2021/107_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expir
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FX
 http://156.96.44.13:8081/televall2021/86_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Warner TV
+http://156.96.44.13:8081/televall2021/86_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
+
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Golden Plus
 http://156.96.44.13:8081/televall2021/98_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
@@ -329,7 +332,7 @@ http://156.96.44.13:8081/televall2021/154_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expir
 http://156.96.44.13:8081/televall2021/203_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO Family 
-http://156.96.44.13:8081/televall2021/203_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
+http://156.96.44.13:8081/televall2021/204_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Premium Action 
 http://156.96.44.13:8081/televall2021/103_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
