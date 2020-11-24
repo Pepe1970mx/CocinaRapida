@@ -183,7 +183,7 @@ http://156.96.44.13:8081/televall2021/118_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expir
 #EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Nick Clasico
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.9348&deviceLon=-97.4117&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=3cffdfd2-0d84-11eb-9e7d-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Nick Jr. 
+#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Nick Jr.
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=40.7308&deviceLon=-73.9975&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=df2364b1-f791-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
 
 
@@ -196,7 +196,7 @@ http://156.96.44.13:8081/televall2021/169_.m3u8?md5=NoqvJJPRn8ZWyhimiW5Iwg&expir
 #EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Disney XD 
 http://156.96.44.13:8081/televall2021/171_.m3u8?md5=NoqvJJPRn8ZWyhimiW5Iwg&expires=1604189225
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Disney Jr
+#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Disney Junior
 http://156.96.44.13:8081/televall2021/170_.m3u8?md5=oSeVaZZno1fWVz-hgfYNCw&expires=1606087923
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY" , Teen
@@ -235,7 +235,7 @@ http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="DOC Y NOT", DW AMERICA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="DOC Y NOT", DWTV
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="DOC Y NOT", RT Español
@@ -307,7 +307,7 @@ http://156.96.44.13:8081/televall2021/86_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expire
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Warner TV
 http://156.96.44.13:8081/televall2021/178_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Golden Plus
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Golden Premier
 http://156.96.44.13:8081/televall2021/98_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Pluto Acción
@@ -362,10 +362,10 @@ https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://orbittv.net/images/orbit_logo4.png" group-title="PREMIUM" , ORBITV DO
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:0 tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="PREMIUM", ZEE Mundo 
+#EXTINF:0 tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="PREMIUM", Zee Cinema 
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , GENtv
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Mi Gente TV
 https://inliveserver.com:1936/14030/14030/.m3u8
 
  #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="PREMIUM" , Retro Plus TV 2
@@ -401,13 +401,13 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f062
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS", Cine Online 
 https://srv3.zcast.com.br/diego3294/diego3294/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINAS", Cinema Dinamita
+#EXTINF:-1 tvg-logo=" " group-title="LATINAS", Cinema Dinamita Mx
 http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/1
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS", TV Azteca Cinema
 http://156.96.44.13:8081/televall2021/109_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINAS", De Película Plus
+#EXTINF:-1 tvg-logo=" " group-title="LATINAS", De Película HD
 http://156.96.44.13:8081/televall2021/106_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
 
