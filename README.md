@@ -20,10 +20,10 @@ http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="MEXICO" , Azteca 7 
 http://156.96.44.13:8081/televall2021/74_.m3u8?md5=wVe%2F4Ruje%2FQV5FzEraaf-g&expires=1606039140q
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="MEXICO" , a mas
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="MEXICO" , A+
 https://aztkhlslive6-i.akamaihd.net:443/hls/live/1019872/4m4s8qo47rr3/master.m3u8
  
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EM8Ks47kwqSGMiH4twcCBgAAAA&pid=Api&P=0&w=175&h=43" group-title="MEXICO", Canal Nueve
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EM8Ks47kwqSGMiH4twcCBgAAAA&pid=Api&P=0&w=175&h=43" group-title="MEXICO", El Nueve
 http://156.96.44.13:8081/televall2021/78_.m3u8?md5=PtyUfNGhchNQbcKReUA0KA&expires=1604112703
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/quiero-tv-en-vivo-768x480.png" group-title="MEXICO" , Quiero TV
@@ -80,7 +80,7 @@ https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINO", Telemundo 
+#EXTINF:-1 tvg-logo=" " group-title="LATINO", Telemundo Internacional 
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Univisión 
