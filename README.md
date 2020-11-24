@@ -23,10 +23,10 @@ http://156.96.44.13:8081/televall2021/74_.m3u8?md5=wVe%2F4Ruje%2FQV5FzEraaf-g&ex
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="MEXICO" , A+
 https://aztkhlslive6-i.akamaihd.net:443/hls/live/1019872/4m4s8qo47rr3/master.m3u8
  
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EM8Ks47kwqSGMiH4twcCBgAAAA&pid=Api&P=0&w=175&h=43" group-title="MEXICO", El Nueve
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EM8Ks47kwqSGMiH4twcCBgAAAA&pid=Api&P=0&w=175&h=43" group-title="MEXICO", Nueve
 http://156.96.44.13:8081/televall2021/78_.m3u8?md5=PtyUfNGhchNQbcKReUA0KA&expires=1604112703
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/quiero-tv-en-vivo-768x480.png" group-title="MEXICO" , Quiero TV
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/quiero-tv-en-vivo-768x480.png" group-title="MEXICO" , Gala TV
 https://quierotvlive.tk/httplive/playlist_playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="MEXICO", Canal once 
@@ -86,23 +86,23 @@ https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Univisión 
 http://156.96.44.13:8081/televall2021/59_.m3u8?md5=ZVtTA6m7a-Kkf0zgCnOgbA&expires=1604473555
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINO", Galavision
+#EXTINF:-1 tvg-logo=" " group-title="LATINO", Galavisión
 http://156.96.44.13:8081/televall2021/63_.m3u8?md5=ZVtTA6m7a-Kkf0zgCnOgbA&expires=1604473555
 
 #EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/Azteca-Honduras.jpg" group-title="LATINO", Azteca Honduras
 http://190.122.96.187:8888/http/002
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINO" , Tele Centro 
+#EXTINF:-1 tvg-logo=" " group-title="LATINO" , Telecentro (República Dominicana)
 http://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8
 
-#EXTINF:0 tvg-logo="http://www.honduras504.com/img/tv/Telecadena-7-y4.jpg" group-title="LATINO", Telecadena 7 Y 4 
+#EXTINF:0 tvg-logo="http://www.honduras504.com/img/tv/Telecadena-7-y4.jpg" group-title="LATINO", Telecadena 7 y 4 
 http://stream.mxiptv.org:25461/live/tvabierta/opentv/341.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-5-el-lider-honduras-logo-FED83D8EE6-seeklogo.com.png" group-title="LATINO" , Canal 5 El Líder 
 https://bcovlive-a.akamaihd.net/8520a5c6a0384300b735385e02e2f582/us-west-2/6056665196001/profile_3/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="LATINO", City TV
+#EXTINF:-1 tvg-logo="" group-title="LATINO", City Television
 http://190.122.96.187:8888/http/004
 
 #EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/#&gid=1&pid=1" group-title="LATINO", Telecosta 
@@ -404,7 +404,7 @@ https://srv3.zcast.com.br/diego3294/diego3294/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS", Cinema Dinamita
 http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/1
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINAS", Az Cinema
+#EXTINF:-1 tvg-logo=" " group-title="LATINAS", TV Azteca Cinema
 http://156.96.44.13:8081/televall2021/109_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS", De Película Plus
