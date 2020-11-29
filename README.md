@@ -1,5 +1,4 @@
 
-
 #EXTINF:-1, shaw mendez
 https://knntyrcxoy.mstreamcdn.com/r/eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MDY3MjAxMjMsImRhdGEiOlsiMjgwNjoxMGE2OjE0OjJlMTk6NDkyMjoxNzljOjQ3MDQ6OGI5MiIsImZnempwOTZwYnV1NSIsIm4iLDEsIjY3MjRjNjY4YzM5NTA5NGYwZTg4YmQxY2YwYWVmMTc2Il19.y4dSl_WSWufrYvf13tysbASnf6-JOfNHZ5VXdxDrNyk.mp4
 
@@ -586,9 +585,6 @@ https://5b38ce71f1f00.streamlock.net/8196/8196/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="MUSICA", MTV
 http://156.96.44.13:8081/televall2021/128_.m3u8?md5=Ytv7NMTb8q1khoMxIRj0Rg&expires=1605495358
- 
-
-
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", Rock TV
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
