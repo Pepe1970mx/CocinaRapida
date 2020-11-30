@@ -80,6 +80,44 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="DOC Y NOT", DWTV
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="DOC Y NOT", RT Español
+https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="DOC Y NOT" , Investigation Discovery
+http://156.96.44.13:8081/televall2021/94_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
+
+#EXTINF:-1 tvg-logo=" " group-title="DOC Y NOT", Pluto Investigation
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=e271eb73-ef8c-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo=" " group-title="DOC Y NOT", Pluto Misterios Sin Resolver
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=f9c64ab1-1414-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo=" " group-title="DOC Y NOT", Pluto History
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=9bbe753c-ef32-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo=" " group-title="DOC Y NOT", Pluto FBI
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67d41b93312100076f3fca/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=e271eb73-ef8c-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo=" " group-title="DOC Y NOT",  Pluto New Detectives
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=5a753404-1671-11eb-8c1a-0242ac110002&userId=&serverSideAds=truesion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=21.3563&deviceLon=-97.6896&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=f83fdf19-0d08-11eb-a6e3-0242ac110002&userId=&serverSideAds=true
+
+
+#EXTINF:-1 tvg-logo=" " group-title="DOC Y NOT",  Pluto Animals
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5291&deviceLon=-97.4497&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=25518983-f45d-11ea-a685-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo=" " group-title="DOC Y NOT",  Pluto Naturaleza
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=21.3563&deviceLon=-97.6896&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=f83fdf19-0d08-11eb-a6e3-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="" group-title="DOC Y NOT", NASA TV
+http://a93e5452-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/10414700/playlist.m3u8?authType=IP_BASED_IDENTITY&appType=12&appVersion=1&cdnHost=uhs-akamai.ustream.tv/&sgn=0f7e387ad3e629da36c8ddbd7f1158a0ae27cd98
+
+#EXTINF:-1 group-title="DOC Y NOT" , The Weather Network
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8?PlaylistM3UCL
+
+
 
 
 
@@ -109,7 +147,7 @@ https://bcovlive-a.akamaihd.net/8520a5c6a0384300b735385e02e2f582/us-west-2/60566
 http://190.122.96.187:8888/http/004
 
 #EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/#&gid=1&pid=1" group-title="LATINO", Telecosta 
-https://5c5c125d8dbaa.streamlock.net:1936/telecosta/telecosta/playlist.m3u8
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
 
 
@@ -129,7 +167,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007
 
 
 #EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="KIDS AND FAMILY", FRECUENCIA MUSICAL 
-https://streaminglivehd.com:1935/8056/8056/playlist.m3u8
+https://5c21f7ec1999d.streamlock.net/8070/8070/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="KIDS AND FAMILY" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
@@ -214,69 +252,40 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009
 http://156.96.44.13:8081/televall2021/119_.m3u8?md5=NoqvJJPRn8ZWyhimiW5Iwg&expires=1604189225
 
 
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.DBorsB6-EyN6FETFx-kwjQAAAA&pid=Api&P=0&w=300&h=300" group-title="KIDS AND FAMILY", ACS NETWORK 
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.DBorsB6-EyN6FETFx-kwjQAAAA&pid=Api&P=0&w=300&h=300" group-title="RETRO", ACS NETWORK 
 https://cloudflare.streamgato.us:3283/live/acsnetworklive.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="KIDS AND FAMILY" , Dreiko TV 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="RETRO" , Dreiko TV 
 https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w1013313508.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS AND FAMILY", TVRETROPALMARES 
+#EXTINF:-1 tvg-logo=" " group-title="RETRO", TVRETROPALMARES 
 http://tvretropalmares.com:8090/hls/envivo.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="KIDS AND FAMILY" , Tele Más 
+#EXTINF:-1 group-title="RETRO" , Tele Más 
 https://www.webmedialive.org:1936/8024/8024/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="KIDS AND FAMILY", TELERED 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="RETRO", TELERED 
 http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="KIDS AND FAMILY", MASTV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="RETRO", MASTV 
 http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="http://www.mi-television.com/uploads/1/0/3/0/103099212/new-image-for-youtube_orig.png" group-title="KIDS AND FAMILY", MITV 
+#EXTINF:-1 tvg-logo="http://www.mi-television.com/uploads/1/0/3/0/103099212/new-image-for-youtube_orig.png" group-title="RETRO", MITV 
 http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="RETRO" , Retro Plus TV 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo=" " group-title="FAMILY" , Pluto Family 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=71f1da86-eee5-11ea-ac99-0242ac110002&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO Family 
+http://156.96.44.13:8081/televall2021/204_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="DOC Y NOT", DWTV
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="DOC Y NOT", RT Español
-https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="DOC Y NOT" , Investigation Discovery
-http://156.96.44.13:8081/televall2021/94_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
-
-#EXTINF:-1 tvg-logo=" " group-title="DOC Y NOT", Pluto Investigation
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=e271eb73-ef8c-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo=" " group-title="DOC Y NOT", Pluto Misterios Sin Resolver
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=f9c64ab1-1414-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo=" " group-title="DOC Y NOT", Pluto History
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=9bbe753c-ef32-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo=" " group-title="DOC Y NOT", Pluto FBI
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67d41b93312100076f3fca/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=e271eb73-ef8c-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo=" " group-title="DOC Y NOT",  Pluto New Detectives
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=5a753404-1671-11eb-8c1a-0242ac110002&userId=&serverSideAds=truesion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=21.3563&deviceLon=-97.6896&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=f83fdf19-0d08-11eb-a6e3-0242ac110002&userId=&serverSideAds=true
-
-
-#EXTINF:-1 tvg-logo=" " group-title="DOC Y NOT",  Pluto Animals
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5291&deviceLon=-97.4497&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=25518983-f45d-11ea-a685-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo=" " group-title="DOC Y NOT",  Pluto Naturaleza
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=21.3563&deviceLon=-97.6896&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=f83fdf19-0d08-11eb-a6e3-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="" group-title="DOC Y NOT", NASA TV
-http://a93e5452-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/10414700/playlist.m3u8?authType=IP_BASED_IDENTITY&appType=12&appVersion=1&cdnHost=uhs-akamai.ustream.tv/&sgn=0f7e387ad3e629da36c8ddbd7f1158a0ae27cd98
-
-#EXTINF:-1 group-title="DOC Y NOT" , The Weather Network
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8?PlaylistM3UCL
-
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Premium Family
+http://156.96.44.13:8081/televall2021/176_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
 
 
@@ -315,6 +324,18 @@ http://156.96.44.13:8081/televall2021/178_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expir
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Golden Plus
 http://156.96.44.13:8081/televall2021/98_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO Plus
+http://156.96.44.13:8081/televall2021/205_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO 
+http://156.96.44.13:8081/televall2021/154_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO 2 
+http://156.96.44.13:8081/televall2021/203_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Premium Action 
+http://156.96.44.13:8081/televall2021/103_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
+
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Pluto Acción
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=97c7d537-1741-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
 
@@ -327,32 +348,17 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d0007
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Pluto Cine Estelar
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.7.1-a6476e5c6aae81513d57183396914e3b74493662&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=6f083dbf-eb33-11ea-bd9c-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO Plus
-http://156.96.44.13:8081/televall2021/205_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Pluto SCIFI
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO 
-http://156.96.44.13:8081/televall2021/154_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO 2 
-http://156.96.44.13:8081/televall2021/203_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO Family 
-http://156.96.44.13:8081/televall2021/204_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Premium Action 
-http://156.96.44.13:8081/televall2021/103_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Premium Family
-http://156.96.44.13:8081/televall2021/176_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Cine Club
 https://Stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="PREMIUM" , Fmhot 2
+#EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="PREMIUM" , FM 2
 https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="PREMIUM" , Fmhot 3
+#EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="PREMIUM" , FM 3
 https://stmv.panel.mivideo.pro/fmtvmundo3/fmtvmundo3/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:0 tvg-logo="" group-title="PREMIUM", HMTV
@@ -373,8 +379,7 @@ https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Mi Gente TV
 https://inliveserver.com:1936/14030/14030/.m3u8
 
- #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="PREMIUM" , Retro Plus TV 2
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+ 
 
 
 
@@ -392,34 +397,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009
 
 #EXTINF:-1 tvg-logo=" " group-title="TERROR" , Pluto Novelas Triller
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=34.0729&deviceLon=-118.2606&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=9d2bf80e-eee0-11ea-a685-0242ac110002&userId=&serverSideAds=true
-
-
-
-
-
-#EXTINF:-1 tvg-logo=" " group-title="LATINAS" , Pluto Cine Latino 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=64589062-ef97-11ea-b899-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo=" " group-title="LATINAS" , Pluto Cine Latino2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=36.1685&deviceLon=-115.1164&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=0ca3beff-0523-11eb-a59f-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo=" " group-title="LATINAS", Cine Online 
-https://srv3.zcast.com.br/diego3294/diego3294/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="LATINAS", Cinema Dinamita Mx
-http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/1
-
-#EXTINF:-1 tvg-logo=" " group-title="LATINAS", TV Azteca Cinema
-http://156.96.44.13:8081/televall2021/109_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
-
-#EXTINF:-1 tvg-logo=" " group-title="LATINAS", De Película HD
-http://156.96.44.13:8081/televall2021/106_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
-
-
-#EXTINF:-1 tvg-logo=" " group-title="FAMILY" , Pluto Family 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=71f1da86-eee5-11ea-ac99-0242ac110002&userId=&serverSideAds=true
-
-
 
 
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/93/b2/93b20146d534d4b089aae90e11bf775f.jpg" group-title="LATINO PELICULAS" , VALLEVISION DO
@@ -453,6 +430,30 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
  
 #EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="LATINO PELICULAS" , FMHOT
 https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-logo=" " group-title="LATINAS" , Pluto Cine Latino 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=64589062-ef97-11ea-b899-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo=" " group-title="LATINAS" , Pluto Cine Latino2
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=36.1685&deviceLon=-115.1164&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=0ca3beff-0523-11eb-a59f-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo=" " group-title="LATINAS", Cine Online 
+https://srv3.zcast.com.br/diego3294/diego3294/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="LATINAS", Cinema Dinamita Mx
+http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/1
+
+#EXTINF:-1 tvg-logo=" " group-title="LATINAS", TV Azteca Cinema
+http://156.96.44.13:8081/televall2021/109_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
+
+#EXTINF:-1 tvg-logo=" " group-title="LATINAS", De Película HD
+http://156.96.44.13:8081/televall2021/106_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
+
+
+
+
+
  
 
 
