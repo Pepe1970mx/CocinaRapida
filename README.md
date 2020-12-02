@@ -1,7 +1,4 @@
 
-#EXTINF:-1, shaw mendez
-https://knntyrcxoy.mstreamcdn.com/r/eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MDY3MjAxMjMsImRhdGEiOlsiMjgwNjoxMGE2OjE0OjJlMTk6NDkyMjoxNzljOjQ3MDQ6OGI5MiIsImZnempwOTZwYnV1NSIsIm4iLDEsIjY3MjRjNjY4YzM5NTA5NGYwZTg4YmQxY2YwYWVmMTc2Il19.y4dSl_WSWufrYvf13tysbASnf6-JOfNHZ5VXdxDrNyk.mp4
-
 
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg400.jpg?v=1515007950", Azteca Uno
 https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
@@ -75,7 +72,7 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w1862368642.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/4/4b/Mexiquense_tv.jpg/revision/latest?cb=20170525194804&path-prefix=es" group-title="MEXICO" , Mexiquense TV
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/4/4b/Mexiquense_tv.jpg/revision/latest?cb=20170525194804&path-prefix=es" group-title="MEXICO" , Mexiquense Noticias 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/4/4b/Mexiquense_tv.jpg/revision/latest?cb=20170525194804&path-prefix=es" group-title="MEXICO" , Az Noticias 
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
 
 
@@ -281,10 +278,10 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 #EXTINF:-1 tvg-logo=" " group-title="FAMILY" , Pluto Family 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=71f1da86-eee5-11ea-ac99-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO Family 
+#EXTINF:-1 tvg-logo=" " group-title="FAMILY" , HBO Family 
 http://156.96.44.13:8081/televall2021/204_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Premium Family
+#EXTINF:-1 tvg-logo=" " group-title="FAMILY" , FOX Premium Family
 http://156.96.44.13:8081/televall2021/176_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
 
@@ -321,7 +318,7 @@ http://156.96.44.13:8081/televall2021/86_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expire
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Warner TV
 http://156.96.44.13:8081/televall2021/178_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Golden Plus
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Golden Premier
 http://156.96.44.13:8081/televall2021/98_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO Plus
@@ -447,7 +444,7 @@ http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwusus
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS", TV Azteca Cinema
 http://156.96.44.13:8081/televall2021/109_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINAS", De Película HD
+#EXTINF:-1 tvg-logo=" " group-title="LATINAS", De Película Clásico
 http://156.96.44.13:8081/televall2021/106_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
 
