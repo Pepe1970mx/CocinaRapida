@@ -21,10 +21,10 @@ http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="MEXICO" , Azteca 7 
 http://156.96.44.13:8081/televall2021/74_.m3u8?md5=wVe%2F4Ruje%2FQV5FzEraaf-g&expires=1606039140q
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="MEXICO" , a+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="MEXICO" , A+
 https://aztkhlslive6-i.akamaihd.net:443/hls/live/1019872/4m4s8qo47rr3/master.m3u8
  
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EM8Ks47kwqSGMiH4twcCBgAAAA&pid=Api&P=0&w=175&h=43" group-title="MEXICO", Gala TV
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EM8Ks47kwqSGMiH4twcCBgAAAA&pid=Api&P=0&w=175&h=43" group-title="MEXICO", Canal 9
 http://156.96.44.13:8081/televall2021/78_.m3u8?md5=PtyUfNGhchNQbcKReUA0KA&expires=1604112703
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/quiero-tv-en-vivo-768x480.png" group-title="MEXICO" , Quiero TV
@@ -36,7 +36,7 @@ https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo = "https://i.pinimg.com/280x280_RS/01/ca/56/01ca569f92b45cecb0cf738a912cfea0.jpg" group-title = "MEXICO", Telemax
 http://s5.mexside.net:1935/telemax/telemax/chunklist_w1982711424.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qO0nkZz.png" group-title="MEXICO" , ADN 40 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qO0nkZz.png" group-title="MEXICO" , ADN 40 
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO" , Canal Catorce
@@ -77,7 +77,7 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="DOC Y NOT", DWTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="DOC Y NOT", DW
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="DOC Y NOT", RT Español
@@ -118,16 +118,16 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 
 
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINO", Telemundo Internacional 
+#EXTINF:-1 tvg-logo=" " group-title="LATINO", Telemundo  
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINO", Univisión 
+#EXTINF:-1 tvg-logo=" " group-title="LATINO", Univisión Puerto Rico
 http://156.96.44.13:8081/televall2021/59_.m3u8?md5=ZVtTA6m7a-Kkf0zgCnOgbA&expires=1604473555
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Galavisión
 http://156.96.44.13:8081/televall2021/63_.m3u8?md5=ZVtTA6m7a-Kkf0zgCnOgbA&expires=1604473555
 
-#EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/Azteca-Honduras.jpg" group-title="LATINO", Azteca Honduras
+#EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/Azteca-Honduras.jpg" group-title="LATINO", Azteca Guatemala
 http://190.122.96.187:8888/http/002
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO" , Telecentro (República Dominicana)
@@ -284,6 +284,37 @@ http://156.96.44.13:8081/televall2021/204_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expir
 #EXTINF:-1 tvg-logo=" " group-title="FAMILY" , FOX Premium Family
 http://156.96.44.13:8081/televall2021/176_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/93/b2/93b20146d534d4b089aae90e11bf775f.jpg" group-title="LATINO PELICULAS" , VALLEVISION DO
+http://stream.mxiptv.org:25461/live/tvabierta/opentv/264.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.tenarenses.com/wp-content/uploads/2018/08/DSC_0076.jpg?resize=640%2C424&ssl=1" group-title="LATINO PELICULAS" , Tele Caribe DO
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://wmservice.com.do/images/banner.jpg" group-title="LATINO PELICULAS" ,  WMSHD 12
+http://cm.hostlagarto.com:8081/wmserviceHD/wmservicehd.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="LATINO PELICULAS" , PHTV DO
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
+
+ #EXTINF:-1 tvg-logo="https://ghtelevision.com/images/gh_television_logo_sm.png" group-title="LATINO PELICULAS" , GHTV DO
+http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 group-logo="http://bhtv.pe/wp-content/uploads/2019/04/bhtv-logo-web-300x219.png"group-title="LATINO PELICULAS", BHTV 
+https://5c3fb01839654.streamlock.net:554/iptvbhtv/livebhtvtv/chunklist_w2110583875.m3u8
+ 
+#EXTINF:-1 type="stream" channelId="-1" group="Rep. Dom." logo="https://3.bp.blogspot.com/-CIIL9YFIXIo/Xb4iX-kPD2I/AAAAAAAAooM/tQnM-j_g_cUzjj9yBr8BdZpgr0dCiOcVwCLcBGAsYHQ/s200/GDM%2BEstudioTV.png" group-title="LATINO PELICULAS" , GDM DO
+https://cm.hostlagarto.com:4445/gdmstudiotv/gdmstudiotv.myStream/chunks.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://rec-onlinebolivia.com/wp-content/uploads/2019/02/logo-rec-online.jpg" group-title="LATINO PELICULAS" , REC ONLINE BO
+http://america.tucableip.com:8181/reconline/live/tracks-v1a1/mono.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.RKlMeeY5FJWfXURLiItI0wHaEK&pid=Api&P=0&w=270&h=152"group-title="LATINO PELICULAS" , READYTV DO
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://puñaltv.com/imagenes/logo%20de%20pu%C3%B1al%20tv.png" group-title="LATINO PELICULAS" , DANTV DO
+ 
+#EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="LATINO PELICULAS" , FMHOT
+https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo=" " group-title="SERIES" , Energy 
@@ -376,11 +407,7 @@ https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Mi Gente TV
 https://inliveserver.com:1936/14030/14030/.m3u8
 
- 
-
-
-
-#EXTINF:-1 tvg-logo=" " group-title="TERROR", Pluto Historias de Ultratumba
+ #EXTINF:-1 tvg-logo=" " group-title="TERROR", Pluto Historias de Ultratumba
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=c2849db8-1412-11eb-bde1-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo=" " group-title="TERROR", Pluto Terror
@@ -396,37 +423,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=34.0729&deviceLon=-118.2606&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=9d2bf80e-eee0-11ea-a685-0242ac110002&userId=&serverSideAds=true
 
 
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/93/b2/93b20146d534d4b089aae90e11bf775f.jpg" group-title="LATINO PELICULAS" , VALLEVISION DO
-http://stream.mxiptv.org:25461/live/tvabierta/opentv/264.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/www.tenarenses.com/wp-content/uploads/2018/08/DSC_0076.jpg?resize=640%2C424&ssl=1" group-title="LATINO PELICULAS" , Tele Caribe DO
-http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://wmservice.com.do/images/banner.jpg" group-title="LATINO PELICULAS" ,  WMSHD 12
-http://cm.hostlagarto.com:8081/wmserviceHD/wmservicehd.myStream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="LATINO PELICULAS" , PHTV DO
-https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
-
- #EXTINF:-1 tvg-logo="https://ghtelevision.com/images/gh_television_logo_sm.png" group-title="LATINO PELICULAS" , GHTV DO
-http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8?fluxustv.m3u8
- 
-#EXTINF:-1 group-logo="http://bhtv.pe/wp-content/uploads/2019/04/bhtv-logo-web-300x219.png"group-title="LATINO PELICULAS", BHTV 
-https://5c3fb01839654.streamlock.net:554/iptvbhtv/livebhtvtv/chunklist_w2110583875.m3u8
- 
-#EXTINF:-1 type="stream" channelId="-1" group="Rep. Dom." logo="https://3.bp.blogspot.com/-CIIL9YFIXIo/Xb4iX-kPD2I/AAAAAAAAooM/tQnM-j_g_cUzjj9yBr8BdZpgr0dCiOcVwCLcBGAsYHQ/s200/GDM%2BEstudioTV.png" group-title="LATINO PELICULAS" , GDM DO
-https://cm.hostlagarto.com:4445/gdmstudiotv/gdmstudiotv.myStream/chunks.m3u8
- 
-#EXTINF:-1 tvg-logo="https://rec-onlinebolivia.com/wp-content/uploads/2019/02/logo-rec-online.jpg" group-title="LATINO PELICULAS" , REC ONLINE BO
-http://america.tucableip.com:8181/reconline/live/tracks-v1a1/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.RKlMeeY5FJWfXURLiItI0wHaEK&pid=Api&P=0&w=270&h=152"group-title="LATINO PELICULAS" , READYTV DO
-http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://puñaltv.com/imagenes/logo%20de%20pu%C3%B1al%20tv.png" group-title="LATINO PELICULAS" , DANTV DO
- 
-#EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="LATINO PELICULAS" , FMHOT
-https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS" , Pluto Cine Latino 
@@ -467,10 +466,10 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=8da1fbed-166b-11eb-bde1-0242ac110002&userId=&serverSideAds=true
 
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", BeIN 2
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", BeIN Español
 http://156.96.44.13:8081/televall2021/255_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", BeIN 1
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", BeIN Xtra
 https://bein-plutolive-vo.akamaized.net/r/hlslive/bein.m3u8?chname=bein&pub=cd44c23c-4796-475f-bcb1-b846bed4cf40&ctype=0&acsurl=pluto-acs-lb.adsparx.net&mcdn=bein-plutolive-vo.akamaized.net&userParams=ccp%3DeyJkZXZpY2VJZCI6IjQyYzI5MTE1LTEzMjktNDFmYi05ZTMwLTVlYTI5MjllY2ZlMyIsImRldmljZVZlcnNpb24iOiI0LjAiLCJhcHBWZXJzaW9uIjoiNS45LjEtZTBiMzdlZjc2NTA0ZDIzYzZiZGM4MTU3ODEzZDEzMzMzZGZhMzNhMyIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VNYWtlIjoiQW5kcm9pZCtCcm93c2VyIiwiYWR2ZXJ0aXNpbmdJZCI6IiIsImRldmljZUxhdCI6IjQwLjcxNTciLCJkZXZpY2VMb24iOiItNzQuMDAwMCIsImRldmljZUROVCI6ImZhbHNlIiwiZGV2aWNlTW9kZWwiOiJBbmRyb2lkK0Jyb3dzZXIiLCJ1c2VySWQiOiIiLCJhcHBOYW1lIjoid2ViIiwiYXJjaGl0ZWN0dXJlIjoiIiwiaW5jbHVkZUV4dGVuZGVkRXZlbnRzIjoiZmFsc2UiLCJzcmNQcm90b2NvbCI6Imh0dHBzIiwic3RpdGNoZXJWZXJzaW9uIjoiMi40Ni4wIiwic3RpdGNoZXJSZXFJZCI6IjQ2Mzg2YWQzLTI5MGYtNDg1MS1iZjNiLTk0Yzc4NjRhZDNmYyIsImFkSW1wcmVzc2lvblByb3h5Ijp0cnVlLCJpcF9hZGRyZXNzIjoiMjgwNjoxMGE2OjE0OjRjNmQ6Yzk1MTo0NjExOjVjMjQ6ZTYzNyIsImRldmljZV91YSI6Ik1vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCA4LjEuMDsgRFVBLUxYMyBCdWlsZC9IT05PUkRVQS1MWDM7IHd2KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzQuMCBDaHJvbWUvODYuMC40MjQwLjExMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiIsInRyYW5zYWN0aW9uX2lkIjoiYmNhZWYyMzgtZDQyNi00ZGIyLTk1NTQtZGZkZDhlMzE3ZTdlIiwiZGV2aWNlVXNlckFnZW50IjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDguMS4wOyBEVUEtTFgzIEJ1aWxkL0hPTk9SRFVBLUxYMzsgd3YpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vNC4wIENocm9tZS84Ni4wLjQyNDAuMTEwIE1vYmlsZSBTYWZhcmkvNTM3LjM2IiwiaXBBZGRyZXNzIjoiMjgwNjoxMGE2OjE0OjRjNmQ6Yzk1MTo0NjExOjVjMjQ6ZTYzNyIsImNoSWQiOiI1ZGY5NzVlMmIyN2NmNTAwMDkyMWMxMDIiLCJ0aW1lbGluZUlkIjoiNWZhMDBhODIwNGUzYTQwMDA3NDFiMGQwIiwiY2xpcElkIjoiNWUzZTA2MjYyMTJhODUwMDA5NzNiYTFkIiwic2Vzc2lvbklkIjoiMGJjOTk2OTItMWYxZS0xMWViLTliYWQtMDI0MmFjMTEwMDAyIiwiZXBpc29kZUlkIjoiNWU4YTQ2ODFiMTU2ZDUwMDA3OGNhY2IxIiwicGFydG5lckNvZGUiOiJiZUlOIFNwb3J0cyIsInBhcnRuZXJfaWQiOiI1ZTQ3MzIzMDdjYmYzODAwMDljYTA2ZjYiLCJvcmlnaW4iOiJhZFNwYXJ4IiwiZnJvbV9zdGl0Y2hlciI6dHJ1ZX0%3D
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Sky Sports News
@@ -504,7 +503,7 @@ http://usuarios.club/stream/somosjovenes/YouTube/837.m3u8
 #EXTINF:-1 group-title="MUSICA", Music Live
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=40.7308&deviceLon=-73.9975&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=fbbab74e-ef25-11ea-a685-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 group-title="MUSICA", Telehit Plus
+#EXTINF:-1 group-title="MUSICA", Telehit
 http://156.96.44.13:8081/televall2021/150_.m3u8?md5=ZVtTA6m7a-Kkf0zgCnOgbA&expires=1604473555
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA" , Nick Music
