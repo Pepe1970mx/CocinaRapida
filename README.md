@@ -19,7 +19,7 @@ http://156.96.44.13:8081/televall2021/79_.m3u8?md5=ZVtTA6m7a-Kkf0zgCnOgbA&expire
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
  
 #EXTINF:-1 tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="MEXICO" , Azteca 7 
-http://156.96.44.13:8081/televall2021/74_.m3u8?md5=wVe%2F4Ruje%2FQV5FzEraaf-g&expires=1606039140q
+http://156.96.44.13:8081/televall2021/1_.m3u8?md5=wVe%2F4Ruje%2FQV5FzEraaf-g&expires=1606039140q
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="MEXICO" , A+
 https://aztkhlslive6-i.akamaihd.net:443/hls/live/1019872/4m4s8qo47rr3/master.m3u8
