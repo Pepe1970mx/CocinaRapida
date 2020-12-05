@@ -171,7 +171,7 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Atacama TV
-https://v2.tustreaming.cl/atacamatv/live1/index.m3u8?PlaylistM3UCL
+https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/Canal-11.jpg" group-title="ENTRETENIMIENTO" , Telesistema 11
 http://ss3.domint.net:2114/t11_str/telesistema/playlist.m3u8
@@ -245,8 +245,11 @@ http://156.96.44.13:8081/televall2021/170_.m3u8?md5=oSeVaZZno1fWVz-hgfYNCw&expir
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Teen
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android+Browser&deviceModel=Android+Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=d0572f33-f189-11ea-ac99-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Tooncast
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" , Tooncast
 http://156.96.44.13:8081/televall2021/119_.m3u8?md5=NoqvJJPRn8ZWyhimiW5Iwg&expires=1604189225
+
+#EXTINF:-1 group-title="RETRO" , Boomerang
+http://156.96.44.13:8081/televall2021/_.m3u8?md5=oSeVaZZno1fWVz-hgfYNCw&expires=1606087923
 
 #EXTINF:-1 group-title="RETRO" , Pluto Series Retro
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=275a49f5-f05f-11ea-b899-0242ac110002&userId=&serverSideAds=true
