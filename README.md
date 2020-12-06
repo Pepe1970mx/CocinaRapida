@@ -13,7 +13,7 @@ http://156.96.44.13:8081/televall2021/76_.m3u8?md5=ZLx4BC2lWlEVZO0WvpdWTg&expire
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1048_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png"group-title="MEXICO" , Canal 5
-http://156.96.44.13:8081/televall2021/79_.m3u8?md5=ZVtTA6m7a-Kkf0zgCnOgbA&expires=1604473555
+http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/73
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO" , Canal 6
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
