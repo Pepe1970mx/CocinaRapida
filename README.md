@@ -502,6 +502,9 @@ http://156.96.44.13:8081/televall2021/141_.m3u8?md5=xZpuv2jKjnNyD-h3-y04wA&expir
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2  
 http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/159
 
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Espn 3
+http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/160
+
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports  
 http://156.96.44.13:8081/televall2021/144_.m3u8?md5=xZpuv2jKjnNyD-h3-y04wA&expires=1604745559
 
