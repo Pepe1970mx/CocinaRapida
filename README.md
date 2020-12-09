@@ -151,7 +151,7 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", FOX channel
-http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/386
+http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/769
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO",  Distrito Comedia 
 http://156.96.44.13:8081/televall2021/82_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
