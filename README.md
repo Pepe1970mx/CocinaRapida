@@ -4,11 +4,11 @@
 https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO" , Las Estrellas 
-http://156.96.44.13:8081/televall2021/80_.m3u8?md5=fo1LHh-VdjNkOzMHiITBNQ&expires=1606126898
+http://156.96.44.13:8081/televall2021/80_.m3u8?token=a4k4_fUKY_bPVXYy22UO2w&expires=1607590556
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Imagen_TV_logo.png/200px-Imagen_TV_logo.png" group-title="MEXICO",  Imagen TV
-http://156.96.44.13:8081/televall2021/76_.m3u8?md5=ZLx4BC2lWlEVZO0WvpdWTg&expires=1604110899 
- 
+http://156.96.44.13:8081/televall2021/76_.m3u8?token=a4k4_fUKY_bPVXYy22UO2w&expires=1607590556
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="MEXICO", Foro TV 
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1048_av-p.m3u8?sd=10&rebase=on
 
@@ -25,7 +25,7 @@ http://156.96.44.13:8081/televall2021/1_.m3u8?md5=wVe%2F4Ruje%2FQV5FzEraaf-g&exp
 https://aztkhlslive6-i.akamaihd.net:443/hls/live/1019872/4m4s8qo47rr3/master.m3u8
  
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EM8Ks47kwqSGMiH4twcCBgAAAA&pid=Api&P=0&w=175&h=43" group-title="MEXICO", Canal 9
-http://156.96.44.13:8081/televall2021/78_.m3u8?md5=PtyUfNGhchNQbcKReUA0KA&expires=1604112703
+http://156.96.44.13:8081/televall2021/78_.m3u8?token=a4k4_fUKY_bPVXYy22UO2w&expires=1607590556
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/quiero-tv-en-vivo-768x480.png" group-title="MEXICO" , Quiero TV
 https://quierotvlive.tk/httplive/playlist_playlist.m3u8
@@ -122,10 +122,10 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Univisión Puerto Rico
-http://156.96.44.13:8081/televall2021/59_.m3u8?md5=ZVtTA6m7a-Kkf0zgCnOgbA&expires=1604473555
+http://156.96.44.13:8081/televall2021/59_.m3u8?token=a4k4_fUKY_bPVXYy22UO2w&expires=1607590556
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Galavisión
-http://156.96.44.13:8081/televall2021/63_.m3u8?md5=ZVtTA6m7a-Kkf0zgCnOgbA&expires=1604473555
+http://156.96.44.13:8081/televall2021/63_.m3u8?token=a4k4_fUKY_bPVXYy22UO2w&expires=1607590556
 
 #EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/Azteca-Honduras.jpg" group-title="LATINO", Azteca Guatemala
 http://190.122.96.187:8888/http/002
@@ -151,13 +151,13 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", FOX channel
-http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/769
+http://156.96.44.13:8081/televall2021/79_.m3u8?token=a4k4_fUKY_bPVXYy22UO2w&expires=1607590556
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO",  Distrito Comedia 
-http://156.96.44.13:8081/televall2021/82_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
+http://156.96.44.13:8081/televall2021/82_.m3u8?token=a4k4_fUKY_bPVXYy22UO2w&expires=1607590556
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Comedy Central 
-
+http://156.96.44.13:8081/televall2021/79_.m3u8?token=a4k4_fUKY_bPVXYy22UO2w&expires=1607590556
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Pluto Humor
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=9aab038a-166d-11eb-8c1a-0242ac110002&userId=&serverSideAds=true
@@ -215,13 +215,13 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac1f1b66c760007
 https://live.mitele.es/hls/live/2005334/boing/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Nick
-http://156.96.44.13:8081/televall2021/282_.m3u8?md5=fglBqNog5T2ix0JbE3tjDQ&expires=1606088054
+http://156.96.44.13:8081/televall2021/2282_.m3u8?token=a4k4_fUKY_bPVXYy22UO2w&expires=1607590556
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Nick Pluto
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=37.7510&deviceLon=-97.8220&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=537fe437-141b-11eb-85e0-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , TeenNick
-http://156.96.44.13:8081/televall2021/118_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
+http://156.96.44.13:8081/televall2021/118_.m3u8?token=a4k4_fUKY_bPVXYy22UO2w&expires=1607590556
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Nick Clasico
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.9348&deviceLon=-97.4117&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=3cffdfd2-0d84-11eb-9e7d-0242ac110002&userId=&serverSideAds=true
@@ -234,13 +234,13 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe
 http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/126
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney Channel 
-http://156.96.44.13:8081/televall2021/169_.m3u8?md5=NoqvJJPRn8ZWyhimiW5Iwg&expires=1604189225
+http://156.96.44.13:8081/televall2021/169_.m3u8?token=a4k4_fUKY_bPVXYy22UO2w&expires=1607590556
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney XD 
-http://156.96.44.13:8081/televall2021/171_.m3u8?md5=NoqvJJPRn8ZWyhimiW5Iwg&expires=1604189225
+http://156.96.44.13:8081/televall2021/171_.m3u8?token=a4k4_fUKY_bPVXYy22UO2w&expires=1607590556
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney Junior
-http://156.96.44.13:8081/televall2021/170_.m3u8?md5=oSeVaZZno1fWVz-hgfYNCw&expires=1606087923
+http://156.96.44.13:8081/televall2021/170_.m3u8?token=a4k4_fUKY_bPVXYy22UO2w&expires=1607590556
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Teen
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android+Browser&deviceModel=Android+Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=d0572f33-f189-11ea-ac99-0242ac110002&userId=&serverSideAds=true
@@ -252,7 +252,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b991420009
 
 
 #EXTINF:-1 tvg-logo=" " group-title="RETRO" , Tooncast
-http://156.96.44.13:8081/televall2021/119_.m3u8?md5=NoqvJJPRn8ZWyhimiW5Iwg&expires=1604189225
+http://156.96.44.13:8081/televall2021/119_.m3u8?token=a4k4_fUKY_bPVXYy22UO2w&expires=1607590556
 
 #EXTINF:-1 group-title="RETRO" , Boomerang
 http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/678
