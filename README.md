@@ -7,12 +7,12 @@ https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
 http://156.96.44.13:8081/televall2021/80_.m3u8?token=a4k4_fUKY_bPVXYy22UO2w&expires=1607590556
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Imagen_TV_logo.png/200px-Imagen_TV_logo.png" group-title="MEXICO",  Imagen TV
-http://156.96.44.13:8081/televall2021/76_.m3u8?token=a4k4_fUKY_bPVXYy22UO2w&expires=1607590556
+http://156.96.44.13:8081/televall2021/287_.m3u8?token=jjqiwJ0vW9BYA9kr2pCCuw&expires=1607591672
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="MEXICO", Foro TV 
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1048_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png"group-title="MEXICO" , Canal 5
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png"group-title="MEXICO" , Canal 5 
 http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/73
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO" , Canal 6
