@@ -650,7 +650,7 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 group-title="MUSICA", Conecta TV
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, tvg-logo="https://musicchoice.com/wp-content/uploads/2019/01/logo-retina-3.png" group-title="MUSICA" , RADIO: MCR (Decades) 80s
+#EXTINF:-1, tvg-logo="https://musiccchoice.com/wp-content/uploads/2019/01/logo-retina-3.png" group-title="MUSICA" , RADIO: MCR (Decades) 80s
 http://192.99.150.31:8697/stream 
 
 #EXTINF:-1, tvg-logo="https://musicchoice.com/wp-content/uploads/2019/01/logo-retina-3.png" group-title="MUSICA" , RADIO: MCR (RnB) Hip-Hop Classics
