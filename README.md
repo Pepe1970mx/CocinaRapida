@@ -243,7 +243,7 @@ http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/126
 http://156.96.44.13:8081/televall2021/169_.m3u8?token=a4k4_fUKY_bPVXYy22UO2w&expires=1607590556
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney XD 
-http://156.96.44.13:8081/televall2021/171_.m3u8?token=a4k4_fUKY_bPVXYy22UO2w&expires=1607590556
+http://planettvweb.com:8091/German/German/11725
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney Junior
 http://156.96.44.13:8081/televall2021/170_.m3u8?token=a4k4_fUKY_bPVXYy22UO2w&expires=1607590556
