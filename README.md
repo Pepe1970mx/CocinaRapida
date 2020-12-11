@@ -19,7 +19,7 @@ http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/73
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
  
 #EXTINF:-1 tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="MEXICO" , Azteca 7 
-http://156.96.44.13:8081/televall2021/1_.m3u8?md5=wVe%2F4Ruje%2FQV5FzEraaf-g&expires=1606039140q
+https://aztkhlslive5-i.akamaihd.net/hls/live/1019873/4ztk7bacf4uoy8/master.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="MEXICO" , A+
 https://aztkhlslive6-i.akamaihd.net:443/hls/live/1019872/4m4s8qo47rr3/master.m3u8
@@ -77,6 +77,43 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 
 
 
+
+
+#EXTINF:-1 tvg-logo=" " group-title="LATINO", Telemundo  
+https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="LATINO", Univisión Puerto Rico
+http://156.96.44.13:8081/televall2021/59_.m3u8?token=a4k4_fUKY_bPVXYy22UO2w&expires=1607590556
+
+#EXTINF:-1 tvg-logo=" " group-title="LATINO", Galavisión
+http://156.96.44.13:8081/televall2021/63_.m3u8?token=a4k4_fUKY_bPVXYy22UO2w&expires=1607590556
+
+#EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/Azteca-Honduras.jpg" group-title="LATINO", Azteca Guatemala
+http://190.122.96.187:8888/http/002
+
+#EXTINF:-1 tvg-logo=" " group-title="LATINO" , Telecentro (República Dominicana)
+http://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8
+
+#EXTINF:0 tvg-logo="http://www.honduras504.com/img/tv/Telecadena-7-y4.jpg" group-title="LATINO", Telecadena 7 y 4 
+http://stream.mxiptv.org:25461/live/tvabierta/opentv/341.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-5-el-lider-honduras-logo-FED83D8EE6-seeklogo.com.png" group-title="LATINO" , Canal 5 El Líder 
+https://bcovlive-a.akamaihd.net/8520a5c6a0384300b735385e02e2f582/us-west-2/6056665196001/profile_3/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.canal10.com.ni/2018/v3/images/logo.png?v=360380257" group-title="LATINO" , Canal 10 
+https://cootv.cootel.com.ni/streams/d/SSLCH10-HD-NCO/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.DPGfgUjmX9JrJZeQmya-BQAAAA&pid=Api&P=0&w=300&h=300" group-title="LATINO" , Canal 11
+http://138.117.4.70:8079/streams/d/CH-11/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="LATINO", City Television
+http://190.122.96.187:8888/http/004
+
+#EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/#&gid=1&pid=1" group-title="LATINO", Telecosta 
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="DOC Y NOT", DW
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
  
@@ -114,37 +151,6 @@ http://a93e5452-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/1
 #EXTINF:-1 group-title="DOC Y NOT" , The Weather Network
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8?PlaylistM3UCL
 
-
-
-
-
-#EXTINF:-1 tvg-logo=" " group-title="LATINO", Telemundo  
-https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="LATINO", Univisión Puerto Rico
-http://156.96.44.13:8081/televall2021/59_.m3u8?token=a4k4_fUKY_bPVXYy22UO2w&expires=1607590556
-
-#EXTINF:-1 tvg-logo=" " group-title="LATINO", Galavisión
-http://156.96.44.13:8081/televall2021/63_.m3u8?token=a4k4_fUKY_bPVXYy22UO2w&expires=1607590556
-
-#EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/Azteca-Honduras.jpg" group-title="LATINO", Azteca Guatemala
-http://190.122.96.187:8888/http/002
-
-#EXTINF:-1 tvg-logo=" " group-title="LATINO" , Telecentro (República Dominicana)
-http://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8
-
-#EXTINF:0 tvg-logo="http://www.honduras504.com/img/tv/Telecadena-7-y4.jpg" group-title="LATINO", Telecadena 7 y 4 
-http://stream.mxiptv.org:25461/live/tvabierta/opentv/341.m3u8
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-5-el-lider-honduras-logo-FED83D8EE6-seeklogo.com.png" group-title="LATINO" , Canal 5 El Líder 
-https://bcovlive-a.akamaihd.net/8520a5c6a0384300b735385e02e2f582/us-west-2/6056665196001/profile_3/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="LATINO", City Television
-http://190.122.96.187:8888/http/004
-
-#EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/#&gid=1&pid=1" group-title="LATINO", Telecosta 
-https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
 
 
