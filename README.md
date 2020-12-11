@@ -258,7 +258,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b991420009
 
 
 #EXTINF:-1 tvg-logo=" " group-title="RETRO" , Tooncast
-http://156.96.44.13:8081/televall2021/119_.m3u8?token=a4k4_fUKY_bPVXYy22UO2w&expires=1607590556
+http://uruguayiptv.com:25461/leandro1/leandro123/706
 
 #EXTINF:-1 group-title="RETRO" , Boomerang
 http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/678
