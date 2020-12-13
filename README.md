@@ -157,7 +157,7 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 
 
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", FOX channel
-http://156.96.44.13:8081/televall2021/157_.m3u8?token=PU4yeFQHbjhO9SvYiT_jmw&expires=1607591991
+http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/386
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO",  Distrito Comedia 
 http://156.96.44.13:8081/televall2021/82_.m3u8?token=a4k4_fUKY_bPVXYy22UO2w&expires=1607590556
