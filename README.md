@@ -240,7 +240,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe
 http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/126
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney Channel 
-http://156.96.44.13:8081/televall2021/169_.m3u8?token=a4k4_fUKY_bPVXYy22UO2w&expires=1607590556
+http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/679
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney XD 
 http://planettvweb.com:8091/German/German/11725
