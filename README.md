@@ -240,7 +240,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe
 http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/126
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney Channel 
-http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/679
+http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/830
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney XD 
 http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/129
