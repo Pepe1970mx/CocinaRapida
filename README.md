@@ -515,7 +515,7 @@ http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/160
 http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/145
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports 2 
-http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/145
+http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/146
  
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN 
 http://156.96.44.13:8081/televall2021/151_.m3u8?md5=ZVtTA6m7a-Kkf0zgCnOgbA&expires=1604473555
