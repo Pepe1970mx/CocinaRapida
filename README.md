@@ -209,7 +209,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e0007
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/125px-Boing.svg.png" group-title="KIDS" , Boing 
-https://live.mitele.es/hls/live/2005334/boing/playlist.m3u8
+ti-content-global.cdn.turner.com/PROD-APAC/C_CRAIGC_XX001061_SEM_SPA/eeb0049b-4bba-4aee-a78e-f022c331a61d/PCTV.m3u8
 
 #EXTINF:-1 group-title="KIDS" , Pluto Kids
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aab1d29b39600073e243f/master.m3u8?advertisingId=&appName=web&appVersion=5.10.0-63088da67b32904787b837429cfa9c5c605b7626&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=41.3888&deviceLon=2.1590&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=ES&sid=0e846c93-22fd-11eb-bde1-0242ac110002&userId=&serverSideAds=true
