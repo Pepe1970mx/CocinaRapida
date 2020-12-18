@@ -242,7 +242,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe
 
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Cartoon Network 
-http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/126
+http://uruguayiptv.com:25461/leandro1/leandro123/699
+
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney Channel 
 http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/830
