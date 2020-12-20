@@ -160,7 +160,7 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 
 
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", FOX channel
-http://uruguayiptv.com:25461/leandro1/leandro123/18454
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/58738.ts
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO",  Distrito Comedia 
 http://156.96.44.13:8081/televall2021/82_.m3u8?token=a4k4_fUKY_bPVXYy22UO2w&expires=1607590556
@@ -242,7 +242,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe
 
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Cartoon Network 
-http://uruguayiptv.com:25461/leandro1/leandro123/18451
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/58772.ts
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney Channel 
 http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/830
