@@ -355,10 +355,10 @@ http://156.96.44.13:8081/televall2021/178_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expir
 http://156.96.44.13:8081/televall2021/98_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO Plus
-http://156.96.44.13:8081/televall2021/205_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/4996.ts
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO 
-http://156.96.44.13:8081/televall2021/154_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/4994.ts
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO 2 
 http://156.96.44.13:8081/televall2021/203_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
