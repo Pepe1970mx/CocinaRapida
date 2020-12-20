@@ -160,7 +160,7 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 
 
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", FOX channel
-http://23.237.54.42/hls/FOXMX7227.ts
+http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/386
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO",  Distrito Comedia 
 http://156.96.44.13:8081/televall2021/82_.m3u8?token=a4k4_fUKY_bPVXYy22UO2w&expires=1607590556
@@ -226,7 +226,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984ba0c548530007
 
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Nick
-http://23.237.54.42/hls/NICKMX7317.ts
+http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/214
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Nick Pluto
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=37.7510&deviceLon=-97.8220&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=537fe437-141b-11eb-85e0-0242ac110002&userId=&serverSideAds=true
@@ -242,8 +242,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe
 
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Cartoon Network 
-http://srregio.net/Sr_Regio151120/tp.php?c=112&p=3&k=srregio&f=.m3u8
-
+http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/126
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney Channel 
 http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/830
