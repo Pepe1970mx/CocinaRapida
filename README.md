@@ -521,10 +521,10 @@ http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/10843.ts
 http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/4957.ts
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports  
-http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/145
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/4879.ts
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports 2 
-http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/146
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/4964.ts
  
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN 
 http://156.96.44.13:8081/televall2021/151_.m3u8?md5=ZVtTA6m7a-Kkf0zgCnOgbA&expires=1604473555
