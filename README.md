@@ -512,13 +512,13 @@ https://bein-plutolive-vo.akamaized.net/r/hlslive/bein.m3u8?chname=bein&pub=cd44
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 
-http://156.96.44.13:8081/televall2021/141_.m3u8?md5=xZpuv2jKjnNyD-h3-y04wA&expires=1604745559
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/4868.ts
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2  
-http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/159
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/10843.ts
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Espn 3
-http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/160
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/4957.ts
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports  
 http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/145
