@@ -308,10 +308,10 @@ https://panel.streamingtv-mediacp.online:1936/876769/876769/playlist.m3u8?Playli
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=71f1da86-eee5-11ea-ac99-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo=" " group-title="FAMILY" , HBO Family 
-http://156.96.44.13:8081/televall2021/204_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/4992.ts
 
 #EXTINF:-1 tvg-logo=" " group-title="FAMILY" , FOX Premium Family
-http://156.96.44.13:8081/televall2021/176_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/6325.ts
 
 
 
@@ -364,7 +364,7 @@ http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/4994.ts
 http://156.96.44.13:8081/televall2021/203_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Premium Action 
-http://89.105.194.59:25461/live/5spk$QW/5spk$QW/19.m3u8
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/4873.ts
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Pluto Acción
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=97c7d537-1741-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
