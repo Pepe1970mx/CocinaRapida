@@ -187,7 +187,7 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/Canal-11.jpg" group-title="ENTRETENIMIENTO" , Telesistema 11
-http://ss3.domint.net:2114/t11_str/telesistema/playlist.m3u8
+https://ss5.domint.net:3016/tv11_str/canal11/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="ENTRETENIMIENTO", Microvision 
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
