@@ -393,8 +393,11 @@ https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/playlist.m3u8?PlaylistM3U
 #EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="LATINO HD" , FM 3
 https://stmv.panel.mivideo.pro/fmtvmundo3/fmtvmundo3/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:0 tvg-logo="" group-title="PREMIUM", HMTV
-http://156.96.44.13:8081/televall2021/96_.m3u8?md5=esOR1pK6NM5ghpfuqgAvoQ&expires=1604452803
+#EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="LATINO HD" , ACV MOVIES
+stmv.panel.mivideo.pro/acvisionecuador/acvisionecuador/.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="PREMIUM", ACV Movies
+https://stmv.panel.mivideo.pro/acvisionecuador/acvisionecuador/.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="LATINO HD", All Peliculas
 http://190.3.169.119:8080/latina/latina/playlist.m3u8?PlaylistM3UCL
