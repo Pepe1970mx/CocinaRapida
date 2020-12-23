@@ -532,7 +532,7 @@ http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/58844.ts
 http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/4964.ts
  
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN 
-http://156.96.44.13:8081/televall2021/151_.m3u8?md5=ZVtTA6m7a-Kkf0zgCnOgbA&expires=1604473555
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/55792.ts
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Claro Sports 
 https://d21r053hxdt5v1.cloudfront.net/live/cs01/live.isml/cs01.m3u8
