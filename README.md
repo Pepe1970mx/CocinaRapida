@@ -119,7 +119,8 @@ http://190.122.96.187:8888/http/004
 #EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/#&gid=1&pid=1" group-title="LATINO", Telecosta 
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
-
+#EXTINF:-1 tv-logo" " group-title="LATINO", Latinos UP
+https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="DOC Y NOT", DW
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
@@ -403,7 +404,7 @@ https://stmv.panel.mivideo.pro/acvisionecuador/acvisionecuador/.m3u8
 http://190.3.169.119:8080/latina/latina/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:0 tvg-logo="" group-title="LATINO HD", FlixTube
-https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
+https://panel.streamingtv-mediacp.online:1936/8054/8054/chunklist_w1335949035.m3u8
 
 #EXTINF:-1 tvg-logo="http://orbittv.net/images/orbit_logo4.png" group-title="LATINO HD" , ORBITV DO
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
