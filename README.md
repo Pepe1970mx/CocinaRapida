@@ -526,7 +526,7 @@ http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/10843.ts
 http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/4957.ts
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports  
-http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/58844.ts
+http://srregio.net/Sr_Regio151120/tp.php?c=170&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports 2 
 http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/4964.ts
