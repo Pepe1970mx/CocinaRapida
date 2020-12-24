@@ -591,12 +591,6 @@ https://ch.iptvmate.net/b8799300af8ecf28e89b77029dfa9e6d.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", First Music channel
 http://hz1.teleport.cc/HLS/HD.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA", 4FUN.TV
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA", Latinos TV
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", RU.TV
 
 #EXTINF:-1 tvg-logo="https://www.canalcostatv.es/wp-content/uploads/2020/04/logo-cabecera-cc.png" group-title="MUSICA", CANAL COSTA CL
 https://srv3.zcast.com.br/canalcostaonline/canalcostaonline/playlist.m3u8
@@ -604,6 +598,12 @@ https://srv3.zcast.com.br/canalcostaonline/canalcostaonline/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://artv.jaranetwork.com/sites/default/files/styles/medium/public/logo/musictop.jpg?itok=zbn0lC06" group-title="MUSICA" , 88 STEREO (CR)
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA", 4FUN.TV
+
+
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA", Latinos TV
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", RU.TV
 
 
 #EXTINF:-1 tvg-logo="" group-title="MUSICA", 1 Latinos
