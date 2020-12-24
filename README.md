@@ -539,25 +539,10 @@ http://usuarios.club/stream/somosjovenes/YouTube/837.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=40.7308&deviceLon=-73.9975&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=fbbab74e-ef25-11ea-a685-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 group-title="MUSICA", Telehit
-http://156.96.44.13:8081/televall2021/150_.m3u8?md5=ZVtTA6m7a-Kkf0zgCnOgbA&expires=1604473555
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA" , Nick Music
-http://156.96.44.13:8081/televall2021/152_.m3u8?md5=ZVtTA6m7a-Kkf0zgCnOgbA&expires=1604473555
 
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA", 24/7 Pop
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo Music Pluto
-https://5f29d07b0fe38c0001fb7f7fpluto.ssai.zype.com/5f29d07b0fe38c0001fb7f7f_pluto/manifest/2.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5f29d07b0fe38c0001fb7f7f_pluto&manifest_id=68a17fb3-14ab-47f8-a0a8-2366db4bee7a&rendition=480&session_id=891d31d9-21b2-d62a-9ca1-6c4f61c81076&partner_id=pluto_tvonfig_id=5f29d07b0fe38c0001fb7f7f_pluto&manifest_id=aedec261-8655-4732-a34b-f27326de2d60&rendition=1080&session_id=5dcb65d0-33d2-8c58-33ec-ee298d168a52&partner_id=pluto_tv7f_pluto&manifest_id=9aa2abe6-6090-4c7b-9e6e-abcffd52e5c6&rendition=480&session_id=32a03c4e-0e19-3a20-e8cb-97f32dbc8412&partner_id=pluto_tv
-
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo R&B
-25fe50b073e5&config_id=5f29d23f0fe38c0001fb8036_pluto&manifest_id=a9513541-8f20-44e1-b55f-83bcd74677a1&rendition=480&session_id=801abf1f-09e9-e23a-4d80-3f6848b70931&partner_id=pluto_tv
-
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA", MTV HITS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984fdc470d460007a67094/master.m3u8?advertisingId=&appName=web&appVersion=5.11.0-1d883e1216be36c166cbf982f832a992718a0632&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=41.3888&deviceLon=2.1590&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=ES&sid=5de4f5a8-29ed-11eb-94f6-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="MUSICA", MTV POP
-https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA", MTV spliker
 
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="MUSICA", MTV YO!
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_375.m3u8
@@ -565,14 +550,37 @@ https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_375.
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="MUSICA", MTV Party
 https://pluto-live.plutotv.net/m/hlslive/mtv-04a.m3u8?chname=mtv-04a&pub=cd44c23c-4796-475f-bcb1-b846bed4cf40&ctype=0&acsurl=pluto-acs-lb.adsparx.net&mcdn=pluto-live.plutotv.net%2Fm&userParams=ccp%3DeyJkZXZpY2VJZCI6IjQyYzI5MTE1LTEzMjktNDFmYi05ZTMwLTVlYTI5MjllY2ZlMyIsImRldmljZVZlcnNpb24iOiI0LjAiLCJhcHBWZXJzaW9uIjoiNS43LjUtMGIxNjc0YjYyNmY1ZTVhZGMxZjJiMWQxMmIwNjhlODlhOTUwZmRmNyIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VNYWtlIjoiQW5kcm9pZCtCcm93c2VyIiwiYWR2ZXJ0aXNpbmdJZCI6IiIsImRldmljZUxhdCI6IjM3LjczNTMiLCJkZXZpY2VMb24iOiItMTIyLjM3MzIiLCJkZXZpY2VETlQiOiJmYWxzZSIsImRldmljZU1vZGVsIjoiQW5kcm9pZCtCcm93c2VyIiwidXNlcklkIjoiIiwiYXBwTmFtZSI6IndlYiIsImFyY2hpdGVjdHVyZSI6IiIsImluY2x1ZGVFeHRlbmRlZEV2ZW50cyI6ImZhbHNlIiwic3JjUHJvdG9jb2wiOiJodHRwcyIsInN0aXRjaGVyVmVyc2lvbiI6IjIuNDEuMCIsInN0aXRjaGVyUmVxSWQiOiIzMWQ1MDZkZS1lYTlkLTRkZjItODA2ZS0xMDQyMWZmYTQyNDEiLCJhZEltcHJlc3Npb25Qcm94eSI6dHJ1ZSwiaXBfYWRkcmVzcyI6IjE5Mi4yNDEuMjMwLjgwIiwiZGV2aWNlX3VhIjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDguMS4wOyBEVUEtTFgzIEJ1aWxkL0hPTk9SRFVBLUxYMzsgd3YpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vNC4wIENocm9tZS84NS4wLjQxODMuMTAxIE1vYmlsZSBTYWZhcmkvNTM3LjM2IiwidHJhbnNhY3Rpb25faWQiOiJhY2Q0YzAxZC1iYTFkLTQ2ZDctYjVjYi0wMzA4NDdlZDJmNzYiLCJkZXZpY2VVc2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgOC4xLjA7IERVQS1MWDMgQnVpbGQvSE9OT1JEVUEtTFgzOyB3dikgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi80LjAgQ2hyb21lLzg1LjAuNDE4My4xMDEgTW9iaWxlIFNhZmFyaS81MzcuMzYiLCJpcEFkZHJlc3MiOiIxOTIuMjQxLjIzMC44MCIsImNoSWQiOiI1ZDM2MDljZDZhNmM3OGQ3NjcyZjJhODEiLCJ0aW1lbGluZUlkIjoiNWY1YWY0ZmFlZDExY2UwMDA4ZmIxZmJjIiwiY2xpcElkIjoiNWQ3OTc5ZjEzYzc3MGNjZmU1MDE3Yzg1Iiwic2Vzc2lvbklkIjoiZjdjNGU4MTMtZjQ2NC0xMWVhLWJmYmYtMDI0MmFjMTEwMDAyIiwiZXBpc29kZUlkIjoiNWQ4YThlYzA0MzhiNGI1ZmRhMGE5M2JiIiwicGFydG5lckNvZGUiOiJNVFYiLCJwYXJ0bmVyX2lkIjoiNWNhNmFhMjcxNWE2MjA3OGQyZWMyM2NkIiwib3JpZ2luIjoiYWRTcGFyeCIsImZyb21fc3RpdGNoZXIiOnRydWV9
 
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA", MTV spliker
-https://pluto-live.plutotv.net/m/hlslive/mtv-03a/3/mtv-03a.m3u8?profID=752&n=3&ctype=0&userParams=ccp%3DeyJkZXZpY2VJZCI6ImNiNDNmZGU2LWNmYjgtNDgxZC1hODFiLTc0NjdjNzJlMjY5ZSIsImRldmljZVZlcnNpb24iOiI4NC4wLjQxNDcuMTI1IiwiYXBwVmVyc2lvbiI6IjUuNy4wLTU5MDgwYWJlZTExNjJmNzY4MjNhYmJkYmRiZTM0ZjIzMDM1ZWI4YzciLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlTWFrZSI6IkNocm9tZStNb2JpbGUiLCJhZHZlcnRpc2luZ0lkIjoiIiwiZGV2aWNlTGF0IjoiMzcuNzUxMCIsImRldmljZUxvbiI6Ii05Ny44MjIwIiwiZGV2aWNlRE5UIjoiZmFsc2UiLCJkZXZpY2VNb2RlbCI6IkNocm9tZStNb2JpbGUiLCJ1c2VySWQiOiIiLCJhcHBOYW1lIjoid2ViIiwiYXJjaGl0ZWN0dXJlIjoiIiwiaW5jbHVkZUV4dGVuZGVkRXZlbnRzIjoiZmFsc2UiLCJzcmNQcm90b2NvbCI6Imh0dHBzIiwic3RpdGNoZXJWZXJzaW9uIjoiMi4zOS4wIiwic3RpdGNoZXJSZXFJZCI6IjQzYTUyMTYwLTQxZjEtNGZlYi04MGMwLTQ1ZDAyNzFkMDdmNSIsImFkSW1wcmVzc2lvblByb3h5Ijp0cnVlLCJpcF9hZGRyZXNzIjoiMjgwNjoxMGE2OjE0OjQ5NjI6ZDFhMjpiYTYwOjQxMDM6NTdkMiIsImRldmljZV91YSI6Ik1vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCA4LjEuMDsgRFVBLUxYMykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg0LjAuNDE0Ny4xMjUgTW9iaWxlIFNhZmFyaS81MzcuMzYiLCJkZXZpY2VVc2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgOC4xLjA7IERVQS1MWDMpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84NC4wLjQxNDcuMTI1IE1vYmlsZSBTYWZhcmkvNTM3LjM2IiwiaXBBZGRyZXNzIjoiMjgwNjoxMGE2OjE0OjQ5NjI6ZDFhMjpiYTYwOjQxMDM6NTdkMiIsImNoSWQiOiI1ZDE0ZmRiOGNhOTFlZWRlZTE2MzMxMTciLCJ0aW1lbGluZUlkIjoiNWY0M2ZhOTRlZTgzZjMwMDA3OTNlZGEyIiwiY2xpcElkIjoiNWQ0MDhjZDNkNWI3NWY1MDgyZDkwMzExIiwic2Vzc2lvbklkIjoiYjlhNGQ3NGEtZTg5YS0xMWVhLWJkOWMtMDI0MmFjMTEwMDAyIiwiZXBpc29kZUlkIjoiNWQ0MzAwMTYwZjdkYjY0ZjJjZWM3NmU0IiwicGFydG5lckNvZGUiOiJNVFYiLCJwYXJ0bmVyX2lkIjoiNWNhNmFhMjcxNWE2MjA3OGQyZWMyM2NkIiwib3JpZ2luIjoiYWRTcGFyeCIsImZyb21fc3RpdGNoZXIiOnRydWV9&adsid=AXQxZoASGGa3SQd6us45&chname=mtv-03a&pub=cd44c23c-4796-475f-bcb1-b846bed4cf40&acsurl=pluto-acs-lb.adsparx.net&mcdn=pluto-live.plutotv.net%2Fm7
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo R&B
+25fe50b073e5&config_id=5f29d23f0fe38c0001fb8036_pluto&manifest_id=a9513541-8f20-44e1-b55f-83bcd74677a1&rendition=480&session_id=801abf1f-09e9-e23a-4d80-3f6848b70931&partner_id=pluto_tv
+
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA", 24/7 Pop
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo Music Pluto
+https://5f29d07b0fe38c0001fb7f7fpluto.ssai.zype.com/5f29d07b0fe38c0001fb7f7f_pluto/manifest/2.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5f29d07b0fe38c0001fb7f7f_pluto&manifest_id=68a17fb3-14ab-47f8-a0a8-2366db4bee7a&rendition=480&session_id=891d31d9-21b2-d62a-9ca1-6c4f61c81076&partner_id=pluto_tvonfig_id=5f29d07b0fe38c0001fb7f7f_pluto&manifest_id=aedec261-8655-4732-a34b-f27326de2d60&rendition=1080&session_id=5dcb65d0-33d2-8c58-33ec-ee298d168a52&partner_id=pluto_tv7f_pluto&manifest_id=9aa2abe6-6090-4c7b-9e6e-abcffd52e5c6&rendition=480&session_id=32a03c4e-0e19-3a20-e8cb-97f32dbc8412&partner_id=pluto_tv
+
+
+
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA", MTV HITS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984fdc470d460007a67094/master.m3u8?advertisingId=&appName=web&appVersion=5.11.0-1d883e1216be36c166cbf982f832a992718a0632&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=41.3888&deviceLon=2.1590&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=ES&sid=5de4f5a8-29ed-11eb-94f6-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="MUSICA", MTV POP
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Theboxtvlogo.jpg/175px-Theboxtvlogo.jpg" group-title="MUSICA" , Box Hits 
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA", 4FUN.TV
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA", Hit TV
+http://hitmusic.hu/hitmusic.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA",  MUSIC TOP
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", TOP LATINO 
+http://stream.mxiptv.org:25461/live/tvabierta/opentv/249.m3u8
+
+#EXTINF:-1 group-title="MUSICA", Latido Music
+https://vidaprimo-distroscale.amagi.tv/playlist360p.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", 1HD
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
@@ -583,42 +591,24 @@ https://ch.iptvmate.net/b8799300af8ecf28e89b77029dfa9e6d.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", First Music channel
 http://hz1.teleport.cc/HLS/HD.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA", Hit TV
-http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA", 4FUN.TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", Latinos TV
-https://limited20.todostreaming.es/live/simbana-livestream1.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", RU.TV
-https://rutv.gcdn.co/streams/1410_1272/360n/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA",  MUSIC TOP
-http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", TOP LATINO 
-http://stream.mxiptv.org:25461/live/tvabierta/opentv/249.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canalcostatv.es/wp-content/uploads/2020/04/logo-cabecera-cc.png" group-title="MUSICA", CANAL COSTA CL
 https://srv3.zcast.com.br/canalcostaonline/canalcostaonline/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://www.canalcostatv.es/wp-content/uploads/2020/04/logo-cabecera-cc.png" group-title="MUSICA", CANAL COSTA CL
-https://inliveserver.com:1936/10504/10504/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://artv.jaranetwork.com/sites/default/files/styles/medium/public/logo/musictop.jpg?itok=zbn0lC06" group-title="MUSICA" , 88 STEREO (CR)
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSICA", Latido Music
-https://vidaprimo-distroscale.amagi.tv/playlist360p.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", Best Cable Music
-https://live.siete.us:1991/bestcablemusic/bestcablemusic/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="" group-title="MUSICA", 1 Latinos
-https://5b38ce71f1f00.streamlock.net/8196/8196/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="MUSICA", MTV
-http://156.96.44.13:8081/televall2021/128_.m3u8?md5=Ytv7NMTb8q1khoMxIRj0Rg&expires=1605495358
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", Rock TV
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
