@@ -626,6 +626,7 @@ https://live.siete.us:1991/bestcablemusic/bestcablemusic/playlist.m3u8?PlaylistM
 #EXTINF:-1 tvg-logo="" group-title="MUSICA", 1 Latinos
 https://5b38ce71f1f00.streamlock.net/8196/8196/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="MUSICA", MTV
 http://156.96.44.13:8081/televall2021/128_.m3u8?md5=Ytv7NMTb8q1khoMxIRj0Rg&expires=1605495358
 
@@ -658,11 +659,15 @@ http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&r
 #EXTINF:-1 tvg-logo" "group-title="MUSICA" , TVPOP
 https://v2.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo" "group-title="MUSICA" , Retroplus Señal 2 Música Baladas
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo" "group-title="MUSICA" , Balladas 24/7
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo" "group-title="MUSICA" , Tropical 24/7
- 
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fyPHgEH.png" group-title="MUSICA", COLOSAL TV
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w1747515295.m3u8
 
