@@ -259,10 +259,10 @@ http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/4938.ts
 http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/4936.ts
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney XD 
-http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/129
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/4954.ts
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney Junior
-http://156.96.44.13:8081/televall2021/170_.m3u8?token=a4k4_fUKY_bPVXYy22UO2w&expires=1607590556
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/4953.ts
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Teen
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android+Browser&deviceModel=Android+Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=d0572f33-f189-11ea-ac99-0242ac110002&userId=&serverSideAds=true
@@ -277,7 +277,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b991420009
 http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/74760.ts
 
 #EXTINF:-1 group-title="RETRO" , Boomerang
-http://skycastersupports.mine.nu:25461/Ar/KM9bS2YaTv/678
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/4936.ts
 
 #EXTINF:-1 group-title="RETRO" , Pluto Series Retro
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=275a49f5-f05f-11ea-b899-0242ac110002&userId=&serverSideAds=true
