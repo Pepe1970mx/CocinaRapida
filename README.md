@@ -48,6 +48,9 @@ http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_51
 #EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="MEXICO" , TeleFórmula 
 https://www.dailymotion.com/cdn/live/video/x7u0spq.m3u8?sec=wx3yXWgWWob1E5MmINCzgaITq4E6zMv6UIeFEU_r9G5hPZ2aj8-M5Oc-zjBLA4r6R5usaIQakiFD6oIJTwScBg
 
+#EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="MEXICO" , El Heraldo TV
+https://www.dailymotion.com/cdn/live/video/x792196.m3u8?sec=N83US5vbaSJYpj8GmhFueT6g-KPrPFAkWT-ix_S3wPXvm3cBRcXqB5tGd9jK95J65eLGPQ3UGoc2FngoM7cixA
+
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/quiero-tv-en-vivo-768x480.png" group-title="MEXICO" , Quiero TV
 https://quierotvlive.tk/httplive/playlist_playlist.m3u8
 
