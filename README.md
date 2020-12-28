@@ -4,7 +4,7 @@
 https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO" , Las Estrellas 
-https://opentv.mxiptv.org/1/mxiptv.m3u8
+http://srregio.net/Sr_Regio151120/tp.php?c=17&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Imagen_TV_logo.png/200px-Imagen_TV_logo.png" group-title="MEXICO",  Imagen TV
 https://opentv.mxiptv.org/4/mxiptv.m3u8
@@ -13,7 +13,7 @@ https://opentv.mxiptv.org/4/mxiptv.m3u8
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1048_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png"group-title="MEXICO" , Canal 5 
-https://opentv.mxiptv.org/3/mxiptv.m3u8
+http://srregio.net/Sr_Regio151120/tp.php?c=20&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO" , Canal 6
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
