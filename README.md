@@ -261,8 +261,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Cartoon Network 
 http://tv.nousiptv.com:8080/Lucy/123456/3249
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney Channel 
-http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/4936.ts
+#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney Channel +
+http://instanttv.info:8080/TV-72370097/591175072920/64410
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney XD 
 http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/4954.ts
