@@ -86,7 +86,7 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Telemundo  
-http://fe7.yunini.club:8880/ni12m4094/sHA9gcLpsU/59233
+http://tv5full.xyz:25461/michael/michael/925
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Univisión Puerto Rico
 http://xtream.encohd.co:25461/live/AxYXdji6Kv/7uRFri5Z45/9.m3u8
