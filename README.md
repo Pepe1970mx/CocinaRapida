@@ -519,13 +519,13 @@ http://xtream.encohd.co:25461/live/AxYXdji6Kv/7uRFri5Z45/22.m3u8
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 
-http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/4868.ts
+http://tv.nousiptv.com:8080/Lucy/123456/3257
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2  
-http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/10843.ts
+http://tv.nousiptv.com:8080/Lucy/123456/3258
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Espn 3
-http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/4957.ts
+http://tv.nousiptv.com:8080/Lucy/123456/3259
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports  
 http://srregio.net/Sr_Regio151120/tp.php?c=170&p=3&k=srregio&f=.m3u8
