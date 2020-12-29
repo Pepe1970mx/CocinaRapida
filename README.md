@@ -171,7 +171,7 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 
 
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", FOX channel
-http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/58738.ts
+http://tv.nousiptv.com:8080/Lucy/123456/4121
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO",  Distrito Comedia 
 
@@ -476,7 +476,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f062
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984c1dc54853000797a5e8/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=42c29115-1329-41fb-9e30-5ea2929ecfe3&clientModelNumber=na&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=41.3888&deviceLon=2.1590&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=ES&serverSideAds=true&sessionID=6bbdefd3-40a4-11eb-8528-0242ac110002&sid=6bbdefd3-40a4-11eb-8528-0242ac110002&userId=
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS", Cinema Dinamita Mx
-http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/10580.ts
+http://tv.nousiptv.com:8080/Lucy/123456/4142
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS", TV Azteca Cinema
 http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/436.ts
