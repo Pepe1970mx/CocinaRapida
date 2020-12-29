@@ -1,4 +1,4 @@
-
+M
 
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg400.jpg?v=1515007950", Azteca Uno
 https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
@@ -105,6 +105,9 @@ http://stream.mxiptv.org:25461/live/tvabierta/opentv/341.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-5-el-lider-honduras-logo-FED83D8EE6-seeklogo.com.png" group-title="LATINO" , Canal 5 El Líder 
 https://bcovlive-a.akamaihd.net/8520a5c6a0384300b735385e02e2f582/us-west-2/6056665196001/profile_3/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="LATINO" , MegaClasicos
+http://xtream.encohd.co:25461/live/AxYXdji6Kv/7uRFri5Z45/5169.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.canal10.com.ni/2018/v3/images/logo.png?v=360380257" group-title="LATINO" , Canal 2 Nicaragua
 https://cootv.cootel.com.ni/streams/d/SSLCH2-HD-NCO/playlist.m3u8
