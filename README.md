@@ -4,7 +4,7 @@
 https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO" , Las Estrellas 
-http://srregio.net/Sr_Regio151120/tp.php?c=17&p=3&k=srregio&f=.m3u8
+http://xtream.encohd.co:25461/live/AxYXdji6Kv/7uRFri5Z45/126.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Imagen_TV_logo.png/200px-Imagen_TV_logo.png" group-title="MEXICO",  Imagen TV
 https://opentv.mxiptv.org/4/mxiptv.m3u8
@@ -92,7 +92,7 @@ http://xtream.encohd.co:25461/live/AxYXdji6Kv/7uRFri5Z45/6.m3u8
 http://xtream.encohd.co:25461/live/AxYXdji6Kv/7uRFri5Z45/9.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Galavisión
-http://156.96.44.13:8081/televall2021/63_.m3u8?token=a4k4_fUKY_bPVXYy22UO2w&expires=1607590556
+http://xtream.encohd.co:25461/live/AxYXdji6Kv/7uRFri5Z45/143.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/Azteca-Honduras.jpg" group-title="LATINO", Azteca Guatemala
 http://190.122.96.187:8888/http/002
