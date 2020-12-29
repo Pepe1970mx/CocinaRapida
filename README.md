@@ -525,7 +525,7 @@ http://tv.nousiptv.com:8080/Lucy/123456/3257
 http://tv.nousiptv.com:8080/Lucy/123456/3258
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Espn 3
-http://tv.nousiptv.com:8080/Lucy/123456/3259
+http://tv.nousiptv.com:8080/Lucy/123456/3260
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports  
 http://srregio.net/Sr_Regio151120/tp.php?c=170&p=3&k=srregio&f=.m3u8
@@ -534,7 +534,7 @@ http://srregio.net/Sr_Regio151120/tp.php?c=170&p=3&k=srregio&f=.m3u8
 http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/4964.ts
  
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN 
-http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/55792.ts
+http://tv.nousiptv.com:8080/Lucy/123456/3357
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Claro Sports 
 https://d21r053hxdt5v1.cloudfront.net/live/cs01/live.isml/cs01.m3u8
