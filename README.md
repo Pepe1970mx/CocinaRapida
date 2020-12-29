@@ -86,7 +86,7 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Telemundo  
-https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/master.m3u8
+http://xtream.encohd.co:25461/live/AxYXdji6Kv/7uRFri5Z45/6.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Univisión Puerto Rico
 http://156.96.44.13:8081/televall2021/59_.m3u8?token=a4k4_fUKY_bPVXYy22UO2w&expires=1607590556
@@ -513,7 +513,7 @@ https://bein-plutolive-vo.akamaized.net/r/hlslive/bein.m3u8?chname=bein&pub=cd44
 
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Sky Sports 21
-http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/72945.ts
+http://xtream.encohd.co:25461/live/AxYXdji6Kv/7uRFri5Z45/22.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Sky Sports 24
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
