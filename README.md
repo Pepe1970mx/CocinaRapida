@@ -89,7 +89,7 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 http://xtream.encohd.co:25461/live/AxYXdji6Kv/7uRFri5Z45/6.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Univisión Puerto Rico
-http://156.96.44.13:8081/televall2021/59_.m3u8?token=a4k4_fUKY_bPVXYy22UO2w&expires=1607590556
+http://xtream.encohd.co:25461/live/AxYXdji6Kv/7uRFri5Z45/9.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Galavisión
 http://156.96.44.13:8081/televall2021/63_.m3u8?token=a4k4_fUKY_bPVXYy22UO2w&expires=1607590556
@@ -552,6 +552,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37
 #EXTINF:-1 group-title="MUSICA", Telehit
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA" , Nick Music
+http://xtream.encohd.co:25461/live/AxYXdji6Kv/7uRFri5Z45/30.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", MTV spliker
 
