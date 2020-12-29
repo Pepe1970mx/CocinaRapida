@@ -177,7 +177,7 @@ http://tv.nousiptv.com:8080/Lucy/123456/4121
 
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Comedy Central 
-
+http://tv.nousiptv.com:8080/Lucy/123456/3241
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Pluto Humor
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=9aab038a-166d-11eb-8c1a-0242ac110002&userId=&serverSideAds=true
