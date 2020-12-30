@@ -347,6 +347,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e930009
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , AMC 
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , TNT 
+http://tv5full.xyz:25461/michael/michael/1564
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Space 
 http://tv.nousiptv.com:8080/Lucy/123456/3232
