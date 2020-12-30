@@ -265,7 +265,7 @@ http://tv.nousiptv.com:8080/Lucy/123456/3249
 http://instanttv.info:8080/TV-72370097/591175072920/64410
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney XD 
-http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/4954.ts
+http://tv.nousiptv.com:8080/Lucy/123456/3221
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney Junior
 http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/4953.ts
