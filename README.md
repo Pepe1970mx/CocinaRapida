@@ -171,7 +171,7 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 
 
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", FOX channel
-http://tv5full.xyz:25461/michael/michael/1599
+http://tv.nousiptv.com:8080/Lucy/123456/4121
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO",  Distrito Comedia 
 
