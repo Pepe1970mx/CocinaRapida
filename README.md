@@ -280,7 +280,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b991420009
 
 
 #EXTINF:-1 tvg-logo=" " group-title="RETRO" , Tooncast
-http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/74760.ts
+http://tv.nousiptv.com:8080/Lucy/123456/3242
 
 #EXTINF:-1 group-title="RETRO" , Boomerang
 http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/4936.ts
