@@ -362,10 +362,10 @@ http://tv.nousiptv.com:8080/Lucy/123456/3228
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Golden Premier
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO Plus
-http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/4996.ts
+http://tv.nousiptv.com:8080/Lucy/123456/4003
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO 
-http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/4994.ts
+http://tv.nousiptv.com:8080/Lucy/123456/3199
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Movies
 http://tv.nousiptv.com:8080/Lucy/123456/3266
