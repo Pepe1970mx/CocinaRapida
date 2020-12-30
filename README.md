@@ -365,8 +365,8 @@ http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/4996.ts
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO 
 http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/4994.ts
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO 2 
-
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Movies
+http://tv.nousiptv.com:8080/Lucy/123456/3266
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Premium Action 
 http://tv.nousiptv.com:8080/Lucy/123456/3263
@@ -523,7 +523,7 @@ https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 http://tv.nousiptv.com:8080/Lucy/123456/3258
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2  
-http://tv.nousiptv.com:8080/Lucy/123456/3258
+http://tv.nousiptv.com:8080/Lucy/123456/3259
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Espn 3
 http://tv.nousiptv.com:8080/Lucy/123456/3260
