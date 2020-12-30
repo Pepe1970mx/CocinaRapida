@@ -483,7 +483,7 @@ http://tv.nousiptv.com:8080/Lucy/123456/4142
 http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/436.ts
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS", De Película Clásico
-http://xtream.encohd.co:25461/live/AxYXdji6Kv/7uRFri5Z45/27.m3u8
+http://tv.nousiptv.com:8080/Lucy/123456/3239
 
 
 
