@@ -552,7 +552,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37
 #EXTINF:-1 group-title="MUSICA", Telehit
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA" , Nick Music
-http://xtream.encohd.co:25461/live/AxYXdji6Kv/7uRFri5Z45/30.m3u8
+http://tv.nousiptv.com:8080/Lucy/123456/3220
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", MTV spliker
 
