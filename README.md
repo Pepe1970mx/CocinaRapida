@@ -355,6 +355,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e930009
 
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Warner TV
+http://tv.nousiptv.com:8080/Lucy/123456/3228
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Golden Premier
 
