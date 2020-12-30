@@ -528,10 +528,10 @@ http://tv.nousiptv.com:8080/Lucy/123456/3258
 http://tv.nousiptv.com:8080/Lucy/123456/3260
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports  
-http://srregio.net/Sr_Regio151120/tp.php?c=170&p=3&k=srregio&f=.m3u8
+http://tv.nousiptv.com:8080/Lucy/123456/3267
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports 2 
-http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/4964.ts
+http://tv.nousiptv.com:8080/Lucy/123456/3268
  
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN 
 http://tv.nousiptv.com:8080/Lucy/123456/3357
