@@ -194,6 +194,9 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Mi Gente TV
 https://inliveserver.com:1936/14030/14030/.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Best Cable TV
+https://live.siete.us:1991/bestcable/bestcable/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Mega TV
 https://cp.sradiotv.com:1936/Stream/Stream/playlist.m3u8?PlaylistM3UCL
 
