@@ -191,8 +191,11 @@ https://5c21f7ec1999d.streamlock.net/8070/8070/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINO HD" , Mi Gente TV
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Mi Gente TV
 https://inliveserver.com:1936/14030/14030/.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Mega TV
+https://cp.sradiotv.com:1936/Stream/Stream/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Atacama TV
 https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
