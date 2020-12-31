@@ -408,10 +408,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009
 #EXTINF:-1 tvg-logo=" " group-title="TERROR" , Pluto Novelas Triller
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=34.0729&deviceLon=-118.2606&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=9d2bf80e-eee0-11ea-a685-0242ac110002&userId=&serverSideAds=true
 
-
+#EXTINF:-1 tvg-logo=" " group-title="LATINO HD" , Cinecable
+https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO HD" , Cine Club
-#EXTINF 
+
 
 #EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="LATINO HD" , FM 2
 https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/playlist.m3u8?PlaylistM3UCL
