@@ -109,8 +109,8 @@ https://bcovlive-a.akamaihd.net/8520a5c6a0384300b735385e02e2f582/us-west-2/60566
 #EXTINF:-1 tvg-logo=" " group-title="LATINO" , MegaClasicos
 http://xtream.encohd.co:25461/live/AxYXdji6Kv/7uRFri5Z45/5169.m3u8
 
-#EXTINF:-1 tvg-logo="http://cdn.canal10.com.ni/2018/v3/images/logo.png?v=360380257" group-title="LATINO" , Canal 2 Nicaragua
-https://cootv.cootel.com.ni/streams/d/SSLCH2-HD-NCO/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.canal10.com.ni/2018/v3/images/logo.png?v=360380257" group-title="LATINO" , Ve Plus
+http://190.122.96.187:8888/http/006
  
 
 #EXTINF:-1 tvg-logo="http://cdn.canal10.com.ni/2018/v3/images/logo.png?v=360380257" group-title="LATINO" , Canal 10 Nicaragua
