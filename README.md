@@ -415,7 +415,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e10
 https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO HD" , Cine Club
-
+https://Stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="LATINO HD" , FM 2
 https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/playlist.m3u8?PlaylistM3UCL
