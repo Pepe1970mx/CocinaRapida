@@ -666,7 +666,7 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgrat
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on?e74
  
 #EXTINF:-1 tvg-logo" "group-title="MUSICA" , TVPOP
-https://v2.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
+https://v4.tustreaming.cl/poptv/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo" "group-title="MUSICA" , Retroplus Señal 2 Música Baladas
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
