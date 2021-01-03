@@ -193,7 +193,7 @@ https://5c21f7ec1999d.streamlock.net/8070/8070/playlist.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Mi Gente TV
-https://inliveserver.com:1936/14030/14030/.m3u8
+http://video1.veemesoft.com.ar:1935/14030/14030/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Best Cable TV
 https://live.siete.us:1991/bestcable/bestcable/playlist.m3u8
