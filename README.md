@@ -389,10 +389,10 @@ http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=71f1da86-eee5-11ea-ac99-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo=" " group-title="FAMILY" , HBO Family 
-http://tv.nousiptv.com:8080/Lucy/123456/4117
+
 
 #EXTINF:-1 tvg-logo=" " group-title="FAMILY" , FOX Premium Family
-http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/6325.ts
+
 
 
 
@@ -410,7 +410,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e930009
 
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , AMC 
-http://tv.nousiptv.com:8080/Lucy/123456/4118
+http://instanttv.info:8080/TV-72370097/591175072920/75437
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , TNT 
 http://tv5full.xyz:25461/michael/michael/1564
@@ -548,7 +548,7 @@ http://tv.nousiptv.com:8080/Lucy/123456/3267
 http://tv.nousiptv.com:8080/Lucy/123456/3268
  
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN 
-http://tv.nousiptv.com:8080/Lucy/123456/3357
+http://tv.nousiptv.com:8080/Lucy/123456/4117
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Claro Sports 
 https://d21r053hxdt5v1.cloudfront.net/live/cs01/live.isml/cs01.m3u8
