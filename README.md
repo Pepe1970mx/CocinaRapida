@@ -389,7 +389,7 @@ http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=71f1da86-eee5-11ea-ac99-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo=" " group-title="FAMILY" , HBO Family 
-
+http://zufreelist.net:8080/afgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaerga/afgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaerga/23
 
 #EXTINF:-1 tvg-logo=" " group-title="FAMILY" , FOX Premium Family
 
@@ -427,10 +427,10 @@ http://tv.nousiptv.com:8080/Lucy/123456/3228
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Golden Premier
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO Plus
-http://tv.nousiptv.com:8080/Lucy/123456/4003
+http://zufreelist.net:8080/afgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaerga/afgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaerga/25
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO 
-http://tv.nousiptv.com:8080/Lucy/123456/3199
+http://zufreelist.net:8080/afgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaerga/afgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaerga/21
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Movies
 http://tv.nousiptv.com:8080/Lucy/123456/3266
