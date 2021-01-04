@@ -502,7 +502,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984c1dc548530007
 http://tv.nousiptv.com:8080/Lucy/123456/4142
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS", TV Azteca Cinema
-http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/436.ts
+http://instanttv.info:8080/TV-72370097/591175072920/75442
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS", De Película Clásico
 http://tv.nousiptv.com:8080/Lucy/123456/3239
