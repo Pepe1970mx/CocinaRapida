@@ -321,7 +321,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe
 
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Cartoon Network 
-http://tv.nousiptv.com:8080/Lucy/123456/3249
+http://instanttv.info:8080/TV-72370097/591175072920/75455
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney +
 http://instanttv.info:8080/TV-72370097/591175072920/64410
