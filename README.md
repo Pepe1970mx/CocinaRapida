@@ -505,7 +505,7 @@ http://tv.nousiptv.com:8080/Lucy/123456/4142
 http://instanttv.info:8080/TV-72370097/591175072920/75442
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS", De Película Clásico
-http://tv.nousiptv.com:8080/Lucy/123456/3239
+http://instanttv.info:8080/TV-72370097/591175072920/75463
 
 
 #EXTINF:-1 tvg-logo="http://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="DEPORTES" , MLB Network 
