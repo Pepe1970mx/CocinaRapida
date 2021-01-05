@@ -410,7 +410,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e930009
 
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , AMC 
-http://instanttv.info:8080/TV-72370097/591175072920/75437
+http://zufreelist.net:8080/azfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgae/9vWQz6sa0lZ0u7ZspsamZ0u7ZsazfdsvgaefdgawerfgaewrfgaepsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/3
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , TNT 
 http://tv5full.xyz:25461/michael/michael/1564
