@@ -566,8 +566,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37
 #EXTINF:-1 group-title="MUSICA", 24/7 Conciertos
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/7.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="MUSICA", Best Cable Music
-https://live.siete.us:1991/bestcablemusic/bestcablemusic/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA", Latina Music
+https://livefocamundo.com:8081/8470/index.m3u8
 
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA" , Nick Music
