@@ -533,13 +533,13 @@ http://xtream.encohd.co:25461/live/AxYXdji6Kv/7uRFri5Z45/22.m3u8
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 
-http://tv.nousiptv.com:8080/Lucy/123456/3258
+http://instanttv.info:8080/TV-72370097/591175072920/75483
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2  
-http://tv.nousiptv.com:8080/Lucy/123456/3178
+http://instanttv.info:8080/TV-72370097/591175072920/75484
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Espn 3
-http://tv.nousiptv.com:8080/Lucy/123456/3260
+http://instanttv.info:8080/TV-72370097/591175072920/75485
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports  
 http://tv.nousiptv.com:8080/Lucy/123456/3267
