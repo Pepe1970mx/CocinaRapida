@@ -305,7 +305,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984ba0c548530007
 
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Nick
-http://tv.nousiptv.com:8080/Lucy/123456/3071
+http://zufreelist.net:8080/azfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgae/9vWQz6sa0lZ0u7ZspsamZ0u7ZsazfdsvgaefdgawerfgaewrfgaepsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/88
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Nick Pluto
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=37.7510&deviceLon=-97.8220&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=537fe437-141b-11eb-85e0-0242ac110002&userId=&serverSideAds=true
@@ -327,13 +327,13 @@ http://instanttv.info:8080/TV-72370097/591175072920/75455
 http://instanttv.info:8080/TV-72370097/591175072920/64410
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney Channel 
-http://instanttv.info:8080/TV-72370097/591175072920/75475
+http://zufreelist.net:8080/azfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgae/9vWQz6sa0lZ0u7ZspsamZ0u7ZsazfdsvgaefdgawerfgaewrfgaepsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/84
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney XD 
-http://instanttv.info:8080/TV-72370097/591175072920/75477
+http://zufreelist.net:8080/azfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgae/9vWQz6sa0lZ0u7ZspsamZ0u7ZsazfdsvgaefdgawerfgaewrfgaepsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/85
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney Junior
-http://instanttv.info:8080/TV-72370097/591175072920/75466
+http://zufreelist.net:8080/azfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgae/9vWQz6sa0lZ0u7ZspsamZ0u7ZsazfdsvgaefdgawerfgaewrfgaepsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/83
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Teen
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android+Browser&deviceModel=Android+Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=d0572f33-f189-11ea-ac99-0242ac110002&userId=&serverSideAds=true
@@ -345,10 +345,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b991420009
 
 
 #EXTINF:-1 tvg-logo=" " group-title="RETRO" , Tooncast
-http://tv.nousiptv.com:8080/Lucy/123456/3242
+http://zufreelist.net:8080/azfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgae/9vWQz6sa0lZ0u7ZspsamZ0u7ZsazfdsvgaefdgawerfgaewrfgaepsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/89
 
 #EXTINF:-1 group-title="RETRO" , Boomerang
-http://tv.nousiptv.com:8080/Lucy/123456/3085
+http://zufreelist.net:8080/azfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgae/9vWQz6sa0lZ0u7ZspsamZ0u7ZsazfdsvgaefdgawerfgaewrfgaepsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/81
 
 #EXTINF:-1 group-title="RETRO" , Pluto Series Retro
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=275a49f5-f05f-11ea-b899-0242ac110002&userId=&serverSideAds=true
