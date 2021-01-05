@@ -172,7 +172,7 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 
 
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", FOX channel
-http://tv.nousiptv.com:8080/Lucy/123456/4121
+http://instanttv.info:8080/TV-72370097/591175072920/75493
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO",  Distrito Comedia 
 http://instanttv.info:8080/TV-72370097/591175072920/75461
@@ -433,10 +433,10 @@ http://zufreelist.net:8080/afgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafg
 http://zufreelist.net:8080/afgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaerga/afgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaerga/21
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Movies
-http://tv.nousiptv.com:8080/Lucy/123456/3266
+http://instanttv.info:8080/TV-72370097/591175072920/75496
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Premium Action 
-http://tv.nousiptv.com:8080/Lucy/123456/3263
+http://instanttv.info:8080/TV-72370097/591175072920/75495
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Pluto Acción
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=97c7d537-1741-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
@@ -542,10 +542,10 @@ http://instanttv.info:8080/TV-72370097/591175072920/75484
 http://instanttv.info:8080/TV-72370097/591175072920/75485
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports  
-http://tv.nousiptv.com:8080/Lucy/123456/3267
+http://instanttv.info:8080/TV-72370097/591175072920/75500
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports 2 
-http://tv.nousiptv.com:8080/Lucy/123456/3268
+http://instanttv.info:8080/TV-72370097/591175072920/75501
  
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN 
 http://tv.nousiptv.com:8080/Lucy/123456/4117
