@@ -108,15 +108,6 @@ https://bcovlive-a.akamaihd.net/8520a5c6a0384300b735385e02e2f582/us-west-2/60566
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO" , MegaClasicos
 
-#EXTINF:-1 tvg-logo="http://cdn.canal10.com.ni/2018/v3/images/logo.png?v=360380257" group-title="LATINO" , Ve Plus
-http://190.122.96.187:8888/http/006
- 
-
-#EXTINF:-1 tvg-logo="http://cdn.canal10.com.ni/2018/v3/images/logo.png?v=360380257" group-title="LATINO" , Canal 10 Nicaragua
-https://cootv.cootel.com.ni/streams/d/SSLCH10-HD-NCO/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.DPGfgUjmX9JrJZeQmya-BQAAAA&pid=Api&P=0&w=300&h=300" group-title="LATINO" , Canal 11 Nicaragua
-http://138.117.4.70:8079/streams/d/CH-11/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="" group-title="LATINO", City Television
 http://190.122.96.187:8888/http/004
@@ -124,8 +115,11 @@ http://190.122.96.187:8888/http/004
 #EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/#&gid=1&pid=1" group-title="LATINO", Telecosta 
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
-#EXTINF:-1 tv-logo" " group-title="LATINO", Latinos UP
-https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.canal10.com.ni/2018/v3/images/logo.png?v=360380257" group-title="LATINO" , Canal 10 Nicaragua
+https://cootv.cootel.com.ni/streams/d/SSLCH10-HD-NCO/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.DPGfgUjmX9JrJZeQmya-BQAAAA&pid=Api&P=0&w=300&h=300" group-title="LATINO" , Canal 11 Nicaragua
+http://138.117.4.70:8079/streams/d/CH-11/playlist.m3u8
 
 
 
@@ -188,30 +182,18 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FRECUENCIA MUSICAL 
 https://5c21f7ec1999d.streamlock.net/8070/8070/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="ENTRETENIMIENTO" , FM 2
+https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="ENTRETENIMIENTO" , FM 3
+https://stmv.panel.mivideo.pro/fmtvmundo3/fmtvmundo3/playlist.m3u8?PlaylistM3UCL
  
 #EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Mi Gente TV
 http://video1.veemesoft.com.ar:1935/14030/14030/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Best Cable TV
-https://live.siete.us:1991/bestcable/bestcable/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Mega TV
-https://cp.sradiotv.com:1936/Stream/Stream/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Atacama TV
-
-
-#EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/Canal-11.jpg" group-title="ENTRETENIMIENTO" , Telesistema 11
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="ENTRETENIMIENTO", Microvision 
-
-
-
-#EXTINF: -1 tvg-logo="http://www.teleamazonas.com/wp-content/uploads/2017/11/logoTA119x90.png" group-title="ENTRETENIMIENTO" ,Tele Amazonas 
-
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Canal 8 Nicaragua
 https://cootv.cootel.com.ni/streams/d/SSLCH08-HD-MCD/playlist.m3u8
@@ -222,12 +204,6 @@ https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Cine Club
 https://Stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="ENTRETENIMIENTO" , FM 2
-https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="ENTRETENIMIENTO" , FM 3
-https://stmv.panel.mivideo.pro/fmtvmundo3/fmtvmundo3/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:0 tvg-logo="" group-title="ENTRETENIMIENTO", ACV Movies
 https://stmv.panel.mivideo.pro/acvisionecuador/acvisionecuador/.m3u8
 
@@ -236,8 +212,6 @@ http://190.3.169.119:8080/latina/latina/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:0 tvg-logo="" group-title="ENTRETENIMIENTO", FlixTube
 https://panel.streamingtv-mediacp.online:1936/8054/8054/chunklist_w1335949035.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/93/b2/93b20146d534d4b089aae90e11bf775f.jpg" group-title="ENTRETENIMIENTO" , VALLEVISION DO
 http://stream.mxiptv.org:25461/live/tvabierta/opentv/264.m3u8
@@ -251,7 +225,7 @@ http://cm.hostlagarto.com:8081/wmserviceHD/wmservicehd.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="ENTRETENIMIENTO" , PHTV DO
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 
- #EXTINF:-1 tvg-logo="https://ghtelevision.com/images/gh_television_logo_sm.png" group-title="LATINO ENTRETENIMIENTOHD" , GHTV DO
+ #EXTINF:-1 tvg-logo="https://ghtelevision.com/images/gh_television_logo_sm.png" group-title="ENTRETENIMIENTOHD" , GHTV DO
 http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8?fluxustv.m3u8
  
 #EXTINF:-1 group-logo="http://bhtv.pe/wp-content/uploads/2019/04/bhtv-logo-web-300x219.png"group-title="ENTRETENIMIENTO", BHTV 
@@ -267,7 +241,17 @@ http://america.tucableip.com:8181/reconline/live/tracks-v1a1/mono.m3u8
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 
 
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Best Cable TV
 
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Atacama TV
+
+#EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/Canal-11.jpg" group-title="ENTRETENIMIENTO" , Telesistema 11
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sbv9mq5.png" group-title="ENTRETENIMIENTO", Microvision 
+
+
+
+#EXTINF: -1 tvg-logo="http://www.teleamazonas.com/wp-content/uploads/2017/11/logoTA119x90.png" group-title="ENTRETENIMIENTO" ,Tele Amazonas 
 
 
 
@@ -288,6 +272,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e0007
 
 #EXTINF:-1 tvg-logo=" " group-title="24/7" , Pluto The Walking Dead 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=37.7510&deviceLon=-97.8220&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=37208cd2-0d86-11eb-9857-0242ac110002&userId=&serverSideAds=true
+
+
 
 
 
@@ -327,13 +313,13 @@ http://instanttv.info:8080/TV-72370097/591175072920/75455
 http://instanttv.info:8080/TV-72370097/591175072920/64410
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney Channel 
-http://zufreelist.net:8080/azfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgae/9vWQz6sa0lZ0u7ZspsamZ0u7ZsazfdsvgaefdgawerfgaewrfgaepsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/84
+http://zufreelist.net:8080/azfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgae/9vWQz6sa0lZ0u7ZspsamZ0u7ZsazfdsvgaefdgawerfgaewrfgaepsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/83
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney XD 
 http://zufreelist.net:8080/azfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgae/9vWQz6sa0lZ0u7ZspsamZ0u7ZsazfdsvgaefdgawerfgaewrfgaepsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/85
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney Junior
-http://zufreelist.net:8080/azfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgae/9vWQz6sa0lZ0u7ZspsamZ0u7ZsazfdsvgaefdgawerfgaewrfgaepsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/83
+http://zufreelist.net:8080/azfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgae/9vWQz6sa0lZ0u7ZspsamZ0u7ZsazfdsvgaefdgawerfgaewrfgaepsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/84
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Teen
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android+Browser&deviceModel=Android+Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=d0572f33-f189-11ea-ac99-0242ac110002&userId=&serverSideAds=true
@@ -345,7 +331,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b991420009
 
 
 #EXTINF:-1 tvg-logo=" " group-title="RETRO" , Tooncast
-http://zufreelist.net:8080/azfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgae/9vWQz6sa0lZ0u7ZspsamZ0u7ZsazfdsvgaefdgawerfgaewrfgaepsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/89
+http://zufreelist.net:8080/azfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgae/9vWQz6sa0lZ0u7ZspsamZ0u7ZsazfdsvgaefdgawerfgaewrfgaepsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/90
 
 #EXTINF:-1 group-title="RETRO" , Boomerang
 http://zufreelist.net:8080/azfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgae/9vWQz6sa0lZ0u7ZspsamZ0u7ZsazfdsvgaefdgawerfgaewrfgaepsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/81
@@ -372,6 +358,8 @@ https://panel.streamingtv-mediacp.online:1936/876769/876769/playlist.m3u8?Playli
 
 #EXTINF:-1 group-title="RETRO" , Tele Más 
 
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" , Mega TV
+https://cp.sradiotv.com:1936/Stream/Stream/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="RETRO", TELERED 
 http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
@@ -381,6 +369,7 @@ http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="http://www.mi-television.com/uploads/1/0/3/0/103099212/new-image-for-youtube_orig.png" group-title="RETRO", MITV 
 http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
+
 
 
 
