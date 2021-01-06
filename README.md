@@ -46,7 +46,7 @@ https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/in
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
 #EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="MEXICO" , TeleFórmula 
-https://www.dailymotion.com/cdn/live/video/x7u0spq.m3u8?sec=wx3yXWgWWob1E5MmINCzgaITq4E6zMv6UIeFEU_r9G5hPZ2aj8-M5Oc-zjBLA4r6R5usaIQakiFD6oIJTwScBg
+https://www.dailymotion.com/cdn/live/video/x7u0spq.m3u8?sec=wx3yXWgWWob1E5MmINCzgVqiBYIyfsCbk104S7Js-c5ZLWlGAqxJtSZBSmV2WzjO8Zo5rrLFcY9phc9rdZTXdA
 
 #EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="MEXICO" , CNN Español
 http://gmsiptv.ddns.net:8080/hls/cnne.m3u8
