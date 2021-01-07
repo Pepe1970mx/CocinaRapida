@@ -313,13 +313,13 @@ http://instanttv.info:8080/TV-72370097/591175072920/75455
 http://instanttv.info:8080/TV-72370097/591175072920/64410
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney Channel 
-http://tv.nstvlatino.com:8080/jairo1/jairo123/3019
+http://tv.nousiptv.com:8080/jairo1/jairo123/3019
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney XD 
-http://tv.nstvlatino.com:8080/jairo1/jairo123/3221
+http://tv.nousiptv.com:8080/jairo1/jairo123/3221
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney Junior
-http://tv.nstvlatino.com:8080/jairo1/jairo123/3220
+http://tv.nousiptv.com:8080/jairo1/jairo123/3220
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Teen
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android+Browser&deviceModel=Android+Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=d0572f33-f189-11ea-ac99-0242ac110002&userId=&serverSideAds=true
