@@ -169,7 +169,7 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 http://instanttv.info:8080/TV-72370097/591175072920/75493
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO",  Distrito Comedia 
-http://instanttv.info:8080/TV-72370097/591175072920/75461
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3209
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Comedy Central 
 http://tv.nousiptv.com:8080/Lucy/123456/3241
