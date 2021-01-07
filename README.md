@@ -537,7 +537,7 @@ http://instanttv.info:8080/TV-72370097/591175072920/75500
 http://instanttv.info:8080/TV-72370097/591175072920/75501
  
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN 
-http://tv.nousiptv.com:8080/Lucy/123456/4117
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3751
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Claro Sports 
 https://d21r053hxdt5v1.cloudfront.net/live/cs01/live.isml/cs01.m3u8
