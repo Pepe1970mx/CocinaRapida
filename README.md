@@ -331,10 +331,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b991420009
 
 
 #EXTINF:-1 tvg-logo=" " group-title="RETRO" , Tooncast
-http://zufreelist.net:8080/azfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgae/9vWQz6sa0lZ0u7ZspsamZ0u7ZsazfdsvgaefdgawerfgaewrfgaepsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/90
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3085
 
 #EXTINF:-1 group-title="RETRO" , Boomerang
-http://zufreelist.net:8080/azfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgae/9vWQz6sa0lZ0u7ZspsamZ0u7ZsazfdsvgaefdgawerfgaewrfgaepsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/81
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3094
 
 #EXTINF:-1 group-title="RETRO" , Pluto Series Retro
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=275a49f5-f05f-11ea-b899-0242ac110002&userId=&serverSideAds=true
