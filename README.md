@@ -181,7 +181,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FRECUENCIA MUSICAL 
-https://5c21f7ec1999d.streamlock.net/8070/8070/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="ENTRETENIMIENTO" , FM 2
 https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/playlist.m3u8?PlaylistM3UCL
@@ -208,7 +208,7 @@ https://Stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8?PlaylistM3UCL
 https://stmv.panel.mivideo.pro/acvisionecuador/acvisionecuador/.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="ENTRETENIMIENTO", All Peliculas
-http://190.3.169.119:8080/latina/latina/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:0 tvg-logo="" group-title="ENTRETENIMIENTO", FlixTube
 https://panel.streamingtv-mediacp.online:1936/8054/8054/chunklist_w1335949035.m3u8
@@ -225,7 +225,7 @@ http://cm.hostlagarto.com:8081/wmserviceHD/wmservicehd.myStream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="ENTRETENIMIENTO" , PHTV DO
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 
- #EXTINF:-1 tvg-logo="https://ghtelevision.com/images/gh_television_logo_sm.png" group-title="ENTRETENIMIENTOHD" , GHTV DO
+ #EXTINF:-1 tvg-logo="https://ghtelevision.com/images/gh_television_logo_sm.png" group-title="ENTRETENIMIENTO" , GHTV DO
 http://ss6.domint.net:2046/gh_str/tv10/chunklist_w1301712904.m3u8?fluxustv.m3u8
  
 #EXTINF:-1 group-logo="http://bhtv.pe/wp-content/uploads/2019/04/bhtv-logo-web-300x219.png"group-title="ENTRETENIMIENTO", BHTV 
@@ -239,6 +239,12 @@ http://america.tucableip.com:8181/reconline/live/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.RKlMeeY5FJWfXURLiItI0wHaEK&pid=Api&P=0&w=270&h=152"group-title="ENTRETENIMIENTO" , READYTV DO
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://orbittv.net/images/orbit_logo4.png" group-title="PREMIUM" , ORBITV DO
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:0 tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="PREMIUM", Zee Cinema 
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Best Cable TV
@@ -334,7 +340,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b991420009
 http://tv.nstvlatino.com:8080/jairo1/jairo123/3085
 
 #EXTINF:-1 group-title="RETRO" , Boomerang
-http://tv.nstvlatino.com:8080/jairo1/jairo123/3094
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3085
 
 #EXTINF:-1 group-title="RETRO" , Pluto Series Retro
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=275a49f5-f05f-11ea-b899-0242ac110002&userId=&serverSideAds=true
@@ -378,7 +384,6 @@ http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=71f1da86-eee5-11ea-ac99-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo=" " group-title="FAMILY" , HBO Family 
-http://zufreelist.net:8080/afgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaerga/afgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaerga/23
 
 #EXTINF:-1 tvg-logo=" " group-title="FAMILY" , FOX Premium Family
 
@@ -399,7 +404,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e930009
 
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , AMC 
-http://zufreelist.net:8080/azfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgaeazfdsvgaefdgawerfgaewrfgae/9vWQz6sa0lZ0u7ZspsamZ0u7ZsazfdsvgaefdgawerfgaewrfgaepsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7ZspsamZ0u7Zspsam/3
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , TNT 
 http://tv5full.xyz:25461/michael/michael/1564
@@ -416,10 +420,9 @@ http://tv.nousiptv.com:8080/Lucy/123456/3228
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Golden Premier
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO Plus
-http://zufreelist.net:8080/afgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaerga/afgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaerga/25
+
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO 
-http://zufreelist.net:8080/afgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaerga/afgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaerga/21
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Movies
 http://instanttv.info:8080/TV-72370097/591175072920/75496
@@ -442,11 +445,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff0009
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Pluto SCIFI
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=21.3480&deviceLon=-97.6800&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=352e2af8-3cd9-11eb-8528-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="http://orbittv.net/images/orbit_logo4.png" group-title="PREMIUM" , ORBITV DO
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:0 tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="PREMIUM", Zee Cinema 
-https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
 
 
@@ -516,7 +515,7 @@ https://bein-plutolive-vo.akamaized.net/r/hlslive/bein.m3u8?chname=bein&pub=cd44
 
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Sky Sports 21
-http://xtream.encohd.co:25461/live/AxYXdji6Kv/7uRFri5Z45/22.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Sky Sports 24
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
