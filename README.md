@@ -537,7 +537,7 @@ http://instanttv.info:8080/TV-72370097/591175072920/75485
 http://instanttv.info:8080/TV-72370097/591175072920/75500
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports 2 
-http://instanttv.info:8080/TV-72370097/591175072920/75501
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3268
  
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN 
 http://tv.nstvlatino.com:8080/jairo1/jairo123/3751
