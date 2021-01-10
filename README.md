@@ -669,6 +669,9 @@ http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-http://retromusic.cz/wp-content/uploads/2017/08/retro-logo.png="AXN" group-title="MUSICA" , Retro Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
 
+#EXTINF:-1 tvg-logo" "group-title="MUSICA" , Video Tour Channels
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo" "group-title="MUSICA" , Radio Capital TiVù
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on?e74
  
