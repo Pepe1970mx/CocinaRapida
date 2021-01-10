@@ -19,7 +19,7 @@ http://tv.nousiptv.com:8080/Lucy/123456/3244
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
  
 #EXTINF:-1 tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="MEXICO" , Azteca 7 
-https://dai.google.com/linear/hls/pa/event/1FnFvMQHTl6h-RT9cSU2tg/stream/be0236eb-e358-4cb9-993c-4774a8e53315:TUL/master.m3u8
+http://instanttv.info:8080/TV-72370097/591175072920/75441
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="MEXICO" , A+
 https://aztkhlslive6-i.akamaihd.net:443/hls/live/1019872/4m4s8qo47rr3/master.m3u8
