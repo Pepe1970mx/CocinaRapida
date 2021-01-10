@@ -211,8 +211,8 @@ https://Stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="" group-title="ENTRETENIMIENTO", ACV Movies
 https://stmv.panel.mivideo.pro/acvisionecuador/acvisionecuador/.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="ENTRETENIMIENTO", All Peliculas
-
+#EXTINF:0 tvg-logo="" group-title="ENTRETENIMIENTO", Peliculas1
+http://lavozdetucuman.com/peliculas1.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="ENTRETENIMIENTO", FlixTube
 https://panel.streamingtv-mediacp.online:1936/8054/8054/chunklist_w1335949035.m3u8
