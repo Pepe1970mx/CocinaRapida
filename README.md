@@ -582,7 +582,11 @@ http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo Music Pluto
 https://5f29d07b0fe38c0001fb7f7fpluto.ssai.zype.com/5f29d07b0fe38c0001fb7f7f_pluto/manifest/2.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5f29d07b0fe38c0001fb7f7f_pluto&manifest_id=68a17fb3-14ab-47f8-a0a8-2366db4bee7a&rendition=480&session_id=891d31d9-21b2-d62a-9ca1-6c4f61c81076&partner_id=pluto_tvonfig_id=5f29d07b0fe38c0001fb7f7f_pluto&manifest_id=aedec261-8655-4732-a34b-f27326de2d60&rendition=1080&session_id=5dcb65d0-33d2-8c58-33ec-ee298d168a52&partner_id=pluto_tv7f_pluto&manifest_id=9aa2abe6-6090-4c7b-9e6e-abcffd52e5c6&rendition=480&session_id=32a03c4e-0e19-3a20-e8cb-97f32dbc8412&partner_id=pluto_tv
 
+#EXTINF:-1 tvg-logo="" group-title="MUSICA", HMQ Hits
+https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="MUSICA", HMQ Pop
+https://livelist01.yowi.tv/lista/57cf2f51b07ff21988a7a6f0270a66d41086d4a4/master.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", MTV HITS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984fdc470d460007a67094/master.m3u8?advertisingId=&appName=web&appVersion=5.11.0-1d883e1216be36c166cbf982f832a992718a0632&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=41.3888&deviceLon=2.1590&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=ES&sid=5de4f5a8-29ed-11eb-94f6-0242ac110002&userId=&serverSideAds=true
@@ -632,6 +636,9 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA", 1 Latinos
 
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="MUSICA", MTV
+
+#EXTINF:-1 tvg-logo="" group-title="MUSICA", HMQ Hip Hop
+https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", Rock TV
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
