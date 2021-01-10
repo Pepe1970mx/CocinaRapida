@@ -184,6 +184,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Sol TV
 https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/chunklist_w1124562929_b563840_DVR.m3u8?WebM3UCL
 
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , GeoVision
+https://5fa5de1a545ae.streamlock.net:443/Geovision/Geovision/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FRECUENCIA MUSICAL 
 https://cloud2.streaminglivehd.com:1936/8070/8070/.m3u8
 
