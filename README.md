@@ -197,7 +197,7 @@ https://stmv.panel.mivideo.pro/fmtvmundo3/fmtvmundo3/playlist.m3u8?PlaylistM3UCL
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Mi Gente TV
-http://video1.veemesoft.com.ar:1935/14030/14030/playlist.m3u8
+https://videohd.live:19360/8010/8010.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Canal 8 Nicaragua
 https://cootv.cootel.com.ni/streams/d/SSLCH08-HD-MCD/playlist.m3u8
