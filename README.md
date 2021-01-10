@@ -562,6 +562,9 @@ http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/7.m3u8?PlaylistM3UCL
 https://livefocamundo.com:8081/8470/index.m3u8
 
 
+#EXTINF:-1 group-title="MUSICA", Infinita Radio
+https://stmv.panel.mivideo.pro/infinitatvpremium/infinitatvpremium/chunklist_w1538678881.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA" , Nick Music
 http://tv.nousiptv.com:8080/Lucy/123456/3220
 
