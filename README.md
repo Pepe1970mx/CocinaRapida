@@ -46,7 +46,7 @@ https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/in
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
 #EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="MEXICO" , TeleFórmula 
-https://www.dailymotion.com/cdn/live/video/x7u0spq.m3u8?sec=wx3yXWgWWob1E5MmINCzgVqiBYIyfsCbk104S7Js-c5ZLWlGAqxJtSZBSmV2WzjO8Zo5rrLFcY9phc9rdZTXdA
+https://www.dailymotion.com/cdn/live/video/x7u0spq.m3u8?sec=wx3yXWgWWob1E5MmINCzgVqiBYIyfsCbk104S7Js-zecpktz1vx1p28vch1ja6a1bekpjzcebpetzhtv2kxach1j1cak62xa1zakjhekckx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj.m3u8
 
 #EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="MEXICO" , CNN Español
 http://gmsiptv.ddns.net:8080/hls/cnne.m3u8
