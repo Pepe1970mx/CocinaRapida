@@ -181,8 +181,8 @@ https://sony-comedias-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Pluto Humor
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=9aab038a-166d-11eb-8c1a-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Vision Dorada
-https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Sol TV
+https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/chunklist_w1124562929_b563840_DVR.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FRECUENCIA MUSICAL 
 https://cloud2.streaminglivehd.com:1936/8070/8070/.m3u8
