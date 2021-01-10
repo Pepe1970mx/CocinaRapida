@@ -562,7 +562,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/7.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="MUSICA", Latina Music
-https://livefocamundo.com:8081/8470/index.m3u8
+
 
 
 #EXTINF:-1 group-title="MUSICA", Infinita Radio
@@ -580,13 +580,13 @@ https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_375.
 https://pluto-live.plutotv.net/m/hlslive/mtv-04a.m3u8?chname=mtv-04a&pub=cd44c23c-4796-475f-bcb1-b846bed4cf40&ctype=0&acsurl=pluto-acs-lb.adsparx.net&mcdn=pluto-live.plutotv.net%2Fm&userParams=ccp%3DeyJkZXZpY2VJZCI6IjQyYzI5MTE1LTEzMjktNDFmYi05ZTMwLTVlYTI5MjllY2ZlMyIsImRldmljZVZlcnNpb24iOiI0LjAiLCJhcHBWZXJzaW9uIjoiNS43LjUtMGIxNjc0YjYyNmY1ZTVhZGMxZjJiMWQxMmIwNjhlODlhOTUwZmRmNyIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VNYWtlIjoiQW5kcm9pZCtCcm93c2VyIiwiYWR2ZXJ0aXNpbmdJZCI6IiIsImRldmljZUxhdCI6IjM3LjczNTMiLCJkZXZpY2VMb24iOiItMTIyLjM3MzIiLCJkZXZpY2VETlQiOiJmYWxzZSIsImRldmljZU1vZGVsIjoiQW5kcm9pZCtCcm93c2VyIiwidXNlcklkIjoiIiwiYXBwTmFtZSI6IndlYiIsImFyY2hpdGVjdHVyZSI6IiIsImluY2x1ZGVFeHRlbmRlZEV2ZW50cyI6ImZhbHNlIiwic3JjUHJvdG9jb2wiOiJodHRwcyIsInN0aXRjaGVyVmVyc2lvbiI6IjIuNDEuMCIsInN0aXRjaGVyUmVxSWQiOiIzMWQ1MDZkZS1lYTlkLTRkZjItODA2ZS0xMDQyMWZmYTQyNDEiLCJhZEltcHJlc3Npb25Qcm94eSI6dHJ1ZSwiaXBfYWRkcmVzcyI6IjE5Mi4yNDEuMjMwLjgwIiwiZGV2aWNlX3VhIjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDguMS4wOyBEVUEtTFgzIEJ1aWxkL0hPTk9SRFVBLUxYMzsgd3YpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vNC4wIENocm9tZS84NS4wLjQxODMuMTAxIE1vYmlsZSBTYWZhcmkvNTM3LjM2IiwidHJhbnNhY3Rpb25faWQiOiJhY2Q0YzAxZC1iYTFkLTQ2ZDctYjVjYi0wMzA4NDdlZDJmNzYiLCJkZXZpY2VVc2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgOC4xLjA7IERVQS1MWDMgQnVpbGQvSE9OT1JEVUEtTFgzOyB3dikgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi80LjAgQ2hyb21lLzg1LjAuNDE4My4xMDEgTW9iaWxlIFNhZmFyaS81MzcuMzYiLCJpcEFkZHJlc3MiOiIxOTIuMjQxLjIzMC44MCIsImNoSWQiOiI1ZDM2MDljZDZhNmM3OGQ3NjcyZjJhODEiLCJ0aW1lbGluZUlkIjoiNWY1YWY0ZmFlZDExY2UwMDA4ZmIxZmJjIiwiY2xpcElkIjoiNWQ3OTc5ZjEzYzc3MGNjZmU1MDE3Yzg1Iiwic2Vzc2lvbklkIjoiZjdjNGU4MTMtZjQ2NC0xMWVhLWJmYmYtMDI0MmFjMTEwMDAyIiwiZXBpc29kZUlkIjoiNWQ4YThlYzA0MzhiNGI1ZmRhMGE5M2JiIiwicGFydG5lckNvZGUiOiJNVFYiLCJwYXJ0bmVyX2lkIjoiNWNhNmFhMjcxNWE2MjA3OGQyZWMyM2NkIiwib3JpZ2luIjoiYWRTcGFyeCIsImZyb21fc3RpdGNoZXIiOnRydWV9
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo R&B
-25fe50b073e5&config_id=5f29d23f0fe38c0001fb8036_pluto&manifest_id=a9513541-8f20-44e1-b55f-83bcd74677a1&rendition=480&session_id=801abf1f-09e9-e23a-4d80-3f6848b70931&partner_id=pluto_tv
+
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", 24/7 Pop
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo Music Pluto
-https://5f29d07b0fe38c0001fb7f7fpluto.ssai.zype.com/5f29d07b0fe38c0001fb7f7f_pluto/manifest/2.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5f29d07b0fe38c0001fb7f7f_pluto&manifest_id=68a17fb3-14ab-47f8-a0a8-2366db4bee7a&rendition=480&session_id=891d31d9-21b2-d62a-9ca1-6c4f61c81076&partner_id=pluto_tvonfig_id=5f29d07b0fe38c0001fb7f7f_pluto&manifest_id=aedec261-8655-4732-a34b-f27326de2d60&rendition=1080&session_id=5dcb65d0-33d2-8c58-33ec-ee298d168a52&partner_id=pluto_tv7f_pluto&manifest_id=9aa2abe6-6090-4c7b-9e6e-abcffd52e5c6&rendition=480&session_id=32a03c4e-0e19-3a20-e8cb-97f32dbc8412&partner_id=pluto_tv
+&
 
 #EXTINF:-1 tvg-logo="" group-title="MUSICA", HMQ Hits
 https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8
@@ -595,7 +595,7 @@ https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master
 https://livelist01.yowi.tv/lista/57cf2f51b07ff21988a7a6f0270a66d41086d4a4/master.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", MTV HITS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984fdc470d460007a67094/master.m3u8?advertisingId=&appName=web&appVersion=5.11.0-1d883e1216be36c166cbf982f832a992718a0632&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=41.3888&deviceLon=2.1590&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=ES&sid=5de4f5a8-29ed-11eb-94f6-0242ac110002&userId=&serverSideAds=true
+
 
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="MUSICA", MTV POP
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
@@ -664,7 +664,7 @@ http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/4.m3u8?PlaylistM3UCL
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="MUSICA", OTTO FM
-http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8?fluxustv.m3u8
+
  
 #EXTINF:-1 tvg-http://retromusic.cz/wp-content/uploads/2017/08/retro-logo.png="AXN" group-title="MUSICA" , Retro Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
