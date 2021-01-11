@@ -540,7 +540,7 @@ http://instanttv.info:8080/TV-72370097/591175072920/75485
 http://instanttv.info:8080/TV-72370097/591175072920/75500
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports 2 
-http://tv.ipflix.click:8080//TM/Lopes3562/67132
+http://156.96.44.13:8081/televall2021/145_.m3u8?token=HLWyUysDVQwg6x-e5NBJvg&expires=1610328956
  
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN 
 http://tv.nstvlatino.com:8080/jairo1/jairo123/3751
