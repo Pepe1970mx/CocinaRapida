@@ -202,6 +202,9 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Mi Gente TV
 https://videohd.live:19360/8010/8010.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Urve
+https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Canal 8 Nicaragua
 https://cootv.cootel.com.ni/streams/d/SSLCH08-HD-MCD/playlist.m3u8
 
