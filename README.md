@@ -347,7 +347,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b991420009
 
 
 #EXTINF:-1 tvg-logo=" " group-title="RETRO" , Tooncast
-http://tv.nstvlatino.com:8080/jairo1/jairo123/3085
+http://tv5full.xyz:25461/michael/michael/1462
 
 #EXTINF:-1 group-title="RETRO" , Boomerang
 http://tv.nstvlatino.com:8080/jairo1/jairo123/3085
