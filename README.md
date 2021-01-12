@@ -180,6 +180,9 @@ https://sony-comedias-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Pluto Humor
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=9aab038a-166d-11eb-8c1a-0242ac110002&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Pluto Family 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=71f1da86-eee5-11ea-ac99-0242ac110002&userId=&serverSideAds=true
+
 #EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FRECUENCIA MUSICAL 
 https://cloud2.streaminglivehd.com:1936/8070/8070/.m3u8
 
@@ -392,8 +395,7 @@ http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo=" " group-title="FAMILY" , Pluto Family 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=71f1da86-eee5-11ea-ac99-0242ac110002&userId=&serverSideAds=true
+
 
 #EXTINF:-1 tvg-logo=" " group-title="FAMILY" , HBO Family 
 
@@ -429,7 +431,8 @@ http://tv.nousiptv.com:8080/Lucy/123456/3232
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Warner TV
 http://tv.nousiptv.com:8080/Lucy/123456/3228
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Golden Premier
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Sony
+
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO Plus
 
@@ -437,7 +440,7 @@ http://tv.nousiptv.com:8080/Lucy/123456/3228
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO 
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Movies
-http://instanttv.info:8080/TV-72370097/591175072920/75496
+
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Premium Action 
 http://instanttv.info:8080/TV-72370097/591175072920/75495
@@ -476,12 +479,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Pluto Novelas Triller
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=34.0729&deviceLon=-118.2606&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=9d2bf80e-eee0-11ea-a685-0242ac110002&userId=&serverSideAds=true
 
-
-
-
-
-
- 
 #EXTINF:-1 tvg-logo="http://puñaltv.com/imagenes/logo%20de%20pu%C3%B1al%20tv.png" group-title="LATINO PELICULAS" , DANTV DO
  
 #EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="LATINO PELICULAS" , FMHOT
