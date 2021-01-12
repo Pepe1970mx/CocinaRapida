@@ -418,6 +418,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e930009
 
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , AMC 
+http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/48388
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , TNT 
 http://tv5full.xyz:25461/michael/michael/1564
