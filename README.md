@@ -25,7 +25,7 @@ http://instanttv.info:8080/TV-72370097/591175072920/75446
 https://aztkhlslive6-i.akamaihd.net:443/hls/live/1019872/4m4s8qo47rr3/master.m3u8
  
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EM8Ks47kwqSGMiH4twcCBgAAAA&pid=Api&P=0&w=175&h=43" group-title="MEXICO", Canal 9
-http://212.102.60.121:8000/Demo25478/a1FnZIdI8G/31434
+http://instanttv.info:8080/TV-72370097/591175072920/75502
 
 #EXTINF:-1 tvg-logo="" group-title="MEXICO", Canal 10
 https://stream.mxiptv.org/live/tvabierta/opentv/4.m3u8
