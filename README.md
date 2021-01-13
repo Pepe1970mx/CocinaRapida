@@ -4,7 +4,7 @@
 https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO" , Las Estrellas 
-http://tv.nousiptv.com:8080/Lucy/123456/3243
+http://instanttv.info:8080/TV-72370097/591175072920/75520
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Imagen_TV_logo.png/200px-Imagen_TV_logo.png" group-title="MEXICO",  Imagen TV
 http://instanttv.info:8080/TV-72370097/591175072920/75516
