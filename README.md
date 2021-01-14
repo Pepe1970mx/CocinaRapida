@@ -378,7 +378,7 @@ https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8?PlaylistM3UCL
 http://tvretropalmares.com:8090/hls/envivo.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo=" "  group-title="RETRO" , Retro Plus Series
-https://panel.streamingtv-mediacp.online:1936/876769/876769/playlist.m3u8?PlaylistM3UCL
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w458806239.m3u8?WebM3UCL
 
 #EXTINF:-1 group-title="RETRO" , TVepaco
 http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/playlist.m3u8?PlaylistM3UCL
