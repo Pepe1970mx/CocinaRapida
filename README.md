@@ -428,7 +428,7 @@ http://instanttv.info:8080/TV-72370097/591175072920/75
 http://tv5full.xyz:25461/michael/michael/1564
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Space 
-http://tv.nousiptv.com:8080/Lucy/123456/3232
+http://instanttv.info:8080/TV-72370097/591175072920/75545
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FX
 http://instanttv.info:8080/TV-72370097/591175072920/75
