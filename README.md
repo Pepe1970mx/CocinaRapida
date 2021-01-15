@@ -422,7 +422,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e930009
 
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , AMC España
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/48388
+http://instanttv.info:8080/TV-72370097/591175072920/75
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , TNT 
 http://tv5full.xyz:25461/michael/michael/1564
@@ -431,18 +431,19 @@ http://tv5full.xyz:25461/michael/michael/1564
 http://tv.nousiptv.com:8080/Lucy/123456/3232
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FX
-
+http://instanttv.info:8080/TV-72370097/591175072920/75
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Warner TV
 http://tv.nousiptv.com:8080/Lucy/123456/3228
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Sony
-
+http://instanttv.info:8080/TV-72370097/591175072920/75544
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO Plus
 
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO 
+http://instanttv.info:8080/TV-72370097/591175072920/75
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Movies
 
