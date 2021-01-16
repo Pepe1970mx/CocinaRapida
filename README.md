@@ -186,13 +186,13 @@ http://instanttv.info:8080/TV-72370097/591175072920/75455
 http://instanttv.info:8080/TV-72370097/591175072920/64410
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney Channel 
-http://tv.nousiptv.com:8080/jairo1/jairo123/3019
+http://instanttv.info:8080/TV-72370097/591175072920/75437
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney XD 
 http://tv.nousiptv.com:8080/jairo1/jairo123/3221
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney Junior
-http://tv.nousiptv.com:8080/jairo1/jairo123/3220
+http://instanttv.info:8080/TV-72370097/591175072920/75476
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/125px-Boing.svg.png" group-title="KIDS" , Boing 
 http://instanttv.info:8080//TV-72370097/591175072920/48473
