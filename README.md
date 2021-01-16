@@ -456,6 +456,9 @@ http://instanttv.info:8080/TV-72370097/591175072920/75
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Premium Action 
 http://instanttv.info:8080/TV-72370097/591175072920/75495
 
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Movistar Accion
+http://instanttv.info:8080/TV-72370097/591175072920/48401
+
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Pluto Acción
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=97c7d537-1741-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
 
