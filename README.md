@@ -27,7 +27,7 @@ https://aztkhlslive5-i.akamaihd.net/hls/live/1019873/4ztk7bacf4uoy8/master.m3u8
 https://aztkhlslive6-i.akamaihd.net:443/hls/live/1019872/4m4s8qo47rr3/master.m3u8
  
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EM8Ks47kwqSGMiH4twcCBgAAAA&pid=Api&P=0&w=175&h=43" group-title="MEXICO", Canal 9
-http://185.169.253.75//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719?token=GEBbVhYLRg5GA1YAAw5dAlkFVQsEVFZXDFUABQUBVAUCWlJTXFZUVQYUHhVAQhdRWQtsW1MUCQQJWxgVE0dSQDwLVxVfQVUWSBRGXl5TRw4JUAICAQ4FBABbGBUWXVMQWUALA1VXRhhGU0pDVkQLVVQ5V1dBX1BWGlhaQgpYGxAMDGxTAA4FWgAUCBUDFEkWURVDEA1YRl9UThZVD0BFUxcHEQ1HV1QDXBQeFVBZEFpMFEoQDRR+axpOFlIeQFJcEAtcWUdZRkAXFB4VWkU6Rl0VR0BSV15WSkAOFVcWGxAOA0toBgwKWgFVRl5cWBYWAkQFAgcGER8aD1tZD0BYQDwSWlNHWUYFVA4HARFL
+http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719
 
 #EXTINF:-1 tvg-logo="" group-title="MEXICO", Canal 10
 https://stream.mxiptv.org/live/tvabierta/opentv/4.m3u8
