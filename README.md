@@ -90,7 +90,7 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 http://tv5full.xyz:25461/michael/michael/925
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Univisión Puerto Rico
-
+http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Galavisión
 http://tv.nstvlatino.com:8080/jairo1/jairo123/4031
