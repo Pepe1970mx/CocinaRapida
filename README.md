@@ -265,7 +265,7 @@ http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 http://instanttv.info:8080/TV-72370097/591175072920/75493
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO",  Distrito Comedia 
-http://tv.nstvlatino.com:8080/jairo1/jairo123/3209
+http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/691
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Comedy Central 
 http://tv.nousiptv.com:8080/Lucy/123456/3241
