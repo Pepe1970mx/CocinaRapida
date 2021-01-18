@@ -284,13 +284,13 @@ http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/48382
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=71f1da86-eee5-11ea-ac99-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FRECUENCIA MUSICAL 
-https://cloud2.streaminglivehd.com:1936/8070/8070/.m3u8
+https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="ENTRETENIMIENTO" , FM 2
-https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/playlist.m3u8?PlaylistM3UCL
+https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="ENTRETENIMIENTO" , FM 3
-https://stmv.panel.mivideo.pro/fmtvmundo3/fmtvmundo3/playlist.m3u8?PlaylistM3UCL
+https://stmv.panel.mivideo.pro/fmtvmundo3/fmtvmundo3/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
