@@ -442,7 +442,7 @@ http://instanttv.info:8080/TV-72370097/591175072920/75544
 
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO 
-http://instanttv.info:8080/TV-72370097/591175072920/75
+http://instanttv.info:8080/TV-72370097/591175072920/77705
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Movies
 http://instanttv.info:8080/TV-72370097/591175072920/77675
