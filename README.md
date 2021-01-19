@@ -430,7 +430,7 @@ http://tv5full.xyz:25461/michael/michael/1564
 http://instanttv.info:8080/TV-72370097/591175072920/77743
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FX
-http://instanttv.info:8080/TV-72370097/591175072920/75504
+http://instanttv.info:8080/TV-72370097/591175072920/77695
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Warner TV
 http://instanttv.info:8080/TV-72370097/591175072920/77775
