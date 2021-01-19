@@ -51,7 +51,7 @@ http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_51
 http://tv.nstvlatino.com:8080/live/jairo1/jairo123/4129.m3u8
 
 #EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="MEXICO" , CNN Español
-http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
+
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/quiero-tv-en-vivo-768x480.png" group-title="MEXICO" , Quiero TV
 https://quierotvlive.tk/httplive/playlist_playlist.m3u8
@@ -110,12 +110,6 @@ https://bcovlive-a.akamaihd.net/8520a5c6a0384300b735385e02e2f582/us-west-2/60566
 #EXTINF:-1 tvg-logo=" " group-title="LATINO" , MegaClasicos
 
  
-#EXTINF:-1 tvg-logo="" group-title="LATINO", City Television
-http://190.122.96.187:8888/http/004
-
-#EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/#&gid=1&pid=1" group-title="LATINO", Telecosta 
-https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
-
 #EXTINF:-1 tvg-logo="http://cdn.canal10.com.ni/2018/v3/images/logo.png?v=360380257" group-title="LATINO" , Canal 10 Nicaragua
 https://cootv.cootel.com.ni/streams/d/SSLCH10-HD-NCO/playlist.m3u8
  
@@ -283,13 +277,19 @@ http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/48382
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Pluto Family 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=71f1da86-eee5-11ea-ac99-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FRECUENCIA MUSICAL 
+#EXTINF:-1 tvg-logo="" group-title="LATINO", City Television
+http://190.122.96.187:8888/http/004
+
+#EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/#&gid=1&pid=1" group-title="LATINO", Telecosta 
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV-MUNDO 1 
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="ENTRETENIMIENTO" , FM 2
+#EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="ENTRETENIMIENTO" , FM TV-MUNDO 2
 https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="ENTRETENIMIENTO" , FM 3
+#EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="ENTRETENIMIENTO" , FM TV-MUNDO 3
 https://stmv.panel.mivideo.pro/fmtvmundo3/fmtvmundo3/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="ENTRETENIMIENTO" , WOW TV 
@@ -305,11 +305,11 @@ https://5fa5de1a545ae.streamlock.net:443/Geovision/Geovision/playlist.m3u8?Playl
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Mi Gente TV
 https://videohd.live:19360/8010/8010.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Pax Television
-http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Canal 8 Nicaragua
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Canal 8 Ni
 https://cootv.cootel.com.ni/streams/d/SSLCH08-HD-MCD/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="ENTRETENIMIENTO", PeliculasMania
+http://lavozdetucuman.com/peliculas1.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Cinecable
 https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8?PlaylistM3UCL
@@ -320,8 +320,7 @@ https://Stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="" group-title="ENTRETENIMIENTO", ACV Movies
 https://stmv.panel.mivideo.pro/acvisionecuador/acvisionecuador/.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="ENTRETENIMIENTO", Peliculas1
-http://lavozdetucuman.com/peliculas1.m3u8
+
 
 #EXTINF:0 tvg-logo="" group-title="ENTRETENIMIENTO", FlixTube
 https://panel.streamingtv-mediacp.online:1936/8054/8054/chunklist_w1335949035.m3u8
@@ -537,7 +536,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e0007
 
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", BeIN Español
-http://tv.nstvlatino.com:8080/jairo1/jairo123/43187
+http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", BeIN Xtra
 https://bein-plutolive-vo.akamaized.net/r/hlslive/bein.m3u8?chname=bein&pub=cd44c23c-4796-475f-bcb1-b846bed4cf40&ctype=0&acsurl=pluto-acs-lb.adsparx.net&mcdn=bein-plutolive-vo.akamaized.net&userParams=ccp%3DeyJkZXZpY2VJZCI6IjQyYzI5MTE1LTEzMjktNDFmYi05ZTMwLTVlYTI5MjllY2ZlMyIsImRldmljZVZlcnNpb24iOiI0LjAiLCJhcHBWZXJzaW9uIjoiNS45LjEtZTBiMzdlZjc2NTA0ZDIzYzZiZGM4MTU3ODEzZDEzMzMzZGZhMzNhMyIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VNYWtlIjoiQW5kcm9pZCtCcm93c2VyIiwiYWR2ZXJ0aXNpbmdJZCI6IiIsImRldmljZUxhdCI6IjQwLjcxNTciLCJkZXZpY2VMb24iOiItNzQuMDAwMCIsImRldmljZUROVCI6ImZhbHNlIiwiZGV2aWNlTW9kZWwiOiJBbmRyb2lkK0Jyb3dzZXIiLCJ1c2VySWQiOiIiLCJhcHBOYW1lIjoid2ViIiwiYXJjaGl0ZWN0dXJlIjoiIiwiaW5jbHVkZUV4dGVuZGVkRXZlbnRzIjoiZmFsc2UiLCJzcmNQcm90b2NvbCI6Imh0dHBzIiwic3RpdGNoZXJWZXJzaW9uIjoiMi40Ni4wIiwic3RpdGNoZXJSZXFJZCI6IjQ2Mzg2YWQzLTI5MGYtNDg1MS1iZjNiLTk0Yzc4NjRhZDNmYyIsImFkSW1wcmVzc2lvblByb3h5Ijp0cnVlLCJpcF9hZGRyZXNzIjoiMjgwNjoxMGE2OjE0OjRjNmQ6Yzk1MTo0NjExOjVjMjQ6ZTYzNyIsImRldmljZV91YSI6Ik1vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCA4LjEuMDsgRFVBLUxYMyBCdWlsZC9IT05PUkRVQS1MWDM7IHd2KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzQuMCBDaHJvbWUvODYuMC40MjQwLjExMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiIsInRyYW5zYWN0aW9uX2lkIjoiYmNhZWYyMzgtZDQyNi00ZGIyLTk1NTQtZGZkZDhlMzE3ZTdlIiwiZGV2aWNlVXNlckFnZW50IjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDguMS4wOyBEVUEtTFgzIEJ1aWxkL0hPTk9SRFVBLUxYMzsgd3YpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vNC4wIENocm9tZS84Ni4wLjQyNDAuMTEwIE1vYmlsZSBTYWZhcmkvNTM3LjM2IiwiaXBBZGRyZXNzIjoiMjgwNjoxMGE2OjE0OjRjNmQ6Yzk1MTo0NjExOjVjMjQ6ZTYzNyIsImNoSWQiOiI1ZGY5NzVlMmIyN2NmNTAwMDkyMWMxMDIiLCJ0aW1lbGluZUlkIjoiNWZhMDBhODIwNGUzYTQwMDA3NDFiMGQwIiwiY2xpcElkIjoiNWUzZTA2MjYyMTJhODUwMDA5NzNiYTFkIiwic2Vzc2lvbklkIjoiMGJjOTk2OTItMWYxZS0xMWViLTliYWQtMDI0MmFjMTEwMDAyIiwiZXBpc29kZUlkIjoiNWU4YTQ2ODFiMTU2ZDUwMDA3OGNhY2IxIiwicGFydG5lckNvZGUiOiJiZUlOIFNwb3J0cyIsInBhcnRuZXJfaWQiOiI1ZTQ3MzIzMDdjYmYzODAwMDljYTA2ZjYiLCJvcmlnaW4iOiJhZFNwYXJ4IiwiZnJvbV9zdGl0Y2hlciI6dHJ1ZX0%3D
