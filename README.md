@@ -51,7 +51,7 @@ http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_51
 http://tv.nstvlatino.com:8080/live/jairo1/jairo123/4129.m3u8
 
 #EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="MEXICO" , CNN Español
-
+https://teleclub.xyz/tele/canal?tv=CNNESPANOL2&format=.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/quiero-tv-en-vivo-768x480.png" group-title="MEXICO" , Quiero TV
 https://quierotvlive.tk/httplive/playlist_playlist.m3u8
@@ -174,7 +174,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe
 
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Cartoon Network 
-http://instanttv.info:8080/TV-72370097/591175072920/77615
+http://instanttv.info:8080/TV-72370097/591175072920/77614
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney +
 http://instanttv.info:8080/TV-72370097/591175072920/64410
@@ -183,7 +183,7 @@ http://instanttv.info:8080/TV-72370097/591175072920/64410
 http://instanttv.info:8080/TV-72370097/591175072920/77641
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney XD 
-http://tv.nousiptv.com:8080/jairo1/jairo123/77645
+http://instanttv.info:8080/TV-72370097/591175072920/77644
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney Junior
 http://instanttv.info:8080/TV-72370097/591175072920/77643
