@@ -174,7 +174,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe
 
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Cartoon Network 
-http://instanttv.info:8080/TV-72370097/591175072920/75455
+http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney +
 http://instanttv.info:8080/TV-72370097/591175072920/64410
