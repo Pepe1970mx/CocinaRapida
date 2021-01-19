@@ -433,7 +433,7 @@ http://instanttv.info:8080/TV-72370097/591175072920/77743
 http://instanttv.info:8080/TV-72370097/591175072920/75504
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Warner TV
-http://tv.nousiptv.com:8080/Lucy/123456/3228
+http://instanttv.info:8080/TV-72370097/591175072920/77775
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Sony
 http://instanttv.info:8080/TV-72370097/591175072920/75544
