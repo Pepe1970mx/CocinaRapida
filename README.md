@@ -445,10 +445,10 @@ http://instanttv.info:8080/TV-72370097/591175072920/75544
 http://instanttv.info:8080/TV-72370097/591175072920/75
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Movies
-
+http://instanttv.info:8080/TV-72370097/591175072920/77675
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Premium Action 
-http://instanttv.info:8080/TV-72370097/591175072920/75495
+http://instanttv.info:8080/TV-72370097/591175072920/77670
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Movistar Accion
 http://instanttv.info:8080/TV-72370097/591175072920/48401
