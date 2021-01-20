@@ -48,7 +48,7 @@ https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/in
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
 #EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="MEXICO" , TeleFórmula 
-http://tv.nstvlatino.com:8080/live/jairo1/jairo123/4129.m3u8
+https://www.dailymotion.com/cdn/live/video/x7u0spq.m3u8?sec=wx3yXWgWWob1E5MmINCzgUD8-6jZHhNSTeoZhU27f-W3P1TRENP5a522Lub_CsWRpuzKTk1b4PdRqIIXbYDDdw
 
 #EXTINF:-1 tvg-logo="" group-title="MEXICO", Voz de America
 https://voa-lh.akamaihd.net/i/voa_tvmc2@317693/master.m3u8
