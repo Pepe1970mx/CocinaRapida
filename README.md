@@ -243,8 +243,8 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 #EXTINF:-1 group-title="RETRO" , TVepaco
 http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo=" " group-title="RETRO" , Mega TV
-https://cp.sradiotv.com:1936/Stream/Stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" , Canal 74
+https://stmv1.zcastbr.com/canal74hd/canal74hd/chunklist_w333835106.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="RETRO", TELERED 
 http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
