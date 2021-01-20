@@ -50,8 +50,10 @@ http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_51
 #EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="MEXICO" , TeleFórmula 
 http://tv.nstvlatino.com:8080/live/jairo1/jairo123/4129.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="MEXICO", Voz de America
+https://voa-lh.akamaihd.net/i/voa_tvmc2@317693/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="MEXICO" , CNN Español
-https://teleclub.xyz/tele/canal?tv=CNNESPANOL2&format=.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/quiero-tv-en-vivo-768x480.png" group-title="MEXICO" , Quiero TV
 https://quierotvlive.tk/httplive/playlist_playlist.m3u8
