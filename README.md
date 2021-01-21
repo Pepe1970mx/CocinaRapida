@@ -95,7 +95,7 @@ http://tv5full.xyz:25461/michael/michael/925
 http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Galavisión
-http://tv.nstvlatino.com:8080/jairo1/jairo123/4031
+http://admin-mainpanel.club:8080//eva/eva/27426
 
 #EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/Azteca-Honduras.jpg" group-title="LATINO", Azteca Guatemala
 http://190.122.96.187:8888/http/002
@@ -444,7 +444,7 @@ http://instanttv.info:8080/TV-72370097/591175072920/75544
 
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO 
-http://instanttv.info:8080/TV-72370097/591175072920/77705
+http://admin-mainpanel.club:8080//eva/eva/27414
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Movies
 http://instanttv.info:8080/TV-72370097/591175072920/77675
