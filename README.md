@@ -258,7 +258,7 @@ http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", FOX channel
-http://instanttv.info:8080/TV-72370097/591175072920/77666
+http://admin-mainpanel.club:8080//eva/eva/27498
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO",  Distrito Comedia 
 http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/691
@@ -563,7 +563,7 @@ http://instanttv.info:8080/TV-72370097/591175072920/75485
 http://instanttv.info:8080/TV-72370097/591175072920/75500
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports 2 
-http://instanttv.info:8080/TV-72370097/591175072920/75720
+http://admin-mainpanel.club:8080//eva/eva/27448
  
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN 
 http://tv.nstvlatino.com:8080/jairo1/jairo123/3751
