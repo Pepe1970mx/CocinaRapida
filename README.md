@@ -185,7 +185,7 @@ http://instanttv.info:8080/TV-72370097/591175072920/64410
 http://instanttv.info:8080/TV-72370097/591175072920/77641
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney XD 
-http://instanttv.info:8080/TV-72370097/591175072920/77644
+http://admin-mainpanel.club:8080//eva/eva/27516
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney Junior
 http://instanttv.info:8080/TV-72370097/591175072920/77643
