@@ -182,13 +182,13 @@ http://admin-mainpanel.club:8080//eva/eva/27601
 http://instanttv.info:8080/TV-72370097/591175072920/64410
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney Channel 
-http://admin-mainpanel.club:8080//eva/eva/27518
+http://admin-mainpanel.club:8080//eva/eva/27517
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney XD 
 http://admin-mainpanel.club:8080//eva/eva/27516
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney Junior
-http://admin-mainpanel.club:8080//eva/eva/27517
+http://admin-mainpanel.club:8080//eva/eva/27515
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/125px-Boing.svg.png" group-title="KIDS" , Boing 
 http://instanttv.info:8080//TV-72370097/591175072920/48473
@@ -560,7 +560,7 @@ http://instanttv.info:8080/TV-72370097/591175072920/75483
 http://instanttv.info:8080/TV-72370097/591175072920/75485
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports  
-http://instanttv.info:8080/TV-72370097/591175072920/75500
+http://admin-mainpanel.club:8080//eva/eva/27447
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports 2 
 http://admin-mainpanel.club:8080//eva/eva/27448
