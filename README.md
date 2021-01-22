@@ -182,10 +182,10 @@ http://admin-mainpanel.club:8080//eva/eva/27601
 http://instanttv.info:8080/TV-72370097/591175072920/64410
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney Channel 
-http://admin-mainpanel.club:8080//eva/eva/27517
+http://admin-mainpanel.club:8080//eva/eva/27518
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney XD 
-http://admin-mainpanel.club:8080//eva/eva/27516
+http://admin-mainpanel.club:8080//eva/eva/27514
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney Junior
 http://admin-mainpanel.club:8080//eva/eva/27515
