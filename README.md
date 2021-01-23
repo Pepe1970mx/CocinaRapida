@@ -18,7 +18,6 @@ http://instanttv.info:8080/TV-72370097/591175072920/75452
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO" , Canal 6
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MEXICO" , Azteca 7 75446
  
 #EXTINF:-1 tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="MEXICO" , Azteca 7 
 https://aztkhlslive5-i.akamaihd.net/hls/live/1019873/4ztk7bacf4uoy8/master.m3u8
@@ -27,7 +26,7 @@ https://aztkhlslive5-i.akamaihd.net/hls/live/1019873/4ztk7bacf4uoy8/master.m3u8
 https://aztkhlslive6-i.akamaihd.net:443/hls/live/1019872/4m4s8qo47rr3/master.m3u8
  
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EM8Ks47kwqSGMiH4twcCBgAAAA&pid=Api&P=0&w=175&h=43" group-title="MEXICO", Canal 9
-http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719
+http://admin-mainpanel.club:8080//eva/eva/27426
 
 #EXTINF:-1 tvg-logo="" group-title="MEXICO", Canal 10
 https://stream.mxiptv.org/live/tvabierta/opentv/4.m3u8
@@ -95,7 +94,7 @@ http://tv5full.xyz:25461/michael/michael/925
 http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Galavisión
-http://admin-mainpanel.club:8080//eva/eva/27426
+
 
 #EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/Azteca-Honduras.jpg" group-title="LATINO", Azteca Guatemala
 http://190.122.96.187:8888/http/002
@@ -215,7 +214,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b991420009
 
 
 #EXTINF:-1 tvg-logo=" " group-title="RETRO" , Tooncast
-http://tv5full.xyz:25461/michael/michael/1457
+http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725
 
 #EXTINF:-1 group-title="RETRO" , Boomerang
 http://tv5full.xyz:25461/michael/michael/1458
