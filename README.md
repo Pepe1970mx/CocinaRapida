@@ -94,8 +94,8 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Telemundo  
 http://tv5full.xyz:25461/michael/michael/925
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINO", Univisión Puerto Rico
-http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668
+#EXTINF:-1 tvg-logo=" " group-title="LATINO", Univisión
+http://tv.streamid.ga:8080/live/SergioRozas/x9Vrdt5ZMU/52629.ts
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Galavisión
 
