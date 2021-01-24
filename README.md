@@ -264,7 +264,7 @@ Lo
 http://tv.streamid.ga:8080/live/SergioRozas/x9Vrdt5ZMU/39039.ts
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO",  Distrito Comedia 
-http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/691
+http://tv.streamid.ga:8080/live/SergioRozas/x9Vrdt5ZMU/58456.ts
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Comedy Central 
 http://tv.nousiptv.com:8080/Lucy/123456/3241
