@@ -554,13 +554,13 @@ https://bein-plutolive-vo.akamaized.net/r/hlslive/bein.m3u8?chname=bein&pub=cd44
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 
-http://instanttv.info:8080/TV-72370097/591175072920/75484
+http://tv.streamid.ga:8080/live/SergioRozas/x9Vrdt5ZMU/39035.ts
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2  
-http://instanttv.info:8080/TV-72370097/591175072920/75483
+http://tv.streamid.ga:8080/live/SergioRozas/x9Vrdt5ZMU/39036.ts
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Espn 3
-http://instanttv.info:8080/TV-72370097/591175072920/75485
+http://tv.streamid.ga:8080/live/SergioRozas/x9Vrdt5ZMU/39037.ts
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports  
 http://admin-mainpanel.club:8080//eva/eva/27447
