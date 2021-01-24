@@ -179,7 +179,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe
 
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Cartoon Network 
-http://admin-mainpanel.club:8080//eva/eva/27601
+http://tv.streamid.ga:8080/live/SergioRozas/x9Vrdt5ZMU/39027.ts
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney +
 http://instanttv.info:8080/TV-72370097/591175072920/64410
