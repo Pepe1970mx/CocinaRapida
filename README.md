@@ -447,7 +447,7 @@ http://instanttv.info:8080/TV-72370097/591175072920/75544
 
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO 
-http://admin-mainpanel.club:8080//eva/eva/27414
+http://admin-mainpanel.club:8080/y/eva/eva/27414
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Movies
 http://instanttv.info:8080/TV-72370097/591175072920/77675
@@ -513,13 +513,13 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f062
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS", Pluto Cine Latino3 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984c1dc54853000797a5e8/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=42c29115-1329-41fb-9e30-5ea2929ecfe3&clientModelNumber=na&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=41.3888&deviceLon=2.1590&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=ES&serverSideAds=true&sessionID=6bbdefd3-40a4-11eb-8528-0242ac110002&sid=6bbdefd3-40a4-11eb-8528-0242ac110002&userId=
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINAS", Cinema Dinamita Mx
+#EXTINF:-1 tvg-logo=" " group-title="LATINAS", Cinema Dinamita MX
 http://tv.streamid.ga:8080/live/SergioRozas/x9Vrdt5ZMU/1900.ts
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS", TV Azteca Cinema
 http://instanttv.info:8080/TV-72370097/591175072920/75442
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINAS", De Película Clásico
+#EXTINF:-1 tvg-logo=" " group-title="LATINAS", De Película Plus
 http://instanttv.info:8080/TV-72370097/591175072920/75463
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS" , Nuestra Vision 
@@ -571,8 +571,7 @@ http://admin-mainpanel.club:8080//eva/eva/27448
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN 
 http://tv.nstvlatino.com:8080/jairo1/jairo123/3751
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Claro Sports 
-https://d21r053hxdt5v1.cloudfront.net/live/cs01/live.isml/cs01.m3u8
+019https://d21r053hxdt5v1.cloudfront.net/live/cs01/live.isml/cs01.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TVC Deportes 
 http://usuarios.club/stream/somosjovenes/YouTube/837.m3u8
