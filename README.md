@@ -411,20 +411,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007
 
 
 
-
-#EXTINF:-1 tvg-logo=" " group-title="SERIES" , Energy 
-
-#EXTINF:-1 tvg-logo=" " group-title="SERIES" , Pluto Series
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android+Browser&deviceModel=Android+Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=d0572f33-f189-11ea-ac99-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo=" " group-title="SERIES" , Pluto Narco Novelas
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66900909b4410007e74a50/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=37.7353&deviceLon=-122.3732&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=d41a4891-ef2a-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo=" " group-title="SERIES",  Pluto Series Latinas
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=21.3563&deviceLon=-97.6896&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=f83fdf19-0d08-11eb-a6e3-0242ac110002&userId=&serverSideAds=true
-
-
-
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , AMC 
 http://instanttv.info:8080/TV-72370097/591175072920/75437
 
@@ -480,7 +466,7 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="PREMIUM", Zee Cinema 
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
-
+Ji
 
  #EXTINF:-1 tvg-logo=" " group-title="PREMIUM", Pluto Historias de Ultratumba
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=c2849db8-1412-11eb-bde1-0242ac110002&userId=&serverSideAds=true
@@ -497,9 +483,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Pluto Novelas Triller
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=34.0729&deviceLon=-118.2606&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=9d2bf80e-eee0-11ea-a685-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="http://puñaltv.com/imagenes/logo%20de%20pu%C3%B1al%20tv.png" group-title="LATINO PELICULAS" , DANTV DO
- 
-#EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="LATINO PELICULAS" , FMHOT
+
 
 
 
@@ -526,6 +510,15 @@ http://instanttv.info:8080/TV-72370097/591175072920/75463
 https://nuestravision-plutolive-vo.akamaized.net/r/hlslive/nuestra.m3u8?chname=nuestra&pub=cd44c23c-4796-475f-bcb1-b846bed4cf40&ctype=0&acsurl=pluto-acs-lb.adsparx.net&mcdn=nuestravision-plutolive-vo.akamaized.net&userParams=ccp%3DeyJkZXZpY2VJZCI6IjQyYzI5MTE1LTEzMjktNDFmYi05ZTMwLTVlYTI5MjllY2ZlMyIsImRldmljZVZlcnNpb24iOiI0LjAiLCJhcHBWZXJzaW9uIjoiNS43LjUtMGIxNjc0YjYyNmY1ZTVhZGMxZjJiMWQxMmIwNjhlODlhOTUwZmRmNyIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VNYWtlIjoiQW5kcm9pZCtCcm93c2VyIiwiYWR2ZXJ0aXNpbmdJZCI6IiIsImRldmljZUxhdCI6IjQwLjgzNjQiLCJkZXZpY2VMb24iOiItNzQuMTQwMyIsImRldmljZUROVCI6ImZhbHNlIiwiZGV2aWNlTW9kZWwiOiJBbmRyb2lkK0Jyb3dzZXIiLCJ1c2VySWQiOiIiLCJhcHBOYW1lIjoid2ViIiwiYXJjaGl0ZWN0dXJlIjoiIiwiaW5jbHVkZUV4dGVuZGVkRXZlbnRzIjoiZmFsc2UiLCJzcmNQcm90b2NvbCI6Imh0dHBzIiwic3RpdGNoZXJWZXJzaW9uIjoiMi40MS4wIiwic3RpdGNoZXJSZXFJZCI6ImU0MzNjNTc4LTk3MTYtNGMxZS1hNjk0LWM5MTcxMjMyODg4NyIsImFkSW1wcmVzc2lvblByb3h5Ijp0cnVlLCJpcF9hZGRyZXNzIjoiNjguMTgzLjE0NS4xMTgiLCJkZXZpY2VfdWEiOiJNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgNS4xOyBOZXh1cyA2IEJ1aWxkL0xNWTQ3RSkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzQxLjAuMjI3Mi45NiBNb2JpbGUgU2FmYXJpLzUzNy4zNiIsInRyYW5zYWN0aW9uX2lkIjoiMzMxZTc3NTUtNDQyOC00MGJhLWJmZGMtYjc1OGI0ZWUzODJmIiwiZGV2aWNlVXNlckFnZW50IjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDUuMTsgTmV4dXMgNiBCdWlsZC9MTVk0N0UpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS80MS4wLjIyNzIuOTYgTW9iaWxlIFNhZmFyaS81MzcuMzYiLCJpcEFkZHJlc3MiOiI2OC4xODMuMTQ1LjExOCIsImNoSWQiOiI1ZTY2OTBiZWZiZGY3ODAwMDdmNzgxNTgiLCJ0aW1lbGluZUlkIjoiNWY1ZmI1NDIyMDVlMTcwMDA3OGJkMzU0IiwiY2xpcElkIjoiNWYwZTI1MzgzMTIzZDYwMDA3YzZjY2VlIiwic2Vzc2lvbklkIjoiNGUzYWJiMzctZjZmZi0xMWVhLWI4OTktMDI0MmFjMTEwMDAyIiwiZXBpc29kZUlkIjoiNWYwZTI2ODExMDllYTAwMDA3MGI3NTdlIiwicGFydG5lckNvZGUiOiJOdWVzdHJhIFZpc2lvbiIsInBhcnRuZXJfaWQiOiI1ZjBkZWY4N2NiNTQyMjAwMDgyMDdiZDgiLCJvcmlnaW4iOiJhZFNwYXJ4IiwiZnJvbV9zdGl0Y2hlciI6dHJ1ZX0%3D
 
 
+
+#EXTINF:-1 tvg-logo=" " group-title="SERIES" , Pluto Series
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android+Browser&deviceModel=Android+Browser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=d0572f33-f189-11ea-ac99-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo=" " group-title="SERIES" , Pluto Narco Novelas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66900909b4410007e74a50/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=37.7353&deviceLon=-122.3732&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=d41a4891-ef2a-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo=" " group-title="SERIES",  Pluto Series Latinas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=21.3563&deviceLon=-97.6896&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=f83fdf19-0d08-11eb-a6e3-0242ac110002&userId=&serverSideAds=true
 
 
 
