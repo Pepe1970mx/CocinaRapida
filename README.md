@@ -1,9 +1,4 @@
 
-
-#EXTINF:-1, peliculas
-http://144.217.254.24:25461/series/SergioRozas/x9Vrdt5ZMU/8888.mp4?token=ThpRV0ZQQAIWVQZWB1VXDgIEVlJWUAECUVJaDVAGUlBRDlwDAV4BDQYWT0RDF0RdVlk8DFcTDQ9eWwEZFEMRAUdnUFIXAkAPAwVXVxJPFExeWQZHCQABBldWCAIEBFFIF0hQUhcCQAoHBVVSEk8UXU9ABhddUFtoAgZPXFVTQF4XGhUUWlY9XFFZAghUQQwaBxZPR1pCRxVcDUxZWhpABlxMS1dBXUACFgBbXgJBGhpUWxYLR0NOFVxBdG0UGkABTUxcWEZRDVYWDkELQFcUFBVdEDpBVERDFAZYWFNEQF4XCBsaF1UDQGtXDAheBlVMXlsNFhELFQRETxtYWVgLEFpKZkZcXEACWkEPCk0=
-
-
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg400.jpg?v=1515007950", Azteca Uno
 https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
 
@@ -556,7 +551,7 @@ http://instanttv.info:8080/live/TV-72370097/591175072920/75483.ts
 http://tv.streamid.ga:8080/live/SergioRozas/x9Vrdt5ZMU/39037.ts
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports  
-http://admin-mainpanel.club:8080//eva/eva/27447
+http://admin-mainpanel.club:8080//eva/eva/27446
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports 2 
 http://admin-mainpanel.club:8080//eva/eva/27448
