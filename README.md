@@ -557,7 +557,7 @@ http://admin-mainpanel.club:8080//eva/eva/27446
 http://admin-mainpanel.club:8080//eva/eva/27448
  
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN 
-http://tv.nstvlatino.com:8080/jairo1/jairo123/3751
+http://tv.streamid.ga:8080/live/SergioRozas/x9Vrdt5ZMU/295.ts
 
 019https://d21r053hxdt5v1.cloudfront.net/live/cs01/live.isml/cs01.m3u8
 
