@@ -635,5 +635,9 @@ http://167.114.116.223:1234/;
 #EXTINF:-1, tvg-logo="https://musicchoice.com/wp-content/uploads/2019/01/logo-retina-3.png" group-title="RADIO" , RADIO: MCR (Pop Rock) Pop Hits
 http://6d9a.webradio.upx.net.br:9046/stream
 
-#EXTINF:-1, tvg-logo="https://musicchoice.com/wp-content/uploads/2019/01/logo-retina-3.png" group-title="RADIO" , Universal Stero
+#EXTINF:-1, tvg-logo="" group-title="RADIO" , Universal Stero
 https://14933.live.streamtheworld.com/XHRED_FMAAC.aac?dist=tg&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=d8b27299-703d-4e00-8a3b-8746120031fe
+
+#EXTINF:-1, tvg-logo="" group-title="RADIO" , Extasis Digital
+https://sts.pergom.mx/xhpr
+
