@@ -623,6 +623,9 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1, tvg-logo="" group-title="RADIO" , La Octava
+http://18243.live.streamtheworld.com:3690/XHRED_FMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-033&csegid=888&dist=triton-web&tdsdk=js-2.9&banners=300x250%2C728x90&st=cb64dd3e-27f5-47c7-a7e0-47cf2a5d9199&sbmid=0b3333f4-a2f9-45b5-d9a9-5ff2b98f1887
+
 #EXTINF:-1, tvg-logo="https://musiccchoice.com/wp-content/uploads/2019/01/logo-retina-3.png" group-title="RADIO" , Mar FM
 https://ott.streann.com/loadbalancer/services/web-players/channels-reseller-secure/573c7e1a2cdcfe7783bda9f1/362a0654-2bf8-4bc5-a58e-2965963a011a/2nrlm4rtl0kros002gb4ha77/56bb6629e4b01db401d1b3c2/playlist.m3u8?date=1611769674824&device-type=web&device-name=web&device-os=web&device-id=DawBmlDF7MOZTVO1TVRaHqt6Yi7sMkmRkBBco8Mttv6cqhT4zH 
 
