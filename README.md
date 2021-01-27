@@ -623,11 +623,14 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1, tvg-logo="https://musiccchoice.com/wp-content/uploads/2019/01/logo-retina-3.png" group-title="MUSICA" , RADIO: MCR (Decades) 80s
+#EXTINF:-1, tvg-logo="https://musiccchoice.com/wp-content/uploads/2019/01/logo-retina-3.png" group-title="RADIO" , RADIO: MCR (Decades) 80s
 http://192.99.150.31:8697/stream 
 
-#EXTINF:-1, tvg-logo="https://musicchoice.com/wp-content/uploads/2019/01/logo-retina-3.png" group-title="MUSICA" , RADIO: MCR (RnB) Hip-Hop Classics
+#EXTINF:-1, tvg-logo="https://musicchoice.com/wp-content/uploads/2019/01/logo-retina-3.png" group-title="RADIO" , RADIO: MCR (RnB) Hip-Hop Classics
 http://192.99.150.31:8721/stream
 
-#EXTINF:-1, tvg-logo="https://musicchoice.com/wp-content/uploads/2019/01/logo-retina-3.png" group-title="MUSICA" , RADIO: MCR (Pop Rock) Pop Hits
+#EXTINF:-1, tvg-logo="https://musicchoice.com/wp-content/uploads/2019/01/logo-retina-3.png" group-title="RADIO" , RADIO: MCR (Pop Rock) Pop Hits
 http://6d9a.webradio.upx.net.br:9046/stream
+
+#EXTINF:-1, tvg-logo="https://musicchoice.com/wp-content/uploads/2019/01/logo-retina-3.png" group-title="RADIO" , Universal Stero
+https://14933.live.streamtheworld.com/XHRED_FMAAC.aac?dist=tg&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=d8b27299-703d-4e00-8a3b-8746120031fe
