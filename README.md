@@ -519,7 +519,7 @@ https://pluto-live.plutotv.net/m/hlslive/mtv-04a.m3u8?chname=mtv-04a&pub=cd44c23
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo Music Pluto
-
+https://stitcher-ipv4.pluto.tv/proxy/74964edb-6048-11eb-ad61-0242ac110002/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=5b8fe74b-4cb0-46ce-a07b-cad12af3974b&clientModelNumber=na&deviceDNT=false&deviceId=5b8fe74b-4cb0-46ce-a07b-cad12af3974b&deviceLat=27.9462&deviceLon=-82.4607&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=US&serverSideAds=true&sessionID=74964edb-6048-11eb-ad61-0242ac110002&sid=74964edb-6048-11eb-ad61-0242ac110002&userId=&already_redirected=true&startingOffset=0
 
 #EXTINF:-1 tvg-logo="" group-title="MUSICA", HMQ Hits
 
