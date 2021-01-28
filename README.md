@@ -650,3 +650,8 @@ https://14933.live.streamtheworld.com/XHRED_FMAAC.aac?dist=tg&tdsdk=js-2.9&pname
 #EXTINF:-1, tvg-logo="" group-title="RADIO" , Extasis Digital
 https://sts.pergom.mx/xhpr
 
+#EXTINF:-1, tvg-logo="" group-title="RADIO" , RADIO USA
+https://n06.radiojar.com/6pz06e8nv4zuv
+
+
+
