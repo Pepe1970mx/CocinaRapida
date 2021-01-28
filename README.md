@@ -635,6 +635,9 @@ https://ott.streann.com/loadbalancer/services/web-players/channels-reseller-secu
 #EXTINF:-1, tvg-logo="" group-title="RADIO" , YAFM
 https://yafm.centrocibernetico.com/
 
+#EXTINF:-1, tvg-logo="" group-title="RADIO" , Los 40 Principales
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_VERAAC.aac
+
 #EXTINF:-1, tvg-logo="" group-title="RADIO" , Radio Ola
 http://167.114.116.223:1234/;
 
