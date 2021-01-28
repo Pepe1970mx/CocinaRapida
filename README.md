@@ -93,7 +93,7 @@ http://tv5full.xyz:25461/michael/michael/925
 http://tv.streamid.ga:8080/live/SergioRozas/x9Vrdt5ZMU/52629.ts
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Galavisión
-
+http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
 
 #EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/Azteca-Honduras.jpg" group-title="LATINO", Azteca Guatemala
 http://190.122.96.187:8888/http/002
