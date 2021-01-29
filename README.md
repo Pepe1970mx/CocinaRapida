@@ -431,7 +431,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984c1dc548530007
 http://tv.streamid.ga:8080/live/SergioRozas/x9Vrdt5ZMU/1900.ts
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS", TV Azteca Cinema
-http://instanttv.info:8080/TV-72370097/591175072920/75442
+http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/766
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS", De Película Plus
 http://instanttv.info:8080/TV-72370097/591175072920/75463
