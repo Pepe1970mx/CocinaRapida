@@ -486,8 +486,8 @@ http://tv.streamid.ga:8080/live/SergioRozas/x9Vrdt5ZMU/39037.ts
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports  
 http://admin-mainpanel.club:8080//eva/eva/27446
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports 2 
-http://admin-mainpanel.club:8080//eva/eva/27448
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX Deportes 
+http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
  
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN 
 http://tv.streamid.ga:8080/live/SergioRozas/x9Vrdt5ZMU/295.ts
@@ -495,9 +495,7 @@ http://tv.streamid.ga:8080/live/SergioRozas/x9Vrdt5ZMU/295.ts
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Claro Sports
 https://d21r053hxdt5v1.cloudfront.net/live/cs01/live.isml/cs01.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", TVC Deportes 
 
- 
 
 
 #EXTINF:-1 group-title="MUSICA", Music Live
