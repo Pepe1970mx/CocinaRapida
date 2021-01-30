@@ -1,4 +1,4 @@
-
+S
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg400.jpg?v=1515007950", Azteca Uno
 https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
 
@@ -26,6 +26,9 @@ https://aztkhlslive6-i.akamaihd.net:443/hls/live/1019872/4m4s8qo47rr3/master.m3u
  
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EM8Ks47kwqSGMiH4twcCBgAAAA&pid=Api&P=0&w=175&h=43" group-title="MEXICO", Canal 9
 http://tv.streamid.ga:8080/live/SergioRozas/x9Vrdt5ZMU/19774.ts
+
+tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EM8Ks47kwqSGMiH4twcCBgAAAA&pid=Api&P=0&w=175&h=43" group-title="MEXICO", Canal 9
+http://ipeteve.com/php/t121220/tp.php?c=24&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MEXICO", Canal 10
 https://stream.mxiptv.org/live/tvabierta/opentv/4.m3u8
