@@ -1,6 +1,7 @@
 S
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg400.jpg?v=1515007950", Azteca Uno
-https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
+https://aztkhlslive2-i.ak
+amaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO" , Las Estrellas 
 http://instanttv.info:8080/TV-72370097/591175072920/75520
@@ -49,7 +50,7 @@ https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/in
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
 #EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="MEXICO" , TeleFórmula 
-https://www.dailymotion.com/cdn/live/video/x7u0spq.m3u8?sec=wx3yXWgWWob1E5MmINCzgUD8-6jZHhNSTeoZhU27f-W3P1TRENP5a522Lub_CsWRpuzKTk1b4PdRqIIXbYDDdw
+http://ipeteve.com/php/t121220/tp.php?c=32&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MEXICO", Voz de America
 https://voa-lh.akamaihd.net/i/voa_tvmc2@317693/master.m3u8
