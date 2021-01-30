@@ -28,7 +28,7 @@ https://aztkhlslive6-i.akamaihd.net:443/hls/live/1019872/4m4s8qo47rr3/master.m3u
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EM8Ks47kwqSGMiH4twcCBgAAAA&pid=Api&P=0&w=175&h=43" group-title="MEXICO", Canal 9
 http://tv.streamid.ga:8080/live/SergioRozas/x9Vrdt5ZMU/19774.ts
 
-tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EM8Ks47kwqSGMiH4twcCBgAAAA&pid=Api&P=0&w=175&h=43" group-title="MEXICO", Canal 9
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EM8Ks47kwqSGMiH4twcCBgAAAA&pid=Api&P=0&w=175&h=43" group-title="MEXICO", Canal 9
 http://ipeteve.com/php/t121220/tp.php?c=24&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MEXICO", Canal 10
