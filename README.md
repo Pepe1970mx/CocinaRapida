@@ -242,7 +242,7 @@ http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 
 Lo
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", FOX channel
-http://tv.streamid.ga:8080/live/SergioRozas/x9Vrdt5ZMU/39039.ts
+http://instanttv.info:8080/TV-72370097/591175072920/75493
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO",  Distrito Comedia 
 http://tv.streamid.ga:8080/live/SergioRozas/x9Vrdt5ZMU/58456.ts
