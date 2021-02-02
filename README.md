@@ -375,8 +375,8 @@ http://instanttv.info:8080/TV-72370097/591175072920/77775
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Sony
 http://instanttv.info:8080/TV-72370097/591175072920/75544
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO 
-http://admin-mainpanel.club:8080/y/eva/eva/27414
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO 2
+http://62.210.247.122:25461//Chilean50conn/sPDmqSHTFT/16
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Movies
 http://instanttv.info:8080/TV-72370097/591175072920/77675
