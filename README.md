@@ -593,8 +593,8 @@ http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/4.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=""  group-title="MUSICA" , 24/7 Vintage
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="MUSICA", 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="MUSICA", WhamTV
+https://srv5.zcast.com.br/andre4369/andre4369/playlist.m3u8?PlaylistM3UCL
  
 #EXTINF:-1 tvg-http://retromusic.cz/wp-content/uploads/2017/08/retro-logo.png="AXN" group-title="MUSICA" , Retro Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
