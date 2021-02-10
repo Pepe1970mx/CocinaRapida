@@ -640,32 +640,49 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1, tvg-logo="" group-title="RADIO" , La Octava
-http://18243.live.streamtheworld.com:3690/XHRED_FMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-033&csegid=888&dist=triton-web&tdsdk=js-2.9&banners=300x250%2C728x90&st=cb64dd3e-27f5-47c7-a7e0-47cf2a5d9199&sbmid=0b3333f4-a2f9-45b5-d9a9-5ff2b98f1887
 
-#EXTINF:-1, tvg-logo="" group-title="RADIO" , Exa FM
+
+#EXTINF:-1, tvg-logo="" group-title="RADIO" , Universal Stero
+https://14933.live.streamtheworld.com/XHRED_FMAAC.aac?dist=tg&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=d8b27299-703d-4e00-8a3b-8746120031fe
+
+#EXTINF:-1, tvg-logo="" group-title="RADIO" , Radio Retro 
+https://s01.digitalserver.org:7637/;
+
+#EXTINF:-1, tvg-logo="" group-title="RADIO" , Extasis Digital
+https://sts.pergom.mx/xhpr
+
+#EXTINF:-1, tvg-logo="https://musicchoice.com/wp-content/uploads/2019/01/logo-retina-3.png" group-title="RADIO" , RADIO: MCR (Pop Rock) Pop Hits
+http://6d9a.webradio.upx.net.br:9046/stream
+
+
+
+#EXTINF:-1, tvg-logo="" group-title="RADIO" , Exa FM Poza Rica
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHRIC_SC?dist=onlineradiobox
 
-#EXTINF:-1, tvg-logo="https://musiccchoice.com/wp-content/uploads/2019/01/logo-retina-3.png" group-title="RADIO" , Mar FM
+#EXTINF:-1, tvg-logo=" " group-title="RADIO" , Mar FM
 https://ott.streann.com/loadbalancer/services/web-players/channels-reseller-secure/573c7e1a2cdcfe7783bda9f1/362a0654-2bf8-4bc5-a58e-2965963a011a/2nrlm4rtl0kros002gb4ha77/56bb6629e4b01db401d1b3c2/playlist.m3u8?date=1611769674824&device-type=web&device-name=web&device-os=web&device-id=DawBmlDF7MOZTVO1TVRaHqt6Yi7sMkmRkBBco8Mttv6cqhT4zH 
 
 #EXTINF:-1, tvg-logo="" group-title="RADIO" , YAFM
 https://yafm.centrocibernetico.com/
 
-#EXTINF:-1, tvg-logo="" group-title="RADIO" , Los 40 Principales
+#EXTINF:-1, tvg-logo="" group-title="RADIO" , Los 40 Principales Veracruz
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_VERAAC.aac
 
 #EXTINF:-1, tvg-logo="" group-title="RADIO" , Radio Ola
 http://167.114.116.223:1234/;
 
-#EXTINF:-1, tvg-logo="https://musicchoice.com/wp-content/uploads/2019/01/logo-retina-3.png" group-title="RADIO" , RADIO: MCR (Pop Rock) Pop Hits
-http://6d9a.webradio.upx.net.br:9046/stream
+#EXTINF:-1, tvg-logo="" group-title="RADIO" , La poderosa
+https://sts5.aplradiorama.mx/xhcra.mp3
 
-#EXTINF:-1, tvg-logo="" group-title="RADIO" , Universal Stero
-https://14933.live.streamtheworld.com/XHRED_FMAAC.aac?dist=tg&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=d8b27299-703d-4e00-8a3b-8746120031fe
+#EXTINF:-1, tvg-logo="" group-title="RADIO" , Radio Lobo
+https://secure.radiorama.mx:2181/
 
-#EXTINF:-1, tvg-logo="" group-title="RADIO" , Extasis Digital
-https://sts.pergom.mx/xhpr
+
+
+
+
+
+
 
 #EXTINF:-1, tvg-logo="" group-title="RADIO" , RADIO USA
 https://n06.radiojar.com/6pz06e8nv4zuv
