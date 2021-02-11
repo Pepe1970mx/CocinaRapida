@@ -496,10 +496,10 @@ http://instanttv.info:8080/live/TV-72370097/591175072920/75483.ts
 http://instanttv.info:8080/live/TV-72370097/591175072920/75485.ts
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports  
-http://admin-mainpanel.club:8080//eva/eva/27448
+http://tv5full.xyz:25461//michael/michael/1726
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX Sport 2
-http://51.222.138.183:25461//michael/michael/1728
+http://tv5full.xyz:25461//michael/michael/1728
 
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX Deportes 
