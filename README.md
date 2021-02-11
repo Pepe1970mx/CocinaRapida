@@ -51,9 +51,6 @@ http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_51
 #EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="MEXICO" , TeleFórmula 
 http://ipeteve.com/php/t121220/tp.php?c=32&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="MEXICO" , Central FM
-https://5fe2654d6127d.streamlock.net/centralfm/smil:centralfm.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="MEXICO", Voz de America
 https://voa-lh.akamaihd.net/i/voa_tvmc2@317693/master.m3u8
 
@@ -499,7 +496,7 @@ http://instanttv.info:8080/live/TV-72370097/591175072920/75483.ts
 http://instanttv.info:8080/live/TV-72370097/591175072920/75485.ts
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports  
-http://admin-mainpanel.club:8080//eva/eva/27446
+http://admin-mainpanel.club:8080//eva/eva/27448
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX Sport 2
 http://51.222.138.183:25461//michael/michael/1728
