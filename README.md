@@ -187,10 +187,10 @@ http://instanttv.info:8080/TV-72370097/591175072920/64410
 http://instanttv.info:8080/TV-72370097/591175072920/75475
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney XD 
-http://instanttv.info:8080/TV-72370097/591175072920/
+http://instanttv.info:8080/TV-72370097/591175072920/75477
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney Junior
-http://instanttv.info:8080/TV-72370097/591175072920/
+http://instanttv.info:8080/TV-72370097/591175072920/75476
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/125px-Boing.svg.png" group-title="KIDS" , Boing 
 http://instanttv.info:8080//TV-72370097/591175072920/48473
@@ -249,7 +249,7 @@ Lo
 http://instanttv.info:8080/TV-72370097/591175072920/75493
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO",  Distrito Comedia 
-http://tv.streamid.ga:8080/live/SergioRozas/x9Vrdt5ZMU/58456.ts
+http://instanttv.info:8080/TV-72370097/591175072920/75478
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Comedy Central 
 http://tv.nousiptv.com:8080/Lucy/123456/3241
