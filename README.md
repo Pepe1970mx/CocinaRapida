@@ -1,8 +1,8 @@
 
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg400.jpg?v=1515007950", Azteca Uno
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg400.jpg?v=1515007950", XHDF Azteca Uno
 https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO" , Las Estrellas 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO" , ESTRNET 
 http://instanttv.info:80j80/TV-72370097/591175072920/75520
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Imagen_TV_logo.png/200px-Imagen_TV_logo.png" group-title="MEXICO",  Imagen TV
@@ -14,7 +14,7 @@ https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1048_av-p.m3u8?sd
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png"group-title="MEXICO" , Canal 5 
 http://62.210.247.122:25461//Chilean50conn/sPDmqSHTFT/29
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO" , Canal 6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO" , Multimedios TV
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
  
@@ -27,44 +27,35 @@ https://aztkhlslive6-i.akamaihd.net:443/hls/live/1019872/4m4s8qo47rr3/master.m3u
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EM8Ks47kwqSGMiH4twcCBgAAAA&pid=Api&P=0&w=175&h=43" group-title="MEXICO", Canal 9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719
 
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EM8Ks47kwqSGMiH4twcCBgAAAA&pid=Api&P=0&w=175&h=43" group-title="MEXICO", Canal 9
-http://ipeteve.com/php/t121220/tp.php?c=24&p=3&k=srregio&f=.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="MEXICO", Canal 10
 https://stream.mxiptv.org/live/tvabierta/opentv/4.m3u8
 
-#EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="MEXICO", Canal once 
+#EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="MEXICO", Once 
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
  
-#EXTINF: -1 tvg-logo = "https://i.pinimg.com/280x280_RS/01/ca/56/01ca569f92b45cecb0cf738a912cfea0.jpg" group-title = "MEXICO", Telemax
+#EXTINF: -1 tvg-logo = "https://i.pinimg.com/280x280_RS/01/ca/56/01ca569f92b45cecb0cf738a912cfea0.jpg" group-title = "MEXICO", Telemax (XEWH)
 http://s5.mexside.net:1935/telemax/telemax/chunklist_w1982711424.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qO0nkZz.png" group-title="MEXICO" , ADN 40 
-https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="MEXICO" , Tele Play
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="MEXICO" , Canal Catorce
+#EXTINF:-1 tvg-logo=" " group-title="MEXICO" , Canal 14
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://puu.sh/mwdSw/26eea6807c.png" group-title="MEXICO" , Milenio Televisión 
+#EXTINF:-1 tvg-logo="http://puu.sh/mwdSw/26eea6807c.png" group-title="MEXICO" , Milenio TV 
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
 #EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="MEXICO" , TeleFórmula 
 http://ipeteve.com/php/t121220/tp.php?c=32&p=3&k=srregio&f=.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="MEXICO" , Tele Play
-https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/chunks.m3u8?nimblesessionid=262897
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qO0nkZz.png" group-title="MEXICO" , adn 40 
+https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MEXICO", Voz de America
-
-
-#EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="MEXICO" , CNN Español
+#EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="MEXICO" , CNN en Español
 https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/VIDEO_5_264000.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/quiero-tv-en-vivo-768x480.png" group-title="MEXICO" , Quiero TV
 https://quierotvlive.tk/httplive/playlist_playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="" group-title="MEXICO", TVP
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8?DVR
@@ -78,7 +69,7 @@ http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 #EXTINF: -1 tvg-logo = "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/b1/77/39/b1773967-9b0b-b342-77c6-177816dff58d/AppIcon-1x_U007emarketing- 0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png / 1200x630wa.png "group-title =" MEXICO ", CANAL 15TV 
 http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="MEXICO" , Canal 22 
+#EXTINF:-1 tvg-logo=" " group-title="MEXICO" , CANAL 22 INTERNACIONAL
 https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 Huy
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8O0WxdF.png" group-title="MEXICO" , TVMÁS  
@@ -87,7 +78,7 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w1862368642.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO" , Jalisco TV
 https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/chunklist_w177708400.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/4/4b/Mexiquense_tv.jpg/revision/latest?cb=20170525194804&path-prefix=es" group-title="MEXICO" , Mexiquense TV
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/4/4b/Mexiquense_tv.jpg/revision/latest?cb=20170525194804&path-prefix=es" group-title="MEXICO" , TV Mexiquense
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/4/4b/Mexiquense_tv.jpg/revision/latest?cb=20170525194804&path-prefix=es" group-title="MEXICO" , Mexiquense Noticias 
@@ -134,7 +125,7 @@ http://138.117.4.70:8079/streams/d/CH-11/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="DOC Y NOT", DW
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="DOC Y NOT", DW Español
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="DOC Y NOT", RT Español
@@ -392,7 +383,7 @@ http://instanttv.info:8080/TV-72370097/591175072920/77695
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Warner TV
 http://instanttv.info:8080/TV-72370097/591175072920/77775
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Sony
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Canal Sony
 http://instanttv.info:8080/TV-72370097/591175072920/75544
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO 2
@@ -434,7 +425,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d0007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5291&deviceLon=-97.4497&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=1b5e3154-f477-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
 
 
-#EXTINF:0 tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="PREMIUM", Zee Cinema 
+#EXTINF:0 tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="PREMIUM", Zee Mundo
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
  #EXTINF:-1 tvg-logo=" " group-title="PREMIUM", Pluto Historias de Ultratumba
@@ -457,7 +448,7 @@ http://tv.streamid.ga:8080/live/SergioRozas/x9Vrdt5ZMU/1900.ts
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS", TV Azteca Cinema
 http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/766
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINAS", De Película Plus
+#EXTINF:-1 tvg-logo=" " group-title="LATINAS", De Pelicula Plus
 http://instanttv.info:8080/TV-72370097/591175072920/75463
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS" , Nuestra Vision 
@@ -489,7 +480,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e0007
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Lucha Libre AAA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=5b8fe74b-4cb0-46ce-a07b-cad12af3974b&clientModelNumber=na&deviceDNT=false&deviceId=5b8fe74b-4cb0-46ce-a07b-cad12af3974b&deviceLat=20.9302&deviceLon=-97.4005&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=b30374f1-604e-11eb-a30a-0242ac110002&sid=b30374f1-604e-11eb-a30a-0242ac110002&userId=
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", BeIN Español
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", beIN Sports En Español
 http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", BeIN Xtra
@@ -507,17 +498,17 @@ http://instanttv.info:8080/live/TV-72370097/591175072920/75483.ts
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Espn 3
 http://instanttv.info:8080/live/TV-72370097/591175072920/75485.ts
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports  
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports(Cono Norte)   
 http://tv5full.xyz:25461//michael/michael/1726
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX Sport 2
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Fox Sports 2 (Cono Norte)
 http://tv5full.xyz:25461//michael/michael/1728
 
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX Deportes 
 http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
  
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Univision TDN
 http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
  
 
