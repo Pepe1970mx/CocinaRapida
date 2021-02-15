@@ -58,6 +58,8 @@ https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/chunks.m3u8?nim
 
 
 #EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="MEXICO" , CNN Español
+https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/VIDEO_5_264000.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/quiero-tv-en-vivo-768x480.png" group-title="MEXICO" , Quiero TV
 https://quierotvlive.tk/httplive/playlist_playlist.m3u8
@@ -82,6 +84,9 @@ Huy
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8O0WxdF.png" group-title="MEXICO" , TVMÁS  
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w1862368642.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="MEXICO" , Jalisco TV
+https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/chunklist_w177708400.m3u8
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/4/4b/Mexiquense_tv.jpg/revision/latest?cb=20170525194804&path-prefix=es" group-title="MEXICO" , Mexiquense TV
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
 
@@ -93,7 +98,7 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Telemundo  
-http://tv5full.xyz:25461/michael/michael/925
+https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CpUFVfvxhBOkXAJxZXanyq_ZosKeRs_l2Q94gEmjOsO64I6jG2ztZEu8mpzniOes8zuaD_Xvbyy-CsJ79PD8yO6HEkuk-QOYq-FET7HYHm3X2eJYa0p92a_wiv-IclHEze4DFe0W9Oe8S8YLqrzCQxccZDRuU42DNTGgxWhJMS-tPlco4-YMlvjXsyrvHtg2mJiAMLybpL9QpBQvl7I9iHEPJFcsPPYxgUdXakb8jjh8daLM66r9pjLZtx4UEjM_4Mta4SanO4yF6CaUdi7l8W_BeA7IixOORxoUYYwMBvuSLaV8YFQ1XFYNx-dl-slj8WdTz4xd6mV_ldV0DGp4O4p_kXk0Stn_H62XyWnZrWcoMKu2XERBGL6oYXPCwojHPLQw-bgurUkj-dXlWpw273htqmYPM5eilFRHG-_2KTt6bYg5eMJoD-24gzmqNVR7AgHK2QAlWPd0-OHHHwWD9XC159fjVUQLenGny6ZoovPROMQTszDsyeiJhd8r3a5bPtpJ1clDNFCczoF-UlT1PT3LY0ScY-IcOVEV58KLFLzDwhyT18MPCWjyUERyT5WDBuKfQRppaJPoxV5CtBcNzs_8ZK_-ExN41MLN9emjvAF-m6NsyfpboL68OfpDHGYwxYLPvIDUfMy2jCfb9JiM8-4ajnEEiZUmEgUwR47ibw5U8Kc7tjHWE1riV1wOi6lYscQ1BxzyaHR8RbrflS330X2Pr3TOZf4sn5cp1gq6jm_rzzTbWtiDbL1wIu904uVEP7nZ9gWy8m5fmxVQYsIDO0bdC6H9XN2oANSUl9EcW8mz8YAPJn1Pp1hUCnPRB9Zu1EPA18HpnnlZrsJS2x8FMN5kBR6n5ZPVO7yMtauBs98TawDc0EwcsBIQERAArS-wqAGd3TwF5AIkjRoMgZcRZson1D-y77L3.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Univisión
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668
@@ -106,6 +111,7 @@ http://190.122.96.187:8888/http/002
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Estrella TV
 https://estrellatv-roku.amagi.tv/playlistR216lp.m3u8
+
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO" , Telecentro (República Dominicana)
 http://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8
