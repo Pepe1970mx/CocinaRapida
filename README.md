@@ -51,8 +51,11 @@ http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_51
 #EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="MEXICO" , TeleFórmula 
 http://ipeteve.com/php/t121220/tp.php?c=32&p=3&k=srregio&f=.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="MEXICO" , Tele Play
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/chunks.m3u8?nimblesessionid=261887
+
 #EXTINF:-1 tvg-logo="" group-title="MEXICO", Voz de America
-https://voa-lh.akamaihd.net/i/voa_tvmc2@317693/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="MEXICO" , CNN Español
 
@@ -100,6 +103,9 @@ http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
 
 #EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/Azteca-Honduras.jpg" group-title="LATINO", Azteca Guatemala
 http://190.122.96.187:8888/http/002
+
+#EXTINF:-1 tvg-logo=" " group-title="LATINO", Estrella TV
+https://estrellatv-roku.amagi.tv/playlistR216lp.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO" , Telecentro (República Dominicana)
 http://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8
