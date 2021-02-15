@@ -52,7 +52,7 @@ http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_51
 http://ipeteve.com/php/t121220/tp.php?c=32&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO" , Tele Play
-https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/chunks.m3u8?nimblesessionid=261887
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/chunks.m3u8?nimblesessionid=262897
 
 #EXTINF:-1 tvg-logo="" group-title="MEXICO", Voz de America
 
