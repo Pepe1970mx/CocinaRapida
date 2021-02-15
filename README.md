@@ -89,7 +89,7 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Telemundo  
-https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CpUFVfvxhBOkXAJxZXanyq_ZosKeRs_l2Q94gEmjOsO64I6jG2ztZEu8mpzniOes8zuaD_Xvbyy-CsJ79PD8yO6HEkuk-QOYq-FET7HYHm3X2eJYa0p92a_wiv-IclHEze4DFe0W9Oe8S8YLqrzCQxccZDRuU42DNTGgxWhJMS-tPlco4-YMlvjXsyrvHtg2mJiAMLybpL9QpBQvl7I9iHEPJFcsPPYxgUdXakb8jjh8daLM66r9pjLZtx4UEjM_4Mta4SanO4yF6CaUdi7l8W_BeA7IixOORxoUYYwMBvuSLaV8YFQ1XFYNx-dl-slj8WdTz4xd6mV_ldV0DGp4O4p_kXk0Stn_H62XyWnZrWcoMKu2XERBGL6oYXPCwojHPLQw-bgurUkj-dXlWpw273htqmYPM5eilFRHG-_2KTt6bYg5eMJoD-24gzmqNVR7AgHK2QAlWPd0-OHHHwWD9XC159fjVUQLenGny6ZoovPROMQTszDsyeiJhd8r3a5bPtpJ1clDNFCczoF-UlT1PT3LY0ScY-IcOVEV58KLFLzDwhyT18MPCWjyUERyT5WDBuKfQRppaJPoxV5CtBcNzs_8ZK_-ExN41MLN9emjvAF-m6NsyfpboL68OfpDHGYwxYLPvIDUfMy2jCfb9JiM8-4ajnEEiZUmEgUwR47ibw5U8Kc7tjHWE1riV1wOi6lYscQ1BxzyaHR8RbrflS330X2Pr3TOZf4sn5cp1gq6jm_rzzTbWtiDbL1wIu904uVEP7nZ9gWy8m5fmxVQYsIDO0bdC6H9XN2oANSUl9EcW8mz8YAPJn1Pp1hUCnPRB9Zu1EPA18HpnnlZrsJS2x8FMN5kBR6n5ZPVO7yMtauBs98TawDc0EwcsBIQERAArS-wqAGd3TwF5AIkjRoMgZcRZson1D-y77L3.m3u8
+https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/index_1_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Univisión
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668
@@ -219,8 +219,8 @@ http://8.9.4.128:8080/hls/boomerangtv.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="RETRO" , Pluto Series Retro
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=275a49f5-f05f-11ea-b899-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 group-title="RETRO" , Kde TV
-http://207.246.84.143:8080/hls/Kanade.m3u8
+#EXTINF:-1 group-title="RETRO" , Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1908437300.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="RETRO" , Cachipum
 https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
