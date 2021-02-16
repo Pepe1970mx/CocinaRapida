@@ -89,7 +89,7 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Telemundo Internacional  
-https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/index_1_av-p.m3u8?sd=10&rebase=on
+http://ktmdlive-lh.akamaihd.net/i/KTMD_LIVE1@183610/index_1200_av-b.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Univision Network
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668
@@ -103,6 +103,7 @@ http://190.122.96.187:8888/http/002
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Estrella TV
 https://estrellatv-roku.amagi.tv/playlistR216lp.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="LATINO", Multicanal
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO" , Telecentro (República Dominicana)
 http://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8
