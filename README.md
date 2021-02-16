@@ -104,6 +104,7 @@ http://190.122.96.187:8888/http/002
 https://estrellatv-roku.amagi.tv/playlistR216lp.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Multicanal
+https://5b38ce71f1f00.streamlock.net/8176/8176/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO" , Telecentro (República Dominicana)
 http://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8
