@@ -181,6 +181,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Nick Jr.
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=40.7308&deviceLon=-73.9975&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=df2364b1-f791-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Cartoon Network youtube
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1613630733/ei/rLgtYL77PN2Z2_gPpo6koAM/ip/2806%3A10a6%3A14%3A365f%3Afcd5%3A3817%3Af20c%3Aa9bf/id/urTdDSueSDI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/beids/9466588/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKQuWcuVAwnMeoKEgSc13kj62KScLUY2MVtlQGvEf3JyAiEA7yasYusg9uU47cjQCufeQW9h44ZwBvwPosaKHkLGuMU%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Cartoon Network 
 http://instanttv.info:8080/TV-72370097/591175072920/75455
