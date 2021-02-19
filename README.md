@@ -2,9 +2,6 @@
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg400.jpg?v=1515007950", XHDF Azteca Uno
 https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO" , Las Estrellas 
-http://instanttv.info:80j80/TV-72370097/591175072920/75520
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO" , Las Estrellas
 http://instanttv.info:8080/live/TV-72370097/591175072920/75520.ts
 
