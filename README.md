@@ -6,7 +6,7 @@ https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
 http://instanttv.info:80j80/TV-72370097/591175072920/75520
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO" , Las Estrellas
-http://195.154.183.116:7000//TV-72370097/591175072920/75520
+http://instanttv.info:8080/live/TV-72370097/591175072920/75520.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Imagen_TV_logo.png/200px-Imagen_TV_logo.png" group-title="MEXICO",  Imagen TV
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=waut6ybqkdmhvb3&lchId=2298&format=HLSAD&f=.m3u8
@@ -376,34 +376,34 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8f49205650007
 
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , AMC 
-http://instanttv.info:8080/TV-72370097/591175072920/75437
+http://instanttv.info:8080/live/TV-72370097/591175072920/75437.ts
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , TNT 
-http://tv5full.xyz:25461/michael/michael/1564
+
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Space 
-http://instanttv.info:8080/TV-72370097/591175072920/77743
+http://instanttv.info:8080/live/TV-72370097/591175072920/77743.ts
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FX
-http://instanttv.info:8080/TV-72370097/591175072920/77695
+http://instanttv.info:8080/live/TV-72370097/591175072920/77695.ts
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Warner TV
-http://instanttv.info:8080/TV-72370097/591175072920/77775
+http://instanttv.info:8080/live/TV-72370097/591175072920/77775.ts
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Canal Sony
-http://instanttv.info:8080/TV-72370097/591175072920/75544
+http://instanttv.info:8080/live/TV-72370097/591175072920/75544.ts
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO 2
 http://62.210.247.122:25461//Chilean50conn/sPDmqSHTFT/16
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Movies
-http://instanttv.info:8080/TV-72370097/591175072920/77675
+http://instanttv.info:8080/live/TV-72370097/591175072920/77675.ts
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Premium Action 
-http://instanttv.info:8080/TV-72370097/591175072920/77670
+http://instanttv.info:8080/live/TV-72370097/591175072920/77670.ts
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Movistar Accion
-http://instanttv.info:8080/TV-72370097/591175072920/48401
+http://instanttv.info:8080/live/TV-72370097/591175072920/48401.ts
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Pluto Acción
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=97c7d537-1741-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
@@ -459,7 +459,7 @@ http://tv.streamid.ga:8080/live/SergioRozas/x9Vrdt5ZMU/1900.ts
 http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/766
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS", De Pelicula Plus
-http://instanttv.info:8080/TV-72370097/591175072920/75463
+http://instanttv.info:8080/live/TV-72370097/591175072920/75463.ts
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS" , Nuestra Vision 
 https://nuestravision-plutolive-vo.akamaized.net/r/hlslive/nuestra.m3u8?chname=nuestra&pub=cd44c23c-4796-475f-bcb1-b846bed4cf40&ctype=0&acsurl=pluto-acs-lb.adsparx.net&mcdn=nuestravision-plutolive-vo.akamaized.net&userParams=ccp%3DeyJkZXZpY2VJZCI6IjQyYzI5MTE1LTEzMjktNDFmYi05ZTMwLTVlYTI5MjllY2ZlMyIsImRldmljZVZlcnNpb24iOiI0LjAiLCJhcHBWZXJzaW9uIjoiNS43LjUtMGIxNjc0YjYyNmY1ZTVhZGMxZjJiMWQxMmIwNjhlODlhOTUwZmRmNyIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VNYWtlIjoiQW5kcm9pZCtCcm93c2VyIiwiYWR2ZXJ0aXNpbmdJZCI6IiIsImRldmljZUxhdCI6IjQwLjgzNjQiLCJkZXZpY2VMb24iOiItNzQuMTQwMyIsImRldmljZUROVCI6ImZhbHNlIiwiZGV2aWNlTW9kZWwiOiJBbmRyb2lkK0Jyb3dzZXIiLCJ1c2VySWQiOiIiLCJhcHBOYW1lIjoid2ViIiwiYXJjaGl0ZWN0dXJlIjoiIiwiaW5jbHVkZUV4dGVuZGVkRXZlbnRzIjoiZmFsc2UiLCJzcmNQcm90b2NvbCI6Imh0dHBzIiwic3RpdGNoZXJWZXJzaW9uIjoiMi40MS4wIiwic3RpdGNoZXJSZXFJZCI6ImU0MzNjNTc4LTk3MTYtNGMxZS1hNjk0LWM5MTcxMjMyODg4NyIsImFkSW1wcmVzc2lvblByb3h5Ijp0cnVlLCJpcF9hZGRyZXNzIjoiNjguMTgzLjE0NS4xMTgiLCJkZXZpY2VfdWEiOiJNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgNS4xOyBOZXh1cyA2IEJ1aWxkL0xNWTQ3RSkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzQxLjAuMjI3Mi45NiBNb2JpbGUgU2FmYXJpLzUzNy4zNiIsInRyYW5zYWN0aW9uX2lkIjoiMzMxZTc3NTUtNDQyOC00MGJhLWJmZGMtYjc1OGI0ZWUzODJmIiwiZGV2aWNlVXNlckFnZW50IjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDUuMTsgTmV4dXMgNiBCdWlsZC9MTVk0N0UpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS80MS4wLjIyNzIuOTYgTW9iaWxlIFNhZmFyaS81MzcuMzYiLCJpcEFkZHJlc3MiOiI2OC4xODMuMTQ1LjExOCIsImNoSWQiOiI1ZTY2OTBiZWZiZGY3ODAwMDdmNzgxNTgiLCJ0aW1lbGluZUlkIjoiNWY1ZmI1NDIyMDVlMTcwMDA3OGJkMzU0IiwiY2xpcElkIjoiNWYwZTI1MzgzMTIzZDYwMDA3YzZjY2VlIiwic2Vzc2lvbklkIjoiNGUzYWJiMzctZjZmZi0xMWVhLWI4OTktMDI0MmFjMTEwMDAyIiwiZXBpc29kZUlkIjoiNWYwZTI2ODExMDllYTAwMDA3MGI3NTdlIiwicGFydG5lckNvZGUiOiJOdWVzdHJhIFZpc2lvbiIsInBhcnRuZXJfaWQiOiI1ZjBkZWY4N2NiNTQyMjAwMDgyMDdiZDgiLCJvcmlnaW4iOiJhZFNwYXJ4IiwiZnJvbV9zdGl0Y2hlciI6dHJ1ZX0%3D
@@ -508,12 +508,10 @@ http://instanttv.info:8080/live/TV-72370097/591175072920/75483.ts
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Espn 3
 http://instanttv.info:8080/live/TV-72370097/591175072920/75485.ts
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports(Cono Norte)   
-http://tv5full.xyz:25461//michael/michael/1726
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports   
+http://instanttv.info:8080/live/TV-72370097/591175072920/75500.ts
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Fox Sports 2 (Cono Norte)
-http://tv5full.xyz:25461//michael/michael/1728
-
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Fox Sports 2 
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Fox Deportes HD 
 http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
