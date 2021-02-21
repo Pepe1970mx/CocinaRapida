@@ -1,5 +1,5 @@
 
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg400.jpg?v=1515007950", XHDF Azteca Uno
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg400.jpg?v=1515007950", Azteca Uno
 https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO" , Las Estrellas
@@ -14,7 +14,7 @@ https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1048_av-p.m3u8?sd
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png"group-title="MEXICO" , Canal 5 
 http://62.210.247.122:25461//Chilean50conn/sPDmqSHTFT/29
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO" , Multimedios Plus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO" , Canal 6
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
  
@@ -30,7 +30,7 @@ https://m.youtube.com/watch?v=Y3tQPNr1e7Q
 #EXTINF:-1 tvg-logo="" group-title="MEXICO", Canal 10
 https://stream.mxiptv.org/live/tvabierta/opentv/4.m3u8
 
-#EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="MEXICO", CANAL11
+#EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="MEXICO", Canal Once
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
  
 #EXTINF: -1 tvg-logo = "https://i.pinimg.com/280x280_RS/01/ca/56/01ca569f92b45cecb0cf738a912cfea0.jpg" group-title = "MEXICO", Telemax (XEWH)
@@ -72,7 +72,7 @@ http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 #EXTINF: -1 tvg-logo = "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/b1/77/39/b1773967-9b0b-b342-77c6-177816dff58d/AppIcon-1x_U007emarketing- 0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png / 1200x630wa.png "group-title =" MEXICO ", CANAL 15TV 
 http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="MEXICO" , CANAL 22 INTERNACIONAL
+#EXTINF:-1 tvg-logo=" " group-title="MEXICO" , CANAL 22 
 https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 Huy
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8O0WxdF.png" group-title="MEXICO" , TVMÁS  
@@ -89,7 +89,9 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 
 
 
-
+#EXTINF:-1 tvg-logo=" " group-title="LATINO", Galavisión
+http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO",  Distrito Comedia 
+http://instanttv.info:8080/TV-72370097/591175072920/75478
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Telemundo Internacional  
 http://ktmdlive-lh.akamaihd.net/i/KTMD_LIVE1@183610/index_1200_av-b.m3u8
@@ -97,19 +99,14 @@ http://ktmdlive-lh.akamaihd.net/i/KTMD_LIVE1@183610/index_1200_av-b.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Univision Network
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINO", Galavisión
-http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Comedy Central 
+http://tv.nousiptv.com:8080/Lucy/123456/3241
 
 #EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/Azteca-Honduras.jpg" group-title="LATINO", Azteca Guatemala
 http://190.122.96.187:8888/http/002
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Estrella TV
-https://estrellatv-roku.amagi.tv/playlistR216lp.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="LATINO", Multicanal
-https://5b38ce71f1f00.streamlock.net/8176/8176/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="LATINO" , Telecentro (República Dominicana)
+https://estrellatv-roku.amagi.tv/playlistR216lp.m3u8#EXTINF:-1 tvg-logo=" " group-title="LATINO" , Telecentro (República Dominicana)
 http://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8
 
 #EXTINF:0 tvg-logo="http://www.honduras504.com/img/tv/Telecadena-7-y4.jpg" group-title="LATINO", Telecadena 7 y 4 
@@ -118,9 +115,21 @@ http://stream.mxiptv.org:25461/live/tvabierta/opentv/341.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-5-el-lider-honduras-logo-FED83D8EE6-seeklogo.com.png" group-title="LATINO" , Canal 5 El Líder 
 https://bcovlive-a.akamaihd.net/8520a5c6a0384300b735385e02e2f582/us-west-2/6056665196001/profile_3/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINO" , MegaClasicos
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Sony Channel Comedy
+https://sony-comedias-1.roku.wurl.com/manifest/playlist.m3u8
 
- 
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Pluto Humor
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=9aab038a-166d-11eb-8c1a-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo=" " group-title="LATINO", Multicanal
+https://5b38ce71f1f00.streamlock.net/8176/8176/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", City Television
+http://190.122.96.187:8888/http/004
+
+#EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/#&gid=1&pid=1" group-title="ENTRETENIMIENTO", Telecosta 
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+
 #EXTINF:-1 tvg-logo="http://cdn.canal10.com.ni/2018/v3/images/logo.png?v=360380257" group-title="LATINO" , Canal 10 
 https://cootv.cootel.com.ni/streams/d/SSLCH10-HD-NCO/playlist.m3u8
  
@@ -254,33 +263,15 @@ http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 
 
-Lo
+
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", FOX channel
 http://instanttv.info:8080/TV-72370097/591175072920/75493
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO",  Distrito Comedia 
-http://instanttv.info:8080/TV-72370097/591175072920/75478
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Comedy Central 
-http://tv.nousiptv.com:8080/Lucy/123456/3241
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Sony Channel Comedy
-https://sony-comedias-1.roku.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Pluto Humor
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=9aab038a-166d-11eb-8c1a-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Neox
 http://instanttv.info:8080/TV-72370097/591175072920/48465
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Pluto Family 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=71f1da86-eee5-11ea-ac99-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", City Television
-http://190.122.96.187:8888/http/004
-
-#EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/#&gid=1&pid=1" group-title="ENTRETENIMIENTO", Telecosta 
-https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV-MUNDO 1 
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
@@ -347,8 +338,6 @@ http://america.tucableip.com:8181/reconline/live/tracks-v1a1/mono.m3u8
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 
 
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Best Cable TV
 
 #EXTINF:-1 tvg-logo=" " group-title="24/7" , Los Simpson
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
