@@ -546,7 +546,7 @@ https://stitcher-ipv4.pluto.tv/proxy/74964edb-6048-11eb-ad61-0242ac110002/5d93b6
 
 
 #EXTINF:-1 tvg-logo="" group-title="MUSICA", HMQ Pop
-
+https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", MTV HITS
 
@@ -554,7 +554,7 @@ https://stitcher-ipv4.pluto.tv/proxy/74964edb-6048-11eb-ad61-0242ac110002/5d93b6
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="MUSICA", MTV POP
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Theboxtvlogo.jpg/175px-Theboxtvlogo.jpg" group-title="MUSICA" , Box Hits 
+#EXTINF:-1 tvg-logo="" group-title "MUSICA" , Box 
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", Hit TV
