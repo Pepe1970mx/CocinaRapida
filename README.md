@@ -548,8 +548,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae79fa46e170007
 #EXTINF:-1 tvg-logo="" group-title="MUSICA", HMQ Pop
 https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA", MTV HITS
-
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA", MTV Unplugged
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="MUSICA", MTV POP
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
