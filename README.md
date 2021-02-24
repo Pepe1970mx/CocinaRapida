@@ -518,14 +518,15 @@ http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
 https://d21r053hxdt5v1.cloudfront.net/live/cs01/live.isml/cs01.m3u8
 
 
+
 #EXTINF:-1 group-title="MUSICA", Music Live
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=40.7308&deviceLon=-73.9975&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=fbbab74e-ef25-11ea-a685-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 group-title="MUSICA", 24/7 Conciertos
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/7.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="MUSICA", Infinita Radio
-https://stmv.panel.mivideo.pro/infinitatvpremium/infinitatvpremium/chunklist_w1538678881.m3u8
+#EXTINF:-1 group-title="MUSICA", XTV Music
+https://tls.cdnz.cl/xtvmusic/xtvmusic/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA" , Nick Music
 http://tv.nousiptv.com:8080/Lucy/123456/3220
@@ -563,8 +564,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e
 #EXTINF:-1 tvg-logo="" group-title="MUSICA", MTV Love
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae79fa46e17000794e84c/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=41.3954&deviceLon=2.2048&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=ES&serverSideAds=true&sessionID=42536931-7578-11eb-b217-0242ac110002&sid=42536931-7578-11eb-b217-0242ac110002&userId=
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA", HMQ Pop
-https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA", MTV Latino
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", MTV Unplugged
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
