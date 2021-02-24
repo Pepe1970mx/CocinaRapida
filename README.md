@@ -542,6 +542,18 @@ http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo Music Pluto
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=25.7806&deviceLon=-80.1826&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=US&serverSideAds=true&sessionID=87e3e335-757c-11eb-8477-0242ac110002&sid=87e3e335-757c-11eb-8477-0242ac110002&userId=
 
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo Regueton
+
+
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo RB
+
+
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo 80
+
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo 90
+
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo 2k
+
 #EXTINF:-1 tvg-logo="" group-title="MUSICA", MTV Love
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae79fa46e17000794e84c/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=41.3954&deviceLon=2.2048&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=ES&serverSideAds=true&sessionID=42536931-7578-11eb-b217-0242ac110002&sid=42536931-7578-11eb-b217-0242ac110002&userId=
 
