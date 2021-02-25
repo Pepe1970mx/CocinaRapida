@@ -6,7 +6,7 @@ https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
 http://instanttv.info:8080/live/TV-72370097/591175072920/75520.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Imagen_TV_logo.png/200px-Imagen_TV_logo.png" group-title="MEXICO",  Imagen TV
-http://ipeteve.com/php/REGIO_PLAY160220/tp.php?c=2298&p=3&k=srregio&f=.m3u8%20%20
+http://5.9.30.198:2086/684848688418868484868841886848486884188684848688418868484868841886848486884188/afergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaerg/319
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="MEXICO", Foro TV 
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1048_av-p.m3u8?sd=10&rebase=on
