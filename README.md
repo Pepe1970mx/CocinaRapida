@@ -5,7 +5,7 @@ https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO" , Las Estrellas
 http://5.9.30.198:2086/684848688418868484868841886848486884188684848688418868484868841886848486884188/afergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaerg/324
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Imagen_TV_logo.png/200px-Imagen_TV_logo.png" group-title="MEXICO",  Imagen TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Imagen_TV_logo.png/200px-Imagen_TV_logo.png" group-title="MEXICO",  ImagenTV
 http://5.9.30.198:2086/684848688418868484868841886848486884188684848688418868484868841886848486884188/afergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaergafergaesrgsaerg/319
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="MEXICO", Foro TV 
@@ -45,8 +45,8 @@ https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/in
 #EXTINF:-1 tvg-logo="http://puu.sh/mwdSw/26eea6807c.png" group-title="MEXICO" , Milenio TV 
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
-#EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="MEXICO" , TeleFórmula 
-http://ipeteve.com/php/REGIO_PLAY160220/tp.php?c=32&p=3&k=srregio&f=.m3u8%20
+#EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="MEXICO" , Tele Fórmula
+https://stream-01.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqmNKAHCgSxa-w4PIgdEVfxE)/dm/3/x7u0spq/s/live-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qO0nkZz.png" group-title="MEXICO" , adn 40 
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
@@ -54,7 +54,7 @@ https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
 #EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="MEXICO" , CNN en Español
 https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/VIDEO_5_264000.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="MEXICO" , Telever
+#EXTINF:-1 tvg-logo=" " group-title="MEXICO" , Televisa Veracruz
 https://m.youtube.com/watch?v=exh0qfFQk3U
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/quiero-tv-en-vivo-768x480.png" group-title="MEXICO" , Quiero TV
@@ -197,7 +197,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Nick Jr.
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=40.7308&deviceLon=-73.9975&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=df2364b1-f791-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Cartoon 
+#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Cartoon Network youtube
 https://manifest.googlevideo.com/api/manifest/hls_variant/file/index.m3u8?expire=1614408677&ei=hZc5YIu4Gtj4igS3rpWoBA&ip=2806%3A10a6%3A14%3A4520%3A9e%3A1772%3A748b%3A32a&id=urTdDSueSDI.1&source=yt_live_broadcast&requiressl=yes&hfr=1&playlist_duration=30&manifest_duration=30&vprv=1&go=1&nvgoi=1&keepalive=yes&beids=9466588&dover=11&itag=0&playlist_type=DVR&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type&sig=AOq0QJ8wRAIgSeS9Fmpn34LjolG40szaKC47FlTOWHQYqrtoDVDDCKsCIBUfD14OCdM3ty8uY3utdJeEayPKmKRQdc-3FKlQhPFC&cpn=97j42mOxqG8I8-nV&ibw=3480000&c=MWEB&cver=2.20210224.03.00&ptk=youtube_single&oid=8QEwoNWfiwUx3pS6OC0ArQ&ptchn=QySZQ6rrgJXRuonMwIIGMA&pltype=contentlive
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Cartoon Network 
@@ -227,6 +227,8 @@ https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/maste
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Los Simpson
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Los Simpson youtube
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" ,Big Time Rush
 sion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=41.3888&deviceLon=2.1590&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=ES&sid=88936f6d-1674-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
