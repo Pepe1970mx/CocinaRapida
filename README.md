@@ -198,7 +198,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=40.7308&deviceLon=-73.9975&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=df2364b1-f791-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Cartoon 
-https://m.youtube.com/watch?v=urTdDSueSDI
+https://manifest.googlevideo.com/api/manifest/hls_variant/file/index.m3u8?expire=1614408677&ei=hZc5YIu4Gtj4igS3rpWoBA&ip=2806%3A10a6%3A14%3A4520%3A9e%3A1772%3A748b%3A32a&id=urTdDSueSDI.1&source=yt_live_broadcast&requiressl=yes&hfr=1&playlist_duration=30&manifest_duration=30&vprv=1&go=1&nvgoi=1&keepalive=yes&beids=9466588&dover=11&itag=0&playlist_type=DVR&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cvprv%2Cgo%2Citag%2Cplaylist_type&sig=AOq0QJ8wRAIgSeS9Fmpn34LjolG40szaKC47FlTOWHQYqrtoDVDDCKsCIBUfD14OCdM3ty8uY3utdJeEayPKmKRQdc-3FKlQhPFC&cpn=97j42mOxqG8I8-nV&ibw=3480000&c=MWEB&cver=2.20210224.03.00&ptk=youtube_single&oid=8QEwoNWfiwUx3pS6OC0ArQ&ptchn=QySZQ6rrgJXRuonMwIIGMA&pltype=contentlive
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Cartoon Network 
 http://instanttv.info:8080/TV-72370097/591175072920/75455
