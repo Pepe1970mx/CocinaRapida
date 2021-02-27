@@ -229,6 +229,7 @@ https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/maste
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Los Simpson youtube
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1614417941/ei/tbs5YPryJOOM2_gPmuS0-Ao/ip/2806%3A10a6%3A14%3A4520%3A9e%3A1772%3A748b%3A32a/id/jAgPW0A29Qk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/beids/9466588/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKSsqM4MgGBgEOlu1sZUnkZvMpenoBRN5csZFt0M57d9AiAIwqX0qTvCzX0wbWGJQQT-Q7IkJcMIIYes3KdupJMUVQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" ,Big Time Rush
 sion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=41.3888&deviceLon=2.1590&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=ES&sid=88936f6d-1674-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
