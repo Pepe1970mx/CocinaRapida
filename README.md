@@ -511,6 +511,7 @@ http://instanttv.info:8080/live/TV-72370097/591175072920/75485.ts
 http://instanttv.info:8080/live/TV-72370097/591175072920/75500.ts
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Fox Sports 2 
+http://instanttv.info:8080/live/TV-72370097/591175072920/75716.ts
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Fox Deportes HD 
 http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
