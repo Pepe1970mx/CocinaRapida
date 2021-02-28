@@ -524,6 +524,13 @@ https://d21r053hxdt5v1.cloudfront.net/live/cs01/live.isml/cs01.m3u8
 
 
 
+#EXTINF:-1 group-title="MUSICA", Telehit
+http://instanttv.info:8080/live/TV-72370097/591175072920/75570.ts
+
+#EXTINF:-1 group-title="MUSICA", VH1
+http://instanttv.info:8080/live/TV-72370097/591175072920/75570.ts
+
+
 #EXTINF:-1 group-title="MUSICA", Music Live
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=40.7308&deviceLon=-73.9975&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=fbbab74e-ef25-11ea-a685-0242ac110002&userId=&serverSideAds=true
 
