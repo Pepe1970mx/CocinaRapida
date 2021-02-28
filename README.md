@@ -525,7 +525,7 @@ https://d21r053hxdt5v1.cloudfront.net/live/cs01/live.isml/cs01.m3u8
 
 
 #EXTINF:-1 group-title="MUSICA", Telehit
-http://instanttv.info:8080/live/TV-72370097/591175072920/75570.ts
+http://instanttv.info:8080/live/TV-72370097/591175072920/75553.ts
 
 #EXTINF:-1 group-title="MUSICA", VH1
 http://instanttv.info:8080/live/TV-72370097/591175072920/75570.ts
