@@ -89,20 +89,15 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 
 
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINO",  Distrito Comedia 
-http://instanttv.info:8080/TV-72370097/591175072920/75478
-
-#EXTINF:-1 tvg-logo=" " group-title="LATINO", Galavisión
-http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Telemundo Internacional  
 http://ktmdlive-lh.akamaihd.net/i/KTMD_LIVE1@183610/index_1200_av-b.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="LATINO", Galavisión
+http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
+
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Univision Network
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668
-
-#EXTINF:-1 tvg-logo=" " group-title="LATINO" , Comedy Central 
-http://tv.nousiptv.com:8080/Lucy/123456/3241
 
 #EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/Azteca-Honduras.jpg" group-title="LATINO", Azteca Guatemala
 http://190.122.96.187:8888/http/002
@@ -111,6 +106,9 @@ http://190.122.96.187:8888/http/002
 https://estrellatv-roku.amagi.tv/playlistR216lp.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO",  City TV
+
+#EXTINF:-1 tvg-logo=" " group-title="LATINO", Multicanal
+https://5b38ce71f1f00.streamlock.net/8176/8176/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO" , Telecentro (República Dominicana)
@@ -122,14 +120,7 @@ http://stream.mxiptv.org:25461/live/tvabierta/opentv/341.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-5-el-lider-honduras-logo-FED83D8EE6-seeklogo.com.png" group-title="LATINO" , Canal 5 El Líder 
 https://bcovlive-a.akamaihd.net/8520a5c6a0384300b735385e02e2f582/us-west-2/6056665196001/profile_3/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINO" , Sony Channel Comedy
-https://sony-comedias-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="LATINO" , Pluto Humor
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=9aab038a-166d-11eb-8c1a-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo=" " group-title="LATINO", Multicanal
-https://5b38ce71f1f00.streamlock.net/8176/8176/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/#&gid=1&pid=1" group-title="LATINO", Telecosta 
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
@@ -140,6 +131,17 @@ https://cootv.cootel.com.ni/streams/d/SSLCH10-HD-NCO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.DPGfgUjmX9JrJZeQmya-BQAAAA&pid=Api&P=0&w=300&h=300" group-title="LATINO" , Canal 11
 http://138.117.4.70:8079/streams/d/CH-11/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="LATINO",  Distrito Comedia 
+http://instanttv.info:8080/TV-72370097/591175072920/75478
+
+#EXTINF:-1 tvg-logo=" " group-title="LATINO" , Sony Channel Comedy
+https://sony-comedias-1.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="LATINO" , Pluto Humor
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=9aab038a-166d-11eb-8c1a-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo=" " group-title="LATINO" , Comedy Central 
+http://tv.nousiptv.com:8080/Lucy/123456/3241
 
 
 
@@ -280,7 +282,7 @@ http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo=" " group-title="#EXTINF:-1 tvg-logo=" " group-title="RETRO" , Series
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" , Series
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8f49205650007bc15f1/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=41.3954&deviceLon=2.2048&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=ES&serverSideAds=true&sessionID=9e57e825-6635-11eb-9e0f-0242ac110002&sid=9e57e825-6635-11eb-9e0f-0242ac110002&userId=
 
 #EXTINF:-1 group-title="RETRO" , El Chavo 
