@@ -1,5 +1,5 @@
-#EXTINF:-1, wanda
-https://s730.clipwatching.com/hls/zx5xvuwkeb3txcne4zidlqpj3y6ymmxqy3ziuh73ugh374djbhfckuvkgi7q/index-v1-a1.m3u8
+#EXTINF:-1, fox
+http://iptvhd.club:8081/televall2021/1474_.m3u8?token=-CoRJbmLeS3oeJF7Tf3dJA&expires=1614669196
 
 
 
