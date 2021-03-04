@@ -184,8 +184,8 @@ http://instanttv.info:8080/TV-72370097/591175072920/75535
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Nick Pluto
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=37.7510&deviceLon=-97.8220&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=537fe437-141b-11eb-85e0-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS" , TeenNick
-http://instanttv.info:8080/TV-72370097/591175072920/75536
+#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Animakid
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS", TeenStar
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60016a60a8e3520008e0d331/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=41.3954&deviceLon=2.2048&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=ES&serverSideAds=true&sessionID=a93a448c-6634-11eb-a786-0242ac110002&sid=a93a448c-6634-11eb-a786-0242ac110002&userId=
