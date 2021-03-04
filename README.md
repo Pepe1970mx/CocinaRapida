@@ -667,6 +667,9 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgrat
 #EXTINF:-1 tvg-logo" "group-title="MUSICA" , Loop 80's
 https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s/playlist.m3u8
 
+#EXTINF:-1 tvg-logo" "group-title="MUSICA" , Loop Party
+https://aa25f9002c724666a6e1e9402e78f94f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopParty/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo" "group-title="MUSICA" , Video Tour Channels
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
