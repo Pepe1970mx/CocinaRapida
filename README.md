@@ -258,6 +258,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009
 #EXTINF:-1 group-title="RETRO" , PlanetaKid
 https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 group-title="RETRO" , Super Toons
+https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="RETRO" , Cachipum
 https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
 
