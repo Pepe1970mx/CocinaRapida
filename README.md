@@ -391,24 +391,17 @@ http://instanttv.info:8080/live/TV-72370097/591175072920/75437.ts
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Space 
 http://instanttv.info:8080/live/TV-72370097/591175072920/77743.ts
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FX
-http://instanttv.info:8080/live/TV-72370097/591175072920/77695.ts
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Warner TV
 http://instanttv.info:8080/live/TV-72370097/591175072920/77775.ts
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Canal Sony
-http://instanttv.info:8080/live/TV-72370097/591175072920/75544.ts
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO 2
-http://62.210.247.122:25461//Chilean50conn/sPDmqSHTFT/16
-
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Movies
 http://instanttv.info:8080/live/TV-72370097/591175072920/77675.ts
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Premium Action 
-http://instanttv.info:8080/live/TV-72370097/591175072920/77670.ts
 
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , TeleCrimen
+https://endemol-tele-crimen-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Rakuten Family
 https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
