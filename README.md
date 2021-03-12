@@ -60,6 +60,9 @@ https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/VIDEO_5_264000.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO" , Televisa Veracruz
 https://m.youtube.com/watch?v=exh0qfFQk3U
 
+#EXTINF:-1 tvg-logo=" " group-title="MEXICO" , TvMar
+https://5ca3e84a76d30.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/quiero-tv-en-vivo-768x480.png" group-title="MEXICO" , Quiero TV
 https://quierotvlive.tk/httplive/playlist_playlist.m3u8
 
