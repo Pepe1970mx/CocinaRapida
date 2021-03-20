@@ -413,7 +413,8 @@ https://endemol-tele-crimen-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Rakuten Family
 https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" ,
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , juntos
+https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" ,
 
