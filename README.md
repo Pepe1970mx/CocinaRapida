@@ -404,14 +404,20 @@ http://instanttv.info:8080/live/TV-72370097/591175072920/77775.ts
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Movies
 http://instanttv.info:8080/live/TV-72370097/591175072920/77675.ts
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Live Stream
-https://secure3.todostreaming.es/live/imastv-livestream.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Roku ten Comedia
+https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , TeleCrimen
 https://endemol-tele-crimen-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Rakuten Family
 https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" ,
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" ,
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" ,
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Rakuten Action
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
