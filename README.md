@@ -310,7 +310,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007
 
 
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", FOX channel
-http://instanttv.info:8080/TV-72370097/591175072920/75493
+https://m3u-editor.com/serve/rokumaniatest/212334384
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Neox
 http://instanttv.info:8080/TV-72370097/591175072920/48465
