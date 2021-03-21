@@ -401,6 +401,9 @@ http://instanttv.info:8080/live/TV-72370097/591175072920/77675.ts
 https://stitcher.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 
 
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Butaca TV
+https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Roku ten Comedia
 https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
