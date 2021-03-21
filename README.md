@@ -254,7 +254,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aab1d29b3960007
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Los Simpson Mania
-
+https://lavozdetucuman.com/simpsons.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Big Time Rush
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa7aab66c76000790ee7e/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=41.3954&deviceLon=2.2048&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=ES&serverSideAds=true&sessionID=94f919d0-6636-11eb-a786-0242ac110002&sid=94f919d0-6636-11eb-a786-0242ac110002&userId=
