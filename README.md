@@ -211,10 +211,10 @@ https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/maste
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Animakid
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
-#EXTINF:-1 group-title="RETRO" , PlanetaKid
+#EXTINF:-1 group-title="KIDS" , PlanetaKid
 https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="RETRO" , Super Toons
+#EXTINF:-1 group-title="KIDS" , Super Toons
 https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 
@@ -309,7 +309,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007
 
 
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", FOX channel
-https://m3u-editor.com/serve/rokumaniatest/212334384
+http://5.9.30.198:2086/Jsjsjsjsbsjnskzbsbshshsjususjsbshsjsjsjsjsjsjjsjsjs/Jsjsjsjsbsjnskzbsbshshsjususjsbshsjsjsjsjsjsjjsjsjs/295
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Neox
 http://instanttv.info:8080/TV-72370097/591175072920/48465
