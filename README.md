@@ -311,11 +311,24 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", FOX channel
 http://5.9.30.198:2086/Jsjsjsjsbsjnskzbsbshshsjususjsbshsjsjsjsjsjsjjsjsjs/Jsjsjsjsbsjnskzbsbshshsjususjsbshsjsjsjsjsjsjjsjsjs/295
 
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Paramount
+https://stitcher.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Neox
 http://instanttv.info:8080/TV-72370097/591175072920/48465
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Pluto Family 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=71f1da86-eee5-11ea-ac99-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Roku ten Comedia
+https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Rakuten Family
+https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , juntos
+https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV-MUNDO 1 
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
@@ -333,6 +346,10 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Mi Gente TV
 https://videohd.live:19360/8010/8010.m3u8
 
+
+#EXTINF:0 tvg-logo="" group-title="ENTRETENIMIENTO", Evastream
+https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/chunklist_w1015621512.m3u8?PlaylistM3UCL
+
 #EXTINF:0 tvg-logo="" group-title="ENTRETENIMIENTO", PeliculasMania
 http://lavozdetucuman.com/peliculas1.m3u8
 
@@ -341,9 +358,6 @@ https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Cine Club
 https://Stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:0 tvg-logo="" group-title="ENTRETENIMIENTO", ACV Movies
-https://stmv.panel.mivideo.pro/acvisionecuador/acvisionecuador/.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="ENTRETENIMIENTO", FlixTube
 https://panel.streamingtv-mediacp.online:1936/8054/8054/chunklist_w1335949035.m3u8
@@ -397,21 +411,10 @@ http://instanttv.info:8080/live/TV-72370097/591175072920/77775.ts
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Movies
 http://instanttv.info:8080/live/TV-72370097/591175072920/77675.ts
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Paramount
-https://stitcher.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Butaca TV
 https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Roku ten Comedia
-https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Rakuten Family
-https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , juntos
-https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , TvMasChile
 https://593b04c4c5670.streamlock.net/8008/8008/playlist.m3u8
