@@ -399,8 +399,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , AMC 
 http://instanttv.info:8080/live/TV-72370097/591175072920/75437.ts
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" ,
-
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , PeliculasMania
+https://m3u-editor.com/serve/rokumaniatest/231958275
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , TerrorMania
 https://m3u-editor.com/serve/rokumaniatest/231972618
