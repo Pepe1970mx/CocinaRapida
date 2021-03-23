@@ -455,7 +455,7 @@ https://endemol-tele-crimen-1-es.samsung.wurl.com/manifest/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=21.3480&deviceLon=-97.6800&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=352e2af8-3cd9-11eb-8528-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Horrify
-https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+https://m3u-editor.com/serve/rokumaniatest/156476860
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM", Pluto Terror
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=5.7.4-3c0adb65197bfd10403d6b66bfcd0b37c0daef81&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4465&deviceLon=-97.3249&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=8547386a-f319-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
