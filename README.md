@@ -116,7 +116,7 @@ https://estrellatv-roku.amagi.tv/playlistR216lp.m3u8
 
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Multicanal
-https://5b38ce71f1f00.streamlock.net/8176/8176/playlist.m3u8
+https://m3u-editor.com/serve/rokumaniatest/156476879
 
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO" , Telecentro (República Dominicana)
