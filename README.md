@@ -541,7 +541,7 @@ https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 http://instanttv.info:8080/live/TV-72370097/591175072920/75484.ts
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2  
-http://instanttv.info:8080/live/TV-72370097/591175072920/75483.ts
+https://m3u-editor.com/serve/rokumaniatest/164011161
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Espn 3
 http://instanttv.info:8080/live/TV-72370097/591175072920/75485.ts
