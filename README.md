@@ -488,7 +488,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984c1dc548530007
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS", Top Cine 
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_5.m3u8
+https://m3u-editor.com/serve/rokumaniatest/240430010
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS", Cine Sureño
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master_4.m3u8
