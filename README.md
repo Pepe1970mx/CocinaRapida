@@ -112,8 +112,8 @@ http://190.122.96.187:8888/http/002
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Estrella TV
 https://estrellatv-roku.amagi.tv/playlistR216lp.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINO",  City TV
-
+#EXTINF:-1 tvg-logo=" " group-title="LATINO",  TVN
+https://m3u-editor.com/serve/rokumaniatest/218992457
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Multicanal
 https://m3u-editor.com/serve/rokumaniatest/156476879
