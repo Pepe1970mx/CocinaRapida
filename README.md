@@ -1,6 +1,7 @@
 
 
-#EXTINF:-1 group-title="MEXICO
+#EXTINF:-1 group-tit
+le="MEXICO
 " tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg400.jpg?v=1515007950", Azteca Uno
 https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
 
@@ -500,10 +501,10 @@ https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master_4.m3u8
 http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/766
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS", De Pelicula Plus
-http://instanttv.info:8080/live/TV-72370097/591175072920/75463.ts
+
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS" , Nuestra Vision 
-https://m3u-editor.com/serve/rokumaniatest/164011112
+https://nuestravision-plutolive-vo.akamaized.net/plutotv/index_1.m3u8
 
 
 
