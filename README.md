@@ -1,7 +1,6 @@
 
 
-#EXTINF:-1 group-tit
-le="MEXICO
+#EXTINF:-1 group-title="MEXICO
 " tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg400.jpg?v=1515007950", Azteca Uno
 https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
 
@@ -554,7 +553,7 @@ https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 http://instanttv.info:8080/live/TV-72370097/591175072920/75484.ts
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2  
-https://m3u-editor.com/serve/rokumaniatest/164011161
+http://23.237.78.54/live-1000/263/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Espn 3
 http://instanttv.info:8080/live/TV-72370097/591175072920/75485.ts
@@ -563,7 +562,7 @@ http://instanttv.info:8080/live/TV-72370097/591175072920/75485.ts
 http://instanttv.info:8080/live/TV-72370097/591175072920/75500.ts
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Fox Sports 2 
-http://instanttv.info:8080/live/TV-72370097/591175072920/75716.ts
+http://51.79.52.236/MORENO1/MORENO1/71724?token=HUdbWUNeEFgUBQRfUQUIU1lSVVdRBwcLCAMGU1sCBwAFBAcJBgEFBw4RHxsSQ0NQAF1oD1dDDw8BBgACFRBAQwMXbFFUFAhAAQoFC1QVHRcVWVoDEVsEDgEHBAMIBgIISkdDUVQUCEAHAgsPURUdFwRIQwNBD1RUb1VXQFBRUBJcC0ZUXBoQDVhsV1wMVl9RQwoVVhFNF1FDQRAMV0dZXEpHUVFERFMWUxEJG1IPBAVDHBUFXBRbTEJIEAwbf20SSkdWQERTXBFfXF0bWxVFRkMcFQ9APkddQ0VAU1hfUEJEXxEIEhoQD1dLbFoOWV9QAkReCV0SFwISAhAaG19aXg8RXEpvRlsGFAkRDVIAAxcc
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Fox Deportes HD 
 http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
