@@ -515,7 +515,7 @@ http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/766
 
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS" , Nuestra Vision 
-https://nuestravision-plutolive-vo.akamaized.net/plutotv/index_1.m3u8
+https://service-stitcher.clusters.pluto.tv:443/v1/stitch/embed/hls/channel/5e6690befbdf780007f78158livestitch/823489/playlist.m3u8?terminate=false&embedPartner=rokuChannel&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=channel&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&sid=ROKUCHANNEL-4af1c9f6-2caa-459d-8d4a-5d2520846884&advertisingId=channel&deviceLat=0&deviceLon=0&deviceDNT=1&deviceModel=web&userId=&appName=rokuchannel
 
 
 
