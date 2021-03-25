@@ -574,8 +574,7 @@ http://51.79.52.236/MORENO1/MORENO1/71724?token=HUdbWUNeEFgUBQRfUQUIU1lSVVdRBwcL
 http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
  
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Univision TDN
-http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
- 
+https://m3u-editor.com/serve/rokumaniatest/156476771
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Claro Sports
 https://d21r053hxdt5v1.cloudfront.net/live/cs01/live.isml/cs01.m3u8
