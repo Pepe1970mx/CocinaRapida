@@ -328,8 +328,6 @@ https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Rakuten Family
 https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , juntos
-https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV-MUNDO 1 
@@ -419,8 +417,6 @@ http://instanttv.info:8080/live/TV-72370097/591175072920/77675.ts
 
 
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Butaca TV
-https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , TvMasChile
 https://593b04c4c5670.streamlock.net/8008/8008/playlist.m3u8
@@ -492,10 +488,17 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984c1dc
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS", Top Cine 
-https://m3u-editor.com/serve/rokumaniatest/240430010
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS", Cine Sureño
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master_4.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="LATINAS" , Butaca TV
+https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , juntos
+https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
+
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS", TV Azteca Cinema
 http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/766
