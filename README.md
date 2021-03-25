@@ -495,6 +495,9 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS", Cine Sureño
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master_4.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="LATINAS", cine Real
+https://cinereal-plex.amagi.tv/CineReal/master.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS" , Butaca TV
 https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
