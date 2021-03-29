@@ -560,8 +560,9 @@ http://instanttv.info:8080/live/TV-72370097/591175072920/75484.ts
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2  
 http://23.237.78.54/live-1000/263/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Espn 3
-http://instanttv.info:8080/live/TV-72370097/591175072920/75485.ts
+https://m3u-editor.com/serve/rokumaniatest/164011161
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports   
 http://instanttv.info:8080/live/TV-72370097/591175072920/75500.ts
