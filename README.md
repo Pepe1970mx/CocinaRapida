@@ -589,19 +589,14 @@ https://clarosport-origen.clarovideo.net:443/Content/hls/Live/Channel(jjoo2016ch
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA" , Nick Music
 http://instanttv.info:8080/live/TV-72370097/591175072920/75538.ts
 
-#EXTINF:-1 group-title="MUSICA", Telehit
-http://instanttv.info:8080/live/TV-72370097/591175072920/75553.ts
-
-#EXTINF:-1 group-title="MUSICA", VH1
-http://instanttv.info:8080/live/TV-72370097/591175072920/75570.ts
+#EXTINF:-1 group-title="MUSICA", Flash
+https://flash-plex.amagi.tv/flash/master_1.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo Pop
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="MUSICA", MTV POP
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="" group-title="MUSICA", MTV Live
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/737
