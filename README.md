@@ -495,19 +495,19 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984c1dc
 https://tucine-plex.amagi.tv/TuCine-xumo/master_1.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS", Top Cine 
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_3.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS", Cine Sureño
-https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master_4.m3u8
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master_3.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS", cine Real
-https://cinereal-plex.amagi.tv/CineReal/master.m3u8
+https://cinereal-plex.amagi.tv:443/CineReal/master_3.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS" , Butaca TV
 https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , juntos
-https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
+https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master_3.m3u8
 
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS", TV Azteca Cinema
