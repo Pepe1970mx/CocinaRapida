@@ -491,7 +491,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984c1dc5485300079
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984c1dc54853000797a5e8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS", Tu Cine
-https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
+https://tucine-plex.amagi.tv/TuCine-xumo/master_1.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS", Top Cine 
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
