@@ -247,7 +247,7 @@ http://8.9.4.128:8080/hls/boomerangtv.m3u8?PlaylistM3UCL
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=275a49f5-f05f-11ea-b899-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 group-title="RETRO" , TV como Antes
-https://m3u-editor.com/serve/rokumaniatest/232043474
+http://lavozdetucuman.com/twitch.php?channel=tvcomoantes
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="RETRO" , Cachipum
 https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
