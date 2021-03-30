@@ -147,6 +147,9 @@ https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="DOC Y NOT", Saber Mas
 https://sabermas-plex.amagi.tv/SaberMas-xumo/master_1.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="DOC Y NOT", Discovery Max
+http://91.126.141.12:1935/live/discoverymax/chunklist_w1033105812.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="DOC Y NOT", Pluto History
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=9bbe753c-ef32-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
 
