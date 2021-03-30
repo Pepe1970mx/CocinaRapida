@@ -171,6 +171,8 @@ http://a93e5452-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/1
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/125px-Boing.svg.png" group-title="KIDS" , Boing 
+http://instanttv.info:8080//TV-72370097/591175072920/48473
 
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Los Simpson Mania
@@ -232,8 +234,6 @@ http://instanttv.info:8080/TV-72370097/591175072920/75477
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney Junior
 http://instanttv.info:8080/TV-72370097/591175072920/75476
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/125px-Boing.svg.png" group-title="KIDS" , Boing 
-http://instanttv.info:8080//TV-72370097/591175072920/48473
 
 
 
