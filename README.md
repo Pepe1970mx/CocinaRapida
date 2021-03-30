@@ -402,15 +402,15 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , AMC 
 http://instanttv.info:8080/live/TV-72370097/591175072920/75437.ts
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , PeliculasMania
-https://m3u-editor.com/serve/rokumaniatest/231958275
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , TNT
+http://38.18.238.35:2095/andromeda/TNT/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , TerrorMania
-https://m3u-editor.com/serve/rokumaniatest/231972618
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Space
+http://38.18.238.35:2095/andromeda/SPACE/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO
+http://38.18.238.35:2095/andromeda/HBO/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Space 
-http://instanttv.info:8080/live/TV-72370097/591175072920/77743.ts
 
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Warner TV
@@ -466,6 +466,13 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d0007
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM", Pluto Suspenso
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5291&deviceLon=-97.4497&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=1b5e3154-f477-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , PeliculasMania
+https://m3u-editor.com/serve/rokumaniatest/231958275
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , TerrorMania
+https://m3u-editor.com/serve/rokumaniatest/231972618
+
 
 
 #EXTINF:0 tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="PREMIUM", Zee Mundo
