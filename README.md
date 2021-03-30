@@ -179,7 +179,7 @@ http://instanttv.info:8080//TV-72370097/591175072920/48473
 https://lavozdetucuman.com/simpsons.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Nick
-http://instanttv.info:8080/TV-72370097/591175072920/75535
+https://m3u-editor.com/serve/rokumaniatest/240386656
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Nick Pluto
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=37.7510&deviceLon=-97.8220&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=537fe437-141b-11eb-85e0-0242ac110002&userId=&serverSideAds=true
