@@ -416,11 +416,11 @@ http://instanttv.info:8080/live/TV-72370097/591175072920/77743.ts
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Warner TV
 http://instanttv.info:8080/live/TV-72370097/591175072920/77775.ts
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , FOX Movies
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Star Hit
 http://instanttv.info:8080/live/TV-72370097/591175072920/77675.ts
 
-
-
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Star Action
+http://38.18.238.35:2095/andromeda/FOX/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , TvMasChile
 https://593b04c4c5670.streamlock.net/8008/8008/playlist.m3u8
