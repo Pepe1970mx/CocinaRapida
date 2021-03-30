@@ -117,7 +117,7 @@ https://estrellatv-roku.amagi.tv/playlistR216lp.m3u8
 https://m3u-editor.com/serve/rokumaniatest/218992457
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Multicanal
-https://m3u-editor.com/serve/rokumaniatest/156476879
+https://multicanal.streamseguro.com/hls/streaming.m3u8
 
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO" , Telecentro (República Dominicana)
@@ -226,7 +226,7 @@ http://instanttv.info:8080/TV-72370097/591175072920/75455
 http://instanttv.info:8080/TV-72370097/591175072920/64410
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney Channel 
-http://instanttv.info:8080/TV-72370097/591175072920/75475
+http://38.18.238.35:2095/andromeda/DISNEY/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney XD 
 http://instanttv.info:8080/TV-72370097/591175072920/75477
@@ -372,7 +372,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007
 
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , AMC 
-http://instanttv.info:8080/live/TV-72370097/591175072920/75437.ts
+http://38.18.238.35:2095/andromeda/AMC/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , TNT
 http://38.18.238.35:2095/andromeda/TNT/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
