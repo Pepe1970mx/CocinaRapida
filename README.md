@@ -526,12 +526,12 @@ http://stitcher-ipv4.pluto.tv:80/stitch/hls/channel/5df975e2b27cf5000921c102live
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Sky Sports 24
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 
-http://instanttv.info:8080/live/TV-72370097/591175072920/75484.ts
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN Deportes
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2  
 http://23.237.78.54/live-1000/263/playlist.m3u8
-
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Espn 3
 https://m3u-editor.com/serve/rokumaniatest/164011161
