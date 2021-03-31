@@ -230,7 +230,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe
 
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Cartoon Network 
-http://instanttv.info:8080/TV-72370097/591175072920/75455
+https://m3u-editor.com/serve/rokumaniatest/240386650
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney +
 http://instanttv.info:8080/TV-72370097/591175072920/64410
