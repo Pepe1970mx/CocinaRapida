@@ -558,8 +558,11 @@ https://clarosport-origen.clarovideo.net:443/Content/hls/Live/Channel(jjoo2016ch
 
 
 
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA" , Nick Music
-http://instanttv.info:8080/live/TV-72370097/591175072920/75538.ts
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA" , Persiana Billboard
+http://51.210.199.10/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA" , Persiana Music
+http://51.210.199.24/hls/stream.m3u8
 
 #EXTINF:-1 group-title="MUSICA", Flash
 https://flash-plex.amagi.tv/flash/master_1.m3u8
