@@ -520,7 +520,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c548530007
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", beIN Sports En Español
 http://208.88.246.11:2095/9592BEINE/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8?nimblesessionid=175516058
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", BeIN Xtra
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", BeIN Sports Xtra
 http://stitcher-ipv4.pluto.tv:80/stitch/hls/channel/5df975e2b27cf5000921c102livestitch/823489/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Sky Sports 24
