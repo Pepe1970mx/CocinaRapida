@@ -1,7 +1,8 @@
 
 
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg400.jpg?v=1515007950", Azteca Uno
-https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
+https://aztkhlslive2-i.akamaih
+d.net/hls/live/1009823/un0873g96ye83d/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO" , Las Estrellas
 https://m3u-editor.com/serve/rokumaniatest/164011175
@@ -43,7 +44,7 @@ http://s5.mexside.net:1935/telemax/telemax/chunklist_w1982711424.m3u8
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://puu.sh/mwdSw/26eea6807c.png" group-title="MEXICO" , Milenio TV 
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1617220883/ei/s4BkYI3MCIbrigS2hKWQBw/ip/2806:10a6:14:5bb4:105c:7c18:71a9:4a7e/id/XfEVaJkGyY0.1/itag/93/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D134/hls_chunk_host/r11---sn-0opoxu-8xgd.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4050/mh/zG/mm/44/mn/sn-0opoxu-8xgd/ms/lva/mv/m/mvi/11/pl/48/usequic/no/dover/11/keepalive/yes/fexp/24001373,24007246/beids/9466588/mt/1617198988/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhAMMxFTvxSPRfGsCV-KHN-E3y5NAu3ei11a66tNUecc9HAiABmrel6jgNcI4nXXXar497rvLposnCpy-zzGk8cIUgbg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl,usequic/lsig/AG3C_xAwRQIhAMB0E-z_NWy-HRRzVYa8W9RxYOMw3JZTTZ1-beVETpq8AiBiOSvE822CPuMhF-eq00MROkd5IFfZ8aA4P7QAH64j4w%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="MEXICO" , Tele Fórmula
 https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
