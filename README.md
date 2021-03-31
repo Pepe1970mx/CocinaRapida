@@ -113,6 +113,9 @@ http://190.122.96.187:8888/http/002
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Estrella TV
 https://estrellatv-roku.amagi.tv/playlistR216lp.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="LATINO", Estrella News
+https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=60089d97f682a3002c34829b/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/768x432_1425600/index.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="LATINO",  TVN
 https://m3u-editor.com/serve/rokumaniatest/218992457
 
