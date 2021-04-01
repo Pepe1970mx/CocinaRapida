@@ -525,7 +525,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e0007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=5b8fe74b-4cb0-46ce-a07b-cad12af3974b&clientModelNumber=na&deviceDNT=false&deviceId=5b8fe74b-4cb0-46ce-a07b-cad12af3974b&deviceLat=20.9302&deviceLon=-97.4005&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=b30374f1-604e-11eb-a30a-0242ac110002&sid=b30374f1-604e-11eb-a30a-0242ac110002&userId=
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", beIN Sports En Español
-http://208.88.246.11:2095/9592BEINE/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8?nimblesessionid=175516058
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", BeIN Sports Xtra
 http://stitcher-ipv4.pluto.tv:80/stitch/hls/channel/5df975e2b27cf5000921c102livestitch/823489/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
