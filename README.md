@@ -474,6 +474,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f062
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS", Pluto Cine Latino3
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984c1dc54853000797a5e8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
+#EXTINF:-1 tvg-logo=" " group-title="LATINAS", Cine Narco
+https://dice-live-us.akamaized.net/ads-257/op-257/linear/hls/pa/event/TnYLQJiPQoCMFh9-7GsHQg/stream/5688e906-a5ef-402a-93a0-729afa74e3e9:MRN2/master.m3u8?hdnea=st=1617251643~exp=1617251943~acl=*~id=c27d4288-332c-439d-bc92-4f3cc0a75220~hmac=9871e4fbfcc38e4a2dc6959610c249823a49f339015511b50340296715e67f37
+
 #EXTINF:-1 tvg-logo=" " group-title="LATINAS" , Nuestra Vision 
 https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master_2.m3u8
 
