@@ -124,8 +124,8 @@ https://m3u-editor.com/serve/rokumaniatest/218992457
 https://multicanal.streamseguro.com/hls/streaming.m3u8
 
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINO" , Telecentro (República Dominicana)
-http://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="LATINO" , City
+
 
 #EXTINF:0 tvg-logo="http://www.honduras504.com/img/tv/Telecadena-7-y4.jpg" group-title="LATINO", Telecadena 7 y 4 
 http://stream.mxiptv.org:25461/live/tvabierta/opentv/341.m3u8
