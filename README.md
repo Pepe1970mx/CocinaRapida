@@ -572,9 +572,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f3977
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo 2k
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-
-
-
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="MUSICA", MTV POP
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
 
@@ -588,8 +585,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae79fa46e170007
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA" , Persiana Billboard
 http://51.210.199.10/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA" , Persiana Music
-http://51.210.199.24/hls/stream.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA" , Spotligh
+https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSICA", Flash
 https://flash-plex.amagi.tv/flash/master_1.m3u8
