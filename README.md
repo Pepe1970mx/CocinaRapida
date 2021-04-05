@@ -1,6 +1,6 @@
 
 
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg400.jpg?v=1515007950", Azteca Uno
+#EXTINF:-1 group-title="MEXICO" tvgg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg400.jpg?v=1515007950", Azteca Uno
 https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO" , Las Estrellas
@@ -530,6 +530,11 @@ https://clarosport-origen.clarovideo.net:443/Content/hls/Live/Channel(jjoo2016ch
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/761
 
 
+
+
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA", NickMusic
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725
+
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo Latino
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 
@@ -558,9 +563,24 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="" group-title="MUSICA", MTV Love
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae79fa46e17000794e84c/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=41.3954&deviceLon=2.2048&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=ES&serverSideAds=true&sessionID=42536931-7578-11eb-b217-0242ac110002&sid=42536931-7578-11eb-b217-0242ac110002&userId=
 
-
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA" , Persiana Billboard
 http://51.210.199.10/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA", 24/7 Pop
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="" group-title "MUSICA" , Box 
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA", Hit TV
+http://hitmusic.hu/hitmusic.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA",  MUSIC TOP
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", TOP LATINO 
+http://stream.mxiptv.org:25461/live/tvabierta/opentv/249.m3u8
+
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA" , Spotligh
 https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
@@ -571,17 +591,7 @@ https://flash-plex.amagi.tv/flash/master_1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA", 24/7 Pop
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="" group-title "MUSICA" , Box 
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA",  MUSIC TOP
-http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", TOP LATINO 
-http://stream.mxiptv.org:25461/live/tvabierta/opentv/249.m3u8
 
 
 
@@ -623,8 +633,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9847111
 
 
 
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA", Hit TV
-http://hitmusic.hu/hitmusic.m3u8
+
 
 
 
@@ -638,9 +647,6 @@ https://ch.iptvmate.net/b8799300af8ecf28e89b77029dfa9e6d.m3u8
 http://hz1.teleport.cc/HLS/HD.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.canalcostatv.es/wp-content/uploads/2020/04/logo-cabecera-cc.png" group-title="MUSICA", CANAL COSTA CL
-https://srv3.zcast.com.br/canalcostaonline/canalcostaonline/playlist.m3u8
- 
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA RETRO", Rock TV
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
