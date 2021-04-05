@@ -1,8 +1,7 @@
 
 
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg400.jpg?v=1515007950", Azteca Uno
-https://aztkhlslive2-i.akamaih
-d.net/hls/live/1009823/un0873g96ye83d/master.m3u8
+https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO" , Las Estrellas
 https://m3u-editor.com/serve/rokumaniatest/164011175
@@ -511,10 +510,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2  
 http://23.237.78.54/live-1000/263/playlist.m3u8
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Espn 3
-https://m3u-editor.com/serve/rokumaniatest/164011161
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports   
 http://instanttv.info:8080/live/TV-72370097/591175072920/75500.ts
@@ -531,6 +526,8 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Claro Sports
 https://clarosport-origen.clarovideo.net:443/Content/hls/Live/Channel(jjoo2016ch01)/Stream(04)/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", TVC Deportes
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/761
 
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo Latino
