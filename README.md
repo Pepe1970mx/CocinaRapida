@@ -316,8 +316,11 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Mi Gente TV
 https://videohd.live:19360/8010/8010.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , La Voz TV
+https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Movies
+https://panel.streamingTV-mediacp.online:1936/8100/8100/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="ENTRETENIMIENTO", PeliculasMania
 http://lavozdetucuman.com/peliculas1.m3u8
@@ -336,9 +339,6 @@ http://stream.mxiptv.org:25461/live/tvabierta/opentv/264.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.tenarenses.com/wp-content/uploads/2018/08/DSC_0076.jpg?resize=640%2C424&ssl=1" group-title="ENTRETENIMIENTO" , TVS DO
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://wmservice.com.do/images/banner.jpg" group-title="ENTRETENIMIENTO" ,  WMSHD 12
-http://cm.hostlagarto.com:8081/wmserviceHD/wmservicehd.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="ENTRETENIMIENTO" , PHTV DO
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
