@@ -4,7 +4,7 @@
 https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO" , Las Estrellas
-https://m3u-editor.com/serve/rokumaniatest/164011175
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/682
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Imagen_TV_logo.png/200px-Imagen_TV_logo.png" group-title="MEXICO",  ImagenTV
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/712
@@ -13,7 +13,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1048_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png"group-title="MEXICO" , Canal 5 
-http://instanttv.info:8080/live/TV-72370097/591175072920/75452.ts
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO" , Canal 6 Cdmex
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
