@@ -378,8 +378,8 @@ http://38.18.238.35:2095/andromeda/SONY/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Star Hit
 http://instanttv.info:8080/live/TV-72370097/591175072920/77675.ts
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Star Action
-http://38.18.238.35:2095/andromeda/FOXACTION/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , TBS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , TvMasChile
 https://593b04c4c5670.streamlock.net/8008/8008/playlist.m3u8
@@ -497,7 +497,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e0007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=5b8fe74b-4cb0-46ce-a07b-cad12af3974b&clientModelNumber=na&deviceDNT=false&deviceId=5b8fe74b-4cb0-46ce-a07b-cad12af3974b&deviceLat=20.9302&deviceLon=-97.4005&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=b30374f1-604e-11eb-a30a-0242ac110002&sid=b30374f1-604e-11eb-a30a-0242ac110002&userId=
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", beIN Sports En Español
-http://38.18.237.42:2095/andromeda/BEINES/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", BeIN Sports Xtra
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=40.7876&deviceLon=-74.0600&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=US&serverSideAds=true&sessionID=6d798a76-95af-11eb-bf5c-0242ac110002&sid=6d798a76-95af-11eb-bf5c-0242ac110002&userId=
