@@ -123,8 +123,8 @@ https://m3u-editor.com/serve/rokumaniatest/218992457
 https://multicanal.streamseguro.com/hls/streaming.m3u8
 
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINO" , City
-
+#EXTINF:-1 tvg-logo=" " group-title="LATINO" , Estrella TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/697
 
 #EXTINF:0 tvg-logo="http://www.honduras504.com/img/tv/Telecadena-7-y4.jpg" group-title="LATINO", Telecadena 7 y 4 
 http://stream.mxiptv.org:25461/live/tvabierta/opentv/341.m3u8
