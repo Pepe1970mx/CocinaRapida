@@ -30,29 +30,11 @@ https://aztkhlslive6-i.akamaihd.net:443/hls/live/1019872/4m4s8qo47rr3/master.m3u
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EM8Ks47kwqSGMiH4twcCBgAAAA&pid=Api&P=0&w=175&h=43" group-title="MEXICO", Canal 9
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719
 
-#EXTINF:-1 tvg-logo="" group-title="MEXICO", TV Lobo
-http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="MEXICO", Canal Once
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
- 
-#EXTINF: -1 tvg-logo = "https://i.pinimg.com/280x280_RS/01/ca/56/01ca569f92b45cecb0cf738a912cfea0.jpg" group-title = "MEXICO", Telemax (XEWH)
-http://s5.mexside.net:1935/telemax/telemax/chunklist_w1982711424.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO" , Canal 14
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mwdSw/26eea6807c.png" group-title="MEXICO" , Milenio TV 
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1617220883/ei/s4BkYI3MCIbrigS2hKWQBw/ip/2806:10a6:14:5bb4:105c:7c18:71a9:4a7e/id/XfEVaJkGyY0.1/itag/93/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D134/hls_chunk_host/r11---sn-0opoxu-8xgd.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4050/mh/zG/mm/44/mn/sn-0opoxu-8xgd/ms/lva/mv/m/mvi/11/pl/48/usequic/no/dover/11/keepalive/yes/fexp/24001373,24007246/beids/9466588/mt/1617198988/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhAMMxFTvxSPRfGsCV-KHN-E3y5NAu3ei11a66tNUecc9HAiABmrel6jgNcI4nXXXar497rvLposnCpy-zzGk8cIUgbg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl,usequic/lsig/AG3C_xAwRQIhAMB0E-z_NWy-HRRzVYa8W9RxYOMw3JZTTZ1-beVETpq8AiBiOSvE822CPuMhF-eq00MROkd5IFfZ8aA4P7QAH64j4w%3D%3D/playlist/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="MEXICO" , Tele Fórmula
-https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qO0nkZz.png" group-title="MEXICO" , adn 40 
-https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
-
-#EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="MEXICO" , CNN en Español
-https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/VIDEO_5_264000.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO" , CANAL 22 
 https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
@@ -66,6 +48,16 @@ https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/quiero-tv-en-vivo-768x480.png" group-title="MEXICO" , Quiero TV
 https://quierotvlive.tk/httplive/playlist_playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo=" " group-title="MEXICO" , TvMar
+https://5ca3e84a76d30.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MEXICO", TV Lobo
+http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "https://i.pinimg.com/280x280_RS/01/ca/56/01ca569f92b45cecb0cf738a912cfea0.jpg" group-title = "MEXICO", Telemax (XEWH)
+http://s5.mexside.net:1935/telemax/telemax/chunklist_w1982711424.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="MEXICO", TVP
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8?DVR
 
@@ -75,20 +67,40 @@ http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO" , RGC2
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qO0nkZz.png" group-title="MEXICO" , adn 40 
+https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/mwdSw/26eea6807c.png" group-title="MEXICO" , Milenio TV 
+
+
+#EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="MEXICO" , Tele Fórmula
+https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="MEXICO" , CNN en Español
+https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/VIDEO_5_264000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="MEXICO", DW Español
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="MEXICO", RT en Español
+https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="MEXICO",  EuroNews
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/4/4b/Mexiquense_tv.jpg/revision/latest?cb=20170525194804&path-prefix=es" group-title="MEXICO" , Mexiquense Noticias 
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO" , Televisa Veracruz
 
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO" , Tele Play
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/chunks.m3u8
 
-
-#EXTINF:-1 tvg-logo=" " group-title="MEXICO" , TvMar
-https://5ca3e84a76d30.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO" , Jalisco TV
 https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/chunklist_w177708400.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/4/4b/Mexiquense_tv.jpg/revision/latest?cb=20170525194804&path-prefix=es" group-title="MEXICO" , Mexiquense Noticias 
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
+
 
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO",  Distrito Comedia 
@@ -107,11 +119,14 @@ http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Univision Network
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668
 
-#EXTINF:-1 tvg-logo="http://www.honduras504.com/img/tv/Azteca-Honduras.jpg" group-title="LATINO", Universo
+#EXTINF:-1 tvg-logo=" " group-title="LATINO", Univision Network
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/657
+
+#EXTINF:-1 tvg-logo="" group-title="LATINO", Universo
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINO", Estrella TV
-https://estrellatv-roku.amagi.tv/playlistR216lp.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="LATINO" , Estrella TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/697
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Estrella News
 https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=60089d97f682a3002c34829b/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/768x432_1425600/index.m3u8
@@ -119,12 +134,7 @@ https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-5
 #EXTINF:-1 tvg-logo=" " group-title="LATINO",  TVN
 https://m3u-editor.com/serve/rokumaniatest/218992457
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINO", Multicanal
-https://multicanal.streamseguro.com/hls/streaming.m3u8
 
-
-#EXTINF:-1 tvg-logo=" " group-title="LATINO" , Estrella TV
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/697
 
 #EXTINF:0 tvg-logo="http://www.honduras504.com/img/tv/Telecadena-7-y4.jpg" group-title="LATINO", Telecadena 7 y 4 
 http://stream.mxiptv.org:25461/live/tvabierta/opentv/341.m3u8
@@ -132,20 +142,8 @@ http://stream.mxiptv.org:25461/live/tvabierta/opentv/341.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-5-el-lider-honduras-logo-FED83D8EE6-seeklogo.com.png" group-title="LATINO" , Canal 5 El Líder 
 https://bcovlive-a.akamaihd.net/8520a5c6a0384300b735385e02e2f582/us-west-2/6056665196001/profile_3/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/#&gid=1&pid=1" group-title="LATINO", Telecosta 
-https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="DOC Y NOT", DW Español
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="DOC Y NOT", RT en Español
-https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="DOC Y NOT",  EuroNews
-https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="DOC Y NOT", Saber Mas
 https://sabermas-plex.amagi.tv/SaberMas-xumo/master_1.m3u8
@@ -262,8 +260,15 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007
 
 
 
-#EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", FOX channel
+#EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", Star channel
 http://45.71.202.210:50000/play/a01m/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Multicanal
+https://multicanal.streamseguro.com/hls/streaming.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/#&gid=1&pid=1" group-title="ENTRETENIMIENTO", Telecosta 
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Series
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8f49205650007bc15f1/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=41.3954&deviceLon=2.2048&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=ES&serverSideAds=true&sessionID=9e57e825-6635-11eb-9e0f-0242ac110002&sid=9e57e825-6635-11eb-9e0f-0242ac110002&userId=
@@ -309,9 +314,6 @@ https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Movies
 https://panel.streamingTV-mediacp.online:1936/8100/8100/playlist.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="ENTRETENIMIENTO", PeliculasMania
-http://lavozdetucuman.com/peliculas1.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Cinecable
 https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8?PlaylistM3UCL
@@ -425,46 +427,46 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c90007
 
 
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINAS" , Pluto Cine Latino 
+#EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , Pluto Cine Latino 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=64589062-ef97-11ea-b899-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINAS" , Pluto Cine Latino2
+#EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , Pluto Cine Latino2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=36.1685&deviceLon=-115.1164&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=0ca3beff-0523-11eb-a59f-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINAS", Pluto Cine Latino3
+#EXTINF:-1 tvg-logo=" " group-title="CINE LATINO", Pluto Cine Latino3
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984c1dc54853000797a5e8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINAS", Cine Narco
+#EXTINF:-1 tvg-logo=" " group-title="CINE LATINO", Cine Narco
 https://dice-live-us.akamaized.net/ads-257/op-257/linear/hls/pa/event/TnYLQJiPQoCMFh9-7GsHQg/stream/5688e906-a5ef-402a-93a0-729afa74e3e9:MRN2/master.m3u8?hdnea=st=1617251643~exp=1617251943~acl=*~id=c27d4288-332c-439d-bc92-4f3cc0a75220~hmac=9871e4fbfcc38e4a2dc6959610c249823a49f339015511b50340296715e67f37
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINAS" , Nuestra Vision 
+#EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , Nuestra Vision 
 https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master_2.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINAS" , Butaca TV
+#EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , Butaca TV
 https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINAS", AMMO Español
+#EXTINF:-1 tvg-logo=" " group-title="CINE LATINO", AMMO Español
 https://ammo-espanol-plex.amagi.tv:443/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=5f5132e362fe160040f26c15/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/512x288_875600/index.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , juntos
+#EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , juntos
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master_3.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="ENTRETENIMIENTO", Evastream
+#EXTINF:0 tvg-logo="" group-title="CINE LATINO", Evastream
 https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/chunklist_w1015621512.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINAS", Tu Cine
+#EXTINF:-1 tvg-logo=" " group-title="CINE LATINO", Tu Cine
 https://tucine-plex.amagi.tv/TuCine-xumo/master_1.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINAS", Top Cine 
+#EXTINF:-1 tvg-logo=" " group-title="CINE LATINO", Top Cine 
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_3.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINAS", Cine Sureño
+#EXTINF:-1 tvg-logo=" " group-title="CINE LATINO", Cine Sureño
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master_3.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINAS", cine Real
+#EXTINF:-1 tvg-logo=" " group-title="CINE LATINO", cine Real
 https://cinereal-plex.amagi.tv:443/CineReal/master_3.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINAS", TV Azteca Cinema
+#EXTINF:-1 tvg-logo=" " group-title="CINE LATINO", TV Azteca Cinema
 http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/766
 
 
