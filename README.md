@@ -521,6 +521,8 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 
 
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA", City TV Radio
+https://tv.city.bg/play/tshls/citytv/3.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", NickMusic
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725
@@ -530,10 +532,6 @@ https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo Pop
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo Music Pluto
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=25.7806&deviceLon=-80.1826&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=US&serverSideAds=true&sessionID=87e3e335-757c-11eb-8477-0242ac110002&sid=87e3e335-757c-11eb-8477-0242ac110002&userId=
-
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo R&B
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -565,6 +563,10 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", Hit TV
 http://hitmusic.hu/hitmusic.m3u8
 
+#EXTINF:-1 tvg-logo" "group-title="MUSICA" , Loop Party
+https://aa25f9002c724666a6e1e9402e78f94f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopParty/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA",  MUSIC TOP
 http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
 
@@ -585,40 +587,17 @@ https://flash-plex.amagi.tv/flash/master_1.m3u8
 
 
 
-#EXTINF:-1 group-title="MUSICA", Music Live
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=40.7308&deviceLon=-73.9975&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=fbbab74e-ef25-11ea-a685-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="MUSICA", 24/7 Conciertos
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/7.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="MUSICA RETRO", XTV Music
-https://tls.cdnz.cl/xtvmusic/xtvmusic/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="MUSICA", MTV YO!
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_375.m3u8
 
-#EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="MUSICA", MTV Party
-https://pluto-live.plutotv.net/m/hlslive/mtv-04a.m3u8?chname=mtv-04a&pub=cd44c23c-4796-475f-bcb1-b846bed4cf40&ctype=0&acsurl=pluto-acs-lb.adsparx.net&mcdn=pluto-live.plutotv.net%2Fm&userParams=ccp%3DeyJkZXZpY2VJZCI6IjQyYzI5MTE1LTEzMjktNDFmYi05ZTMwLTVlYTI5MjllY2ZlMyIsImRldmljZVZlcnNpb24iOiI0LjAiLCJhcHBWZXJzaW9uIjoiNS43LjUtMGIxNjc0YjYyNmY1ZTVhZGMxZjJiMWQxMmIwNjhlODlhOTUwZmRmNyIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VNYWtlIjoiQW5kcm9pZCtCcm93c2VyIiwiYWR2ZXJ0aXNpbmdJZCI6IiIsImRldmljZUxhdCI6IjM3LjczNTMiLCJkZXZpY2VMb24iOiItMTIyLjM3MzIiLCJkZXZpY2VETlQiOiJmYWxzZSIsImRldmljZU1vZGVsIjoiQW5kcm9pZCtCcm93c2VyIiwidXNlcklkIjoiIiwiYXBwTmFtZSI6IndlYiIsImFyY2hpdGVjdHVyZSI6IiIsImluY2x1ZGVFeHRlbmRlZEV2ZW50cyI6ImZhbHNlIiwic3JjUHJvdG9jb2wiOiJodHRwcyIsInN0aXRjaGVyVmVyc2lvbiI6IjIuNDEuMCIsInN0aXRjaGVyUmVxSWQiOiIzMWQ1MDZkZS1lYTlkLTRkZjItODA2ZS0xMDQyMWZmYTQyNDEiLCJhZEltcHJlc3Npb25Qcm94eSI6dHJ1ZSwiaXBfYWRkcmVzcyI6IjE5Mi4yNDEuMjMwLjgwIiwiZGV2aWNlX3VhIjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDguMS4wOyBEVUEtTFgzIEJ1aWxkL0hPTk9SRFVBLUxYMzsgd3YpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vNC4wIENocm9tZS84NS4wLjQxODMuMTAxIE1vYmlsZSBTYWZhcmkvNTM3LjM2IiwidHJhbnNhY3Rpb25faWQiOiJhY2Q0YzAxZC1iYTFkLTQ2ZDctYjVjYi0wMzA4NDdlZDJmNzYiLCJkZXZpY2VVc2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgOC4xLjA7IERVQS1MWDMgQnVpbGQvSE9OT1JEVUEtTFgzOyB3dikgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi80LjAgQ2hyb21lLzg1LjAuNDE4My4xMDEgTW9iaWxlIFNhZmFyaS81MzcuMzYiLCJpcEFkZHJlc3MiOiIxOTIuMjQxLjIzMC44MCIsImNoSWQiOiI1ZDM2MDljZDZhNmM3OGQ3NjcyZjJhODEiLCJ0aW1lbGluZUlkIjoiNWY1YWY0ZmFlZDExY2UwMDA4ZmIxZmJjIiwiY2xpcElkIjoiNWQ3OTc5ZjEzYzc3MGNjZmU1MDE3Yzg1Iiwic2Vzc2lvbklkIjoiZjdjNGU4MTMtZjQ2NC0xMWVhLWJmYmYtMDI0MmFjMTEwMDAyIiwiZXBpc29kZUlkIjoiNWQ4YThlYzA0MzhiNGI1ZmRhMGE5M2JiIiwicGFydG5lckNvZGUiOiJNVFYiLCJwYXJ0bmVyX2lkIjoiNWNhNmFhMjcxNWE2MjA3OGQyZWMyM2NkIiwib3JpZ2luIjoiYWRTcGFyeCIsImZyb21fc3RpdGNoZXIiOnRydWV9
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo 90
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 
 
 #EXTINF:-1 tvg-logo="" group-title="MUSICA", MTV Latino
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA", MTV Unplugged
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 
 
@@ -638,6 +617,10 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 
 
 
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA RETRO", MTV Unplugged
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA RETRO", Rock TV
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
 
@@ -647,14 +630,21 @@ https://cootv.cootel.com.ni/streams/d/SSLCH22-HD-VWT/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA RETRO" , Puro Rock
 http://159.69.56.148:25461/live/PuroRock/PuroRock24-7.com/25.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo" "group-title="MUSICA RETRO" , Loop 80's
+https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s/playlist.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA RETRO", Vevo 80
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo=""  group-title="MUSICA RETRO" , 24/7 Retro
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/4.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA RETRO", Vevo 90
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-logo=""  group-title="MUSICA RETRO" , RetroPlus Musica 
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=""  group-title="MUSICA RETRO" , 24/7 Retro
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/4.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo=""  group-title="MUSICA RETRO" , 24/7 Vintage
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8?PlaylistM3UCL
@@ -665,45 +655,50 @@ https://srv5.zcast.com.br/andre4369/andre4369/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-http://retromusic.cz/wp-content/uploads/2017/08/retro-logo.png="AXN" group-title="MUSICA RETRO" , Retro Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1 tvg-logo" "group-title="MUSICA RETRO" , Loop 80's
-https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA RETRO", Music Live
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=40.7308&deviceLon=-73.9975&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=fbbab74e-ef25-11ea-a685-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo" "group-title="MUSICA" , Loop Party
-https://aa25f9002c724666a6e1e9402e78f94f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopParty/playlist.m3u8
+#EXTINF:-1 group-title="MUSICA RETRO", 24/7 Conciertos
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/7.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="MUSICA RETRO", XTV Music
+https://tls.cdnz.cl/xtvmusic/xtvmusic/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo" "group-title="MUSICA" , Video Tour Channels
+#EXTINF:-1 tvg-logo" "group-title="MUSICA RETRO" , Video Tour Channels
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo" "group-title="MUSICA" , Radio Capital TiVù
+#EXTINF:-1 tvg-logo" "group-title="MUSICA RETRO" , Radio Capital TiVù
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on?e74
  
-#EXTINF:-1 tvg-logo" "group-title="MUSICA" , TVPOP
+#EXTINF:-1 tvg-logo" "group-title="MUSICA RETRO" , TVPOP
 https://v4.tustreaming.cl/poptv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo" "group-title="MUSICA" , Retroplus Señal 2 Música Baladas
+#EXTINF:-1 tvg-logo" "group-title="MUSICA RETRO" , Retroplus Señal 2 Música Baladas
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo" "group-title="MUSICA" , Balladas 24/7
+#EXTINF:-1 tvg-logo" "group-title="MUSICA REGIONAL" , Balladas 24/7
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo" "group-title="MUSICA" , Tropical 24/7
+#EXTINF:-1 tvg-logo" "group-title="MUSICA REGIONAL" , Tropical 24/7
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fyPHgEH.png" group-title="MUSICA", COLOSAL TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fyPHgEH.png" group-title="MUSICA REGIONAL", COLOSAL TV
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w1747515295.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fyPHgEH.png" group-title="MUSICA", Video Rola
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fyPHgEH.png" group-title="MUSICA REGIONAL", Video Rola
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_2.m3u8
 
-#EXTINF: -1 tvg-logo = "http://i.imgur.com/897e9wy.png" group-title = "MUSICA", Teleritmo
+#EXTINF: -1 tvg-logo = "http://i.imgur.com/897e9wy.png" group-title = "MUSICA REGIONAL", Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-1 group-title="MUSICA", Conecta TV
+#EXTINF:-1 group-title="MUSICA REGIONAL", Conecta TV
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="MUSICA", RetroChannels
+#EXTINF:-1 group-title="MUSICA REGIONAL", RetroChannels
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+
+
 
 #EXTINF:-1, tvg-logo="" group-title="RADIO" , Universal Stero
 https://14933.live.streamtheworld.com/XHRED_FMAAC.aac?dist=tg&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=d8b27299-703d-4e00-8a3b-8746120031fe
