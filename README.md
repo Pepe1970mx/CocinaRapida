@@ -119,7 +119,7 @@ http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Univision Network
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINO", Univision Network
+#EXTINF:-1 tvg-logo=" " group-title="LATINO", UniMas
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/657
 
 #EXTINF:-1 tvg-logo="" group-title="LATINO", Universo
@@ -133,8 +133,6 @@ https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-5
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO",  TVN
 https://m3u-editor.com/serve/rokumaniatest/218992457
-
-
 
 #EXTINF:0 tvg-logo="http://www.honduras504.com/img/tv/Telecadena-7-y4.jpg" group-title="LATINO", Telecadena 7 y 4 
 http://stream.mxiptv.org:25461/live/tvabierta/opentv/341.m3u8
@@ -169,6 +167,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=21.3563&deviceLon=-97.6896&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=f83fdf19-0d08-11eb-a6e3-0242ac110002&userId=&serverSideAds=true
 
 
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/125px-Boing.svg.png" group-title="KIDS" , Boing 
 http://instanttv.info:8080//TV-72370097/591175072920/48473
 
@@ -176,7 +176,7 @@ http://instanttv.info:8080//TV-72370097/591175072920/48473
 https://lavozdetucuman.com/simpsons.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Nick
-https://m3u-editor.com/serve/rokumaniatest/240386656
+http://45.71.202.210:50000/play/a01g/index.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Nick Pluto
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=37.7510&deviceLon=-97.8220&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=537fe437-141b-11eb-85e0-0242ac110002&userId=&serverSideAds=true
@@ -205,10 +205,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea93ffcf9450007
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney Channel 
-http://45.71.202.210:50000/play/a00n/index.m3u8
+http://45.71.202.210:50000/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney XD 
-http://instanttv.info:8080/TV-72370097/591175072920/75477
+
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney Junior
 http://45.71.202.210:50000/play/a00i/index.m3u8
