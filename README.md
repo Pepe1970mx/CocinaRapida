@@ -524,6 +524,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", City TV Radio
 https://tv.city.bg/play/tshls/citytv/3.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA", Music Channel
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_w243000391.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", NickMusic
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725
 
