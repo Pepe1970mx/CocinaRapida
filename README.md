@@ -208,7 +208,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://45.71.202.210:50000/play/a00m/index.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney XD 
-
+http://190.13.162.66:8081/play/a01m
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney Junior
 http://45.71.202.210:50000/play/a00i/index.m3u8
@@ -365,22 +365,20 @@ http://38.18.238.35:2095/andromeda/WARNER/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9W
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Sony
 http://38.18.238.35:2095/andromeda/SONY/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Star Hit
-http://instanttv.info:8080/live/TV-72370097/591175072920/77675.ts
-
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , TBS
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , TvMasChile
-https://593b04c4c5670.streamlock.net/8008/8008/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO
+http://190.13.162.66:8081/play/a00t
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Star Action
+http://190.13.162.66:8081/play/a00k
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Movistar Accion
 http://instanttv.info:8080/live/TV-72370097/591175072920/48401.ts
 
-
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Rakuten Action
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Pluto Acción
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=97c7d537-1741-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
