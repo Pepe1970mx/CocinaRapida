@@ -500,10 +500,10 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://23.237.78.54/live-1000/263/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports   
-http://instanttv.info:8080/live/TV-72370097/591175072920/75500.ts
+
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Fox Sports 2 
-http://65.21.50.117:25461/okanozbek/zhYxBbK7mU/59597
+http://190.13.162.66:8081/play/a01i
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Fox Deportes HD 
 http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
