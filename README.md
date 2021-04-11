@@ -357,16 +357,16 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 http://38.18.238.35:2095/andromeda/AMC/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , TNT
-http://38.18.238.35:2095/andromeda/TNT/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+http://190.13.162.66:8081/play/a020
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Space
-http://38.18.238.35:2095/andromeda/SPACE/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+http://190.13.162.66:8081/play/a00x
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Warner TV
-http://38.18.238.35:2095/andromeda/WARNER/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Warner 
+http://190.13.162.66:8081/play/a01c
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Sony
-http://38.18.238.35:2095/andromeda/SONY/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8
+http://190.13.162.66:8081/play/a00v
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , TBS
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
