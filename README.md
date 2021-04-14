@@ -173,7 +173,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009
 http://instanttv.info:8080//TV-72370097/591175072920/48473
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Los Simpson Mania
-https://lavozdetucuman.com/simpsons.m3u8
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Nick
 http://45.71.202.210:50000/play/a01g/index.m3u8
