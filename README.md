@@ -213,7 +213,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9853138d19af0007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=20.4437&deviceLon=-97.3444&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=9c38e017-9581-11eb-9ac7-0242ac110002&sid=9c38e017-9581-11eb-9ac7-0242ac110002&userId=
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Cartoon Network 
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683
+http://190.13.162.66:8081/play/a01z
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Disney Channel 
 http://45.71.202.210:50000/play/a00m/index.m3u8
