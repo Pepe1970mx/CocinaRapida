@@ -503,6 +503,9 @@ https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN Deportes
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
 
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN
+http://23.237.78.54/live-1000/263/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2  
 http://23.237.78.54/live-1000/263/playlist.m3u8
 
