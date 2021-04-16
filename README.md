@@ -40,7 +40,7 @@ https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO" , CANAL 22 
-https://5e50264bd6766.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
+https://5fe2654d6127d.streamlock.net:443/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIxIDc6MzQ6MzEgUE0maGFzaF92YWx1ZT00YVpPcXQ0NHdmRXAzSzZsWHpUQTNRPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8O0WxdF.png" group-title="MEXICO" , TVMÁS  
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w1862368642.m3u8
