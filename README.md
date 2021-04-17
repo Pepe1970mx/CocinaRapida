@@ -175,6 +175,8 @@ http://190.13.162.66:8081/play/a01z
 https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Planeta Jr
+https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Los Simpson Mania
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
