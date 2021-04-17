@@ -499,7 +499,10 @@ http://l3dtv.ga:8080/MJv7bnghmG/hy2Ynxw3z7/10920
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Gol España
 http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8
- 
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Win Sport 
+http://saypopular.com:25461/oscar/20gar/52853
+
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN Deportes
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
 
