@@ -515,7 +515,8 @@ http://23.237.78.54/live-1000/263/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Fox Sports 2 
-http://190.13.162.66:8081/play/a01i
+http://heinentv.ddns.net:25461/fernando1/fernando1/5178
+
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Fox Deportes HD 
 http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
