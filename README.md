@@ -1,7 +1,6 @@
 
 
-#EXTINF:-1 group-title="MEXIC
-O" tvgg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg400.jpg?v=1515007950", Azteca Uno
+#EXTINF:-1 group-title="MEXICO" tvgg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg400.jpg?v=1515007950", Azteca Uno
 https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO" , Las Estrellas
@@ -497,8 +496,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf50009
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", T y C
 http://l3dtv.ga:8080/MJv7bnghmG/hy2Ynxw3z7/10920
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Gol España
-http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Sport TV
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Win Sport 
 http://saypopular.com:25461/oscar/20gar/52853
