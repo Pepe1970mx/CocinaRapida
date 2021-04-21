@@ -504,7 +504,7 @@ http://heinentv.ddns.net:25461/fernando1/fernando1/5178
 http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
  
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Univision TDN
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666
+http://69.10.62.24:25461/ufoDq8XnAO/kV3q1gkVRX/9531
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Claro Sports
 https://clarosport-origen.clarovideo.net:443/Content/hls/Live/Channel(jjoo2016ch01)/Stream(04)/index.m3u8
