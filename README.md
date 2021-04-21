@@ -341,10 +341,10 @@ http://190.13.162.66:8081/play/a00x
 http://190.13.162.66:8081/play/a01c
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Sony
-http://190.13.162.66:8081/play/a00v
+http://69.10.62.24:25461/ufoDq8XnAO/kV3q1gkVRX/9385
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , TBS
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Universal
+http://69.10.62.24:25461/ufoDq8XnAO/kV3q1gkVRX/9388
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO
 http://190.13.162.66:8081/play/a00t
