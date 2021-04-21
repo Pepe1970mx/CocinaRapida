@@ -485,24 +485,21 @@ http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 http://saypopular.com:25461/oscar/20gar/52853
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN Deportes
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN
-http://23.237.78.54/live-1000/263/playlist.m3u8
+http://balancer1.ottmex.com:8081/tecno/Espn1.BKR/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2  
-http://23.237.78.54/live-1000/263/playlist.m3u8
+http://balancer1.ottmex.com:8081/tecno/Espn2.BKR/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports   
-
+http://balancer1.ottmex.com:8081/tecno/FoxSports1.BKR/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Fox Sports 2 
-http://heinentv.ddns.net:25461/fernando1/fernando1/5178
-
+http://balancer1.ottmex.com:8081/tecno/FoxSports2.BKR/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Fox Deportes HD 
-http://31.220.40.123//kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
- 
+
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Univision TDN
 http://69.10.62.24:25461/ufoDq8XnAO/kV3q1gkVRX/9531
 
@@ -510,7 +507,7 @@ http://69.10.62.24:25461/ufoDq8XnAO/kV3q1gkVRX/9531
 https://clarosport-origen.clarovideo.net:443/Content/hls/Live/Channel(jjoo2016ch01)/Stream(04)/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TVC Deportes
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/761
+
 
 
 
