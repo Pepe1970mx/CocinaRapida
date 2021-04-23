@@ -357,6 +357,9 @@ http://190.13.162.66:8081/play/a00t
 http://190.13.162.66:8081/play/a00k
 
 
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , ZPTV
+https://srv3.zcast.com.br:443/juancarlos9451/juancarlos9451/chunklist_w780640119.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="PREMIUM", FM TV-MUNDO 1 
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 
