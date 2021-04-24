@@ -494,21 +494,21 @@ http://saypopular.com:25461/oscar/20gar/52853
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN Deportes
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN
-http://balancer1.ottmex.com:8081/tecno/Espn1.BKR/chunks.m3u8
+https://m3u-editor.com/serve/rokumania-master/275404345
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2  
-http://balancer1.ottmex.com:8081/tecno/Espn2.BKR/chunks.m3u8
+https://m3u-editor.com/serve/rokumania-master/275404346
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports   
-http://balancer1.ottmex.com:8081/tecno/FoxSports1.BKR/chunks.m3u8
+https://m3u-editor.com/serve/rokumania-master/275404338
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Fox Sports 2 
-http://balancer1.ottmex.com:8081/tecno/FoxSports2.BKR/chunks.m3u8
+https://m3u-editor.com/serve/rokumania-master/275404341
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Fox Deportes HD 
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Univision TDN
-http://69.10.62.24:25461/ufoDq8XnAO/kV3q1gkVRX/9531
+https://m3u-editor.com/serve/rokumania-master/275404351
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Claro Sports
 https://clarosport-origen.clarovideo.net:443/Content/hls/Live/Channel(jjoo2016ch01)/Stream(04)/index.m3u8
