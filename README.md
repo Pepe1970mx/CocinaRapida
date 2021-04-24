@@ -627,6 +627,16 @@ https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/
 https://f90ce02efb6b40359dd2835720482ee1.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_loop/ebb004a9-f03d-4eed-91cc-855d9ccd8510/1.m3u8
 
 #EXTINF:-1 tvg-logo" "group-title="MUSICA RETRO" , Loop Hip Hop
+https://9bc40819ec6f4c9c8b9831323f77621b.mediatailor.us-west-2.amazonaws.com:443/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/trending_loop/../../../manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/trending_loop/ab8a9391-7a84-4830-a29f-2a2c107bc13e/3.m3u8
+
+#EXTINF:-1 tvg-logo" "group-title="MUSICA RETRO" , Loop
+https://43cab9654d1c43a39d7c282d7f3485a7.mediatailor.us-west-2.amazonaws.com:443/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hip_hop_bangers_loop/../../../manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hip_hop_bangers_loop/70139f90-fcf4-43ae-a06b-30bfc112a3b2/3.m3u8
+
+#EXTINF:-1 tvg-logo" "group-title="MUSICA RETRO" , Loop
+https://43cab9654d1c43a39d7c282d7f3485a7.mediatailor.us-west-2.amazonaws.com:443/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hip_hop_bangers_loop/../../../manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hip_hop_bangers_loop/e53c14ca-9e0e-4726-9cee-f317a0ea166b/3.m3u8
+
+#EXTINF:-1 tvg-logo" "group-title="MUSICA RETRO" , Loop
+
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA RETRO", Vevo 80
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
