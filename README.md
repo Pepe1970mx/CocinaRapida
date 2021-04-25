@@ -1,3 +1,5 @@
+#EXTINF:-1 tvg-logo="" group-title="MEXICO", af
+http://iptvhd.club:8081/televall2021/174_.m3u8?token=1V3KA42Y_Yl7TufWpVq9Tg&expires=1619332592
 
 
 #EXTINF:-1 group-title="MEXICO" tvgg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg400.jpg?v=1515007950", Azteca Uno
