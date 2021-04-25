@@ -724,7 +724,10 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHRIC_SC?dist=
 #EXTINF:-1, tvg-logo=" " group-title="RADIO" , Mar FM
 https://ott.streann.com/loadbalancer/services/web-players/channels-reseller-secure/573c7e1a2cdcfe7783bda9f1/362a0654-2bf8-4bc5-a58e-2965963a011a/2nrlm4rtl0kros002gb4ha77/56bb6629e4b01db401d1b3c2/playlist.m3u8?date=1611769674824&device-type=web&device-name=web&device-os=web&device-id=DawBmlDF7MOZTVO1TVRaHqt6Yi7sMkmRkBBco8Mttv6cqhT4zH 
 
-#EXTINF:-1, tvg-logo="" group-title="RADIO" , YAFM
+#EXTINF:-1, tvg-logo="" group-title="RADIO" , OyeFM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFMAAC_SC?dist=onlineradiobox
+
+
 https://yafm.centrocibernetico.com/
 
 #EXTINF:-1, tvg-logo="" group-title="RADIO" , Los 40 Principales Veracruz
