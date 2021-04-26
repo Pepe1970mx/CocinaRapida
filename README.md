@@ -41,6 +41,9 @@ https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO" , Canal 14
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="MEXICO" , 15TV 
+https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w2102162107.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO" , CANAL 22 
 https://5fe2654d6127d.streamlock.net:443/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIxIDc6MzQ6MzEgUE0maGFzaF92YWx1ZT00YVpPcXQ0NHdmRXAzSzZsWHpUQTNRPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 
