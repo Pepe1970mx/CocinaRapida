@@ -409,7 +409,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c90007
 https://videohd.live:19360/8010/8010.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Cinecable
-https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8?PlaylistM3UCL
+https://cp.sradiotv.com:1936/quevedo/quevedo/chunklist_w27523060.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Cine Club
 https://Stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8?PlaylistM3UCL
