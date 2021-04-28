@@ -136,7 +136,7 @@ https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-5
 #EXTINF:-1 tvg-logo=" " group-title="LATINO",  TVN
 https://m3u-editor.com/serve/rokumaniatest/218992457
 
-#EXTINF:0 tvg-logo=" " group-title="LATINO", TVN 
+#EXTINF:0 tvg-logo=" " group-title="LATINO", TVN 2
 https://bcovlive-a.akamaihd.net:443/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_3/chunklist_dvr.m3u8
 
 #EXTINF:0 tvg-logo="http://www.honduras504.com/img/tv/Telecadena-7-y4.jpg" group-title="LATINO", Telecadena 7 y 4
@@ -175,7 +175,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009
 
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Cartoon Network 
-http://190.13.162.66:8081/play/a01z
+https://m3u-editor.com/serve/rokumania-master/275404141
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , SuperToons
 https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
