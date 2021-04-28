@@ -1,8 +1,6 @@
-#EXTINF:-1 tvg-logo="" group-title="MEXICO", af
-http://iptvhd.club:8081/televall2021/174_.m3u8?token=1V3KA42Y_Yl7TufWpVq9Tg&expires=1619332592
 
 
-#EXTINF:-1 group-title="MEXICO" tvgg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg400.jpg?v=1515007950", Azteca Uno
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg400.jpg?v=1515007950", Azteca Uno
 https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO" , Las Estrellas
@@ -68,7 +66,7 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="MEXICO", RGC1
 
 
-#EXTINF:-1 tvg-logo=" " group-title="MEXICO" , RGC2
+#EXTINF:-1 tvg-logo=" " group-title="MEXICO" , NRT
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 
 
