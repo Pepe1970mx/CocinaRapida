@@ -223,8 +223,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea93ffcf9450007
 #EXTINF:-1 group-title="KIDS" , Series Comedia
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9853138d19af0007104a8d/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=41.3954&deviceLon=2.2048&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=ES&serverSideAds=true&sessionID=498860da-9d53-11eb-930b-0242ac110002&sid=498860da-9d53-11eb-930b-0242ac110002&userId=
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Chiquilines
+#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Chiquilines
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
+
+#EXTINF:-1 group-title="KIDS" , Disney XD
+https://m3u-editor.com/serve/rokumania-master/275404158
 
 
 
