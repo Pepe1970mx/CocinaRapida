@@ -449,13 +449,13 @@ https://ammo-espanol-plex.amagi.tv:443/amRdirect/us_privacy=1---&did=55b5df5c-bf
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master_3.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="CINE LATINO", Tu Cine
-https://tucine-plex.amagi.tv/TuCine-xumo/master_1.m3u8
+https://m3u-editor.com/serve/rokumania-master/275404234
 
 #EXTINF:-1 tvg-logo=" " group-title="CINE LATINO", Top Cine 
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_3.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="CINE LATINO", Cine Sureño
-https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master_3.m3u8
+https://m3u-editor.com/serve/rokumania-master/275404235
 
 #EXTINF:-1 tvg-logo=" " group-title="CINE LATINO", cine Real
 https://cinereal-plex.amagi.tv:443/CineReal/master_3.m3u8
