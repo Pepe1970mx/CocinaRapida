@@ -126,8 +126,8 @@ https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/master.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", UniMas
 
 
-#EXTINF:-1 tvg-logo="" group-title="LATINO", Universo
-
+#EXTINF:-1 tvg-logo="" group-title="LATINO", Mundo+
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO" , Estrella TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
