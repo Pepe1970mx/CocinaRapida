@@ -282,7 +282,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007
 
 
 
-#EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", Star channel
+#EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", Star channel mx
 https://m3u-editor.com/serve/rokumania-master/275404221
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Pluto Family 
@@ -499,21 +499,21 @@ http://saypopular.com:25461/oscar/20gar/52853
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN Deportes
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN MX
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 
 https://m3u-editor.com/serve/rokumania-master/275404345
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2 MX
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2 
 https://m3u-editor.com/serve/rokumania-master/275404346
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports   
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports mx
 https://m3u-editor.com/serve/rokumania-master/275404338
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Fox Sports 2 
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Fox Sports 2 mx
 https://m3u-editor.com/serve/rokumania-master/275404341
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Fox Deportes HD 
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Univision TDN
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN
 https://m3u-editor.com/serve/rokumania-master/275404351
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Claro Sports
