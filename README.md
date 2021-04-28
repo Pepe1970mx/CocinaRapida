@@ -280,7 +280,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007
 
 
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", Star channel
-http://45.71.202.210:50000/play/a01m/index.m3u8
+https://m3u-editor.com/serve/rokumania-master/275404221
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Pluto Family 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=71f1da86-eee5-11ea-ac99-0242ac110002&userId=&serverSideAds=true
