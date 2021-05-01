@@ -238,8 +238,9 @@ https://m3u-editor.com/serve/rokumania-master/275404146
 #EXTINF:-1 group-title="RETRO" , Pluto Series Retro
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=275a49f5-f05f-11ea-b899-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 group-title="RETRO" , TV como Antes
-http://lavozdetucuman.com/twitch.php?channel=tvcomoantes
+#EXTINF:-1 tvg-logo" "group-title="MUSICA RETRO" , TVPOP
+https://v4.tustreaming.cl/poptv/index.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="RETRO" , Cachipum
 https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
@@ -678,8 +679,7 @@ http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo" "group-title="MUSICA RETRO" , Radio Capital TiVù
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on?e74
  
-#EXTINF:-1 tvg-logo" "group-title="MUSICA RETRO" , TVPOP
-https://v4.tustreaming.cl/poptv/index.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 tvg-logo" "group-title="MUSICA RETRO" , Retroplus Señal 2 Música Baladas
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
