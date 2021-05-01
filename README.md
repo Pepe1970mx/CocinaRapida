@@ -495,8 +495,8 @@ http://l3dtv.ga:8080/MJv7bnghmG/hy2Ynxw3z7/10920
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Sport TV
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Win Sport 
-http://saypopular.com:25461/oscar/20gar/52853
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", SK Sport
+http://91.212.150.248/SK1HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN Deportes
 
