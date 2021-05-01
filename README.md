@@ -91,6 +91,9 @@ https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO",  EuroNews
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="MEXICO", France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/4/4b/Mexiquense_tv.jpg/revision/latest?cb=20170525194804&path-prefix=es" group-title="MEXICO" , Mexiquense Noticias 
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
 
