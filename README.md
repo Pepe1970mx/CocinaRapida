@@ -498,13 +498,17 @@ http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", SK Sport
 http://91.212.150.248/SK1HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN Deportes
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 
+http://23.237.78.54/live-1000/244/playlist.m3u8?SBN
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 
 https://m3u-editor.com/serve/rokumania-master/275404345
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2 
 https://m3u-editor.com/serve/rokumania-master/275404346
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2 
+http://23.237.78.54/live-1000/263/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports mx
 https://m3u-editor.com/serve/rokumania-master/275404338
