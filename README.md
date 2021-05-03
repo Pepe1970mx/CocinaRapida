@@ -175,7 +175,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009
 
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Cartoon Network 
-https://m3u-editor.com/serve/rokumania-master/275404141
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=112&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , SuperToons
 https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
@@ -284,7 +284,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007
 
 
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", Star channel mx
-https://edge.music-choice-chaina.top.comcast.net/streamwebvca1/VideoChannels/ROTFL100/O0U9MTYwODY2MTczMjtBPTE7Sz0wO1A9MDExMTA7Uz1hN2ExMDAxNDA4ZjUwNzFhMTIxY2E3ZWZiYWJhNDg5NWFjN2VmN2U3/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_100&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=46&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Pluto Family 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=71f1da86-eee5-11ea-ac99-0242ac110002&userId=&serverSideAds=true
