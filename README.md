@@ -352,10 +352,10 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfo
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=129&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Warner 
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=52&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Sony
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=48&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Universal
 
@@ -394,7 +394,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d0007
 
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Tele Crimen
-https://rakuten-telecrimen-1-es.samsung.wurl.com/manifest/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Pluto SCIFI
