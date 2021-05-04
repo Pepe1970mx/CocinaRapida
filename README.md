@@ -109,7 +109,7 @@ https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/chunklist_w17
 
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO",  Distrito Comedia 
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=78&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 group-title="LATINO" , Pluto Humor
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=9aab038a-166d-11eb-8c1a-0242ac110002&userId=&serverSideAds=true
@@ -236,10 +236,10 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfo
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=113&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="RETRO" , Tooncast
-https://m3u-editor.com/serve/rokumania-master/275404143
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=108&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 group-title="RETRO" , Boomerang
-https://m3u-editor.com/serve/rokumania-master/275404146
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=115&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 group-title="RETRO" , Pluto Series Retro
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=275a49f5-f05f-11ea-b899-0242ac110002&userId=&serverSideAds=true
@@ -346,25 +346,25 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=328&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , TNT
-http://190.13.162.66:8081/play/a020
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=126&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Space
-http://190.13.162.66:8081/play/a00x
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=129&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Warner 
-http://190.13.162.66:8081/play/a01c
+
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Sony
-http://69.10.62.24:25461/ufoDq8XnAO/kV3q1gkVRX/9385
+
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Universal
-http://69.10.62.24:25461/ufoDq8XnAO/kV3q1gkVRX/9388
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , HBO
-http://190.13.162.66:8081/play/a00t
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Star Movies
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=1729&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Star Action
-http://190.13.162.66:8081/play/a00k
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=336&format=HLSAD&f=.m3u8
 
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , ZPTV
