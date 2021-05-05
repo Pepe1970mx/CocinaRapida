@@ -505,24 +505,22 @@ http://91.212.150.248/SK1HD/index.m3u8
 http://23.237.78.54/live-1000/244/playlist.m3u8?SBN
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN MX
-https://blackghost.live/play/tlvall-426.php?c=597&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=168&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2 MX
-https://blackghost.live/play/tlvall-426.php?c=598&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=168&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2 
 http://23.237.78.54/live-1000/263/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports mx
-https://blackghost.live/play/tlvall-426.php?c=604&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=170&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Fox Sports 2 mx
-https://blackghost.live/play/tlvall-426.php?c=605&f=.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Fox Deportes HD 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=172&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN
-https://blackghost.live/play/tlvall-426.php?c=618&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=174&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Claro Sports
 https://clarosport-origen.clarovideo.net:443/Content/hls/Live/Channel(jjoo2016ch01)/Stream(04)/index.m3u8
