@@ -145,8 +145,8 @@ https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", Nosey Casos
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=25.7806&deviceLon=-80.1826&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=US&serverSideAds=true&sessionID=b92f1155-aeb3-11eb-ab33-0242ac110002&sid=b92f1155-aeb3-11eb-ab33-0242ac110002&userId=
 
-#EXTINF:-1 tvg-logo=" " group-title="LATINO", Univision Network
-
+#EXTINF:-1 tvg-logo=" " group-title="LATINO", Sol TV
+https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-logo=" " group-title="LATINO", UniMas
 
