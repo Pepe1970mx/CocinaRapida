@@ -363,14 +363,15 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfo
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Universal
 
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Pluto Cine Premier
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486acc34ceb37d3c458a64livestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=40.7157&deviceLon=-74.0000&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=US&serverSideAds=true&sessionID=e4dd7425-adca-11eb-b7bc-0242ac110002&sid=e4dd7425-adca-11eb-b7bc-0242ac110002&userId=&profilesFromStream=true
-
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Star Movies
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=1729&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Star Action
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=336&format=HLSAD&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , OrbitTV
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , ZPTV
@@ -388,6 +389,10 @@ https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Rakuten Action
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Pluto Premier
+
+
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Pluto Acción
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=97c7d537-1741-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
