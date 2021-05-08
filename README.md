@@ -276,6 +276,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009
 #EXTINF:-1 tvg-logo" "group-title="RETRO" , TVPOP
 https://v1.tustreaming.cl:19360/radiopoptv/radiopoptv.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo" "group-title="RETRO" , Mundo De la Música TV
+https://tv.streamingchilenos.com:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="RETRO" , Cachipum
 https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
