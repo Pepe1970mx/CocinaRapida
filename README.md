@@ -460,7 +460,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=c2849db8-1412-11eb-bde1-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Horrify
-https://m3u-editor.com/serve/rokumaniatest/156476860
+
 
 
 
@@ -468,7 +468,7 @@ https://m3u-editor.com/serve/rokumaniatest/156476860
 https://cp.sradiotv.com:1936/quevedo/quevedo/chunklist_w27523060.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Cine Club
-https://Stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8?PlaylistM3UCL
+https://Stmv.panel.mivideo.pro/cineclubtv/cineclubtv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:0 tvg-logo="" group-title="PREMIUM", FlixTube
 https://panel.streamingtv-mediacp.online:1936/8054/8054/chunklist_w1335949035.m3u8
