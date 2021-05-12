@@ -535,17 +535,11 @@ http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", SK Sport
 http://91.212.150.248/SK1HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 
-http://23.237.78.54/live-1000/244/playlist.m3u8?SBN
-
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN MX
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=168&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2 MX
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=168&format=HLSAD&f=.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2 
-http://23.237.78.54/live-1000/263/playlist.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=169&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports mx
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=170&format=HLSAD&f=.m3u8
