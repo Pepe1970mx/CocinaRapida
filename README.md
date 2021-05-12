@@ -36,6 +36,9 @@ https://quierotvlive.tk/httplive/playlist_playlist.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="MEXICO", Canal Once
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="MEXICO", MVS TV
+https://content.uplynk.com/channel/e7825db621c24c99ac9d389e2d06cd7c.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO" , Canal 14
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 
