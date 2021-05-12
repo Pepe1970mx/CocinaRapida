@@ -201,8 +201,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009
 
 
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Cartoon Network 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=112&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , SuperToons
 https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
@@ -210,9 +208,15 @@ https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Planeta Jr
 https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Plex Niños
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=533&live=1&app_bundle=com.plexapp.ctv&did=d9bf52a9-cef1-591d-aeb0-cf20469010a0&app_domain=app.plex.tv&app_name=plex&h=640&w=320&content_title=LnKaFczxgP3JvySyzEbf&content_series=6041643175c115002dc51259&custom4=plex&gdpr=0&device_make=Android&device_model=Chrome&coppa=0&us_privacy=1---&custom_6=LnKaFczxgP3JvySyzEbf&custom_7=6041643175c115002dc51259
+
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Los Simpson Mania
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Cartoon Network 
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=112&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Nick
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=110&format=HLSAD&f=.m3u8
