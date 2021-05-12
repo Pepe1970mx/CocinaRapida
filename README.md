@@ -129,7 +129,7 @@ https://bcovlive-a.akamaihd.net/8520a5c6a0384300b735385e02e2f582/us-west-2/60566
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Nosey Casos
 
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", UniMas
-
+http://147.135.130.72:8011/100200300/100200300/81066
 
 
 
