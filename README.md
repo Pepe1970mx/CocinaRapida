@@ -331,8 +331,8 @@ https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?Pl
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=5.11.0-1d883e1216be36c166cbf982f832a992718a0632&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4984&deviceLon=-97.4234&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=e61dccf1-2c3a-11eb-813b-0242ac110002&userId=&serverSideAds=true
 
 
-
-
+#EXTINF:-1 group-title="RETRO" , VibraTV
+http://88.99.75.194/hls/vibratelevision.m3u8
 
 
 
