@@ -167,6 +167,9 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Multicanal
 https://multicanal.streamseguro.com/hls/streaming.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Canal 3 plus
+https://59537faa0729a.streamlock.net/plustvmachagai/plustvmachagai/playlist.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Cinco TV
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
