@@ -173,6 +173,9 @@ https://59537faa0729a.streamlock.net/plustvmachagai/plustvmachagai/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Plus TV
 http://videostream.shockmedia.com.ar:1935/plustv/plustv/chunklist_w70863142.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", RTV Cable
+https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Cinco TV
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
