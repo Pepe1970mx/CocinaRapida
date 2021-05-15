@@ -391,7 +391,8 @@ http://america.tucableip.com:8181/reconline/live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.RKlMeeY5FJWfXURLiItI0wHaEK&pid=Api&P=0&w=270&h=152"group-title="PELIS" , READYTV DO
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 
-
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Cine Feelgood
+https://contracorriente-canalfeelgood-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , AMC 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=328&format=HLSAD&f=.m3u8
