@@ -213,8 +213,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=21.3563&deviceLon=-97.6896&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=f83fdf19-0d08-11eb-a6e3-0242ac110002&userId=&serverSideAds=true
 
 
-
-
+#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Chinola TV
+https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , SuperToons
 https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
