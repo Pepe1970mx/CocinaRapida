@@ -376,6 +376,9 @@ https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
  #EXTINF:-1 tvg-logo=" " group-title="PELIS" , DanTV
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
  
+#EXTINF:-1 tvg-logo=" " group-title="PELIS" , Cáscara TV
+https://ss5.domint.net:3036/ctv_str/cascaratv/playlist.m3u8
+
 #EXTINF:-1 group-logo="http://bhtv.pe/wp-content/uploads/2019/04/bhtv-logo-web-300x219.png"group-title="PELIS", BHTV 
 https://5c3fb01839654.streamlock.net:554/iptvbhtv/livebhtvtv/.m3u8
  
