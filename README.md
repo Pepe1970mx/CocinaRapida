@@ -575,7 +575,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfo
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=170&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Fox Sports 2 mx
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=172&format=HLSAD&f=.m3u8
+http://balancer1.ottmex.com:8081/tecno/FoxSports2.BKR/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=174&format=HLSAD&f=.m3u8
