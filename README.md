@@ -319,6 +319,9 @@ https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , City TV
+https://ott.streann.com/loadbalancer/services/v1/channels-secure/5d7ace822cdcdf7a7c51fe50/playlist.m3u8?access_token=5f11b8de-7680-4fcb-b72b-f8132f403d33&device-id=DmrZm3vGmP2GLXFkJ2JBJ5TENM1zplP4BMR2huOoTY08AyAP3r&device-type=web&device-name=web&doNotUseRedirect=false&start-index=0&time-zone=(hora%20de%20verano%20central),hora%20de%20verano%20central&dvrTime=3600
+
 #EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/#&gid=1&pid=1" group-title="ENTRETENIMIENTO", Telecosta 
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
