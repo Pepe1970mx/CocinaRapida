@@ -137,7 +137,7 @@ https://bcovlive-a.akamaihd.net:443/2f670e324b9b46bba7582e919ed90924/us-east-1/6
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-5-el-lider-honduras-logo-FED83D8EE6-seeklogo.com.png" group-title="HUMOR Y VARIEDADES" , Canal 5 El Líder 
-https://bcovlive-a.akamaihd.net/8520a5c6a0384300b735385e02e2f582/us-west-2/6056665196001/profile_3/chunklist.m3u8
+https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZXAoVCKzGc58y3EZcMGBKqI)/dm/3/x7vus5d/s/live-1.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
 
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Nosey Casos
 
