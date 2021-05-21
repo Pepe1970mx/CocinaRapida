@@ -142,7 +142,7 @@ https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZXAoVCKzGc58y3EZcM
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Nosey Casos
 
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", UniMas
-http://147.135.130.72:8011/100200300/100200300/81066
+https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt1.m3u8
 
 
 
