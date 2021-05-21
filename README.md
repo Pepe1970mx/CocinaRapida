@@ -144,7 +144,8 @@ https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZXAoVCKzGc58y3EZcM
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", UniMas
 https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt1.m3u8
 
-
+#EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Univision
+https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt2.m3u8
 
 
 #EXTINF:-1 tvg-logo=" " group-title="DOCUMENTALES", Pluto Historias de Ultratumba
