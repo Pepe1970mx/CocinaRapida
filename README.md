@@ -511,7 +511,7 @@ https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master_3.m3u8
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="CINE LATINO", Top Cine 
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_3.m3u8
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="CINE LATINO", Cine Sureño
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
