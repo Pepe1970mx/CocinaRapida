@@ -175,6 +175,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Chinola TV
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Clean Peach
+https://live.admefy.com/live/clean_peach_ef224.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , SuperToons
 https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -285,18 +288,8 @@ http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="RETRO" , Canal 29
 http://inliveserver.com:1935/8386/8386/playlist.m3u8
 
-#EXTINF:-1 group-title="RETRO" , La Voz
-https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
-
-#EXTINF:-1 group-title="RETRO" , GeoVision
-https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8
-
 #EXTINF:-1 tvg-logo" "group-title="RETRO" , TVO
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto/canal_tveo/chunklist_w2036248970.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fyPHgEH.png" group-title="RETRO", COLOSAL TV
-http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w1747515295.m3u8
 
 #EXTINF:-1 group-title="RETRO" , VibraTV
 http://88.99.75.194/hls/vibratelevision.m3u8
@@ -315,7 +308,7 @@ https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Roku ten Comedia
 https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="PREMIUM", FM TV-MUNDO 1 
+#EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV-MUNDO 1 
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="ENTRETENIMIENTO" , WOW TV 
@@ -338,6 +331,10 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Gen TV
 https://videohd.live:19360/8010/8010.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Spotligh
+https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/93/b2/93b20146d534d4b089aae90e11bf775f.jpg" group-title="ENTRETENIMIENTO" , VALLEVISION DO
 http://stream.mxiptv.org:25461/live/tvabierta/opentv/264.m3u8
@@ -581,12 +578,6 @@ https://clarosport-origen.clarovideo.net:443/Content/hls/Live/Channel(jjoo2016ch
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", Pluto Conciertos
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cdlivestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=20.5377&deviceLon=-97.4307&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=2ab80462-b42d-11eb-ba48-0242ac110002&sid=2ab80462-b42d-11eb-ba48-0242ac110002&userId=&already_redirected=true&profilesFromStream=true
 
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA", City TV Radio
-https://tv.city.bg/play/tshls/citytv/3.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA", Music Channel
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_w243000391.m3u8
-
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", NickMusic
 
 
@@ -614,9 +605,6 @@ http://188.40.68.167/russia/mtv_hits/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA", MTV Love
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae79fa46e17000794e84c/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=41.3954&deviceLon=2.2048&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=ES&serverSideAds=true&sessionID=42536931-7578-11eb-b217-0242ac110002&sid=42536931-7578-11eb-b217-0242ac110002&userId=
 
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA" , Persiana Billboard
-http://51.210.199.10/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", 24/7 Pop
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8?PlaylistM3UCL
 
@@ -637,9 +625,6 @@ http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
 http://stream.mxiptv.org:25461/live/tvabierta/opentv/249.m3u8
 
 
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA" , Spotligh
-https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 group-title="MUSICA", Flash
 https://flash-plex.amagi.tv/flash/master_1.m3u8
 
@@ -647,17 +632,6 @@ https://flash-plex.amagi.tv/flash/master_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="MUSICA", MTV YO!
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_375.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA", MTV Latino
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", 1HD
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
@@ -731,10 +705,6 @@ http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/7.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="MUSICA RETRO", XTV Music
 https://tls.cdnz.cl/xtvmusic/xtvmusic/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo" "group-title="MUSICA RETRO" , Video Tour Channels
-http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo" "group-title="MUSICA RETRO" , Radio Capital TiVù
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on?e74
  
@@ -761,9 +731,6 @@ http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="MUSICA REGIONAL", RetroChannels
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo" "group-title="RETRO" , Mundo De la Música TV
-https://tv.streamingchilenos.com:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 
 
 
