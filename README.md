@@ -341,6 +341,14 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 https://videohd.live:19360/8010/8010.m3u8
 
 
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 74
+https://Stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Antena 6
+http://inliveserver.com:1935/14510/14510/chunklist_w255137212.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , ATB
+http://186.121.206.197/live/daniel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/93/b2/93b20146d534d4b089aae90e11bf775f.jpg" group-title="ENTRETENIMIENTO" , VALLEVISION DO
 http://stream.mxiptv.org:25461/live/tvabierta/opentv/264.m3u8
@@ -530,7 +538,11 @@ https://cinereal-plex.amagi.tv:443/CineReal/master_3.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="CINE LATINO", Run Time
 https://ammo-espanol-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=5f5132e362fe160040f26c15/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/playlist.m3u8
 
+https://contracorriente-canalcinesverdi-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+https://inwonder-samsungmexico.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="DEPORTES" , MLB Network 
