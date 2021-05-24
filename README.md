@@ -296,7 +296,7 @@ http://88.99.75.194/hls/vibratelevision.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", Star channel mx
-http://zeroxtv.xyz:2082/live/z45AbQysJD/AYjMQ7WHN9/71639.m3u8
+http://zeroxtv.xyz:2082/live/z45AbQysJD/AYjMQ7WHN9/71636.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Star Fun
 http://zeroxtv.xyz:2082/live/z45AbQysJD/AYjMQ7WHN9/71641.m3u8
