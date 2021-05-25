@@ -116,7 +116,7 @@ http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES",  Distrito Comedia 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=78&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 group-title="HUMOR Y VARIEDADES" , Pluto Humor
+#EXTINF:-1 group-title="HUMOR Y VARIEDADES" , Pluto TV Humor
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=true
 
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Telemundo Internacional  
@@ -128,7 +128,7 @@ https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt1.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Univision
 https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt2.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="En Español" , Estrella TV
+#EXTINF:-1 tvg-logo=" " group-title="En Español" , EstrellaTV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712livestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=40.7157&deviceLon=-74.0000&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=US&serverSideAds=true&sessionID=8b8552af-ae19-11eb-b970-0242ac110002&sid=8b8552af-ae19-11eb-b970-0242ac110002&userId=&profilesFromStream=true
 
 #EXTINF:0 tvg-logo="http://www.honduras504.com/img/tv/Telecadena-7-y4.jpg" group-title="HUMOR Y VARIEDADES", Telecadena 7 y 4
@@ -136,12 +136,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-5-el-lider-honduras-logo-FED83D8EE6-seeklogo.com.png" group-title="HUMOR Y VARIEDADES" , Canal 5 El Líder 
 https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZXAoVCKzGc58y3EZcMGBKqI)/dm/3/x7vus5d/s/live-1.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
 
+#EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Comedy Central Latino
+
+#EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Paramount+ Presenta
 
 
-
-
-
-#EXTINF:-1 tvg-logo=" " group-title="En español", Pluto Historias de Ultratumba
+#EXTINF:-1 tvg-logo=" " group-title="En español", Historias de Ultratumba
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=c2849db8-1412-11eb-bde1-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo=" " group-title="DOCUMENTALES", Saber Mas
@@ -153,21 +153,21 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 tvg-logo=" " group-title="DOCUMENTALES", Pluto History
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=9bbe753c-ef32-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo=" " group-title="DOCUMENTALES", Pluto Investigation
+#EXTINF:-1 tvg-logo=" " group-title="DOCUMENTALES", Pluto TV Investiga
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=e271eb73-ef8c-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo=" " group-title="DOCUMENTALES", Investigación Discovery
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/735
 
-#EXTINF:-1 tvg-logo=" " group-title="DOCUMENTALES", Pluto Ciencia
+#EXTINF:-1 tvg-logo=" " group-title="DOCUMENTALES", Pluto TV Ciencia
 
-#EXTINF:-1 tvg-logo=" " group-title="DOCUMENTALES",  Pluto Animals
+#EXTINF:-1 tvg-logo=" " group-title="DOCUMENTALES",  Pluto TV Animales
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5291&deviceLon=-97.4497&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=25518983-f45d-11ea-a685-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo=" " group-title="DOCUMENTALES",  Pluto Naturaleza
+#EXTINF:-1 tvg-logo=" " group-title="DOCUMENTALES",  Pluto TV Naturaleza
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=21.3563&deviceLon=-97.6896&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=f83fdf19-0d08-11eb-a6e3-0242ac110002&userId=&serverSideAds=true
 
-
+Misterios sin Resolver
 
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Chinola TV
@@ -191,13 +191,13 @@ https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Los Simpson Mania
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
 
-#EXTINF:-1 group-title="KIDS" , Bob Sponja
+#EXTINF:-1 group-title="KIDS" , Bob Esponja
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=42c29115-1329-41fb-9e30-5ea2929ecfe3&clientModelNumber=na&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=41.3888&deviceLon=2.1590&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=ES&serverSideAds=true&sessionID=6bbdefd3-40a4-11eb-8528-0242ac110002&sid=6bbdefd3-40a4-11eb-8528-0242ac110002&userId=
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Garfiel
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=41.3870&deviceLon=2.1701&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=ES&serverSideAds=true&sessionID=9a3a1dfc-b785-11eb-ad92-0242ac110002&sid=9a3a1dfc-b785-11eb-ad92-0242ac110002&userId=
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Kenal y Kel
+#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Kenan y Kel
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=20.4437&deviceLon=-97.3444&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=9c38e017-9581-11eb-9ac7-0242ac110002&sid=9c38e017-9581-11eb-9ac7-0242ac110002&userId=
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Cartoon Network 
@@ -218,30 +218,35 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfo
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Nick Latino
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=37.7510&deviceLon=-97.8220&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=537fe437-141b-11eb-85e0-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Nick Clasico
+#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Nick Clásico
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.9348&deviceLon=-97.4117&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=3cffdfd2-0d84-11eb-9e7d-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Teen nick
+#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Nick Teen
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=20.9274&deviceLon=-97.3992&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=246f379b-8dc4-11eb-9d6c-0242ac110002&sid=246f379b-8dc4-11eb-9d6c-0242ac110002&userId=
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS", TeenStar
+#EXTINF:-1 tvg-logo=" " group-title="KIDS", Pluto TV Teen Stars
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60016a60a8e3520008e0d331/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=41.3954&deviceLon=2.2048&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=ES&serverSideAds=true&sessionID=a93a448c-6634-11eb-a786-0242ac110002&sid=a93a448c-6634-11eb-a786-0242ac110002&userId=
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS", Action Kids
+#EXTINF:-1 tvg-logo=" " group-title="KIDS", Pluto TV Action Kids
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60218c2a32f9c40007c2f7cc/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=41.3954&deviceLon=2.2048&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=ES&serverSideAds=true&sessionID=c59d6b21-81e7-11eb-a173-0242ac110002&sid=c59d6b21-81e7-11eb-a173-0242ac110002&userId=
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS", Anime Action
+#EXTINF:-1 tvg-logo=" " group-title="KIDS", Pluto TV Animé Acción
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=20.9274&deviceLon=-97.3992&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=0bc03193-9d5b-11eb-ab33-0242ac110002&sid=0bc03193-9d5b-11eb-ab33-0242ac110002&userId=
 
 
-#EXTINF:-1 group-title="KIDS" , Pluto Kids Latino
+#EXTINF:-1 group-title="KIDS" , Pluto TV Kids
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=20.9115&deviceLon=-97.6755&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=fc48952b-9d3b-11eb-a36a-0242ac110002&sid=fc48952b-9d3b-11eb-a36a-0242ac110002&userId=
 
-#EXTINF:-1 group-title="KIDS" , Pluto Kids España
+#EXTINF:-1 group-title="KIDS" , Pluto TV Kids
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aab1d29b39600073e243f/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=41.3870&deviceLon=2.1701&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=ES&serverSideAds=true&sessionID=47a5d82e-aab3-11eb-878e-0242ac110002&sid=47a5d82e-aab3-11eb-878e-0242ac110002&userId=
 
-#EXTINF:-1 group-title="KIDS" , Series Comedia
+#EXTINF:-1 group-title="KIDS" , Pluto TV Series Comedia
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9853138d19af0007104a8d/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=41.3954&deviceLon=2.2048&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=ES&serverSideAds=true&sessionID=498860da-9d53-11eb-930b-0242ac110002&sid=498860da-9d53-11eb-930b-0242ac110002&userId=
+
+Pluto TV Animakids
+
+Anime Clásico
+
 
 
 
@@ -254,7 +259,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfo
 #EXTINF:-1 group-title="RETRO" , El Chavo 
 https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
  
-#EXTINF:-1 group-title="RETRO" , Los 3 Chiflados
+#EXTINF:-1 group-title="RETRO" , Los Tres Chiflados
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=5.11.0-1d883e1216be36c166cbf982f832a992718a0632&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4984&deviceLon=-97.4234&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=e61dccf1-2c3a-11eb-813b-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="RETRO" , Dreiko TV 
@@ -301,7 +306,7 @@ http://zeroxtv.xyz:2082/live/z45AbQysJD/AYjMQ7WHN9/71636.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Star Fun
 http://zeroxtv.xyz:2082/live/z45AbQysJD/AYjMQ7WHN9/71641.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Pluto Family 
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Pluto TV Cine Familia 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=71f1da86-eee5-11ea-ac99-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Rakuten Family
@@ -310,7 +315,7 @@ https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Roku ten Comedia
 https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Spotligh
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Pluto TV Spotlight
 https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 
@@ -431,31 +436,31 @@ http://zeroxtv.xyz:2082/live/z45AbQysJD/AYjMQ7WHN9/71643.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Pluto CSI
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=34.0485&deviceLon=-118.2529&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=US&serverSideAds=true&sessionID=af7b5b74-ae26-11eb-901b-0242ac110002&sid=af7b5b74-ae26-11eb-901b-0242ac110002&userId=&already_redirected=true
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM", Pluto Terror
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM", Pluto TV Cine Terror
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=5.7.4-3c0adb65197bfd10403d6b66bfcd0b37c0daef81&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4465&deviceLon=-97.3249&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=8547386a-f319-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM", Pluto Suspenso
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM", Pluto TV Cine Suspenso
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5291&deviceLon=-97.4497&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=1b5e3154-f477-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Horrify
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Pluto SCIFI
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Pluto TV Sci-Fi
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=21.3480&deviceLon=-97.6800&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=352e2af8-3cd9-11eb-8528-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Cine Feelgood
 https://contracorriente-canalfeelgood-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Pluto Cine Adrenalina
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Cine adrenalina
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=34.0485&deviceLon=-118.2529&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=US&serverSideAds=true&sessionID=af7b5b74-ae26-11eb-901b-0242ac110002&sid=af7b5b74-ae26-11eb-901b-0242ac110002&userId=&already_redirected=true
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Pluto Cine Premie
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Cine Premiere
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=25.7806&deviceLon=-80.1826&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=US&serverSideAds=true&sessionID=b92f1155-aeb3-11eb-ab33-0242ac110002&sid=b92f1155-aeb3-11eb-ab33-0242ac110002&userId=
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , ZPTV
 https://srv3.zcast.com.br:443/juancarlos9451/juancarlos9451/chunklist_w780640119.m3u8
 
-
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Séptimo arte
 
 #EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="PREMIUM" , FM TV-MUNDO 2
 https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8
@@ -470,19 +475,19 @@ https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Peliculas" , Pluto TV Cine Acción
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=97c7d537-1741-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , películas: Pluto TV Cine Acción
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Pluto TV Cine Acción
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=41.3888&deviceLon=2.1590&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=ES&sid=88936f6d-1674-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Pluto Estrellas En Accion
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Estrellas de Acción
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=97c7d537-1741-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , OrbitTV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Pluto Cine Jaja
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Cine ¡¡jaja!!
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=40.7876&deviceLon=-74.0600&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=US&serverSideAds=true&sessionID=93b82c03-b2d4-11eb-946b-0242ac110002&sid=93b82c03-b2d4-11eb-946b-0242ac110002&userId=
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Pluto Cine Xoxo
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Cine XOXO
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=40.7876&deviceLon=-74.0600&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=US&serverSideAds=true&sessionID=93b82c03-b2d4-11eb-946b-0242ac110002&sid=93b82c03-b2d4-11eb-946b-0242ac110002&userId=&already_redirected=true
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Cinecable
@@ -504,10 +509,10 @@ https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , Pluto Cine Latino
+#EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , Pluto TV Cine
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=36.1685&deviceLon=-115.1164&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=0ca3beff-0523-11eb-a59f-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo=" " group-title="CINE LATINO", Pluto Cine Latino2
+#EXTINF:-1 tvg-logo=" " group-title="CINE LATINO", Cine Latino
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984c1dc54853000797a5e8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
 #EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , Nuestra Visiohn 
@@ -591,7 +596,7 @@ https://clarosport-origen.clarovideo.net:443/Content/hls/Live/Channel(jjoo2016ch
 
 
 
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA", Pluto Conciertos
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA", Conciertos por Stingray
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cdlivestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=20.5377&deviceLon=-97.4307&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=2ab80462-b42d-11eb-ba48-0242ac110002&sid=2ab80462-b42d-11eb-ba48-0242ac110002&userId=&already_redirected=true&profilesFromStream=true
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", NickMusic
@@ -609,6 +614,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f6
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo Regueton
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo Reggaetón & Trap
+
+
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo 2k
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -618,7 +626,7 @@ https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.
 #EXTINF:-1 tvg-logo="" group-title="MUSICA", MTV Live
 http://188.40.68.167/russia/mtv_hits/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA", MTV Love
+#EXTINF:-1 tvg-logo="" group-title="MUSICA", MTV Love Music
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae79fa46e17000794e84c/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=41.3954&deviceLon=2.2048&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=ES&serverSideAds=true&sessionID=42536931-7578-11eb-b217-0242ac110002&sid=42536931-7578-11eb-b217-0242ac110002&userId=
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", 24/7 Pop
@@ -644,9 +652,9 @@ http://stream.mxiptv.org:25461/live/tvabierta/opentv/249.m3u8
 #EXTINF:-1 group-title="MUSICA", Flash
 https://flash-plex.amagi.tv/flash/master_1.m3u8
 
+#EXTINF:-1 group-title="MUSICA", MTV Block Party
 
-
-#EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="MUSICA", MTV YO!
+#EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="MUSICA", Yo! MTV
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_375.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", 1HD
@@ -673,13 +681,13 @@ https://cootv.cootel.com.ni/streams/d/SSLCH22-HD-VWT/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA RETRO" , Puro Rock
 http://159.69.56.148:25461/live/PuroRock/PuroRock24-7.com/25.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA RETRO" , VH1 Classic
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA RETRO" , VH1 Classics
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=41.3870&deviceLon=2.1701&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=ES&serverSideAds=true&sessionID=3a5e98f7-ac58-11eb-b429-0242ac110002&sid=3a5e98f7-ac58-11eb-b429-0242ac110002&userId=
 
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA RETRO", Vevo 80
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA RETRO", Vevo '80s
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA RETRO", Vevo 90
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA RETRO", Vevo '90s
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-http://retromusic.cz/wp-content/uploads/2017/08/retro-logo.png="AXN" group-title="MUSICA RETRO" , Retro TV
