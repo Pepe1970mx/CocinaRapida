@@ -137,9 +137,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6
 https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZXAoVCKzGc58y3EZcMGBKqI)/dm/3/x7vus5d/s/live-1.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
 
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Comedy Central Latino
+https://stitcher.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=afc4be5c-ad4f-11eb-a2fe-0242ac110002
 
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Paramount+ Presenta
-
+https://stitcher.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=afc4be5c-ad4f-11eb-a2fe-0242ac110002
 
 #EXTINF:-1 tvg-logo=" " group-title="DOCUMENTALES", Historias de Ultratumba
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=c2849db8-1412-11eb-bde1-0242ac110002&userId=&serverSideAds=true
