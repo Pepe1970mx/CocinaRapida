@@ -241,8 +241,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9853138d19af0007
 
 Pluto TV Animakids
 
-Anime Clásico
-
+#EXTINF:-1 group-title="KIDS" , Anime Clásico
+https://stitcher.pluto.tv/stitch/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=afc4be5c-ad4f-11eb-a2fe-0242ac110002
 
 
 
@@ -263,7 +263,6 @@ https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?Pl
 
 #EXTINF:-1 tvg-logo=" " group-title="RETRO" , Antena 6
 http://inliveserver.com:1935/14510/14510/chunklist_w255137212.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="RETRO" , Dreiko TV 
 https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8?PlaylistM3UCL
