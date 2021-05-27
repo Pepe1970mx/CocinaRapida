@@ -142,6 +142,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Paramount+ Presenta
 https://stitcher.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=afc4be5c-ad4f-11eb-a2fe-0242ac110002
 
+#EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Novelas con la abuela
+https://stitcher.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=afc4be5c-ad4f-11eb-a2fe-0242ac110002
 
 
 
