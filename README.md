@@ -14,7 +14,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfo
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1048_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png"group-title="MEXICO" , Canal 5 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=20&format=HLSAD&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=20&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO" , Multimedios canal 6 MX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
@@ -563,19 +563,19 @@ http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30alivestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=40.7157&deviceLon=-74.0000&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=US&serverSideAds=true&sessionID=8b8552af-ae19-11eb-b970-0242ac110002&sid=8b8552af-ae19-11eb-b970-0242ac110002&userId=&profilesFromStream=true
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=169&format=HLSAD&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=168&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2
 http://balancer1.ottmex.com:8081/tecno/Espn2.BKR/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=170&format=HLSAD&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=170&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Fox Sports 2 
 http://zeroxtv.xyz:2082/live/z45AbQysJD/AYjMQ7WHN9/71646.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=174&format=HLSAD&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=174&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Claro Sports
 https://clarosport-origen.clarovideo.net:443/Content/hls/Live/Channel(jjoo2016ch01)/Stream(04)/index.m3u8
