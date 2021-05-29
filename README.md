@@ -581,7 +581,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyr
 https://clarosport-origen.clarovideo.net:443/Content/hls/Live/Channel(jjoo2016ch01)/Stream(04)/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TVC Deportes
-
+http://209.205.221.74:130/R3$3202/3R1W3$32/1615_.m3u8
 
 
 
