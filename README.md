@@ -176,8 +176,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Chinola TV
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Clean Peach
+#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Magic Kids
 https://live.admefy.com/live/clean_peach_ef224.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Toon Google
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , SuperToons
 https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
