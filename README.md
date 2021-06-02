@@ -67,7 +67,7 @@ http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qO0nkZz.png" group-title="MEXICO" , ADN 40 
-https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
+https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://puu.sh/mwdSw/26eea6807c.png" group-title="MEXICO" , Milenio TV 
 
