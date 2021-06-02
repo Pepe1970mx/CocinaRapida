@@ -741,6 +741,9 @@ http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8?PlaylistM3UCL
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 group-title="MUSICA REGIONAL", Infinita TV
+https://rtmp02.portalexpress.es:443/infinitatv/infinitatv/chunklist_w640472234.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fyPHgEH.png" group-title="MUSICA REGIONAL", Video Rola
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_2.m3u8
 
