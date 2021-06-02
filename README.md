@@ -130,6 +130,10 @@ https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt2.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712livestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=40.7157&deviceLon=-74.0000&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=US&serverSideAds=true&sessionID=8b8552af-ae19-11eb-b970-0242ac110002&sid=8b8552af-ae19-11eb-b970-0242ac110002&userId=&profilesFromStream=true
 
 #EXTINF:0 tvg-logo="http://www.honduras504.com/img/tv/Telecadena-7-y4.jpg" group-title="HUMOR Y VARIEDADES", Telecadena 7 y 4
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhjk-tdt.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Canal 12
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xewt-tdt.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-5-el-lider-honduras-logo-FED83D8EE6-seeklogo.com.png" group-title="HUMOR Y VARIEDADES" , Canal 5 El Líder 
 https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZXAoVCKzGc58y3EZcMGBKqI)/dm/3/x7vus5d/s/live-1.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
