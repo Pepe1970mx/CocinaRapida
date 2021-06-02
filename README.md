@@ -1,8 +1,7 @@
 
 
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg400.jpg?v=1515007950", Azteca Uno
-https://aztkhlslive2-i.ak
-amaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
+https://aztkhlslive2-i.akamaihd.net/hls/live/1009823/un0873g96ye83d/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO" , Las Estrellas
 http://ipeteve.com/php/SR_REGIO_0966/regioplay.php?c=2
@@ -64,8 +63,10 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8?
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO" , NRT
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="MEXICO", TV Lobo
+http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qO0nkZz.png" group-title="MEXICO" , adn 40 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qO0nkZz.png" group-title="MEXICO" , ADN 40 
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
 
 #EXTINF:-1 tvg-logo="http://puu.sh/mwdSw/26eea6807c.png" group-title="MEXICO" , Milenio TV 
@@ -73,7 +74,6 @@ https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
 
 #EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="MEXICO" , Tele Fórmula
 https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="MEXICO", El Financiero
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
@@ -96,18 +96,16 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/4/4b/Mexiquense_tv.jpg/revision/latest?cb=20170525194804&path-prefix=es" group-title="MEXICO" , Mexiquense Noticias 
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="MEXICO" , Televisa Veracruz
-
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO" , Tele Play
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO" , Jalisco TV
 https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/chunklist_w177708400.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO" , TvMar
 https://5ca3e84a76d30.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MEXICO", TV Lobo
-http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
+
 
 
 
@@ -200,7 +198,7 @@ https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/play
 #EXTINF:-1 group-title="KIDS" , Bob Esponja
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=42c29115-1329-41fb-9e30-5ea2929ecfe3&clientModelNumber=na&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=41.3888&deviceLon=2.1590&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=ES&serverSideAds=true&sessionID=6bbdefd3-40a4-11eb-8528-0242ac110002&sid=6bbdefd3-40a4-11eb-8528-0242ac110002&userId=
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Garfiel
+#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Garfield
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=41.3870&deviceLon=2.1701&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=ES&serverSideAds=true&sessionID=9a3a1dfc-b785-11eb-ad92-0242ac110002&sid=9a3a1dfc-b785-11eb-ad92-0242ac110002&userId=
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Kenan y Kel
@@ -269,24 +267,25 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007
 #EXTINF:-1 group-title="RETRO" , El Chavo 
 https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo=" " group-title="RETRO" , Antena 6
-http://inliveserver.com:1935/14510/14510/chunklist_w255137212.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="RETRO" , Dreiko TV 
 https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo=" " group-title="RETRO", TVRETROPALMARES 
 http://tvretropalmares.com:8090/hls/envivo.m3u8
 
-#EXTINF:-1 group-title="RETRO" , VibraTV
-http://88.99.75.194/hls/vibratelevision.m3u8
-
 #EXTINF:-1 tvg-logo" "group-title="RETRO" , TVO
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto/canal_tveo/chunklist_w2036248970.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" , Antena 6
+http://inliveserver.com:1935/14510/14510/chunklist_w255137212.m3u8
+
+#EXTINF:-1 group-title="RETRO" , VibraTV
+http://88.99.75.194/hls/vibratelevision.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="RETRO" , Cachipum
-https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , ClubTV
+https://paneltv.online:1936/8030/8030/playlist.m3u8?PlaylistM3UCL&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=41.3954&deviceLon=2.2048&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=ES&serverSideAds=true&sessionID=9e57e825-6635-11eb-9e0f-0242ac110002&sid=9e57e825-6635-11eb-9e0f-0242ac110002&userId=
 
 #EXTINF:-1 tvg-logo=""  group-title="RETRO" , RetroPlus Series  
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
@@ -300,19 +299,13 @@ http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.mi-television.com/uploads/1/0/3/0/103099212/new-image-for-youtube_orig.png" group-title="RETRO", MITV 
 http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="RETRO" , Canal 29
-http://inliveserver.com:1935/8386/8386/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="RETRO" , Canal 74
-https://Stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8?PlaylistM3UCL
 
 
 
 
 
-
-#EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", Star channel mx
-http://zeroxtv.xyz:2082/live/z45AbQysJD/AYjMQ7WHN9/71636.m3u8
+#EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", Star channel
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=20&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Star Fun
 http://zeroxtv.xyz:2082/live/z45AbQysJD/AYjMQ7WHN9/71641.m3u8
@@ -332,7 +325,6 @@ https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo=" "  group-title="ENTRETENIMIENTO" , Retro Plus Movies
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w458806239.m3u8?WebM3UCL
 
-
 #EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV-MUNDO 1 
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 
@@ -345,15 +337,8 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Multicanal
 https://multicanal.streamseguro.com/hls/streaming.m3u8
 
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 3 Chapín tv
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Canal 4
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", FXM
 https://5975e06a1f292.streamlock.net:4443/canal4eldorado/canal4eldorado/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , ClubTV
-https://paneltv.online:1936/8030/8030/playlist.m3u8?PlaylistM3UCL&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=41.3954&deviceLon=2.2048&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=ES&serverSideAds=true&sessionID=9e57e825-6635-11eb-9e0f-0242ac110002&sid=9e57e825-6635-11eb-9e0f-0242ac110002&userId=
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Cinco TV
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
@@ -361,10 +346,10 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Gen TV
 https://videohd.live:19360/8010/8010.m3u8
 
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/93/b2/93b20146d534d4b089aae90e11bf775f.jpg" group-title="ENTRETENIMIENTO" , VALLEVISION DO
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/93/b2/93b20146d534d4b089aae90e11bf775f.jpg" group-title="ENTRETENIMIENTO" , VALLEVISION 
 http://stream.mxiptv.org:25461/live/tvabierta/opentv/264.m3u8
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="ENTRETENIMIENTO" , PHTV DO
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="ENTRETENIMIENTO" , PHTV 
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , DanTV
@@ -452,9 +437,6 @@ https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/maste
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Cine Premiere
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=25.7806&deviceLon=-80.1826&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=US&serverSideAds=true&sessionID=b92f1155-aeb3-11eb-ab33-0242ac110002&sid=b92f1155-aeb3-11eb-ab33-0242ac110002&userId=
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , ZPTV
-https://srv3.zcast.com.br:443/juancarlos9451/juancarlos9451/chunklist_w780640119.m3u8
-
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Séptimo arte
 https://stitcher.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=afc4be5c-ad4f-11eb-a2fe-0242ac110002
 
@@ -467,11 +449,13 @@ https://stitcher.pluto.tv/stitch/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Estrellas de Acción
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=97c7d537-1741-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Cine XOXO
-https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=40.7876&deviceLon=-74.0600&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=US&serverSideAds=true&sessionID=93b82c03-b2d4-11eb-946b-0242ac110002&sid=93b82c03-b2d4-11eb-946b-0242ac110002&userId=&already_redirected=true
+
 
 #EXTINF:0 tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="PREMIUM", Zee Mundo
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , ZPTV
+https://srv3.zcast.com.br:443/juancarlos9451/juancarlos9451/chunklist_w780640119.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="PREMIUM" , FM TV-MUNDO 2
 https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8
@@ -513,6 +497,12 @@ https://stitcher.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u
 
 #EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , Nuestra Visión 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=25.7806&deviceLon=-80.1826&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=US&serverSideAds=true&sessionID=b92f1155-aeb3-11eb-ab33-0242ac110002&sid=b92f1155-aeb3-11eb-ab33-0242ac110002&userId=
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Cine XOXO
+https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=40.7876&deviceLon=-74.0600&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=US&serverSideAds=true&sessionID=93b82c03-b2d4-11eb-946b-0242ac110002&sid=93b82c03-b2d4-11eb-946b-0242ac110002&userId=&already_redirected=true
+
+
+
 
 #EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , Butaca TV
 https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
