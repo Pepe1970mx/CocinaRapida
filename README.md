@@ -177,6 +177,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009
 
 
 
+#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Canal 9
+https://cootv.cootel.com.ni:443/streams/d/SSLCH09-HD-CVS/playlist.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Aztv
 http://azxtv.com/hls/stream.m3u8
 
