@@ -7,7 +7,7 @@ https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhjk-tdt.m3u8
 http://ipeteve.com/php/SR_REGIO_0966/regioplay.php?c=2
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Imagen_TV_logo.png/200px-Imagen_TV_logo.png" group-title="MEXICO",  ImagenTV
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=2298&format=HLSAD&f=.m3u8
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhctti-tdt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="MEXICO", Foro TV 
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1048_av-p.m3u8?sd=10&rebase=on
@@ -70,7 +70,7 @@ http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://puu.sh/mwdSw/26eea6807c.png" group-title="MEXICO" , Milenio TV 
-
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhdtv-tdt.m3u8
 
 #EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="MEXICO" , Tele Fórmula
 https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
