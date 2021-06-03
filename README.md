@@ -28,7 +28,7 @@ https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 https://aztkhlslive6-i.akamaihd.net:443/hls/live/1019872/4m4s8qo47rr3/master.m3u8
  
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EM8Ks47kwqSGMiH4twcCBgAAAA&pid=Api&P=0&w=175&h=43" group-title="MEXICO", Canal 9
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=24&format=HLSAD&f=.m3u8
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhuaa-tdt.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/quiero-tv-en-vivo-768x480.png" group-title="MEXICO" , Quiero TV
 https://quierotvlive.tk/httplive/playlist_playlist.m3u8
@@ -524,8 +524,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5136317aedfb0007
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Cine XOXO
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=40.7876&deviceLon=-74.0600&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=US&serverSideAds=true&sessionID=93b82c03-b2d4-11eb-946b-0242ac110002&sid=93b82c03-b2d4-11eb-946b-0242ac110002&userId=&already_redirected=true
 
-
-
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Cine Mex
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , Butaca TV
 https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
