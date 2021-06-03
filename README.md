@@ -650,7 +650,7 @@ https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_375.
 
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", 24/7 Pop
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8?PlaylistM3UCL
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title "MUSICA" , Box 
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
