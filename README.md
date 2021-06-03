@@ -4,7 +4,7 @@
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhjk-tdt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO" , Las Estrellas
-http://ipeteve.com/php/SR_REGIO_0966/regioplay.php?c=2
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhuaa-tdt.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Imagen_TV_logo.png/200px-Imagen_TV_logo.png" group-title="MEXICO",  ImagenTV
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhctti-tdt.m3u8
