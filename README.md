@@ -146,6 +146,10 @@ http://186.121.206.197/live/daniel/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Azteca America
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhas-tdt.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Genesis
+http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8?WebM3UCL
+
+
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-5-el-lider-honduras-logo-FED83D8EE6-seeklogo.com.png" group-title="HUMOR Y VARIEDADES" , Canal 5 El Líder 
