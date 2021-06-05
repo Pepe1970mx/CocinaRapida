@@ -127,7 +127,7 @@ https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/master.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Telemundo Internacional 
-https://ktmdlive-lh.akamaihd.net/i/KTMD_LIVE1@183610/master.m3u8
+https://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", UniMas
 https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt1.m3u8
