@@ -353,6 +353,9 @@ https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo=" "  group-title="ENTRETENIMIENTO" , Retro Plus Movies
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w458806239.m3u8?WebM3UCL
 
+#EXTINF:-1 tvg-logo=" "  group-title="ENTRETENIMIENTO" , Planeta TV
+https://media2.cdnlayer.biz:8081/8018/index.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , La Caleta
 https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
 
