@@ -790,8 +790,8 @@ http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="MUSICA REGIONAL", RetroChannels
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
-
-
+#EXTINF:-1 group-title="MUSICA REGIONAL", Infinita TV
+https://rtmp02.portalexpress.es/infinitatv/infinitatv/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="" group-title="RADIO" , Universal Stero
 https://14933.live.streamtheworld.com/XHRED_FMAAC.aac?dist=tg&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=d8b27299-703d-4e00-8a3b-8746120031fe
