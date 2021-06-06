@@ -607,7 +607,7 @@ http://zeroxtv.xyz:2082/live/z45AbQysJD/AYjMQ7WHN9/71646.m3u8
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=174&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Claro Sports
-https://clarosport-origen.clarovideo.net:443/Content/hls/Live/Channel(jjoo2016ch01)/Stream(04)/index.m3u8
+https://d21r053hxdt5v1.cloudfront.net/live/cs01/live.isml/cs01.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TVC Deportes
 http://209.205.221.74:130/R3$3202/3R1W3$32/1615_.m3u8
