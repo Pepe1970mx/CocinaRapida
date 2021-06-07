@@ -79,6 +79,9 @@ https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhdtv-tdt.m3u8
 #EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="MEXICO" , Tele Fórmula
 https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="MEXICO", Imagen Noticias
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhctti-tdt2.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="MEXICO", El Financiero
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
 
