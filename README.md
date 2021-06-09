@@ -631,7 +631,7 @@ http://209.205.221.74:130/R3$3202/3R1W3$32/1615_.m3u8
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cdlivestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=20.5377&deviceLon=-97.4307&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=2ab80462-b42d-11eb-ba48-0242ac110002&sid=2ab80462-b42d-11eb-ba48-0242ac110002&userId=&already_redirected=true&profilesFromStream=true
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", NickMusic
-http://hdhd.tk:80/Dale/Dale/308
+http://dimapro.cz:8080/00:1A:79:16:F9:51/ziajdjjfdifjd64646/18509
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo Latino
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
@@ -642,10 +642,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo R&B
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo Regueton
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo Reggaetón & Trap
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo Reggaetón & Trap
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA", 
 
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo 2k
