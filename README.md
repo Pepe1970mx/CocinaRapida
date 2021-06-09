@@ -609,8 +609,8 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyr
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2
 http://balancer1.ottmex.com:8081/tecno/Espn2.BKR/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX sports 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=170&format=HLSAD&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Fox Deportes 
+http://hdhd.tk:80/francisco/123456/22213
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Fox Sports 2 
 http://zeroxtv.xyz:2082/live/z45AbQysJD/AYjMQ7WHN9/71646.m3u8
