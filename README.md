@@ -654,11 +654,14 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e
 #EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="MUSICA", MTV Biggest Pop
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="MUSICA", MTV Music
+http://dimapro.cz:8080/00:1A:79:16:F9:51/ziajdjjfdifjd64646/38625
+
 #EXTINF:-1 tvg-logo="" group-title="MUSICA", MTV Live
-http://188.40.68.167/russia/mtv_hits/playlist.m3u8
+http://dimapro.cz:8080/00:1A:79:16:F9:51/ziajdjjfdifjd64646/38624
 
 #EXTINF:-1 tvg-logo="" group-title="MUSICA", MTV Hits
-http://188.40.68.167:80/russia/mtv_hits/chunks.m3u8?nimblesessionid=33519113
+http://dimapro.cz:8080/00:1A:79:16:F9:51/ziajdjjfdifjd64646/501
 
 #EXTINF:-1 group-title="MUSICA", MTV Block Party
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=868&deviceId=5d3609cd6a6c78d7672f2a81&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
