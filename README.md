@@ -147,11 +147,14 @@ http://190.122.96.187:8888/http/006
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Azteca America
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhas-tdt.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Azteca Uno Phenix
+https://v-px.mybtv.net/event/41/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
+
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Genesis
 http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8?WebM3UCL
 
-
-
+#EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", María Vision
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-5-el-lider-honduras-logo-FED83D8EE6-seeklogo.com.png" group-title="HUMOR Y VARIEDADES" , Canal 5 El Líder 
 https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZXAoVCKzGc58y3EZcMGBKqI)/dm/3/x7vus5d/s/live-1.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
