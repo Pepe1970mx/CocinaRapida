@@ -338,6 +338,8 @@ http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 
 
 
+#EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", Fox channel
+http://ipeteve.com/php/SR_REGIO_8585/tp.php?c=46&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", Star channel
 http://hdhd.tk:80/francisco/123456/24315
