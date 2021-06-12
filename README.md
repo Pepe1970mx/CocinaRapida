@@ -588,8 +588,8 @@ http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", beIN Sport XTRA en español
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30alivestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=40.7157&deviceLon=-74.0000&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=US&serverSideAds=true&sessionID=8b8552af-ae19-11eb-b970-0242ac110002&sid=8b8552af-ae19-11eb-b970-0242ac110002&userId=&profilesFromStream=true
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 
-
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Eurocopa 2020
+http://91.126.141.13:1935/live/51/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2
 http://hdhd.tk:80/francisco/123456/24280
