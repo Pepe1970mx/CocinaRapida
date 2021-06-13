@@ -19,10 +19,10 @@ https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1048_av-p.m3u8?sd
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png"group-title="MEXICO NACIONAL" , Canal 5 
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xetv-tdt.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO NACIONAL" , Multimedios HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO NACIONAL" , Multimedios Plus
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhbj-tdt.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO REGIONAL" , Multimedios
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO REGIONAL" , Multimedios TV
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
  
 #EXTINF:-1 tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="MEXICO NACIONAL" , Duplicate XHIMT Canal 7 TV Azteca 
@@ -58,7 +58,7 @@ https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w2102162107.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL" , CANAL22 
 https://5fe2654d6127d.streamlock.net:443/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIxIDc6MzQ6MzEgUE0maGFzaF92YWx1ZT00YVpPcXQ0NHdmRXAzSzZsWHpUQTNRPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8O0WxdF.png" group-title="MEXICO NACIONAL" , Veracruz 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8O0WxdF.png" group-title="MEXICO NACIONAL" , Radio y Television de Veracruz (RTV)
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w1862368642.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/4/4b/Mexiquense_tv.jpg/revision/latest?cb=20170525194804&path-prefix=es" group-title="MEXICO REGIONAL" , TV Mexiquense
@@ -70,10 +70,10 @@ http://s5.mexside.net:1935/telemax/telemax/chunklist_w1982711424.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MEXICO REGIONAL", TVP
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-logo=" " group-title="MEXICO REGIONAL" , NRT
+#EXTINF:-1 tvg-logo=" " group-title="MEXICO REGIONAL" , RCG
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MEXICO REGIONAL", TV Lobo
+#EXTINF:-1 tvg-logo="" group-title="MEXICO REGIONAL", TV Lobos
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qO0nkZz.png" group-title="NOTICIAS", ADN 40 
@@ -82,13 +82,13 @@ https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/mwdSw/26eea6807c.png" group-title="NOTICIAS" , Milenio TV 
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhdtv-tdt.m3u8
 
-#EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="NOTICIAS" , Tele Fórmula
+#EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="NOTICIAS" , Teleformula
 https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="NOTICIAS", Imagen Noticias
+#EXTINF:-1 tvg-logo=" " group-title="NOTICIAS", Excélsior Televisión
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhctti-tdt2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="NOTICIAS", El Financiero
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="NOTICIAS", El Financiero - Bloomberg TV
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="NOTICIAS" , CNN en Español
@@ -97,7 +97,7 @@ https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/VIDEO_5_264000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="NOTICIAS", DW Español
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="NOTICIAS", RT en Español
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="NOTICIAS", RT in Spanish
 https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="NOTICIAS",  EuroNews
@@ -249,7 +249,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfo
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Nick
 http://hdhd.tk:80/francisco/123456/24324
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Nick 2
+#EXTINF:-1 tvg-logo=" " group-title="KIDS" , TeenNick
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=2147&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 group-title="KIDS" , Disney XD
@@ -258,11 +258,11 @@ http://hdhd.tk:80/francisco/123456/24278
 #EXTINF:-1 group-title="KIDS" , Disney Channel
 http://hdhd.tk:80/francisco/123456/24276
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Nick Latino
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=37.7510&deviceLon=-97.8220&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=537fe437-141b-11eb-85e0-0242ac110002&userId=&serverSideAds=true
-
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Nick Clásico
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.9348&deviceLon=-97.4117&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=3cffdfd2-0d84-11eb-9e7d-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Nick Latino
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=37.7510&deviceLon=-97.8220&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=537fe437-141b-11eb-85e0-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Nick Teen
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=20.9274&deviceLon=-97.3992&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=246f379b-8dc4-11eb-9d6c-0242ac110002&sid=246f379b-8dc4-11eb-9d6c-0242ac110002&userId=
@@ -604,7 +604,10 @@ http://hdhd.tk:80/francisco/123456/24280
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Fox Deportes 
 http://hdhd.tk:80/francisco/123456/22213
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Fox Sports 2 
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX Sports  LatinoAmerica HD
+
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX Sports 2 LatinoAmerica HD
 http://hdhd.tk:80/francisco/123456/24294
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN
@@ -724,7 +727,7 @@ http://159.69.56.148:25461/live/PuroRock/PuroRock24-7.com/25.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA RETRO" , MTV clasicc
+#EXTINF:-1 tvg-logo=" " group-title="MUSICA RETRO" , MTV Classic
 http://hdhd.tk:80/Dale/Dale/300
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA RETRO" , VH1 Classics
