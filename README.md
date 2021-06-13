@@ -264,7 +264,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Nick Clásico
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.9348&deviceLon=-97.4117&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=3cffdfd2-0d84-11eb-9e7d-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS" , NickTeen
+#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Nick Teen
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=20.9274&deviceLon=-97.3992&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=246f379b-8dc4-11eb-9d6c-0242ac110002&sid=246f379b-8dc4-11eb-9d6c-0242ac110002&userId=
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS", Pluto TV Teen Stars
@@ -298,7 +298,7 @@ http://96.30.193.226:81/hls/boomerang.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="RETRO" , Dreiko TV 
 https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="RETRO" , Pluto Series Retro
+#EXTINF:-1 group-title="RETRO" , Pluto TV Series Retro
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=275a49f5-f05f-11ea-b899-0242ac110002&userId=&serverSideAds=true
  
 #EXTINF:-1 group-title="RETRO" , Los Tres Chiflados
@@ -321,9 +321,6 @@ http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.mi-television.com/uploads/1/0/3/0/103099212/new-image-for-youtube_orig.png" group-title="RETRO", MITV 
 http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo" "group-title="RETRO" , TVO
-https://5b3050bb1b2d8.streamlock.net/viviloendirecto/canal_tveo/chunklist_w2036248970.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="RETRO" , Antena 6
 http://inliveserver.com:1935/14510/14510/chunklist_w255137212.m3u8
