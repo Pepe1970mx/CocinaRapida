@@ -155,7 +155,7 @@ https://v-px.mybtv.net/event/41/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Genesis
 http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", María Vision
+#EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Mariavision
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-5-el-lider-honduras-logo-FED83D8EE6-seeklogo.com.png" group-title="HUMOR Y VARIEDADES" , Canal 5 El Líder 
@@ -585,7 +585,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c548530007
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Movistar La Liga
 http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", beIN Sport XTRA en español
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", beIN SPORTS XTRA en español
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30alivestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=40.7157&deviceLon=-74.0000&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=US&serverSideAds=true&sessionID=8b8552af-ae19-11eb-b970-0242ac110002&sid=8b8552af-ae19-11eb-b970-0242ac110002&userId=&profilesFromStream=true
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Eurocopa 2020
