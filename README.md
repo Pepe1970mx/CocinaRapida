@@ -1,4 +1,4 @@
-
+#EXTM3U x-tvg-url="EPG_url"
 
 #EXTINF:-1 group-title="MEXICO NACIONAL" tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg400.jpg?v=1515007950", Azteca Uno 
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhjk-tdt.m3u8
