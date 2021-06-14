@@ -55,7 +55,7 @@ https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/in
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO REGIONAL" , 15TV 
 https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w2102162107.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL" , CANAL22 
+#EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL" , CANAL 22 
 https://5fe2654d6127d.streamlock.net:443/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIxIDc6MzQ6MzEgUE0maGFzaF92YWx1ZT00YVpPcXQ0NHdmRXAzSzZsWHpUQTNRPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8O0WxdF.png" group-title="MEXICO NACIONAL" , Radio y Television de Veracruz (RTV)
@@ -446,13 +446,13 @@ https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8
 https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , TNT
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , TNT HEVC
 http://31.220.41.87:8081/live/es-tnt.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , AMC
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , AMC HEVC
 http://31.220.41.87:8081/live/es-amc.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Movistar Accion
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , M. Accion
 http://31.220.41.87:8081/live/es-movistar-accion.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , CSI en español
@@ -586,16 +586,16 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e0007
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Lucha Libre AAA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=5b8fe74b-4cb0-46ce-a07b-cad12af3974b&clientModelNumber=na&deviceDNT=false&deviceId=5b8fe74b-4cb0-46ce-a07b-cad12af3974b&deviceLat=20.9302&deviceLon=-97.4005&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=b30374f1-604e-11eb-a30a-0242ac110002&sid=b30374f1-604e-11eb-a30a-0242ac110002&userId=
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Movistar La Liga
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", M. La Liga
 http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Movistar Deportes
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", M. Deportes
 http://31.220.41.87:8081/live/es-movistar-deportes.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", beIN SPORTS XTRA en español
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30alivestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=40.7157&deviceLon=-74.0000&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=US&serverSideAds=true&sessionID=8b8552af-ae19-11eb-b970-0242ac110002&sid=8b8552af-ae19-11eb-b970-0242ac110002&userId=&profilesFromStream=true
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Eurocopa 2020
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Cuatro
 http://91.126.141.13:1935/live/51/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2
