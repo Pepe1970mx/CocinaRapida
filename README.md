@@ -134,7 +134,7 @@ https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 https://v-sd.mybtv.net/event/519/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
 
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Telemundo Internacional 
-https://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
+https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", UniMas
 https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt1.m3u8
