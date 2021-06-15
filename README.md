@@ -130,8 +130,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007
 #EXTINF:-1 group-title="HUMOR Y VARIEDADES" , AFV en español
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Telemundo Internacional  
-https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/master.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Telexitos  
+https://v-sd.mybtv.net/event/519/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
 
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Telemundo Internacional 
 https://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
@@ -586,7 +586,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e0007
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Lucha Libre AAA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=5b8fe74b-4cb0-46ce-a07b-cad12af3974b&clientModelNumber=na&deviceDNT=false&deviceId=5b8fe74b-4cb0-46ce-a07b-cad12af3974b&deviceLat=20.9302&deviceLon=-97.4005&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=b30374f1-604e-11eb-a30a-0242ac110002&sid=b30374f1-604e-11eb-a30a-0242ac110002&userId=
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", M. La Liga
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", M. Laliga
 http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", M. Deportes
@@ -597,6 +597,13 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Cuatro
 http://91.126.141.13:1935/live/51/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Telecinco
+http://stream.tvtap.live:8081/live/es-telecinco.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Neox
+http://stream.tvtap.live:8081/live/es-neox.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2
 http://hdhd.tk:80/francisco/123456/24280
