@@ -535,6 +535,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5136317aedfb0007
 #EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , Cine XOXO
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=40.7876&deviceLon=-74.0600&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=US&serverSideAds=true&sessionID=93b82c03-b2d4-11eb-946b-0242ac110002&sid=93b82c03-b2d4-11eb-946b-0242ac110002&userId=&already_redirected=true
 
+#EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , Claro Cinema
+http://209.91.213.10:8099/play/a00v
+
+
 #EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , Cine Mex
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
 
