@@ -329,7 +329,7 @@ http://inliveserver.com:1935/14510/14510/chunklist_w255137212.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", Star channel
-http://ipeteve.com/php/SR_REGIO_8585/tp.php?c=46&p=3&k=srregio&f=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4pwgkp0y6y&lchId=46&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", Star channel Argentina
 http://hdhd.tk:80/francisco/123456/24315
