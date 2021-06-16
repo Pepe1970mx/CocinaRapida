@@ -349,7 +349,7 @@ https://media2.cdnlayer.biz:8081/8018/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Sarapi TV
 http://209.126.105.158:1935/stv/web/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , BarbaTV
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , TV Puntarenas
 https://cp.sradiotv.com:1936/8076/8076/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Cinco TV
@@ -442,6 +442,9 @@ https://ss5.domint.net:3036/ctv_str/cascaratv/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , OrbitTV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Rakuten Action
+https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="ENTRETENIMIENTO" , PHTV 
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 
@@ -451,7 +454,7 @@ http://31.220.41.87:8081/live/es-tnt.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , AMC HEVC
 http://31.220.41.87:8081/live/es-amc.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , M. Accion
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , M. Acción
 http://31.220.41.87:8081/live/es-movistar-accion.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , CSI en español
@@ -463,7 +466,6 @@ https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/maste
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Cine Premiere
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=25.7806&deviceLon=-80.1826&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=US&serverSideAds=true&sessionID=b92f1155-aeb3-11eb-ab33-0242ac110002&sid=b92f1155-aeb3-11eb-ab33-0242ac110002&userId=
 
-
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM", Pluto TV Cine Terror
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=5.7.4-3c0adb65197bfd10403d6b66bfcd0b37c0daef81&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4465&deviceLon=-97.3249&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=8547386a-f319-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
 
@@ -472,9 +474,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Pluto TV Sci-Fi
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=5.11.1-2a66a4913105edf0ba49fadd1a6875693b09e78c&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=21.3480&deviceLon=-97.6800&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=352e2af8-3cd9-11eb-8528-0242ac110002&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Rakuten Action
-https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Pluto TV Cine Acción
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=97c7d537-1741-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
@@ -491,32 +490,19 @@ https://stitcher.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u
 #EXTINF:0 tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="PREMIUM", Zee Mundo
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
-
-
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Cine Feelgood
 https://contracorriente-canalfeelgood-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , ZPTV
 https://srv3.zcast.com.br:443/juancarlos9451/juancarlos9451/chunklist_w780640119.m3u8
 
-
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Cinecable
-https://cp.sradiotv.com:1936/quevedo/quevedo/chunklist_w27523060.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Cine Club
-https://Stmv.panel.mivideo.pro/cineclubtv/cineclubtv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:0 tvg-logo="" group-title="PREMIUM", FlixTube
-https://panel.streamingtv-mediacp.online:1936/8054/8054/chunklist_w1335949035.m3u8
-
- #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Horrify
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Horrify
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , Pluto TV Cine Clasico
+#EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , Pluto TV Cine Clásico
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=21fbbb36-7c3d-40f3-8e7c-09b2a2486cb7&clientModelNumber=na&deviceDNT=false&deviceId=21fbbb36-7c3d-40f3-8e7c-09b2a2486cb7&deviceLat=20.5238&deviceLon=-97.4557&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=cd26eded-cb2c-11eb-81a6-0242ac110002&sid=cd26eded-cb2c-11eb-81a6-0242ac110002&userId=
 
 #EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , Pluto TV Cine
@@ -528,7 +514,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984c1dc
 #EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , Cine ¡¡jaja!!
 https://stitcher.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=afc4be5c-ad4f-11eb-a2fe-0242ac110002
 
-
 #EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , Nuestra Visión 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=25.7806&deviceLon=-80.1826&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=US&serverSideAds=true&sessionID=b92f1155-aeb3-11eb-ab33-0242ac110002&sid=b92f1155-aeb3-11eb-ab33-0242ac110002&userId=
 
@@ -537,7 +522,6 @@ https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/maste
 
 #EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , Claro Cinema
 http://209.91.213.10:8099/play/a00v
-
 
 #EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , Cine Mex
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
