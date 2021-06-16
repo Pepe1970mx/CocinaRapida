@@ -255,8 +255,8 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfo
 #EXTINF:-1 group-title="KIDS" , Disney XD
 http://hdhd.tk:80/francisco/123456/24278
 
-#EXTINF:-1 group-title="KIDS" , Disney Channel
-http://hdhd.tk:80/francisco/123456/24276
+#EXTINF:-1 group-title="KIDS" , Disney HVEC
+http://31.220.41.87:8081/live/es-disney.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Nick Clásico
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.9348&deviceLon=-97.4117&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=3cffdfd2-0d84-11eb-9e7d-0242ac110002&userId=&serverSideAds=true
@@ -448,6 +448,9 @@ https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="ENTRETENIMIENTO" , PHTV 
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , TMC HEVC
+http://31.220.41.87:8081/live/es-tmc.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , TNT HEVC
 http://31.220.41.87:8081/live/es-tnt.stream/chunks.m3u8
 
@@ -557,7 +560,7 @@ https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="CINE LATINO", cine Real
 https://cinereal-plex.amagi.tv:443/CineReal/master_3.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="CINE LATINO", Run Time
+#EXTINF:-1 tvg-logo=" " group-title="CINE LATINO", Runtime
 https://runtimemx-samsungmx.amagi.tv/playlist.m3u8nnelId=5f5132e362fe160040f26c15/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/playlist.m3u8
 
 
@@ -591,6 +594,9 @@ http://stream.tvtap.live:8081/live/es-telecinco.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Neox
 http://stream.tvtap.live:8081/live/es-neox.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , MEGA
+http://31.220.41.87:8081/live/es-mega.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2
