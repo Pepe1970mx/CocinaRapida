@@ -24,7 +24,7 @@ https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhbj-tdt.m3u8
 #EXTINF:-1 tvg-id="Multimedios Plus" tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO REGIONAL" , Canal 6 Mty
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
  
-#EXTINF:-1 tvg-id="Duplicate XHIMT Canal 7 TV Azteca" tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="MEXICO NACIONAL" , Azteca 7
+#EXTINF:-1 tvg-id="I154.45399.schedulesdirect.org" tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="MEXICO NACIONAL" , Azteca 7
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 
 #EXTINF:-1 tvg-id="AMAS70" tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="MEXICO NACIONAL" , A MAS
