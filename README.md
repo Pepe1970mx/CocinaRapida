@@ -3,7 +3,7 @@
 #EXTINF:-1 group-title="MEXICO NACIONAL" tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg400.jpg?v=1515007950", Azteca Uno 
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhjk-tdt.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL", Azteca America
+#EXTINF:-1 tvg-id="Azteca Uno Delay" tvg-logo=" " group-title="MEXICO NACIONAL", Azteca America
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhas-tdt.m3u8
 
 
@@ -18,16 +18,16 @@ https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1048_av-p.m3u8?sd
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png"group-title="MEXICO NACIONAL" , Canal 5 (XHGC)
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xetv-tdt.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO NACIONAL" , Multimedios Plus
+#EXTINF:-1 tvg-id="Multimedios Plus" tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO NACIONAL" , Canal 45 Tijuana
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhbj-tdt.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO REGIONAL" , MULTIMEDIOS TV
+#EXTINF:-1 tvg-id="Multimedios Plus" tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO REGIONAL" , Canal 6 Mty
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
  
-#EXTINF:-1 tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="MEXICO NACIONAL" , Duplicate XHIMT Canal 7 TV Azteca 
+#EXTINF:-1 tvg-id="Duplicate XHIMT Canal 7 TV Azteca" tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="MEXICO NACIONAL" , Azteca 7
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="MEXICO NACIONAL" , AMAS70
+#EXTINF:-1 tvg-id="AMAS70" tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="MEXICO NACIONAL" , A MAS
 https://aztkhlslive6-i.akamaihd.net:443/hls/live/1019872/4m4s8qo47rr3/master.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL" , La Octava
