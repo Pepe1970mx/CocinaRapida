@@ -199,20 +199,6 @@ https://bamus-spa-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-spanish/CD
 
 
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Canal 9
-https://cootv.cootel.com.ni:443/streams/d/SSLCH09-HD-CVS/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Chinola TV
-https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Magic Kids
-https://live.admefy.com/live/clean_peach_ef224.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Plex Niños
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=533&live=1&app_bundle=com.plexapp.ctv&did=d9bf52a9-cef1-591d-aeb0-cf20469010a0&app_domain=app.plex.tv&app_name=plex&h=640&w=320&content_title=LnKaFczxgP3JvySyzEbf&content_series=6041643175c115002dc51259&custom4=plex&gdpr=0&device_make=Android&device_model=Chrome&coppa=0&us_privacy=1---&custom_6=LnKaFczxgP3JvySyzEbf&custom_7=6041643175c115002dc51259
-
-#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Chiquilines
-https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Los Tres Chiflados
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=5.11.0-1d883e1216be36c166cbf982f832a992718a0632&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4984&deviceLon=-97.4234&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=e61dccf1-2c3a-11eb-813b-0242ac110002&userId=&serverSideAds=true
@@ -222,6 +208,13 @@ https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?Pl
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Los Simpson 
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
+
+#EXTINF:-1 group-title="RETRO" , Pluto TV Series Retro
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=275a49f5-f05f-11ea-b899-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Pluto TV Cine Familia 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=71f1da86-eee5-11ea-ac99-0242ac110002&userId=&serverSideAds=true
+
 
 #EXTINF:-1 group-title="KIDS" , Bob Esponja
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=42c29115-1329-41fb-9e30-5ea2929ecfe3&clientModelNumber=na&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=41.3888&deviceLon=2.1590&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=ES&serverSideAds=true&sessionID=6bbdefd3-40a4-11eb-8528-0242ac110002&sid=6bbdefd3-40a4-11eb-8528-0242ac110002&userId=
@@ -276,17 +269,18 @@ https://stitcher.pluto.tv/stitch/hls/channel/6054acc871ec430007f54c7d/master.m3u
 
 
 
-
-
-#EXTINF:-1 group-title="RETRO" , Boomerang
-http://96.30.193.226:81/hls/boomerang.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" , Canal 9
+https://cootv.cootel.com.ni:443/streams/d/SSLCH09-HD-CVS/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="RETRO" , Dreiko TV 
 https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="RETRO" , Pluto TV Series Retro
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=275a49f5-f05f-11ea-b899-0242ac110002&userId=&serverSideAds=true
- 
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" , Chinola TV
+https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" , Magic Kids
+https://live.admefy.com/live/clean_peach_ef224.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="RETRO", TVRETROPALMARES 
 http://tvretropalmares.com:8090/hls/envivo.m3u8
 
@@ -305,6 +299,12 @@ http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" " group-title="RETRO" , Antena 6
 http://inliveserver.com:1935/14510/14510/chunklist_w255137212.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" , Plex Niños
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=533&live=1&app_bundle=com.plexapp.ctv&did=d9bf52a9-cef1-591d-aeb0-cf20469010a0&app_domain=app.plex.tv&app_name=plex&h=640&w=320&content_title=LnKaFczxgP3JvySyzEbf&content_series=6041643175c115002dc51259&custom4=plex&gdpr=0&device_make=Android&device_model=Chrome&coppa=0&us_privacy=1---&custom_6=LnKaFczxgP3JvySyzEbf&custom_7=6041643175c115002dc51259
+
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" , Chiquilines
+https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
+
 
 
 
@@ -313,6 +313,18 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4p
 
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", Star channel Argentina
 http://hdhd.tk:80/francisco/123456/24315
+
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", Cuatro
+http://91.126.141.13:1935/live/51/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", Telecinco
+http://stream.tvtap.live:8081/live/es-telecinco.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", Neox
+http://stream.tvtap.live:8081/live/es-neox.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , MEGA
+http://31.220.41.87:8081/live/es-mega.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV-MUNDO 1 
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
@@ -344,8 +356,7 @@ https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1 tvg-logo=" "  group-title="ENTRETENIMIENTO" , Retro Plus Movies
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w458806239.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Pluto TV Cine Familia 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=71f1da86-eee5-11ea-ac99-0242ac110002&userId=&serverSideAds=true
+
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Rakuten Family
 https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
@@ -387,12 +398,6 @@ https://59537faa0729a.streamlock.net/plustvmachagai/plustvmachagai/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Plus TV
 http://videostream.shockmedia.com.ar:1935/plustv/plustv/chunklist_w70863142.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", NeoTV
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", RTV Cable
-https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.tenarenses.com/wp-content/uploads/2018/08/DSC_0076.jpg?resize=640%2C424&ssl=1" group-title="ENTRETENIMIENTO" , TVS DO
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
@@ -572,17 +577,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Liga de Campeones
 http://212.224.98.204:2200/NL/mlcampeonhd-esp/tracks-v1a1/mono.m3u8?token=mvk
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Cuatro
-http://91.126.141.13:1935/live/51/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Telecinco
-http://stream.tvtap.live:8081/live/es-telecinco.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Neox
-http://stream.tvtap.live:8081/live/es-neox.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="DEPORTES" , MEGA
-http://31.220.41.87:8081/live/es-mega.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2
