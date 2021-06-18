@@ -33,7 +33,7 @@ https://aztkhlslive6-i.akamaihd.net:443/hls/live/1019872/4m4s8qo47rr3/master.m3u
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL" , La Octava
 http://hdhd.tk:80/francisco/123456/24386
  
-#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EM8Ks47kwqSGMiH4twcCBgAAAA&pid=Api&P=0&w=175&h=43" group-title="MEXICO NACIONAL", Duplicate XEQ
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EM8Ks47kwqSGMiH4twcCBgAAAA&pid=Api&P=0&w=175&h=43" tvg-id="Duplicate XEQ"group-title="MEXICO NACIONAL", Canal Nu9ve
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhuaa-tdt.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/quiero-tv-en-vivo-768x480.png" group-title="MEXICO REGIONAL" , Quiero TV
