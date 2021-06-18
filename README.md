@@ -549,7 +549,7 @@ https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 https://cinereal-plex.amagi.tv:443/CineReal/master_3.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="CINE LATINO", Runtime
-https://runtimemx-samsungmx.amagi.tv/playlist.m3u8nnelId=5f5132e362fe160040f26c15/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/playlist.m3u8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6086d3f420fc8500075f8dbf/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=21fbbb36-7c3d-40f3-8e7c-09b2a2486cb7&clientModelNumber=na&country=ES&deviceDNT=false&deviceId=21fbbb36-7c3d-40f3-8e7c-09b2a2486cb7&deviceLat=41.3870&deviceLon=2.1701&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=ES&serverSideAds=true&sessionID=613676a9-cfe2-11eb-924a-0242ac110002&sid=613676a9-cfe2-11eb-924a-0242ac110002&userId=
 
 
 
