@@ -578,7 +578,7 @@ http://hdhd.tk:80/francisco/123456/22213
 http://hdhd.tk:80/francisco/123456/24294
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=oelftyrx4y4z8gm&lchId=174&format=HLSAD&f=.m3u8
+http://hdhd.tk:80/francisco/123456/25378
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Claro Sports
 https://d21r053hxdt5v1.cloudfront.net/live/cs01/live.isml/cs01.m3u8
