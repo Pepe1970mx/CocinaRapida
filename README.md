@@ -262,11 +262,8 @@ https://cootv.cootel.com.ni:443/streams/d/SSLCH09-HD-CVS/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="RETRO" , Dreiko TV 
 https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo=" " group-title="RETRO" , Chinola TV
-https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="RETRO" , Magic Kids
-https://live.admefy.com/live/clean_peach_ef224.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" , Retro Play
+https://paneltv.online:1936/8138/8138/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo=" " group-title="RETRO", TVRETROPALMARES 
 http://tvretropalmares.com:8090/hls/envivo.m3u8
@@ -300,12 +297,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4p
 
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", Star channel 
 http://hdhd.tk:80/francisco/123456/24315
-
-#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", Cuatro
-http://91.126.141.13:1935/live/51/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", Telecinco
-http://stream.tvtap.live:8081/live/es-telecinco.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", Neox
 http://stream.tvtap.live:8081/live/es-neox.stream/playlist.m3u8
@@ -354,14 +345,6 @@ https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , La Caleta
 https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , ClubTV
-https://paneltv.online:1936/8030/8030/playlist.m3u8?PlaylistM3UCL&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=41.3954&deviceLon=2.2048&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=ES&serverSideAds=true&sessionID=9e57e825-6635-11eb-9e0f-0242ac110002&sid=9e57e825-6635-11eb-9e0f-0242ac110002&userId=
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Telecanal 12
-https://cdn4.hostlagarto.com:8081/static/telecanal12/chunks.m3u8
-
-
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Multicanal
 https://multicanal.streamseguro.com/hls/streaming.m3u8
 
@@ -377,12 +360,6 @@ http://stream.mxiptv.org:25461/live/tvabierta/opentv/264.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , DanTV
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
  
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Canal 3 plus
-https://59537faa0729a.streamlock.net/plustvmachagai/plustvmachagai/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Plus TV
-http://videostream.shockmedia.com.ar:1935/plustv/plustv/chunklist_w70863142.m3u8
-
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.tenarenses.com/wp-content/uploads/2018/08/DSC_0076.jpg?resize=640%2C424&ssl=1" group-title="ENTRETENIMIENTO" , TVS DO
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 
