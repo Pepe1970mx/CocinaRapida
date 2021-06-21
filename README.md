@@ -297,7 +297,7 @@ http://hdhd.tk:80/francisco/123456/24315
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/kuan-ld2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", Canal Claro
-
+http://186.101.216.211:8000/play/a08e
 
 #EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", Neox
 http://stream.tvtap.live:8081/live/es-neox.stream/playlist.m3u8
