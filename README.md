@@ -293,9 +293,11 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=wdokt4p
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", Star channel 
 http://hdhd.tk:80/francisco/123456/24315
 
-#EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Novelas con la abuela
-https://stitcher.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=afc4be5c-ad4f-11eb-a2fe-0242ac110002
-/v-sd.mybtv.net/event/519/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2028-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", Telexito
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/kuan-ld2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", Canal Claro
+
 
 #EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", Neox
 http://stream.tvtap.live:8081/live/es-neox.stream/playlist.m3u8
