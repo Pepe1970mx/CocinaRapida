@@ -8,6 +8,7 @@ https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhas-tdt.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO NACIONAL" , Las Estrellas
+http://186.101.216.211:8000/play/a02y
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Imagen_TV_logo.png/200px-Imagen_TV_logo.png" group-title="MEXICO NACIONAL",  Imagen TV
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhctti-tdt.m3u8
