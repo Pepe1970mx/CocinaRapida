@@ -393,7 +393,7 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Rakuten Action
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="ENTRETENIMIENTO" , PHTV 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="PREMIUM" , PHTV 
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , TMC HEVC
@@ -476,6 +476,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6086d3f420fc850007
 
 #EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , Claro Cinema
 http://209.91.213.10:8099/play/a00v
+
+#EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , Cine Latino
+https://vp01-ch27.delivery.fuugo.com/ngrp:vp01-Cine_Latino-fdb1e2f0_all/playlist.m3u8?ex=1623447810&ul=36&sf=882d075a8d196c12b8b6d4f21c1ddd85
 
 #EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , Cine Mex
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
