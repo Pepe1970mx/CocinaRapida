@@ -148,8 +148,8 @@ https://v-px.mybtv.net/event/41/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Mariavision
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Comedy Central Latino
-https://stitcher.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=afc4be5c-ad4f-11eb-a2fe-0242ac110002
+#EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Hola TV
+https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Telemicro
 https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
