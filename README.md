@@ -299,6 +299,12 @@ https://streams.the6tv.duckdns.org:2443/locals/SanDiego/kuan-ld2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", Canal Claro
 http://186.101.216.211:8000/play/a08e
 
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", LIM
+https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", Suceso TV
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", Neox
 http://stream.tvtap.live:8081/live/es-neox.stream/playlist.m3u8
 
@@ -443,12 +449,6 @@ https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Cine Feelgood
 https://contracorriente-canalfeelgood-1-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , ZPTV
-https://srv3.zcast.com.br:443/juancarlos9451/juancarlos9451/chunklist_w780640119.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Horrify
-https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
 
 
