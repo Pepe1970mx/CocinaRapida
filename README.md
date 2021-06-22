@@ -288,7 +288,7 @@ https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", Star channel
-http://45.179.140.242:8000/play/a0h5
+http://209.91.213.10:8099/play/a01c
 
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", Star channel 
 http://hdhd.tk:80/francisco/123456/24315
