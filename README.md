@@ -145,9 +145,6 @@ http://190.122.96.187:8888/http/006
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Azteca Uno Phenix
 https://v-px.mybtv.net/event/41/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
 
-#EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Mariavision
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
-
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Hola TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 
@@ -156,6 +153,12 @@ https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/canal-5-el-lider-honduras-logo-FED83D8EE6-seeklogo.com.png" group-title="HUMOR Y VARIEDADES" , Canal 5 El Líder 
 https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZXAoVCKzGc58y3EZcMGBKqI)/dm/3/x7vus5d/s/live-1.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
+
+#EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", TV Salud
+https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Mariavision
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
 
 
