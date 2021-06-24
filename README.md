@@ -211,16 +211,16 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054ab20a365c70007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=20.4437&deviceLon=-97.3444&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=9c38e017-9581-11eb-9ac7-0242ac110002&sid=9c38e017-9581-11eb-9ac7-0242ac110002&userId=
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Cartoon Network 
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=112&format=HLSAD&f=.m3u8
+http://hdhd.tk:80/francisco/123456/24489
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Nick
 http://hdhd.tk:80/francisco/123456/24324
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , TeenNick
-https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=nec6kfoakccgpwm&lchId=2147&format=HLSAD&f=.m3u8
+
 
 #EXTINF:-1 group-title="KIDS" , Disney XD
-http://hdhd.tk:80/francisco/123456/24278
+http://hdhd.tk:80/francisco/123456/24488
 
 #EXTINF:-1 group-title="KIDS" , Disney Channels HEVC
 http://31.220.41.87:8081/live/es-disney.stream/chunks.m3u8
