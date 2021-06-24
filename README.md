@@ -17,7 +17,7 @@ https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhctti-tdt.m3u8
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1048_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="I105.47425.schedulesdirect.org" tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png"group-title="MEXICO NACIONAL" , Canal 5 (XHGC) 
-https://v-sd.mybtv.net/event/486/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xetv-tdt.m3u8
 
 #EXTINF:-1 tvg-id="I419.91505.schedulesdirect.org" tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO NACIONAL" , Canal 45 Tijuana
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhbj-tdt.m3u8
