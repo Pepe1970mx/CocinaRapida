@@ -251,8 +251,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/6054acc871ec430007f54c7d/master.m3u
 
 
 
-
-
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" , LRO TV
+https://tv.streamingchilenos.com:1936/8020/8020/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo=" " group-title="RETRO" , Canal 9
 https://cootv.cootel.com.ni:443/streams/d/SSLCH09-HD-CVS/playlist.m3u8
