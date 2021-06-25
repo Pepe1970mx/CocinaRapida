@@ -18,7 +18,7 @@ https://v-sd.mybtv.net/event/485/768x432.m3u8?start_time=2021-05-16&end_time=202
 https://v-sd.mybtv.net/event/486/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 
 #EXTINF:-1 tvg-id="I419.91505.schedulesdirect.org" tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO NACIONAL" , Canal 45 Tijuana
-https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhbj-tdt.m3u8
+https://v-sd.mybtv.net/event/515/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 
 #EXTINF:-1 tvg-id="I415.99620.schedulesdirect.org" tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO NACIONAL" , Canal 6 Mty
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
