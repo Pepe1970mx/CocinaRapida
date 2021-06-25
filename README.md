@@ -493,7 +493,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6086d3f420fc850007
 #EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , Claro Cinema
 http://209.91.213.10:8099/play/a00v
 
-#EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , Cine Latino
+#EXTINF:-1 tvg-id="I120.15296.schedulesdirect.org" tvg-logo=" " group-title="CINE LATINO" , Cine Latino
 https://vp01-ch27.delivery.fuugo.com/ngrp:vp01-Cine_Latino-fdb1e2f0_all/playlist.m3u8?ex=1623447810&ul=36&sf=882d075a8d196c12b8b6d4f21c1ddd85
 
 #EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , Cine Mex
