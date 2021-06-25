@@ -4,7 +4,7 @@
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhjk-tdt.m3u8
 
 #EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="MEXICO NACIONAL", Azteca America
-https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhas-tdt.m3u8
+https://v-sd.mybtv.net/event/508/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO NACIONAL" , Las Estrellas
