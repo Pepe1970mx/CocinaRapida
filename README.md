@@ -1,5 +1,10 @@
 #EXTM3U x-tvg-url="EPG_url"
 
+
+#EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL", Azteca Uno Phenix
+https://v-px.mybtv.net/event/41/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
+
+
 #EXTINF:-1 tvg-id="I83.46607.schedulesdirect.org" group-title="MEXICO NACIONAL" tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg400.jpg?v=1515007950", Azteca Uno 
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhjk-tdt.m3u8
 
@@ -134,7 +139,7 @@ https://5ca3e84a76d30.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playl
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=true
 
 #EXTINF:-1tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="HUMOR Y VARIEDADES", Telemundo 
-https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
+https://v-px.mybtv.net/event/39/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
 
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", UniMas
 https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt1.m3u8
@@ -147,9 +152,6 @@ https://v-px.mybtv.net/event/45/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%
 
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES" , Ve Plus
 http://190.122.96.187:8888/http/006
-
-#EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Azteca Uno Phenix
-https://v-px.mybtv.net/event/41/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
 
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Hola TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
