@@ -86,7 +86,7 @@ https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1048_av-p.m3u8?sd
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://puu.sh/mwdSw/26eea6807c.png" group-title="NOTICIAS" , Milenio TV 
-https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhdtv-tdt.m3u8
+https://v-sd.mybtv.net/event/521/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 
 #EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="NOTICIAS" , Teleformula
 https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
