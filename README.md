@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="EPG_url"
 
-#EXTINF:-1 group-title="MEXICO NACIONAL" tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg400.jpg?v=1515007950", Azteca Uno 
+#EXTINF:-1 tvg-id="I83.46607.schedulesdirect.org" group-title="MEXICO NACIONAL" tvg-logo="https://www.prensario.tv/images/galleries/141/71f97661d0a0ed09472d6264434e8617_750x400.jpg400.jpg?v=1515007950", Azteca Uno 
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhjk-tdt.m3u8
 
 #EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="MEXICO NACIONAL", Azteca America
@@ -13,8 +13,6 @@ http://186.101.216.211:8000/play/a02y
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Imagen_TV_logo.png/200px-Imagen_TV_logo.png" group-title="MEXICO NACIONAL",  Imagen TV
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhctti-tdt.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="NOTICIAS", Foro TV 
-https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1048_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="I105.47425.schedulesdirect.org" tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png"group-title="MEXICO NACIONAL" , Canal 5 (XHGC) 
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xetv-tdt.m3u8
@@ -22,7 +20,7 @@ https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xetv-tdt.m3u8
 #EXTINF:-1 tvg-id="I419.91505.schedulesdirect.org" tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO NACIONAL" , Canal 45 Tijuana
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhbj-tdt.m3u8
 
-#EXTINF:-1 tvg-id="I415.99620.schedulesdirect.org" tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO REGIONAL" , Canal 6 Mty
+#EXTINF:-1 tvg-id="I415.99620.schedulesdirect.org" tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO NACIONAL" , Canal 6 Mty
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
  
 #EXTINF:-1 tvg-id="I154.45399.schedulesdirect.org" tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="MEXICO NACIONAL" , Azteca 7
@@ -37,7 +35,7 @@ http://hdhd.tk:80/francisco/123456/24386
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EM8Ks47kwqSGMiH4twcCBgAAAA&pid=Api&P=0&w=175&h=43" tvg-id="I222.97020.schedulesdirect.org" group-title="MEXICO NACIONAL", Canal Nu9ve
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhuaa-tdt.m3u8
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/quiero-tv-en-vivo-768x480.png" group-title="MEXICO REGIONAL" , Quiero TV
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/quiero-tv-en-vivo-768x480.png" group-title="MEXICO NACIONAL" , Quiero TV
 https://quierotvlive.tk/httplive/playlist_playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="MEXICO NACIONAL", Canal Once
@@ -52,14 +50,16 @@ https://content.uplynk.com/channel/e7825db621c24c99ac9d389e2d06cd7c.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL" , Canal 14
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/4/4b/Mexiquense_tv.jpg/revision/latest?cb=20170525194804&path-prefix=es" group-title="MEXICO NACIONAL" , TV Mexiquense
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
+
 #EXTINF:-1 tvg-id="I220.102415.schedulesdirect.org" tvg-logo=" " group-title="MEXICO NACIONAL" , CANAL 22 
 https://5fe2654d6127d.streamlock.net:443/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIxIDc6MzQ6MzEgUE0maGFzaF92YWx1ZT00YVpPcXQ0NHdmRXAzSzZsWHpUQTNRPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8O0WxdF.png" group-title="MEXICO NACIONAL" , Radio y Television de Veracruz (RTV)
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w1862368642.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/4/4b/Mexiquense_tv.jpg/revision/latest?cb=20170525194804&path-prefix=es" group-title="MEXICO REGIONAL" , TV Mexiquense
-https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
+
 
 #EXTINF: -1 tvg-logo = "https://i.pinimg.com/280x280_RS/01/ca/56/01ca569f92b45cecb0cf738a912cfea0.jpg" group-title = "MEXICO REGIONAL", Telemax (XEWH)
 http://s5.mexside.net:1935/telemax/telemax/chunklist_w1982711424.m3u8
@@ -75,6 +75,12 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO REGIONAL" , 15TV 
 https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w2102162107.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="NOTICIAS", Foro TV 
+https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1048_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qO0nkZz.png" group-title="NOTICIAS", ADN 40 
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
@@ -210,10 +216,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054ab20a365c70007
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Kenan y Kel
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=20.4437&deviceLon=-97.3444&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=9c38e017-9581-11eb-9ac7-0242ac110002&sid=9c38e017-9581-11eb-9ac7-0242ac110002&userId=
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Cartoon Network 
+#EXTINF:-1 tvg-id="I111.101735.schedulesdirect.org" tvg-logo=" " group-title="KIDS" , Cartoon Network 
 http://hdhd.tk:80/francisco/123456/24489
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS" , Nick
+#EXTINF:-1 tvg-id="I170.11006.schedulesdirect.org" tvg-logo=" " group-title="KIDS" , Nick
 http://hdhd.tk:80/francisco/123456/24324
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , TeenNick
@@ -222,7 +228,7 @@ http://hdhd.tk:80/francisco/123456/24324
 #EXTINF:-1 group-title="KIDS" , Disney XD
 http://hdhd.tk:80/francisco/123456/24488
 
-#EXTINF:-1 group-title="KIDS" , Disney Channels HEVC
+#EXTINF:-1 tvg-id="DisneyChannelEspana.us" group-title="KIDS" , Disney Channels España
 http://31.220.41.87:8081/live/es-disney.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" tvg-logo=" " group-title="KIDS" , Nick Clásico
@@ -308,10 +314,10 @@ https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", Suceso TV
 https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", Neox
+#EXTINF:-1 tvg-id="Neox.es" tvg-logo="" group-title="ENTRETENIMIENTO", Neox
 http://stream.tvtap.live:8081/live/es-neox.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , MEGA
+#EXTINF:-1 tvg-id="Mega.es" tvg-logo=" " group-title="ENTRETENIMIENTO" , MEGA
 http://31.220.41.87:8081/live/es-mega.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV-MUNDO 1 
@@ -405,16 +411,23 @@ https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="PREMIUM" , PHTV 
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="PREMIUM" , TCM HEVC
-http://31.220.41.87:8081/live/ES-tcm.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="PREMIUM" , TNT HEVC
-http://31.220.41.87:8081/live/es-tnt.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="PREMIUM" , AMC HEVC
+#EXTINF:-1 tvg-id="AMCEspana.us" tvg-logo=" " group-title="PREMIUM" , AMC España
 http://31.220.41.87:8081/live/es-amc.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , M. Acción
+#EXTINF:-1 tvg-id="FoxEspana.us" tvg-logo=" " group-title="PREMIUM" , Fox España
+http://31.220.41.87:8081/live/ES-fox.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TCMEspana.us" tvg-logo=" " group-title="PREMIUM" , TCM España
+http://31.220.41.87:8081/live/ES-tcm.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TNTEspana.us" tvg-logo=" " group-title="PREMIUM" , TNT España
+http://31.220.41.87:8081/live/es-tnt.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="FoxLifeEspana.us"
+
+#EXTINF:-1 tvg-id="ParamountNetworkEspana.us"
+
+#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-logo=" " group-title="PREMIUM" , Movistar Acción
 http://31.220.41.87:8081/live/es-movistar-accion.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , CSI en español
@@ -532,10 +545,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e0007
 #EXTINF:-1 tvg-id="5f99a772c54853000797bf18" tvg-logo="" group-title="DEPORTES", Lucha Libre AAA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=5b8fe74b-4cb0-46ce-a07b-cad12af3974b&clientModelNumber=na&deviceDNT=false&deviceId=5b8fe74b-4cb0-46ce-a07b-cad12af3974b&deviceLat=20.9302&deviceLon=-97.4005&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=b30374f1-604e-11eb-a30a-0242ac110002&sid=b30374f1-604e-11eb-a30a-0242ac110002&userId=
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", M. Laliga
+#EXTINF:-1tvg- id="beINLaLiga.qa" tvg-logo="" group-title="DEPORTES", Movistar Laliga
 http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", M. Deportes
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-logo="" group-title="DEPORTES", Movistar Deportes
 http://31.220.41.87:8081/live/es-movistar-deportes.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", beIN SPORTS XTRA en español
@@ -544,8 +557,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Liga de Campeones
 http://212.224.98.204:2200/NL/mlcampeonhd-esp/tracks-v1a1/mono.m3u8?token=mvk
 
+#EXTINF:-1 tvg-id="Eurosport1Espana.fr" tvg-logo="" group-title="DEPORTES", Eurospot 1
 
 
+
+#EXTINF:-1 tvg-id="I854.25595.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", ESPN Deportes
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2
 http://hdhd.tk:80/francisco/123456/24280
