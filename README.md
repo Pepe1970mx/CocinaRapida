@@ -42,7 +42,7 @@ https://quierotvlive.tk/httplive/playlist_playlist.m3u8
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL", Canal 12 Tijuana
-https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xewt-tdt.m3u8
+https://v-sd.mybtv.net/event/497/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 
 #EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="MEXICO NACIONAL", MVS TV
 https://content.uplynk.com/channel/e7825db621c24c99ac9d389e2d06cd7c.m3u8
