@@ -92,7 +92,7 @@ https://v-sd.mybtv.net/event/521/768x432.m3u8?start_time=2021-05-16&end_time=202
 https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="NOTICIAS", Excélsior Televisión
-https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhctti-tdt2.m3u8
+https://v-sd.mybtv.net/event/539/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="NOTICIAS", El Financiero - Bloomberg TV
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
@@ -423,9 +423,15 @@ http://31.220.41.87:8081/live/ES-tcm.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="TNTEspana.us" tvg-logo=" " group-title="PREMIUM" , TNT España
 http://31.220.41.87:8081/live/es-tnt.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-id="HolywoodEspana.us" tvg-logo=" " group-title="PREMIUM" , Holywood
+http://31.220.41.87:8081/live/es-hollywood.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-id="FoxLifeEspana.us"
 
 #EXTINF:-1 tvg-id="ParamountNetworkEspana.us"
+
+
+
 
 #EXTINF:-1 tvg-id="MovistarAccion.es" tvg-logo=" " group-title="PREMIUM" , Movistar Acción
 http://31.220.41.87:8081/live/es-movistar-accion.stream/chunks.m3u8
