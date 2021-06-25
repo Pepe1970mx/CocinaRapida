@@ -142,7 +142,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007
 https://v-px.mybtv.net/event/39/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
 
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", UniMas
-https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt1.m3u8
+https://v-px.mybtv.net/event/56/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
 
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Univision
 https://v-px.mybtv.net/event/28/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
