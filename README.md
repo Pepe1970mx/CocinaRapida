@@ -283,7 +283,7 @@ http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", Star channel
-http://209.91.213.10:8099/play/a01c
+http://my.streamerstv.com:25461/job/job/396
 
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", Star channel 
 http://hdhd.tk:80/francisco/123456/24315
