@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="I83.46607.schedulesdirect.org" tvg-logo=" " group-title="MEXICO NACIONAL", Azteca Uno Phenix
 https://v-px.mybtv.net/event/41/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
 
-EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="MEXICO NACIONAL", Azteca America
+#EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="MEXICO NACIONAL", Azteca America
 https://v-sd.mybtv.net/event/508/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 
 
@@ -215,12 +215,14 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054ab20a365c70007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=20.4437&deviceLon=-97.3444&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=9c38e017-9581-11eb-9ac7-0242ac110002&sid=9c38e017-9581-11eb-9ac7-0242ac110002&userId=
 
 #EXTINF:-1 tvg-id="I111.101735.schedulesdirect.org" tvg-logo=" " group-title="KIDS" , Cartoon Network 
-http://hdhd.tk:80/francisco/123456/24489
+http://my.streamerstv.com:25461/job/job/370
 
 #EXTINF:-1 tvg-id="I170.11006.schedulesdirect.org" tvg-logo=" " group-title="KIDS" , Nick
-http://hdhd.tk:80/francisco/123456/24324
+http://my.streamerstv.com:25461/job/job/425
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , TeenNick
+http://my.streamerstv.com:25461/job/job/426
+
 #EXTINF:-1 tvg-id="Nickelodeon HD" tvg-logo=" " group-title="KIDS" , Nickelodeon
 
 #EXTINF:-1 tvg-id="I191.16563.schedulesdirect.org" group-title="KIDS" , Disney XD
