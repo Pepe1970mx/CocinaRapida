@@ -15,13 +15,13 @@ http://186.101.216.211:8000/play/a02y
 https://v-sd.mybtv.net/event/485/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 
 
-#EXTINF:-1 tvg-id="I105.47425.schedulesdirect.org" tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png"group-title="MEXICO NACIONAL" , Canal 5 (XHGC) 
+#EXTINF:-1 tvg-id="I105.47425.schedulesdirect.org" tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png"group-title="MEXICO NACIONAL" , Canal 5 
 https://v-sd.mybtv.net/event/486/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 
-#EXTINF:-1 tvg-id="I419.91505.schedulesdirect.org" tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO NACIONAL" , Canal 45 Tijuana
+#EXTINF:-1 tvg-id="I415.99620.schedulesdirect.org" tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO NACIONAL" , Canal 45 Tijuana
 https://v-sd.mybtv.net/event/515/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 
-#EXTINF:-1 tvg-id="I415.99620.schedulesdirect.org" tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO NACIONAL" , Canal 6 Mty
+#EXTINF:-1 tvg-id="I418.109613.schedulesdirect.org" tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO NACIONAL" , Canal 6 Mty
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
  
 #EXTINF:-1 tvg-id="I223.102406.schedulesdirect.org" tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="MEXICO NACIONAL" , Azteca 7
@@ -104,10 +104,10 @@ https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/VIDEO_5_264000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="NOTICIAS", DW Español
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="NOTICIAS", RT in Spanish
+#EXTINF:-1 tvg-id="I490.69367.schedulesdirect.org" tvg-logo="https://i.imgur.com/KFKktei.png" group-title="NOTICIAS", RT en español
 https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-id="I256.40704.schedulesdirect.org" tvg-logo=" " group-title="NOTICIAS",  EuroNews
+#EXTINF:-1 tvg-id="I256.40704.schedulesdirect.org" tvg-logo=" " group-title="NOTICIAS",  EuroNews en español
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I303.105781.schedulesdirect.org tvg-logo=" " group-title="NOTICIAS", France 24 Español
@@ -220,7 +220,7 @@ http://my.streamerstv.com:25461/job/job/370
 #EXTINF:-1 tvg-id="I170.11006.schedulesdirect.org" tvg-logo=" " group-title="KIDS" , Nick
 http://my.streamerstv.com:25461/job/job/425
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS" , TeenNick
+#EXTINF:-1 tvg-id="I622.72294.schedulesdirect.org" tvg-logo=" " group-title="KIDS" , TeenNick
 http://my.streamerstv.com:25461/job/job/426
 
 #EXTINF:-1 tvg-id="Nickelodeon HD" tvg-logo=" " group-title="KIDS" , Nickelodeon
@@ -305,33 +305,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/#&gid=1&pid=1" group-title="ENTRETENIMIENTO", Telecosta 
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", Canal Claro
-http://186.101.216.211:8000/play/a08e
-
-#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", LIM
-https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", Suceso TV
-https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Mega" tvg-logo=" " group-title="ENTRETENIMIENTO" , MEGA
-http://31.220.41.87:8081/live/es-mega.stream/chunks.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Sarapi TV
-http://209.126.105.158:1935/stv/web/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , TV Puntarenas
-https://cp.sradiotv.com:1936/8076/8076/playlist.m3u8
-
-#EXTINF:-1 type="stream" channelId="-1" group="Rep. Dom." logo="https://3.bp.blogspot.com/-CIIL9YFIXIo/Xb4iX-kPD2I/AAAAAAAAooM/tQnM-j_g_cUzjj9yBr8BdZpgr0dCiOcVwCLcBGAsYHQ/s200/GDM%2BEstudioTV.png" group-title="ENTRETENIMIENTO" , GDM DO
-https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1723234707.m3u8
-
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Cinco TV
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
@@ -356,14 +329,24 @@ https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Multicanal
 https://multicanal.streamseguro.com/hls/streaming.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", FXM
-https://5975e06a1f292.streamlock.net:4443/canal4eldorado/canal4eldorado/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", LIM
+https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", Suceso TV
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Sarapi TV
+http://209.126.105.158:1935/stv/web/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , TV Puntarenas
+https://cp.sradiotv.com:1936/8076/8076/playlist.m3u8
+
+#EXTINF:-1 type="stream" channelId="-1" group="Rep. Dom." logo="https://3.bp.blogspot.com/-CIIL9YFIXIo/Xb4iX-kPD2I/AAAAAAAAooM/tQnM-j_g_cUzjj9yBr8BdZpgr0dCiOcVwCLcBGAsYHQ/s200/GDM%2BEstudioTV.png" group-title="ENTRETENIMIENTO" , GDM DO
+https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1723234707.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/93/b2/93b20146d534d4b089aae90e11bf775f.jpg" group-title="ENTRETENIMIENTO" , VALLEVISION 
 http://stream.mxiptv.org:25461/live/tvabierta/opentv/264.m3u8
-
-
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , DanTV
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
@@ -412,12 +395,12 @@ http://31.220.41.87:8081/live/es-amc.stream/chunks.m3u8
 http://31.220.41.87:8081/live/ES-fox.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TCM HD" tvg-logo=" " group-title="PREMIUM" , TCM España
-http://31.220.41.87:8081/live/ES-tcm.stream/chunks.m3u8
+http://31.220.41.87:8081/live/es-tcm.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TNT HD" tvg-logo=" " group-title="PREMIUM" , TNT España
 http://31.220.41.87:8081/live/es-tnt.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Hollywood HD" tvg-logo=" " group-title="PREMIUM" , Holywood
+#EXTINF:-1 tvg-id="Hollywood HD" tvg-logo=" " group-title="PREMIUM" , Hollywood
 http://31.220.41.87:8081/live/es-hollywood.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Fox Life HD"
@@ -542,7 +525,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e0007
 #EXTINF:-1 tvg-id="5f99a772c54853000797bf18" tvg-logo="" group-title="DEPORTES", Lucha Libre AAA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=5b8fe74b-4cb0-46ce-a07b-cad12af3974b&clientModelNumber=na&deviceDNT=false&deviceId=5b8fe74b-4cb0-46ce-a07b-cad12af3974b&deviceLat=20.9302&deviceLon=-97.4005&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=b30374f1-604e-11eb-a30a-0242ac110002&sid=b30374f1-604e-11eb-a30a-0242ac110002&userId=
 
-#EXTINF:-1tvg- id="M. LaLiga 1 HD" tvg-logo="" group-title="DEPORTES", Movistar Laliga
+#EXTINF:-1tvg- id="M. La Liga 1 HD" tvg-logo="" group-title="DEPORTES", Movistar Laliga
 http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="M. Deportes HD" tvg-logo="" group-title="DEPORTES", Movistar Deportes
@@ -556,18 +539,21 @@ http://212.224.98.204:2200/NL/mlcampeonhd-esp/tracks-v1a1/mono.m3u8?token=mvk
 
 #EXTINF:-1 tvg-id="Eurosport1Espana.fr" tvg-logo="" group-title="DEPORTES", Eurospot 1
 
-#EXTINF:-1 tvg-id="I854.25595.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", ESPN Deportes
+#EXTINF:-1 tvg-id="I249.25595.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", ESPN Deportes
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", ESPN 2
+#EXTINF:-1 tvg-id="I241.19158.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", ESPN 
 http://hdhd.tk:80/francisco/123456/24280
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Fox Sports Deportes
+#EXTINF:-1 tvg-id="I247.37747.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", ESPN 2
+http://hdhd.tk:80/francisco/123456/24280
+
+#EXTINF:-1 tvg-id="I289.61704.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", Fox Deportes
 http://hdhd.tk:80/francisco/123456/22213
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX Sports  LatinoAmerica HD
+#EXTINF:-1 tvg-id="I289.61704.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", FOX Sports 
 
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", FOX Sports 2 LatinoAmerica HD
+#EXTINF:-1 tvg-id="I294.66365.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", FOX Sports 2
 http://hdhd.tk:80/francisco/123456/24294
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN
