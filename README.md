@@ -237,8 +237,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009
 #EXTINF:-1 tvg-id="5d8d08395f39465da6fb3ec4" tvg-logo=" " group-title="KIDS" , Nick Latino
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=37.7510&deviceLon=-97.8220&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=US&sid=537fe437-141b-11eb-85e0-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5f5a09b16cd4ab0007d24fb8" group-title="KIDS" , Pluto TV Kids
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a09b16cd4ab0007d24fb8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4cb362-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=afa8239d-eea1-4295-b421-43f3852ddc10&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="5f5a09b16cd4ab0007d24fb8" group-title="KIDS" , Pluto TV Kid
 
 #EXTINF:-1 tvg-logo=" " group-title="KIDS" , Nick Teen
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=20.9274&deviceLon=-97.3992&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=246f379b-8dc4-11eb-9d6c-0242ac110002&sid=246f379b-8dc4-11eb-9d6c-0242ac110002&userId=
