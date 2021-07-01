@@ -406,9 +406,11 @@ http://31.220.41.87:8081/live/es-tnt.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Hollywood HD" tvg-logo=" " group-title="PREMIUM" , Hollywood
 http://31.220.41.87:8081/live/es-hollywood.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Fox Life HD"
+#EXTINF:-1 tvg-id="Fox Life HD" group-title="PREMIUM" , Fox Life
+http://31.220.41.87:8081/live/esfox-life.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="ParamountNetworkEspana.us"
+#EXTINF:-1 tvg-id="ParamountNetworkEspana.us" group-title="PREMIUM" , Axn
+http://31.220.41.87:8081/live/es-axn.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="M. Acción HD" tvg-logo=" " group-title="PREMIUM" , Movistar Acción
 http://31.220.41.87:8081/live/es-movistar-accion.stream/chunks.m3u8
