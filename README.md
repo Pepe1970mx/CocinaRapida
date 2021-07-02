@@ -212,7 +212,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054ab20a365c70007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=20.4437&deviceLon=-97.3444&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=9c38e017-9581-11eb-9ac7-0242ac110002&sid=9c38e017-9581-11eb-9ac7-0242ac110002&userId=
 
 #EXTINF:-1 tvg-id="I111.101735.schedulesdirect.org" tvg-logo=" " group-title="KIDS" , Cartoon Network 
-http://my.streamerstv.com:25461/job/job/370
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/192062
 
 #EXTINF:-1 tvg-id="I170.11006.schedulesdirect.org" tvg-logo=" " group-title="KIDS" , Nick
 http://my.streamerstv.com:25461/job/job/425
@@ -223,7 +223,7 @@ http://my.streamerstv.com:25461/job/job/426
 #EXTINF:-1 tvg-id="Nickelodeon HD" tvg-logo=" " group-title="KIDS" , Nickelodeon
 
 #EXTINF:-1 tvg-id="I191.16563.schedulesdirect.org" group-title="KIDS" , Disney XD
-http://hdhd.tk:80/francisco/123456/24488
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/192087
 
 #EXTINF:-1 tvg-id="DisneyChannel" group-title="KIDS" , Disney Channels España
 http://31.220.41.87:8081/live/es-disney.stream/chunks.m3u8
@@ -283,9 +283,6 @@ http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", Star channel
 http://my.streamerstv.com:25461/job/job/396
-
-#EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", Star channel 
-http://hdhd.tk:80/francisco/123456/24315
 
 #EXTINF:-1 tvg-id="Neox" tvg-logo="" group-title="ENTRETENIMIENTO", Neox
 http://stream.tvtap.live:8081/live/es-neox.stream/playlist.m3u8
@@ -387,6 +384,9 @@ https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="PREMIUM" , PHTV 
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="PREMIUM" , HBO
+http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/192019
 
 #EXTINF:-1 tvg-id="AMC HD" tvg-logo=" " group-title="PREMIUM" , AMC España
 http://31.220.41.87:8081/live/es-amc.stream/chunks.m3u8
