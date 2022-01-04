@@ -9,14 +9,14 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO NACIONAL" , Las Estrellas
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=17&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Imagen_TV_logo.png/200px-Imagen_TV_logo.png" group-title="MEXICO NACIONAL",  Imagen TV
 
 
 
 #EXTINF:-1 tvg-id="I105.47425.schedulesdirect.org" tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png"group-title="MEXICO NACIONAL" , Canal 5 
-
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=20&format=HLSAD&f=.m3u8
 
 #EXTINF:-1 tvg-id="I415.99620.schedulesdirect.org" tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO NACIONAL" , Canal 45 Tijuana
 
