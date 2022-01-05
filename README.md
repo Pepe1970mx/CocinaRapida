@@ -143,7 +143,8 @@ https://d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil:live.smil/chunklist_b
 #EXTINF:-1 group-title="HUMOR Y VARIEDADES" , Canal 11
 https://d30zjikdv9ntds.cloudfront.net/repretel/canal11/smil:live.smil/playlist.m3u8
 
-
+#EXTINF:-1 group-title="HUMOR Y VARIEDADES" , Caracol tv
+https://mdstrm.com/live-stream-playlist/58d539f1a3ec37fa097a75de.m3u8
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="HUMOR Y VARIEDADES", Telemundo 
 https://v-px.mybtv.net/event/39/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
