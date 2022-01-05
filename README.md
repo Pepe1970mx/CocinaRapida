@@ -131,6 +131,9 @@ https://5ca3e84a76d30.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playl
 
 
 
+#EXTINF:-1 group-title="HUMOR Y VARIEDADES" , Canal 2
+https://d30zjikdv9ntds.cloudfront.net/repretel/canal2/smil:live.smil/chunklist_b698000.m3u8
+
 #EXTINF:-1 group-title="HUMOR Y VARIEDADES" , Teletres
 https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal3.smil/playlist.m3u8
 
