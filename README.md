@@ -543,7 +543,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e0007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=5b8fe74b-4cb0-46ce-a07b-cad12af3974b&clientModelNumber=na&deviceDNT=false&deviceId=5b8fe74b-4cb0-46ce-a07b-cad12af3974b&deviceLat=20.9302&deviceLon=-97.4005&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=b30374f1-604e-11eb-a30a-0242ac110002&sid=b30374f1-604e-11eb-a30a-0242ac110002&userId=
 
 #EXTINF:-1tvg- id="M. La Liga 1 HD" tvg-logo="" group-title="DEPORTES", Movistar Laliga
-http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
+http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 
 #EXTINF:-1 tvg-id="M. Deportes HD" tvg-logo="" group-title="DEPORTES", Movistar Deportes
 http://31.220.41.87:8081/live/es-movistar-deportes.stream/chunks.m3u8
