@@ -128,7 +128,12 @@ https://5ca3e84a76d30.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playl
 
 
 
+#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="HUMOR Y VARIEDADES", Telemundo 
 
+#EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", UniMas
+
+
+#EXTINF:-1  tvg-id="I270.11118.schedulesdirect.org"  tvg-logo=" " group-title="HUMOR Y VARIEDADES", Univision
 
 
 #EXTINF:-1 group-title="HUMOR Y VARIEDADES" , Canal 2
@@ -149,20 +154,12 @@ https://d30zjikdv9ntds.cloudfront.net/repretel/canal11/smil:live.smil/playlist.m
 #EXTINF:-1 group-title="HUMOR Y VARIEDADES" , Caracol tv
 https://mdstrm.com/live-stream-playlist/58d539f1a3ec37fa097a75de.m3u8
 
-#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="HUMOR Y VARIEDADES", Telemundo 
-https://v-px.mybtv.net/event/39/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
-
-#EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", UniMas
-https://v-px.mybtv.net/event/56/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
-
-#EXTINF:-1  tvg-id="I270.11118.schedulesdirect.org"  tvg-logo=" " group-title="HUMOR Y VARIEDADES", Univision
-https://v-px.mybtv.net/event/28/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
-
-#EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES" , EstrellaTV
-https://v-px.mybtv.net/event/45/768x432.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
-
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES" , Ve Plus
 http://190.122.96.187:8888/http/006
+
+#EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES" , EstrellaTV
+
+
 
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Hola TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
@@ -205,6 +202,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009
 https://bamus-spa-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-spanish/CDN/playlist.m3u8?rdid=8f35210d-be26-5e0d-8c57-d0f910026ee7&coppa=false&is_lat=1&content=3dde60b40c0c56758a7c4bf81df47691&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1
 
 
+
+
 #EXTINF:-1 group-title="KIDS" , El Chavo 
 https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
 
@@ -214,8 +213,6 @@ https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/play
 #EXTINF:-1 group-title="KIDS" , Pluto TV Series Retro
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=275a49f5-f05f-11ea-b899-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5dd6ddb30a1d8a000908ed4c" group-title="KIDS" , Pluto TV Cine Familia 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=71f1da86-eee5-11ea-ac99-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 group-title="KIDS" , Bob Esponja
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=42c29115-1329-41fb-9e30-5ea2929ecfe3&clientModelNumber=na&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=41.3888&deviceLon=2.1590&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=ES&serverSideAds=true&sessionID=6bbdefd3-40a4-11eb-8528-0242ac110002&sid=6bbdefd3-40a4-11eb-8528-0242ac110002&userId=
@@ -283,6 +280,9 @@ http://tvretropalmares.com:8090/hls/envivo.m3u8
 #EXTINF:-1 tvg-logo=""  group-title="RETRO" , RetroPlus Series  
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=" "  group-title="RETRO" , Retro Plus Movies
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w458806239.m3u8?WebM3UCL
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="RETRO", TELERED 
 http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
  
@@ -299,14 +299,10 @@ http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", Star channel
 http://my.streamerstv.com:25461/job/job/396
 
-#EXTINF:-1 tvg-id="Neox" tvg-logo="" group-title="ENTRETENIMIENTO", Neox
-http://stream.tvtap.live:8081/live/es-neox.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV-MUNDO 1 
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", Telexito
-https://v-sd.mybtv.net/event/519/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 
 #EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
@@ -323,9 +319,9 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Gen TV
 https://videohd.live:19360/8010/8010.m3u8
 
-#EXTINF:-1 tvg-logo=" "  group-title="ENTRETENIMIENTO" , Retro Plus Movies
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w458806239.m3u8?WebM3UCL
 
+#EXTINF:-1 tvg-id="5dd6ddb30a1d8a000908ed4c" group-title="ENTRETENIMIENTO" , Pluto TV Cine Familia 
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=71f1da86-eee5-11ea-ac99-0242ac110002&userId=&serverSideAds=true
 
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Rakuten Family
@@ -382,12 +378,6 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="PREMIUM" , FM TV-MUNDO 2
-https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/FMHOT-TV-tvtolive.com_.jpg"group-title="PREMIUM" , FM TV-MUNDO 3
-https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Cáscara TV
 https://ss5.domint.net:3036/ctv_str/cascaratv/playlist.m3u8
 
@@ -403,26 +393,7 @@ https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="PREMIUM" , HBO
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/192019
 
-#EXTINF:-1 tvg-id="AMC HD" tvg-logo=" " group-title="PREMIUM" , AMC España
-http://31.220.41.87:8081/live/es-amc.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Fox HD" tvg-logo=" " group-title="PREMIUM" , Fox España
-http://31.220.41.87:8081/live/ES-fox.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="TCM HD" tvg-logo=" " group-title="PREMIUM" , TCM España
-http://31.220.41.87:8081/live/es-tcm.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="TNT HD" tvg-logo=" " group-title="PREMIUM" , TNT España
-http://31.220.41.87:8081/live/es-tnt.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Hollywood HD" tvg-logo=" " group-title="PREMIUM" , Hollywood
-http://31.220.41.87:8081/live/es-hollywood.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Fox Life HD" group-title="PREMIUM" , Fox Life
-http://31.220.41.87:8081/live/esfox-life.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="ParamountNetworkEspana.us" group-title="PREMIUM" , Axn
-http://31.220.41.87:8081/live/es-axn.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="M. Acción HD" tvg-logo=" " group-title="PREMIUM" , Movistar Acción
 http://31.220.41.87:8081/live/es-movistar-accion.stream/chunks.m3u8
