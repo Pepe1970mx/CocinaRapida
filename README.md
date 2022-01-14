@@ -151,6 +151,9 @@ https://d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil:live.smil/chunklist_b
 #EXTINF:-1 group-title="HUMOR Y VARIEDADES" , Canal 11
 https://d30zjikdv9ntds.cloudfront.net/repretel/canal11/smil:live.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="HUMOR Y VARIEDADES" , Canal 12
+https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/chunklist_b512000.m3u8
+
 #EXTINF:-1 group-title="HUMOR Y VARIEDADES" , Caracol tv
 https://mdstrm.com/live-stream-playlist/58d539f1a3ec37fa097a75de.m3u8
 
@@ -158,8 +161,10 @@ https://mdstrm.com/live-stream-playlist/58d539f1a3ec37fa097a75de.m3u8
 http://190.122.96.187:8888/http/006
 
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES" , EstrellaTV
+https://dai.google.com/linear/hls/pa/event/CvTZNYjrRC2HJU4io--aAA/stream/64aab0fc-8dd5-480c-a838-89a013ece419:MRN2/master.m3u8
 
-
+#EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES" , MicroVision
+https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Hola TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
@@ -310,8 +315,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/#&gid=1&pid=1" group-title="ENTRETENIMIENTO", Telecosta 
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Go Máx Premierer
-https://stmvideo1.livecastv.com/iptvgo/iptvgo/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", TN8
+https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Cinco TV
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
@@ -530,7 +535,7 @@ http://212.224.98.204:2200/NL/mlcampeonhd-esp/tracks-v1a1/mono.m3u8?token=mvk
 #EXTINF:-1 tvg-id="I249.25595.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", ESPN Deportes
 
 #EXTINF:-1 tvg-id="I241.19158.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", ESPN 
-http://hdhd.tk:80/francisco/123456/24280
+http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-id="I247.37747.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", ESPN 2
 http://hdhd.tk:80/francisco/123456/24280
