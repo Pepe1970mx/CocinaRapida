@@ -136,11 +136,21 @@ https://5ca3e84a76d30.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playl
 #EXTINF:-1  tvg-id="I270.11118.schedulesdirect.org"  tvg-logo=" " group-title="HUMOR Y VARIEDADES", Univision
 
 
+#EXTINF:-1 group-title="HUMOR Y VARIEDADES" , ATV
+https://d2tr4gdfol9ja.cloudfront.net/atv/atv.smil/.m3u8
+
+#EXTINF:-1 group-title="HUMOR Y VARIEDADES" , 
+
+#EXTINF:-1 group-title="HUMOR Y VARIEDADES" , 
+
 #EXTINF:-1 group-title="HUMOR Y VARIEDADES" , Canal 2
 https://d30zjikdv9ntds.cloudfront.net/repretel/canal2/smil:live.smil/chunklist_b698000.m3u8
 
 #EXTINF:-1 group-title="HUMOR Y VARIEDADES" , Teletres
 https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal3.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="HUMOR Y VARIEDADES" , Canal 4
+
 
 #EXTINF:-1 group-title="HUMOR Y VARIEDADES" , Telesiete
 https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal7.smil/playlist.m3u8
