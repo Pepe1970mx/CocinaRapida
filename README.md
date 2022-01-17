@@ -169,6 +169,9 @@ https://d30zjikdv9ntds.cloudfront.net/repretel/canal11/smil:live.smil/playlist.m
 #EXTINF:-1 group-title="HUMOR Y VARIEDADES" , Canal 12
 https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/chunklist_b512000.m3u8
 
+#EXTINF:-1 group-title="HUMOR Y VARIEDADES" , eltrece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="HUMOR Y VARIEDADES" , Caracol tv
 https://mdstrm.com/live-stream-playlist/58d539f1a3ec37fa097a75de.m3u8
 
