@@ -18,8 +18,6 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvr
 #EXTINF:-1 tvg-id="I105.47425.schedulesdirect.org" tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png"group-title="MEXICO NACIONAL" , Canal 5 
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=rbnguvrzud60mi5&lchId=20&format=HLSAD&f=.m3u8
 
-#EXTINF:-1 tvg-id="I415.99620.schedulesdirect.org" tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO NACIONAL" , Canal 45 Tijuana
-
 
 #EXTINF:-1 tvg-id="I418.109613.schedulesdirect.org" tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO NACIONAL" , Canal 6 Mty
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
@@ -63,19 +61,26 @@ https://5fe2654d6127d.streamlock.net:443/canal22/smil:canal22.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8O0WxdF.png" group-title="MEXICO NACIONAL" , Radio y Television de Veracruz (RTV)
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w1862368642.m3u8
 
-
-
-#EXTINF:-1 tvg-logo=" " group-title="MEXICO REGIONAL" , RCG
+#EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL" , RCG
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MEXICO REGIONAL", TV Lobos
+#EXTINF:-1 tvg-logo="" group-title="MEXICO NACIONAL", TV Lobos
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MEXICO REGIONAL", TVP
+#EXTINF:-1 tvg-logo="" group-title="MEXICO NACIONAL", TVP
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-logo=" " group-title="MEXICO REGIONAL" , 15TV 
+#EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL" , 15TV 
 https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w2102162107.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL" , Tele Play
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL" , Jalisco TV
+https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/chunklist_w177708400.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL" , TvMar
+https://5ca3e84a76d30.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8
 
 
 
@@ -116,22 +121,12 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/4/4b/Mexiquense_tv.jpg/revision/latest?cb=20170525194804&path-prefix=es" group-title="NOTICIAS" , Mexiquense Noticias 
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="MEXICO REGIONAL" , Tele Play
-https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/chunks.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="MEXICO REGIONAL" , Jalisco TV
-https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/chunklist_w177708400.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="MEXICO REGIONAL" , TvMar
-https://5ca3e84a76d30.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8
-
 
 
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="HUMOR Y VARIEDADES", Telemundo 
 
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", UniMas
-
 
 #EXTINF:-1  tvg-id="I270.11118.schedulesdirect.org"  tvg-logo=" " group-title="HUMOR Y VARIEDADES", Univision
 
@@ -157,11 +152,11 @@ https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal3.smil/playlist.m3u8
 #EXTINF:-1 group-title="HUMOR Y VARIEDADES" , Canal 4
 https://secure-video.tcsgo.com/tcshd/index.m3u8
 
-#EXTINF:-1 group-title="HUMOR Y VARIEDADES" , Telesiete
-https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal7.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="HUMOR Y VARIEDADES" , Canal 6
 https://d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil:live.smil/chunklist_b348000.m3u8
+
+#EXTINF:-1 group-title="HUMOR Y VARIEDADES" , Telesiete
+https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal7.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="HUMOR Y VARIEDADES" , Canal 11
 https://d30zjikdv9ntds.cloudfront.net/repretel/canal11/smil:live.smil/playlist.m3u8
@@ -188,7 +183,6 @@ https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Telemicro
-https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", TV Salud
 https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
@@ -250,18 +244,15 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea93ffcf9450007
 http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/192062
 
 #EXTINF:-1 tvg-id="I170.11006.schedulesdirect.org" tvg-logo=" " group-title="KIDS" , Nick
-http://my.streamerstv.com:25461/job/job/425
 
 #EXTINF:-1 tvg-id="I622.72294.schedulesdirect.org" tvg-logo=" " group-title="KIDS" , TeenNick
-http://my.streamerstv.com:25461/job/job/426
+
 
 #EXTINF:-1 tvg-id="Nickelodeon HD" tvg-logo=" " group-title="KIDS" , Nickelodeon
 
 #EXTINF:-1 tvg-id="I191.16563.schedulesdirect.org" group-title="KIDS" , Disney XD
-http://dmtn.tv:8080/gen-ress/TQK2KKVB4P/192087
 
 #EXTINF:-1 tvg-id="DisneyChannel" group-title="KIDS" , Disney Channels España
-http://31.220.41.87:8081/live/es-disney.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" tvg-logo=" " group-title="KIDS" , Nick Clásico
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.9348&deviceLon=-97.4117&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=3cffdfd2-0d84-11eb-9e7d-0242ac110002&userId=&serverSideAds=true
@@ -320,7 +311,6 @@ http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="ENTRETENIMIENTO", Star channel
-http://my.streamerstv.com:25461/job/job/396
 
 
 #EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV-MUNDO 1 
