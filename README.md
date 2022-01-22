@@ -29,7 +29,7 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="MEXICO NACIONAL" , La Octava
-
+https://www.dailymotion.com/cdn/live/video/x80mow9.m3u8?sec=DmTxzemBViHPgWCPzmvxV8pk7dK1lKuaGVQ6752gb9ROZ6iLMFBuDHjQPS5KBMhl_A2tMPoVYaEJg_meCGgccQ&dmTs=527845&dmV1st=76E23843A408968B98F2FB8495A24197
  
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EM8Ks47kwqSGMiH4twcCBgAAAA&pid=Api&P=0&w=175&h=43" tvg-id="I222.97020.schedulesdirect.org" group-title="MEXICO NACIONAL", Canal Nu9ve
 
