@@ -82,17 +82,17 @@ https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/chunklist_w17
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL" , TvMar
 https://5ca3e84a76d30.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL" , RTC
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="NOTICIAS", Foro TV 
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1048_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qO0nkZz.png" group-title="NOTICIAS", ADN 40 
-https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
+https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/ajJQI39aQd69Omr0hRZw9Q/stream/dcdc0cba-0862-420e-9b52-60ceb7b09e28:TUL/master.m3u8?uid=pGiAsS0r6mGIZOLanXKM1gf3rab4t0S3&sid=8O6rXbUTHuo8vx8yQmLhDjyOfOzpaZW1&pid=rDtXqORQ1IVbVpLzTpiFHqjfgL56BrE2&ref=https%3A%2F%2Flive.adn40.mx%2F&without_cookies=false&dnt=true&ote=1642910127112&ot=rNiFYMiraDTPqqkPu91x-w&es=us-b4-p-e-ft6.cdn.mdstrm.com&proto=https&pz=us&aid=5fea0f3673148d5d52cf6a76
 
 #EXTINF:-1 tvg-logo="http://puu.sh/mwdSw/26eea6807c.png" group-title="NOTICIAS" , Milenio TV 
-https://v-sd.mybtv.net/event/521/768x432.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+https://rr5---sn-0opoxu-8n5e.googlevideo.com/videoplayback?expire=1642844950&ei=tn7rYenUDIy7igSalJaQBA&ip=187.135.194.189&id=Y-nHI83uCzk.1&itag=140&source=yt_live_broadcast&requiressl=yes&mh=4x&mm=44%2C29&mn=sn-0opoxu-8n5e%2Csn-9gv7enls&ms=lva%2Crdu&mv=m&mvi=5&pl=23&gcr=mx&initcwndbps=220000&vprv=1&live=1&hang=1&noclen=1&mime=audio%2Fmp4&ns=AnFDjXTKmacIRdJmXLVjGmwG&gir=yes&mt=1642823085&fvip=5&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=_ju-UIUt9ppG6Q&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIhAO2P7AoknV-v2YJDYsd0iqwFleQ8kmjv4jkIlGbOXrwmAiA2nSrA124_T11EMuI9r1w5A0pGKj14ZasaLUZ8GWWvoA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgQNuwX8VNNQmsijoOGmVw9mIO4XVSg7Tmbi0BF_1AxG8CIBv72brnN5NyW6WW5_kQtQ82OOeRCC46aiSB4BCiHtNz&alr=yes&cpn=af92sXuW8cTXfgCG&cver=1.20220119.01.00&sq=1548420&rn=15&rbuf=12833
 
 #EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="NOTICIAS" , Teleformula
 https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
