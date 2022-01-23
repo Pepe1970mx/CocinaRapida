@@ -546,13 +546,13 @@ http://212.224.98.204:2200/NL/mlcampeonhd-esp/tracks-v1a1/mono.m3u8?token=mvk
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-id="I247.37747.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", ESPN 2
-http://hdhd.tk:80/francisco/123456/24280
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/47678
 
 #EXTINF:-1 tvg-id="I289.61704.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", Fox Deportes
 http://hdhd.tk:80/francisco/123456/22213
 
 #EXTINF:-1 tvg-id="I289.61704.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", FOX Sports 
-
+http://compitv.info:8080/Ulises45/gH8ZpaSLqx/205202
 
 #EXTINF:-1 tvg-id="I294.66365.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", FOX Sports 2
 http://hdhd.tk:80/francisco/123456/24294
