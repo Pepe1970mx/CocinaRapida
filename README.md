@@ -174,7 +174,7 @@ https://mdstrm.com/live-stream-playlist/58d539f1a3ec37fa097a75de.m3u8
 http://190.122.96.187:8888/http/006
 
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES" , EstrellaTV
-https://dai.google.com/linear/hls/pa/event/CvTZNYjrRC2HJU4io--aAA/stream/64aab0fc-8dd5-480c-a838-89a013ece419:MRN2/master.m3u8
+https://estrellatv-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES" , MicroVision
 https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8
