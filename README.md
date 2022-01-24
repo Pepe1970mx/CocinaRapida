@@ -276,14 +276,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60218c2a32f9c40007
 
 
 
-#EXTINF:-1 tvg-logo=" " group-title="RETRO" , LRO TV
-https://tv.streamingchilenos.com:1936/8020/8020/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo=" " group-title="RETRO" , Canal 9
-https://cootv.cootel.com.ni:443/streams/d/SSLCH09-HD-CVS/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="RETRO" , Dreiko TV 
-https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8?PlaylistM3UCL
+https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="RETRO" , Retro Play
 https://paneltv.online:1936/8138/8138/playlist.m3u8?PlaylistM3UCL
