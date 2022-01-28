@@ -444,6 +444,9 @@ https://contracorriente-canalfeelgood-1-es.samsung.wurl.com/manifest/playlist.m3
 #EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Rakuten Accion
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
 
+
+
+
 #EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , Pluto TV Cine Clásico
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=21fbbb36-7c3d-40f3-8e7c-09b2a2486cb7&clientModelNumber=na&deviceDNT=false&deviceId=21fbbb36-7c3d-40f3-8e7c-09b2a2486cb7&deviceLat=20.5238&deviceLon=-97.4557&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=true&sessionID=cd26eded-cb2c-11eb-81a6-0242ac110002&sid=cd26eded-cb2c-11eb-81a6-0242ac110002&userId=
 
