@@ -139,6 +139,9 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/atv.smil/.m3u8
 #EXTINF:-1 group-title="HUMOR Y VARIEDADES" , TCS
 https://secure-video.tcsgo.com/tcshd/index.m3u8
 
+#EXTINF:-1 group-title="HUMOR Y VARIEDADES" , Central TV
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+
 #EXTINF:-1 group-title="HUMOR Y VARIEDADES" , TVN
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
 
