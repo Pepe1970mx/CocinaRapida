@@ -40,7 +40,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=21&f=HLSAD&s=hkc2
 https://quierotvlive.tk/httplive/playlist_playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="MEXICO NACIONAL", Canal Once
-https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
+https://live2.canaloncelive.tv/livepkgr3/cepro/.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL", Canal 12 Tijuana
 
