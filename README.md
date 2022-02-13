@@ -132,6 +132,8 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 
 #EXTINF:-1  tvg-id="I270.11118.schedulesdirect.org"  tvg-logo=" " group-title="HUMOR Y VARIEDADES", Univision
 
+#EXTINF:-1 group-title="HUMOR Y VARIEDADES" , CityTV
+https://streannlive-lh.akamaihd.net/i/Citytv_1@875433/master.m3u8?customtoken=ea87e2c4-3c23-4e15-bb7c-a9a7466a2df5&hdnts=exp=1644778025~acl=*~hmac=c33faf17926e66452b9d8bd026490df539560b8e4f5ab4b5aa93bac394401b00&AkamaiAnalytics_debug=1&set-segment-duration=smoothest&dw=3600&resellerId=5d5f122d2cdcdc3478f9c924
 
 #EXTINF:-1 group-title="HUMOR Y VARIEDADES" , ATV
 https://d2tr4gdfol9ja.cloudfront.net/atv/atv.smil/.m3u8
