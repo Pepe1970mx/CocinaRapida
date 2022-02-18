@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="EPG_url"
+#EXTM3U 
 
 
 #EXTINF:-1 tvg-id="I83.46607.schedulesdirect.org" tvg-logo=" " group-title="MEXICO NACIONAL", Azteca Uno
