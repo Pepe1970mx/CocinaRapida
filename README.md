@@ -126,9 +126,10 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 
 
 
-#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="HUMOR Y VARIEDADES", Telemundo 
+#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="HUMOR Y VARIEDADES", Distrito Comedia
 
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", UniMas
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=78&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
 #EXTINF:-1  tvg-id="I270.11118.schedulesdirect.org"  tvg-logo=" " group-title="HUMOR Y VARIEDADES", Univision
 
