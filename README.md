@@ -127,14 +127,10 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="HUMOR Y VARIEDADES", Distrito Comedia
-
-#EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", UniMas
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=78&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
-#EXTINF:-1  tvg-id="I270.11118.schedulesdirect.org"  tvg-logo=" " group-title="HUMOR Y VARIEDADES", Univision
-
-#EXTINF:-1 group-title="HUMOR Y VARIEDADES" , CityTV
-https://streannlive-lh.akamaihd.net/i/Citytv_1@875433/master.m3u8?customtoken=ea87e2c4-3c23-4e15-bb7c-a9a7466a2df5&hdnts=exp=1644778025~acl=*~hmac=c33faf17926e66452b9d8bd026490df539560b8e4f5ab4b5aa93bac394401b00&AkamaiAnalytics_debug=1&set-segment-duration=smoothest&dw=3600&resellerId=5d5f122d2cdcdc3478f9c924
+#EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png" group-title="Pluto_MX",Entretenimiento: Pluto TV Series Latinas
+https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=afc4be5c-ad4f-11eb-a2fe-0242ac110002
 
 #EXTINF:-1 group-title="HUMOR Y VARIEDADES" , ATV
 https://d2tr4gdfol9ja.cloudfront.net/atv/atv.smil/.m3u8
@@ -617,6 +613,10 @@ http://dimapro.cz:8080/00:1A:79:16:F9:51/ziajdjjfdifjd64646/38624
 
 #EXTINF:-1 tvg-logo="" group-title="MUSICA", MTV Hits
 http://dimapro.cz:8080/00:1A:79:16:F9:51/ziajdjjfdifjd64646/501
+
+
+#EXTINF:-1 tvg-logo="" group-title="MUSICA", MTV Summers
+https://stitcher.pluto.tv/stitch/hls/channel/6087c6c5db549e0007eead39/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=afc4be5c-ad4f-11eb-a2fe-0242ac110002
 
 #EXTINF:-1 tvg-id="5d3609cd6a6c78d7672f2a81" group-title="MUSICA", MTV Block Party
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=868&deviceId=5d3609cd6a6c78d7672f2a81&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
