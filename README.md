@@ -153,6 +153,8 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=78&f=HLSAD&s=hkc2
 https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=afc4be5c-ad4f-11eb-a2fe-0242ac110002
 
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES" , Nuestra Visión 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6690befbdf780007f78158/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d880-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=26dab85a-c1e2-4023-9cde-864e1c0d5f94&userId=&serverSideAds=true
+
 
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", TN8
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
@@ -306,8 +308,15 @@ https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="RETRO", Alf
 https://srv5.zcast.com.br/alf/alf/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="RETRO", ACS Network
+https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="RETRO" , Dreiko TV 
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" , TeleRetro
+https://tvdatta.com:3484/hybrid/play.m3u8
+
 
 #EXTINF:-1 tvg-logo=" " group-title="RETRO" , Retro Play
 https://paneltv.online:1936/8138/8138/playlist.m3u8
@@ -424,10 +433,8 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="PREMIUM" , PHTV 
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SERIES Y PELICULAS" , HBO
-
-
-
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="SERIES Y PELICULAS" , Planeta tv Movies
+https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
 
 #EXTINF:-1 tvg-id="M. Acción HD" tvg-logo=" " group-title="SERIES Y PELICULAS" , Movistar Acción
 http://31.220.41.87:8081/live/es-movistar-accion.stream/chunks.m3u8
