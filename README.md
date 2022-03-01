@@ -32,7 +32,7 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="MEXICO NACIONAL" , La Octava
-https://www.dailymotion.com/cdn/live/video/x80mow9.m3u8?sec=DmTxzemBViHPgWCPzmvxV8pk7dK1lKuaGVQ6752gb9ROZ6iLMFBuDHjQPS5KBMhl_A2tMPoVYaEJg_meCGgccQ&dmTs=527845&dmV1st=76E23843A408968B98F2FB8495A24197
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
  
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EM8Ks47kwqSGMiH4twcCBgAAAA&pid=Api&P=0&w=175&h=43" tvg-id="I222.97020.schedulesdirect.org" group-title="MEXICO NACIONAL", Canal Nu9ve
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=24&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
@@ -44,8 +44,13 @@ https://quierotvlive.tk/httplive/playlist_playlist.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="MEXICO NACIONAL", Canal Once
 https://live2.canaloncelive.tv/livepkgr3/cepro/.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL", Canal 12 Tijuana
 
+#EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="MEXICO NACIONAL", Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL", Ultra Aguascalientes
+https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="MEXICO NACIONAL", MVS TV
 https://content.uplynk.com/channel/e7825db621c24c99ac9d389e2d06cd7c.m3u8
@@ -89,6 +94,11 @@ https://5ca3e84a76d30.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playl
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL" , RTC
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL" , Vision 4
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL" , Pop & Dance
+https://5cc309e93b721.streamlock.net:443/8490/8490/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="NOTICIAS", Foro TV 
