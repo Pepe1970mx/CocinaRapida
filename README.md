@@ -593,8 +593,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9847111
 
 
 
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA", NickMusic
-http://dimapro.cz:8080/00:1A:79:16:F9:51/ziajdjjfdifjd64646/18509
+#EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="MUSICA", Yo! MTV
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_375.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA", Vevo Latino
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
@@ -614,16 +614,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e
 #EXTINF:-1 tvg-id="" tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="MUSICA", MTV Biggest Pop
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_375.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSICA", MTV Music
-http://dimapro.cz:8080/00:1A:79:16:F9:51/ziajdjjfdifjd64646/38625
-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA", MTV Live
-http://dimapro.cz:8080/00:1A:79:16:F9:51/ziajdjjfdifjd64646/38624
-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA", MTV Hits
-http://dimapro.cz:8080/00:1A:79:16:F9:51/ziajdjjfdifjd64646/501
-
-
 #EXTINF:-1 tvg-logo="" group-title="MUSICA", MTV Summers
 https://stitcher.pluto.tv/stitch/hls/channel/6087c6c5db549e0007eead39/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=afc4be5c-ad4f-11eb-a2fe-0242ac110002
 
@@ -635,11 +625,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae79fa46e170007
 
 
 
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA", MC Music Hits 
-http://hdhd.tk:80/francisco/123456/23376
-
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA", MC Music Pop
-http://hdhd.tk:80/francisco/123456/23387
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA",  MUSIC TOP
 http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
@@ -658,10 +643,6 @@ http://hitmusic.hu/hitmusic.m3u8
 
 #EXTINF:-1 tvg-logo" "group-title="MUSICA" , Loop Party
 https://aa25f9002c724666a6e1e9402e78f94f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopParty/playlist.m3u8
-
-
-
-
 
 #EXTINF:-1 group-title="MUSICA", Flash
 https://flash-plex.amagi.tv/flash/master_1.m3u8
@@ -689,7 +670,7 @@ http://159.69.56.148:25461/live/PuroRock/PuroRock24-7.com/25.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-id="600ae79fa46e17000794e84c" tvg-logo=" " group-title="MUSICA RETRO" , MTV Classic
-http://hdhd.tk:80/Dale/Dale/300
+
 
 #EXTINF:-1 tvg-id="6076cd1df8576d0007c82193" tvg-logo=" " group-title="MUSICA RETRO" , VH1 Classics
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=41.3870&deviceLon=2.1701&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=ES&serverSideAds=true&sessionID=3a5e98f7-ac58-11eb-b429-0242ac110002&sid=3a5e98f7-ac58-11eb-b429-0242ac110002&userId=
@@ -699,9 +680,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf9
 
 #EXTINF:-1 tvg-id="5fd7bb1f86d94a000796e2c2" tvg-logo=" " group-title="MUSICA RETRO", Vevo '90s
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-logo="https://user-images.githubusercontent.com/60438921/73798597-3bd7ac00-47ee-11ea-9b7b-27c01aeeba84.png" group-title="MUSICA", Yo! MTV
-https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_375.m3u8
 
 #EXTINF:-1 tvg-http://retromusic.cz/wp-content/uploads/2017/08/retro-logo.png="AXN" group-title="MUSICA RETRO" , Retro TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
