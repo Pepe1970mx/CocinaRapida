@@ -43,7 +43,7 @@ https://quierotvlive.tk/httplive/playlist_playlist.m3u8
 https://live2.canaloncelive.tv/livepkgr3/cepro/.m3u8
 
 #EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="MEXICO NACIONAL", MVS TV
-https://content.uplynk.com/channel/e7825db621c24c99ac9d389e2d06cd7c.m3u8
+https://www.dailymotion.com/cdn/live/video/x7urqme.m3u8?sec=wka0WksqMgYggSHtzuaXE_UTCSY6SeOs_-jCXYZio0DMOJVMEpaP1Qqt1OdK5hOS&dmTs=97171&dmV1st=2469202A64C552AE3138CC031104F19D&progressive=1
 
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL" , Canal 14
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
