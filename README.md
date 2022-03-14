@@ -342,8 +342,8 @@ https://srv5.zcast.com.br/alf/alf/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="RETRO" , Dreiko TV 
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="RETRO" , Retro Play
-https://paneltv.online:1936/8138/8138/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" , Retro Play TV
+https://v4.tustreaming.cl/retroplaytv/index.m3u8
 
 #EXTINF:-70 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="RETRO", RETRO PLUS TV CINE
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
