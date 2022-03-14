@@ -246,7 +246,7 @@ https://bamus-spa-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-spanish/CD
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="NIÑOS Y ADOLESCENTES", Star channel
 
 #EXTINF:-58 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/1200px-El_Chavo_%28simple_logo%29.svg.png" group-title="NIÑOS Y ADOLESCENTES", EL CHAVO
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1240002231.m3u8
 
 #EXTINF:-55 tvg-logo="https://assets.stickpng.com/images/5a05b6b79cf05203c4b6045f.png" group-title="NIÑOS Y ADOLESCENTES", LOS SIMPSONS
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
@@ -333,7 +333,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
 
 #EXTINF:-70 tvg-logo="https://i.postimg.cc/Mpb4sLxr/telecl-sicos.png" group-title="RETRO", TELECLÁSICOS
-https://tvdatta.com:3484/hybrid/play.m3u8
+https://tvdatta.com:3574/stream/play.m3u8;
 
 #EXTINF:-70 tvg-logo="https://i.postimg.cc/8CTfQL7m/tvretro.png" group-title="RETRO", TV RETRO PALMARES
 http://tvretropalmares.com:8090/hls/envivo.m3u8
