@@ -251,6 +251,9 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w12400
 #EXTINF:-55 tvg-logo="https://assets.stickpng.com/images/5a05b6b79cf05203c4b6045f.png" group-title="NIÑOS Y ADOLESCENTES", LOS SIMPSONS
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jnp" group-title="NIÑOS Y ADOLESCENTES", Fox Kid
+http://foxkidsjahh20.duckdns.org/hls/stream/index.m3u8
+
 #EXTINF:-50 tvg-logo="https://i.postimg.cc/HWMp9tMB/magic.png" group-title="NIÑOS Y ADOLESCENTES", MAGIC KIDS
 https://live.flote.app/f7a82d82-4688-4627-ad91-d0211b29346a/index.m3u8
 
