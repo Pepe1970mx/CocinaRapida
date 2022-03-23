@@ -347,6 +347,10 @@ https://srv5.zcast.com.br/alf/alf/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="RETRO" , Dreiko TV 
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" , Eva Retro
+https://stmv2.voxtvhd.com.br/evaretro/evaretro/playlist.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="RETRO" , Retro Play TV
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
 
