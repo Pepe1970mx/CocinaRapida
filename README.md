@@ -148,6 +148,9 @@ https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-90 tvg-logo="https://i.postimg.cc/sXvS8DZc/telemundoaldia.jpg" group-title="NOVELAS Y TALKSHOWS", TELEMUNDO 
 http://5gfksa.ltd:2052/334455/554433/81124
 
+#EXTINF:-90 tvg-logo="https://i.postimg.cc/sXvS8DZc/telemundoaldia.jpg" group-title="NOVELAS Y TALKSHOWS", TELEMUNDO
+https://h2.ustvgo.la/Telemundo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDIyIDM6MjI6NTUgQU0maGFzaF92YWx1ZT1FdDRTZ1Y0azBHVmc0TVorL2xqK3FBPT0mdmFsaWRtaW51dGVzPTI0MA==
+
 #EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", TN8
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 
