@@ -1,10 +1,10 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml"
 
-#EXTM3U x-tvg-url="https://i.mjh.nz/Plex/all.xml.gz"
+#EXTM3U x-tvg-url="https://i.mjh.nz/Plex/all.xml"
 
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 
-#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml.gz"
+#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml"
 
 
 #EXTINF:-1 tvg-id="I83.46607.schedulesdirect.org" tvg-logo=" " group-title="MEXICO NACIONAL", Azteca Uno
