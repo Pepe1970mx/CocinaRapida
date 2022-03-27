@@ -747,12 +747,6 @@ https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="MUSICA ROCK" , Larock22 
 https://cootv.cootel.com.ni/streams/d/SSLCH22-HD-VWT/playlist.m3u8
  
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA ROCK" , Puro Rock
-http://159.69.56.148:25461/live/PuroRock/PuroRock24-7.com/25.m3u8?PlaylistM3UCL
-
-
-
-#EXTINF:-1 tvg-id="600ae79fa46e17000794e84c" tvg-logo=" " group-title="MUSICA RETRO" , MTV Classic
 
 
 #EXTINF:-1 tvg-id="6076cd1df8576d0007c82193" tvg-logo=" " group-title="MUSICA RETRO" , VH1 Classics
