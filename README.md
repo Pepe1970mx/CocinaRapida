@@ -2,7 +2,7 @@
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/Plex/all.xml"
 
-#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/esp.xml"
+#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml"
 
 
 #EXTINF:-1 tvg-id="I83.46607.schedulesdirect.org" tvg-logo=" " group-title="MEXICO NACIONAL", Azteca Uno
