@@ -203,7 +203,7 @@ http://190.122.96.187:8888/http/006
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0eda4e0-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3894e758-2b2d-4cfc-8014-66546eaf7d74&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WzSvkjXB/canelatv.png" group-title="NOVELAS Y TALKSHOWS", CANELA TV
-https://1757bd85f4304a01a89e5b299efa5994.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_CanelaTV/playlist.m3u8?ads.wurl_channel=652&ads.wurl_name=CanelaTV&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=HSmnzv7RkgzxRwq8rqJe&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=HSmnzv7RkgzxRwq8rqJe&custom_7=5f5132e362fe160040f26c18
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTKBqrKs/13.png" group-title="NOVELAS Y TALKSHOWS", 13 TELESERIES
 https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
