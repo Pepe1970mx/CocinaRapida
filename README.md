@@ -6,9 +6,6 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=126&f=HLSAD&s=hkc
 #EXTINF:-1 tvg-id="I83.46607.schedulesdirect.org" tvg-logo=" " group-title="MEXICO NACIONAL", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="MEXICO NACIONAL", Las estrellas
-http://45.236.175.21:8000/play/a0ij
-
 #EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="MEXICO NACIONAL" , Las Estrellas
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=17&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
@@ -20,11 +17,9 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=2298&f=HLSAD&s=hk
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=20&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
 
-#EXTINF:-1 tvg-id="I105.47425.schedulesdirect.org" tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png"group-title="MEXICO NACIONAL" , Canal 5 
-http://rayodigital.site:8080/RafaNozal/WbGBRZjmAht5/791
-
-#EXTINF:-1 tvg-id="I418.109613.schedulesdirect.org" tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO NACIONAL" , Canal 6 Mty
+#EXTINF:-1 tvg-id="I418.109613.schedulesdirect.org" tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO NACIONAL" , multimedios
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
  
 #EXTINF:-1 tvg-id="I223.102406.schedulesdirect.org" tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="MEXICO NACIONAL" , Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
@@ -32,9 +27,7 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="I4.104892.schedulesdirect.org" tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="MEXICO NACIONAL" , A MAS
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="MEXICO NACIONAL" , La Octava
-http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EM8Ks47kwqSGMiH4twcCBgAAAA&pid=Api&P=0&w=175&h=43" tvg-id="I222.97020.schedulesdirect.org" group-title="MEXICO NACIONAL", Canal Nu9ve
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=17&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
@@ -66,20 +59,11 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w1862368642.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL" , RCG
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MEXICO NACIONAL", TV Lobos
-http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="MEXICO NACIONAL", TVP
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL" , 15TV 
 https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w2102162107.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL" , Tele Play
-https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/chunks.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL" , Jalisco TV
-https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/chunklist_w177708400.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL" , TvMar
 https://5ca3e84a76d30.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8
@@ -87,11 +71,6 @@ https://5ca3e84a76d30.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playl
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL" , RTC
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL" , Vision 4
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL" , Pop & Dance
-https://5cc309e93b721.streamlock.net:443/8490/8490/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="NOTICIAS", Foro TV 
@@ -131,12 +110,9 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="NOVELAS Y TALKSHOWS" , Las Estrellas
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=17&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
-
-
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="NOVELAS Y TALKSHOWS", Distrito Comedia
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=78&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+
 
 #EXTINF:-1 tvg-id="60492bb931054f00073c0b4e" tvg-chno="942" tvg-logo="https://images.pluto.tv/channels/60492bb931054f00073c0b4e/colorLogoPNG.png" group-title="NOVELAS Y TALKSHOWS",Sony Canal Comedias
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492bb931054f00073c0b4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -151,48 +127,20 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6690befbdf780007f781
 #EXTINF:-1 tvg-id="5ffe17e3d765170007c3a4fe" tvg-chno="118" tvg-logo="https://images.pluto.tv/channels/5ffe17e3d765170007c3a4fe/colorLogoPNG.png" group-title="NOVELAS Y TALKSHOWS",Pluto TV España
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffe17e3d765170007c3a4fe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-id="60492ee6375a3900079a158c" tvg-chno="966" tvg-logo="https://images.pluto.tv/channels/60492ee6375a3900079a158c/colorLogoPNG.png" group-title="USA",Nosey escándalos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492ee6375a3900079a158c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXvS8DZc/telemundoaldia.jpg" group-title="NOVELAS Y TALKSHOWS", TELEMUNDO AL DÍA
 https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXvS8DZc/telemundoaldia.jpg" group-title="NOVELAS Y TALKSHOWS", TELEMUNDO
-https://h2.ustvgo.la/Telemundo/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDIyIDM6MjI6NTUgQU0maGFzaF92YWx1ZT1FdDRTZ1Y0azBHVmc0TVorL2xqK3FBPT0mdmFsaWRtaW51dGVzPTI0MA==
-
-#EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", TN8
-https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
-
-#EXTINF:-1 group-title="NOVELAS Y TALKSHOWS" , ATV
-https://d2tr4gdfol9ja.cloudfront.net/atv/atv.smil/.m3u8
-
-#EXTINF:-1 group-title="HUMOR Y VARIEDADES" , Central TV
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-
-#EXTINF:-1 group-title="NOVELAS Y TALKSHOWS" , TVN
-https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
 
 #EXTINF:-1 group-title="NOVELAS Y TALKSHOWS" , Canal 2
 https://d30zjikdv9ntds.cloudfront.net/repretel/canal2/smil:live.smil/chunklist_b698000.m3u8
 
-#EXTINF:-1 group-title="NOVELAS Y TALKSHOWS" , Teletres
-https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal3.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="NOVELAS Y TALKSHOWS" , Canal 4
 https://secure-video.tcsgo.com/tcshd/index.m3u8
-
-#EXTINF:-1 group-title="NOVELAS Y TALKSHOWS" , Canal 6
-https://d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil:live.smil/chunklist_b348000.m3u8
-
-#EXTINF:-1 group-title="NOVELAS Y TALKSHOWS" , Telesiete
-https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal7.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="NOVELAS Y TALKSHOWS" , Canal 11
-https://d30zjikdv9ntds.cloudfront.net/repretel/canal11/smil:live.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="NOVELAS Y TALKSHOWS" , Canal 12
-https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/chunklist_b512000.m3u8
-
-#EXTINF:-1 group-title="HUMOR Y VARIEDADES" , eltrece
-https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="NOVELAS Y TALKSHOWS" , Caracol tv
 https://mdstrm.com/live-stream-playlist/58d539f1a3ec37fa097a75de.m3u8
@@ -203,24 +151,45 @@ http://190.122.96.187:8888/http/006
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sfP3Bpb5/estrellatv.png" group-title="NOVELAS Y TALKSHOWS", ESTRELLA TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0eda4e0-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3894e758-2b2d-4cfc-8014-66546eaf7d74&userId=&serverSideAds=true
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" tvg-id="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/canelatv-v2-logo.png" group-title="USA",Canela TV
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" tvg-id="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/canelatv-v2-logo.png" group-title="NOVELAS Y TALKSHOWS",Canela TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=xAoXwfNRpzqfb4QF8JUB&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=xAoXwfNRpzqfb4QF8JUB&custom_7=5f5132e362fe160040f26c18
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/chiquilines_logo_light.png" group-title="USA",Chiquilines
-https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-chiquilines-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=xAoXwfNRpzqfb4QF8JUB&channelId=6018913ea15130002b28418f
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-616df4c10dfa27ee465797fc" tvg-id="5e20b730f2f8d5003d739db7-616df4c10dfa27ee465797fc" tvg-logo="https://provider-static.plex.tv/epg/cms/production/daec6359-e835-443c-9eab-6d6bb07a4ab7/chivetv-logo.png" group-title="USA",ChiveTV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01325-atmosphere-chivetv-plex-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=xAoXwfNRpzqfb4QF8JUB&channelId=616df4c10dfa27ee465797fc
 
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", TN8
+https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , ATV
+https://d2tr4gdfol9ja.cloudfront.net/atv/atv.smil/.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Central TV
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , TVN
+https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
+
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Teletres
+https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal3.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="NOVELAS Y TALKSHOWS" , Canal 6
+https://d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil:live.smil/chunklist_b348000.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Telesiete
+https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal7.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="NOVELAS Y TALKSHOWS" , Canal 11
+https://d30zjikdv9ntds.cloudfront.net/repretel/canal11/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="NOVELAS Y TALKSHOWS" , Canal 12
+https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/chunklist_b512000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTKBqrKs/13.png" group-title="NOVELAS Y TALKSHOWS", 13 TELESERIES
 https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES" , MicroVision
-https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8
-
 #EXTINF:-1 tvg-logo=" " group-title="NOVELAS Y TALKSHOWS", Hola TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="HUMOR Y VARIEDADES", Telemicro
 
 #EXTINF:-1 tvg-logo=" " group-title="NOVELAS Y TALKSHOWS", TV Salud
 https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
@@ -229,6 +198,84 @@ https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
 
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , eltrece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/chiquilines_logo_light.png" group-title="ENTRETENIMIENTO",Chiquilines
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-chiquilines-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=xAoXwfNRpzqfb4QF8JUB&channelId=6018913ea15130002b28418f
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-616df4c10dfa27ee465797fc" tvg-id="5e20b730f2f8d5003d739db7-616df4c10dfa27ee465797fc" tvg-logo="https://provider-static.plex.tv/epg/cms/production/daec6359-e835-443c-9eab-6d6bb07a4ab7/chivetv-logo.png" group-title="USA",ChiveTV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01325-atmosphere-chivetv-plex-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=xAoXwfNRpzqfb4QF8JUB&channelId=616df4c10dfa27ee465797fc
+
+
+
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , MicroVision
+https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8
+
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Telemicro
+
+
+
+#EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV-MUNDO 1 
+https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="ENTRETENIMIENTO" , WOW TV 
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/#&gid=1&pid=1" group-title="ENTRETENIMIENTO", Telecosta 
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Cinco TV
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Gen TV
+https://videohd.live:19360/8010/8010.m3u8
+
+#EXTINF:-27 tvg-logo="https://www.pandaancha.mx/plds/articulos/e853fc308798874fb175094ece8fd24a292941926.jpg" group-title="NACIONALES",CABLEMÁS
+https://59ce1298bfb98.streamlock.net/cablemas/cablemas/chunklist_w480314177.m3u8
+
+#EXTINF:-26 tvg-logo="https://goradio.com.py/wp-content/uploads/2020/06/Logo_Mobile_naranja.png" group-title="NACIONALES", GO TV
+https://tigocloud.desdeparaguay.net/gotv/gotv/chunklist_w1939119464.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Rakuten Family
+https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Rokuten Comedia
+https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Pluto TV Spotlight
+https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Multicanal
+https://multicanal.streamseguro.com/hls/streaming.m3u8
+
+#EXTINF:-1 type="stream" channelId="-1" group="Rep. Dom." logo="https://3.bp.blogspot.com/-CIIL9YFIXIo/Xb4iX-kPD2I/AAAAAAAAooM/tQnM-j_g_cUzjj9yBr8BdZpgr0dCiOcVwCLcBGAsYHQ/s200/GDM%2BEstudioTV.png" group-title="ENTRETENIMIENTO" , GDM DO
+https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1723234707.m3u8
+
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/93/b2/93b20146d534d4b089aae90e11bf775f.jpg" group-title="ENTRETENIMIENTO" , VALLEVISION 
+http://stream.mxiptv.org:25461/live/tvabierta/opentv/264.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , DanTV
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.tenarenses.com/wp-content/uploads/2018/08/DSC_0076.jpg?resize=640%2C424&ssl=1" group-title="ENTRETENIMIENTO" , TVS DO
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
+
+#EXTINF:-1 group-logo="http://bhtv.pe/wp-content/uploads/2019/04/bhtv-logo-web-300x219.png"group-title="ENTRETENIMIENTO", BHTV 
+https://5c3fb01839654.streamlock.net:554/iptvbhtv/livebhtvtv/.m3u8
+ 
+
+#EXTINF:-1 tvg-logo="https://rec-onlinebolivia.com/wp-content/uploads/2019/02/logo-rec-online.jpg" group-title="ENTRETENIMIENTO" , REC ONLINE BO
+http://america.tucableip.com:8181/reconline/live/tracks-v1a1/mono.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.RKlMeeY5FJWfXURLiItI0wHaEK&pid=Api&P=0&w=270&h=152"group-title="ENTRETENIMIENTO" , READYTV DO
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 
 
 
@@ -433,84 +480,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c
 https://d861871e83924957b35eabcebb7df7eb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TodoCrimen/playlist.m3u8?ads.wurl_channel=1054&ads.wurl_name=TodoCrimen&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=xAoXwfNRpzqfb4QF8JUB&ads.plex_id=61e86191307b907b95d63304&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
 
-#EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV-MUNDO 1 
-https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="ENTRETENIMIENTO" , WOW TV 
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/#&gid=1&pid=1" group-title="ENTRETENIMIENTO", Telecosta 
-https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Cinco TV
-https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Gen TV
-https://videohd.live:19360/8010/8010.m3u8
-
-#EXTINF:-27 tvg-logo="https://www.pandaancha.mx/plds/articulos/e853fc308798874fb175094ece8fd24a292941926.jpg" group-title="NACIONALES",CABLEMÁS
-https://59ce1298bfb98.streamlock.net/cablemas/cablemas/chunklist_w480314177.m3u8
-
-#EXTINF:-26 tvg-logo="https://goradio.com.py/wp-content/uploads/2020/06/Logo_Mobile_naranja.png" group-title="NACIONALES", GO TV
-https://tigocloud.desdeparaguay.net/gotv/gotv/chunklist_w1939119464.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Rakuten Family
-https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Rokuten Comedia
-https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Pluto TV Spotlight
-https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Multicanal
-https://multicanal.streamseguro.com/hls/streaming.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", LIM
-https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
-
-#EXTINF:-19 tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logo-listo-1-300x300.png" group-title="NACIONALES", SUCESO TV
-https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Sarapi TV
-http://209.126.105.158:1935/stv/web/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , TV Puntarenas
-https://cp.sradiotv.com:1936/8076/8076/playlist.m3u8
-
-#EXTINF:-1 type="stream" channelId="-1" group="Rep. Dom." logo="https://3.bp.blogspot.com/-CIIL9YFIXIo/Xb4iX-kPD2I/AAAAAAAAooM/tQnM-j_g_cUzjj9yBr8BdZpgr0dCiOcVwCLcBGAsYHQ/s200/GDM%2BEstudioTV.png" group-title="ENTRETENIMIENTO" , GDM DO
-https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1723234707.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/93/b2/93b20146d534d4b089aae90e11bf775f.jpg" group-title="ENTRETENIMIENTO" , VALLEVISION 
-http://stream.mxiptv.org:25461/live/tvabierta/opentv/264.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , DanTV
-http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/www.tenarenses.com/wp-content/uploads/2018/08/DSC_0076.jpg?resize=640%2C424&ssl=1" group-title="ENTRETENIMIENTO" , TVS DO
-http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
-
-#EXTINF:-1 group-logo="http://bhtv.pe/wp-content/uploads/2019/04/bhtv-logo-web-300x219.png"group-title="ENTRETENIMIENTO", BHTV 
-https://5c3fb01839654.streamlock.net:554/iptvbhtv/livebhtvtv/.m3u8
- 
-#EXTINF:-1 type="stream" channelId="-1" group="Rep. Dom." logo="https://3.bp.blogspot.com/-CIIL9YFIXIo/Xb4iX-kPD2I/AAAAAAAAooM/tQnM-j_g_cUzjj9yBr8BdZpgr0dCiOcVwCLcBGAsYHQ/s200/GDM%2BEstudioTV.png" group-title="ENTRETENIMIENTO" , GDM DO
-https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1723234707.m3u8
- 
-#EXTINF:-1 tvg-logo="https://rec-onlinebolivia.com/wp-content/uploads/2019/02/logo-rec-online.jpg" group-title="ENTRETENIMIENTO" , REC ONLINE BO
-http://america.tucableip.com:8181/reconline/live/tracks-v1a1/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.RKlMeeY5FJWfXURLiItI0wHaEK&pid=Api&P=0&w=270&h=152"group-title="ENTRETENIMIENTO" , READYTV DO
-http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 
 
 
@@ -526,9 +496,6 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="PREMIUM" , PHTV 
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 
-
-#EXTINF:-1 tvg-id="M. Acción HD" tvg-logo=" " group-title="SERIES Y PELICULAS" , Movistar Acción
-http://31.220.41.87:8081/live/es-movistar-accion.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="5fcea359e533cb0007215c71" tvg-chno="77" tvg-logo="https://images.pluto.tv/channels/5fcea359e533cb0007215c71/colorLogoPNG.png" group-title="SERIES Y PELICULAS",Pluto TV Filmstream
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea359e533cb0007215c71/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -576,8 +543,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u
 #EXTINF:0 tvg-id="5f1ac2591dd8880007bb7d6d" tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="SERIES Y PELICULAS", Zee Mundo
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="PREMIUM" , Cine Feelgood
-https://contracorriente-canalfeelgood-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="SERIES Y PELICULAS" , Rakuten Accion
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
@@ -606,12 +571,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f984c1dc54853000797a5
 https://stitcher.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=afc4be5c-ad4f-11eb-a2fe-0242ac110002
 
 
-#EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , Cine XOXO
-https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=40.7876&deviceLon=-74.0600&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=US&serverSideAds=true&sessionID=93b82c03-b2d4-11eb-946b-0242ac110002&sid=93b82c03-b2d4-11eb-946b-0242ac110002&userId=&already_redirected=true
-
 #EXTINF:-1 tvg-id="6086d3f420fc8500075f8dbf" tvg-chno="145" tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CINE LATINO",Runtime
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6086d3f420fc8500075f8dbf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , Claro Cinema
+
+#EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , Cine Español
 https://rakuten-cine-espanol-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I120.15296.schedulesdirect.org" tvg-logo=" " group-title="CINE LATINO" , Cine Latino
@@ -622,19 +585,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , Butaca TV
 https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="CINE LATINO", Contracorriente
-https://contracorriente-canalcinesverdi-1-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="CINE LATINO", Cine Feelgood
-https://contracorriente-canalfeelgood-1-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="CINE LATINO",Appletree
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="CINE LATINO", inwonder
-https://inwonder-samsungmexico.amagi.tv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , juntos
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master_3.m3u8
@@ -650,6 +600,8 @@ https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="CINE LATINO", cine Real
 https://cinereal-plex.amagi.tv:443/CineReal/master_3.m3u8
+
+
 
 
 
@@ -672,8 +624,6 @@ http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 #EXTINF:-1 tvg-id="M. Deportes HD" tvg-logo="" group-title="DEPORTES", Movistar Deportes
 http://31.220.41.87:8081/live/es-movistar-deportes.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="60492ee6375a3900079a158c" tvg-chno="966" tvg-logo="https://images.pluto.tv/channels/60492ee6375a3900079a158c/colorLogoPNG.png" group-title="USA",Nosey escándalos
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492ee6375a3900079a158c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="M. Liga de Campeones HD" group-title="DEPORTES", Liga de Campeones
 http://212.224.98.204:2200/NL/mlcampeonhd-esp/tracks-v1a1/mono.m3u8?token=mvk
@@ -691,8 +641,10 @@ http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-id="I289.61704.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", Fox Deportes
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=170&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
+
 #EXTINF:-1 tvg-id="I289.61704.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", FOX Sports 
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=172&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+
 
 #EXTINF:-1 tvg-id="I294.66365.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", FOX Sports 2
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
@@ -701,8 +653,9 @@ https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=174&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
+
 #EXTINF:-26 tvg-logo="https://i.postimg.cc/tJ5KGDD8/claro.png" group-title="DEPORTES", CLARO SPORTS
-http://45.179.140.242:8000/play/a0ht
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=175&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj2688ztkba2zbj81pcbapt16ahpc8jpaaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcbhj8ztbvx1xkj2xjcxvtkb1exc1jvpeah6ecbvex8jppckeva8a22hxhhj2c2kxzea1j2xaepkebcz22k61thjec2hph2bae18jtekj8h1cz12z61jjcbjtcv1eeptkhztbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
 
 
