@@ -419,6 +419,9 @@ http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 
 
+
+
+
 #EXTINF:-1 tvg-id="60c8a24e17da110007eed4fd" tvg-chno="55" tvg-logo="https://images.pluto.tv/channels/60c8a24e17da110007eed4fd/colorLogoPNG.png" group-title="SERIES Y PELICULAS",Rakuten Viki
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c8a24e17da110007eed4fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -469,6 +472,24 @@ https://d861871e83924957b35eabcebb7df7eb.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 
+#EXTINF:-1 tvg-id="5dcb62e63d4d8f0009f36881" tvg-logo=" " group-title="SERIES Y PELICULAS" , Pluto TV Cine Acción
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=97c7d537-1741-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5f1ac2591dd8880007bb7d6d" tvg-chno="105" tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png" group-title="SERIES Y PELICULAS",Pluto TV Cine Acción
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="5e972a21ad709d00074195ba" tvg-chno="57" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png" group-title="SERIES Y PELICULAS",Estrellas de Acción
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="61b793ccf571b80007b7a610" tvg-chno="58" tvg-logo="https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png" group-title="SERIES Y PELICULAS",Pluto TV Adrenalina Freezone
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b793ccf571b80007b7a610/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo=" " group-title="SERIES Y PELICULAS" , Cine adrenalina
+https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=34.0485&deviceLon=-118.2529&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=US&serverSideAds=true&sessionID=af7b5b74-ae26-11eb-901b-0242ac110002&sid=af7b5b74-ae26-11eb-901b-0242ac110002&userId=&already_redirected=true
+
+#EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" tvg-logo=" " group-title="SERIES Y PELICULAS" , Cine Premiere
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=25.7806&deviceLon=-80.1826&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=US&serverSideAds=true&sessionID=b92f1155-aeb3-11eb-ab33-0242ac110002&sid=b92f1155-aeb3-11eb-ab33-0242ac110002&userId=
+
 
 
 
@@ -491,11 +512,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea359e533cb0007215c
 #EXTINF:-1 tvg-logo=" " group-title="SERIES Y PELICULAS" , CSI en español
 https://stitcher-ipv4.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=34.0485&deviceLon=-118.2529&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=US&serverSideAds=true&sessionID=af7b5b74-ae26-11eb-901b-0242ac110002&sid=af7b5b74-ae26-11eb-901b-0242ac110002&userId=&already_redirected=true
 
-#EXTINF:-1 tvg-logo=" " group-title="SERIES Y PELICULAS" , Cine adrenalina
-https://stitcher-ipv4.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=34.0485&deviceLon=-118.2529&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=US&serverSideAds=true&sessionID=af7b5b74-ae26-11eb-901b-0242ac110002&sid=af7b5b74-ae26-11eb-901b-0242ac110002&userId=&already_redirected=true
 
-#EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" tvg-logo=" " group-title="SERIES Y PELICULAS" , Cine Premiere
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=5.16.0-d477896b413cece569cca008ddae951d02cadc9e&app_name=web&clientDeviceType=0&clientID=a20dccf5-28a6-4747-ad5b-2908ad72825d&clientModelNumber=na&deviceDNT=false&deviceId=a20dccf5-28a6-4747-ad5b-2908ad72825d&deviceLat=25.7806&deviceLon=-80.1826&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=US&serverSideAds=true&sessionID=b92f1155-aeb3-11eb-ab33-0242ac110002&sid=b92f1155-aeb3-11eb-ab33-0242ac110002&userId=
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" tvg-id="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fe3c7159-2d42-47c3-a112-2c0cd847e4ef/horrorfy_logo.png" group-title="SERIES Y PELICULAS",Horrorfy
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=xAoXwfNRpzqfb4QF8JUB&channelId=617afafd7ab406f93af02607
+
 
 #EXTINF:-1 tvg-id="5dcddf1ed95e740009fef7ab" tvg-chno="72" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="SERIES Y PELICULAS", Pluto TV Cine Terror
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=5.7.4-3c0adb65197bfd10403d6b66bfcd0b37c0daef81&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4465&deviceLon=-97.3249&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=8547386a-f319-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
@@ -512,17 +533,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a0008
 #EXTINF:-1 tvg-id="5f6a38eaa5b68b0007a00e7a" tvg-chno="110" tvg-logo="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png" group-title="SERIES Y PELICULAS",Pluto TV Sci-Fi
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="5dcb62e63d4d8f0009f36881" tvg-logo=" " group-title="SERIES Y PELICULAS" , Pluto TV Cine Acción
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=97c7d537-1741-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5f1ac2591dd8880007bb7d6d" tvg-chno="105" tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png" group-title="SERIES Y PELICULAS",Pluto TV Cine Acción
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="5e972a21ad709d00074195ba" tvg-chno="57" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png" group-title="SERIES Y PELICULAS",Estrellas de Acción
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="61b793ccf571b80007b7a610" tvg-chno="58" tvg-logo="https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png" group-title="SERIES Y PELICULAS",Pluto TV Adrenalina Freezone
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b793ccf571b80007b7a610/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo=" " group-title="SERIES Y PELICULAS" , Séptimo arte
 https://stitcher.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=afc4be5c-ad4f-11eb-a2fe-0242ac110002
