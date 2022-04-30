@@ -97,13 +97,13 @@ https://linear-309.frequency.stream/309/hls/master/playlist.m3u8
 https://linear-310.frequency.stream/310/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", Risa Picante
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", La Familia Peluche"
 https://linear-311.frequency.stream/311/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", La Famila Peluche
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="Vix, 40
 https://linear-312.frequency.stream/312/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", novelas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", Risas de Oro
 https://linear-313.frequency.stream/313/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", Vecinos
@@ -226,7 +226,7 @@ https://d30zjikdv9ntds.cloudfront.net/repretel/canal2/smil:live.smil/chunklist_b
 #EXTINF:-1 group-title="NOVELAS Y TALKSHOWS" , Canal 4
 https://secure-video.tcsgo.com/tcshd/index.m3u8
 
-#EXTINF:-1 group-title="NOVELAS Y TALKSHOWS" , Caracol tv
+#EXTINF:-1 group-title="NOTICIAS Y TALKSHOWS" , Caracol tv
 https://mdstrm.com/live-stream-playlist/58d539f1a3ec37fa097a75de.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="NOVELAS Y TALKSHOWS" , Ve Plus
