@@ -109,41 +109,41 @@ https://linear-313.frequency.stream/313/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", Vecinos
 https://linear-314.frequency.stream/314/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", novelas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", vida real
 https://linear-315.frequency.stream/315/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", novelas
-https://linear-316.frequency.stream/316/hls/master/playlist.m3u8
+https://linear-326.frequency.stream/326/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", novelas
-https://linear-317.frequency.stream/317/hls/master/playlist.m3u8
+https://linear-327.frequency.stream/327/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", novelas
-https://linear-318.frequency.stream/318/hls/master/playlist.m3u8
+https://linear-328.frequency.stream/328/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", novelas
-https://linear-319.frequency.stream/319/hls/master/playlist.m3u8
+https://linear-329.frequency.stream/329/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", novelas
-https://linear-320.frequency.stream/320/hls/master/playlist.m3u8
+https://linear-330.frequency.stream/330/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", novelas
-https://linear-320.frequency.stream/320/hls/master/playlist.m3u8
+https://linear-331.frequency.stream/331/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", novelas
-https://linear-321.frequency.stream/321/hls/master/playlist.m3u8
+https://linear-332.frequency.stream/332/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", novelas
-https://linear-322.frequency.stream/322/hls/master/playlist.m3u8
+https://linear-333.frequency.stream/333/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", novelas
-https://linear-323.frequency.stream/323/hls/master/playlist.m3u8
+https://linear-334.frequency.stream/334/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", novelas
-https://linear-324.frequency.stream/324/hls/master/playlist.m3u8
+https://linear-335.frequency.stream/335/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", novelas
-https://linear-325.frequency.stream/325/hls/master/playlist.m3u8
+https://linear-336.frequency.stream/336/hls/master/playlist.m3u8
 
 
 
