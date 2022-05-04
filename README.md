@@ -730,8 +730,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd3
 #EXTINF:-1tvg- id="M. La Liga 1 HD" tvg-logo="" group-title="DEPORTES", Movistar Laliga
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 
-#EXTINF:-1 tvg-id="M. Deportes HD" tvg-logo="" group-title="DEPORTES", Movistar Deportes
-http://93.152.174.144:4000/play/es-movistar-deportes.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="M. Deportes HD" tvg-logo="" group-title="DEPORTES", Movistar La Liga
+http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 
 
 #EXTINF:-1 tvg-id="M. Liga de Campeones HD" group-title="DEPORTES", Liga de Campeones
