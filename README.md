@@ -148,7 +148,7 @@ https://linear-338.frequency.stream/338/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", novelas
 https://linear-339.frequency.stream/339/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", novelas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", 40 y 20
 https://linear-340.frequency.stream/340/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", Como Dice el Dicho
