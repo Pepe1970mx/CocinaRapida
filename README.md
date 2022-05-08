@@ -549,6 +549,16 @@ http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 
 
 
+
+#EXTINF:-1 group-title="SERIES Y PELICULAS", Fox
+https://edge3.prepro.cvattv.com.ar/live/vod/FOXHD/SA_Live_WebVTT_FTA/FOXHD.m3u8
+
+#EXTINF:-1 group-title="SERIES Y PELICULAS", Warner TV
+https://edge3.prepro.cvattv.com.ar/live/vod/WarnerHD/SA_Live_WebVTT_FTA/WarnerHD.m3u8
+
+#EXTINF:-1 group-title="SERIES Y PELICULAS", HBO 2
+https://edge3.prepro.cvattv.com.ar/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
+
 #EXTINF:-1 group-title="SERIES Y PELICULAS", Paramount
 https://edge3.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount.m3u8
 
