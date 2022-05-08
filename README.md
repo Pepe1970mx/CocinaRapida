@@ -1,6 +1,11 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
 
 
+
+
+#EXTINF:-1 tvg-id="I83.46607.schedulesdirect.org" tvg-logo=" " group-title="MEXICO NACIONAL", Batman
+https://vd373.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1652098382879&srcIp=45.188.78.93&srcAg=CHROME_ANDROID&ms=45.136.22.78&type=4&sig=mEvnS9wj6bk&ct=8&urls=185.226.52.59&clientType=0&id=2517404944943
+
 #EXTINF:-1 tvg-id="I83.46607.schedulesdirect.org" tvg-logo=" " group-title="MEXICO NACIONAL", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
@@ -774,8 +779,8 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=174&f=HLSAD&s=hkc
 
 
 
-#EXTINF:-26 tvg-logo="https://i.postimg.cc/tJ5KGDD8/claro.png" group-title="DEPORTES", CLARO SPORTS
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=175&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+#EXTINF:-26 tvg-logo="https://i.postimg.cc/tJ5KGDD8/claro.png" group-title="DEPORTES", CLARO SPORT
+https://dai.google.com/linear/hls/pa/event/u_rjdQNqTzmLRgJVfqVT2A/stream/4eeee5e0-eefa-4035-8d66-0eeae797f045:TUL/master.m3u8
 
 
 
