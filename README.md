@@ -76,6 +76,8 @@ https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", CNN en Español
+https://linear-358.frequency.stream/358/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", Foro TV 
 https://linear-300.frequency.stream/300/hls/master/playlist.m3u8
@@ -116,6 +118,9 @@ https://linear-340.frequency.stream/340/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", Afizzionados
 https://linear-348.frequency.stream/348/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", Zona TUDN
+https://linear-356.frequency.stream/356/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", Pelis mex
@@ -170,37 +175,32 @@ https://linear-343.frequency.stream/343/hls/master/playlist.m3u8
 https://linear-345.frequency.stream/345/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", novelas
-https://linear-351.frequency.stream/351/hls/master/playlist.m3u8
+https://linear-362.frequency.stream/362/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", novelas
-https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
+https://linear-363.frequency.stream/363/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", novelas
-https://linear-353.frequency.stream/353/hls/master/playlist.m3u8
+https://linear-364.frequency.stream/364/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", novelas
-https://linear-354.frequency.stream/354/hls/master/playlist.m3u8
+https://linear-365.frequency.stream/365/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", novelas
-https://linear-355.frequency.stream/355/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", Zona TUDN
-https://linear-356.frequency.stream/356/hls/master/playlist.m3u8
+https://linear-366.frequency.stream/366/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", novelas
-https://linear-357.frequency.stream/357/hls/master/playlist.m3u8
+https://linear-367.frequency.stream/367/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", novelas
-https://linear-359.frequency.stream/359/hls/master/playlist.m3u8
+https://linear-368.frequency.stream/368/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", CNN en Español
-https://linear-358.frequency.stream/358/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", novelas
-https://linear-360.frequency.stream/360/hls/master/playlist.m3u8
+https://linear-369.frequency.stream/369/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png"group-title="VIX", novelas
-https://linear-361.frequency.stream/361/hls/master/playlist.m3u8
+https://linear-370.frequency.stream/370/hls/master/playlist.m3u8
 
 
 
