@@ -1,7 +1,3 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
-
-
-
 
 #EXTINF:-1 tvg-id="I83.46607.schedulesdirect.org" tvg-logo=" " group-title="MEXICO NACIONAL", Batman
 https://vd373.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1652098382879&srcIp=45.188.78.93&srcAg=CHROME_ANDROID&ms=45.136.22.78&type=4&sig=mEvnS9wj6bk&ct=8&urls=185.226.52.59&clientType=0&id=2517404944943
