@@ -242,22 +242,22 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 
 
 
-#EXTI1NF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Distrito Comedia
+#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Distrito Comedia
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=78&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
-#EXTI1NF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
-#EXTI1NF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Azteca Mundo
+#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Azteca Mundo
 https://vsd113.mycdn.me/hls/2297078876678.m3u8/sig/8FMzsGzpXOc/expires/1655726919549/srcIp/45.188.78.93/clientType/0/srcAg/CHROME_ANDROID/mid/3892526652934/video.m3u8?p
 
-#EXTI1NF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Azteca America
+#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Azteca America
 https://v-ny.mybtv.net/live/645.m3u8 
 
-#EXTI1NF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Boing
+#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Boing
 https://directos.mitele.es/orilinear23/live/linear23/playlist/playlist.isml/ctv.m3u8?hdnts=st=1655648198~exp=1655648378~acl=/*~hmac=dbd8b6778b4b6307c622e22ec71e07dc80d757fe7aa6f137746bb48ab567da4a
 
-#EXTI1NF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Estrella TV
+#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Estrella TV
 https://v-ny.mybtv.net/live/650.m3u8
 
 #EXTI1NF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", MegaCine
@@ -266,10 +266,10 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
 #EXTI1NF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTI1NF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Telemundo
+#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Telemundo
 https://v-ny.mybtv.net/live/659.m3u8
 
-#EXTI1NF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", aa
+#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", aa
 https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1
 
 
