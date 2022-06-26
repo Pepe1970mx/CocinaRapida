@@ -245,23 +245,13 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Distrito Comedia
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=78&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Cartoon Network
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Azteca Mundo
 https://vsd113.mycdn.me/hls/2297078876678.m3u8/sig/8FMzsGzpXOc/expires/1655726919549/srcIp/45.188.78.93/clientType/0/srcAg/CHROME_ANDROID/mid/3892526652934/video.m3u8?p
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Azteca America
-https://v-ny.mybtv.net/live/645.m3u8 
+https://v-ny.mybtv.net/live/645.m3u8
 
-#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Boing
-https://directos.mitele.es/orilinear23/live/linear23/playlist/playlist.isml/ctv.m3u8?hdnts=st=1655648198~exp=1655648378~acl=/*~hmac=dbd8b6778b4b6307c622e22ec71e07dc80d757fe7aa6f137746bb48ab567da4a
-
-#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Estrella TV
-https://v-ny.mybtv.net/live/650.m3u8
-
-#EXTI1NF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", MegaCine
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
 
 #EXTI1NF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
@@ -271,6 +261,16 @@ https://v-ny.mybtv.net/live/659.m3u8
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", aa
 https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1
+
+
+
+
+
+#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Estrella TV
+https://v-ny.mybtv.net/live/650.m3u8
+
+#EXTI1NF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", MegaCine
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
 
 
 
@@ -471,6 +471,12 @@ https://bamus-spa-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-spanish/CD
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5efe1de4e0b3f5003f5d9f73" tvg-id="5e20b730f2f8d5003d739db7-5efe1de4e0b3f5003f5d9f73" tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/96e81d4064875f4e85afe9390c0e42d4.png" group-title="DOCUMENTALES",Docurama
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de4e0b3f5003f5d9f73.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=xAoXwfNRpzqfb4QF8JUB
 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+ 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/1200px-El_Chavo_%28simple_logo%29.svg.png" group-title="NIÑOS Y ADOLESCENTES", EL CHAVO
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1240002231.m3u8
