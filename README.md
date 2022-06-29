@@ -247,7 +247,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=78&f=HLSAD&s=hkc2
 
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Azteca Mundo
-https://vsd113.mycdn.me/hls/2297078876678.m3u8/sig/8FMzsGzpXOc/expires/1655726919549/srcIp/45.188.78.93/clientType/0/srcAg/CHROME_ANDROID/mid/3892526652934/video.m3u8?p
+https://vsd113.mycdn.me/hls/2297078876678.m3u8/sig/8FMzsGzpXOc/expires/1655726919549/srcIp/45.188.78.93/clientType/0/srcAg/CHROME_ANDROID/mid/3892526652934/video.m3u8
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Azteca America
 https://v-ny.mybtv.net/live/645.m3u8
@@ -259,15 +259,13 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Telemundo
 https://v-ny.mybtv.net/live/659.m3u8
 
-#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", aa
+#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Univision
 https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1
-
-
-
-
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Estrella TV
 https://v-ny.mybtv.net/live/650.m3u8
+
+
 
 #EXTI1NF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", MegaCine
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
