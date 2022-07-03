@@ -51,7 +51,7 @@ https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649
 http://s5.mexside.net:1935/telemax/telemax/chunklist_w1982711424.m3u8
 
 #EXTINF:-1 tvg-id="I220.102415.schedulesdirect.org" tvg-logo=" " group-title="MEXICO NACIONAL" , CANAL 22 
-https://5fe2654d6127d.streamlock.net:443/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIxIDc6MzQ6MzEgUE0maGFzaF92YWx1ZT00YVpPcXQ0NHdmRXAzSzZsWHpUQTNRPT0mdmFsaWRtaW51dGVzPTUmaWQ9
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zLzIwMjIgMTo1NDo1NSBBTSZoYXNoX3ZhbHVlPWRIdHFGYzlET1JZblJ6NjRPQWJoUEE9PSZ2YWxpZG1pbnV0ZXM9NSZpZD0=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8O0WxdF.png" group-title="MEXICO NACIONAL" , Radio y Television de Veracruz (RTV)
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w1862368642.m3u8
