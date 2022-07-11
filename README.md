@@ -233,17 +233,18 @@ https://linear-348.frequency.stream:443/348/hls/master/playlist_640x360.m3u8
 https://linear-356.frequency.stream/356/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="h" group-title="VIX", Zona Fut Bol
-
+https://linear-373.frequency.stream:443/373/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VIX", Telehit
 https://linear-417.frequency.stream:443/417/hls/master/playlist_640x360.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VIX", Bandamax
 
-#EXTINF:-1 tvg-logo="" group-title="VIX", Bandamax
+#EXTINF:-1 tvg-logo="" group-title="VIX", Local View
+https://linear-402.frequency.stream:443/402/hls/master/playlist_640x360.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VIX", Bandamax
-
+#EXTINF:-1 tvg-logo="" group-title="VIX", ATV+
+https://linear-258.frequency.stream:443/258/hls/master/playlist_640x360.m3u8
 
 
 
