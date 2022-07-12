@@ -524,6 +524,11 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
+https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
+
+
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , eltrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
