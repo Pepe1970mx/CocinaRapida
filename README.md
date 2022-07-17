@@ -555,7 +555,8 @@ https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
 
-
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Wholy
+https://videohd.live:19360/8076/8076.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV-MUNDO 1 
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
