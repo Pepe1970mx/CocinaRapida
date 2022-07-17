@@ -134,8 +134,17 @@ https://v-ny.mybtv.net/live/659.m3u8
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Univision
 https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1
 
+#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Univision
+https://linear-193.frequency.stream/193/hls/master/playlist_1280x720.m3u8
+
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60089d98f682a3002c34829f" tvg-id="5e20b730f2f8d5003d739db7-60089d98f682a3002c34829f" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/estrellatv_logo_dark.png" group-title="VARIEDADES", ESTRELLA TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0eda4e0-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3894e758-2b2d-4cfc-8014-66546eaf7d74&userId=&serverSideAds=true
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60089d98f682a3002c34829f" tvg-id="5e20b730f2f8d5003d739db7-60089d98f682a3002c34829f" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/estrellatv_logo_dark.png" group-title="VARIEDADES", ESTRELLA TV
+https://v-ny.mybtv.net/live/650.m3u8
+
+#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Telexitos
+https://v-ny.mybtv.net/live/660.m3u8
 
 
 #EXTINF:-1 tvg-id="5f4d3696d938c900072679fd" tvg-logo=" " group-title="DOCUMENTALES", Historias de Ultratumba
@@ -221,10 +230,13 @@ https://linear-309.frequency.stream/309/hls/master/playlist.m3u8
 https://linear-401.frequency.stream:443/401/hls/master/playlist_640x360.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX", Golden Edge
-
+https://linear-407.frequency.stream/407/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX", Golden Edge Plus
 https://linear-410.frequency.stream:443/410/hls/master/playlist_640x360.m3u8
+
+https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX", De Película Plus
 https://linear-404.frequency.stream:443/404/hls/master/playlist_640x360.m3u8
@@ -242,11 +254,13 @@ https://linear-373.frequency.stream:443/373/hls/master/playlist_1024x576.m3u8
 https://linear-417.frequency.stream:443/417/hls/master/playlist_640x360.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VIX", Bandamax
+https://linear-400.frequency.stream/400/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VIX", Local View
 https://linear-402.frequency.stream:443/402/hls/master/playlist_640x360.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VIX", Local View
+https://linear-403.frequency.stream/403/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VIX", ATV+
 https://linear-258.frequency.stream:443/258/hls/master/playlist_640x360.m3u8
