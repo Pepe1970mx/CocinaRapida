@@ -63,7 +63,7 @@ https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w2102162107.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="NOTICIAS" , CNN en Español
-https://linear-351.frequency.stream/358/hls/master/playlist_384x216.m3u8
+https://linear-358.frequency.stream/358/hls/master/playlist_384x216.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="NOTICIAS", Foro TV 
 https://linear-300.frequency.stream/300/hls/master/playlist_384x216.m3u8
@@ -237,10 +237,10 @@ https://linear-356.frequency.stream/356/hls/master/playlist.m3u8
 https://linear-373.frequency.stream:443/373/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VIX", Telehit Musica Plus
-
+https://linear-419.frequency.stream:443/419/hls/master/playlist_640x360.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VIX", Telehit Musica 
-
+https://linear-418.frequency.stream:443/418/hls/master/playlist_640x360.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VIX", Telehit
 https://linear-417.frequency.stream:443/417/hls/master/playlist_640x360.m3u8
@@ -281,13 +281,17 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=652&avod=1&coppa=0&is_lat=
 #EXTINF:-1 group-title="CANELA TV", Acción Mexicana
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656899242&id=20507&ip=45.188.78.93&override_expiration=1500&sign=w447FyzW4YQ3K5KfLcJS08dDjVhohBlb1nVD2Ylud88%3D
 
+#EXTINF:-1 tvg-logo=" " group-title="CANELA TV" , Cine Mex
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="CANELA TV" , Butaca TV
+https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 group-title="CANELA TV", ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656899342&id=34434&ip=45.188.78.93&override_expiration=1500&sign=TxhnXtTkkmuchk54BrTTN4p4AevpD8%2Bnm3lscX9lXPg%3D
 
 
 
-
-#EXTINF:-1 tvg-logo=" " group-title="RAKUTEN" , Rakuten Shows
 
 #EXTINF:-1 tvg-logo=" " group-title="RAKUTEN" , Rakuten Accion
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
@@ -301,6 +305,18 @@ https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="60c8a24e17da110007eed4fd" tvg-chno="55" tvg-logo="https://images.pluto.tv/channels/60c8a24e17da110007eed4fd/colorLogoPNG.png" group-title="RAKUTEN",Rakuten Viki
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c8a24e17da110007eed4fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo=" " group-title="RAKUTEN" , Rakuten Shows
+
+#EXTINF:-1 tvg-logo=" " group-title="RAKUTEN" , Pluto TV Spotlight
+https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/chiquilines_logo_light.png" group-title="PLEX",Chiquilines
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-chiquilines-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=xAoXwfNRpzqfb4QF8JUB&channelId=6018913ea15130002b28418f
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60240f57676235002df19f49" tvg-id="5e20b730f2f8d5003d739db7-60240f57676235002df19f49" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/juntos_logo_dark_v3.png" group-title="PLEX" , Juntos
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master_3.m3u8
@@ -421,6 +437,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6a38eaa5b68b0007a00e
 https://stitcher.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=afc4be5c-ad4f-11eb-a2fe-0242ac110002
 
 
+
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="NIÑOS Y ADOLESCENTES", Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
  
@@ -440,8 +457,6 @@ https://live.flote.app/f7a82d82-4688-4627-ad91-d0211b29346a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvzyXDxJ/latinokids.png" group-title="NIÑOS Y ADOLESCENTES", LATINO KIDS
 https://videostreaming.cloudserverlatam.com/8066/8066/chunklist_w1633484308.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Ssywmmnj/planetatv.png" group-title="NIÑOS Y ADOLESCENTES", PLANETA TV KIDS
-https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GmjHjdsN/90S-KID.png" group-title="NIÑOS Y ADOLESCENTES", 90S KID
 https://videostreaming.cloudserverlatam.com/Kids90/Kids90/chunklist_w1891928306.m3u8
@@ -521,8 +536,6 @@ https://9e42b0e4e5b1434db9278d1414d887bf.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo=" " group-title="TALKSHOWS" , Ve Plus
 http://190.122.96.187:8888/http/006
 
-
-
 #EXTINF:-1 tvg-logo=" " group-title="TALKSHOWS", Hola TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 
@@ -531,6 +544,18 @@ https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="TALKSHOWS", Mariavision
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Ssywmmnj/planetatv.png" group-title="ENTRETENIMIENTO", PLANETA TV KIDS
+https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
+https://live.obslivestream.com/planetatv/index.m3u8
+
+#EXTINF:-61 tvg-logo="https://i.postimg.cc/Ssywmmnj/planetatv.png" group-title="ENTRETENIMIENTO", PLANETA TV MOVIES
+https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
 
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Wholy
@@ -545,27 +570,8 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
-https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
-
-
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , eltrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/chiquilines_logo_light.png" group-title="ENTRETENIMIENTO",Chiquilines
-https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-chiquilines-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=xAoXwfNRpzqfb4QF8JUB&channelId=6018913ea15130002b28418f
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Teletres
-https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal3.smil/playlist.m3u8
-
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Central TV
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Telesiete
-https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal7.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Cinco TV
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
@@ -573,50 +579,22 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Gen TV
 https://videohd.live:19360/8010/8010.m3u8
 
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Teletres
 
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Central TV
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Telesiete
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , MicroVision
 https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/#&gid=1&pid=1" group-title="ENTRETENIMIENTO", Telecosta 
-https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , OrbitTV
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-27 tvg-logo="https://www.pandaancha.mx/plds/articulos/e853fc308798874fb175094ece8fd24a292941926.jpg" group-title="ENTRETENIMIENTO",CABLEMÁS
-https://59ce1298bfb98.streamlock.net/cablemas/cablemas/chunklist_w480314177.m3u8
+#EXTINF:0 tvg-id="5f1ac2591dd8880007bb7d6d" tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="ENTRETENIMIENTO", Zee Mundo
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
-#EXTINF:-26 tvg-logo="https://goradio.com.py/wp-content/uploads/2020/06/Logo_Mobile_naranja.png" group-title="ENTRETENIMIENTO", GO TV
-https://tigocloud.desdeparaguay.net/gotv/gotv/chunklist_w1939119464.m3u8
-
-
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Pluto TV Spotlight
-https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Multicanal
-https://multicanal.streamseguro.com/hls/streaming.m3u8
-
-#EXTINF:-1 type="stream" channelId="-1" group="Rep. Dom." logo="https://3.bp.blogspot.com/-CIIL9YFIXIo/Xb4iX-kPD2I/AAAAAAAAooM/tQnM-j_g_cUzjj9yBr8BdZpgr0dCiOcVwCLcBGAsYHQ/s200/GDM%2BEstudioTV.png" group-title="ENTRETENIMIENTO" , GDM DO
-https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1723234707.m3u8
-
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/93/b2/93b20146d534d4b089aae90e11bf775f.jpg" group-title="ENTRETENIMIENTO" , VALLEVISION 
-http://stream.mxiptv.org:25461/live/tvabierta/opentv/264.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , DanTV
-http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/www.tenarenses.com/wp-content/uploads/2018/08/DSC_0076.jpg?resize=640%2C424&ssl=1" group-title="ENTRETENIMIENTO" , TVS DO
-http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
-
-#EXTINF:-1 group-logo="http://bhtv.pe/wp-content/uploads/2019/04/bhtv-logo-web-300x219.png"group-title="ENTRETENIMIENTO", BHTV 
-https://5c3fb01839654.streamlock.net:554/iptvbhtv/livebhtvtv/.m3u8
- 
-
-#EXTINF:-1 tvg-logo="https://rec-onlinebolivia.com/wp-content/uploads/2019/02/logo-rec-online.jpg" group-title="ENTRETENIMIENTO" , REC ONLINE BO
-http://america.tucableip.com:8181/reconline/live/tracks-v1a1/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.RKlMeeY5FJWfXURLiItI0wHaEK&pid=Api&P=0&w=270&h=152"group-title="ENTRETENIMIENTO" , READYTV DO
-http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="CABLE", Star channel
@@ -690,48 +668,12 @@ http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 
 
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:0 tvg-id="5f1ac2591dd8880007bb7d6d" tvg-logo="https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png" group-title="SERIES Y PELICULAS", Zee Mundo
-https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
-
-#EXTINF:-61 tvg-logo="https://i.postimg.cc/Ssywmmnj/planetatv.png" group-title="SERIES Y PELICULAS", PLANETA TV MOVIES
-https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
-
-#EXTINF:-61 tvg-logo="http://3.bp.blogspot.com/-u80D-SioUtE/Ts5fIVlJxgI/AAAAAAAAAFY/GxPAuB6LiWg/s1600/movies_logo_5.gif" group-title="SERIES Y PELICULAS", MOVIES
-https://panel.streamingTV-mediacp.online:1936/8100/8100/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="SERIES Y PELICULAS" , Cáscara TV
-https://ss5.domint.net:3036/ctv_str/cascaratv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="SERIES Y PELICULAS" , OrbitTV
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="PREMIUM" , PHTV 
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="5f984c1dc54853000797a5e8" tvg-chno="140" tvg-logo="https://images.pluto.tv/channels/5f984c1dc54853000797a5e8/colorLogoPNG.png" group-title="CINE LATINO",Cine Latino
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f984c1dc54853000797a5e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-
-
-#EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , Cine Mex
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="CINE LATINO" , Butaca TV
-https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
 
 
