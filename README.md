@@ -735,9 +735,7 @@ https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.
 
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN
-
-
-
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=174&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx
 
 #EXTINF:-26 tvg-logo="https://i.postimg.cc/tJ5KGDD8/claro.png" group-title="DEPORTES", CLARO SPORT
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/live-audio_0=64000-video=364992.m3u8
