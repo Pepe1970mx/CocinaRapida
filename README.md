@@ -3,8 +3,11 @@
 #EXTINF:-1 tvg-id="I83.46607.schedulesdirect.org" tvg-logo=" " group-title="MEXICO NACIONAL", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="MEXICO NACIONAL" , Las Estrellas
+#EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="MEXICO NACIONAL" , Las Estrellas -2 horas
 https://linear-415.frequency.stream/415/hls/master/playlist_384x216.m3u8
+
+#EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="MEXICO NACIONAL" , Las Estrellas
+https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102,vxttoken=cGF0aFVSST0lMkZMSVZFJTJGSDAxJTJGQ0FOQUwxMDIlMkYqJmV4cGlyeT0xNjU4NzEyMjM3JmZuPXNoYTI1NiZ4JTNBcz0tMSxiMThmNTA3Mjc2N2RhZWMzOTU1NDA5MTFiYWE0ZWFhYjk3MmVmODNkNGQxYTMwZDZiN2ZkNTg1YjU0NzZlMzkw/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Imagen_TV_logo.png/200px-Imagen_TV_logo.png" group-title="MEXICO NACIONAL",  Imagen TV
 
