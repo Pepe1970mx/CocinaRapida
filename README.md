@@ -1,31 +1,8 @@
  #EXTM3U
 
-#EXTINF:-1 tvg-id="I83.46607.schedulesdirect.org" tvg-logo=" " group-title="MEXICO NACIONAL", Azteca Uno
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="MEXICO NACIONAL" , Las Estrellas 
-https://linear-413.frequency.stream/413/hls/master/playlist_384x216.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Imagen_TV_logo.png/200px-Imagen_TV_logo.png" group-title="MEXICO NACIONAL",  Imagen TV
-
-
-
-#EXTINF:-1 tvg-id="I105.47425.schedulesdirect.org" tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png" group-title="MEXICO NACIONAL" , Canal 5 
-https://linear-351.frequency.stream/351/hls/master/playlist_384x216.m3u8
-
-
-#EXTINF:-1 tvg-id="I418.109613.schedulesdirect.org" tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="MEXICO NACIONAL" , Multimedios
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-
- 
-#EXTINF:-1 tvg-id="I223.102406.schedulesdirect.org" tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="MEXICO NACIONAL" , Azteca 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-
-#EXTINF:-1 tvg-id="I4.104892.schedulesdirect.org" tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="MEXICO NACIONAL" , A MAS
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-
-#EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="MEXICO NACIONAL", MVS TV
-https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EM8Ks47kwqSGMiH4twcCBgAAAA&pid=Api&P=0&w=175&h=43" tvg-id="I222.97020.schedulesdirect.org" group-title="MEXICO NACIONAL", Canal Nu9ve
 
@@ -104,6 +81,49 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 
 
 
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Afizzionados
+https://linear-348.frequency.stream:443/348/hls/master/playlist_640x360.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Zona TUDN
+https://linear-356.frequency.stream/356/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="h" group-title="DEPORTES", Zona Fut Bol
+https://linear-373.frequency.stream:443/373/hls/master/playlist_640x360.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", ITV Deportes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656899342&id=34434&ip=45.188.78.93&override_expiration=1500&sign=TxhnXtTkkmuchk54BrTTN4p4AevpD8%2Bnm3lscX9lXPg%3D
+
+#EXTINF:-26 tvg-logo="https://i.postimg.cc/tJ5KGDD8/claro.png" group-title="DEPORTES", CLARO SPORT
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/live-audio_0=64000-video=364992.m3u8
+
+#EXTINF:-1 tvg-id="I247.37747.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", ESPN 2
+http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
+
+
+#EXTINF:-1 tvg-id="I83.46607.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Azteca Uno
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
+#EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Las Estrellas 
+https://linear-413.frequency.stream/413/hls/master/playlist_768x432.m3u8
+
+#EXTINF:-1 tvg-id="I105.47425.schedulesdirect.org" tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png" group-title="VARIEDADES" , Canal 5 
+https://linear-351.frequency.stream/351/hls/master/playlist_384x216.m3u8
+
+
+#EXTINF:-1 tvg-id="I418.109613.schedulesdirect.org" tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="VARIEDADES" , Multimedios
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+ 
+#EXTINF:-1 tvg-id="I223.102406.schedulesdirect.org" tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="VARIEDADES" , Azteca 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+
+#EXTINF:-1 tvg-id="I4.104892.schedulesdirect.org" tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="VARIEDADES" , A MAS
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="VARIEDADES", MVS TV
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+
 #EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" tvg-chno="115" tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png" group-title="VARIEDADES",Pluto TV Series Latinas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -126,7 +146,13 @@ https://v-ny.mybtv.net/live/659.m3u8
 http://linear-424.frequency.stream/424/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Univision
-https://v-ny.mybtv.net/live/643/768x432.m3u8
+https://v-ny.mybtv.net/live/643/384x216.m3u8
+
+#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Telexitos
+https://v-ny.mybtv.net/live/660/384x216.m3u8
+
+#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Teleonce
+https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60089d98f682a3002c34829f" tvg-id="5e20b730f2f8d5003d739db7-60089d98f682a3002c34829f" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/estrellatv_logo_dark.png" group-title="VARIEDADES", ESTRELLA TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0eda4e0-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3894e758-2b2d-4cfc-8014-66546eaf7d74&userId=&serverSideAds=true
@@ -134,11 +160,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6f
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60089d98f682a3002c34829f" tvg-id="5e20b730f2f8d5003d739db7-60089d98f682a3002c34829f" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/estrellatv_logo_dark.png" group-title="VARIEDADES", ESTRELLA TV
 https://v-ny.mybtv.net/live/650.m3u8
 
-#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Telexitos
-https://v-ny.mybtv.net/live/660.m3u8
 
-#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Teleonce
-https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
+
+
 
 #EXTINF:-1 tvg-id="5f4d3696d938c900072679fd" tvg-logo=" " group-title="DOCUMENTALES", Historias de Ultratumba
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=c2849db8-1412-11eb-bde1-0242ac110002&userId=&serverSideAds=true
@@ -228,14 +252,7 @@ https://linear-192.frequency.stream/192/hls/master/playlist_640x360.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX", De Película Plus
 https://linear-404.frequency.stream:443/404/hls/master/playlist_640x360.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VIX", Afizzionados
-https://linear-348.frequency.stream:443/348/hls/master/playlist_640x360.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VIX", Zona TUDN
-https://linear-356.frequency.stream/356/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="h" group-title="VIX", Zona Fut Bol
-https://linear-373.frequency.stream:443/373/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VIX", Telehit Musica Plus
 https://linear-419.frequency.stream:443/419/hls/master/playlist_640x360.m3u8
@@ -249,10 +266,10 @@ https://linear-417.frequency.stream:443/417/hls/master/playlist_640x360.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIX", Bandamax
 https://linear-400.frequency.stream/400/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VIX", Local View 
+#EXTINF:-1 tvg-logo="" group-title="VIX", Televisa Guadalajara
 https://linear-402.frequency.stream:443/402/hls/master/playlist_640x360.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VIX", Local View 2
+#EXTINF:-1 tvg-logo="" group-title="VIX", Televisa Monterrey
 https://linear-403.frequency.stream/403/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VIX", ATV+
@@ -288,8 +305,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="CANELA TV" , Butaca TV
 https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="CANELA TV", ITV Deportes
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656899342&id=34434&ip=45.188.78.93&override_expiration=1500&sign=TxhnXtTkkmuchk54BrTTN4p4AevpD8%2Bnm3lscX9lXPg%3D
+
 
 
 
@@ -720,8 +736,7 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=168&f=HLSAD&s=hkc
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=169&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx
 
 
-#EXTINF:-1 tvg-id="I247.37747.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", ESPN 2
-http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
+
 
 #EXTINF:-1 tvg-id="I289.61704.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", Fox Sports
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=170&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx
@@ -738,8 +753,7 @@ https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=174&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx
 
-#EXTINF:-26 tvg-logo="https://i.postimg.cc/tJ5KGDD8/claro.png" group-title="DEPORTES", CLARO SPORT
-https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/live-audio_0=64000-video=364992.m3u8
+
 
 
 
