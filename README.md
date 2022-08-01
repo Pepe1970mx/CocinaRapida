@@ -125,7 +125,7 @@ https://v-ny.mybtv.net/live/659.m3u8
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Univision
 http://linear-424.frequency.stream/424/hls/master/playlist.m3u8
 
-I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Univision
+#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Univision
 https://v-ny.mybtv.net/live/643/768x432.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60089d98f682a3002c34829f" tvg-id="5e20b730f2f8d5003d739db7-60089d98f682a3002c34829f" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/estrellatv_logo_dark.png" group-title="VARIEDADES", ESTRELLA TV
