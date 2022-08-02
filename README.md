@@ -146,7 +146,7 @@ https://v-ny.mybtv.net/live/659.m3u8
 http://linear-424.frequency.stream/424/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Univision
-https://v-ny.mybtv.net/live/643/384x216.m3u8
+https://v-ny.mybtv.net/live/643.m3u8
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Telexitos
 https://v-ny.mybtv.net/live/660/384x216.m3u8
@@ -281,7 +281,7 @@ https://linear-258.frequency.stream:443/258/hls/master/playlist_640x360.m3u8
 
 
 #EXTINF:-1 group-title="CANELA TV", Canela Kid
-
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
 #EXTINF:-1 group-title="CANELA TV", canela 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=653&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656898869&id=14603&ip=45.188.78.93&override_expiration=1500&sign=QHG86ZSmS8rAuOxLfYGQqULx0r1fVBqrLciVhkFN4vs%3D
@@ -1004,3 +1004,5 @@ https://iannes.mi-radio.stream:5003/stream
 
 #EXTINF:-1, tvg-logo="" group-title="RADIO" , RADIO USA
 https://n06.radiojar.com/6pz06e8nv4zuv
+
+
