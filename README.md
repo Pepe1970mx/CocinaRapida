@@ -682,11 +682,10 @@ http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
 http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.mi-television.com/uploads/1/0/3/0/103099212/new-image-for-youtube_orig.png" group-title="RETRO", MITV 
-http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
+https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png" group-title="PREMIUM" , PHTV 
-https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
+
 
 
 
