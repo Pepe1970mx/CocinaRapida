@@ -1,4 +1,4 @@
- #EXTM3U
+#EXTM3U
 
 
 
@@ -200,32 +200,25 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de4e0b3
 
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VIX", Distrito Comedia
-https://linear-405.frequency.stream/405/hls/master/playlist_384x216.m3u8
+https://linear-405.frequency.stream/405/hls/master/playlist_640x360.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX", La Rosa de Guadalupe
-https://linear-344.frequency.stream/344/hls/master/playlist_384x216.m3u8
+https://linear-344.frequency.stream/344/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX", Como Dice el Dicho
-https://linear-341.frequency.stream/341/hls/master/playlist_384x216.m3u8
+https://linear-341.frequency.stream/341/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX", La Familia Peluche"
-https://linear-311.frequency.stream/311/hls/master/playlist_384x216.m3u8
+https://linear-311.frequency.stream/311/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX", jajaja
-https://linear-310.frequency.stream/310/hls/master/playlist_384x216.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX", 40
-https://linear-312.frequency.stream/312/hls/master/playlist_384x216.m3u8
+https://linear-310.frequency.stream/310/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX", Risas de Oro
 https://linear-313.frequency.stream/313/hls/master/playlist_384x216.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX", Vecinos
-https://linear-314.frequency.stream/314/hls/master/playlist_384x216.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX", 40 y 20
-https://linear-340.frequency.stream/340/hls/master/playlist_384x216.m3u8
-
+https://linear-314.frequency.stream/314/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX", Pelis mex
 https://linear-307.frequency.stream/307/hls/master/playlist.m3u8
