@@ -275,9 +275,17 @@ https://linear-403.frequency.stream/403/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIX", ATV+
 https://linear-258.frequency.stream:443/258/hls/master/playlist_640x360.m3u8
 
+#EXTINF:-1 group-title="VIWIX TV", Viwix Series
+https://cloudvideo.servers10.com:8081/8208/index.m3u8
 
+#EXTINF:-1 group-title="VIWIX TV", Viwix Estreno
+https://cloudvideo.servers10.com:8081/8212/index.m3u8
 
+#E1XTINF:-1 group-title="VIWIX TV", Viwix Accion
+https://cloudvideo.servers10.com:8081/8128/index.m3u8
 
+#EXTINF:-1 group-title="VIWIX TV", Viwix Terror
+https://cloudvideo.servers10.com:8081/8206/index.m3u8
 
 
 #EXTINF:-1 group-title="CANELA TV", Canela Kid
