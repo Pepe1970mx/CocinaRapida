@@ -160,7 +160,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6f
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60089d98f682a3002c34829f" tvg-id="5e20b730f2f8d5003d739db7-60089d98f682a3002c34829f" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/estrellatv_logo_dark.png" group-title="VARIEDADES", ESTRELLA TV
 https://v-ny.mybtv.net/live/650.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES", TeleTres
+https://dslvfq5ee0geu.cloudfront.net/hls/canal3.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES", TeleSiete
+https://dslvfq5ee0geu.cloudfront.net/hls/canal7.m3u8
 
 
 
