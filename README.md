@@ -13,7 +13,7 @@ https://quierotvlive.tk/httplive/playlist_playlist.m3u8
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL" , Canal 14
-https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
+https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/4/4b/Mexiquense_tv.jpg/revision/latest?cb=20170525194804&path-prefix=es" group-title="MEXICO NACIONAL" , TV Mexiquense
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
