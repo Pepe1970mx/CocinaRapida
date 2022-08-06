@@ -272,13 +272,17 @@ https://linear-403.frequency.stream/403/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIX", ATV+
 https://linear-258.frequency.stream:443/258/hls/master/playlist_640x360.m3u8
 
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Viwix TV
+https://videohd.live:19360/8076/8076.m3u8
+
 #EXTINF:-1 group-title="VIWIX TV", Viwix Series
 https://cloudvideo.servers10.com:8081/8208/index.m3u8
 
 #EXTINF:-1 group-title="VIWIX TV", Viwix Estreno
 https://cloudvideo.servers10.com:8081/8212/index.m3u8
 
-#E1XTINF:-1 group-title="VIWIX TV", Viwix Accion
+#EXTINF:-1 group-title="VIWIX TV", Viwix Accion
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
 
 #EXTINF:-1 group-title="VIWIX TV", Viwix Terror
@@ -580,8 +584,7 @@ https://live.obslivestream.com/planetatv/index.m3u8
 https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
 
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Wholy
-https://videohd.live:19360/8076/8076.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV-MUNDO 1 
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
