@@ -105,7 +105,7 @@ http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Las Estrellas 
-https://linear-413.frequency.stream/413/hls/master/playlist_768x432.m3u8
+https://linear-413.frequency.stream/413/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I105.47425.schedulesdirect.org" tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png" group-title="VARIEDADES" , Canal 5 
 https://linear-351.frequency.stream/351/hls/master/playlist_384x216.m3u8
