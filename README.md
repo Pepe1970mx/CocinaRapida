@@ -128,7 +128,7 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="5e6690befbdf780007f78158" tvg-chno="963" tvg-logo="https://images.pluto.tv/channels/5e6690befbdf780007f78158/colorLogoPNG.png" group-title="VARIEDADES",Nuestra Visión
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e6690befbdf780007f78158/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Azteca Mundo
 https://vsd81.mycdn.me/hls/2297078876678.m3u8/sig/FrmvHdH_Yw0/expires/1659406022760/srcIp/201.148.42.146/clientType/0/srcAg/CHROME_ANDROID/mid/3892526652934/video.m3u8?p
@@ -665,7 +665,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Mpb4sLxr/telecl-sicos.png" group-title="RETRO", TELECLÁSICOS
-https://tvdatta.com:3574/stream/play.m3u8;
+https://tvdatta.com:3574/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CTfQL7m/tvretro.png" group-title="RETRO", TV RETRO PALMARES
 http://tvretropalmares.com:8090/hls/envivo.m3u8
