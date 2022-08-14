@@ -332,12 +332,13 @@ https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c8a24e17da110007eed4fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo=" " group-title="RAKUTEN" , Rakuten Shows
+https://rakuten-tvshows-2-es.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="RAKUTEN" , Pluto TV Spotlight
+#EXTINF:-1 tvg-logo=" " group-title="RAKUTEN" , Spotlight
 https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-logo=" " group-title="RAKUTEN" , Mytime Movies
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
 
 
