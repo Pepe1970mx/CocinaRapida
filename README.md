@@ -89,7 +89,7 @@ https://linear-348.frequency.stream:443/348/hls/master/playlist_640x360.m3u8
 https://linear-356.frequency.stream/356/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="h" group-title="DEPORTES", Zona Fut Bol
-https://linear-373.frequency.stream:443/373/hls/master/playlist_640x360.m3u8
+https://linear-373.frequency.stream/373/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656899342&id=34434&ip=45.188.78.93&override_expiration=1500&sign=TxhnXtTkkmuchk54BrTTN4p4AevpD8%2Bnm3lscX9lXPg%3D
@@ -709,16 +709,6 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 #EXTINF:-1 tvg-id="5e66968a70f34c0007d050be" tvg-logo="http://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="DEPORTES" , MLB 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d882-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f1832274-98b7-4765-ad8b-c533c4382008&userId=&serverSideAds=true
  
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Stadium
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" tvg-id="5e20b730f2f8d5003d739db7-5fc705f68aba71002d8b7b37" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/f219647d59fff2998f7440543cb9fa3e.png" group-title="DEPORTES",Fubo Sports Network
-https://sportsnet-midas.fubo.tv/v1/master/6c9193257c0eed8ca3f1eabccc4444f9477500f1/SportsNet/plex/master.m3u8?ads.partner=plex&ads.bundle_id=com.plexapp.android&ads.did=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.ua=okhttp%2F4.9.0&ads.client_ip=185.236.200.172&ads.us_privacy=1---
-
-
-
-#EXTINF:-1 tvg-id="5f4d1697f10a0e000798ed8d" tvg-logo="" group-title="DEPORTES", All Elite Wrestling
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=8da1fbed-166b-11eb-bde1-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" tvg-chno="970" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="DEPORTES",beIN SPORTS XTRA en español
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -726,29 +716,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd3
 #EXTINF:-1tvg- id="M. La Liga 1 HD" tvg-logo="" group-title="DEPORTES", Movistar Laliga
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 
-#EXTINF:-1 tvg-id="M. Deportes HD" tvg-logo="" group-title="DEPORTES", Movistar La Liga
-http://93.152.174.144:4000/play/beinlaliga/index.m3u8
-
-
-#EXTINF:-1 tvg-id="M. Liga de Campeones HD" group-title="DEPORTES", Liga de Campeones
-http://212.224.98.204:2200/NL/mlcampeonhd-esp/tracks-v1a1/mono.m3u8
-
-
-
 #EXTINF:-1 tvg-id="I241.19158.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", ESPN 
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=168&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx
+
 
 #EXTINF:-1 tvg-id="I241.19158.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", ESPN 2
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=169&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx
-
-
 
 
 #EXTINF:-1 tvg-id="I289.61704.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", Fox Sports
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=170&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx
 
-#EXTINF:-1 tvg-id="I289.61704.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", FOX Sports 2
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=172&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx
+
+#EXTINF:-1 tvg-id="I289.61704.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", FOX Sports 
 
 
 
@@ -757,7 +734,7 @@ https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.
 
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=174&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjhxazjv8kvzcvaajz1b682vpz2xjpvvbaack2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjx2cxav86jt2cjek82axatecch1ka811tb1vcpezp6axvz62bhbpvt8xjkc1cktpzattvtphab1ek6h6xvbj28z6b6bb2eekzx
+
 
 
 
