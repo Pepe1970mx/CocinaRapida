@@ -7,7 +7,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 https://linear-413.frequency.stream/413/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I105.47425.schedulesdirect.org" tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png" group-title="VARIEDADES" , Canal 5 
-https://linear-351.frequency.stream/351/hls/master/playlist_384x216.m3u8
+https://linear-351.frequency.stream/351/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="I418.109613.schedulesdirect.org" tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="VARIEDADES" , Multimedios
@@ -151,7 +151,7 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Afizzionados
-https://linear-348.frequency.stream:443/348/hls/master/playlist_640x360.m3u8
+https://linear-348.frequency.stream:443/348/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Zona TUDN
 https://linear-356.frequency.stream/356/hls/master/playlist.m3u8
