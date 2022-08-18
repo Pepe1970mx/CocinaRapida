@@ -1,3 +1,6 @@
+
+
+
 #EXTM3U
 
 #EXTINF:-1 tvg-id="I83.46607.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Azteca Uno
@@ -151,10 +154,10 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN 
-https://linear-384.frequency.stream:443/384/hls/master/playlist.m3u8
+https://linear-384.frequency.stream/384/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN
-https://linear-383.frequency.stream:443/383/hls/master/playlist.m3u8
+https://linear-383.frequency.stream/383/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN
 
