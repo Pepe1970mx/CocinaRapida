@@ -67,12 +67,6 @@ https://dslvfq5ee0geu.cloudfront.net/hls/canal7.m3u8
 
 
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Imagen_TV_logo.png/200px-Imagen_TV_logo.png" group-title="MEXICO NACIONAL",  Imagen TV
 
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EM8Ks47kwqSGMiH4twcCBgAAAA&pid=Api&P=0&w=175&h=43" tvg-id="I222.97020.schedulesdirect.org" group-title="MEXICO NACIONAL", Canal Nu9ve
@@ -181,6 +175,28 @@ https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/live-audio_0=64000-v
 #EXTINF:-1 tvg-id="I247.37747.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", ESPN 2
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 
+#EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" tvg-chno="970" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="DEPORTES",beIN SPORTS XTRA en español
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="5e66968a70f34c0007d050be" tvg-logo="http://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="DEPORTES" , MLB 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d882-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f1832274-98b7-4765-ad8b-c533c4382008&userId=&serverSideAds=true
+
+
+
+#EXTINF:-1tvg- id="M. La Liga 1 HD" tvg-logo="" group-title="DEPORTES", Movistar Laliga
+http://93.152.174.144:4000/play/beinlaliga/index.m3u8
+
+#EXTINF:-1 tvg-id="I241.19158.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", ESPN 
+
+
+#EXTINF:-1 tvg-id="I241.19158.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", ESPN 2
+
+
+#EXTINF:-1 tvg-id="I289.61704.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", Fox Sports
+
+
+#EXTINF:-1 tvg-id="I289.61704.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", FOX Sports 
+
 
 
 
@@ -225,6 +241,9 @@ https://linear-405.frequency.stream/405/hls/master/playlist_640x360.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VIX", Televisa Monterrey
 https://linear-403.frequency.stream/403/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VIX", Televisa Guadalajara
+https://linear-402.frequency.stream:443/402/hls/master/playlist_640x360.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VIX", ATV+
 https://linear-258.frequency.stream:443/258/hls/master/playlist_640x360.m3u8
@@ -272,8 +291,6 @@ https://linear-192.frequency.stream/192/hls/master/playlist_640x360.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX", De Película Plus
 https://linear-404.frequency.stream:443/404/hls/master/playlist_640x360.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="" group-title="VIX", Telehit Musica Plus
 https://linear-419.frequency.stream:443/419/hls/master/playlist_640x360.m3u8
 
@@ -286,8 +303,7 @@ https://linear-417.frequency.stream:443/417/hls/master/playlist_640x360.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIX", Bandamax
 https://linear-400.frequency.stream/400/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VIX", Televisa Guadalajara
-https://linear-402.frequency.stream:443/402/hls/master/playlist_640x360.m3u8
+
 
 
 
@@ -328,14 +344,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=652&avod=1&coppa=0&is_lat=
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656899242&id=20507&ip=45.188.78.93&override_expiration=1500&sign=w447FyzW4YQ3K5KfLcJS08dDjVhohBlb1nVD2Ylud88%3D
 
 #EXTINF:-1 tvg-logo=" " group-title="CANELA TV" , Cine Mex
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo=" " group-title="CANELA TV" , Butaca TV
-https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo=" " group-title="RAKUTEN" , Rakuten Accion
@@ -718,55 +729,6 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="5e66968a70f34c0007d050be" tvg-logo="http://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="DEPORTES" , MLB 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d882-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f1832274-98b7-4765-ad8b-c533c4382008&userId=&serverSideAds=true
- 
-
-#EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" tvg-chno="970" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/colorLogoPNG.png" group-title="DEPORTES",beIN SPORTS XTRA en español
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1tvg- id="M. La Liga 1 HD" tvg-logo="" group-title="DEPORTES", Movistar Laliga
-http://93.152.174.144:4000/play/beinlaliga/index.m3u8
-
-#EXTINF:-1 tvg-id="I241.19158.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", ESPN 
-
-
-#EXTINF:-1 tvg-id="I241.19158.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", ESPN 2
-
-
-#EXTINF:-1 tvg-id="I289.61704.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", Fox Sports
-
-
-#EXTINF:-1 tvg-id="I289.61704.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", FOX Sports 
-
-
-
-#EXTINF:-1 tvg-id="I294.66365.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", FOX Sports 2
-https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN
 
 
 
