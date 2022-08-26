@@ -677,13 +677,13 @@ https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/42_.m3u8?token=Tc-tB8Ws1IZrF0yn1VNQ2A&expires=1659951644&ip=153.92.6.72
 
 #EXTINF:-1 tvg-id="I83.46607.schedulesdirect.org" tvg-logo=" " group-title="CABLE", TNT
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?l=17&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcj8b2j8xaj6kxtxjtx1tpepb8jzz8j6pz6ack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcb18eepa8tzx2kxbbhkvc8bebx81jzhvtbkhethb16jtat1btcj128tzthkezxk66a1xav1pcxbvk1txz2avze68vjbjkcj8cvtbpx2xavkzpxapppjjexkhbbjae8kaha.m3u8
+
 
 #EXTINF:-1 group-title="CABLE", Fox
-/https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/214_.m3u8?token=P3-BCOAKQRB8oQXvSZG_7Q&expires=1659951855&ip=153.92.6.72
+/
 
 #EXTINF:-1 group-title="CABLE", Warner TV
-https://edge3.prepro.cvattv.com.ar/live/vod/WarnerHD/SA_Live_WebVTT_FTA/WarnerHD.m3u8
+
 
 #EXTINF:-1 group-title="CABLE", HBO 2
 https://edge3.prepro.cvattv.com.ar/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
