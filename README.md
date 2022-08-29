@@ -370,8 +370,19 @@ https://rakuten-tvshows-2-es.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="RAKUTEN" , Spotlight
 https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="RAKUTEN" , Mytime Movies
+#EXTINF:-1 channel-id="samsung-ESBA2200004G5" tvg-id="ESBA2200004G5" tvg-chno="4981" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/81/ESBA2200004G5_20220323T081719.png" group-title="RAKUTEN" , Mytime Movies Network
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 channel-id="samsung-ESAJ4500021HQ" tvg-id="ESAJ4500021HQ" tvg-chno="4219" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/59/ESAJ4500021HQ_20220323T081833.png" group-title="RAKUTEN" , Rakuten Stories
+https://bbfb189d0b5442118b9541714950d36c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenSpotlight/playlist.m3u8?ads.wurl_channel=430&ads.wurl_name=RakutenSpotlight&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 channel-id="samsung-ESBC40000248" tvg-id="ESBC40000248" tvg-chno="4972" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/41/ESBC40000248_20220323T082046.png" group-title="RAKUTEN",Dark Matter TV
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_es_darkmatter_001.m3u8?ads.caid=darkmatterspain&ads.csid=samsungtvplus_es_darkmatter_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_gdpr_consent=%7BTC_STRING%7D&ads._fw_h_x_country=ES&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=3479&ads.xumo_contentName=tricoastdarkmatteres&ads.xumo_providerId=3479&ads.xumo_providerName=tricoastdarkmatteres&ads.xumo_channelId=9992561&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=darkmatter_es&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+
+#EXTINF:-1 channel-id="samsung-ESBA3300044CZ" tvg-id="ESBA3300044CZ" tvg-chno="4993" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/29/ESBA3300044CZ_20220511T011717.png" group-title="RAKUTEN",Movies Central by TV Player
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+
+
 
 
 
@@ -391,7 +402,7 @@ https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master_3.m3u8
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" tvg-id="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fe3c7159-2d42-47c3-a112-2c0cd847e4ef/horrorfy_logo.png" group-title="PLEX",Horrorfy
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=xAoXwfNRpzqfb4QF8JUB&channelId=617afafd7ab406f93af02607
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-608b7095a09205002da4f293" tvg-id="5e20b730f2f8d5003d739db7-608b7095a09205002da4f293" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/tucine_logo_light.png" group-title="PLEX", Tu Cine
+#EXTINF:-1 channel-id="samsung-ESBA3300039ZX" tvg-id="ESBA3300039ZX" tvg-chno="4163" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/36/ESBA3300039ZX_20220323T081936.png" group-title="PLEX", Tu Cine
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60240f58676235002df19f4b" tvg-id="5e20b730f2f8d5003d739db7-60240f58676235002df19f4b" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/topcine_logo_dark_v3.png" "PLEX", Top Cine 
@@ -406,10 +417,10 @@ https://cinereal-plex.amagi.tv:443/CineReal/master_3.m3u8
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-616df1e90dfa27ee465797fa" tvg-id="5e20b730f2f8d5003d739db7-616df1e90dfa27ee465797fa" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e4ba10a4-dbb2-4d15-b268-1ed43ddf7e4b/cinelife-logo.png" group-title="PLEX",CineLife
 https://0b4227d4da7e4ba4aa9d980f532fdc86.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-44-REVRYNOW-PLEX/mt/plex/44/hls/master/playlist.m3u8?ads.plex_token=3CVj99wcF7yCfKc1xpKk&ads.plex_id=5f458dded93f4a0041cb1f63&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5f47b0b87cb6a400422f9146" tvg-id="5e20b730f2f8d5003d739db7-5f47b0b87cb6a400422f9146" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2bad1dfc-bfda-46ae-bd0d-36b1e07ccb47/runtime-logo_1500x1000.png" group-title="PLEX",Runtime
+#EXTINF:-1 channel-id="samsung-ESBC400001QQ" tvg-id="ESBC400001QQ" tvg-chno="4975" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/51/ESBC400001QQ_20220323T082052.png" group-title="PLEX",Runtime
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c15.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=nzDHQAEN5sy2T7TLWRUe
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-61e86191307b907b95d63304" tvg-id="5e20b730f2f8d5003d739db7-61e86191307b907b95d63304" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4194f8aa-c90d-47b0-a154-0337c8660783/todo_crimen_750x500_v2_-_Kam_Jey.png" group-title="PLEX",Todo Crimen
+#EXTINF:-1 channel-id="samsung-ESBA2200005D6" tvg-id="ESBA2200005D6" tvg-chno="4004" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBA2200005D6_20220824T005419.png" group-title="PLEX",Todo Crimen
 https://d861871e83924957b35eabcebb7df7eb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TodoCrimen/playlist.m3u8?ads.wurl_channel=1054&ads.wurl_name=TodoCrimen&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=xAoXwfNRpzqfb4QF8JUB&ads.plex_id=61e86191307b907b95d63304&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-id="5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png" group-title="PLEX",El Conflicto TV
@@ -538,8 +549,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea93ffcf94500071c4b
 #EXTINF:-1 tvg-id="6054ab20a365c70007e4fd44" tvg-chno="810" tvg-logo="https://images.pluto.tv/channels/6054ab20a365c70007e4fd44/colorLogoPNG.png" group-title="24/7",Garfield
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-
-
+#EXTINF:-1 channel-id="samsung-ESBA3300028OE" tvg-id="ESBA3300028OE" tvg-chno="4001" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/98/ESBA3300028OE_20220810T012734.png" group-title="24/7",iCarly
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/6271503d13aef10007cf15e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
 
 
 
