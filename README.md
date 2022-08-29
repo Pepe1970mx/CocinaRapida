@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="I83.46607.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", MTV
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/87_.m3u8?token=TeFy_nxlOJnu27YoiJL9Ew&expires=1661749463&ip=153.92.6.72
+
 #EXTINF:-1 tvg-id="I83.46607.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
