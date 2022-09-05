@@ -330,7 +330,7 @@ https://tls-cl.cdnz.cl/planetatvmusic/live/playlist.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Viwix TV
+#EXTINF:-1 group-title="VIWIX TV" , Viwix TV
 https://videohd.live:19360/8076/8076.m3u8
 
 #EXTINF:-1 group-title="VIWIX TV", Viwix Series
@@ -368,6 +368,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=652&avod=1&coppa=0&is_lat=
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656899242&id=20507&ip=45.188.78.93&override_expiration=1500&sign=w447FyzW4YQ3K5KfLcJS08dDjVhohBlb1nVD2Ylud88%3D
 
 #EXTINF:-1 tvg-logo=" " group-title="CANELA TV" , Cine Mex
+
+
+#EXTINF:-1 tvg-logo=" " group-title="CANELA TV" ,
+
+
+#EXTINF:-1 tvg-logo=" " group-title="CANELA TV" ,
+
 
 
 #EXTINF:-1 tvg-logo=" " group-title="CANELA TV" , Butaca TV
@@ -457,7 +464,17 @@ https://7bfb0497795c4d3db90a041bf4cbdae6.mediatailor.us-east-1.amazonaws.com/v1/
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=61&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=3CVj99wcF7yCfKc1xpKk&content_series=5f170d64b898490041b4938f&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=3CVj99wcF7yCfKc1xpKk&custom_7=5f170d64b898490041b4938f&is_lat=0
 
 
+#EXTINF:-1 tvg-logo=" " group-title="RUN:TIME" , Run:Time Accion
 
+
+#EXTINF:-1 tvg-logo=" " group-title="RUN:TIME" , Run:Time Comedia
+
+#EXTINF:-1 tvg-logo=" " group-title="RUN:TIME" , Run:Time Triller
+
+#EXTINF:-1 tvg-logo=" " group-title="RUN:TIME" , Run:Time  Crimen
+
+
+#EXTINF:-1 tvg-logo=" " group-title="RUN:TIME" , Run:Time Clasico
 
 
 #EXTINF:-1 tvg-id="5de802659167b10009e7deba" tvg-chno="104" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" group-title="SERIES PLUTO TV",Pluto TV Series Retro
