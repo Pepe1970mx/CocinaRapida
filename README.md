@@ -367,18 +367,18 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=652&avod=1&coppa=0&is_lat=
 #EXTINF:-1 group-title="CANELA TV", Acción Mexicana
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656899242&id=20507&ip=45.188.78.93&override_expiration=1500&sign=w447FyzW4YQ3K5KfLcJS08dDjVhohBlb1nVD2Ylud88%3D
 
-#EXTINF:-1 tvg-logo=" " group-title="CANELA TV" , Cine Mex
+#EXTINF:-1 tvg-logo=" " group-title="CANELA TV" , Canela Pop
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1yn-&did=6c3439a8860c1c8ce5d6fe91bdc8df6f&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=en&consent=1&gdpr=0&site_page=https%253a%252f%252fwww.canela.tv%252f&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1662247333&id=18784&ip=192.141.246.245&override_expiration=1500&deliveryProfileId=23762&sign=I8r2g4BOUlvG7nkOSCKlqptphLFj%2B7zxA5OCCSMC6cI%3D
 
-
-#EXTINF:-1 tvg-logo=" " group-title="CANELA TV" ,
-
+#EXTINF:-1 tvg-logo=" " group-title="CANELA TV" , Canela Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1yn-&did=6c3439a8860c1c8ce5d6fe91bdc8df6f&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=en&consent=1&gdpr=0&site_page=https%253a%252f%252fwww.canela.tv%252f&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1662247173&id=17366&ip=192.141.246.245&override_expiration=1500&deliveryProfileId=23762&sign=NwmUcOBhh78F%2B6p%2FYZrbn5bCAe4lEGC80CPcoX8mdzM%3D
 
 #EXTINF:-1 tvg-logo=" " group-title="CANELA TV" ,
 
 
 
 #EXTINF:-1 tvg-logo=" " group-title="CANELA TV" , Butaca TV
-
+https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="RAKUTEN" , Rakuten Accion
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
@@ -465,17 +465,19 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=61&live=1&app_b
 
 
 #EXTINF:-1 tvg-logo=" " group-title="RUN:TIME" , Run:Time Accion
-
+https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="RUN:TIME" , Run:Time Comedia
+https://run-rc-es.otteravision.com/run/rc_es/rc_es.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="RUN:TIME" , Run:Time Triller
+https://run-th-es.otteravision.com/run/th_es/th_es.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="RUN:TIME" , Run:Time  Crimen
-
+https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="RUN:TIME" , Run:Time Clasico
-
+https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
 
 #EXTINF:-1 tvg-id="5de802659167b10009e7deba" tvg-chno="104" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" group-title="SERIES PLUTO TV",Pluto TV Series Retro
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
