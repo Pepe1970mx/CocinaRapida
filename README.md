@@ -45,6 +45,9 @@ http://linear-424.frequency.stream/424/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="VARIEDADES", Univision
 https://v-ny.mybtv.net/live/643.m3u8
 
+#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="VARIEDADES", Unimas
+https://v-la.mybtv.net/live/299.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Telexitos
 https://v-ny.mybtv.net/live/660.m3u8
 
@@ -277,8 +280,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d
 #EXTINF:-1 tvg-id="I289.61704.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", Fox Sports
 
 
-#EXTINF:-1 tvg-id="I289.61704.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", FOX Sports 
-
+#EXTINF:-1 tvg-id="I289.61704.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", FOX Sports 2
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_154.m3u8
 
 
 
