@@ -281,6 +281,9 @@ https://stmv1.voxhdnet.com/marcos6300/marcos6300/playlist.m3u8
 #EXTINF:-1 tvg-id="I289.61704.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", Fox Sports
 https://schurch2.bozztv.com/livecdn255/myStream.sdp/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="I289.61704.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", Fox Sports
+livestreams.flote.app:5443/flote/streams/175a5382-01e5-45f3-b7f7-de1696460d41.m3u8
+
 #EXTINF:-1 tvg-id="I289.61704.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", FOX Sports 2
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_154.m3u8
 
