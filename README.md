@@ -289,8 +289,8 @@ https://stmv1.voxhdnet.com/marcos6300/marcos6300/playlist.m3u8
 #EXTINF:-1 tvg-id="I241.19158.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", ESPN 2
 
 
-#EXTINF:-1 tvg-id="I289.61704.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", Fox Sports
-https://schurch2.bozztv.com/livecdn255/myStream.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-id="I289.61704.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", Duhock
+http://duhoksport.badinan.xyz:1935/live/Duhok--Sports--HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I289.61704.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", Fox Sports
 http://livestreams.flote.app:5443/flote/streams/175a5382-01e5-45f3-b7f7-de1696460d41.m3u8
