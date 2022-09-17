@@ -287,7 +287,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d
 https://stmv1.voxhdnet.com/marcos6300/marcos6300/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I241.19158.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", ESPN 2
-
+https://play.boxcast.com/p/pyv1ijmmq9pypudjgpis/v/all-ext.m3u8?Expires=2147483647&Signature=lOj7sUp5jC5pTWWRBuLZqiIJAVdrY17N0pZD8dP2R5OpiK3-EK7iC~mBF9yN1ExQ8UaFiPIbYLXcDiIpHG3iGRfgTc1pzrD07PvJvP88lY2KCH-M5YcESNl69HLHY8OkDJDbuCSTQggpLQTdA9p735yquEdvmH~6KAcUgIgQOuu7-be9qtwFuC2d6P1c1CBD644TKiIkLAoRnujfkYoBCiwtQTm2SJsya1L0B9WJn6pmQ4bcNiG6kfhKZrelYxLalqnNQ0la9rxO3Rz4B7rIkt2PKj6kygeCeZLg4DOAOeJLz3zH0bLw29vn8faDTsg130hHxxC44TA36MRlGhHYUg__&Key-Pair-Id=APKAJ7GUCBQUK6NTWZCA
 
 #EXTINF:-1 tvg-id="I289.61704.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", Duhock
 http://duhoksport.badinan.xyz:1935/live/Duhok--Sports--HD/playlist.m3u8
