@@ -249,7 +249,7 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN 
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/3_.m3u8?token=e_Ysnv81nQUvukXGZ4vuzQ&expires=1662867417&ip=189.197.118.50
+http://54.39.19.162:8081/live/dream1/playlist.m3u8?fbclid=IwAR2rJlLgLOvcUzif1pDmsHhQEMh74a5hJFKFSNjTiCtyUak1VB5tlxzuQdE
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Afizzionados
 https://linear-348.frequency.stream:443/348/hls/master/playlist.m3u8
