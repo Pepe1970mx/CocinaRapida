@@ -481,6 +481,9 @@ https://7bfb0497795c4d3db90a041bf4cbdae6.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5f170d64b898490041b4938f" tvg-id="5e20b730f2f8d5003d739db7-5f170d64b898490041b4938f" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/tg-junior-us.png" group-title="PLEX",TG Junior
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=61&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=3CVj99wcF7yCfKc1xpKk&content_series=5f170d64b898490041b4938f&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=3CVj99wcF7yCfKc1xpKk&custom_7=5f170d64b898490041b4938f&is_lat=0
 
+#EXTINF:-1 group-title="PLEX", Box Cinema
+https://c336356fded74d1ebddf35150b9ba10c.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR/contentserver/v2/distributions/19194559/content/m.m3u8?ads.vast_id=661368&session_ticket=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImdMVEJTMFdQVWU3N0xIdlUwM000IiwiaXNzIjoiY29udGVudHNlcnZlci9ub3RfdHJhY2tlZCIsInNjcCI6eyJyc2MiOnsiZGlzdHJpYnV0aW9uOmlkIjoiMTkxOTQ1NTkifSwiYWN0IjpbImRpc3RyaWJ1dGlvbjpzZXJ2ZSJdfSwiZXhwIjoxNjYzNDUyNTQ1fQ.NNUbXLZs69l5czXK85Nt8ZttR-nsuxlfe_wkTxS7jCU&ads.h=726&ads.w=384&ads.did=dc2a441a&ads.channel_name=Box%20Cinema&ads.content_genre=Featured,Featured&ads.rating=TV14&ads.content_series=cuando%20las%20luces%20se%20apagan&ads.us_privacy=1N-N&ads.app_platform=web&ads.app_ver=1.0.23
+
 
 #EXTINF:-1 tvg-logo=" " group-title="RUN:TIME" , Run:Time Accion
 https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
@@ -830,6 +833,27 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85cf621d6d2200079f1d
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fabfce6e8e00070bcc9f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="6047fd723b5bd00007de7092" tvg-chno="916" tvg-logo="https://images.pluto.tv/channels/6047fd723b5bd00007de7092/colorLogoPNG.png" group-title="PLUTO TV MUSICA",MTV Spankin' New
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fd723b5bd00007de7092/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplu
+
+#EXTINF:-1 group-title="PLUTO TV MUSICA", 80
+https://c336356fded74d1ebddf35150b9ba10c.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR/contentserver/v2/distributions/18677304/content/m.m3u8?ads.vast_id=645687&session_ticket=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InNOOVRja2hRa3hwVG1oc2FyTGNnIiwiaXNzIjoiY29udGVudHNlcnZlci9ub3RfdHJhY2tlZCIsInNjcCI6eyJyc2MiOnsiZGlzdHJpYnV0aW9uOmlkIjoiMTg2NzczMDQifSwiYWN0IjpbImRpc3RyaWJ1dGlvbjpzZXJ2ZSJdfSwiZXhwIjoxNjYzNDUzOTUxfQ.Ost2d23cGpLSXl0vHpz9OZSD2c0FsQztdyZ8FeKrZSw&ads.h=726&ads.w=384&ads.did=dc2a441a&ads.channel_name=Rockola%20Television&ads.content_genre=&ads.rating=TV14&ads.content_series=undefined&ads.us_privacy=1N-N&ads.app_platform=web&ads.app_ver=1.0.23
+
+
+#EXTINF:-1 group-title="PLUTO TV MUSICA", Box Music
+https://c336356fded74d1ebddf35150b9ba10c.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR/contentserver/v2/distributions/18677298/content/m.m3u8?ads.vast_id=645688&session_ticket=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ik1MWXVVbnJ3UThyUVZ5RVJrUDljIiwiaXNzIjoiY29udGVudHNlcnZlci9ub3RfdHJhY2tlZCIsInNjcCI6eyJyc2MiOnsiZGlzdHJpYnV0aW9uOmlkIjoiMTg2NzcyOTgifSwiYWN0IjpbImRpc3RyaWJ1dGlvbjpzZXJ2ZSJdfSwiZXhwIjoxNjYzNDUyODkwfQ.X7wjN-xp7GJIPJFnlsai1z6roCih9b0ZnRMstHBr3Jw&ads.h=726&ads.w=384&ads.did=dc2a441a&ads.channel_name=Box%20Playlist&ads.content_genre=&ads.rating=TV14&ads.content_series=boxplaylist%20-%20es%20concierto%20con%20raffy%20diaz&ads.us_privacy=1N-N&ads.app_platform=web&ads.app_ver=1.0.23
+
+
+#EXTINF:-1 group-title="PLUTO TV MUSICA",
+
+
+
+#EXTINF:-1 group-title="PLUTO TV MUSICA",
+
+
+#EXTINF:-1 group-title="PLUTO TV MUSICA",
+
+
+#EXTINF:-1 group-title="PLUTO TV MUSICA",
+
 
 
 
