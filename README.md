@@ -361,7 +361,7 @@ https://s2.tvdatta.com:3172/hybrid/play.m3u8
 https://s2.tvdatta.com:3457/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="VIWIX TV", Viwix Terror
-https://cloudvideo.servers10.com:8081/8206/index.m3u8
+https://s2.tvdatta.com:3849/hybrid/play.m3u8
 
 
 
