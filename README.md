@@ -352,13 +352,13 @@ https://tls-cl.cdnz.cl/planetatvmusic/live/playlist.m3u8?PlaylistM3UCL
 https://videohd.live:19360/8076/8076.m3u8
 
 #EXTINF:-1 group-title="VIWIX TV", Viwix Series
-https://cloudvideo.servers10.com:8081/8208/index.m3u8
+https://s2.tvdatta.com:3402/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="VIWIX TV", Viwix Estreno
-https://cloudvideo.servers10.com:8081/8212/index.m3u8
+https://s2.tvdatta.com:3172/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="VIWIX TV", Viwix Accion
-https://cloudvideo.servers10.com:8081/8128/index.m3u8
+https://s2.tvdatta.com:3457/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="VIWIX TV", Viwix Terror
 https://cloudvideo.servers10.com:8081/8206/index.m3u8
