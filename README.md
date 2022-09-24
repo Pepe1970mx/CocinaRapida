@@ -205,10 +205,10 @@ https://linear-400.frequency.stream/400/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="NOTICIAS" , CNN en Español
-https://linear-358.frequency.stream/358/hls/master/playlist.m3u8
+https://dsuub0ebctcrw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4x428uikrca62-prod/dist/samsungtv/358/hls/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="NOTICIAS", Foro TV 
-https://linear-300.frequency.stream/300/hls/master/playlist.m3u8
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="NOTICIAS", Nmedia+ 
 https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
@@ -281,6 +281,10 @@ https://lshstream.xyz/hls/allsportsicu02/index.m3u8
 http://duhoksport.badinan.xyz:1935/live/Duhok--Sports--HD/playlist.m3u8
 
 
+
+
+
+
 #EXTINF:-1 tvg-id="I247.37747.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", ESPN 2
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 
@@ -294,6 +298,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b
 #EXTINF:-1 tvg-id="5e66968a70f34c0007d050be" tvg-logo="http://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="DEPORTES" , MLB 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d882-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f1832274-98b7-4765-ad8b-c533c4382008&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES", ss
+https://shls-mbc1ksa-ak.akamaized.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index_4.m3u8
 
 
 #EXTINF:-1 tvg-id="I241.19158.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", ESPN
