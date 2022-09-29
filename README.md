@@ -5,7 +5,7 @@
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Las Estrellas 
-https://linear-413.frequency.stream/413/hls/master/playlist.m3u8
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
 
 #EXTINF:-1 tvg-id="I105.47425.schedulesdirect.org" tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png" group-title="VARIEDADES" , Canal 5 
 https://linear-351.frequency.stream/351/hls/master/playlist.m3u8
