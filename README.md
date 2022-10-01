@@ -686,7 +686,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60218c2a32f9c40007c
 
 
 #EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV-MUNDO 1 
-https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
+https://cloud2.streaminglivehd.com:1936/8018/8018/.m3u8
 
 #EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", MegaCine
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
