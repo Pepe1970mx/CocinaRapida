@@ -752,13 +752,16 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 
 
 
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" , TigueritosTV
+https://ss9.domint.net:3012/ttv_str/%20tigueritotv/.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" , Canal 74
+https://stmv1.zcastbr.com/canal74hd/canal74hd/.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" , Cinerama
+https://5d00db0e0fcd5.streamlock.net/7062/7062/.m3u8
 
-
-
-
-
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" ,
 
 
 
