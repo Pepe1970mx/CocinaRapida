@@ -630,6 +630,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a365c70007e4fd
 #EXTINF:-1 channel-id="samsung-ESBA3300028OE" tvg-id="ESBA3300028OE" tvg-chno="4001" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/98/ESBA3300028OE_20220810T012734.png" group-title="24/7",iCarly
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/6271503d13aef10007cf15e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
 
+#EXTINF:-1 tvg-logo=" " group-title="24/7", Los Pitufos
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62683498858f3e619d82d903.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=1EoAK2fQHGnpDkq86vc4
 
 
 #EXTINF:-1 tvg-id="60142258a54aeb0007751c15" tvg-chno="109" tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png" group-title="NIÑOS Y ADOLESCENTES",Pluto TV Retro Cartoons
