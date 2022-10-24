@@ -363,7 +363,7 @@ https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
 https://mediacpstreamchile.com:1936/8102/8102/playlist.m3u8
 
 #EXTINF:-61 tvg-logo="https://i.postimg.cc/Ssywmmnj/planetatv.png" group-title="PLANETA TV", PLANETA TV MOVIES
-https://tls-cl.cdnz.cl/planetatvmovie/live/playlist.m3u8
+https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="PLANETA TV" , Planeta Music
 https://tls-cl.cdnz.cl/planetatvmusic/live/playlist.m3u8?PlaylistM3UCL
