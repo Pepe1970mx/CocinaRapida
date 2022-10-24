@@ -109,8 +109,13 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", El trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Fanpop
+https://stream.wifispeed.cl:3247/live/energeek2live.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Esports Max
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", 
 
 
 
@@ -355,7 +360,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de4e0b3
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
 
 #EXTINF:-1 group-title="PLANETA TV" , Planeta TV
-https://live.obslivestream.com/planetatv/index.m3u8
+https://mediacpstreamchile.com:1936/8102/8102/playlist.m3u8
 
 #EXTINF:-61 tvg-logo="https://i.postimg.cc/Ssywmmnj/planetatv.png" group-title="PLANETA TV", PLANETA TV MOVIES
 https://tls-cl.cdnz.cl/planetatvmovie/live/playlist.m3u8
@@ -758,6 +763,8 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="CABLE", Paramount
 
 
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" , STV
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="RETRO" , TigueritosTV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/.m3u8
