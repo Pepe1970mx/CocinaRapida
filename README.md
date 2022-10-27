@@ -357,7 +357,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de4e0b3
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ssywmmnj/planetatv.png" group-title="PLANETA TV", PLANETA TV KIDS
-https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="PLANETA TV" , Planeta TV
 https://mediacpstreamchile.com:1936/8102/8102/playlist.m3u8
@@ -366,7 +366,7 @@ https://mediacpstreamchile.com:1936/8102/8102/playlist.m3u8
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="PLANETA TV" , Planeta Music
-https://tls-cl.cdnz.cl/planetatvmusic/live/playlist.m3u8?PlaylistM3UCL
+https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 
 
 
