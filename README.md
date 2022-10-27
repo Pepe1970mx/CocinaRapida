@@ -368,7 +368,8 @@ https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="PLANETA TV" , Planeta Music
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 
-
+#EXTINF:-1 group-title="PLANETA TV" , Origen TV
+https://tv.streaming-chile.com:19360/origentv/origentv.m3u8?PlaylistM3UCL
 
 
 
