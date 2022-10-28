@@ -52,7 +52,7 @@ https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=za2544Lu2USHsyQ6qxjv
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Azteca America
-https://v-ny.mybtv.net/live/645.m3u8
+https://v-px.mybtv.net/live/41.m3u8
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Telemundo
 https://v-ny.mybtv.net/live/659.m3u8
