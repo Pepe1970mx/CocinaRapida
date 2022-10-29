@@ -147,7 +147,7 @@ https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w2102162107.m3u8
 
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VIX", Distrito Comedia
-https://linear-405.frequency.stream/405/hls/master/playlist.m3u8
+http://streamgo.vip:8008/200/200/140381
 
 #EXTINF:-1 tvg-logo="" group-title="VIX", Televisa Monterrey
 https://linear-403.frequency.stream/403/hls/master/playlist.m3u8
