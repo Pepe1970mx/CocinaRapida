@@ -377,6 +377,14 @@ https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 https://tv.streaming-chile.com:19360/origentv/origentv.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 group-title="HBO" , HBO
+http://177.234.254.38:8000/play/a02a/index.m3u8
+
+#EXTINF:-1 group-title="HBO" , HBO plus
+http://177.234.254.38:8000/play/a02c/index.m3u8
+
+#EXTINF:-1 group-title="HBO" , HBO Family
+http://177.234.254.38:8000/play/a02d/index.m3u8
 
 #EXTINF:-1 group-title="VIWIX TV" , Viwix TV
 https://videohd.live:19360/8076/8076.m3u8
