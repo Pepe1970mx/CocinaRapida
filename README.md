@@ -12,7 +12,7 @@ http://streamgo.vip:8008/200/200/140419
 
 
 #EXTINF:-1 tvg-id="I105.47425.schedulesdirect.org" tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png" group-title="VARIEDADES" , Canal 5 
-https://linear-351.frequency.stream/351/hls/master/playlist.m3u8
+http://streamgo.vip:8008/200/200/140368
 
 
 #EXTINF:-1 tvg-id="I418.109613.schedulesdirect.org" tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="VARIEDADES" , Multimedios
