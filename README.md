@@ -380,6 +380,9 @@ https://tv.streaming-chile.com:19360/origentv/origentv.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="HBO" , HBO
 http://177.234.254.38:8000/play/a02a/index.m3u8
 
+#EXTINF:-1 group-title="HBO" , HBO 2
+http://177.234.254.38:8000/play/a02b/index.m3u8
+
 #EXTINF:-1 group-title="HBO" , HBO plus
 http://177.234.254.38:8000/play/a02c/index.m3u8
 
