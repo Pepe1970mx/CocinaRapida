@@ -91,8 +91,8 @@ https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cf
 #EXTINF:-1 group-title="VARIEDADES", TVMAX
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
 
-
-
+#EXTINF:-1 group-title="VARIEDADES", Canal11
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
 
 
 
@@ -215,8 +215,8 @@ https://linear-417.frequency.stream:443/417/hls/master/playlist_640x360.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VIX", Bandamax
 https://linear-400.frequency.stream/400/hls/master/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS", Imagen Multicast
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UClqo4ZAAZ01HQdCTlovCgkA/live
 
 #EXTINF:-1 tvg-logo="https://mexico.mom-rsf.org/typo3temp/_processed_/2/8/csm_11800-1329_company_import_10156959cb.png" group-title="NOTICIAS" , CNN en Español
 https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
