@@ -268,8 +268,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJ5KGDD8/claro.png" group-title="DEPORTES", CLARO SPORT
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 
-#EXTINF:-1 tvg-id="I289.61704.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", FOX Sports 2
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_154.m3u8
+#EXTINF:-1 tvg-id="I289.61704.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", Fox Sports
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
+
+#EXTINF:-1 tvg-id="I289.61704.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", Fox Sports 1
+http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN 
 http://54.39.19.162:8081/live/dream1/playlist.m3u8?fbclid=IwAR2rJlLgLOvcUzif1pDmsHhQEMh74a5hJFKFSNjTiCtyUak1VB5tlxzuQdE
@@ -283,11 +286,6 @@ http://streamgo.vip:8008/200/200/140374
 #EXTINF:-1 group-title="DEPORTES", ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656899342&id=34434&ip=45.188.78.93&override_expiration=1500&sign=TxhnXtTkkmuchk54BrTTN4p4AevpD8%2Bnm3lscX9lXPg%3D
 
-#EXTINF:-1 tvg-id="I241.19158.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", Fut bol
-https://play.boxcast.com/p/pyv1ijmmq9pypudjgpis/v/all-ext.m3u8?Expires=2147483647&Signature=lOj7sUp5jC5pTWWRBuLZqiIJAVdrY17N0pZD8dP2R5OpiK3-EK7iC~mBF9yN1ExQ8UaFiPIbYLXcDiIpHG3iGRfgTc1pzrD07PvJvP88lY2KCH-M5YcESNl69HLHY8OkDJDbuCSTQggpLQTdA9p735yquEdvmH~6KAcUgIgQOuu7-be9qtwFuC2d6P1c1CBD644TKiIkLAoRnujfkYoBCiwtQTm2SJsya1L0B9WJn6pmQ4bcNiG6kfhKZrelYxLalqnNQ0la9rxO3Rz4B7rIkt2PKj6kygeCeZLg4DOAOeJLz3zH0bLw29vn8faDTsg130hHxxC44TA36MRlGhHYUg__&Key-Pair-Id=APKAJ7GUCBQUK6NTWZCA
-
-
-
 #EXTINF:-1 tvg-logo="h" group-title="DEPORTES", Allsports
 https://lshstream.xyz/hls/allsportsicu02/index.m3u8
 
@@ -296,10 +294,6 @@ http://duhoksport.badinan.xyz:1935/live/Duhok--Sports--HD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="h" group-title="DEPORTES", ESPN
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
-
-#EXTINF:-1 tvg-id="I247.37747.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", ESPN 2
-http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
-
 
 #EXTINF:-1tvg- id="M. La Liga 1 HD" tvg-logo="" group-title="DEPORTES", Movistar Laliga
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
@@ -317,14 +311,13 @@ https://shls-mbc1ksa-ak.akamaized.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/in
 #EXTINF:-1 tvg-id="I241.19158.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", La Liga Premier Paramount+
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="I289.61704.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", Fox Sports
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
-
-#EXTINF:-1 tvg-id="I289.61704.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", Fox Sports 1
-http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
 
 #EXTINF:-1 tvg-id="I289.61704.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", Fox Sports 2
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES", Adrenalina
+https://linear-393.frequency.stream/393/hls/master/playlist.m3u8
+
 
 
 
