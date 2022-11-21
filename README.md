@@ -46,23 +46,29 @@ https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Telever
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8O0WxdF.png" group-title="VARIEDADES" , Radio y Television de Veracruz (RTV)
+https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w1862368642.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Televisa Monterrey
+https://linear-403.frequency.stream/403/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Televisa Guadalajara
+https://linear-402.frequency.stream:443/402/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Distrito Comedia
+http://streamgo.vip:8008/200/200/140381
+
 #EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" tvg-chno="115" tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png" group-title="VARIEDADES",Pluto TV Series Latinas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="5e6690befbdf780007f78158" tvg-chno="963" tvg-logo="https://images.pluto.tv/channels/5e6690befbdf780007f78158/colorLogoPNG.png" group-title="VARIEDADES", Nuestra Visión
 https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", NCN+
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6244f2d33ef43121e567cf13.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=za2544Lu2USHsyQ6qxjv
-
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Azteca America
 https://v-px.mybtv.net/live/41.m3u8
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Telemundo
 https://v-ny.mybtv.net/live/659.m3u8
-
-#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Visión latina
-https://v-ny.mybtv.net/live/663.m3u8
 
 #EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="VARIEDADES", Univision
 https://v-ny.mybtv.net/live/643.m3u8
@@ -94,8 +100,14 @@ https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/60580
 #EXTINF:-1 group-title="VARIEDADES", Canal11
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", El trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Fanpop
+https://stream.wifispeed.cl:3247/live/energeek2live.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Esports Max
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , Ve Plus
 http://190.122.96.187:8888/http/006
@@ -109,35 +121,18 @@ https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Mariavision
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", El trece
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Fanpop
-https://stream.wifispeed.cl:3247/live/energeek2live.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Esports Max
-http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", 
 
 
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/quiero-tv-en-vivo-768x480.png" group-title="MEXICO NACIONAL" , Quiero TV
 https://quierotvlive.tk/httplive/playlist_playlist.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/4/4b/Mexiquense_tv.jpg/revision/latest?cb=20170525194804&path-prefix=es" group-title="MEXICO NACIONAL" , TV Mexiquense
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
 
 #EXTINF: -1 tvg-logo = "https://i.pinimg.com/280x280_RS/01/ca/56/01ca569f92b45cecb0cf738a912cfea0.jpg" group-title = "MEXICO NACIONAL", Telemax (XEWH)
 http://s5.mexside.net:1935/telemax/telemax/chunklist_w1982711424.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8O0WxdF.png" group-title="MEXICO NACIONAL" , Radio y Television de Veracruz (RTV)
-https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w1862368642.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL" , RCG
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
@@ -149,34 +144,29 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8?
 https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w2102162107.m3u8
 
 
-#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VIX", Distrito Comedia
-http://streamgo.vip:8008/200/200/140381
 
-#EXTINF:-1 tvg-logo="" group-title="VIX", Televisa Monterrey
-https://linear-403.frequency.stream/403/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VIX", Televisa Guadalajara
-https://linear-402.frequency.stream:443/402/hls/master/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="VIX", ATV+
 https://linear-258.frequency.stream:443/258/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX", La Rosa de Guadalupe
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX 24/7", La Rosa de Guadalupe
 https://linear-344.frequency.stream/344/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX", Como Dice el Dicho
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX 24/7", Como Dice el Dicho
 https://linear-341.frequency.stream/341/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX", La Familia Peluche"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX 24/7", La Familia Peluche"
 https://linear-311.frequency.stream/311/hls/master/playlist.m3u8
 
-#EXTINF:-1 channel-id="samsung-USBC2100010OS" tvg-id="USBC2100010OS" tvg-chno="1269" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/23/USBC2100010OS_20220726T235312.png" group-title="VIX", jajaja
+#EXTINF:-1 channel-id="samsung-USBC2100010OS" tvg-id="USBC2100010OS" tvg-chno="1269" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/23/USBC2100010OS_20220726T235312.png" group-title="VIX 24/7", jajaja
 https://linear-310.frequency.stream/310/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX", Risas de Oro
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX 24/7", Risas de Oro
 https://linear-313.frequency.stream/313/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX", Vecinos
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX 24/7", Vecinos
 https://linear-314.frequency.stream/314/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX", Pelis mex
@@ -203,17 +193,9 @@ https://linear-410.frequency.stream:443/410/hls/master/playlist_640x360.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX", De Película Plus
 https://linear-404.frequency.stream:443/404/hls/master/playlist_640x360.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VIX", Telehit Musica Plus
-https://linear-419.frequency.stream:443/419/hls/master/playlist_640x360.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VIX", Telehit Musica 
-https://linear-418.frequency.stream:443/418/hls/master/playlist_640x360.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VIX", Telehit
-https://linear-417.frequency.stream:443/417/hls/master/playlist_640x360.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VIX", Bandamax
-https://linear-400.frequency.stream/400/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NOTICIAS", Imagen Multicast
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UClqo4ZAAZ01HQdCTlovCgkA/live
@@ -819,6 +801,51 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="MUSIC", Telehit Musica Plus
+https://linear-419.frequency.stream:443/419/hls/master/playlist_640x360.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC", Telehit Musica 
+https://linear-418.frequency.stream:443/418/hls/master/playlist_640x360.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC", Telehit
+https://linear-417.frequency.stream:443/417/hls/master/playlist_640x360.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC", Bandamax
+https://linear-400.frequency.stream/400/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC", Box Music
+https://c336356fded74d1ebddf35150b9ba10c.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR/contentserver/v2/distributions/18677298/content/m.m3u8?ads.vast_id=645688&session_ticket=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ik1MWXVVbnJ3UThyUVZ5RVJrUDljIiwiaXNzIjoiY29udGVudHNlcnZlci9ub3RfdHJhY2tlZCIsInNjcCI6eyJyc2MiOnsiZGlzdHJpYnV0aW9uOmlkIjoiMTg2NzcyOTgifSwiYWN0IjpbImRpc3RyaWJ1dGlvbjpzZXJ2ZSJdfSwiZXhwIjoxNjYzNDUyODkwfQ.X7wjN-xp7GJIPJFnlsai1z6roCih9b0ZnRMstHBr3Jw&ads.h=726&ads.w=384&ads.did=dc2a441a&ads.channel_name=Box%20Playlist&ads.content_genre=&ads.rating=TV14&ads.content_series=boxplaylist%20-%20es%20concierto%20con%20raffy%20diaz&ads.us_privacy=1N-N&ads.app_platform=web&ads.app_ver=1.0.23
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC",  MUSIC TOP
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC", TOP LATINO 
+http://stream.mxiptv.org:25461/live/tvabierta/opentv/249.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="MUSIC", 24/7 Pop
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title "MUSIC" , Box Music 
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="MUSIC", Hit TV
+http://hitmusic.hu/hitmusic.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="MUSIC", 1HD
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="MUSIC", 1 Music Channels
+https://ch.iptvmate.net/b8799300af8ecf28e89b77029dfa9e6d.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="MUSIC", First Music channel
+http://hz1.teleport.cc/HLS/HD.m3u8
+
+
+
+
+
+
+
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="5fd7bca3e0a4ee0007a38e8c" tvg-chno="2500" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="PLUTO TV MUSICA",Vevo 2K
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -889,22 +916,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fd723b5bd00007de70
 https://c336356fded74d1ebddf35150b9ba10c.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR/contentserver/v2/distributions/18677304/content/m.m3u8?ads.vast_id=645687&session_ticket=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InNOOVRja2hRa3hwVG1oc2FyTGNnIiwiaXNzIjoiY29udGVudHNlcnZlci9ub3RfdHJhY2tlZCIsInNjcCI6eyJyc2MiOnsiZGlzdHJpYnV0aW9uOmlkIjoiMTg2NzczMDQifSwiYWN0IjpbImRpc3RyaWJ1dGlvbjpzZXJ2ZSJdfSwiZXhwIjoxNjYzNDUzOTUxfQ.Ost2d23cGpLSXl0vHpz9OZSD2c0FsQztdyZ8FeKrZSw&ads.h=726&ads.w=384&ads.did=dc2a441a&ads.channel_name=Rockola%20Television&ads.content_genre=&ads.rating=TV14&ads.content_series=undefined&ads.us_privacy=1N-N&ads.app_platform=web&ads.app_ver=1.0.23
 
 
-#EXTINF:-1 group-title="PLUTO TV MUSICA", Box Music
-https://c336356fded74d1ebddf35150b9ba10c.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR/contentserver/v2/distributions/18677298/content/m.m3u8?ads.vast_id=645688&session_ticket=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ik1MWXVVbnJ3UThyUVZ5RVJrUDljIiwiaXNzIjoiY29udGVudHNlcnZlci9ub3RfdHJhY2tlZCIsInNjcCI6eyJyc2MiOnsiZGlzdHJpYnV0aW9uOmlkIjoiMTg2NzcyOTgifSwiYWN0IjpbImRpc3RyaWJ1dGlvbjpzZXJ2ZSJdfSwiZXhwIjoxNjYzNDUyODkwfQ.X7wjN-xp7GJIPJFnlsai1z6roCih9b0ZnRMstHBr3Jw&ads.h=726&ads.w=384&ads.did=dc2a441a&ads.channel_name=Box%20Playlist&ads.content_genre=&ads.rating=TV14&ads.content_series=boxplaylist%20-%20es%20concierto%20con%20raffy%20diaz&ads.us_privacy=1N-N&ads.app_platform=web&ads.app_ver=1.0.23
-
-
-#EXTINF:-1 group-title="PLUTO TV MUSICA",
-
-
-
-#EXTINF:-1 group-title="PLUTO TV MUSICA",
-
-
-#EXTINF:-1 group-title="PLUTO TV MUSICA",
-
-
-#EXTINF:-1 group-title="PLUTO TV MUSICA",
-
 
 
 
@@ -930,20 +941,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA",  MUSIC TOP
-http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSICA", TOP LATINO 
-http://stream.mxiptv.org:25461/live/tvabierta/opentv/249.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA", 24/7 Pop
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title "MUSICA" , Box Music 
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA", Hit TV
-http://hitmusic.hu/hitmusic.m3u8
 
 #EXTINF:-1 tvg-logo" "group-title="MUSICA" , Loop Party
 https://aa25f9002c724666a6e1e9402e78f94f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopParty/playlist.m3u8
@@ -951,14 +949,6 @@ https://aa25f9002c724666a6e1e9402e78f94f.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="MUSICA", Flash
 https://flash-plex.amagi.tv/flash/master_1.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA", 1HD
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA", 1 Music Channels
-https://ch.iptvmate.net/b8799300af8ecf28e89b77029dfa9e6d.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="MUSICA", First Music channel
-http://hz1.teleport.cc/HLS/HD.m3u8
 
 
 
