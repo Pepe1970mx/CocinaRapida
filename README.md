@@ -1,4 +1,4 @@
-P#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/mx.xml.gz"
+P#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
 
 
 #EXTINF:-1 tvg-id="I83.46607.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Azteca Uno
@@ -262,15 +262,19 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/in
 #EXTINF:-1 tvg-logo="h" group-title="DEPORTES", ESPN
 http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
 
+#EXTINF:-1 tvg-logo="h" group-title="DEPORTES", ESPN 2
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/33823
+
+#EXTINF:-1 tvg-logo="h" group-title="DEPORTES", ESPN
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN 
-http://54.39.19.162:8081/live/dream1/playlist.m3u8
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/395
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Directv Sport
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Zona TUDN
-
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Sky Sport
+http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/27786
 
 #EXTINF:-1 group-title="DEPORTES", ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656899342&id=34434&ip=45.188.78.93&override_expiration=1500&sign=TxhnXtTkkmuchk54BrTTN4p4AevpD8%2Bnm3lscX9lXPg%3D
