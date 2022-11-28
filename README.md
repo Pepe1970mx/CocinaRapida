@@ -12,7 +12,7 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdn
 http://streamgo.vip:8008/200/200/140419
 
 
-#EXTINF:-1 tvg-id="I105.47425.schedulesdirect.org" tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png" group-title="VARIEDADES" , Canal 5 
+#EXTINF:-1 tvg-id="I105.47425.schedulesdirect.org" tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png" group-title="VARIEDADES" , 5 
 http://streamgo.vip:8008/200/200/140368
 
 
@@ -23,7 +23,7 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="I223.102406.schedulesdirect.org" tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="VARIEDADES" , Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
-#EXTINF:-1 tvg-id="I4.104892.schedulesdirect.org" tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="VARIEDADES" , A MAS
+#EXTINF:-1 tvg-id="I4.104892.schedulesdirect.org" tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="VARIEDADES" , A MAS (Izzi)
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EM8Ks47kwqSGMiH4twcCBgAAAA&pid=Api&P=0&w=175&h=43" tvg-id="I222.97020.schedulesdirect.org" group-title="VARIEDADES", Canal Nu9ve
