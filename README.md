@@ -738,8 +738,8 @@ http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="RETRO" , TigueritosTV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="RETRO" ,
-
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" , Calderavision
+https://vdo.miserver.pro:3475/live/calderavisionlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="RETRO", RETRO PLUS TV CINE
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
@@ -765,12 +765,18 @@ http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.mi-television.com/uploads/1/0/3/0/103099212/new-image-for-youtube_orig.png" group-title="RETRO", MITV 
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Mpb4sLxr/telecl-sicos.png" group-title="RETRO", TELECLÁSICOS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Mpb4sLxr/telecl-sicos.png" group-title="RETRO", Moni TV
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CTfQL7m/tvretro.png" group-title="RETRO", RetroMagico
+https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CTfQL7m/tvretro.png" group-title="RETRO", TV RETRO PALMARES
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" , TV Maxcba
+https://panel.dattalive.com/8106/8106/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" ,
 
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" ,
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", Telehit Musica Plus
 https://linear-419.frequency.stream:443/419/hls/master/playlist_640x360.m3u8
