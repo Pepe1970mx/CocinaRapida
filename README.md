@@ -1,5 +1,6 @@
-P#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
-
+#EXTM3U 
+x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
+x-tvg-url="https://i.mjh.nz/Plex/all.xml.gz"
 
 #EXTINF:-1 tvg-id="I83.46607.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
@@ -30,8 +31,6 @@ https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="VARIEDADES", Canal Once
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="VARIEDADES", MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
@@ -79,7 +78,7 @@ https://v-la.mybtv.net/live/299.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Telexitos
 https://v-ny.mybtv.net/live/660.m3u8
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60089d98f682a3002c34829f" tvg-id="5e20b730f2f8d5003d739db7-60089d98f682a3002c34829f" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/estrellatv_logo_dark.png" group-title="VARIEDADES", ESTRELLA TV
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60089d98f682a3002c34829f" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/estrellatv_logo_dark.png" group-title="VARIEDADES", ESTRELLA TV
 https://v-ny.mybtv.net/live/650.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Telemundo PR
@@ -97,7 +96,7 @@ https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cf
 #EXTINF:-1 group-title="VARIEDADES", TVMAX
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", Canal11
+#EXTINF:-1 group-title="VARIEDADES", Canal 11 HN
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", El trece
@@ -148,9 +147,6 @@ https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w2102162107.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="VIX", ATV+
-https://linear-258.frequency.stream:443/258/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX 24/7", La Rosa de Guadalupe
 https://linear-344.frequency.stream/344/hls/master/playlist.m3u8
 
@@ -161,7 +157,7 @@ https://linear-341.frequency.stream/341/hls/master/playlist.m3u8
 https://linear-311.frequency.stream/311/hls/master/playlist.m3u8
 
 #EXTINF:-1 channel-id="samsung-USBC2100010OS" tvg-id="USBC2100010OS" tvg-chno="1269" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/23/USBC2100010OS_20220726T235312.png" group-title="VIX 24/7", jajaja
-https://linear-310.frequency.stream/310/hls/master/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX 24/7", Risas de Oro
 https://linear-313.frequency.stream/313/hls/master/playlist.m3u8
@@ -179,19 +175,19 @@ https://linear-308.frequency.stream/308/hls/master/playlist.m3u8
 https://linear-309.frequency.stream/309/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VIX", Cine Club
-https://linear-192.frequency.stream/192/hls/master/playlist_640x360.m3u8
+https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX", Betme
-https://linear-401.frequency.stream:443/401/hls/master/playlist_640x360.m3u8
+https://linear-401.frequency.stream:443/401/hls/master/playlis.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX", Golden Edge
-https://linear-407.frequency.stream/407/hls/master/playlist_640x360.m3u8
+https://linear-407.frequency.stream/407/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX", Golden Edge Plus
-https://linear-410.frequency.stream:443/410/hls/master/playlist_640x360.m3u8
+https://linear-410.frequency.stream:443/410/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX", De Película Plus
-https://linear-404.frequency.stream:443/404/hls/master/playlist_640x360.m3u8
+https://linear-404.frequency.stream:443/404/hls/master/playlist.m3u8
 
 
 
@@ -330,19 +326,19 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de4e0b3
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ssywmmnj/planetatv.png" group-title="PLANETA TV", PLANETA TV KIDS
-https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 
 #EXTINF:-1 group-title="PLANETA TV" , Planeta TV
 https://mediacpstreamchile.com:1936/8102/8102/playlist.m3u8
 
 #EXTINF:-61 tvg-logo="https://i.postimg.cc/Ssywmmnj/planetatv.png" group-title="PLANETA TV", PLANETA TV MOVIES
-https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
+https://scl.edge.grupoz.cl/movie/live/movie.m3u8
 
 #EXTINF:-1 group-title="PLANETA TV" , Planeta Music
-https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
+https://scl.edge.grupoz.cl/movie/live/movie.m3u8
 
 #EXTINF:-1 group-title="PLANETA TV" , Origen TV
-https://tv.streaming-chile.com:19360/origentv/origentv.m3u8?PlaylistM3UCL
+https://tv.streaming-chile.com:19360/origentv/origentv.m3u8
 
 
 #EXTINF:-1 group-title="HBO" , HBO
@@ -498,8 +494,6 @@ https://7bfb0497795c4d3db90a041bf4cbdae6.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5f170d64b898490041b4938f" tvg-id="5e20b730f2f8d5003d739db7-5f170d64b898490041b4938f" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/tg-junior-us.png" group-title="PLEX",TG Junior
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=61&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=3CVj99wcF7yCfKc1xpKk&content_series=5f170d64b898490041b4938f&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=3CVj99wcF7yCfKc1xpKk&custom_7=5f170d64b898490041b4938f&is_lat=0
 
-#EXTINF:-1 group-title="PLEX", Box Cinema
-https://c336356fded74d1ebddf35150b9ba10c.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR/contentserver/v2/distributions/19194559/content/m.m3u8?ads.vast_id=661368&session_ticket=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImdMVEJTMFdQVWU3N0xIdlUwM000IiwiaXNzIjoiY29udGVudHNlcnZlci9ub3RfdHJhY2tlZCIsInNjcCI6eyJyc2MiOnsiZGlzdHJpYnV0aW9uOmlkIjoiMTkxOTQ1NTkifSwiYWN0IjpbImRpc3RyaWJ1dGlvbjpzZXJ2ZSJdfSwiZXhwIjoxNjYzNDUyNTQ1fQ.NNUbXLZs69l5czXK85Nt8ZttR-nsuxlfe_wkTxS7jCU&ads.h=726&ads.w=384&ads.did=dc2a441a&ads.channel_name=Box%20Cinema&ads.content_genre=Featured,Featured&ads.rating=TV14&ads.content_series=cuando%20las%20luces%20se%20apagan&ads.us_privacy=1N-N&ads.app_platform=web&ads.app_ver=1.0.23
 
 
 #EXTINF:-1 tvg-logo=" " group-title="RUN:TIME" , Run:Time Accion
@@ -516,6 +510,7 @@ https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="RUN:TIME" , Run:Time Clasico
 https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
+
 
 #EXTINF:-1 tvg-id="5de802659167b10009e7deba" tvg-chno="104" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" group-title="SERIES PLUTO TV",Pluto TV Series Retro
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -715,8 +710,6 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , eltrece
-https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Cinco TV
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
@@ -738,22 +731,6 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-logo="http://onlinetv.planetfools.com/imagenes/fox.jpg" group-title="CABLE", Star channel
-
-
-#EXTINF:-1 tvg-id="I83.46607.schedulesdirect.org" tvg-logo=" " group-title="CABLE", TNT
-
-
-#EXTINF:-1 group-title="CABLE", Fox
-/
-
-#EXTINF:-1 group-title="CABLE", Warner TV
-
-
-#EXTINF:-1 group-title="CABLE", HBO 2
-
-#EXTINF:-1 group-title="CABLE", Paramount
-
 
 #EXTINF:-1 tvg-logo=" " group-title="RETRO" , STV
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
@@ -761,18 +738,8 @@ http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="RETRO" , TigueritosTV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="RETRO" , Canal 74
-https://stmv1.zcastbr.com/canal74hd/canal74hd/.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="RETRO" , Cinerama
-https://5d00db0e0fcd5.streamlock.net/7062/7062/.m3u8
-
 #EXTINF:-1 tvg-logo=" " group-title="RETRO" ,
 
-
-
-#EXTINF:-1 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="RETRO", RETRO PLUS TV CINE
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="RETRO", RETRO PLUS TV CINE
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
