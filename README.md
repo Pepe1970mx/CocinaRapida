@@ -745,7 +745,7 @@ https://vdo.miserver.pro:3475/live/calderavisionlive.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LsCbCN1Z/acsnetwork.png" group-title="RETRO", ACS NETWORK
-https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
+https://acs.amelbasoluciones.co:3370/live/acslivelive.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="RETRO" , Dreiko TV 
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
@@ -760,7 +760,7 @@ https://v4.tustreaming.cl/retroplaytv/index.m3u8
 http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="RETRO", MASTV 
-http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1753795779.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.mi-television.com/uploads/1/0/3/0/103099212/new-image-for-youtube_orig.png" group-title="RETRO", MITV 
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
@@ -774,8 +774,8 @@ https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="RETRO" , TV Maxcba
 https://panel.dattalive.com/8106/8106/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="RETRO" ,
-
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" , ExtraTV
+https://www.dailymotion.com/cdn/live/video/x83sd3v.m3u8?sec=sCd2lo8JYZ-qGV4vJIymNgWZYOOCgqbipKZ6lkmKGsjnI7yBTzGBK5Hq-R3Aqtg7ITOlX7ppJ_1nt_7nXxd2og&dmTs=297921&dmV1st=8BCA9EB6B6C86041931A84C4BCF58FD3
 #EXTINF:-1 tvg-logo=" " group-title="RETRO" ,
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", Telehit Musica Plus
