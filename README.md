@@ -711,8 +711,8 @@ https://cdn3.streamgato.us:3434/live/chinolatvlive.m3u8
 #EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", Telemix
 https://panel.dattalive.com/8068/8068/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", 
-
+#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", San Isidrio TV
+https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", MegaCine
