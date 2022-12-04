@@ -266,8 +266,8 @@ http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/33823
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN 
 http://190.61.102.67:31589/play/a08j/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Directv Sport
-http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Tec 
+https://s@d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Sky Sport
 http://190.61.102.67:31589/play/a08q/index.m3u8
@@ -324,6 +324,17 @@ https://bamus-spa-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-spanish/CD
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de4e0b3f5003f5d9f73.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=xAoXwfNRpzqfb4QF8JUB
 
 
+#EXTINF:-1 group-title="SEO" , SEO TV
+https://live.seo.tv.bo/live/1SEO.m3u8
+
+#EXTINF:-1 group-title="SEO" , SEO KID
+https://live.seo.tv.bo/live/2SEO.m3u8
+
+#EXTINF:-1 group-title="SEO" , SEO NOVELAS
+https://live.seo.tv.bo/live/3SEO.m3u8
+
+#EXTINF:-1 group-title="SEO" , SEO MOVIE
+https://live.seo.tv.bo/live/4SEO.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ssywmmnj/planetatv.png" group-title="PLANETA TV", PLANETA TV KIDS
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
