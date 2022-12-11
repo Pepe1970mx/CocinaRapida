@@ -695,7 +695,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60218c2a32f9c40007c
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Mpb4sLxr/telecl-sicos.png" group-title="ENTRETENIMIENTO", Moni TV
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", Energeek Retro
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
@@ -805,18 +806,13 @@ https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1753795779.m3u8
 #EXTINF:-1 tvg-logo="http://www.mi-television.com/uploads/1/0/3/0/103099212/new-image-for-youtube_orig.png" group-title="RETRO", MITV 
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Mpb4sLxr/telecl-sicos.png" group-title="RETRO", Moni TV
-https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CTfQL7m/tvretro.png" group-title="RETRO", RetroMagico
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="RETRO" , TV Maxcba
 https://panel.dattalive.com/8106/8106/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="RETRO" , ExtraTV
-https://www.dailymotion.com/cdn/live/video/x83sd3v.m3u8?sec=sCd2lo8JYZ-qGV4vJIymNgWZYOOCgqbipKZ6lkmKGsjnI7yBTzGBK5Hq-R3Aqtg7ITOlX7ppJ_1nt_7nXxd2og&dmTs=297921&dmV1st=8BCA9EB6B6C86041931A84C4BCF58FD3
-#EXTINF:-1 tvg-logo=" " group-title="RETRO" ,
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", Telehit Musica Plus
 https://linear-419.frequency.stream:443/419/hls/master/playlist_640x360.m3u8
