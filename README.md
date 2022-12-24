@@ -247,19 +247,19 @@ http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-id="I289.61704.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", Fox Sports 2
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
 
-#EXTINF:-1 tvg-logo="h" group-title="DEPORTES", ESPN
-http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-logo="h" group-title="DEPORTES", Fox Sports 3
+https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
 #EXTINF:-1 tvg-logo="h" group-title="DEPORTES", ESPN 2
-http://15.235.9.216:8080/EPP/jEtRWG6PeNN3/33823
+
 
 #EXTINF:-1 tvg-logo="h" group-title="DEPORTES", ESPN
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN 
 http://190.61.102.67:31589/play/a08j/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Tec 
-https://s@d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES", TyC
+http://45.179.140.242:8000/play/a0k7
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", Sky Sport
 http://190.61.102.67:31589/play/a08q/index.m3u8
@@ -327,6 +327,11 @@ https://live.seo.tv.bo/live/3SEO.m3u8
 
 #EXTINF:-1 group-title="SEO" , SEO MOVIE
 https://live.seo.tv.bo/live/4SEO.m3u8
+
+
+#EXTINF:-1 group-title="SEO" , SEO 
+https://live.seo.tv.bo/live/6SEO.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ssywmmnj/planetatv.png" group-title="PLANETA TV", PLANETA TV KIDS
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
