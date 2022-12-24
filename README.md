@@ -371,9 +371,6 @@ https://s2.tvdatta.com:3457/hybrid/play.m3u8
 #EXTINF:-1 group-title="VIWIX TV", Viwix Terror
 https://s2.tvdatta.com:3849/hybrid/play.m3u8
 
-
-
-
 #EXTINF:-1 group-title="CANELA TV", Canela Kid
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
