@@ -745,9 +745,11 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", Energeek Retro
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 
-#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", 
+#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", Cosmos TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
-#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", 
+#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", Contacto Deportivo
+https://live.obslivestream.com/cdeportivo/index.m3u8
 
 #EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", Telemix
 https://panel.dattalive.com/8068/8068/playlist.m3u8
@@ -843,9 +845,17 @@ https://ch.iptvmate.net/b8799300af8ecf28e89b77029dfa9e6d.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="MUSIC", First Music channel
 http://hz1.teleport.cc/HLS/HD.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="MUSIC", VH1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="MUSIC", MTV Exitos
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/615c1a533cfb1b000721dcd9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo=" " group-title="MUSIC", MTV 
 
 
-
+#EXTINF:-1 tvg-logo=" " group-title="MUSIC", La Bocina Latina
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-631932e2f6672ff675ee5ec0.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=WKQNy767jf7TJG5bVPsx
 
 
 
