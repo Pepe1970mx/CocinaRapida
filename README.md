@@ -215,7 +215,7 @@ https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/in
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="NOTICIAS", DW Español
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
  
 #EXTINF:-1 tvg-id="I490.69367.schedulesdirect.org" tvg-logo="https://i.imgur.com/KFKktei.png" group-title="NOTICIAS", RT en español
 https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
