@@ -240,7 +240,7 @@ https://linear-393.frequency.stream/393/hls/master/playlist.m3u8
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
 
 #EXTINF:-1 tvg-id="I289.61704.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", Fox Sports 1
-http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 
 #EXTINF:-1 tvg-id="I289.61704.schedulesdirect.org" tvg-logo="" group-title="DEPORTES", Fox Sports 2
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index.m3u8
