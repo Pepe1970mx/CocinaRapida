@@ -149,11 +149,15 @@ https://linear-344.frequency.stream/344/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX 24/7", Como Dice el Dicho
 https://linear-341.frequency.stream/341/hls/master/playlist.m3u8
 
+
+
+https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX 24/7", La Familia Peluche"
 https://linear-311.frequency.stream/311/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="VIX 24/7",
 #EXTINF:-1 channel-id="samsung-USBC2100010OS" tvg-id="USBC2100010OS" tvg-chno="1269" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/23/USBC2100010OS_20220726T235312.png" group-title="VIX 24/7", jajaja
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX 24/7", Risas de Oro
 https://linear-313.frequency.stream/313/hls/master/playlist.m3u8
