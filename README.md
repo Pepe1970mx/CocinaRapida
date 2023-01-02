@@ -83,7 +83,7 @@ https://v-la.mybtv.net/live/299.m3u8
 https://v-ny.mybtv.net/live/660.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60089d98f682a3002c34829f" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/estrellatv_logo_dark.png" group-title="VARIEDADES", ESTRELLA TV
-https://v-ny.mybtv.net/live/650.m3u8
+https://estrellatv-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
@@ -704,6 +704,16 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", El trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", WTV
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Explosión TV
+https://vdo1.streamgato.us:3158/live/ysmavisionlive.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO",
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Mpb4sLxr/telecl-sicos.png" group-title="ENTRETENIMIENTO", Moni TV
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 
@@ -780,6 +790,18 @@ http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8
 
 
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" , TotoVision
+https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" , Telecosta
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" , Visión TV
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" , TVS Retro
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="RETRO" , STV
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 
@@ -798,12 +820,6 @@ https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="RETRO" , Dreiko TV 
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="RETRO" , Eva Retro
-https://stmv2.voxtvhd.com.br/evaretro/evaretro/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="RETRO" , Retro Play TV
-https://v4.tustreaming.cl/retroplaytv/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="RETRO", TELERED 
 http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
  
@@ -815,6 +831,8 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="RETRO" , TV Maxcba
 https://panel.dattalive.com/8106/8106/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", Telehit Musica Plus
 https://linear-419.frequency.stream:443/419/hls/master/playlist_640x360.m3u8
