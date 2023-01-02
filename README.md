@@ -793,7 +793,7 @@ https://vdo.miserver.pro:3475/live/calderavisionlive.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LsCbCN1Z/acsnetwork.png" group-title="RETRO", ACS NETWORK
-https://acs.amelbasoluciones.co:3370/live/acslivelive.m3u8
+https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/45105_Cachipum_TV.png"  group-title="RETRO" , Dreiko TV 
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
