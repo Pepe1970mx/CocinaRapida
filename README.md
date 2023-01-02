@@ -150,7 +150,7 @@ https://linear-344.frequency.stream/344/hls/master/playlist.m3u8
 https://linear-341.frequency.stream/341/hls/master/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="" group-title="VIX 24/7", Ja ja Ja
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX 24/7", La Familia Peluche"
