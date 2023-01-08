@@ -41,9 +41,6 @@ https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Telever
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/9q8oyddrWgc
-
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Telever
 https://hls.youtb.workers.dev/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8O0WxdF.png" group-title="VARIEDADES" , Radio y Television de Veracruz (RTV)
