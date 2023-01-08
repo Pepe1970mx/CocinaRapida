@@ -27,6 +27,9 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="I4.104892.schedulesdirect.org" tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="VARIEDADES" , A MAS (Izzi)
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
+#EXTINF:-1 tvg-id="I223.102406.schedulesdirect.org" tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="VARIEDADES" , Azteca Noreste
+https://live.info7.mx/info7/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EM8Ks47kwqSGMiH4twcCBgAAAA&pid=Api&P=0&w=175&h=43" tvg-id="I222.97020.schedulesdirect.org" group-title="VARIEDADES", Canal Nu9ve
 https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
 
@@ -47,7 +50,7 @@ https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/9q8oyddrWgc
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Telever
-https://m.youtube.com/watch?v=9q8oyddrWgc
+https://hls.youtb.workers.dev/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8O0WxdF.png" group-title="VARIEDADES" , Radio y Television de Veracruz (RTV)
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w1862368642.m3u8
