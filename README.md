@@ -46,6 +46,9 @@ https://hls.youtb.workers.dev/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8O0WxdF.png" group-title="VARIEDADES" , Radio y Television de Veracruz (RTV)
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w1862368642.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Televisa Del Golfo
+https://hls.youtb.workers.dev/channel/UCQ08tNTPiBn44c975S81ftg.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Televisa Monterrey
 https://linear-403.frequency.stream/403/hls/master/playlist.m3u8
 
