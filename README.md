@@ -342,6 +342,13 @@ https://live.seo.tv.bo/live/4SEO.m3u8
 https://live.seo.tv.bo/live/6SEO.m3u8
 
 
+#EXTINF:-1 group-title="PLANETA TV" , Boing
+https://livek.mediaset.es/orilinear23/live/linear23/playlist/playlist.isml/ctv.m3u8?hdnts=st=1673404085~exp=1673490484~acl=/*~hmac=1a2bd41a2eba85a3ad5c0d0eeeed0ab596b188671b276804789323027d586f79
+
+#EXTINF:-1 group-title="PLANETA TV" , Neox
+https://livek.mediaset.es/orilinear17/live/linear17/playlist/playlist.isml/ctv.m3u8?hdnts=st=1673404085~exp=1673490484~acl=/*~hmac=1a2bd41a2eba85a3ad5c0d0eeeed0ab596b188671b276804789323027d586f79
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ssywmmnj/planetatv.png" group-title="PLANETA TV", PLANETA TV KIDS
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 
