@@ -432,16 +432,19 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=653&avod=1&coppa=0&is_lat=
 #EXTINF:-1 tvg-logo=" " group-title="CANELA TV" , Butaca TV
 https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="RAKUTEN" , Rakuten Accion
+#EXTINF:-1 tvg-logo=" " group-title="RAKUTEN" , Accion Rakuten
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="RAKUTEN" , Rokuten Comedia
+#EXTINF:-1 tvg-logo=" " group-title="RAKUTEN" , Películas Top
+https://bb761d879d454687ae5b1e58d797cb1b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-es_TopFree/playlist.m3u8?ads.wurl_channel=840&ads.wurl_name=TopFree&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo=" " group-title="RAKUTEN" , comedia Rokuten
 https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="RAKUTEN" , Rakuten Family
+#EXTINF:-1 tvg-logo=" " group-title="RAKUTEN" , Family Rakuten
 https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="60c8a24e17da110007eed4fd" tvg-chno="55" tvg-logo="https://images.pluto.tv/channels/60c8a24e17da110007eed4fd/colorLogoPNG.png" group-title="RAKUTEN",Rakuten Viki
+#EXTINF:-1 tvg-id="60c8a24e17da110007eed4fd" tvg-chno="55" tvg-logo="https://images.pluto.tv/channels/60c8a24e17da110007eed4fd/colorLogoPNG.png" group-title="RAKUTEN",Viki Rakuten
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c8a24e17da110007eed4fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo=" " group-title="RAKUTEN" , Rakuten Shows
@@ -453,7 +456,7 @@ https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 channel-id="samsung-ESBA2200004G5" tvg-id="ESBA2200004G5" tvg-chno="4981" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/81/ESBA2200004G5_20220323T081719.png" group-title="RAKUTEN" , Mytime Movies Network
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 channel-id="samsung-ESAJ4500021HQ" tvg-id="ESAJ4500021HQ" tvg-chno="4219" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/59/ESAJ4500021HQ_20220323T081833.png" group-title="RAKUTEN" , Rakuten Stories
+#EXTINF:-1 channel-id="samsung-ESAJ4500021HQ" tvg-id="ESAJ4500021HQ" tvg-chno="4219" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/59/ESAJ4500021HQ_20220323T081833.png" group-title="RAKUTEN" , Documentales Rakuten 
 https://bbfb189d0b5442118b9541714950d36c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenSpotlight/playlist.m3u8?ads.wurl_channel=430&ads.wurl_name=RakutenSpotlight&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 channel-id="samsung-ESBC40000248" tvg-id="ESBC40000248" tvg-chno="4972" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/41/ESBC40000248_20220323T082046.png" group-title="RAKUTEN",Dark Matter TV
