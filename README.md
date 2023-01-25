@@ -73,7 +73,7 @@ https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
 https://v-px.mybtv.net/live/41.m3u8
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Telemundo
-https://v-ny.mybtv.net/live/659.m3u8
+https://v-px.mybtv.net/live/39.m3u8
 
 #EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="VARIEDADES", Univision
 https://v-ny.mybtv.net/live/643.m3u8
