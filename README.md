@@ -382,6 +382,10 @@ http://45.181.121.57:2909/play/019
 #EXTINF:-1 group-title="HBO" , HBO Family
 http://45.181.121.57:2909/play/018
 
+#EXTINF:-1 group-title="STAR +" , Star Channels
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
+
+
 #EXTINF:-1 group-title="VIWIX TV" , Viwix TV
 https://videohd.live:19360/8076/8076.m3u8
 
