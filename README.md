@@ -787,8 +787,8 @@ https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 #EXTINF:-1 group-title="RETRO" , Dreiko TV 
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 
-#EXTINF:-1 group-title="RETRO" ,
- 
+#EXTINF:-1 group-title="RETRO" , Retro XTV
+ https://5bf8041cb3fed.streamlock.net/retroxtv/retroxtv/.m3u8
 
 #EXTINF:-1 group-title="RETRO" ,
 
