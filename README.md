@@ -697,6 +697,11 @@ https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , OrbitTV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Flow TV
+https://oracle.streaminghd.cl/flowtv/flowtv/playlist.m3u8?PlaylistM3UCL
+
+
+
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", El trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
