@@ -756,7 +756,18 @@ https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 100
 http://204.12.202.90:8080/playgt/playgt2023/106
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" ,
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Paniel Y&K
+http://204.12.202.90:8080/playgt/playgt2023/136
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Play Medios TV
+http://204.12.202.90:8080/playgt/playgt2023/61
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , SAS TV
+http://204.12.202.90:8080/playgt/playgt2023/138
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , 
+
 
 
 #EXTINF:-1 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="RETRO", RETRO PLUS TV CINE
