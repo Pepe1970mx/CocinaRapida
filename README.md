@@ -754,8 +754,8 @@ https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Visión TV
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" ,
-
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 100
+http://204.12.202.90:8080/playgt/playgt2023/106
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" ,
 
 
