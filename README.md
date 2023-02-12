@@ -325,7 +325,7 @@ https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:-1 group-title="PLANETA TV" , Planeta TV
 https://mediacpstreamchile.com:1936/8102/8102/playlist.m3u8
 
-#EXTINF:-61 tvg-logo="https://i.postimg.cc/Ssywmmnj/planetatv.png" group-title="PLANETA TV", PLANETA TV MOVIES
+#EXTINF:-1 group-title="PLANETA TV", PLANETA TV MOVIES
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8
 
 #EXTINF:-1 group-title="PLANETA TV" , Planeta Music
@@ -699,8 +699,6 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Flow TV
 https://oracle.streaminghd.cl/flowtv/flowtv/playlist.m3u8?PlaylistM3UCL
-
-
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", El trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
