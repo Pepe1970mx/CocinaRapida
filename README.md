@@ -728,7 +728,7 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Gen TV
-https://videohd.live:19360/8010/8010.m3u8
+https://inliveserver.com:1936/14056/14056/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Central TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
