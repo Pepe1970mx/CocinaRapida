@@ -769,6 +769,10 @@ http://204.12.202.90:8080/playgt/playgt2023/138
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Auroramfilm
 https://cdn.streamhispanatv.net:3398/live/auroramflive.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 8 Star
+https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="RETRO", RETRO PLUS TV CINE
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
