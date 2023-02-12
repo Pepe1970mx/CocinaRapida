@@ -771,8 +771,8 @@ https://cdn3.streamgato.us:3434/live/chinolatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="RETRO", TELERED 
 http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="RETRO", MASTV 
-https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1753795779.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="RETRO", Telesistema 
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LsCbCN1Z/acsnetwork.png" group-title="RETRO", ACS NETWORK
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
@@ -798,8 +798,8 @@ https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 #EXTINF:-1 group-title="RETRO" , Retro XTV
  https://5bf8041cb3fed.streamlock.net/retroxtv/retroxtv/.m3u8
 
-#EXTINF:-1 group-title="RETRO" ,
-
+#EXTINF:-1 group-title="RETRO" , San Vito Television
+https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
 
 
 
