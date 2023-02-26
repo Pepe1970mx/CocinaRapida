@@ -9,7 +9,7 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdn
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Imagen_TV_logo.png/200px-Imagen_TV_logo.png" group-title="VARIEDADES",  Imagen TV
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2298/PROFILE03.m3u8
 
-#EXTINF:-1 tvg-id="I105.47425.schedulesdirect.org" tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png" group-title="VARIEDADES" , XHGC Canal Cinco
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png" group-title="VARIEDADES" , XHGC Canal Cinco
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL55/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-id="I418.109613.schedulesdirect.org" tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="VARIEDADES" , Multimedios
@@ -314,8 +314,10 @@ https://live.seo.tv.bo/live/3SEO.m3u8
 #EXTINF:-1 group-title="SEO" , SEO MOVIE
 https://live.seo.tv.bo/live/4SEO.m3u8
 
+#EXTINF:-1 group-title="SEO" , SEO1 
+https://live.seo.tv.bo/live/5SEO.m3u8
 
-#EXTINF:-1 group-title="SEO" , SEO 
+#EXTINF:-1 group-title="SEO" , SEO2 
 https://live.seo.tv.bo/live/6SEO.m3u8
 
 
