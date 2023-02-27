@@ -314,7 +314,7 @@ https://live.seo.tv.bo/live/3SEO.m3u8
 #EXTINF:-1 group-title="SEO" , SEO MOVIE
 https://live.seo.tv.bo/live/4SEO.m3u8
 
-#EXTINF:-1 group-title="SEO" , SEO1 
+#EXTINF:-1 group-title="SEO" , SEO Depotes 
 https://live.seo.tv.bo/live/5SEO.m3u8
 
 #EXTINF:-1 group-title="SEO" , SEO2 
@@ -399,10 +399,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086&avod=1&coppa=0&is_lat
 
 #EXTINF:-1 tvg-logo=" " group-title="CANELA TV" , Canela Hits
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1yn-&did=6c3439a8860c1c8ce5d6fe91bdc8df6f&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=en&consent=1&gdpr=0&site_page=https%253a%252f%252fwww.canela.tv%252f&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1662247173&id=17366&ip=192.141.246.245&override_expiration=1500&deliveryProfileId=23762&sign=NwmUcOBhh78F%2B6p%2FYZrbn5bCAe4lEGC80CPcoX8mdzM%3D
-
-#EXTINF:-1 tvg-logo=" " group-title="CANELA TV" , Cine Kid
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=653&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1yn-&did=d1803778a69275cf9da2af4715e1c2b2&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=en&consent=1&gdpr=0&site_page=https%253a%252f%252fwww.canela.tv%252f&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1667839258&id=14603&ip=200.71.109.253&override_expiration=1500&deliveryProfileId=23762&sign=f7p9Vjws57WxotB3Sv1hdV%2BlLdY7uBt%2B4GkI2NBx9SU%3D
-
 
 #EXTINF:-1 tvg-logo=" " group-title="CANELA TV" , Butaca TV
 https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
