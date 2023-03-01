@@ -245,10 +245,11 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="h" group-title="DEPORTES", Fox Sports 3
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
-#EXTINF:-1 tvg-logo="h" group-title="DEPORTES", ESPN 
+#EXTINF:-1 tvg-logo="h" group-title="DEPORTES", ESPN Extra
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
 
-
-#EXTINF:-1 tvg-logo="h" group-title="DEPORTES", ESPN 2
+#EXTINF:-1 tvg-logo="h" group-title="DEPORTES", ESPN 4
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN 
 http://190.61.102.67:31589/play/a08j/index.m3u8
