@@ -813,6 +813,19 @@ https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 #EXTINF:-1 group-title="RETRO" , San Vito Television
 https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
 
+#EXTINF:-1 group-title="RETRO" , 
+
+
+
+#EXTINF:-1 group-title="RETRO" , Palmeras tv
+https://video.ingenioperu.com:3681/live/palmerastvlive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="RETRO" , Genios TV
+https://live.obslivestream.com/geniostvmux/index.m3u8?PlaylistM3UCL
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", Telehit Musica Plus
