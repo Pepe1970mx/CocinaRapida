@@ -9,7 +9,7 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdn
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Imagen_TV_logo.png/200px-Imagen_TV_logo.png" group-title="VARIEDADES",  Imagen TV
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2298/PROFILE03.m3u8
 
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png" group-title="VARIEDADES" , Canal Cinco
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png" group-title="VARIEDADES" , Canal Cinco mx
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL55/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-id="I418.109613.schedulesdirect.org" tvg-logo="https://i.imgur.com/A9kTYN8.png" group-title="VARIEDADES" , Multimedios 
@@ -21,7 +21,7 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="I4.104892.schedulesdirect.org" tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="VARIEDADES" , A MAS (Izzi)
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 tvg-id="I223.102406.schedulesdirect.org" tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="VARIEDADES" , Azteca 7 Monterrey
+#EXTINF:-1 tvg-id="I223.102406.schedulesdirect.org" tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="VARIEDADES" , Azteca Monterrey
 https://live.info7.mx/info7/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EM8Ks47kwqSGMiH4twcCBgAAAA&pid=Api&P=0&w=175&h=43" tvg-id="I222.97020.schedulesdirect.org" group-title="VARIEDADES", Canal Nu9ve
@@ -303,7 +303,11 @@ https://bamus-spa-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-spanish/CD
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de4e0b3f5003f5d9f73.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=xAoXwfNRpzqfb4QF8JUB
 
 
+#EXTINF:-1 group-title="Entretenimiento", canela 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=653&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656898869&id=14603&ip=45.188.78.93&override_expiration=1500&sign=QHG86ZSmS8rAuOxLfYGQqULx0r1fVBqrLciVhkFN4vs%3D
 
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" tvg-id="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/canelatv-v2-logo.png" group-title="Entretenimiento",Canela TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=xAoXwfNRpzqfb4QF8JUB&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=xAoXwfNRpzqfb4QF8JUB&custom_7=5f5132e362fe160040f26c18
 
 #EXTINF:-1 group-title="Entretenimiento" , Planeta TV
 https://mediacpstreamchile.com:1936/8102/8102/playlist.m3u8
@@ -363,25 +367,21 @@ https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 #EXTINF:-1 group-title="Cine", Gjingo Películas del oeste
 https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-logo=" " group-title="RAKUTEN" , Accion Rakuten
+#EXTINF:-1 tvg-logo=" " group-title="Cine" , Accion Rakuten
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
 
 
 #EXTINF:-1 tvg-logo=" " group-title="Cine" , Run:Time Accion
 https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
 
-
+#EXTINF:-1 tvg-logo=" " group-title="Cine" , Family Rakuten
+https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Cine", Canela Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=868&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656899084&id=15844&ip=45.188.78.93&override_expiration=1500&sign=JJJ%2Fgia2AmarwRQRKowFMoFHpXkGGE%2Bl1QMalJ2WPSw%3D
 
 #EXTINF:-1 group-title="Cine", FreeTV
 https://freetv.stream.olympusatmedia.com/index.m3u8?url=https%3A%2F%2Fwww.freetv.com%2Fpeliculas%2Ffreetv-8-2%2F&genre=Entretenimiento&ic=&us_privacy=&coppa=0&user_id=&ip=201.148.42.146&ipv6=&c_duration=3600&c_producer=freetv8.2&c_lang=es&ua=Mozilla%2F5.0+%28Linux%3B+Android+11%3B+SM-A022M+Build%2FRP1A.200720.012%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F108.0.5359.128+Mobile+Safari%2F537.36&hls_marker=1&content_channel=FreeTV+8.2&content_title=&content_genre=&gdpr=0&player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo=" " group-title="Cine" , Run:Time Comedia
 https://run-rc-es.otteravision.com/run/rc_es/rc_es.m3u8
@@ -397,82 +397,6 @@ https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
 
 #EXTINF:-1 group-title="Cine" , SEO MOVIE
 https://live.seo.tv.bo/live/4SEO.m3u8
-
-
-
-#EXTINF:-1 group-title="PLANETA TV" , Planeta Music
-https://scl.edge.grupoz.cl/movie/live/movie.m3u8
-
-
-
-
-
-
-#EXTINF:-1 group-title="HBO" , HBO
-http://45.181.121.57:2909/play/017
-
-#EXTINF:-1 group-title="HBO" , HBO 2
-http://45.181.121.57:2909/play/021
-
-#EXTINF:-1 group-title="HBO" , HBO plus
-http://45.181.121.57:2909/play/019
-
-#EXTINF:-1 group-title="HBO" , HBO Family
-http://45.181.121.57:2909/play/018
-
-#EXTINF:-1 group-title="STAR +" , Star Channels
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="CANELA TV", canela 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=653&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656898869&id=14603&ip=45.188.78.93&override_expiration=1500&sign=QHG86ZSmS8rAuOxLfYGQqULx0r1fVBqrLciVhkFN4vs%3D
-
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" tvg-id="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/canelatv-v2-logo.png" group-title="CANELA TV",Canela TV
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=xAoXwfNRpzqfb4QF8JUB&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=xAoXwfNRpzqfb4QF8JUB&custom_7=5f5132e362fe160040f26c18
-
-
-
-
-
-#EXTINF:-1 group-title="CANELA TV", Canela Clasico
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=652&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656899165&id=13487&ip=45.188.78.93&override_expiration=1500&sign=xEjkHz3mUBUo5NCo7sUVonDhmM9ALTEUUXoQ2gYB1K4%3D
-
-#EXTINF:-1 group-title="CANELA TV", PeliMex
-https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8?ads.wurl_channel=1184&ads.wurl_name=PeliMex&ads.coppa=0&ads.device_id=%7BDEVICE_ID%7D&ads.dnt=%7BDNT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.gdpr=%7BGDPR%7D&ads.consent=%7BCONSENT%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D&ads.content_livestream=%7BCONTENT_LIVESTREAM%7D&ads.content_producer_name=%7BCONTENT_PRODUCER_NAME%7D&ads.content_rating=%7BCONTENT_RATING%7D&ads.language=%7BLANGUAGE%7D&ads.device_manufacturer=&ads.device_type=handset&ads.partner=internal&ads.platform=web&ads.device_width=1280&ads.device_height=720&timestamp=1667839810&id=38655&ip=200.71.109.253&override_expiration=1500&deliveryProfileId=23762&sign=2lws%2FhHJa6aZfAVvMHWLZchUXr2Ay8gsu1PJ02C2tKo%3D
-
-#EXTINF:-1 group-title="CANELA TV", Acción Mexicana
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656899242&id=20507&ip=45.188.78.93&override_expiration=1500&sign=w447FyzW4YQ3K5KfLcJS08dDjVhohBlb1nVD2Ylud88%3D
-
-#EXTINF:-1 tvg-logo=" " group-title="CANELA TV" , Canela Pop
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1yn-&did=6c3439a8860c1c8ce5d6fe91bdc8df6f&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=en&consent=1&gdpr=0&site_page=https%253a%252f%252fwww.canela.tv%252f&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1662247333&id=18784&ip=192.141.246.245&override_expiration=1500&deliveryProfileId=23762&sign=I8r2g4BOUlvG7nkOSCKlqptphLFj%2B7zxA5OCCSMC6cI%3D
-
-#EXTINF:-1 tvg-logo=" " group-title="CANELA TV" , Canela Hits
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1yn-&did=6c3439a8860c1c8ce5d6fe91bdc8df6f&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=en&consent=1&gdpr=0&site_page=https%253a%252f%252fwww.canela.tv%252f&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1662247173&id=17366&ip=192.141.246.245&override_expiration=1500&deliveryProfileId=23762&sign=NwmUcOBhh78F%2B6p%2FYZrbn5bCAe4lEGC80CPcoX8mdzM%3D
-
-#EXTINF:-1 tvg-logo=" " group-title="CANELA TV" , Butaca TV
-https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo=" " group-title="RAKUTEN" , Películas Top
-https://bb761d879d454687ae5b1e58d797cb1b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-es_TopFree/playlist.m3u8?ads.wurl_channel=840&ads.wurl_name=TopFree&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-logo=" " group-title="RAKUTEN" , comedia Rokuten
-https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="RAKUTEN" , Family Rakuten
-https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
-
-
-#EXTINF:-1 channel-id="samsung-ESBA3300044CZ" tvg-id="ESBA3300044CZ" tvg-chno="4993" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/29/ESBA3300044CZ_20220511T011717.png" group-title="RAKUTEN", Movies Central by TV Player 
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-
 
 
 #EXTINF:-1 group-title="PLEX",Chiquilines
@@ -507,6 +431,78 @@ https://7bfb0497795c4d3db90a041bf4cbdae6.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 group-title="PLEX",TG Junior
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=61&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=3CVj99wcF7yCfKc1xpKk&content_series=5f170d64b898490041b4938f&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=3CVj99wcF7yCfKc1xpKk&custom_7=5f170d64b898490041b4938f&is_lat=0
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="PLANETA TV" , Planeta Music
+https://scl.edge.grupoz.cl/movie/live/movie.m3u8
+
+
+#EXTINF:-1 group-title="HBO" , HBO
+http://45.181.121.57:2909/play/017
+
+#EXTINF:-1 group-title="HBO" , HBO 2
+http://45.181.121.57:2909/play/021
+
+#EXTINF:-1 group-title="HBO" , HBO plus
+http://45.181.121.57:2909/play/019
+
+#EXTINF:-1 group-title="HBO" , HBO Family
+http://45.181.121.57:2909/play/018
+
+#EXTINF:-1 group-title="STAR +" , Star Channels
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="CANELA TV", Canela Clasico
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656899165&id=13487&ip=45.188.78.93&override_expiration=1500&sign=xEjkHz3mUBUo5NCo7sUVonDhmM9ALTEUUXoQ2gYB1K4%3D
+
+#EXTINF:-1 group-title="CANELA TV", PeliMex
+https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8?ads.wurl_channel=1184&ads.wurl_name=PeliMex&ads.coppa=0&ads.device_id=%7BDEVICE_ID%7D&ads.dnt=%7BDNT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.gdpr=%7BGDPR%7D&ads.consent=%7BCONSENT%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D&ads.content_livestream=%7BCONTENT_LIVESTREAM%7D&ads.content_producer_name=%7BCONTENT_PRODUCER_NAME%7D&ads.content_rating=%7BCONTENT_RATING%7D&ads.language=%7BLANGUAGE%7D&ads.device_manufacturer=&ads.device_type=handset&ads.partner=internal&ads.platform=web&ads.device_width=1280&ads.device_height=720&timestamp=1667839810&id=38655&ip=200.71.109.253&override_expiration=1500&deliveryProfileId=23762&sign=2lws%2FhHJa6aZfAVvMHWLZchUXr2Ay8gsu1PJ02C2tKo%3D
+
+#EXTINF:-1 group-title="CANELA TV", Acción Mexicana
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656899242&id=20507&ip=45.188.78.93&override_expiration=1500&sign=w447FyzW4YQ3K5KfLcJS08dDjVhohBlb1nVD2Ylud88%3D
+
+#EXTINF:-1 tvg-logo=" " group-title="CANELA TV" , Canela Pop
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1yn-&did=6c3439a8860c1c8ce5d6fe91bdc8df6f&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=en&consent=1&gdpr=0&site_page=https%253a%252f%252fwww.canela.tv%252f&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1662247333&id=18784&ip=192.141.246.245&override_expiration=1500&deliveryProfileId=23762&sign=I8r2g4BOUlvG7nkOSCKlqptphLFj%2B7zxA5OCCSMC6cI%3D
+
+#EXTINF:-1 tvg-logo=" " group-title="CANELA TV" , Canela Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1yn-&did=6c3439a8860c1c8ce5d6fe91bdc8df6f&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=en&consent=1&gdpr=0&site_page=https%253a%252f%252fwww.canela.tv%252f&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1662247173&id=17366&ip=192.141.246.245&override_expiration=1500&deliveryProfileId=23762&sign=NwmUcOBhh78F%2B6p%2FYZrbn5bCAe4lEGC80CPcoX8mdzM%3D
+
+#EXTINF:-1 tvg-logo=" " group-title="CANELA TV" , Butaca TV
+https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo=" " group-title="RAKUTEN" , Películas Top
+https://bb761d879d454687ae5b1e58d797cb1b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-es_TopFree/playlist.m3u8?ads.wurl_channel=840&ads.wurl_name=TopFree&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo=" " group-title="RAKUTEN" , comedia Rokuten
+https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+
+
+
+#EXTINF:-1 channel-id="samsung-ESBA3300044CZ" tvg-id="ESBA3300044CZ" tvg-chno="4993" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/09/29/ESBA3300044CZ_20220511T011717.png" group-title="RAKUTEN", Movies Central by TV Player 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+
+
 
 
 
