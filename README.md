@@ -357,7 +357,7 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Cinco TV
-https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Gen TV
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
