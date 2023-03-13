@@ -711,25 +711,26 @@ http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/62715
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62683498858f3e619d82d903.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=1EoAK2fQHGnpDkq86vc4
 
 
+
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="NIÑOS Y ADOLESCENTES", Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="NIÑOS Y ADOLESCENTES", Cartoonito
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+
 #EXTINF:-1 tvg-id="60142258a54aeb0007751c15" tvg-chno="109" tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png" group-title="NIÑOS Y ADOLESCENTES",Pluto TV Retro Cartoons
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="609e7e423e9173000706a681" tvg-chno="770" tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG.png" group-title="NIÑOS Y ADOLESCENTES",Pluto TV Toons Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="NIÑOS Y ADOLESCENTES", Cartoon Network
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="NIÑOS Y ADOLESCENTES", Pluto TV Anime Heroes 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079be62f9f8d6000783c8a4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/9236507_640x640" group-title="NIÑOS Y ADOLESCENTES", SUPERTOONS TV
-https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.schoolzone.com/sites/default/files/press-release/teaser/toon-goggles-logo.png" group-title="NIÑOS Y ADOLESCENTES", TOON GOOGLES EN ESPAÑOL
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
+
+
 
 #EXTINF:-1 tvg-id="609501978c069d00074e0dd2" tvg-chno="790" tvg-logo="https://images.pluto.tv/channels/609501978c069d00074e0dd2/colorLogoPNG.png" group-title="NIÑOS Y ADOLESCENTES",Planeta Junior TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609501978c069d00074e0dd2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
