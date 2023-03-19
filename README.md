@@ -110,21 +110,22 @@ https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Mariavision 
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/quiero-tv-en-vivo-768x480.png" group-title="MEXICO NACIONAL" , Quiero TV https://quierotvlive.tk/httplive/playlist_playlist.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/quiero-tv-en-vivo-768x480.png" group-title="VARIEDADES" ,Quiero TV https://quierotvlive.tk/httplive/playlist_playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/4/4b/Mexiquense_tv.jpg/revision/latest?cb=20170525194804&path-prefix=es" group-title="MEXICO NACIONAL" , TV Mexiquense 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/4/4b/Mexiquense_tv.jpg/revision/latest?cb=20170525194804&path-prefix=es" group-title="VARIEDADES" , TV Mexiquense 
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
 
-#EXTINF: -1 tvg-logo = "https://i.pinimg.com/280x280_RS/01/ca/56/01ca569f92b45cecb0cf738a912cfea0.jpg" group-title = "MEXICO NACIONAL", Telemax (XEWH) http://s5.mexside.net:1935/telemax/telemax/chunklist_w1982711424.m3u8
+#EXTINF: -1 tvg-logo = "https://i.pinimg.com/280x280_RS/01/ca/56/01ca569f92b45cecb0cf738a912cfea0.jpg" group-title = "VARIEDADES", Telemax (XEWH) http://s5.mexside.net:1935/telemax/telemax/chunklist_w1982711424.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL" , RCG 
+#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , RCG 
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MEXICO NACIONAL", TVP 
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TVP 
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-logo=" " group-title="MEXICO NACIONAL" , 15TV 
+#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , 15TV 
 https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w2102162107.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX 24/7", Vix Como Dice el Dicho 
 https://linear-341.frequency.stream/341/hls/master/playlist.m3u8
