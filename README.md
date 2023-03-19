@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="I83.46607.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Azteca Uno 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
@@ -230,86 +231,224 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="RETRO", RETRO PLUS TV CINE https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.mi-television.com/uploads/1/0/3/0/103099212/new-image-for-youtube_orig.png" group-title="RETRO", MITV https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
-#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="RETRO", Chinola https://cdn3.streamgato.us:3434/live/chinolatvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="RETRO", TELERED http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="RETRO", Telesistema https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="RETRO", Chinola 
+https://cdn3.streamgato.us:3434/live/chinolatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="RETRO", TELERED 
+http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="RETRO", Telesistema 
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LsCbCN1Z/acsnetwork.png" group-title="RETRO", ACS NETWORK https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CTfQL7m/tvretro.png" group-title="RETRO", RetroMagico https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="RETRO" , STV http://tiquiciatv.com:1935/stv/web/playlist.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="RETRO" , TigueritosTV https://ss9.domint.net:3012/ttv_str/%20tigueritotv/.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="RETRO" , TVS Retro https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="RETRO", San Isidrio TV https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
-#EXTINF:-1 group-title="RETRO" , Dreiko TV https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
-#EXTINF:-1 group-title="RETRO" , Retro XTV https://5bf8041cb3fed.streamlock.net/retroxtv/retroxtv/.m3u8
-#EXTINF:-1 group-title="RETRO" , San Vito Television https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
-#EXTINF:-1 group-title="RETRO" , Teleclasica https://ssh101.bozztv.com/ssh101/teleclasik/chunks.m3u8?nimblesessionid=1824425
-#EXTINF:-1 group-title="RETRO" , Palmeras tv https://video.ingenioperu.com:3681/live/palmerastvlive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" , STV 
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" , TigueritosTV 
+https://ss9.domint.net:3012/ttv_str/%20tigueritotv/.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" , TVS Retro 
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="RETRO", San Isidrio TV 
+https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
+
+#EXTINF:-1 group-title="RETRO" , Dreiko TV 
+https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
+
+#EXTINF:-1 group-title="RETRO" , Retro XTV 
+https://5bf8041cb3fed.streamlock.net/retroxtv/retroxtv/.m3u8
+
+#EXTINF:-1 group-title="RETRO" , San Vito Television 
+https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
+
+#EXTINF:-1 group-title="RETRO" , Teleclasica 
+https://ssh101.bozztv.com/ssh101/teleclasik/chunks.m3u8?nimblesessionid=1824425
+
+#EXTINF:-1 group-title="RETRO" , Palmeras tv 
+https://video.ingenioperu.com:3681/live/palmerastvlive.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 group-title="RETRO" , Genios TV https://live.obslivestream.com/geniostvmux/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="RETRO" , Telecolor https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="RETRO" , Telecolor 
+https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 group-title="RETRO" ,
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV https://mediacpstreamchile.com:1936/8102/8102/playlist.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV 
+https://mediacpstreamchile.com:1936/8102/8102/playlist.m3u8
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Viwix TV https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , SEO TV https://live.seo.tv.bo/live/1SEO.m3u8
-#EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV-MUNDO 1 https://cloud2.streaminglivehd.com:1936/8018/8018/.m3u8
-#EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="ENTRETENIMIENTO" , WOW TV http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Suceso TV https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Mpb4sLxr/telecl-sicos.png" group-title="ENTRETENIMIENTO", Moni TV https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , OrbitTV https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", Contacto Deportivo https://live.obslivestream.com/cdeportivo/index.m3u8
-#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", Telecosta https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Esports Max http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", Cosmos TV https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Cinco TV https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Gen TV https://inliveserver.com:1936/14056/14056/playlist.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Central TV http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , MicroVision https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8
-#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", Visión Dorada https://movil.ejeserver.com/live/visiondorada.m3u8
-#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", CC TV https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Visión TV https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 100 http://204.12.202.90:8080/playgt/playgt2023/106
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Play Medios TV http://204.12.202.90:8080/playgt/playgt2023/61
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , SAS TV http://204.12.202.90:8080/playgt/playgt2023/138
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Auroramfilm https://cdn.streamhispanatv.net:3398/live/auroramflive.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 8 Star https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSIC", Telehit Musica Plus https://linear-419.frequency.stream:443/419/hls/master/playlist_640x360.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MUSIC", Telehit Musica https://linear-418.frequency.stream:443/418/hls/master/playlist_640x360.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MUSIC", Telehit https://linear-417.frequency.stream:443/417/hls/master/playlist_640x360.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MUSIC", Bandamax https://linear-400.frequency.stream/400/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC", Box Music https://c336356fded74d1ebddf35150b9ba10c.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR/contentserver/v2/distributions/18677298/content/m.m3u8?ads.vast_id=645688&session_ticket=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ik1MWXVVbnJ3UThyUVZ5RVJrUDljIiwiaXNzIjoiY29udGVudHNlcnZlci9ub3RfdHJhY2tlZCIsInNjcCI6eyJyc2MiOnsiZGlzdHJpYnV0aW9uOmlkIjoiMTg2NzcyOTgifSwiYWN0IjpbImRpc3RyaWJ1dGlvbjpzZXJ2ZSJdfSwiZXhwIjoxNjYzNDUyODkwfQ.X7wjN-xp7GJIPJFnlsai1z6roCih9b0ZnRMstHBr3Jw&ads.h=726&ads.w=384&ads.did=dc2a441a&ads.channel_name=Box%20Playlist&ads.content_genre=&ads.rating=TV14&ads.content_series=boxplaylist%20-%20es%20concierto%20con%20raffy%20diaz&ads.us_privacy=1N-N&ads.app_platform=web&ads.app_ver=1.0.23
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC", MUSIC TOP http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC", TOP LATINO http://stream.mxiptv.org:25461/live/tvabierta/opentv/249.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="MUSIC", 24/7 Pop http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8
-#EXTINF:-1 tvg-logo="" group-title "MUSIC" , Box Music http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="MUSIC", Hit TV http://hitmusic.hu/hitmusic.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="MUSIC", 1HD http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="MUSIC", 1 Music Channels https://ch.iptvmate.net/b8799300af8ecf28e89b77029dfa9e6d.m3u8
+#EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV-MUNDO 1 https://cloud2.streaminglivehd.com:1936/8018/8018/.m3u8
+
+#EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="ENTRETENIMIENTO" , WOW TV http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Suceso TV 
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Mpb4sLxr/telecl-sicos.png" group-title="ENTRETENIMIENTO", Moni TV https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , OrbitTV 
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", Contacto Deportivo 
+https://live.obslivestream.com/cdeportivo/index.m3u8
+
+#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", Telecosta 
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Esports Max 
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", Cosmos TV 
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Cinco TV 
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Gen TV 
+https://inliveserver.com:1936/14056/14056/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Central TV 
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , MicroVision 
+https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8
+
+#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", Visión Dorada 
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
+#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", CC TV 
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Visión TV 
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 100 
+http://204.12.202.90:8080/playgt/playgt2023/106
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Play Medios TV 
+http://204.12.202.90:8080/playgt/playgt2023/61
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , SAS TV 
+http://204.12.202.90:8080/playgt/playgt2023/138
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Auroramfilm 
+https://cdn.streamhispanatv.net:3398/live/auroramflive.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 8 Star 
+https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC", Telehit Musica Plus 
+https://linear-419.frequency.stream:443/419/hls/master/playlist_640x360.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC", Telehit Musica 
+https://linear-418.frequency.stream:443/418/hls/master/playlist_640x360.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC", Telehit 
+https://linear-417.frequency.stream:443/417/hls/master/playlist_640x360.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC", Bandamax 
+https://linear-400.frequency.stream/400/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC", Box Music 
+https://c336356fded74d1ebddf35150b9ba10c.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR/contentserver/v2/distributions/18677298/content/m.m3u8?ads.vast_id=645688&session_ticket=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ik1MWXVVbnJ3UThyUVZ5RVJrUDljIiwiaXNzIjoiY29udGVudHNlcnZlci9ub3RfdHJhY2tlZCIsInNjcCI6eyJyc2MiOnsiZGlzdHJpYnV0aW9uOmlkIjoiMTg2NzcyOTgifSwiYWN0IjpbImRpc3RyaWJ1dGlvbjpzZXJ2ZSJdfSwiZXhwIjoxNjYzNDUyODkwfQ.X7wjN-xp7GJIPJFnlsai1z6roCih9b0ZnRMstHBr3Jw&ads.h=726&ads.w=384&ads.did=dc2a441a&ads.channel_name=Box%20Playlist&ads.content_genre=&ads.rating=TV14&ads.content_series=boxplaylist%20-%20es%20concierto%20con%20raffy%20diaz&ads.us_privacy=1N-N&ads.app_platform=web&ads.app_ver=1.0.23
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC", MUSIC TOP 
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC", TOP LATINO 
+http://stream.mxiptv.org:25461/live/tvabierta/opentv/249.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="MUSIC", 24/7 Pop 
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title "MUSIC" , Box Music 
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="MUSIC", Hit TV 
+http://hitmusic.hu/hitmusic.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="MUSIC", 1HD 
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="MUSIC", 1 Music Channels 
+https://ch.iptvmate.net/b8799300af8ecf28e89b77029dfa9e6d.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="MUSIC", First Music channel http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="MUSIC", VH1 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:-1 tvg-logo" "group-title="MUSICA REGIONAL" , Balladas 24/7 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo" "group-title="MUSICA REGIONAL" , Tropical 24/7 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA REGIONAL", Infinita TV https://rtmp02.portalexpress.es:443/infinitatv/infinitatv/chunklist_w640472234.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="MUSIC", VH1 
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+
+#EXTINF:-1 tvg-logo" "group-title="MUSICA REGIONAL" , Balladas 24/7 
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo" "group-title="MUSICA REGIONAL" , Tropical 24/7 
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="MUSICA REGIONAL", Infinita TV 
+https://rtmp02.portalexpress.es:443/infinitatv/infinitatv/chunklist_w640472234.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fyPHgEH.png" group-title="MUSICA REGIONAL", Video Rola https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_2.m3u8
+
 #EXTINF: -1 tvg-logo = "http://i.imgur.com/897e9wy.png" group-title="MUSICA REGIONAL", Teleritmo http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
 #EXTINF:-1 group-title="MUSICA REGIONAL", Conecta TV 
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="MUSICA REGIONAL", RetroChannels https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
-#EXTINF:-1 group-title="MUSICA REGIONAL", Infinita TV https://rtmp02.portalexpress.es/infinitatv/infinitatv/playlist.m3u8
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-61aaa0cc784a2161d3caf7ff" tvg-id="5e20b730f2f8d5003d739db7-61aaa0cc784a2161d3caf7ff" tvg-logo="https://provider-static.plex.tv/epg/cms/staging/0079d02e-afb6-4d85-a986-441817927418/stingray-classic-rock_logo_dark.png" group-title="RADIO",Classic Rock https://stream.ads.ottera.tv/playlist.m3u8?network_id=1389&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=xAoXwfNRpzqfb4QF8JUB&custom_7=61aaa0cc784a2161d3caf7ff
+
+#EXTINF:-1 group-title="MUSICA REGIONAL", RetroChannels 
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSICA REGIONAL", Infinita TV 
+https://rtmp02.portalexpress.es/infinitatv/infinitatv/playlist.m3u8
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-61aaa0cc784a2161d3caf7ff" tvg-id="5e20b730f2f8d5003d739db7-61aaa0cc784a2161d3caf7ff" tvg-logo="https://provider-static.plex.tv/epg/cms/staging/0079d02e-afb6-4d85-a986-441817927418/stingray-classic-rock_logo_dark.png" group-title="RADIO",Classic Rock 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1389&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=xAoXwfNRpzqfb4QF8JUB&custom_7=61aaa0cc784a2161d3caf7ff
+
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615" tvg-id="5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dc08f4b8-91c3-4b3a-9007-4330f03a0103/ClassicRock_logo_light.png" group-title="RADIO",Classic Rock Network https://cdn17.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/ClassicRock-Channel-Plex/index.m3u8?ads.X-PLEX-TOKEN=xAoXwfNRpzqfb4QF8JUB&ads.CHANNEL=6196c8c01d310bf925e02615&ads.DEVICE_ID=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.DNT=0
+
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-61aa9f50784a2161d3caf7fb" tvg-id="5e20b730f2f8d5003d739db7-61aa9f50784a2161d3caf7fb" tvg-logo="https://provider-static.plex.tv/epg/cms/staging/081b8bca-9f8e-44a6-8173-c49e124bb7d2/stingray-everything-80s_logo_dark.png" group-title="RADIO",Everything ‘80s
-#EXTINF:-1, tvg-logo="" group-title="RADIO" , Universal Stero https://14933.live.streamtheworld.com/XHRED_FMAAC.aac?dist=tg&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=d8b27299-703d-4e00-8a3b-8746120031fe
-#EXTINF:-1, tvg-logo="" group-title="RADIO" , Radio Retro https://s01.digitalserver.org:7637/;
+
+#EXTINF:-1, tvg-logo="" group-title="RADIO" , Universal Stero 
+https://14933.live.streamtheworld.com/XHRED_FMAAC.aac?dist=tg&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=d8b27299-703d-4e00-8a3b-8746120031fe
+
+#EXTINF:-1, tvg-logo="" group-title="RADIO" , Radio Retro 
+https://s01.digitalserver.org:7637/;
+
 #EXTINF:-1, tvg-logo="" group-title="RADIO" , Extasis Digital https://sts.pergom.mx/xhpr
 #EXTINF:-1, tvg-logo="https://musicchoice.com/wp-content/uploads/2019/01/logo-retina-3.png" group-title="RADIO" , RADIO: MCR (Pop Rock) Pop Hits http://6d9a.webradio.upx.net.br:9046/stream
-#EXTINF:-1, tvg-logo="" group-title="RADIO" , Exa FM Poza Rica https://playerservices.streamtheworld.com/api/livestream-redirect/XHRIC_SC?dist=onlineradiobox
+
+#EXTINF:-1, tvg-logo="" group-title="RADIO" , Exa FM Poza Rica 
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHRIC_SC?dist=onlineradiobox
+
 #EXTINF:-1, tvg-logo=" " group-title="RADIO" , Mar FM https://ott.streann.com/loadbalancer/services/web-players/channels-reseller-secure/573c7e1a2cdcfe7783bda9f1/362a0654-2bf8-4bc5-a58e-2965963a011a/2nrlm4rtl0kros002gb4ha77/56bb6629e4b01db401d1b3c2/playlist.m3u8?date=1611769674824&device-type=web&device-name=web&device-os=web&device-id=DawBmlDF7MOZTVO1TVRaHqt6Yi7sMkmRkBBco8Mttv6cqhT4zH
-#EXTINF:-1, tvg-logo="" group-title="RADIO" , OyeFM https://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFMAAC_SC?dist=onlineradiobox
-#EXTINF:-1, tvg-logo="" group-title="RADIO" , YA FM https://yafm.centrocibernetico.com/
-#EXTINF:-1, tvg-logo="" group-title="RADIO" , Los 40 Principales Veracruz https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_VERAAC.aac
-#EXTINF:-1, tvg-logo="" group-title="RADIO" , Radio Ola http://167.114.116.223:1234/;
-#EXTINF:-1, tvg-logo="" group-title="RADIO" , La poderosa https://sts5.aplradiorama.mx/xhcra.mp3
-#EXTINF:-1, tvg-logo="" group-title="RADIO" , Radio Lobo https://secure.radiorama.mx:2181/
-#EXTINF:-1, tvg-logo="" group-title="RADIO" , Pa la Banda Naranjos https://iannes.mi-radio.stream:5003/stream
-#EXTINF:-1, tvg-logo="" group-title="RADIO" , RADIO USA https://n06.radiojar.com/6pz06e8nv4zuv
+
+#EXTINF:-1, tvg-logo="" group-title="RADIO" , OyeFM 
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFMAAC_SC?dist=onlineradiobox
+
+#EXTINF:-1, tvg-logo="" group-title="RADIO" , YA FM 
+https://yafm.centrocibernetico.com/
+
+#EXTINF:-1, tvg-logo="" group-title="RADIO" , Los 40 Principales Veracruz 
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_VERAAC.aac
+
+#EXTINF:-1, tvg-logo="" group-title="RADIO" , Radio Ola 
+http://167.114.116.223:1234/;
+
+#EXTINF:-1, tvg-logo="" group-title="RADIO" , La poderosa 
+https://sts5.aplradiorama.mx/xhcra.mp3
+
+#EXTINF:-1, tvg-logo="" group-title="RADIO" , Radio Lobo 
+https://secure.radiorama.mx:2181/
+
+#EXTINF:-1, tvg-logo="" group-title="RADIO" , Pa la Banda Naranjos 
+https://iannes.mi-radio.stream:5003/stream
+#EXTINF:-1, tvg-logo="" group-title="RADIO" , RADIO USA 
+https://n06.radiojar.com/6pz06e8nv4zuv
