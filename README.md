@@ -40,7 +40,7 @@ https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , Radio y Television de Veracruz (RTV) 
-https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w1862368642.m3u8
+https://ythls.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Telever 
 https://hls.youtb.workers.dev/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
@@ -283,7 +283,7 @@ https://5bf8041cb3fed.streamlock.net/retroxtv/retroxtv/.m3u8
 https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
 
 #EXTINF:-1 group-title="RETRO" , Teleclasica 
-https://ssh101.bozztv.com/ssh101/teleclasik/chunks.m3u8?nimblesessionid=1824425
+https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
 #EXTINF:-1 group-title="RETRO" , Palmeras tv 
 https://video.ingenioperu.com:3681/live/palmerastvlive.m3u8?PlaylistM3UCL
@@ -293,21 +293,30 @@ https://video.ingenioperu.com:3681/live/palmerastvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="RETRO" , Telecolor 
 https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="RETRO" ,
+#EXTINF:-1 group-title="RETRO" , Mi TV
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
+
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV 
 https://mediacpstreamchile.com:1936/8102/8102/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Viwix TV https://videohd.live:19360/8076/8076.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , SEO TV https://live.seo.tv.bo/live/1SEO.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Viwix TV 
+https://videohd.live:19360/8076/8076.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV-MUNDO 1 https://cloud2.streaminglivehd.com:1936/8018/8018/.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , SEO TV 
+https://live.seo.tv.bo/live/1SEO.m3u8
 
-#EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="ENTRETENIMIENTO" , WOW TV http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV-MUNDO 1 
+https://cloud2.streaminglivehd.com:1936/8018/8018/.m3u8
+
+#EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="ENTRETENIMIENTO" , WOW TV 
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Suceso TV 
 https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Mpb4sLxr/telecl-sicos.png" group-title="ENTRETENIMIENTO", Moni TV https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Mpb4sLxr/telecl-sicos.png" group-title="ENTRETENIMIENTO", Moni TV 
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , OrbitTV 
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
