@@ -216,16 +216,22 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 #EXTINF:-1 group-title="DEPORTES", Fox Sports 2 
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
 
-#EXTINF:-1 tvg-logo="h" group-title="DEPORTES", Fox Sports 3 
+#EXTINF:-1 group-title="DEPORTES", Fox Sports 3 
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
-#EXTINF:-1 tvg-logo="h" group-title="DEPORTES", ESPN Extra 
+
+#EXTINF:-1  group-title="DEPORTES", Espn
+https://regioplay.xyz/php/SR_REGIO_813023_/tpnuevo01.php?tokennn=Regio&c=561&f=.m3u8
+
+#EXTINF:-1  group-title="DEPORTES", Espn 2
+
+#EXTINF:-1 group-title="DEPORTES", ESPN Extra 
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
 
-#EXTINF:-1 tvg-logo="h" group-title="DEPORTES", ESPN 3 
+#EXTINF:-1 group-title="DEPORTES", ESPN 3 
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", TUDN 
+#EXTINF:-1 group-title="DEPORTES", TUDN 
 http://190.61.102.67:31589/play/a08j/index.m3u8
 
 #EXTINF:-1 group-title="HBO" , HBO 
