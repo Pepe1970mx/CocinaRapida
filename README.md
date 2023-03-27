@@ -43,7 +43,7 @@ https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 https://ythls.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Telever 
-https://hls.youtb.workers.dev/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
+https://ythls.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Televisa Del Golfo 
 https://hls.youtb.workers.dev/channel/UCQ08tNTPiBn44c975S81ftg.m3u8
@@ -243,6 +243,11 @@ http://45.181.121.57:2909/play/018
 #EXTINF:-1 group-title="STAR +" , Star Channels 
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
 
+#EXTINF:-1 group-title="STAR +" , Golden Premiere
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="STAR +" , Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="RETRO", RETRO PLUS TV CINE https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 
