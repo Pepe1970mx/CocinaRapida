@@ -207,6 +207,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd3
 #EXTINF:-1 group-title="DEPORTES", Adrenalina Sport Network 
 https://linear-393.frequency.stream/393/hls/master/playlist.m3u8
 
+#EXTINF:-1 group-title="DEPORTES", Afizzionados
+https://linear-348.frequency.stream/dist/vix/348/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="DEPORTES", CLARO SPORT 
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
 
