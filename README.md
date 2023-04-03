@@ -21,7 +21,7 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="I223.102406.schedulesdirect.org" tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="VARIEDADES" , Azteca Monterrey 
 https://live.info7.mx/info7/stream.m3u8
 
-#EXTINF:-1 tvg-id="I4.104892.schedulesdirect.org" tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="VARIEDADES" , A MAS (Izzi) 
+#EXTINF:-1 tvg-id="I4.104892.schedulesdirect.org" tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="VARIEDADES" , A MAS 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th?id=OIP.EM8Ks47kwqSGMiH4twcCBgAAAA&pid=Api&P=0&w=175&h=43" tvg-id="I222.97020.schedulesdirect.org" group-title="VARIEDADES", Nu9ve 
@@ -135,6 +135,10 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , 15TV 
 https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w2102162107.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , El Heraldo
+https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/chunklist_w7459229_b478000_sleng.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="VIX 24/7", Vix Como Dice el Dicho 
@@ -254,6 +258,25 @@ http://45.181.121.57:2909/play/018
 
 #EXTINF:-1 group-title="STAR +" , Star Channels 
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
+
+#EXTINF:-1 group-title="De Paga" , WarnerChannel
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE05.m3u8
+
+#EXTINF:-1 group-title="De Paga" , Sony Channel
+https://regioplay.xyz/php/SR_REGIO_104023_/tpnuevo02.php?tokennn=Regio&c=203&f=.m3u8
+
+#EXTINF:-1 group-title="De Paga" , Universal Channel
+https://regioplay.xyz/php/SR_REGIO_104023_/tpnuevo02.php?tokennn=Regio&c=207&f=.m3u8
+
+#EXTINF:-1 group-title="De Paga" , AMC
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE05.m3u8
+
+#EXTINF:-1 group-title="De Paga" , TNT
+https://regioplay.xyz/php/SR_REGIO_104023_/tpnuevo02.php?tokennn=Regio&c=435&f=.m3u8
+
+#EXTINF:-1 group-title="De Paga" , Space
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE05.m3u8
+
 
 #EXTINF:-1 group-title="STAR +" , Golden Premiere
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
