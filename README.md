@@ -355,6 +355,9 @@ https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , SEO TV 
 https://live.seo.tv.bo/live/1SEO.m3u8
 
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , TV Centro 7.2
+https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV
 https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w817764624.m3u8
 
