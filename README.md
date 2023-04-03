@@ -54,6 +54,11 @@ https://linear-403.frequency.stream/403/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Televisa Guadalajara 
 https://linear-402.frequency.stream:443/402/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Canal 12 Tijuana
+https://ythls.onrender.com/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",
+
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Distrito Comedia 
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE03.m3u8
 
