@@ -291,6 +291,9 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="RETRO", Chinola 
 https://cdn3.streamgato.us:3434/live/chinolatvlive.m3u8
 
+#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="RETRO", ACS Network
+https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="RETRO", TELERED 
 http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
 
@@ -299,7 +302,8 @@ https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LsCbCN1Z/acsnetwork.png" group-title="RETRO", ACS NETWORK https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CTfQL7m/tvretro.png" group-title="RETRO", RetroMagico https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CTfQL7m/tvretro.png" group-title="RETRO", RetroMagico 
+https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="RETRO" , STV 
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
@@ -314,7 +318,7 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 
 #EXTINF:-1 group-title="RETRO" , Dreiko TV 
-https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
+https://tv.fullhd-streaming.com:3807/live/dreikotvlive.m3u8
 
 #EXTINF:-1 group-title="RETRO" , Retro XTV 
 https://5bf8041cb3fed.streamlock.net/retroxtv/retroxtv/.m3u8
@@ -346,8 +350,8 @@ https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , SEO TV 
 https://live.seo.tv.bo/live/1SEO.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV-MUNDO 1 
-https://cloud2.streaminglivehd.com:1936/8018/8018/.m3u8
+#EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV
+https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w817764624.m3u8
 
 #EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
