@@ -353,6 +353,13 @@ https://live.seo.tv.bo/live/1SEO.m3u8
 #EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV
 https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w817764624.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Origen tv
+https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , TVS
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
