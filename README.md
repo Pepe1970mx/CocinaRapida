@@ -386,6 +386,9 @@ https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 #EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Wapa
+https://wapa.x10.mx/h3wr/wapa.php/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Suceso TV 
 https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
 
