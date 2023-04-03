@@ -87,7 +87,7 @@ https://v-ny.mybtv.net/live/660.m3u8
 https://estrellatv-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", El trece 
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", Telecinco 
 https://videohd.live:19360/8016/8016.m3u8
