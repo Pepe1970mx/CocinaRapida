@@ -193,6 +193,9 @@ https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , TVN Panama
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
 
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , OK TV
+https://stream.plixitv.live/oktv/oktv/playlist.m3u8
+
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , MegaVision
 http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u8?PlaylistM3UCL
