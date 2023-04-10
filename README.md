@@ -147,6 +147,10 @@ https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/60580
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 100 
 http://204.12.202.90:8080/playgt/playgt2023/106
 
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , TV Centro
+https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , TV Centro 7.2
 https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
 
