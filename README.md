@@ -165,9 +165,18 @@ http://138.117.4.70:8075/channel11/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV
 https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w817764624.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Origen tv
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Capricho TV
+https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Origen tv
 https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
 
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Antares TV
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Guatuso
+https://5cf4a2c2512a2.streamlock.net/8162/8162/master.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , TVS
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
@@ -185,19 +194,23 @@ https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="ENTRETENIMIENTO" , WOW TV 
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , MegaVision
+http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Wapa
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Wapa
 https://wapa.x10.mx/h3wr/wapa.php/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Mpb4sLxr/telecl-sicos.png" group-title="ENTRETENIMIENTO", Moni TV 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Moni TV 
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , OrbitTV 
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , OrbitTV 
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", Contacto Deportivo 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Contacto Deportivo 
 https://live.obslivestream.com/cdeportivo/index.m3u8
 
 #EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", Telecosta 
