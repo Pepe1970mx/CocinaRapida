@@ -88,16 +88,16 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Azteca America 
-https://v-px.mybtv.net/live/41.m3u8
+
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Telemundo 
-https://v-px.mybtv.net/live/39.m3u8
+https://content.uplynk.com/channel/c1698e3bc70e429a887301d8831400f8.m3u8
 
 #EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="VARIEDADES", Univision 
-https://v-ny.mybtv.net/live/643.m3u8
+
 
 #EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="VARIEDADES", Unimas 
-https://v-la.mybtv.net/live/299.m3u8
+
 
 #EXTINF:-1 group-title="VARIEDADES", Telemundo PR 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
@@ -109,8 +109,6 @@ https://estrellatv-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Teleonce Univision
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", Canal 11 HN 
-https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , Ve Plus 
 http://190.122.96.187:8888/http/006
@@ -154,6 +152,16 @@ https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , TV Centro 7.2
 https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES", Canal 11 NI
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 11 HN
+https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 11 PA
+http://138.117.4.70:8075/channel11/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV
 https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w817764624.m3u8
 
@@ -176,8 +184,6 @@ https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , TVN Panama
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 11
-https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 
 #EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
