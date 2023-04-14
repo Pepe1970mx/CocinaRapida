@@ -46,13 +46,13 @@ https://ythls.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 https://ythls.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Televisa Del Golfo 
-https://hls.youtb.workers.dev/channel/UCQ08tNTPiBn44c975S81ftg.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Televisa Monterrey 
-https://linear-403.frequency.stream/403/hls/master/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Televisa Guadalajara 
-https://linear-402.frequency.stream:443/402/hls/master/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Canal 12 Tijuana
 https://ythls.onrender.com/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
@@ -105,6 +105,9 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 
 #EXTINF:-1 group-title="VARIEDADES", ESTRELLA TV 
 https://estrellatv-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",Telestrella 
+https://stmvideo2.livecastv.com/telestrella/telestrella/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Teleonce Univision
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
