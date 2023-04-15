@@ -185,13 +185,13 @@ https://5cf4a2c2512a2.streamlock.net/8162/8162/master.m3u8
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , ATV
-https://dysmuyxh5vstv.cloudfront.net/hls/live_240p30.m3u8
+
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , ATV Sur
-https://atvsur.mediatiquestream.com/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , ATV+
-https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
+
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , TVN Panama
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
@@ -344,8 +344,7 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 
 
 #EXTINF:-1  group-title="DEPORTES", Espn
-[https://regioplay.xyz/php/SR_REGIO_813023/tpnuevo01.php?tokennn=Regio&c=561&f=.m3u8](http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
-)
+https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8?PlaylistM3UCL
 
 #EXTINF:-1  group-title="DEPORTES", Espn 
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
