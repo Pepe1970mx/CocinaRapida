@@ -15,7 +15,7 @@ https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL55/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Multimedios
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:-1 tvg-id="I223.102406.schedulesdirect.org" tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="VARIEDADES" , Azteca 7 
+#EXTINF:-1 group-title="VARIEDADES" , Azteca 7 
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 tvg-id="I223.102406.schedulesdirect.org" tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="VARIEDADES" , Azteca Monterrey 
@@ -40,7 +40,7 @@ https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , TVMas (RTV) 
-https://ythls.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Telever 
 https://ythls.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
@@ -66,13 +66,13 @@ https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Telemax (XEWH)
 http://s5.mexside.net:1935/telemax/telemax/chunklist_w1982711424.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , RGC 
+#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , RCG
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TVP 
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , 15TV 
+#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , 15TV Sabinas
 https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w2102162107.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , El Heraldo
@@ -85,7 +85,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE03.m3u8
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Nuestra Visión 
-https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Azteca America 
 
@@ -133,7 +133,7 @@ https://v-ny.mybtv.net/live/660.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TeleTres 
 https://dslvfq5ee0geu.cloudfront.net/hls/canal3.m3u8
 
-#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", Telecinco 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Telecinco 
 https://videohd.live:19360/8016/8016.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TeleSiete 
@@ -155,7 +155,7 @@ https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , TV Centro 7.2
 https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", Canal 11 NI
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Canal 11 NI
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 11 HN
