@@ -27,11 +27,14 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 group-title="VARIEDADES", Nu9ve 
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
 
+#EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="VARIEDADES", MVS TV 
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+
 #EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="VARIEDADES", Canal Once 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/.m3u8
 
-#EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="VARIEDADES", MVS TV 
-https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Canal 12 Tijuana
+https://ythls.onrender.com/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , Canal 14 
 https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
@@ -45,18 +48,6 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Telever 
 https://ythls.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Televisa Del Golfo 
-
-
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Televisa Monterrey 
-
-
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Televisa Guadalajara 
-
-
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Canal 12 Tijuana
-https://ythls.onrender.com/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
-
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Quiero TV
 https://quierotvlive.tk/httplive/playlist_playlist.m3u8
 
@@ -66,7 +57,7 @@ https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Telemax (XEWH)
 http://s5.mexside.net:1935/telemax/telemax/chunklist_w1982711424.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , RCG
+#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , RGC
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TVP 
@@ -109,7 +100,7 @@ https://estrellatv-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",Telestrella 
 https://stmvideo2.livecastv.com/telestrella/telestrella/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Teleonce Univision
+#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Teleonce Univision PR
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
 
@@ -130,6 +121,51 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="ENTRETENIMIENTO", Telexitos 
 https://v-ny.mybtv.net/live/660.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 100 
+http://204.12.202.90:8080/playgt/playgt2023/106
+
+#EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV
+https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w817764624.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Moni TV 
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , OrbitTV 
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Contacto Deportivo 
+https://live.obslivestream.com/cdeportivo/index.m3u8
+
+#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", Telecosta 
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Wapa
+https://wapa.x10.mx/h3wr/wapa.php/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Gen TV 
+https://inliveserver.com:1936/14056/14056/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Central TV 
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , MicroVision 
+https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8
+
+#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", Visión Dorada 
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
+#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", CC TV 
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Visión TV 
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TeleTres 
 https://dslvfq5ee0geu.cloudfront.net/hls/canal3.m3u8
 
@@ -138,6 +174,27 @@ https://videohd.live:19360/8016/8016.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TeleSiete 
 https://dslvfq5ee0geu.cloudfront.net/hls/canal7.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Cinco TV 
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , TV Centro 7.1
+https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , TV Centro 7.2
+https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Teletica 7
+https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist_dvr.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Canal 11 NI
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 11 HN
+https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 11 PA
+http://138.117.4.70:8075/channel11/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", El trece 
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
@@ -153,32 +210,6 @@ https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Variedad tV
 https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Teletica 7
-https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 100 
-http://204.12.202.90:8080/playgt/playgt2023/106
-
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , TV Centro
-https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , TV Centro 7.2
-https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Canal 11 NI
-https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 11 HN
-https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 11 PA
-http://138.117.4.70:8075/channel11/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV
-https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w817764624.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Capricho TV
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
@@ -215,48 +246,12 @@ https://stream.plixitv.live/oktv/oktv/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , MegaVision
 http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u8?PlaylistM3UCL
 
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Wapa
-https://wapa.x10.mx/h3wr/wapa.php/chunklist.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Moni TV 
-https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , OrbitTV 
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Contacto Deportivo 
-https://live.obslivestream.com/cdeportivo/index.m3u8
-
-#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", Telecosta 
-https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
-
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Esports Max 
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Cinco TV 
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Gen TV 
-https://inliveserver.com:1936/14056/14056/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Central TV 
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , MicroVision 
-https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8
-
-#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", Visión Dorada 
-https://movil.ejeserver.com/live/visiondorada.m3u8
-
-#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", CC TV 
-https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Visión TV 
-https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV 
 https://mediacpstreamchile.com:1936/8102/8102/playlist.m3u8
