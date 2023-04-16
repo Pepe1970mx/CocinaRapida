@@ -145,6 +145,10 @@ https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TVMAX 
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", 13Max
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8?PlaylistM3UCL
+
+
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 100 
 http://204.12.202.90:8080/playgt/playgt2023/106
 
