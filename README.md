@@ -148,6 +148,14 @@ https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/60580
 #EXTINF:-1 group-title="ENTRETENIMIENTO", 13Max
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", America tV
+https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Variedad tV
+https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Teletica 7
+https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 100 
 http://204.12.202.90:8080/playgt/playgt2023/106
@@ -365,6 +373,12 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
 #EXTINF:-1 group-title="DEPORTES", TUDN 
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
 
+#EXTINF:-1 group-title="DEPORTES", City Sports
+https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="DEPORTES", CDN Deportes
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/98c5ff12adca4abc9921e8e54f115092/manifest.m3u8?p=79&s=1681524947&e=1681525547&h=3c349a07b1d03b79b6d9489fde8bd1e8
+
 #EXTINF:-1 group-title="HBO" , HBO 
 http://45.181.121.57:2909/play/017
 
@@ -399,11 +413,16 @@ https://regioplay.xyz/php/SR_REGIO_104023_/tpnuevo02.php?tokennn=Regio&c=435&f=.
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE05.m3u8
 
 
-#EXTINF:-1 group-title="STAR +" , Golden Premiere
+#EXTINF:-1 group-title="De Paga" , Golden Premiere
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="STAR +" , Golden Plus
+#EXTINF:-1 group-title="De Paga" , Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 group-title="De Paga" , Clan 
+https://ztnr.rtve.es/ztnr/5466990.m3u8
+
 
 #EXTINF:-1 group-title="RETRO", RETRO PLUS TV CINE 
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
