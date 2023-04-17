@@ -227,8 +227,13 @@ https://5cf4a2c2512a2.streamlock.net/8162/8162/master.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , TVS
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , ATV
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Viwix
 
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" ,
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" ,
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" ,
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , ATV Sur
 
@@ -367,6 +372,9 @@ https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8?PlaylistM
 #EXTINF:-1 group-title="DEPORTES", CDN Deportes
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/98c5ff12adca4abc9921e8e54f115092/manifest.m3u8?p=79&s=1681524947&e=1681525547&h=3c349a07b1d03b79b6d9489fde8bd1e8
 
+#EXTINF:-1 group-title="DEPORTES Pluto,Plex", ITV Deportes 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656899342&id=34434&ip=45.188.78.93&override_expiration=1500&sign=TxhnXtTkkmuchk54BrTTN4p4AevpD8%2Bnm3lscX9lXPg%3D
+
 
 
 #EXTINF:-1 group-title="De Paga" , Star Channels 
@@ -405,6 +413,18 @@ http://45.181.121.57:2909/play/021
 
 #EXTINF:-1 group-title="De Paga" , HBO Family 
 http://45.181.121.57:2909/play/018
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="De Paga", Cartoon Network 
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="De Paga", Cartoonito 
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="De Paga" , Clan 
 https://ztnr.rtve.es/ztnr/5466990.m3u8
