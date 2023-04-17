@@ -187,6 +187,9 @@ https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Teletica 7
 https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist_dvr.m3u8
 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Canal 9 Barbe TV
+http://204.12.202.90:8080/playgt/playgt2023/103
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Canal 11 NI
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
 
@@ -207,6 +210,12 @@ https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/60580
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", 13Max
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Canal 19 MGV 
+https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", TV Tun
+https://cdn.streamhispanatv.net:3832/live/tvtunlive.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", America tV
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
