@@ -211,6 +211,9 @@ https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Variedad tV
 https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", WTV NI
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Capricho TV
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 
