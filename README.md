@@ -172,11 +172,11 @@ https://dslvfq5ee0geu.cloudfront.net/hls/canal3.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Telecinco 
 https://videohd.live:19360/8016/8016.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", TeleSiete 
-https://dslvfq5ee0geu.cloudfront.net/hls/canal7.m3u8
-
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Cinco TV 
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", TeleSiete 
+https://dslvfq5ee0geu.cloudfront.net/hls/canal7.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , TV Centro 7.1
 https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
@@ -248,10 +248,6 @@ http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Esports Max 
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-
-
-
-
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV 
 https://mediacpstreamchile.com:1936/8102/8102/playlist.m3u8
@@ -350,9 +346,6 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
 
-#EXTINF:-1  group-title="DEPORTES", Espn
-https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8?PlaylistM3UCL
-
 #EXTINF:-1  group-title="DEPORTES", Espn 
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
 
@@ -366,7 +359,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", TUDN 
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
+http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL556/PROFILE03.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", City Sports
 https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8?PlaylistM3UCL
@@ -374,19 +367,9 @@ https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8?PlaylistM
 #EXTINF:-1 group-title="DEPORTES", CDN Deportes
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/98c5ff12adca4abc9921e8e54f115092/manifest.m3u8?p=79&s=1681524947&e=1681525547&h=3c349a07b1d03b79b6d9489fde8bd1e8
 
-#EXTINF:-1 group-title="HBO" , HBO 
-http://45.181.121.57:2909/play/017
 
-#EXTINF:-1 group-title="HBO" , HBO 2 
-http://45.181.121.57:2909/play/021
 
-#EXTINF:-1 group-title="HBO" , HBO plus 
-http://45.181.121.57:2909/play/019
-
-#EXTINF:-1 group-title="HBO" , HBO Family 
-http://45.181.121.57:2909/play/018
-
-#EXTINF:-1 group-title="STAR +" , Star Channels 
+#EXTINF:-1 group-title="De Paga" , Star Channels 
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
 
 #EXTINF:-1 group-title="De Paga" , WarnerChannel
@@ -414,6 +397,14 @@ https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="De Paga" , Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
+#EXTINF:-1 group-title="De Paga" , HBO 
+http://45.181.121.57:2909/play/017
+
+#EXTINF:-1 group-title="De Paga" , HBO 2 
+http://45.181.121.57:2909/play/021
+
+#EXTINF:-1 group-title="De Paga" , HBO Family 
+http://45.181.121.57:2909/play/018
 
 #EXTINF:-1 group-title="De Paga" , Clan 
 https://ztnr.rtve.es/ztnr/5466990.m3u8
