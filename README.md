@@ -196,6 +196,9 @@ https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 11 PA
 http://138.117.4.70:8075/channel11/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 12 SV
+https://d3kk75blondskv.cloudfront.net/hls/canal12.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", El trece 
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
