@@ -244,17 +244,25 @@ http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Viwix
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" ,
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Planeta TV Movies
+https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" ,
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , TVS VE
+https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" ,
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Viwis Estrenos
+https://s1.tvdatta.com:3037/stream/play.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , ATV Sur
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Viwis Accion
+https://s1.tvdatta.com:3181/stream/play.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Viwis Terror
+https://s1.tvdatta.com:3121/stream/play.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , ATV+
 
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Planeta TV Kids
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , TVN Panama
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
