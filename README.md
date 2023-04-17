@@ -103,7 +103,6 @@ https://stmvideo2.livecastv.com/telestrella/telestrella/playlist.m3u8?PlaylistM3
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Teleonce Univision PR
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
-
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , Ve Plus 
 http://190.122.96.187:8888/http/006
 
