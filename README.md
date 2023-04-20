@@ -143,8 +143,7 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Wapa
-https://wapa.x10.mx/h3wr/wapa.php/chunklist.m3u8
-
+https://wapa.x10.mx/pq8v/wapa.php/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Gen TV 
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
