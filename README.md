@@ -407,6 +407,9 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE05.m3u8
 #EXTINF:-1 group-title="De Paga" , Sony Channel
 https://regioplay.xyz/php/SR_REGIO_104023_/tpnuevo02.php?tokennn=Regio&c=203&f=.m3u8
 
+#EXTINF:-1 group-title="De Paga" , Cine Sony
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+
 #EXTINF:-1 group-title="De Paga" , Universal Channel
 https://regioplay.xyz/php/SR_REGIO_104023_/tpnuevo02.php?tokennn=Regio&c=207&f=.m3u8
 
