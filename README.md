@@ -495,7 +495,7 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 
 #EXTINF:-1 group-title="RETRO" , Dreiko TV 
-https://tv.fullhd-streaming.com:3807/live/dreikotvlive.m3u8
+https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
 #EXTINF:-1 group-title="RETRO" , Retro XTV 
 https://5bf8041cb3fed.streamlock.net/retroxtv/retroxtv/.m3u8
