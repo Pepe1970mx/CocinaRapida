@@ -117,20 +117,26 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="ENTRETENIMIENTO", Telexitos 
-https://v-ny.mybtv.net/live/660.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Planeta TV Movies
+https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Planeta TV Kids
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Moni TV 
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 100 
 http://204.12.202.90:8080/playgt/playgt2023/106
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Guatuso
+https://5cf4a2c2512a2.streamlock.net/8162/8162/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV
 https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w817764624.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Moni TV 
-https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , OrbitTV 
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
@@ -224,26 +230,14 @@ https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="ENTRETENIMIENTO", WTV NI
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Capricho TV
-https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Origen tv
 https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
-
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Antares TV
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Guatuso
-https://5cf4a2c2512a2.streamlock.net/8162/8162/master.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , TVS
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Viwix
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Planeta TV Movies
-https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , TVS VE
 https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8?PlaylistM3UCL
@@ -257,10 +251,6 @@ https://s1.tvdatta.com:3181/stream/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Viwis Terror
 https://s1.tvdatta.com:3121/stream/play.m3u8?PlaylistM3UCL
 
-
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Planeta TV Kids
-https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , TVN Panama
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
@@ -283,6 +273,57 @@ https://videohd.live:19360/8076/8076.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , SEO TV 
 https://live.seo.tv.bo/live/1SEO.m3u8
+
+
+#EXTINF:-1 group-title="RETRO", Chinola 
+https://cdn3.streamgato.us:3434/live/chinolatvlive.m3u8
+
+#EXTINF:-1 group-title="RETRO" , Mi TV
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="RETRO", ACS Network
+https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
+
+#EXTINF:-1 group-title="RETRO" , Dreiko TV 
+https://cloudvideo.servers10.com:8081/8138/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" , TigueritosTV 
+https://ss9.domint.net:3012/ttv_str/%20tigueritotv/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="RETRO", TELERED 
+http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="RETRO", Telesistema 
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CTfQL7m/tvretro.png" group-title="RETRO", RetroMagico 
+https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
+
+#EXTINF:-1 group-title="RETRO" , Retro XTV 
+https://5bf8041cb3fed.streamlock.net/retroxtv/retroxtv/.m3u8
+
+#EXTINF:-1 group-title="RETRO" , Teleclasica 
+https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
+
+#EXTINF:-1 group-title="RETRO" , Telecolor 
+https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" , TVS Retro 
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+
+#EXTINF:-1 tvg-logo=" " group-title="RETRO" , STV 
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+
+#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="RETRO", San Isidrio TV 
+https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
+
+#EXTINF:-1 group-title="RETRO" , San Vito Television 
+https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
+
+#EXTINF:-1 group-title="RETRO" , Genios TV 
+https://live.obslivestream.com/geniostvmux/index.m3u8?PlaylistM3UCL
+
 
 
 #EXTINF:-1 group-title="VIX 24/7", Vix Como Dice el Dicho 
@@ -444,14 +485,10 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="De Paga", Cartoonito 
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 
-
-
-
-
-
-
 #EXTINF:-1 group-title="De Paga" , Clan 
 https://ztnr.rtve.es/ztnr/5466990.m3u8
+
+
 
 #EXTINF:-1 group-title="RETRO", Xtrema  Retro Cartoon
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
@@ -462,61 +499,12 @@ https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
 #EXTINF:-1 group-title="RETRO", RETRO PLUS TV CINE 
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 
-#EXTINF:-1 group-title="RETRO", MITV 
-https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 
-#EXTINF:-1 group-title="RETRO", Chinola 
-https://cdn3.streamgato.us:3434/live/chinolatvlive.m3u8
 
-#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="RETRO", ACS Network
-https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="RETRO", TELERED 
-http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="RETRO", Telesistema 
-https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LsCbCN1Z/acsnetwork.png" group-title="RETRO", ACS NETWORK https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CTfQL7m/tvretro.png" group-title="RETRO", RetroMagico 
-https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="RETRO" , STV 
-http://tiquiciatv.com:1935/stv/web/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="RETRO" , TigueritosTV 
-https://ss9.domint.net:3012/ttv_str/%20tigueritotv/.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="RETRO" , TVS Retro 
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-
-#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="RETRO", San Isidrio TV 
-https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
-
-#EXTINF:-1 group-title="RETRO" , Dreiko TV 
-https://cloudvideo.servers10.com:8081/8138/index.m3u8
-
-#EXTINF:-1 group-title="RETRO" , Retro XTV 
-https://5bf8041cb3fed.streamlock.net/retroxtv/retroxtv/.m3u8
-
-#EXTINF:-1 group-title="RETRO" , San Vito Television 
-https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
-
-#EXTINF:-1 group-title="RETRO" , Teleclasica 
-https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
-
-#EXTINF:-1 group-title="RETRO" , Palmeras tv 
-https://video.ingenioperu.com:3681/live/palmerastvlive.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="RETRO" , Genios TV 
-https://live.obslivestream.com/geniostvmux/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="RETRO" , Telecolor 
-https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="RETRO" , Mi TV
-https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 
 
 
