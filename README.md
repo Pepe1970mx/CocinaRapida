@@ -6,6 +6,9 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Las Estrellas 
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
 
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Las estrellas Latam
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Imagen TV 
 https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2298/PROFILE03.m3u8
 
@@ -76,7 +79,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE03.m3u8
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Nuestra Visión 
-
+https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Azteca America 
 
@@ -84,8 +87,8 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Telemundo 
 https://content.uplynk.com/channel/c1698e3bc70e429a887301d8831400f8.m3u8
 
-#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="VARIEDADES", Univision 
-
+#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="VARIEDADES", Univision Latam
+https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="VARIEDADES", Unimas 
 
@@ -325,6 +328,8 @@ https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
 https://live.obslivestream.com/geniostvmux/index.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 group-title="VIX 24/7", La Rosa dd Guadalupe
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="VIX 24/7", Vix Como Dice el Dicho 
 https://linear-341.frequency.stream/341/hls/master/playlist.m3u8
@@ -341,7 +346,8 @@ https://linear-313.frequency.stream/313/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="VIX 24/7", Vix Vecinos 
 https://linear-314.frequency.stream/314/hls/master/playlist.m3u8
 
-
+#EXTINF:-1 group-title="VIX 24/7", Fuakata
+https://linear-304.frequency.stream/304/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 group-title="NOTICIAS", Imagen Multicast 
@@ -426,7 +432,7 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", TUDN 
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL556/PROFILE03.m3u8
+https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", City Sports
 https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8?PlaylistM3UCL
@@ -434,10 +440,14 @@ https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8?PlaylistM
 #EXTINF:-1 group-title="DEPORTES", CDN Deportes
 http://51.81.93.29:8084/hls/cdnsm.m3u8
 
+
+
+
 #EXTINF:-1 group-title="DEPORTES", ITV Deportes 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656899342&id=34434&ip=45.188.78.93&override_expiration=1500&sign=TxhnXtTkkmuchk54BrTTN4p4AevpD8%2Bnm3lscX9lXPg%3D
 
-
+#EXTINF:-1 group-title="DEPORTES", Tigo Sports
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="De Paga" , Star Channels 
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
