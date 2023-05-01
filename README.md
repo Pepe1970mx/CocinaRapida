@@ -593,7 +593,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1389&livestream=1&live=1&a
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-61aa9f50784a2161d3caf7fb" tvg-id="5e20b730f2f8d5003d739db7-61aa9f50784a2161d3caf7fb" tvg-logo="https://provider-static.plex.tv/epg/cms/staging/081b8bca-9f8e-44a6-8173-c49e124bb7d2/stingray-everything-80s_logo_dark.png" group-title="RADIO",Everything ‘80s
 
 #EXTINF:-1, tvg-logo="" group-title="RADIO" , Universal Stero 
-https://14933.live.streamtheworld.com/XHRED_FMAAC.aac?dist=tg&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=d8b27299-703d-4e00-8a3b-8746120031fe
+https://18193.live.streamtheworld.com/XHRED_FMAAC.aac?dist=grc-web&key=grc-web&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=c9a31c52-5876-4bf1-b007-321d99ad45c3
 
 #EXTINF:-1, tvg-logo="" group-title="RADIO" , Radio Retro 
 https://s01.digitalserver.org:7637/;
