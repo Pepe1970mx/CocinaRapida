@@ -10,7 +10,7 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdn
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Imagen TV 
-https://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2298/PROFILE03.m3u8
+https://stream-12.dc3.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLvvApjwPc-yRlIdlt28T_UEaOOiorOeICjd0AKZJpyGs)/dm/3/x82z4if/d/live-2.m3u8
 
 #EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Canal Cinco  
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8
