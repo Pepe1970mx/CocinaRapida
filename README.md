@@ -81,33 +81,35 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES", Nuestra Visión 
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Azteca Mundo
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", TV Azteca Mundo
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Azteca Corazon
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", TV Azteca Corazon
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Telemundo 
+#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Telemundo California
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="VARIEDADES", Univision Latam
-https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="VARIEDADES", Unimas 
-
 
 #EXTINF:-1 group-title="VARIEDADES", Telemundo PR 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-
-#EXTINF:-1 group-title="VARIEDADES", ESTRELLA TV 
-https://estrellatv-plex.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES",Telestrella 
-https://stmvideo2.livecastv.com/telestrella/telestrella/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="VARIEDADES", Univision Latam
+https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Teleonce Univision PR
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
+
+
+#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="VARIEDADES", Unimas 
+
+#EXTINF:-1 group-title="VARIEDADES", ESTRELLA TV US
+https://estrellatv-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Telestrella 
+https://stmvideo2.livecastv.com/telestrella/telestrella/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="VARIEDADES" , Wapa
+https://wapa.x10.mx/pq8v/wapa.php/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , Ve Plus 
 http://190.122.96.187:8888/http/006
@@ -154,8 +156,7 @@ https://live.obslivestream.com/cdeportivo/index.m3u8
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Wapa
-https://wapa.x10.mx/pq8v/wapa.php/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Gen TV 
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
