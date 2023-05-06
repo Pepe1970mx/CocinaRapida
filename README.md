@@ -10,7 +10,7 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdn
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Imagen TV 
-https://stream-12.dc3.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLvvApjwPc-yRlIdlt28T_UEaOOiorOeICjd0AKZJpyGs)/dm/3/x82z4if/d/live-2.m3u8
+http://megaxplay.com:80/play/zjcxeGr2K_h3VxhgXHJAhpX8VpYGmkYMgdEl43ZaNgY
 
 #EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Canal Cinco  
 http://megaxplay.com:80/play/zjcxeGr2K_h3VxhgXHJAhiA1c0KL5BKuhLHFLz_T6IE
@@ -28,7 +28,7 @@ https://live.info7.mx/info7/stream.m3u8
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Nu9ve 
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
+http://megaxplay.com:80/play/zjcxeGr2K_h3VxhgXHJAho3FM5Fi1P1Cy2WeTGQh0pg
 
 #EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="VARIEDADES", MVS TV 
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
