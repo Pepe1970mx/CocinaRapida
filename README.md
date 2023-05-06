@@ -146,6 +146,7 @@ https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w817764624.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , OrbitTV 
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
@@ -155,8 +156,8 @@ https://live.obslivestream.com/cdeportivo/index.m3u8
 #EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", Telecosta 
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
-
-
+#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", CocoTV
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Gen TV 
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
