@@ -540,8 +540,8 @@ https://linear-417.frequency.stream:443/417/hls/master/playlist_640x360.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", Bandamax 
 https://linear-400.frequency.stream/400/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSIC", Box Music 
-https://c336356fded74d1ebddf35150b9ba10c.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/herogo-origin001NPR/contentserver/v2/distributions/18677298/content/m.m3u8?ads.vast_id=645688&session_ticket=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ik1MWXVVbnJ3UThyUVZ5RVJrUDljIiwiaXNzIjoiY29udGVudHNlcnZlci9ub3RfdHJhY2tlZCIsInNjcCI6eyJyc2MiOnsiZGlzdHJpYnV0aW9uOmlkIjoiMTg2NzcyOTgifSwiYWN0IjpbImRpc3RyaWJ1dGlvbjpzZXJ2ZSJdfSwiZXhwIjoxNjYzNDUyODkwfQ.X7wjN-xp7GJIPJFnlsai1z6roCih9b0ZnRMstHBr3Jw&ads.h=726&ads.w=384&ads.did=dc2a441a&ads.channel_name=Box%20Playlist&ads.content_genre=&ads.rating=TV14&ads.content_series=boxplaylist%20-%20es%20concierto%20con%20raffy%20diaz&ads.us_privacy=1N-N&ads.app_platform=web&ads.app_ver=1.0.23
+#EXTINF:-1 group-title="MUSIC",Vos TV
+http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC", MUSIC TOP 
 http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
