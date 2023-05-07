@@ -100,7 +100,8 @@ https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
 
-#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="VARIEDADES", Unimas 
+#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="VARIEDADES", America Teve
+https://live.gideo.video/americateve1/master.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", ESTRELLA TV US
 https://estrellatv-plex.amagi.tv/playlist.m3u8
@@ -130,6 +131,9 @@ https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Planeta TV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Latino Kids
+https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Moni TV 
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
@@ -516,10 +520,10 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="Retro Music", Now 80s
+https://lightning-now80s-samsunguk.amagi.tv/hls/amagi_hls_data_samsunguk-lightning-now80s-samsunguk/CDN/playlist.m3u8?device%5Bdid%5D=%7BPSID%7D&device%5Bdnt%5D=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&tc_string=%7BTC_STRING%7D&coppa=0
 
-
-
-
+#EXTINF:-1 tvg-logo="" group-title="Retro Music",
 
 
 
