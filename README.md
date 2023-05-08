@@ -125,6 +125,8 @@ https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
 
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Planeta TV
+https://live.obslivestream.com/planetatv/index.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Planeta TV Movies
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
@@ -134,6 +136,9 @@ https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Latino Kids
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal Blu
+https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Moni TV 
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
@@ -523,9 +528,17 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 #EXTINF:-1 tvg-logo="" group-title="Retro Music", Now 80s
 https://lightning-now80s-samsunguk.amagi.tv/hls/amagi_hls_data_samsunguk-lightning-now80s-samsunguk/CDN/playlist.m3u8?device%5Bdid%5D=%7BPSID%7D&device%5Bdnt%5D=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&tc_string=%7BTC_STRING%7D&coppa=0
 
-#EXTINF:-1 tvg-logo="" group-title="Retro Music",
+#EXTINF:-1 tvg-logo="" group-title="Retro Music", Vevo 90S & 00s
+https://d2yw87dguyr3x7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gm31ezw31rx7a/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
+#EXTINF:-1 tvg-logo="" group-title="Retro Music", Vclassic TV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="" group-title="Retro Music", Oldies Hits
+https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Retro Music", Retro Channel
+https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", Telehit Musica Plus 
@@ -540,6 +553,12 @@ https://linear-417.frequency.stream:443/417/hls/master/playlist_640x360.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", Bandamax 
 https://linear-400.frequency.stream/400/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="MUSIC", Vevo Pop
+https://d2g0vxybsz6hsr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x9zzce8l5rccc/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC", VH1 Italy
+
+
 #EXTINF:-1 group-title="MUSIC",Vos TV
 http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8
 
@@ -553,13 +572,13 @@ http://stream.mxiptv.org:25461/live/tvabierta/opentv/249.m3u8
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title "MUSIC" , Box Music 
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSIC", Hit TV 
 http://hitmusic.hu/hitmusic.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="MUSIC", 1HD 
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="MUSIC", 1HD Music Television
+https://sc.id-tv.kz/1hd.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSIC", 1 Music Channels 
 https://ch.iptvmate.net/b8799300af8ecf28e89b77029dfa9e6d.m3u8
