@@ -52,7 +52,7 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 https://ythls.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Quiero TV
-https://quierotvlive.tk/httplive/playlist_playlist.m3u8
+https://stream-12.dc3.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOtr5K_DfD0zDGxPO069U15SIEVoxxV0o368CEVpQWwwM)/dm/3/x8452uw/s/live-4.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES" , TV Mexiquense 
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
@@ -186,9 +186,11 @@ https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Visión TV 
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , ATV Sur
+https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TeleTres 
-https://dslvfq5ee0geu.cloudfront.net/hls/canal3.m3u8
+https://d1dqr580c2izza.cloudfront.net/hls/canal3.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Telecinco 
 https://videohd.live:19360/8016/8016.m3u8
@@ -197,7 +199,7 @@ https://videohd.live:19360/8016/8016.m3u8
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TeleSiete 
-https://dslvfq5ee0geu.cloudfront.net/hls/canal7.m3u8
+https://d1dqr580c2izza.cloudfront.net/hls/canal7.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , TV Centro 7.1
 https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
@@ -212,7 +214,7 @@ https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c6
 http://204.12.202.90:8080/playgt/playgt2023/103
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Canal 11 NI
-https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
+https://d25v5vivhcrrh5.cloudfront.net/hls/canal11.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 11 HN
 https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
