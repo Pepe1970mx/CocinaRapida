@@ -137,7 +137,13 @@ https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Latino Kids
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal Blu
+#EXTINF:-1 group-title="ENTRETENIMIENTO", AMC en Español
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62d1efa6c33948ea4ceedbcf.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=jVtQQEicKDo1wxCw8Qjz
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Canela TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=jVtQQEicKDo1wxCw8Qjz
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  Canal Blu
 https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Moni TV 
@@ -292,6 +298,14 @@ https://videohd.live:19360/8076/8076.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , SEO TV 
 https://live.seo.tv.bo/live/1SEO.m3u8
+
+
+#EXTINF:-1 group-title="Movies" , Grjngo-Peliculas del Oeste
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63489eff90b96ef5e0eb3282.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=jVtQQEicKDo1wxCw8Qjz
+
+
+
+
 
 
 #EXTINF:-1 group-title="RETRO", Chinola 
@@ -593,8 +607,8 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-logo" "group-title="MUSICA REGIONAL" , Balladas 24/7 
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo" "group-title="MUSICA REGIONAL" , Tropical 24/7 
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo" "group-title="MUSICA REGIONAL" , MMC 
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-623954128ed2b3b15baecb2c.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=jVtQQEicKDo1wxCw8Qjz
 
 #EXTINF:-1 group-title="MUSICA REGIONAL", Infinita TV 
 https://rtmp02.portalexpress.es:443/infinitatv/infinitatv/chunklist_w640472234.m3u8
