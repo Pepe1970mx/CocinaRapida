@@ -303,8 +303,8 @@ https://live.seo.tv.bo/live/1SEO.m3u8
 #EXTINF:-1 group-title="Movies" , Grjngo-Peliculas del Oeste
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63489eff90b96ef5e0eb3282.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=jVtQQEicKDo1wxCw8Qjz
 
-
-
+#EXTINF:-1 group-title="Movies" , Accion Runtime
+https://d10po0m73eydog.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9veh3t1iih14b/ra_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 
 
