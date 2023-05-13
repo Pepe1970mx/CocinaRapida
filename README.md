@@ -140,6 +140,15 @@ https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Latino Kids
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV 
+https://mediacpstreamchile.com:1936/8102/8102/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Viwix TV 
+https://videohd.live:19360/8076/8076.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , SEO TV 
+https://live.seo.tv.bo/live/1SEO.m3u8
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO", AMC en Español
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62d1efa6c33948ea4ceedbcf.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=jVtQQEicKDo1wxCw8Qjz
 
@@ -293,14 +302,7 @@ http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Esports Max 
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV 
-https://mediacpstreamchile.com:1936/8102/8102/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Viwix TV 
-https://videohd.live:19360/8076/8076.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , SEO TV 
-https://live.seo.tv.bo/live/1SEO.m3u8
 
 
 #EXTINF:-1 group-title="Movies" , Grjngo-Peliculas del Oeste
