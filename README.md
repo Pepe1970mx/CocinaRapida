@@ -39,6 +39,11 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Canal 12 Tijuana
 https://ythls.onrender.com/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
 
+
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Canal 13 Puebla
+https://c13mx.mediatiquestream.com/canal13puebla/d0dbe915091d400bd8ee7f27f0791303.sdp/canal13puebla/live3/chunks.m3u8
+
+
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , Canal 14 
 https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
 
