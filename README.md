@@ -9,7 +9,7 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdn
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Las estrellas Internacional
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Imagen TV 
+#EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Imagen TV HD 
 http://megaxplay.com:80/play/zjcxeGr2K_h3VxhgXHJAhpX8VpYGmkYMgdEl43ZaNgY
 
 #EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Canal Cinco  
@@ -18,7 +18,7 @@ http://megaxplay.com:80/play/zjcxeGr2K_h3VxhgXHJAhiA1c0KL5BKuhLHFLz_T6IE
 #EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Multimedios plus
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES" , Duples XHIMT
+#EXTINF:-1 group-title="VARIEDADES" , Duplicate XHIMT Canal 7 TV Azteca
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 tvg-id="I223.102406.schedulesdirect.org" tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="VARIEDADES" , Azteca Monterrey 
@@ -27,7 +27,7 @@ https://live.info7.mx/info7/stream.m3u8
 #EXTINF:-1 tvg-id="I4.104892.schedulesdirect.org" tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="VARIEDADES" , A MAS 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", Duplez XHQ
+#EXTINF:-1 group-title="VARIEDADES", DUPXEQ
 http://megaxplay.com:80/play/zjcxeGr2K_h3VxhgXHJAho3FM5Fi1P1Cy2WeTGQh0pg
 
 #EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="VARIEDADES", MVS TV 
@@ -50,7 +50,7 @@ https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
 #EXTINF:-1 tvg-id="I220.102415.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , CANAL 22 
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , TVMas (RTV) 
+#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , Radio y Television de Veracruz (RTV) 
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Telever 
@@ -65,7 +65,7 @@ https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Telemax (XEWH)
 http://s5.mexside.net:1935/telemax/telemax/chunklist_w1982711424.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , RGC
+#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , RCG Acuna Canal 36
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TVP 
@@ -400,7 +400,7 @@ https://linear-314.frequency.stream/314/hls/master/playlist.m3u8
 https://linear-304.frequency.stream/304/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 group-title="NOTICIAS", Imagen Multicast 
+#EXTINF:-1 group-title="NOTICIAS", Excélsior Televisión HD 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UClqo4ZAAZ01HQdCTlovCgkA/live
 
 #EXTINF:-1 group-title="NOTICIAS" , CNN en Español 
@@ -430,13 +430,13 @@ TV https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7
 #EXTINF:-1 group-title="NOTICIAS", DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS", RT en español 
+#EXTINF:-1 group-title="NOTICIAS", RT in Spanish 
 https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS", EuroNews en español 
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS", France 24 Español 
+#EXTINF:-1 group-title="NOTICIAS", France 24 Español SD 
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="NOTICIAS" , Mexiquense Noticias 
@@ -447,32 +447,29 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 #EXTINF:-1 group-title="DEPORTES", beIN SPORTS XTRA en español 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="DEPORTES", Adrenalina Sport Network 
+#EXTINF:-1 group-title="DEPORTES", Adrenalina Sports Network
 https://linear-393.frequency.stream/393/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", Afizzionados
+#EXTINF:-1 group-title="DEPORTES", Afizzionados HD
 https://linear-348.frequency.stream/dist/vix/348/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", CLARO SPORT 
+#EXTINF:-1 group-title="DEPORTES", Claro Sports HD 
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", Fox Sports 1 
+#EXTINF:-1 group-title="DEPORTES", Fox Sports Latinoamerica
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 
-#EXTINF:-1 group-title="DEPORTES", Fox Sports 2 
+#EXTINF:-1 group-title="DEPORTES", FOX Sports 2 LatinoAmerica HD 
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
-
-#EXTINF:-1 group-title="DEPORTES", Fox Sports 2 
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", Fox Sports 3 
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
 
-#EXTINF:-1  group-title="DEPORTES", Espn 
+#EXTINF:-1  group-title="DEPORTES", ESPN LatinoAmerica HD 
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
 
-#EXTINF:-1  group-title="DEPORTES", Espn 2
+#EXTINF:-1  group-title="DEPORTES", ESPN 2 LatinoAmerica HD
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", ESPN 3 
@@ -499,7 +496,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010&avod=1&coppa=0&is_lat
 #EXTINF:-1 group-title="DEPORTES", Tigo Sports
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="De Paga" , Star Channels 
+#EXTINF:-1 group-title="De Paga" , Star Channel
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
 
 #EXTINF:-1 group-title="De Paga" , WarnerChannel
@@ -508,10 +505,10 @@ http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE05.m3u8
 #EXTINF:-1 group-title="De Paga" , Sony Channel
 https://regioplay.xyz/php/SR_REGIO_104023_/tpnuevo02.php?tokennn=Regio&c=203&f=.m3u8
 
-#EXTINF:-1 group-title="De Paga" , Cine Sony
+#EXTINF:-1 group-title="De Paga" , Sony Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="De Paga" , Universal Channel
+#EXTINF:-1 group-title="De Paga" , Canal Sony
 http://163.123.192.123:25461/cuentapremium22/Nd7ANcYN9N7E/2604?token=GkMMUxBdEg1EAgJaCQBUBgxRAAcMDwcJBwABVABTV1FRUVQLW1MJVlERHUBLRRdXWVptCl0UXwMBAAVNEhAQBhM+DVZBDxIFVQMBQBQTEVtVUhBZCABdBQABBFEJVk9BEQgAEFlbRVsKHxMHQEUAQFZWXjxdUxNYVFUTW14QDw9NQwtcPFFVWgddVUACE1QQFBVbEEkUX19CXF1NEgcKFxMAEFdBD15CCl8dQFteEFxMRUtBAxQoaRUcEwRIEQYNEggLXEEPEkMVER1AUUI6QF1ERhFcVwhURRILQwBHT0EMABxtAFpeWQNQRQtXXxYQAhUBQRUUCF5ZWUUOQjoTCgVDXlwWWVxK
 
 #EXTINF:-1 group-title="De Paga" , AMC
@@ -524,7 +521,10 @@ http://163.123.192.123:25461/cuentapremium22/Nd7ANcYN9N7E/2606?token=GkMMUxBdEg1
 http://163.123.192.123:25461/cuentapremium22/Nd7ANcYN9N7E/2608?token=GkMMUxBdEg1EAgJaCQBUBgxRAAcMDwcJBwABVABTV1FRUVQLW1MJVlERHUBLRRdXWVptCl0UXwMBAAVNEhAQBhM+DVZBDxIFVQMBQBQTEVtVUhBZCABdBQABBFEJVk9BEQgAEFlbRVsKHxMHQEUAQFZWXjxdUxNYVFUTW14QDw9NQwtcPFFVWgddVUACE1QQFBVbEEkUX19CXF1NEgcKFxMAEFdBD15CCl8dQFteEFxMRUtBAxQoaRUcEwRIEQYNEggLXEEPEkMVER1AUUI6QF1ERhFcVwhURRILQwBHT0EMABxtAFpeWQNQRQtXXxYQAhUBQRUUCF5ZWUUOQjoTCgVDXlwWWVxK
 
 
-#EXTINF:-1 group-title="De Paga" , Golden Premiere
+
+#EXTINF:-1 group-title="De Paga" , Golden
+
+#EXTINF:-1 group-title="De Paga" , Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="De Paga" , Golden Plus
