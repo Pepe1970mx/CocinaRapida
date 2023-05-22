@@ -512,7 +512,7 @@ https://regioplay.xyz/php/SR_REGIO_104023_/tpnuevo02.php?tokennn=Regio&c=203&f=.
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 group-title="De Paga" , Universal Channel
-https://regioplay.xyz/php/SR_REGIO_104023_/tpnuevo02.php?tokennn=Regio&c=207&f=.m3u8
+[https://regioplay.xyz/php/SR_REGIO_104023_/tpnuevo02.php?tokennn=Regio&c=207&f=.m3u8](http://163.123.192.123:25461/cuentapremium22/Nd7ANcYN9N7E/2604?token=GkMMUxBdEg1EAgJaCQBUBgxRAAcMDwcJBwABVABTV1FRUVQLW1MJVlERHUBLRRdXWVptCl0UXwMBAAVNEhAQBhM+DVZBDxIFVQMBQBQTEVtVUhBZCABdBQABBFEJVk9BEQgAEFlbRVsKHxMHQEUAQFZWXjxdUxNYVFUTW14QDw9NQwtcPFFVWgddVUACE1QQFBVbEEkUX19CXF1NEgcKFxMAEFdBD15CCl8dQFteEFxMRUtBAxQoaRUcEwRIEQYNEggLXEEPEkMVER1AUUI6QF1ERhFcVwhURRILQwBHT0EMABxtAFpeWQNQRQtXXxYQAhUBQRUUCF5ZWUUOQjoTCgVDXlwWWVxK)
 
 #EXTINF:-1 group-title="De Paga" , AMC
 http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE05.m3u8
