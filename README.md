@@ -89,7 +89,7 @@ https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", TV Azteca Mundo
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", TV Azteca Corazon
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", TV Azteca Corazón
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Telemundo 
@@ -111,7 +111,7 @@ https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cf
 #EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="VARIEDADES", America Teve
 https://live.gideo.video/americateve1/master.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", ESTRELLA TV US
+#EXTINF:-1 group-title="VARIEDADES", ESTRELLA TV
 https://estrellatv-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Telestrella 
@@ -155,10 +155,10 @@ https://videohd.live:19360/8076/8076.m3u8
 https://live.seo.tv.bo/live/1SEO.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", AMC en Español
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62d1efa6c33948ea4ceedbcf.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=jVtQQEicKDo1wxCw8Qjz
+
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Canela TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=jVtQQEicKDo1wxCw8Qjz
+
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",  Canal Blu
 https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
@@ -212,37 +212,37 @@ https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , ATV Sur
 https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", TeleTres 
+#EXTINF:-1 group-title="Latino", TeleTres 
 https://d1dqr580c2izza.cloudfront.net/hls/canal3.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Telecinco 
+#EXTINF:-1 group-title="Latino", Telecinco 
 https://videohd.live:19360/8016/8016.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Cinco TV 
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", TeleSiete 
+#EXTINF:-1 group-title="Latino", TeleSiete 
 https://d1dqr580c2izza.cloudfront.net/hls/canal7.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , TV Centro 7.1
+#EXTINF:-1 group-title="Latino" , TV Centro 7.1
 https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , TV Centro 7.2
+#EXTINF:-1 group-title="Latino" , TV Centro 7.2
 https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Teletica 7
+#EXTINF:-1 group-title="Latino", Teletica 7
 https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist_dvr.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Canal 9 Barbe TV
 http://204.12.202.90:8080/playgt/playgt2023/103
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Canal 11 NI
+#EXTINF:-1 group-title="Latino", Canal 11 NI
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal11.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 11 HN
+#EXTINF:-1 tvg-logo=" " group-title="Latino" , Canal 11 HN
 https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 11 PA
+#EXTINF:-1 tvg-logo=" " group-title="Latino" , Canal 11 PA
 http://138.117.4.70:8075/channel11/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 12 SV
@@ -263,11 +263,8 @@ https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TV Tun
 https://cdn.streamhispanatv.net:3832/live/tvtunlive.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", America tV
+#EXTINF:-1 group-title="Latino", America tV
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Variedad tV
-https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", WTV NI
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
@@ -294,7 +291,7 @@ https://s1.tvdatta.com:3181/stream/play.m3u8?PlaylistM3UCL
 https://s1.tvdatta.com:3121/stream/play.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , TVN Panama
+#EXTINF:-1 group-title="Latino" , TVN Panama
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , OK TV
