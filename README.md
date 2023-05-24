@@ -312,9 +312,8 @@ https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 
 
-#EXTINF:-1 group-title="Kds", 
-
-
+#EXTINF:-1 group-title="Kds", Super Kaos TV
+https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
 
 #EXTINF:-1 group-title="Kds", 
 
