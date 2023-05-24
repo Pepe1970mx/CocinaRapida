@@ -163,8 +163,7 @@ https://live.seo.tv.bo/live/1SEO.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",  Canal Blu
 https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Moni TV 
-https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 100 
 http://204.12.202.90:8080/playgt/playgt2023/106
@@ -303,6 +302,22 @@ http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Esports Max 
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Kds", Moni TV 
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Kds", Zaz TV
+https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+
+
+#EXTINF:-1 group-title="Kds", 
+
+
+
+#EXTINF:-1 group-title="Kds", 
+
 
 
 
