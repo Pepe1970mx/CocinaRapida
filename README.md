@@ -172,7 +172,7 @@ http://204.12.202.90:8080/playgt/playgt2023/106
 https://5cf4a2c2512a2.streamlock.net/8162/8162/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV
-https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w817764624.m3u8
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
