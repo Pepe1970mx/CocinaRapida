@@ -142,8 +142,7 @@ https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Planeta TV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Latino Kids
-https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV 
 https://mediacpstreamchile.com:1936/8102/8102/playlist.m3u8
@@ -317,7 +316,8 @@ https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
 
 #EXTINF:-1 group-title="Kds", 
 
-
+#EXTINF:-1 group-title="Kds" , Latino Kids
+https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
 
 
 
