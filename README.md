@@ -92,7 +92,7 @@ https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", TV Azteca Corazón
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Telemundo 
+#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Telemundo Internacional
 https://dai2-playlistserver.aws.syncbak.com/cpl/20475903/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIyMDQ3NTkwMyIsImNpZCI6MjA5NzQsInNpZCI6MTU4LCJtZDUiOiJiMTgwM2ExYTIxMzA5ZTEwNzNlOGJjMDQyOGU5NDkzOCIsImlhdCI6MTY1Mjg5MjgyMSwiZXhwIjoxNjg0NDI4ODIxLCJpc3MiOiJTeW5jYmFrIChURykifQ.ngWlxw_iUrju6oMpQl73BYHMCl7c6reypSqqP5nLbL8
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Telemundo California
@@ -101,14 +101,14 @@ https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="VARIEDADES", Telemundo PR 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="VARIEDADES", Univision Latam
+#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="VARIEDADES", Univision Latino America
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Teleonce Univision PR
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
 
-#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="VARIEDADES", America Teve
+#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="VARIEDADES", America Teveo
 https://live.gideo.video/americateve1/master.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", ESTRELLA TV
@@ -120,7 +120,7 @@ https://stmvideo2.livecastv.com/telestrella/telestrella/playlist.m3u8?PlaylistM3
 #EXTINF:-1 group-title="VARIEDADES" , Wapa
 https://wapa.x10.mx/pq8v/wapa.php/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , Ve Plus 
+#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , Ve Plus TV
 http://190.122.96.187:8888/http/006
 
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Hola TV 
@@ -136,22 +136,23 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
 
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV 
+https://mediacpstreamchile.com:1936/8102/8102/playlist.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Planeta TV Movies
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Planeta TV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
 
-
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV 
-https://mediacpstreamchile.com:1936/8102/8102/playlist.m3u8
-
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Viwix TV 
 https://videohd.live:19360/8076/8076.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , SEO TV 
 https://live.seo.tv.bo/live/1SEO.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", WTV NI
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", AMC en Español
 
@@ -210,14 +211,28 @@ https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , ATV Sur
 https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Cinco TV 
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Canal 9 Barbe TV
+http://204.12.202.90:8080/playgt/playgt2023/103
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", El trece 
+https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", TVMAX 
+https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", 13Max
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8?PlaylistM3UCL
+
+
+
 #EXTINF:-1 group-title="Latino", TeleTres 
 https://d1dqr580c2izza.cloudfront.net/hls/canal3.m3u8
 
 #EXTINF:-1 group-title="Latino", Telecinco 
 https://videohd.live:19360/8016/8016.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Cinco TV 
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="Latino", TeleSiete 
 https://d1dqr580c2izza.cloudfront.net/hls/canal7.m3u8
@@ -231,9 +246,6 @@ https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
 #EXTINF:-1 group-title="Latino", Teletica 7
 https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist_dvr.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Canal 9 Barbe TV
-http://204.12.202.90:8080/playgt/playgt2023/103
-
 #EXTINF:-1 group-title="Latino", Canal 11 NI
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal11.m3u8
 
@@ -243,17 +255,12 @@ https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Latino" , Canal 11 PA
 http://138.117.4.70:8075/channel11/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 12 SV
+#EXTINF:-1 tvg-logo=" " group-title="Latino" , Canal 12 SV
 https://d3kk75blondskv.cloudfront.net/hls/canal12.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", El trece 
-https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", TVMAX 
-https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 13Max
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Canal 19 MGV 
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
@@ -264,8 +271,7 @@ https://cdn.streamhispanatv.net:3832/live/tvtunlive.m3u8
 #EXTINF:-1 group-title="Latino", America tV
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", WTV NI
-https://cloudvideo.servers10.com:8081/8130/index.m3u8
+
 
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Origen tv
@@ -303,15 +309,17 @@ http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Kds", Moni TV 
+
+
+#EXTINF:-1 group-title="Kids", Moni TV 
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Kds", Zaz TV
+#EXTINF:-1 group-title="Kids", Zaz TV
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 
 
-#EXTINF:-1 group-title="Kds", Super Kaos TV
+#EXTINF:-1 group-title="Kids", Super Kaos TV
 https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
 
 #EXTINF:-1 group-title="Kds", 
@@ -334,13 +342,31 @@ https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
 #EXTINF:-1 group-title="Movies", Xtrema Cine Accion
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="Movies" , TigueritosTV 
+https://ss9.domint.net:3012/ttv_str/%20tigueritotv/.m3u8
+
+
+
 #EXTINF:-1 group-title="Movies", Xtrema Cartoons
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies", 
 
-#EXTINF:-1 group-title="RETRO", Chinola 
-https://cdn3.streamgato.us:3434/live/chinolatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CTfQL7m/tvretro.png" group-title="RETRO", RetroMagico 
+https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
+
+#EXTINF:-1 group-title="RETRO", Xtrema  Retro Cartoon
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+
+#EXTINF:-1 group-title="RETRO", Xtrema Retro Series
+https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
+
+#EXTINF:-1 group-title="RETRO", RETRO PLUS TV CINE 
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+
+#EXTINF:-1 group-title="RETRO" , Telecolor 
+https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="RETRO" , Mi TV
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
@@ -351,26 +377,17 @@ https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 #EXTINF:-1 group-title="RETRO" , Dreiko TV 
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="RETRO" , TigueritosTV 
-https://ss9.domint.net:3012/ttv_str/%20tigueritotv/.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="RETRO", TELERED 
 http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="RETRO", Telesistema 
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CTfQL7m/tvretro.png" group-title="RETRO", RetroMagico 
-https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
-
 #EXTINF:-1 group-title="RETRO" , Retro XTV 
 https://5bf8041cb3fed.streamlock.net/retroxtv/retroxtv/.m3u8
 
 #EXTINF:-1 group-title="RETRO" , Teleclasica 
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
-
-#EXTINF:-1 group-title="RETRO" , Telecolor 
-https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo=" " group-title="RETRO" , TVS Retro 
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
@@ -379,14 +396,6 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="RETRO" , STV 
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="RETRO", San Isidrio TV 
-https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
-
-#EXTINF:-1 group-title="RETRO" , San Vito Television 
-https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
-
-#EXTINF:-1 group-title="RETRO" , Genios TV 
-https://live.obslivestream.com/geniostvmux/index.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 group-title="VIX 24/7", La Rosa dd Guadalupe
@@ -561,14 +570,7 @@ https://ztnr.rtve.es/ztnr/5466990.m3u8
 
 
 
-#EXTINF:-1 group-title="RETRO", Xtrema  Retro Cartoon
-https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 
-#EXTINF:-1 group-title="RETRO", Xtrema Retro Series
-https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
-
-#EXTINF:-1 group-title="RETRO", RETRO PLUS TV CINE 
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 
 
 
