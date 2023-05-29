@@ -86,6 +86,12 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES", Nuestra Visión 
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", TV Azteca Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", TV Azteca Mundo
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
@@ -421,7 +427,7 @@ https://linear-304.frequency.stream/304/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 group-title="NOTICIAS", Excélsior Televisión HD 
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UClqo4ZAAZ01HQdCTlovCgkA/live
+https://ythls.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS" , CNN en Español 
 https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
@@ -535,7 +541,7 @@ http://163.123.192.123:25461/cuentapremium22/Nd7ANcYN9N7E/2604?token=GkMMUxBdEg1
 http://163.123.192.123:25461/cuentapremium22/Nd7ANcYN9N7E/2605?token=GkMMUxBdEg1EAgJaCQBUBgxRAAcMDwcJBwABVABTV1FRUVQLW1MJVlERHUBLRRdXWVptCl0UXwMBAAVNEhAQBhM+DVZBDxIFVQMBQBQTEVtVUhBZCABdBQABBFEJVk9BEQgAEFlbRVsKHxMHQEUAQFZWXjxdUxNYVFUTW14QDw9NQwtcPFFVWgddVUACE1QQFBVbEEkUX19CXF1NEgcKFxMAEFdBD15CCl8dQFteEFxMRUtBAxQoaRUcEwRIEQYNEggLXEEPEkMVER1AUUI6QF1ERhFcVwhURRILQwBHT0EMABxtAFpeWQNQRQtXXxYQAhUBQRUUCF5ZWUUOQjoTCgVDXlwWWVxK
 
 #EXTINF:-1 group-title="De Paga" , TNT
-http://163.123.192.123:25461/cuentapremium22/Nd7ANcYN9N7E/2606?token=GkMMUxBdEg1EAgJaCQBUBgxRAAcMDwcJBwABVABTV1FRUVQLW1MJVlERHUBLRRdXWVptCl0UXwMBAAVNEhAQBhM+DVZBDxIFVQMBQBQTEVtVUhBZCABdBQABBFEJVk9BEQgAEFlbRVsKHxMHQEUAQFZWXjxdUxNYVFUTW14QDw9NQwtcPFFVWgddVUACE1QQFBVbEEkUX19CXF1NEgcKFxMAEFdBD15CCl8dQFteEFxMRUtBAxQoaRUcEwRIEQYNEggLXEEPEkMVER1AUUI6QF1ERhFcVwhURRILQwBHT0EMABxtAFpeWQNQRQtXXxYQAhUBQRUUCF5ZWUUOQjoTCgVDXlwWWVxK
+http://163.123.192.123:25461/cuentapremium22/Nd7ANcYN9N7E/2609?token=GkMMUxBdEg1EAgJaCQBUBgxRAAcMDwcJBwABVABTV1FRUVQLW1MJVlERHUBLRRdXWVptCl0UXwMBAAVNEhAQBhM+DVZBDxIFVQMBQBQTEVtVUhBZCABdBQABBFEJVk9BEQgAEFlbRVsKHxMHQEUAQFZWXjxdUxNYVFUTW14QDw9NQwtcPFFVWgddVUACE1QQFBVbEEkUX19CXF1NEgcKFxMAEFdBD15CCl8dQFteEFxMRUtBAxQoaRUcEwRIEQYNEggLXEEPEkMVER1AUUI6QF1ERhFcVwhURRILQwBHT0EMABxtAFpeWQNQRQtXXxYQAhUBQRUUCF5ZWUUOQjoTCgVDXlwWWVxK
 
 #EXTINF:-1 group-title="De Paga" , Space
 http://163.123.192.123:25461/cuentapremium22/Nd7ANcYN9N7E/2608?token=GkMMUxBdEg1EAgJaCQBUBgxRAAcMDwcJBwABVABTV1FRUVQLW1MJVlERHUBLRRdXWVptCl0UXwMBAAVNEhAQBhM+DVZBDxIFVQMBQBQTEVtVUhBZCABdBQABBFEJVk9BEQgAEFlbRVsKHxMHQEUAQFZWXjxdUxNYVFUTW14QDw9NQwtcPFFVWgddVUACE1QQFBVbEEkUX19CXF1NEgcKFxMAEFdBD15CCl8dQFteEFxMRUtBAxQoaRUcEwRIEQYNEggLXEEPEkMVER1AUUI6QF1ERhFcVwhURRILQwBHT0EMABxtAFpeWQNQRQtXXxYQAhUBQRUUCF5ZWUUOQjoTCgVDXlwWWVxK
@@ -583,6 +589,13 @@ https://d2yw87dguyr3x7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="" group-title="Retro Music", Vclassic TV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="" group-title="Retro Music", Super Classic TV
+https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Retro Music", 
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="Retro Music", Oldies Hits
 https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
 
@@ -606,7 +619,16 @@ https://linear-400.frequency.stream/400/hls/master/playlist.m3u8
 https://d2g0vxybsz6hsr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x9zzce8l5rccc/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", VH1 Italy
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV 00s
+http://195.24.89.82/VH1_SD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV 
+http://195.24.89.82/MTV_SD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC", VH1+
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8cc10ca869f00078efca8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
 #EXTINF:-1 group-title="MUSIC",Vos TV
 http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8
@@ -620,8 +642,8 @@ http://stream.mxiptv.org:25461/live/tvabierta/opentv/249.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="MUSIC", 24/7 Pop 
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title "MUSIC" , Box Music 
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+#EXTINF:-1 tvg-logo="" group-title "MUSIC" , Mega Box
+https://stmv1.voxhdnet.com/megabox5/megabox5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSIC", Hit TV 
 http://hitmusic.hu/hitmusic.m3u8
@@ -658,6 +680,10 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSICA REGIONAL", Infinita TV 
 https://rtmp02.portalexpress.es/infinitatv/infinitatv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="MUSICA REGIONAL", B15
+https://60ed5b6d0df78.streamlock.net:1936/envio2/envio2/playlist.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-61aaa0cc784a2161d3caf7ff" tvg-id="5e20b730f2f8d5003d739db7-61aaa0cc784a2161d3caf7ff" tvg-logo="https://provider-static.plex.tv/epg/cms/staging/0079d02e-afb6-4d85-a986-441817927418/stingray-classic-rock_logo_dark.png" group-title="RADIO",Classic Rock 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1389&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=xAoXwfNRpzqfb4QF8JUB&custom_7=61aaa0cc784a2161d3caf7ff
