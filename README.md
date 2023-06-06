@@ -521,14 +521,17 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010&avod=1&coppa=0&is_lat
 #EXTINF:-1 group-title="DEPORTES", Tigo Sports
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
+
+
+
 #EXTINF:-1 group-title="De Paga" , Star Channel
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
+http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/5785
 
 #EXTINF:-1 group-title="De Paga" , WarnerChannel
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE05.m3u8
+
 
 #EXTINF:-1 group-title="De Paga" , Sony Channel
-https://regioplay.xyz/php/SR_REGIO_104023_/tpnuevo02.php?tokennn=Regio&c=203&f=.m3u8
+http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/3081
 
 #EXTINF:-1 group-title="De Paga" , Sony Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
