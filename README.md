@@ -486,18 +486,18 @@ https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/ind
 #EXTINF:-1 group-title="DEPORTES", FOX Sports 2 LatinoAmerica HD 
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
 
-#EXTINF:-1 group-title="DEPORTES", Fox Sports 3 
+#EXTINF:-1 group-title="DEPORTES", Fox Sports 3 LatinoAmerica HD
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
 
 #EXTINF:-1  group-title="DEPORTES", ESPN LatinoAmerica HD 
-http://45.143.222.50:8070/bc39c96a/cfeb2ee02f/9768
+http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/9070
 
 #EXTINF:-1  group-title="DEPORTES", ESPN 2 LatinoAmerica HD
 http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/6447
 
 #EXTINF:-1 group-title="DEPORTES", ESPN 3 
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
+
 
 #EXTINF:-1 group-title="DEPORTES", ESPN Deportes
 http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/6446
@@ -536,8 +536,7 @@ http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/3081
 #EXTINF:-1 group-title="De Paga" , Sony Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="De Paga" , Canal Sony
-http://163.123.192.123:25461/cuentapremium22/Nd7ANcYN9N7E/2604?token=GkMMUxBdEg1EAgJaCQBUBgxRAAcMDwcJBwABVABTV1FRUVQLW1MJVlERHUBLRRdXWVptCl0UXwMBAAVNEhAQBhM+DVZBDxIFVQMBQBQTEVtVUhBZCABdBQABBFEJVk9BEQgAEFlbRVsKHxMHQEUAQFZWXjxdUxNYVFUTW14QDw9NQwtcPFFVWgddVUACE1QQFBVbEEkUX19CXF1NEgcKFxMAEFdBD15CCl8dQFteEFxMRUtBAxQoaRUcEwRIEQYNEggLXEEPEkMVER1AUUI6QF1ERhFcVwhURRILQwBHT0EMABxtAFpeWQNQRQtXXxYQAhUBQRUUCF5ZWUUOQjoTCgVDXlwWWVxK
+#EXTINF:-1 group-title="De Paga" , Canal 
 
 #EXTINF:-1 group-title="De Paga" , AMC
 http://163.123.192.123:25461/cuentapremium22/Nd7ANcYN9N7E/2605?token=GkMMUxBdEg1EAgJaCQBUBgxRAAcMDwcJBwABVABTV1FRUVQLW1MJVlERHUBLRRdXWVptCl0UXwMBAAVNEhAQBhM+DVZBDxIFVQMBQBQTEVtVUhBZCABdBQABBFEJVk9BEQgAEFlbRVsKHxMHQEUAQFZWXjxdUxNYVFUTW14QDw9NQwtcPFFVWgddVUACE1QQFBVbEEkUX19CXF1NEgcKFxMAEFdBD15CCl8dQFteEFxMRUtBAxQoaRUcEwRIEQYNEggLXEEPEkMVER1AUUI6QF1ERhFcVwhURRILQwBHT0EMABxtAFpeWQNQRQtXXxYQAhUBQRUUCF5ZWUUOQjoTCgVDXlwWWVxK
