@@ -106,14 +106,10 @@ https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="VARIEDADES", Univision Latino America
-https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+https://linear-424.frequency.stream/dist/vix/42l4/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Teleonce Univision PR
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
-
-
-#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="VARIEDADES", America Teveo
-https://live.gideo.video/americateve1/master.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", ESTRELLA TV
 https://estrellatv-plex.amagi.tv/playlist.m3u8
@@ -123,6 +119,9 @@ https://stmvideo2.livecastv.com/telestrella/telestrella/playlist.m3u8?PlaylistM3
 
 #EXTINF:-1 group-title="VARIEDADES" , Wapa
 https://wapa.x10.mx/pq8v/wapa.php/chunklist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES" , Wapa 2
+http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/48230
 
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , Ve Plus TV
 http://190.122.96.187:8888/http/006
