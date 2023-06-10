@@ -57,7 +57,7 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 https://ythls.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Quiero TV
-https://stream-12.dc3.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOtr5K_DfD0zDGxPO069U15SIEVoxxV0o368CEVpQWwwM)/dm/3/x8452uw/s/live-4.m3u8
+http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/9104
 
 #EXTINF:-1 group-title="VARIEDADES" , TV Mexiquense 
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
@@ -237,6 +237,9 @@ https://d1dqr580c2izza.cloudfront.net/hls/canal3.m3u8
 #EXTINF:-1 group-title="Latino", Telecinco 
 https://videohd.live:19360/8016/8016.m3u8
 
+#EXTINF:-1 group-title="Latino", Canal 5 Hn
+http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/3134
+
 #EXTINF:-1 group-title="Latino", TeleSiete 
 https://d1dqr580c2izza.cloudfront.net/hls/canal7.m3u8
 
@@ -247,7 +250,7 @@ https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
 
 #EXTINF:-1 group-title="Latino", Teletica 7
-https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist_dvr.m3u8
+http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/148830
 
 #EXTINF:-1 group-title="Latino", Canal 11 NI
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal11.m3u8
