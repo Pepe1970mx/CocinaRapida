@@ -538,7 +538,7 @@ http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/3081
 #EXTINF:-1 group-title="De Paga" , Sony Movies Latinoamerica
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="De Paga" , y
+#EXTINF:-1 group-title="De Paga" , TNT Latinoamerica
 http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/3089
 
 #EXTINF:-1 group-title="De Paga" , AMC Latinoamerica
