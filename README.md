@@ -526,28 +526,28 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="De Paga" , Star Channel
+#EXTINF:-1 group-title="De Paga" , Star Channel Latinoamerica
 http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/5785
 
-#EXTINF:-1 group-title="De Paga" , WarnerChannel
+#EXTINF:-1 group-title="De Paga" , Warner Channel Latinoamerica
 http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/60006
 
-#EXTINF:-1 group-title="De Paga" , Sony Channel
+#EXTINF:-1 group-title="De Paga" , Sony Movies Channel
 http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/3081
 
-#EXTINF:-1 group-title="De Paga" , Sony Cine
+#EXTINF:-1 group-title="De Paga" , Sony Movies Latinoamerica
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="De Paga" , 
+#EXTINF:-1 group-title="De Paga" , y
 http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/3089
 
-#EXTINF:-1 group-title="De Paga" , AMC
+#EXTINF:-1 group-title="De Paga" , AMC Latinoamerica
 http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/9083
 
-#EXTINF:-1 group-title="De Paga" , TNT
+#EXTINF:-1 group-title="De Paga" , TNT Latinoamerica
 http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/3089
 
-#EXTINF:-1 group-title="De Paga" , Space
+#EXTINF:-1 group-title="De Paga" , Space Latinoamerica
 http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/9136
 
 
