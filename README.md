@@ -10,10 +10,10 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdn
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Imagen TV HD 
-http://megaxplay.com:80/play/zjcxeGr2K_h3VxhgXHJAhpX8VpYGmkYMgdEl43ZaNgY
+http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/9039
 
 #EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Canal Cinco  
-http://megaxplay.com:80/play/zjcxeGr2K_h3VxhgXHJAhiA1c0KL5BKuhLHFLz_T6IE
+http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/9024
 
 #EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Multimedios plus
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
@@ -71,7 +71,7 @@ http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TVP 
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , 15TV Sabinas
+#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , Multimedio Plus
 https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w2102162107.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , El Heraldo
@@ -86,12 +86,16 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES", Nuestra Visión 
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", TV Azteca Cinema
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", AzClio
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", TV Azteca Mundo
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+
+
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", TV Azteca Corazón
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
