@@ -514,7 +514,7 @@ https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8?PlaylistM
 #EXTINF:-1 group-title="DEPORTES", CDN Deportes
 http://51.81.93.29:8084/hls/cdnsm.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", Teledeportes
+#EXTINF:-1 group-title="DEPORTES", Teledeporte
 https://d38lin0lxb32l3.cloudfront.net/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 group-title="DEPORTES", ITV Deportes 
@@ -526,19 +526,19 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="De Paga" , Star Channel Latinoamerica
+#EXTINF:-1 group-title="De Paga" , Star Latinoamerica
 http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/5785
 
 #EXTINF:-1 group-title="De Paga" , Warner Channel Latinoamerica
 http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/60006
 
-#EXTINF:-1 group-title="De Paga" , Sony Movies Channel
+#EXTINF:-1 group-title="De Paga" , Sony Movie Channel
 http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/3081
 
-#EXTINF:-1 group-title="De Paga" , Sony Movies Latinoamerica
+#EXTINF:-1 group-title="De Paga" , Sony Movie Channel
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="De Paga" , TNT Latinoamerica
+#EXTINF:-1 group-title="De Paga" , TNT America Latina
 http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/3089
 
 #EXTINF:-1 group-title="De Paga" , AMC Latinoamerica
@@ -547,7 +547,7 @@ http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/9083
 #EXTINF:-1 group-title="De Paga" , TNT Latinoamerica
 http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/3089
 
-#EXTINF:-1 group-title="De Paga" , Space Latinoamerica
+#EXTINF:-1 group-title="De Paga" , Space
 http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/9136
 
 
