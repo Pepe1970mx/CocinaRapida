@@ -127,6 +127,10 @@ https://wapa.x10.mx/pq8v/wapa.php/chunklist.m3u8
 #EXTINF:-1 group-title="VARIEDADES" , Wapa 2
 http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/48230
 
+
+#EXTINF:-1 group-title="VARIEDADES" , Wapa Deportes
+https://wapa.x10.mx/mz9f/wapa2.php/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , Ve Plus TV
 http://190.122.96.187:8888/http/006
 
@@ -162,7 +166,7 @@ https://live.seo.tv.bo/live/1SEO.m3u8
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", AMC en Español
-
+https://d38fxgxhpllpfu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4w47pf3x50sko/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Canela TV
 
@@ -328,13 +332,12 @@ https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 #EXTINF:-1 group-title="Kids", Zaz TV
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
 
-
 #EXTINF:-1 group-title="Kids", Super Kaos TV
 https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
 
-#EXTINF:-1 group-title="Kds", 
+#EXTINF:-1 group-title="Kids", 
 
-#EXTINF:-1 group-title="Kds" , Latino Kids
+#EXTINF:-1 group-title="Kids" , Latino Kids
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
 
 
@@ -355,12 +358,17 @@ https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Movies" , TigueritosTV 
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/.m3u8
 
-
-
 #EXTINF:-1 group-title="Movies", Xtrema Cartoons
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 
-#EXTINF:-1 group-title="Movies", 
+#EXTINF:-1 group-title="Movies", Terror Movies
+https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8CTfQL7m/tvretro.png" group-title="RETRO", RetroMagico 
