@@ -71,14 +71,14 @@ http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TVP 
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , Multimedio Plus
+#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , Multimedios Plus
 https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w2102162107.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , El Heraldo
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/chunklist_w7459229_b478000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Distrito Comedia 
-http://megaxplay.com:80/play/zjcxeGr2K_h3VxhgXHJAhk7N5vLEPonEAhniRbueJhI
+
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Telenovelas Televisa 
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
@@ -86,16 +86,16 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES", Nuestra Visión 
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", AzClio
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Az Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Az Clio
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", TV Azteca Mundo
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 
-
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", TV Azteca Corazón
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -327,6 +327,9 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids", Moni TV 
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids", Canal Nets
+https://movil.ejeserver.com/live/nets.m3u8
 
 
 #EXTINF:-1 group-title="Kids", Zaz TV
