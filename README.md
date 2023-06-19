@@ -74,16 +74,10 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8?
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , Multimedios Plus
 https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w2102162107.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , El Heraldo
-https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/chunklist_w7459229_b478000_sleng.m3u8
+#EXTINF:-1 group-title="VARIEDADES",Pluto TV Series Latinas 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Distrito Comedia 
-
-
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Telenovelas Televisa 
-https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES", Nuestra Visión 
+#EXTINF:-1 group-title="VARIEDADES", Pluto TV Nuestra Visión 
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Az Cinema
@@ -239,6 +233,9 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8?PlaylistM3UCL
 
 
 
+#EXTINF:-1 group-title="Latino" , TVN Panama
+https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
+
 #EXTINF:-1 group-title="Latino", TeleTres 
 https://d1dqr580c2izza.cloudfront.net/hls/canal3.m3u8
 
@@ -246,7 +243,7 @@ https://d1dqr580c2izza.cloudfront.net/hls/canal3.m3u8
 https://videohd.live:19360/8016/8016.m3u8
 
 #EXTINF:-1 group-title="Latino", Canal 5 Hn
-http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/3134
+
 
 #EXTINF:-1 group-title="Latino", TeleSiete 
 https://d1dqr580c2izza.cloudfront.net/hls/canal7.m3u8
@@ -271,10 +268,6 @@ http://138.117.4.70:8075/channel11/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="Latino" , Canal 12 SV
 https://d3kk75blondskv.cloudfront.net/hls/canal12.m3u8
-
-
-
-
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",Canal 19 MGV 
 https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
@@ -309,8 +302,7 @@ https://s1.tvdatta.com:3181/stream/play.m3u8?PlaylistM3UCL
 https://s1.tvdatta.com:3121/stream/play.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 group-title="Latino" , TVN Panama
-https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
+
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , OK TV
 https://stream.plixitv.live/oktv/oktv/playlist.m3u8
