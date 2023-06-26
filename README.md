@@ -577,6 +577,9 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 #EXTINF:-1 group-title="DEPORTES", Fox Sports 3 LatinoAmerica HD
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 
+#EXTINF:-1 group-title="DEPORTES", Fox Deportes
+http://mains.services/live/Jhbxcgoisnm/56756756765722222/f1e47ab0-9699-46dc-8a0e-4a267827bc5e.m3u
+
 
 #EXTINF:-1  group-title="DEPORTES", ESPN LatinoAmerica HD 
 http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/9070
@@ -592,7 +595,11 @@ http://mains.services/live/Jhbxcgoisnm/56756756765722222/f9a1f78f-0841-49e0-b5f6
 
 
 #EXTINF:-1 group-title="DEPORTES", TUDN 
-http://mains.services/live/Jhbxcgoisnm/56756756765722222/aa0b1c53-3b61-4d47-b958-fe9fbeeb3230.m3u
+http://mains.services/live/Jhbxcgoisnm/56756756765722222/aa0b1c53-3b61-4d47-b958-fe9fbeeb3230.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", TUDN Univision
+http://mains.services/live/Jhbxcgoisnm/56756756765722222/0f15a2ad-9b75-4d12-b341-dde5087ce64f.m3u
+
 
 #EXTINF:-1 group-title="DEPORTES", ITV Deportes 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656899342&id=34434&ip=45.188.78.93&override_expiration=1500&sign=TxhnXtTkkmuchk54BrTTN4p4AevpD8%2Bnm3lscX9lXPg%3D
@@ -604,28 +611,28 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 group-title="De Paga" , Star Latinoamerica
-http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/5785
+
 
 #EXTINF:-1 group-title="De Paga" , Warner Channel Latinoamerica
-http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/60006
+
 
 #EXTINF:-1 group-title="De Paga" , Sony Movie Channel
-http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/3081
+http://mains.services/live/Jhbxcgoisnm/56756756765722222/55dc6bd3-d827-44b9-9b82-735108e0e671.m3u
 
 #EXTINF:-1 group-title="De Paga" , Sony Movie Channel
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 group-title="De Paga" , TNT America Latina
-http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/3089
+http://mains.services/live/Jhbxcgoisnm/56756756765722222/4c494996-3958-4a33-b54d-d446db0f0c6b.m3u
 
 #EXTINF:-1 group-title="De Paga" , AMC Latinoamerica
-http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/9083
+http://mains.services/live/Jhbxcgoisnm/56756756765722222/fa371f81-3fb0-4ab6-9758-d629d41e4f37.m3u
 
-#EXTINF:-1 group-title="De Paga" , TNT Latinoamerica
-http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/3089
+#EXTINF:-1 group-title="De Paga" , Universal studio
+http://mains.services/live/Jhbxcgoisnm/56756756765722222/acc30152-a598-44af-be09-7ee4200fbc62.m3u
 
 #EXTINF:-1 group-title="De Paga" , Space
-http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/9136
+
 
 
 
@@ -636,6 +643,10 @@ https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="De Paga" , Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="De Paga" , HBO Latino
+http://mains.services/live/Jhbxcgoisnm/56756756765722222/b23cf3fb-a3f1-41b9-b445-2253a9dac656.m3u
+
 
 #EXTINF:-1 group-title="De Paga" , HBO 
 http://45.181.121.57:2909/play/017
