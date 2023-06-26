@@ -588,20 +588,11 @@ http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/6447
 
 
 #EXTINF:-1 group-title="DEPORTES", ESPN Deportes
-http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/6446
+http://mains.services/live/Jhbxcgoisnm/56756756765722222/f9a1f78f-0841-49e0-b5f6-48d6f314a2d5.m3u8
 
 
 #EXTINF:-1 group-title="DEPORTES", TUDN 
-http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/31784
-
-#EXTINF:-1 group-title="DEPORTES", City Sports
-https://videosenlared.fullstreaming.ar:3697/live/contenidos34live.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="DEPORTES", CDN Deportes
-http://51.81.93.29:8084/hls/cdnsm.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", Teledeporte
-https://d38lin0lxb32l3.cloudfront.net/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+http://mains.services/live/Jhbxcgoisnm/56756756765722222/aa0b1c53-3b61-4d47-b958-fe9fbeeb3230.m3u
 
 #EXTINF:-1 group-title="DEPORTES", ITV Deportes 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656899342&id=34434&ip=45.188.78.93&override_expiration=1500&sign=TxhnXtTkkmuchk54BrTTN4p4AevpD8%2Bnm3lscX9lXPg%3D
