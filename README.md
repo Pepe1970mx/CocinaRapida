@@ -10,10 +10,10 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdn
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Imagen TV HD 
-http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/9039
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86995
 
 #EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Canal Cinco  
-http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/9024
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86972
 
 #EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Multimedios plus
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
@@ -57,7 +57,7 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 https://ythls.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Quiero TV
-http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/9104
+
 
 #EXTINF:-1 group-title="VARIEDADES" , TV Mexiquense 
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
