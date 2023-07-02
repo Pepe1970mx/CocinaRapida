@@ -611,19 +611,19 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 group-title="De Paga" , Star Latinoamerica
-
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87062
 
 #EXTINF:-1 group-title="De Paga" , Warner Channel Latinoamerica
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/86870
 
-
-#EXTINF:-1 group-title="De Paga" , Sony Movie Channel
-http://mains.services/live/Jhbxcgoisnm/56756756765722222/55dc6bd3-d827-44b9-9b82-735108e0e671.m3u
+#EXTINF:-1 group-title="De Paga" , Sony Channel
+http://mains.services/live/Jhbxcgoisnm/56756756765722222/06392cbb-c1d7-4d40-9a08-8c7b857c8930.m3u
 
 #EXTINF:-1 group-title="De Paga" , Sony Movie Channel
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 group-title="De Paga" , TNT America Latina
-http://mains.services/live/Jhbxcgoisnm/56756756765722222/4c494996-3958-4a33-b54d-d446db0f0c6b.m3u
+http://mains.services/live/Jhbxcgoisnm/56756756765722222/996f0748-5dc8-46e7-a780-0d763722cca9.m3u
 
 #EXTINF:-1 group-title="De Paga" , AMC Latinoamerica
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/fa371f81-3fb0-4ab6-9758-d629d41e4f37.m3u
@@ -632,7 +632,7 @@ http://mains.services/live/Jhbxcgoisnm/56756756765722222/fa371f81-3fb0-4ab6-9758
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/acc30152-a598-44af-be09-7ee4200fbc62.m3u
 
 #EXTINF:-1 group-title="De Paga" , Space
-
+http://mains.services/live/Jhbxcgoisnm/56756756765722222/89553e1b-e923-412f-93b9-677156e11096.m3u
 
 
 
