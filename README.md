@@ -156,6 +156,11 @@ https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , SEO TV 
 https://live.seo.tv.bo/live/1SEO.m3u8
 
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , SEO TV Comedia
+https://live.seo.tv.bo/live/7SEO.m3u8
+
+
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO", WTV NI
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
