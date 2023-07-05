@@ -589,23 +589,23 @@ https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/in
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 
 #EXTINF:-1 group-title="DEPORTES", FOX Sports 2 LatinoAmerica HD 
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87456
 
 #EXTINF:-1 group-title="DEPORTES", Fox Sports 3 LatinoAmerica HD
-https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87457
 
 #EXTINF:-1 group-title="DEPORTES", Fox Deportes
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/f1e47ab0-9699-46dc-8a0e-4a267827bc5e.m3u
 
 
 #EXTINF:-1  group-title="DEPORTES", ESPN LatinoAmerica HD 
-http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/9070
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87446
 
 #EXTINF:-1  group-title="DEPORTES", ESPN 2 LatinoAmerica HD
-http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/6447
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87447
 
 #EXTINF:-1 group-title="DEPORTES", ESPN 3 
-
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87448
 
 #EXTINF:-1 group-title="DEPORTES", ESPN Deportes
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/f9a1f78f-0841-49e0-b5f6-48d6f314a2d5.m3u8
@@ -632,10 +632,10 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
 
 #EXTINF:-1 group-title="De Paga" , Star Latinoamerica
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87062
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/87449
 
 #EXTINF:-1 group-title="De Paga" , Warner Channel Latinoamerica
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/86870
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/131129
 
 #EXTINF:-1 group-title="De Paga" , Sony Channel
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/06392cbb-c1d7-4d40-9a08-8c7b857c8930.m3u
@@ -644,7 +644,7 @@ http://mains.services/live/Jhbxcgoisnm/56756756765722222/06392cbb-c1d7-4d40-9a08
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 group-title="De Paga" , TNT America Latina
-http://mains.services/live/Jhbxcgoisnm/56756756765722222/996f0748-5dc8-46e7-a780-0d763722cca9.m3u
+http://playhispano.org:8080/Legazy/t4IEVqKjvr/170748
 
 #EXTINF:-1 group-title="De Paga" , AMC Latinoamerica
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/fa371f81-3fb0-4ab6-9758-d629d41e4f37.m3u
