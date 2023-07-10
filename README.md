@@ -141,14 +141,23 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , +Cine
+https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV 
 https://mediacpstreamchile.com:1936/8102/8102/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Planeta TV Movies
-https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Planeta TV Kids
-https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Viwix TV 
 https://videohd.live:19360/8076/8076.m3u8
@@ -192,13 +201,6 @@ http://204.12.202.90:8080/playgt/playgt2023/106
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Guatuso
 https://5cf4a2c2512a2.streamlock.net/8162/8162/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV
-https://s2.tvdatta.com:3307/hybrid/play.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , OrbitTV 
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
