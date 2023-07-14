@@ -588,10 +588,10 @@ https://linear-348.frequency.stream/dist/vix/348/hls/master/playlist.m3u8
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", Fox Sports Latinoamerica
-https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/145439
 
 #EXTINF:-1 group-title="DEPORTES", FOX Sports 2 LatinoAmerica HD 
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87456
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/135649
 
 #EXTINF:-1 group-title="DEPORTES", Fox Sports 3 LatinoAmerica HD
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87457
@@ -601,10 +601,10 @@ http://mains.services/live/Jhbxcgoisnm/56756756765722222/f1e47ab0-9699-46dc-8a0e
 
 
 #EXTINF:-1  group-title="DEPORTES", ESPN LatinoAmerica HD 
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87446
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/132278
 
 #EXTINF:-1  group-title="DEPORTES", ESPN 2 LatinoAmerica HD
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87447
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/132279
 
 #EXTINF:-1 group-title="DEPORTES", ESPN 3 
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/87448
@@ -634,10 +634,10 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
 
 #EXTINF:-1 group-title="De Paga" , Star Latinoamerica
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87449
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3642
 
 #EXTINF:-1 group-title="De Paga" , Warner Channel Latinoamerica
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/131129
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3694
 
 #EXTINF:-1 group-title="De Paga" , Sony Channel
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/06392cbb-c1d7-4d40-9a08-8c7b857c8930.m3u
@@ -657,9 +657,10 @@ http://mains.services/live/Jhbxcgoisnm/56756756765722222/acc30152-a598-44af-be09
 #EXTINF:-1 group-title="De Paga" , Space
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/89553e1b-e923-412f-93b9-677156e11096.m3u
 
-
-
 #EXTINF:-1 group-title="De Paga" , Golden
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3892
+
+
 
 #EXTINF:-1 group-title="De Paga" , Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
