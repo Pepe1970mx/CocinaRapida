@@ -587,18 +587,28 @@ https://linear-348.frequency.stream/dist/vix/348/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", Claro Sports HD 
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", Fox Sports Latinoamerica
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/145439
-
-#EXTINF:-1 group-title="DEPORTES", FOX Sports 2 LatinoAmerica HD 
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/135649
-
-#EXTINF:-1 group-title="DEPORTES", Fox Sports 3 LatinoAmerica HD
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87457
 
 #EXTINF:-1 group-title="DEPORTES", Fox Deportes
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/f1e47ab0-9699-46dc-8a0e-4a267827bc5e.m3u
 
+#EXTINF:-1 group-title="DEPORTES", Fox Sports Latinoamerica
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/145439
+
+#EXTINF:-1 group-title="DEPORTES", FOX Sports Premium LatinoAmerica HD 
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/135649
+
+
+#EXTINF:-1 group-title="DEPORTES", FOX Sports 2 LatinoAmerica HD 
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/132269
+
+
+#EXTINF:-1 group-title="DEPORTES", Fox Sports 3 LatinoAmerica HD
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/145434
+
+
+
+#EXTINF:-1 group-title="DEPORTES", ESPN Deportes
+http://mains.services/live/Jhbxcgoisnm/56756756765722222/f9a1f78f-0841-49e0-b5f6-48d6f314a2d5.m3u8
 
 #EXTINF:-1  group-title="DEPORTES", ESPN LatinoAmerica HD 
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/132278
@@ -607,10 +617,9 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/132278
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/132279
 
 #EXTINF:-1 group-title="DEPORTES", ESPN 3 
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/87448
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/132280
 
-#EXTINF:-1 group-title="DEPORTES", ESPN Deportes
-http://mains.services/live/Jhbxcgoisnm/56756756765722222/f9a1f78f-0841-49e0-b5f6-48d6f314a2d5.m3u8
+
 
 
 #EXTINF:-1 group-title="DEPORTES", TUDN 
