@@ -585,17 +585,20 @@ https://linear-393.frequency.stream/393/hls/master/playlist.m3u8
 https://linear-348.frequency.stream/dist/vix/348/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", Claro Sports HD 
-https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
+https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 
 
 #EXTINF:-1 group-title="DEPORTES", Fox Deportes
 http://mains.services/live/Jhbxcgoisnm/56756756765722222/f1e47ab0-9699-46dc-8a0e-4a267827bc5e.m3u
 
 #EXTINF:-1 group-title="DEPORTES", Fox Sports Latinoamerica
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/145439
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/145435
+
+
+
 
 #EXTINF:-1 group-title="DEPORTES", FOX Sports Premium LatinoAmerica HD 
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/135649
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/145439
 
 
 #EXTINF:-1 group-title="DEPORTES", FOX Sports 2 LatinoAmerica HD 
