@@ -7,13 +7,13 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Las estrellas Internacional
-https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Imagen TV HD 
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/86995
+
 
 #EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Canal Cinco  
-http://playhispano.org:8080/Legazy/t4IEVqKjvr/86972
+
 
 #EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Multimedios plus
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
