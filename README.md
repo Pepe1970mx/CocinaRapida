@@ -83,7 +83,7 @@ https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Az Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Az Click
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Az Clic
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", TV Azteca Mundo
@@ -153,7 +153,7 @@ https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV 
 https://mediacpstreamchile.com:1936/8102/8102/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Planeta TV Movies
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV Movies
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Planeta TV Kids
@@ -194,16 +194,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=653&avod=1&coppa=0&is_lat=
 #EXTINF:-1 group-title="ENTRETENIMIENTO",  Canal Blu
 https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 
-
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 100 
-http://204.12.202.90:8080/playgt/playgt2023/106
-
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Guatuso
 https://5cf4a2c2512a2.streamlock.net/8162/8162/master.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , OrbitTV 
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Contacto Deportivo 
 https://live.obslivestream.com/cdeportivo/index.m3u8
@@ -223,14 +215,8 @@ http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , MicroVision 
 https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8
 
-#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", Visión Dorada 
-https://movil.ejeserver.com/live/visiondorada.m3u8
-
 #EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", CC TV 
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Visión TV 
-https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , ATV Sur
 https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
@@ -318,22 +304,7 @@ https://s1.tvdatta.com:3037/stream/play.m3u8?PlaylistM3UCL
 https://s1.tvdatta.com:3181/stream/play.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Viwis Terror
-https://s1.tvdatta.com:3121/stream/play.m3u8?PlaylistM3UCL
-
-
-
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , OK TV
-https://stream.plixitv.live/oktv/oktv/playlist.m3u8
-
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , MegaVision
-http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1925216201.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Esports Max 
-http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-
-
+https://s1.tvdatta.com:3121/stream/play.m3u8?PlaylistM3UC
 
 
 #EXTINF:-1 group-title="Kids", Moni TV 
