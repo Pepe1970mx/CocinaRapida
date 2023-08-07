@@ -86,7 +86,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Az Clic
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", TV Azteca Mundo
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", TV Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 
@@ -95,7 +95,6 @@ https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Telemundo Internacional
-https://dai2-playlistserver.aws.syncbak.com/cpl/20475903/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIyMDQ3NTkwMyIsImNpZCI6MjA5NzQsInNpZCI6MTU4LCJtZDUiOiJiMTgwM2ExYTIxMzA5ZTEwNzNlOGJjMDQyOGU5NDkzOCIsImlhdCI6MTY1Mjg5MjgyMSwiZXhwIjoxNjg0NDI4ODIxLCJpc3MiOiJTeW5jYmFrIChURykifQ.ngWlxw_iUrju6oMpQl73BYHMCl7c6reypSqqP5nLbL8
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Telemundo California
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?k8ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
@@ -104,7 +103,7 @@ https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="VARIEDADES", Univision Latino America
-http://mains.services/live/Jhbxcgoisnm/56756756765722222/5909a788-383a-4073-92d9-35a26e57e907.m3u8
+
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Teleonce Univision PR
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
@@ -150,11 +149,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , +Cine
 https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV 
-https://mediacpstreamchile.com:1936/8102/8102/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV Movies
-https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
+#EXTINF:-1 group title="ENTRETENIMIENTO" , Planeta TV Movies
+https://scl.edge.grupoz.cl/movie/live/movie.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Planeta TV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
@@ -212,11 +208,6 @@ https://inliveserver.com:1936/14056/14056/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Central TV 
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , MicroVision 
-https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8
-
-#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", CC TV 
-https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , ATV Sur
 https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
@@ -224,16 +215,13 @@ https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/p
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Cinco TV 
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Canal 9 Barbe TV
-http://204.12.202.90:8080/playgt/playgt2023/103
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", El trece 
+#EXTINF:-1 tvg-logo=" " group-title="Latino", El trece 
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", TVMAX 
+#EXTINF:-1 group-title="Latino", TVMAX 
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", 13Max
+#EXTINF:-1 group-title="Latino", 13Max
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8?PlaylistM3UCL
 
 
@@ -274,37 +262,16 @@ http://138.117.4.70:8075/channel11/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Latino" , Canal 12 SV
 https://d3kk75blondskv.cloudfront.net/hls/canal12.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO",Canal 19 MGV 
-https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", TV Tun
-https://cdn.streamhispanatv.net:3832/live/tvtunlive.m3u8
 
 #EXTINF:-1 group-title="Latino", America tV
 https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 
 
-
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Origen tv
-https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , TVS
-http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Viwix
-
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , TVS VE
 https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Viwis Estrenos
-https://s1.tvdatta.com:3037/stream/play.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Viwis Accion
-https://s1.tvdatta.com:3181/stream/play.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Viwis Terror
-https://s1.tvdatta.com:3121/stream/play.m3u8?PlaylistM3UC
 
 
 #EXTINF:-1 group-title="Kids", Moni TV 
