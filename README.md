@@ -605,13 +605,14 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
 
 
-#EXTINF:-1 group-title="De Paga" , Star Latinoamerica http://208.88.246.11:4481/202CanalFOXMexico/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+#EXTINF:-1 group-title="De Paga" , Star Latinoamerica https://208.88.246.11:4481/202CanalFOXMexico/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
 #EXTINF:-1 group-title="De Paga" , Warner Channel Latinoamerica
-[http://magmas5.com:8000/goodserver/2C4X1EC7EW/3694](http://208.88.246.11:4481/210WarnerChannel/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8)
+http://208.88.246.11:4481/210WarnerChannel/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+
 
 #EXTINF:-1 group-title="De Paga" , Sony Channel
-http://mains.services/live/Jhbxcgoisnm/56756756765722222/06392cbb-c1d7-4d40-9a08-8c7b857c8930.m3u
+
 
 #EXTINF:-1 group-title="De Paga" , Sony Movie Channel
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
@@ -620,18 +621,16 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 http://playhispano.org:8080/Legazy/t4IEVqKjvr/170748
 
 #EXTINF:-1 group-title="De Paga" , AMC Latinoamerica
-http://mains.services/live/Jhbxcgoisnm/56756756765722222/fa371f81-3fb0-4ab6-9758-d629d41e4f37.m3u
+
 
 #EXTINF:-1 group-title="De Paga" , Universal studio
-http://mains.services/live/Jhbxcgoisnm/56756756765722222/acc30152-a598-44af-be09-7ee4200fbc62.m3u
+
 
 #EXTINF:-1 group-title="De Paga" , Space
-http://mains.services/live/Jhbxcgoisnm/56756756765722222/89553e1b-e923-412f-93b9-677156e11096.m3u
+
 
 #EXTINF:-1 group-title="De Paga" , Golden
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/3892
-
-
 
 #EXTINF:-1 group-title="De Paga" , Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
@@ -640,8 +639,6 @@ https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="De Paga" , HBO Latino
-http://mains.services/live/Jhbxcgoisnm/56756756765722222/b23cf3fb-a3f1-41b9-b445-2253a9dac656.m3u
-
 
 #EXTINF:-1 group-title="De Paga" , HBO 
 http://45.181.121.57:2909/play/017
