@@ -511,7 +511,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de4e0b3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="DEPORTES", Adrenalina Sports Network
-https://linear-393.frequency.stream/393/hls/master/playlist.m3u8
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/15.ts
 
 #EXTINF:-1 group-title="DEPORTES", Afizzionados HD
 https://linear-348.frequency.stream/dist/vix/348/hls/master/playlist.m3u8
@@ -535,8 +535,8 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/132269
 #EXTINF:-1 group-title="DEPORTES", Fox Sports 3 LatinoAmerica HD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/145434
 
-#EXTINF:-1 group-title="DEPORTES", ESPN Deportes
-
+#EXTINF:-1 group-title="DEPORTES", ESPN
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/65639.ts
 
 #EXTINF:-1  group-title="DEPORTES", ESPN LatinoAmerica HD 
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/132278
@@ -548,7 +548,7 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/132279
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/132280
 
 #EXTINF:-1 group-title="DEPORTES", TUDN 
-
+http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/291.ts
 
 #EXTINF:-1 group-title="DEPORTES", TUDN Univision
 
