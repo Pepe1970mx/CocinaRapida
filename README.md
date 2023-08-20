@@ -511,10 +511,10 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de4e0b3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="DEPORTES", Adrenalina Sports Network
-http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/15.ts
+
 
 #EXTINF:-1 group-title="DEPORTES", Afizzionados HD
-https://linear-348.frequency.stream/dist/vix/348/hls/master/playlist.m3u8
+
 
 #EXTINF:-1 group-title="DEPORTES", Claro Sports HD 
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
@@ -524,31 +524,31 @@ https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 
 
 #EXTINF:-1 group-title="DEPORTES", Fox Sports Latinoamerica
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/145435
+
 
 #EXTINF:-1 group-title="DEPORTES", FOX Sports Premium LatinoAmerica HD 
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/145439
+
 
 #EXTINF:-1 group-title="DEPORTES", FOX Sports 2 LatinoAmerica HD 
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/132269
+
 
 #EXTINF:-1 group-title="DEPORTES", Fox Sports 3 LatinoAmerica HD
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/145434
+
 
 #EXTINF:-1 group-title="DEPORTES", ESPN
-http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/65639.ts
+
 
 #EXTINF:-1  group-title="DEPORTES", ESPN LatinoAmerica HD 
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/132278
+http://181.209.173.10:9000/play/a069/index.m3u8
 
 #EXTINF:-1  group-title="DEPORTES", ESPN 2 LatinoAmerica HD
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/132279
+http://181.209.173.10:9000/play/a06a/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", ESPN 3 
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/132280
+
 
 #EXTINF:-1 group-title="DEPORTES", TUDN 
-http://gotv.vip:8880/ALFsB9eBTGLCBdq/CANBIOMfw8p4sTNGP9/291.ts
+http://181.209.173.10:9000/play/a05s/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", TUDN Univision
 
@@ -573,7 +573,7 @@ https://i.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
 
 
 #EXTINF:-1 group-title="De Paga", Star Channel latinoamerica
-http://208.88.246.11:4481/202CanalFOXMexico/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+http://181.209.173.10:9000/play/a028/index.m3u8
 
 #EXTINF:-1 group-title="De Paga" , Warner Channel 
 http://208.88.246.11:4481/210WarnerChannel/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
