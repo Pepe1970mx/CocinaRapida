@@ -96,7 +96,7 @@ https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Telemundo Internacional
 
-#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Telemundo California
+#EXTINF:-1 group-title="VARIEDADES", Telemundo California
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?k8ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 #EXTINF:-1 group-title="VARIEDADES", Telemundo PR 
@@ -105,7 +105,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="VARIEDADES", Univision Latino America
 
 
-#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Teleonce Univision PR
+#EXTINF:-1 group-title="VARIEDADES", Teleonce Univision PR
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", ESTRELLA TV
@@ -521,13 +521,13 @@ https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 
 
 #EXTINF:-1 group-title="DEPORTES", Fox Deportes
-
+http://bgtv.site/play/23-877.php?a=38&token=rtrttrtrt
 
 #EXTINF:-1 group-title="DEPORTES", Fox Sports Latinoamerica
-
+http://bgtv.site/play/23-877.php?a=69&token=rtrttrtrt
 
 #EXTINF:-1 group-title="DEPORTES", FOX Sports Premium LatinoAmerica HD 
-
+http://bgtv.site/play/23-877.php?a=69&token=rtrttrtrt
 
 #EXTINF:-1 group-title="DEPORTES", FOX Sports 2 LatinoAmerica HD 
 
