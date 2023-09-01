@@ -53,8 +53,15 @@ https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , Radio y Television de Veracruz (RTV) 
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Telever 
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Televisa del Golfo
 https://ythls.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES",ú
+https://ythls.onrender.com/channel/UCQ08tNTPiBn44c975S81ftg.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Quiero TV
 
@@ -550,8 +557,8 @@ http://181.209.173.10:9000/play/a06a/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", TUDN 
 http://181.209.173.10:9000/play/a05s/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", TUDN Univision
-
+#EXTINF:-1 group-title="DEPORTES", Zona TUDN
+https://dc0yy1cy2mqs1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cmi4c1ko7cgug/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
 
 #EXTINF:-1 group-title="DEPORTES", ITV Deportes 
