@@ -540,7 +540,7 @@ http://bgtv.site/play/23-877.php?a=69&token=rtrttrtrt
 
 
 #EXTINF:-1 group-title="DEPORTES", Fox Sports 3 LatinoAmerica HD
-
+http://167.250.222.35:16000/play/a07u/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", ESPN
 
