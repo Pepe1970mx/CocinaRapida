@@ -229,7 +229,7 @@ http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , ATV Sur
-https://d3txgn7b0ej9cy.cloudfront.net/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
+https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Cinco TV 
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
@@ -244,7 +244,8 @@ https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/60580
 #EXTINF:-1 group-title="Latino", 13Max
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8?PlaylistM3UCL
 
-
+#EXTINF:-1 group-title="Latino", ATM 
+https://v4.tustreaming.cl/atmtv/index.m3u8
 
 #EXTINF:-1 group-title="Latino" , TVN Panama
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
@@ -255,11 +256,11 @@ https://d1dqr580c2izza.cloudfront.net/hls/canal3.m3u8
 #EXTINF:-1 group-title="Latino", Telecinco 
 https://videohd.live:19360/8016/8016.m3u8
 
-#EXTINF:-1 group-title="Latino", Canal 5 Hn
-
+#EXTINF:-1 group-title="Latino", TV TEVEPRIME
+https://tv.clientetvstudio.net:3489/live/tvprimecllive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="Latino", TeleSiete 
-https://d1dqr580c2izza.cloudfront.net/hls/canal7.m3u8
+https://dy434h3s52eoj.cloudfront.net/Canal7GT/d84b644e13e68dd78dfcb9a0cf0338f1.sdp/Canal7GT/Canal7GT2/chunks.m3u8
 
 #EXTINF:-1 group-title="Latino" , TV Centro 7.1
 https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
