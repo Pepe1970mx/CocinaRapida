@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="VARIEDADES", ja ja ja
+#EXTINF:-1 group-title="VARIEDADES", La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Como Dice el Dicho 
