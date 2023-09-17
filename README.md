@@ -1,5 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="VARIEDADES", ja ja ja
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Como Dice el Dicho 
+https://linear-341.frequency.stream/341/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Ja ja Ja 
+https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="I83.46607.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Azteca Uno 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
@@ -432,13 +443,7 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 
 #EXTINF:-1 group-title="VIX 24/7", La Rosa dd Guadalupe
-https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="VIX 24/7", Vix Como Dice el Dicho 
-https://linear-341.frequency.stream/341/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX 24/7", Ja ja Ja 
-https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="VIX 24/7", Vix La Familia Peluche" 
 https://linear-311.frequency.stream/311/hls/master/playlist.m3u8
