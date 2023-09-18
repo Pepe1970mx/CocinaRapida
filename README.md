@@ -52,7 +52,7 @@ https://live.info7.mx/info7/stream.m3u8
 #EXTINF:-1 tvg-id="I4.104892.schedulesdirect.org" tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="VARIEDADES" , A MAS 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", IMRYT
+#EXTINF:-1 group-title="VARIEDADES", IMTYR
 https://stream8.mexiserver.com:1936/morelostv/morelostv/playlist.m3u8
 
 
