@@ -52,6 +52,10 @@ https://live.info7.mx/info7/stream.m3u8
 #EXTINF:-1 tvg-id="I4.104892.schedulesdirect.org" tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="VARIEDADES" , A MAS 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES", IMRYT
+https://stream8.mexiserver.com:1936/morelostv/morelostv/playlist.m3u8
+
+
 #EXTINF:-1 group-title="VARIEDADES", DUPXEQ
 https://ythls.onrender.com/channel/UC9QNz6VS3gGz55dzxAQtgtA.m3u8
 
@@ -66,8 +70,7 @@ https://ythls.onrender.com/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Canal 13 Puebla
-https://c13mx.mediatiquestream.com/canal13puebla/d0dbe915091d400bd8ee7f27f0791303.sdp/canal13puebla/live3/chunks.m3u8
-
+https://dbdfj5y8nz2u4.cloudfront.net/c13tabasco/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , Canal 14 
 https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
