@@ -23,6 +23,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Corazón
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
+
+
+
 #EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Las Estrellas 
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
 
@@ -73,18 +78,14 @@ https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , Radio y Television de Veracruz (RTV) 
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Televisa del Golfo
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Telever
 https://ythls.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES",ú
+#EXTINF:-1 group-title="VARIEDADES", Televisa del Golfo
 https://ythls.onrender.com/channel/UCQ08tNTPiBn44c975S81ftg.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Quiero TV
-
 
 #EXTINF:-1 group-title="VARIEDADES" , TV Mexiquense 
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
@@ -106,15 +107,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd837642c6e9300098ad4
 
 #EXTINF:-1 group-title="VARIEDADES", Nuestra Vision 
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Cinema
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Telemundo Internacional
 
@@ -184,12 +176,6 @@ https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Viwix TV 
 https://videohd.live:19360/8076/8076.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , SEO TV 
-https://live.seo.tv.bo/live/1SEO.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , SEO TV Comedia
-https://live.seo.tv.bo/live/7SEO.m3u8
-
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Xtrema Cine infantil
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 
@@ -198,13 +184,6 @@ https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Xtrema Retro Series
 https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Xtrema 
-
-
-
-
-
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", AMC en Español
 https://d38fxgxhpllpfu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4w47pf3x50sko/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
