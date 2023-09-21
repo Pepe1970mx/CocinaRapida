@@ -153,6 +153,11 @@ https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
 
+#EXTINF:-1 tvg-logo=" " group-title="CINE MEXICANO", Pelismex
+5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8?ads.wurl_channel=1184&ads.wurl_name=PeliMex&ads.coppa=0&ads.device_id=9b43ed4af96bbfcbcf07eec0a811b26f&ads.dnt=0&ads.us_privacy=1yn-&ads.gdpr=0&ads.consent=1&ads.app_name=canelatv&ads.app_bundle=com.canela.ott&ads.app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&ads.ifa_type=dpid&ads.custom=%7BCUSTOM%7D&ads.device_make=&ads.device_model=&ads.content_livestream=1&ads.content_producer_name=0&ads.content_rating=not_rated&ads.language=en&ads.device_manufacturer=&ads.device_type=handset&ads.partner=internal&ads.platform=web&ads.device_width=1280&ads.device_height=720&timestamp=1691208689&id=38655&ip=201.148.42.147&override_expiration=1500&deliveryProfileId=23762&sign=h4zNqi1h7yG2u2HXS7wCvApwcqWCvFRsD7LEjdgRBGM%3D
+
+
+
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
 
@@ -521,6 +526,10 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de4e0b3
 #EXTINF:-1 group-title="DEPORTES", beIN SPORTS XTRA en español 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="DEPORTES" , Wapa Deportes
+https://live.field59.com/wapa/wapa2/playlist.m3u8
+
+
 #EXTINF:-1 group-title="DEPORTES", Adrenalina Sports Network
 
 
@@ -532,13 +541,13 @@ https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 
 
 #EXTINF:-1 group-title="DEPORTES", Fox Deportes
-http://bgtv.site/play/23-877.php?a=38&token=rtrttrtrt
+
 
 #EXTINF:-1 group-title="DEPORTES", Fox Sports Latinoamerica
-http://bgtv.site/play/23-877.php?a=69&token=rtrttrtrt
+
 
 #EXTINF:-1 group-title="DEPORTES", FOX Sports Premium LatinoAmerica HD 
-http://bgtv.site/play/23-877.php?a=69&token=rtrttrtrt
+
 
 #EXTINF:-1 group-title="DEPORTES", FOX Sports 2 LatinoAmerica HD 
 
@@ -550,16 +559,16 @@ http://167.250.222.35:16000/play/a07u/index.m3u8
 
 
 #EXTINF:-1  group-title="DEPORTES", ESPN LatinoAmerica HD 
-http://181.209.173.10:9000/play/a069/index.m3u8
+http://167.250.222.35:16000/play/a069/index.m3u8
 
 #EXTINF:-1  group-title="DEPORTES", ESPN 2 LatinoAmerica HD
-http://181.209.173.10:9000/play/a06a/index.m3u8
+http://167.250.222.35:16000/play/a06a/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", ESPN 3 
 
 
 #EXTINF:-1 group-title="DEPORTES", TUDN 
-http://181.209.173.10:9000/play/a05s/index.m3u8
+http://167.250.222.35:16000/play/a05s/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", Zona TUDN
 https://dc0yy1cy2mqs1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cmi4c1ko7cgug/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
@@ -568,8 +577,8 @@ https://dc0yy1cy2mqs1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="DEPORTES", ITV Deportes 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656899342&id=34434&ip=45.188.78.93&override_expiration=1500&sign=TxhnXtTkkmuchk54BrTTN4p4AevpD8%2Bnm3lscX9lXPg%3D
 
-#EXTINF:-1 group-title="DEPORTES" , Wapa Deportes
-https://live.field59.com/wapa/wapa2/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", AyM  Sport
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
 
 
 #EXTINF:-1 group-title="DEPORTES", Tigo Sports
@@ -587,7 +596,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397&avod=1&coppa=0&is_lat
 
 
 #EXTINF:-1 group-title="De Paga", Star Channel latinoamerica
-http://181.209.173.10:9000/play/a028/index.m3u8
+http://167.250.222.35:16000/play/a028/index.m3u8
 
 #EXTINF:-1 group-title="De Paga" , Warner Channel 
 http://208.88.246.11:4481/210WarnerChannel/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
