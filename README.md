@@ -73,7 +73,7 @@ https://ythls.onrender.com/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
 https://dbdfj5y8nz2u4.cloudfront.net/c13tabasco/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , Canal 14 
-https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="I220.102415.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , CANAL 22 
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
@@ -120,7 +120,7 @@ https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="VARIEDADES", Univision Latino America
-
+https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Teleonce Univision PR
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
@@ -270,8 +270,8 @@ https://d25v5vivhcrrh5.cloudfront.net/hls/canal11.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Latino" , Canal 11 HN
 https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Latino" , Canal 11 PA
-http://138.117.4.70:8075/channel11/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Latino" , Canal 11 
+https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="Latino" , Canal 12 SV
 https://d3kk75blondskv.cloudfront.net/hls/canal12.m3u8
