@@ -119,7 +119,7 @@ https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="VARIEDADES", Telemundo PR 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="VARIEDADES", Univision Latino America
+#EXTINF:-1 group-title="VARIEDADES", Univision Latino America
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Teleonce Univision PR
@@ -556,19 +556,19 @@ https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 http://167.250.222.35:16000/play/a07u/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", ESPN
-
+http://170.254.172.10:8000/play/a07z/index.m3u8
 
 #EXTINF:-1  group-title="DEPORTES", ESPN LatinoAmerica HD 
-http://167.250.222.35:16000/play/a069/index.m3u8
+http://170.254.172.10:16000/play/a069/index.m3u8
 
 #EXTINF:-1  group-title="DEPORTES", ESPN 2 LatinoAmerica HD
-http://167.250.222.35:16000/play/a06a/index.m3u8
+http://170.254.172.10:16000/play/a06a/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", ESPN 3 
 
 
 #EXTINF:-1 group-title="DEPORTES", TUDN 
-http://167.250.222.35:16000/play/a05s/index.m3u8
+http://170.254.172.10:16000/play/a05s/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", Zona TUDN
 https://dc0yy1cy2mqs1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cmi4c1ko7cgug/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
