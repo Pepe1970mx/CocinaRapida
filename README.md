@@ -591,9 +591,7 @@ https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
 https://i.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", Canela Deportes
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1yn-&did=9b43ed4af96bbfcbcf07eec0a811b26f&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=en&site_page=https%253a%252f%252fwww.canela.tv%252f%253fsection%253dcanalesepg&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1694838351&id=51367&ip=201.148.42.147&override_expiration=1500&deliveryProfileId=23762&sign=FUb7GjYJO6ib%2BO5NtKFL0JklQN794s1JGMJJkqVIESE%3D
-
-
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5759&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1yn-&did=9b43ed4af96bbfcbcf07eec0a811b26f&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=en&site_page=https%253a%252f%252fwww.canela.tv%252f%253fsection%253dsportssection&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1696134931&id=53740&ip=201.148.42.147&override_expiration=1500&deliveryProfileId=23762&sign=UfivY2I%2BlTE2QUp3CK2nfMTbH3PJ1m5QonyQxSz5wiI%3D
 
 #EXTINF:-1 group-title="De Paga", Star Channel latinoamerica
 http://167.250.222.35:16000/play/a028/index.m3u8
