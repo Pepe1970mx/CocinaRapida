@@ -57,7 +57,7 @@ https://stream8.mexiserver.com:1936/morelostv/morelostv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="VARIEDADES", DUPXEQ
-https://ythls.onrender.com/channel/UC9QNz6VS3gGz55dzxAQtgtA.m3u8
+https://ythls.onrender.com/channel/UC9DH82HVSf4katwMeUpY80w.m3u8
 
 #EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="VARIEDADES", MVS TV 
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
@@ -128,6 +128,9 @@ https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cf
 #EXTINF:-1 group-title="VARIEDADES", ESTRELLA TV
 https://estrellatv-plex.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES", Canal 57
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES", Telestrella 
 https://stmvideo2.livecastv.com/telestrella/telestrella/playlist.m3u8?PlaylistM3UCL
 
@@ -137,8 +140,8 @@ https://live.field59.com/wapa/wapa1/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES" , Wapa 2
 https://live.field59.com/wapa/wapa3/playlist.m3u8
 
-
-
+#EXTINF:-1 group-title="VARIEDADES" , Ticavision
+https://ythls.onrender.com/channel/UC9DH82HVSf4katwMeUpY80w.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , Ve Plus TV
 http://190.122.96.187:8888/http/006
