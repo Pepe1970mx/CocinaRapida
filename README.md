@@ -550,10 +550,10 @@ https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 
 
 #EXTINF:-1 group-title="DEPORTES", Fox Sports Latinoamerica
-
+http://013tv.com:8080/1380d4eb/3fc3b12a1a/10925
 
 #EXTINF:-1 group-title="DEPORTES", FOX Sports Premium LatinoAmerica HD 
-http://013tv.com:8080/1380d4eb/3fc3b12a1a/10925
+
 
 #EXTINF:-1 group-title="DEPORTES", FOX Sports 2 LatinoAmerica HD 
 http://013tv.com:8080/1380d4eb/3fc3b12a1a/3043
@@ -562,13 +562,13 @@ http://013tv.com:8080/1380d4eb/3fc3b12a1a/3043
 http://167.250.222.35:16000/play/a07u/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", ESPN
-http://170.254.172.10:8000/play/a07z/index.m3u8
+
 
 #EXTINF:-1  group-title="DEPORTES", ESPN LatinoAmerica HD 
-http://170.254.172.10:16000/play/a069/index.m3u8
+
 
 #EXTINF:-1  group-title="DEPORTES", ESPN 2 LatinoAmerica HD
-http://170.254.172.10:16000/play/a06a/index.m3u8
+
 
 #EXTINF:-1 group-title="DEPORTES", ESPN 3 
 
@@ -586,6 +586,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010&avod=1&coppa=0&is_lat
 #EXTINF:-1 group-title="DEPORTES", AyM  Sport
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
 
+#EXTINF:-1 group-title="DEPORTES", Canela Deportes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5759&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1yn-&did=9b43ed4af96bbfcbcf07eec0a811b26f&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&c
 
 #EXTINF:-1 group-title="DEPORTES", Tigo Sports
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
@@ -596,8 +598,8 @@ https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
 #EXTINF:-1 group-title="DEPORTES", Chilevision Deportes
 https://i.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", Canela Deportes
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5759&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1yn-&did=9b43ed4af96bbfcbcf07eec0a811b26f&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&c
+
+
 #EXTINF:-1 group-title="De Paga", Star Channel latinoamerica
 http://167.250.222.35:16000/play/a028/index.m3u8
 
