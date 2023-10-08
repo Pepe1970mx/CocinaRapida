@@ -155,6 +155,11 @@ https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Mariavision 
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
+ontent_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=en&site_page=https%253a%252f%252fwww.canela.tv%252f%253fsection%253dsportssection&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1696134931&id=53740&ip=201.148.42.147&override_expiration=1500&deliveryProfileId=23762&sign=UfivY2I%2BlTE2QUp3CK2nfMTbH3PJ1m5QonyQxSz5wiI%3D
+
+
+
+
 
 #EXTINF:-1 tvg-logo=" " group-title="CINE MEXICANO", Pelismex
 5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8?ads.wurl_channel=1184&ads.wurl_name=PeliMex&ads.coppa=0&ads.device_id=9b43ed4af96bbfcbcf07eec0a811b26f&ads.dnt=0&ads.us_privacy=1yn-&ads.gdpr=0&ads.consent=1&ads.app_name=canelatv&ads.app_bundle=com.canela.ott&ads.app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&ads.ifa_type=dpid&ads.custom=%7BCUSTOM%7D&ads.device_make=&ads.device_model=&ads.content_livestream=1&ads.content_producer_name=0&ads.content_rating=not_rated&ads.language=en&ads.device_manufacturer=&ads.device_type=handset&ads.partner=internal&ads.platform=web&ads.device_width=1280&ads.device_height=720&timestamp=1691208689&id=38655&ip=201.148.42.147&override_expiration=1500&deliveryProfileId=23762&sign=h4zNqi1h7yG2u2HXS7wCvApwcqWCvFRsD7LEjdgRBGM%3D
@@ -181,8 +186,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , +Cine
 https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
-
-
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Viwix TV 
 https://videohd.live:19360/8076/8076.m3u8
@@ -265,7 +268,7 @@ https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
 
 #EXTINF:-1 group-title="Latino", Teletica 7
-http://gamsgo.cyou:8080/bc39c96a/cfeb2ee02f/148830
+https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 
 #EXTINF:-1 group-title="Latino", Canal 11 NI
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal11.m3u8
@@ -550,10 +553,10 @@ https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 
 
 #EXTINF:-1 group-title="DEPORTES", FOX Sports Premium LatinoAmerica HD 
-
+http://013tv.com:8080/1380d4eb/3fc3b12a1a/10925
 
 #EXTINF:-1 group-title="DEPORTES", FOX Sports 2 LatinoAmerica HD 
-
+http://013tv.com:8080/1380d4eb/3fc3b12a1a/3043
 
 #EXTINF:-1 group-title="DEPORTES", Fox Sports 3 LatinoAmerica HD
 http://167.250.222.35:16000/play/a07u/index.m3u8
@@ -571,7 +574,7 @@ http://170.254.172.10:16000/play/a06a/index.m3u8
 
 
 #EXTINF:-1 group-title="DEPORTES", TUDN 
-http://170.254.172.10:16000/play/a05s/index.m3u8
+http://013tv.com:8080/1380d4eb/3fc3b12a1a/31784
 
 #EXTINF:-1 group-title="DEPORTES", Zona TUDN
 https://dc0yy1cy2mqs1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cmi4c1ko7cgug/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
@@ -594,8 +597,7 @@ https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
 https://i.mjh.nz/PlutoTV/638df6f8b63cf100075ccfa1-alt.m3u8
 
 #EXTINF:-1 group-title="DEPORTES", Canela Deportes
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5759&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1yn-&did=9b43ed4af96bbfcbcf07eec0a811b26f&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=en&site_page=https%253a%252f%252fwww.canela.tv%252f%253fsection%253dsportssection&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1696134931&id=53740&ip=201.148.42.147&override_expiration=1500&deliveryProfileId=23762&sign=UfivY2I%2BlTE2QUp3CK2nfMTbH3PJ1m5QonyQxSz5wiI%3D
-
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5759&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1yn-&did=9b43ed4af96bbfcbcf07eec0a811b26f&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&c
 #EXTINF:-1 group-title="De Paga", Star Channel latinoamerica
 http://167.250.222.35:16000/play/a028/index.m3u8
 
