@@ -125,6 +125,9 @@ https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES", Teleonce Univision PR
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES", Distrito Comedia
+http://013tv.com:8080/1380d4eb/3fc3b12a1a/9126
+
 #EXTINF:-1 group-title="VARIEDADES", ESTRELLA TV
 https://estrellatv-plex.amagi.tv/playlist.m3u8
 
@@ -548,7 +551,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd3
 #EXTINF:-1 group-title="DEPORTES" , Wapa Deportes
 https://live.field59.com/wapa/wapa2/playlist.m3u8
 
-
 #EXTINF:-1 group-title="DEPORTES", Adrenalina Sports Network
 
 
@@ -574,17 +576,14 @@ http://013tv.com:8080/1380d4eb/3fc3b12a1a/3043
 #EXTINF:-1 group-title="DEPORTES", Fox Sports 3 LatinoAmerica HD
 http://167.250.222.35:16000/play/a07u/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", ESPN
-
-
 #EXTINF:-1  group-title="DEPORTES", ESPN LatinoAmerica HD 
-
+http://013tv.com:8080/1380d4eb/3fc3b12a1a/9070
 
 #EXTINF:-1  group-title="DEPORTES", ESPN 2 LatinoAmerica HD
-
+http://013tv.com:8080/1380d4eb/3fc3b12a1a/298057
 
 #EXTINF:-1 group-title="DEPORTES", ESPN 3 
-
+http://013tv.com:8080/1380d4eb/3fc3b12a1a/38603
 
 #EXTINF:-1 group-title="DEPORTES", TUDN 
 http://013tv.com:8080/1380d4eb/3fc3b12a1a/31784
