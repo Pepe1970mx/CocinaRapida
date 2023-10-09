@@ -157,6 +157,19 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
 ontent_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=en&site_page=https%253a%252f%252fwww.canela.tv%252f%253fsection%253dsportssection&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1696134931&id=53740&ip=201.148.42.147&override_expiration=1500&deliveryProfileId=23762&sign=UfivY2I%2BlTE2QUp3CK2nfMTbH3PJ1m5QonyQxSz5wiI%3D
 
+#EXTINF:-1 group-title="España", AMC
+http://515860080856321103.of23103.xyz:80/play/XDH31455298/664585696/321103.ts
+
+#EXTINF:-1 group-title="España", Alquiler
+http://515860080856267808.of23103.xyz:80/play/XDH31455298/664585696/267808.ts
+
+#EXTINF:-1 group-title="España", Fox
+http://515860080856321252.of23103.xyz:80/play/XDH31455298/664585696/321252.ts
+
+#EXTINF:-1 group-title="España",
+
+
+#EXTINF:-1 group-title="España",
 
 
 
