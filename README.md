@@ -35,10 +35,10 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdn
 
 
 #EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Imagen TV HD 
-http://166.0.208.26:4481/103Imagen/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+http://013tv.com:8080/1380d4eb/3fc3b12a1a/9039
 
 #EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Canal Cinco  
-http://166.0.208.26:4481/105canal5/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+http://013tv.com:8080/1380d4eb/3fc3b12a1a/9024
 
 #EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Multimedios plus
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
@@ -57,7 +57,7 @@ https://stream8.mexiserver.com:1936/morelostv/morelostv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="VARIEDADES", DUPXEQ
-https://ythls.onrender.com/channel/UC9DH82HVSf4katwMeUpY80w.m3u8
+http://013tv.com:8080/1380d4eb/3fc3b12a1a/298919
 
 #EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="VARIEDADES", MVS TV 
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
