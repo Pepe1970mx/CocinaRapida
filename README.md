@@ -11,8 +11,7 @@ https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
-#EXTINF:-1 tvg-id="I83.46607.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Azteca Uno 
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -26,7 +25,12 @@ https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 
+#EXTINF:-1 tvg-1 group-title="VARIEDADES", Azteca Uno -1 hr
 
+
+
+#EXTINF:-1 tvg-id="I83.46607.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Azteca Uno 
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Las Estrellas 
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
@@ -46,7 +50,7 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 group-title="VARIEDADES" , Duplicate XHIMT Canal 7 TV Azteca 
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
-#EXTINF:-1 tvg-id="I223.102406.schedulesdirect.org" tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="VARIEDADES" , Azteca Monterrey 
+#EXTINF:-1 group-title="VARIEDADES" , Azteca Monterrey 
 https://live.info7.mx/info7/stream.m3u8
 
 #EXTINF:-1 tvg-id="I4.104892.schedulesdirect.org" tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="VARIEDADES" , A MAS 
@@ -112,6 +116,17 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd837642c6e9300098ad4
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Telemundo Internacional
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65888
+
+#EXTINF:-1 group-title="VARIEDADES", Unimas
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65644
+
+#EXTINF:-1 group-title="VARIEDADES",
+
+
+
+
+
 
 #EXTINF:-1 group-title="VARIEDADES", Telemundo California
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?k8ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
@@ -140,7 +155,7 @@ https://stmvideo2.livecastv.com/telestrella/telestrella/playlist.m3u8?PlaylistM3
 #EXTINF:-1 group-title="VARIEDADES" , Wapa
 https://live.field59.com/wapa/wapa1/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES" , Wapa 2
+#EXTINF:-1 group-title="VARIEDADES" , Wapa America
 https://live.field59.com/wapa/wapa3/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES" , Ticavision
