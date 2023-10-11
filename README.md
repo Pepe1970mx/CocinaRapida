@@ -158,7 +158,6 @@ https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Mariavision 
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
-ontent_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=en&site_page=https%253a%252f%252fwww.canela.tv%252f%253fsection%253dsportssection&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1696134931&id=53740&ip=201.148.42.147&override_expiration=1500&deliveryProfileId=23762&sign=UfivY2I%2BlTE2QUp3CK2nfMTbH3PJ1m5QonyQxSz5wiI%3D
 
 #EXTINF:-1 group-title="España", AMC
 http://515860080856321103.of23103.xyz:80/play/XDH31455298/664585696/321103.ts
@@ -178,7 +177,7 @@ http://515860080856321252.of23103.xyz:80/play/XDH31455298/664585696/321252.ts
 
 
 #EXTINF:-1 tvg-logo=" " group-title="CINE MEXICANO", Pelismex
-5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8?ads.wurl_channel=1184&ads.wurl_name=PeliMex&ads.coppa=0&ads.device_id=9b43ed4af96bbfcbcf07eec0a811b26f&ads.dnt=0&ads.us_privacy=1yn-&ads.gdpr=0&ads.consent=1&ads.app_name=canelatv&ads.app_bundle=com.canela.ott&ads.app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&ads.ifa_type=dpid&ads.custom=%7BCUSTOM%7D&ads.device_make=&ads.device_model=&ads.content_livestream=1&ads.content_producer_name=0&ads.content_rating=not_rated&ads.language=en&ads.device_manufacturer=&ads.device_type=handset&ads.partner=internal&ads.platform=web&ads.device_width=1280&ads.device_height=720&timestamp=1691208689&id=38655&ip=201.148.42.147&override_expiration=1500&deliveryProfileId=23762&sign=h4zNqi1h7yG2u2HXS7wCvApwcqWCvFRsD7LEjdgRBGM%3D
+
 
 
 
