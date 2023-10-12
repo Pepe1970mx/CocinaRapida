@@ -173,6 +173,17 @@ https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Mariavision 
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="Sports", Fox Deportes
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57388
+
+#EXTINF:-1 tvg-logo=" " group-title="Sports", Espn Deportes tren
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62815
+
+#EXTINF:-1 tvg-logo=" " group-title="Sports",
+
+
+#EXTINF:-1 tvg-logo=" " group-title="Sports",
+
 
 #EXTINF:-1 group-title="España", AMC
 http://515860080856321103.of23103.xyz:80/play/XDH31455298/664585696/321103.ts
