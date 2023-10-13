@@ -9,10 +9,6 @@ https://linear-341.frequency.stream/341/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES", Ja ja Ja 
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
@@ -173,16 +169,40 @@ https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Mariavision 
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
+
 #EXTINF:-1 tvg-logo=" " group-title="Sports", Fox Deportes
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57388
 
-#EXTINF:-1 tvg-logo=" " group-title="Sports", Espn Deportes tren
+#EXTINF:-1 tvg-logo=" " group-title="Sports", Espn Deportes 
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62815
 
-#EXTINF:-1 tvg-logo=" " group-title="Sports",
+#EXTINF:-1 group-title="Sports", Fox Sport
+http://013tv.com:8080/1380d4eb/3fc3b12a1a/10925
+
+#EXTINF:-1 group-title="Sports", Fox sport 2
+http://013tv.com:8080/1380d4eb/3fc3b12a1a/3043
+
+#EXTINF:-1 group-title="Sports", Fox sport 3
+http://013tv.com:8080/1380d4eb/3fc3b12a1a/3044
+
+#EXTINF:-1 group-title="Sports", Espn
+http://013tv.com:8080/1380d4eb/3fc3b12a1a/9070
+
+#EXTINF:-1 group-title="Sports", Espn 2
+http://013tv.com:8080/1380d4eb/3fc3b12a1a/298057
+
+#EXTINF:-1 group-title="Sports", Espn 3
+http://013tv.com:8080/1380d4eb/3fc3b12a1a/38603
+
+#EXTINF:-1 group-title="Sports", Tudn
 
 
-#EXTINF:-1 tvg-logo=" " group-title="Sports",
+#EXTINF:-1 group-title="Sports", ITV
+
+
+#EXTINF:-1 group-title="Sports", AyM
+
+
 
 
 #EXTINF:-1 group-title="España", AMC
