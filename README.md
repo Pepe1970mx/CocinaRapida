@@ -196,14 +196,17 @@ http://013tv.com:8080/1380d4eb/3fc3b12a1a/38603
 
 #EXTINF:-1 group-title="Sports", Tudn
 
+#EXTINF:-1 group-title="Sports", Zona Tudn
+https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+
 
 #EXTINF:-1 group-title="Sports", ITV
-
+https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
 
 #EXTINF:-1 group-title="Sports", AyM
 
-
-
+#EXTINF:-1 group-title="Sports", beIN Sport Xtra en Español
+https://i.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 
 #EXTINF:-1 group-title="España", AMC
 http://515860080856321103.of23103.xyz:80/play/XDH31455298/664585696/321103.ts
