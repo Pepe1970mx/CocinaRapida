@@ -4,7 +4,7 @@
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Como Dice el Dicho 
-https://linear-341.frequency.stream/341/hls/master/playlist.m3u8
+https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Ja ja Ja 
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
