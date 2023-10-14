@@ -9,6 +9,10 @@ https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
 #EXTINF:-1 group-title="VARIEDADES", Ja ja Ja 
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES", Distrito Comedia
+http://013tv.com:8080/1380d4eb/3fc3b12a1a/9126
+
+
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
@@ -112,20 +116,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd837642c6e9300098ad4
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Telemundo Internacional
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65888
-
-#EXTINF:-1 group-title="VARIEDADES", Unimas
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65644
-
-#EXTINF:-1 group-title="VARIEDADES",
-
-
-
-
-
-
-#EXTINF:-1 group-title="VARIEDADES", Telemundo California
-https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?k8ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65880
 
 #EXTINF:-1 group-title="VARIEDADES", Telemundo PR 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
@@ -133,11 +124,11 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 group-title="VARIEDADES", Univision Latino America
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES", Unimas
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62683
+
 #EXTINF:-1 group-title="VARIEDADES", Teleonce Univision PR
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES", Distrito Comedia
-http://013tv.com:8080/1380d4eb/3fc3b12a1a/9126
 
 #EXTINF:-1 group-title="VARIEDADES", ESTRELLA TV
 https://estrellatv-plex.amagi.tv/playlist.m3u8
@@ -145,14 +136,22 @@ https://estrellatv-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES", Canal 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", Telestrella 
-https://stmvideo2.livecastv.com/telestrella/telestrella/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 group-title="VARIEDADES" , Wapa
 https://live.field59.com/wapa/wapa1/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES" , Wapa America
 https://live.field59.com/wapa/wapa3/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="VARIEDADES",
+
+#EXTINF:-1 group-title="VARIEDADES", Telemundo California
+https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?k8ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+#EXTINF:-1 group-title="VARIEDADES", Telestrella 
+https://stmvideo2.livecastv.com/telestrella/telestrella/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="VARIEDADES" , Ticavision
 https://ythls.onrender.com/channel/UC9DH82HVSf4katwMeUpY80w.m3u8
