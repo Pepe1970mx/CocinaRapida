@@ -396,8 +396,18 @@ https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="Movies" , Grjngo-Peliculas del Oeste
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63489eff90b96ef5e0eb3282.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=jVtQQEicKDo1wxCw8Qjz
 
+#EXTINF:-1 group-title="Movies" , Pluto TV Western
+https://i.mjh.nz/PlutoTV/6385e82900ab2e000768a058-alt.m3u8
+
+#EXTINF:-1 group-title="Movies" , Pluto TV Cine Acción 
+https://service-
+
 #EXTINF:-1 group-title="Movies", Runtime Accion
 https://d10po0m73eydog.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9veh3t1iih14b/ra_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+
+
+
 
 #EXTINF:-1 group-title="Movies", Xtrema Cine Familia
 https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
@@ -414,26 +424,23 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/.m3u8
 #EXTINF:-1 group-title="Movies", Terror Movies
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="Movies" , Pluto tv Western 
+#EXTINF:-1 group-title="Movies" , Estrella TV cine
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8p
 
-#EXTINF:-1 tvg-id="5dcde437229eff00091b6c30" tvg-chno="52" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" group-title="Movies", Pluto TV Cine Estelar 
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Movies", Pluto TV Cine Estelar 
 
-#EXTINF:-1 tvg-id="5e972a21ad709d00074195ba" tvg-chno="57" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png" group-title="Movies", Estrellas de Acción 
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="5dcb62e63d4d8f0009f36881" tvg-logo=" " group-title="Movies" , Pluto TV Cine Acción 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=97c7d537-1741-11eb-a7c8-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Movies", Estrellas de Acción 
 
-#EXTINF:-1 tvg-id="5dcddf1ed95e740009fef7ab" tvg-chno="72" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="#EXTINF:-1 tvg-logo=" " group-title="Movies" , Accion Rakuten 
+
+
+#EXTINF:-1 group-title="Movies" , Accion Rakuten 
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
 
 #EXTINF:-1 group-title="Movies",Cine Sony 
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 
-#EXTINF:-1 group-title="Movies", FreeTV 
-https://freetv.stream.olympusatmedia.com/index.m3u8?url=https%3A%2F%2Fwww.freetv.com%2Fpeliculas%2Ffreetv-8-2%2F&genre=Entretenimiento&ic=&us_privacy=&coppa=0&user_id=&ip=201.148.42.146&ipv6=&c_duration=3600&c_producer=freetv8.2&c_lang=es&ua=Mozilla%2F5.0+%28Linux%3B+Android+11%3B+SM-A022M+Build%2FRP1A.200720.012%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F108.0.5359.128+Mobile+Safari%2F537.36&hls_marker=1&content_channel=FreeTV+8.2&content_title=&content_genre=&gdpr=0&player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
+#EXTINF:-1 group-
 
 #EXTINF:-1 group-title="Movies", Pluto TV Cine Clásico 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
