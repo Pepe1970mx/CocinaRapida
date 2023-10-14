@@ -657,6 +657,21 @@ https://linear-418.frequency.stream:443/418/hls/master/playlist_640x360.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", Telehit 
 https://linear-417.frequency.stream:443/417/hls/master/playlist_640x360.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV Hits
+http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/153/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV Live 
+http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/221/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV Music
+http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/19192/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV Classic
+http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/19148/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", Bandamax 
 https://linear-400.frequency.stream/400/hls/master/playlist.m3u8
 
