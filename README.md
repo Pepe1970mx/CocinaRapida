@@ -142,9 +142,6 @@ https://live.field59.com/wapa/wapa1/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES" , Wapa America
 https://live.field59.com/wapa/wapa3/playlist.m3u8
 
-
-
-
 #EXTINF:-1 group-title="VARIEDADES",
 
 #EXTINF:-1 group-title="VARIEDADES", Telemundo California
@@ -167,6 +164,17 @@ https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Mariavision 
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+
+
+#EXTINF:-1 group-title="NOTICIAS", EuroNews en español 
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS", France 24 Español SD 
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="NOTICIAS" , Mexiquense Noticias 
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
+
 
 
 #EXTINF:-1 tvg-logo=" " group-title="Sports", Fox Deportes
@@ -509,20 +517,6 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="RETRO" , STV 
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 
-#EXTINF:-1 group-title="VIX 24/7", La Rosa dd Guadalupe
-
-
-#EXTINF:-1 group-title="VIX 24/7", Vix La Familia Peluche" 
-https://linear-311.frequency.stream/311/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX 24/7", Vix Risas de Oro 
-https://linear-313.frequency.stream/313/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX 24/7", Vix Vecinos 
-https://linear-314.frequency.stream/314/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX 24/7", Fuakata
-https://linear-304.frequency.stream/304/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 group-title="NOTICIAS", Excélsior Televisión HD 
@@ -558,14 +552,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="NOTICIAS", RT in Spanish 
 https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS", EuroNews en español 
-https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS", France 24 Español SD 
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="NOTICIAS" , Mexiquense Noticias 
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
 
 #EXTINF:-1 tvg-id="5f4d3696d938c900072679fd" tvg-logo=" " group-title="DOCUMENTALES", Historias de Ultratumba 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=c2849db8-1412-11eb-bde1-0242ac110002&userId=&serverSideAds=true
