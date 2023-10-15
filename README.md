@@ -10,7 +10,7 @@ https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Distrito Comedia
-http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12136
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/13252
 
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Azteca Internacional
@@ -39,10 +39,10 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdn
 
 
 #EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Imagen TV HD 
-http://013tv.com:8080/1380d4eb/3fc3b12a1a/9039
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/13280
 
 #EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Canal Cinco  
-http://013tv.com:8080/1380d4eb/3fc3b12a1a/9024
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/13237
 
 #EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Multimedios plus
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
@@ -143,7 +143,7 @@ https://live.field59.com/wapa/wapa1/playlist.m3u8
 https://live.field59.com/wapa/wapa3/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Star Channel
-http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12138
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/13263
 
 #EXTINF:-1 group-title="VARIEDADES", Telemundo California
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?k8ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
