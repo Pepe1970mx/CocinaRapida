@@ -10,7 +10,7 @@ https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Distrito Comedia
-http://013tv.com:8080/1380d4eb/3fc3b12a1a/9126
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12136
 
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Azteca Internacional
@@ -142,7 +142,8 @@ https://live.field59.com/wapa/wapa1/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES" , Wapa America
 https://live.field59.com/wapa/wapa3/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",
+#EXTINF:-1 group-title="VARIEDADES", Star Channel
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12138
 
 #EXTINF:-1 group-title="VARIEDADES", Telemundo California
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?k8ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
