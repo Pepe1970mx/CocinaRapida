@@ -168,6 +168,13 @@ https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
 
+#EXTINF:-1 group-title="NOTICIAS", N+
+https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",  Exelsior TV
+https://ythlsgo.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
+
+
 #EXTINF:-1 group-title="NOTICIAS", EuroNews en español 
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
