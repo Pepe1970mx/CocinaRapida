@@ -89,10 +89,10 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Telever
 https://ythls.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
-
+https://ythlsgo.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Televisa del Golfo
-https://ythls.onrender.com/channel/UCQ08tNTPiBn44c975S81ftg.m3u8
+https://ythlsgo.onrender.com/channel/UCQ08tNTPiBn44c975S81ftg.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Quiero TV
 
@@ -212,6 +212,7 @@ http://013tv.com:8080/1380d4eb/3fc3b12a1a/298057
 http://013tv.com:8080/1380d4eb/3fc3b12a1a/38603
 
 #EXTINF:-1 group-title="Sports", Tudn
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12197
 
 #EXTINF:-1 group-title="Sports", Zona Tudn
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
