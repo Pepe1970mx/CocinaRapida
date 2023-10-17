@@ -598,11 +598,11 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de4e0b3
 
 
 
-
-Plus
+#EXTINF:-1 group-title="De Paga" ,Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="De Paga" , HBO Latino
+http://177.53.153.21:8001/play/a03b/index.m3u8
 
 #EXTINF:-1 group-title="De Paga" , HBO 
 http://45.181.121.57:2909/play/017
@@ -619,8 +619,8 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="De Paga", Cartoonito 
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 
-#EXTINF:-1 group-title="De Paga" , Clan 
-https://ztnr.rtve.es/ztnr/5466990.m3u8
+#EXTINF:-1 group-title="De Paga" , Tooncast 
+http://177.53.153.21:8001/play/a085/index.m3u8
 
 
 
