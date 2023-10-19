@@ -187,29 +187,29 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 #EXTINF:-1 tvg-logo=" " group-title="Sports", Claro Sports
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Sports", Fox Deportes
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57388
+#EXTINF:-1 tvg-logo=" " group-title="Sports", Fox Premium
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/27922
 
 #EXTINF:-1 tvg-logo=" " group-title="Sports", Espn Deportes 
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62815
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12280
 
 #EXTINF:-1 group-title="Sports", Fox Sport
-http://013tv.com:8080/1380d4eb/3fc3b12a1a/10925
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12257
 
 #EXTINF:-1 group-title="Sports", Fox sport 2
-http://013tv.com:8080/1380d4eb/3fc3b12a1a/3043
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12259
 
 #EXTINF:-1 group-title="Sports", Fox sport 3
-http://013tv.com:8080/1380d4eb/3fc3b12a1a/3044
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12258
 
 #EXTINF:-1 group-title="Sports", Espn
-http://013tv.com:8080/1380d4eb/3fc3b12a1a/9070
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12278
 
 #EXTINF:-1 group-title="Sports", Espn 2
-http://013tv.com:8080/1380d4eb/3fc3b12a1a/298057
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12283
 
 #EXTINF:-1 group-title="Sports", Espn 3
-http://013tv.com:8080/1380d4eb/3fc3b12a1a/38603
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12281
 
 #EXTINF:-1 group-title="Sports", Tudn
 http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12197
