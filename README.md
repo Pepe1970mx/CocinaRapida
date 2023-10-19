@@ -485,14 +485,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8a87cd38d000745d7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CTfQL7m/tvretro.png" group-title="RETRO", RetroMagico 
+#EXTINF:-1 group-title="RETRO", RetroMagico 
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 
 #EXTINF:-1 group-title="RETRO", Xtrema  Retro Cartoon
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 
 #EXTINF:-1 group-title="RETRO", Los Simpson
-https://usher.ttvnw.net/api/channel/hls/lagger_________.m3u8?player_type=pulsar&player_backend=mediaplayer&playlist_include_framerate=true&allow_source=true&transcode_mode=cbr_v1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22lagger_________%22%2C%22channel_id%22%3A488081224%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22PuQ9XRHsjymz5H9Hz41GhBS7zAp56khZ%22%2C%22expires%22%3A1697388595%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22mobile_web%22%2C%22player_type%22%3A%22pulsar%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22200.71.109.253%22%2C%22version%22%3A2%7D&sig=e6c4cf1d1d5e15ab5930cb95a318010f8f1ba180&cdm=wv&player_version=1.22.0
+
 
 #EXTINF:-1 group-title="RETRO", RETRO PLUS TV CINE 
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
@@ -501,7 +501,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="RETRO" , El chavo
-https://usher.ttvnw.net/api/channel/hls/simpsonslatinotv.m3u8?player_type=pulsar&player_backend=mediaplayer&playlist_include_framerate=true&allow_source=true&transcode_mode=cbr_v1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22simpsonslatinotv%22%2C%22channel_id%22%3A960755937%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22PuQ9XRHsjymz5H9Hz41GhBS7zAp56khZ%22%2C%22expires%22%3A1697388480%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22mobile_web%22%2C%22player_type%22%3A%22pulsar%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22200.71.109.253%22%2C%22version%22%3A2%7D&sig=0cc1634bd12d8351a25c6e83d97124f5bbb5637b&cdm=wv&player_version=1.22.0
+
 
 #EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="RETRO", ACS Network
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
@@ -514,9 +514,6 @@ http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="RETRO", Telesistema 
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
-
-#EXTINF:-1 group-title="RETRO" , Retro XTV 
-https://5bf8041cb3fed.streamlock.net/retroxtv/retroxtv/.m3u8
 
 #EXTINF:-1 group-title="RETRO" , Teleclasica 
 https://ssh101.bozztv.com/ssh101/teleclasik/chunks.m3u8
@@ -595,8 +592,14 @@ https://bamus-spa-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-spanish/CD
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de4e0b3f5003f5d9f73.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=xAoXwfNRpzqfb4QF8JUB
 
 
+#EXTINF:-1 group-title="De Paga" , Star Channels
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12138
 
+#EXTINF:-1 group-title="De Paga" , Warner Channel
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12097
 
+#EXTINF:-1 group-title="De Paga" , TNT
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/13293
 
 #EXTINF:-1 group-title="De Paga" ,Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
@@ -622,10 +625,23 @@ https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 group-title="De Paga" , Tooncast 
 http://177.53.153.21:8001/play/a085/index.m3u8
 
+#EXTINF:-1 group-title="De Paga" , Nick
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/29560
+
+#EXTINF:-1 group-title="De Paga" , Universal Kid
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12156
+
+#EXTINF:-1 group-title="De Paga" ,
+
+
+#EXTINF:-1 group-title="De Paga" ,
+
+
+#EXTINF:-1 group-title="De Paga" ,
 
 
 
-
+#EXTINF:-1 group-title="De Paga" ,
 
 
 #EXTINF:-1 tvg-logo="" group-title="Retro Music", Now 80s
