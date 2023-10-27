@@ -6,7 +6,7 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES", Como Dice el Dicho 
 https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", Ja ja Ja 
+#EXTINF:-1 group-title="VARIEDADES", Vix Ja ja Ja 
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Distrito Comedia
@@ -27,7 +27,7 @@ https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 
-#EXTINF:-1 tvg-1 group-title="VARIEDADES", Azteca Uno -1 hr
+#EXTINF:-1 tvg-1 group-title="VARIEDADES", Azteca Uno -1 hora
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
 
 
@@ -218,10 +218,10 @@ http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12197
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
 
-#EXTINF:-1 group-title="Sports", ITV
+#EXTINF:-1 group-title="Sports", ITV Deportes
 https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
 
-#EXTINF:-1 group-title="Sports", AyM
+#EXTINF:-1 group-title="Sports", AyM sport
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
 
 #EXTINF:-1 group-title="Sports", Canela Deportes
