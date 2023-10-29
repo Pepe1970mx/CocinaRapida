@@ -230,6 +230,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5759&avod=1&coppa=0&is_lat
 #EXTINF:-1 group-title="Sports", beIN Sport Xtra en Español
 https://i.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 
+#EXTINF:-1 group-title="Sports", M+ La Liga
+http://515860080856165393.of23103.xyz:80/play/XDH31455298/664585696/165393.ts
+
 #EXTINF:-1 group-title="España", AMC
 http://515860080856321103.of23103.xyz:80/play/XDH31455298/664585696/321103.ts
 
@@ -242,8 +245,8 @@ http://515860080856321252.of23103.xyz:80/play/XDH31455298/664585696/321252.ts
 #EXTINF:-1 group-title="España", M+ Accion SD
 http://515860080856321307.of23103.xyz:80/play/XDH31455298/664585696/321307.ts
 
-#EXTINF:-1 group-title="España",
-
+#EXTINF:-1 group-title="España", M+ Estrenos
+http://515860080856321339.of23103.xyz:80/play/XDH31455298/664585696/321339.ts
 
 
 
