@@ -650,6 +650,21 @@ http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12156
 #EXTINF:-1 tvg-logo="" group-title="Retro Music", Now 80s
 https://lightning-now80s-samsunguk.amagi.tv/hls/amagi_hls_data_samsunguk-lightning-now80s-samsunguk/CDN/playlist.m3u8?device%5Bdid%5D=%7BPSID%7D&device%5Bdnt%5D=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&tc_string=%7BTC_STRING%7D&coppa=0
 
+#EXTINF:-1 tvg-logo="" group-title="Retro Music", Yo! MTV Raps Classic
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c10558060e830008ed1b0a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="" group-title="Retro Music", MTV Classic
+https://i.mjh.nz/PlutoTV/635bfb89b5cd9b0007ca9d63-alt.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Retro Music", MTV Rocks
+https://i.mjh.nz/PlutoTV/624303598e45140007d765c1-alt.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Retro Music", Vevo 80s
+https://i.mjh.nz/PlutoTV/5fd7b8bf927e090007685853-alt.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Retro Music", Vevo 90s
+https://i.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Retro Music", Vevo 90S & 00s
 https://d2yw87dguyr3x7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gm31ezw31rx7a/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
@@ -659,8 +674,8 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="" group-title="Retro Music", Super Classic TV
 https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Retro Music", 
-
+#EXTINF:-1 tvg-logo="" group-title="Retro Music", Vevo Retro Rock
+https://i.mjh.nz/PlutoTV/61d4b38226b8a50007fe03a6-alt.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Retro Music", Oldies Hits
