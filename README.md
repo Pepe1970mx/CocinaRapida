@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="VARIEDADES", La Rosa de Guadalupe
+#EXTINF:-1 tvg-id=""group-title="VARIEDADES", La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Como Dice el Dicho 
@@ -46,7 +46,7 @@ http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/13280
 #EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Canal Cinco  
 http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/13237
 
-#EXTINF:-1 tvg-id="I80.83117.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , Multimedios plus
+#EXTINF:-1 tvg-id="I443.50500" group-title="VARIEDADES" , Multimedios plus
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES" , Duplicate XHIMT Canal 7 TV Azteca 
@@ -65,10 +65,10 @@ https://stream8.mexiserver.com:1936/morelostv/morelostv/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES", DUPXEQ
 http://013tv.com:8080/1380d4eb/3fc3b12a1a/298919
 
-#EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="VARIEDADES", MVS TV 
+#EXTINF:-1 tvg-id="I48.18169" group-title="VARIEDADES", MVS TV 
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
-#EXTINF:-1 tvg-logo="http://puu.sh/mb2AM/887927ece3.png" group-title="VARIEDADES", Canal Once 
+#EXTINF:-1 tvg-id=""group-title="VARIEDADES", Canal Once 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Canal 12 Tijuana
