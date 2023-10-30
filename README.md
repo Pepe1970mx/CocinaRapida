@@ -187,7 +187,7 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 #EXTINF:-1 tvg-logo=" " group-title="Sports", Claro Sports
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Sports", Fox Premium
+#EXTINF:-1 tvg-logo=" " group-title="Sports", Fox Sports Premium
 http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/27922
 
 #EXTINF:-1 tvg-logo=" " group-title="Sports", Espn Deportes 
@@ -232,6 +232,11 @@ https://i.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 
 #EXTINF:-1 group-title="Sports", M+ La Liga
 http://515860080856165393.of23103.xyz:80/play/XDH31455298/664585696/165393.ts
+
+
+#EXTINF:-1 group-title="Sports", Golazo Network 
+https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
+
 
 #EXTINF:-1 group-title="España", AMC
 http://515860080856321103.of23103.xyz:80/play/XDH31455298/664585696/321103.ts
@@ -380,6 +385,22 @@ https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids", Moni TV 
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids", Cartoon Network 
+http://177.53.153.21:8001/play/a03d/index.m3u8
+
+#EXTINF:-1 group-title="Kids", Disney Channels
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/13249
+
+#EXTINF:-1 group-title="Kids", Tooncast
+http://177.53.153.21:8001/play/a085/index.m3u8
+
+#EXTINF:-1 group-title="Kids", Nickelodeon 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="Kids", 90s Kids
+https://i.mjh.nz/PlutoTV/6452c814939a590008567a3b-alt.m3u8
+
 
 #EXTINF:-1 group-title="Kids", Xtrema Cartoons
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
