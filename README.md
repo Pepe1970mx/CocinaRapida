@@ -27,9 +27,8 @@ https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="VARIEDADES", Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 
-#EXTINF:-1 group-title="VARIEDADES", Azteca Uno -1hora
+#EXTINF:-1 group-title="VARIEDADES", Azteca Uno-1hora
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
-
 
 #EXTINF:-1 group-title="VARIEDADES", Azteca Uno 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
@@ -111,8 +110,6 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8?
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , Multimedios Plus
 https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w2102162107.m3u8
 
-
-
 #EXTINF:-1 group-title="VARIEDADES", Nuestra Vision 
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
@@ -167,13 +164,38 @@ https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Mariavision 
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
+#EXTINF:-1 group-title="NOTICIAS", Foro TV 
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS", Nmedia+ 
+https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS", ADN 40 
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" , Milenio 
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" , Teleformula 
+https://mdstrm.com/live-stream-playlist/61e1e088d04d7744686afc42.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS", TELEMUNDO AL DÍA 
+https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+
+#EXTINF:-1 group-title="NOTICIAS", El Financiero - Bloomberg 
+TV https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS", DW Español 
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS", RT in Spanish 
+https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS", N+
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS",  Exelsior TV
 https://ythlsgo.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
-
 
 #EXTINF:-1 group-title="NOTICIAS", EuroNews en español 
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
@@ -184,6 +206,7 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="NOTICIAS" , Mexiquense Noticias 
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
 
+
 #EXTINF:-1 tvg-logo=" " group-title="Sports", Claro Sports
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 
@@ -193,22 +216,22 @@ http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/27922
 #EXTINF:-1 tvg-logo=" " group-title="Sports", Espn Deportes 
 http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12280
 
-#EXTINF:-1 group-title="Sports", Fox Sport
+#EXTINF:-1 group-title="Sports", Fox Sport Latinoamerica
 http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12257
 
-#EXTINF:-1 group-title="Sports", Fox sport 2
+#EXTINF:-1 group-title="Sports", Fox sport 2 Latinoamerica
 http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12259
 
-#EXTINF:-1 group-title="Sports", Fox sport 3
+#EXTINF:-1 group-title="Sports", Fox sport 3 Latinoamerica
 http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12258
 
-#EXTINF:-1 group-title="Sports", Espn
+#EXTINF:-1 group-title="Sports", Espn Latinoamerica
 http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12278
 
-#EXTINF:-1 group-title="Sports", Espn 2
+#EXTINF:-1 group-title="Sports", Espn 2 Latinoamerica
 http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12283
 
-#EXTINF:-1 group-title="Sports", Espn 3
+#EXTINF:-1 group-title="Sports", Espn 3 Latinoamerica
 http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12281
 
 #EXTINF:-1 group-title="Sports", Tudn
@@ -221,7 +244,7 @@ https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 #EXTINF:-1 group-title="Sports", ITV Deportes
 https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
 
-#EXTINF:-1 group-title="Sports", AyM sport
+#EXTINF:-1 group-title="Sports", AyM sports
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
 
 #EXTINF:-1 group-title="Sports", Canela Deportes
@@ -232,7 +255,6 @@ https://i.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 
 #EXTINF:-1 group-title="Sports", M+ La Liga
 http://515860080856165393.of23103.xyz:80/play/XDH31455298/664585696/165393.ts
-
 
 #EXTINF:-1 group-title="Sports", Golazo Network 
 https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
@@ -253,9 +275,59 @@ http://515860080856321307.of23103.xyz:80/play/XDH31455298/664585696/321307.ts
 #EXTINF:-1 group-title="España", M+ Estrenos
 http://515860080856321339.of23103.xyz:80/play/XDH31455298/664585696/321339.ts
 
+#EXTINF:-1 group-title="De Paga" , Star Channels
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12138
+
+#EXTINF:-1 group-title="De Paga" , Warner Channel
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12097
+
+#EXTINF:-1 group-title="De Paga" , TNT
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/13293
+
+#EXTINF:-1 group-title="De Paga" ,Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="De Paga" , HBO Latino
+http://177.53.153.21:8001/play/a03b/index.m3u8
+
+#EXTINF:-1 group-title="De Paga" , HBO 
+http://45.181.121.57:2909/play/017
+
+#EXTINF:-1 group-title="De Paga" , HBO 2 
+http://45.181.121.57:2909/play/021
+
+#EXTINF:-1 group-title="De Paga" , HBO Family 
+http://45.181.121.57:2909/play/018
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="De Paga", Cartoon Network 
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="De Paga", Cartoonito 
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+
+#EXTINF:-1 group-title="De Paga" , Tooncast 
+http://177.53.153.21:8001/play/a085/index.m3u8
+
+#EXTINF:-1 group-title="De Paga" , Nick
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/29560
+
+#EXTINF:-1 group-title="De Paga" , Universal Kid
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12156
+
+#EXTINF:-1 group-title="De Paga" ,
 
 
-#EXTINF:-1 tvg-logo=" " group-title="CINE MEXICANO", Pelismex
+#EXTINF:-1 group-title="De Paga" ,
+
+
+#EXTINF:-1 group-title="De Paga" ,
+
+
+
+#EXTINF:-1 group-title="De Paga" ,
+
+
+
 
 
 
@@ -557,32 +629,7 @@ https://ythls.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
 #EXTINF:-1 group-title="NOTICIAS" , CNN en Español 
 https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS", Foro TV 
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS", Nmedia+ 
-https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS", ADN 40 
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS" , Milenio 
-https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS" , Teleformula 
-https://mdstrm.com/live-stream-playlist/61e1e088d04d7744686afc42.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS", TELEMUNDO AL DÍA 
-https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
-
-#EXTINF:-1 group-title="NOTICIAS", El Financiero - Bloomberg 
-TV https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS", DW Español 
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS", RT in Spanish 
-https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
 
 
 #EXTINF:-1 tvg-id="5f4d3696d938c900072679fd" tvg-logo=" " group-title="DOCUMENTALES", Historias de Ultratumba 
@@ -616,56 +663,6 @@ https://bamus-spa-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-spanish/CD
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de4e0b3f5003f5d9f73.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=xAoXwfNRpzqfb4QF8JUB
 
 
-#EXTINF:-1 group-title="De Paga" , Star Channels
-http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12138
-
-#EXTINF:-1 group-title="De Paga" , Warner Channel
-http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12097
-
-#EXTINF:-1 group-title="De Paga" , TNT
-http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/13293
-
-#EXTINF:-1 group-title="De Paga" ,Golden Plus
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="De Paga" , HBO Latino
-http://177.53.153.21:8001/play/a03b/index.m3u8
-
-#EXTINF:-1 group-title="De Paga" , HBO 
-http://45.181.121.57:2909/play/017
-
-#EXTINF:-1 group-title="De Paga" , HBO 2 
-http://45.181.121.57:2909/play/021
-
-#EXTINF:-1 group-title="De Paga" , HBO Family 
-http://45.181.121.57:2909/play/018
-
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="De Paga", Cartoon Network 
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="De Paga", Cartoonito 
-https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
-
-#EXTINF:-1 group-title="De Paga" , Tooncast 
-http://177.53.153.21:8001/play/a085/index.m3u8
-
-#EXTINF:-1 group-title="De Paga" , Nick
-http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/29560
-
-#EXTINF:-1 group-title="De Paga" , Universal Kid
-http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12156
-
-#EXTINF:-1 group-title="De Paga" ,
-
-
-#EXTINF:-1 group-title="De Paga" ,
-
-
-#EXTINF:-1 group-title="De Paga" ,
-
-
-
-#EXTINF:-1 group-title="De Paga" ,
 
 
 #EXTINF:-1 tvg-logo="" group-title="Retro Music", Now 80s
