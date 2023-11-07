@@ -1,54 +1,54 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="VARIEDADES", La Rosa de Guadalupe
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", Como Dice el Dicho 
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Como Dice el Dicho 
 https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", Vix Ja ja Ja 
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Vix Ja ja Ja 
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", Distrito Comedia
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Distrito Comedia
 http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/13252
 
-#EXTINF:-1 group-title="VARIEDADES",Pluto TV Series Latinas 
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Pluto TV Series Latinas 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed he/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="VARIEDADES", Azteca Internacional
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 group-title="VARIEDADES", Clic
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Clic
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 
-#EXTINF:-1 group-title="VARIEDADES", Corazón
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Corazón
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 group-title="VARIEDADES", Cinema
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 
-#EXTINF:-1 group-title="VARIEDADES", Azteca Uno-1hora
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Azteca Uno-1hora
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", Azteca Uno 
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Azteca Uno 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES" , Las Estrellas 
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Las Estrellas 
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
 
 #EXTINF:-1 group-title="VARIEDADES", Las estrellas Internacional
 
 
-#EXTINF:-1 group-title="VARIEDADES" , Imagen TV HD 
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Imagen TV HD 
 http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/13280
 
-#EXTINF:-1 group-title="VARIEDADES" , Canal Cinco  
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Canal Cinco  
 http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/13237
 
-#EXTINF:-1 group-title="VARIEDADES" , Multimedios plus
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Multimedios plus
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES" , Duplicate XHIMT Canal 7 TV Azteca 
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Duplicate XHIMT Canal 7 TV Azteca 
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES" , Azteca Monterrey 
