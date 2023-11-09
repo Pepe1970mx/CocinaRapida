@@ -119,7 +119,7 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65880
 #EXTINF:-1 group-title="VARIEDADES", Telemundo PR 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", Univision Latino America
+#EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES",  Univision Latino America
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Unimas
@@ -213,7 +213,7 @@ https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Sports", Fox Sports Premium
 http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/27922
 
-#EXTINF:-1 tvg-logo=" " group-title="Sports", Espn Deportes 
+#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" group-title="Sports", Espn Deportes 
 http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12280
 
 #EXTINF:-1 group-title="Sports", Fox Sport Latinoamerica
@@ -266,10 +266,10 @@ http://515860080856321103.of23103.xyz:80/play/XDH31455298/664585696/321103.ts
 #EXTINF:-1 group-title="España", Alquiler
 http://515860080856267808.of23103.xyz:80/play/XDH31455298/664585696/267808.ts
 
-#EXTINF:-1 group-title="España", Fox
+#EXTINF:-1 tvg-id="I241.102862.schedulesdirect.org" group-title="España", Fox
 http://515860080856321252.of23103.xyz:80/play/XDH31455298/664585696/321252.ts
 
-#EXTINF:-1 group-title="España", M+ Accion SD
+#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" group-title="España", M+ Accion SD
 http://515860080856321307.of23103.xyz:80/play/XDH31455298/664585696/321307.ts
 
 #EXTINF:-1 group-title="España", M+ Estrenos
