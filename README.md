@@ -235,7 +235,7 @@ http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12283
 http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12281
 
 #EXTINF:-1 group-title="Sports", Tudn
-http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12197
+http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/43732
 
 #EXTINF:-1 group-title="Sports", Zona Tudn
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
