@@ -43,7 +43,7 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdn
 http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/13280
 
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Canal Cinco  
-http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/13237
+http://tv.nousiptv.com:8080/Veronicafleitas/2528/1155865
 
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Multimedios plus
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
