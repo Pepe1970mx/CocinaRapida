@@ -41,7 +41,7 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdn
 
 
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Imagen TV HD 
-http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/13280
+http://tv.nousiptv.com:8080/Veronicafleitas/2528/4149
 
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Canal Cinco  
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/1155865
@@ -114,6 +114,9 @@ https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w2102162107.m3u8
 #EXTINF:-1 group-title="VARIEDADES", Nuestra Vision 
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES", Canal 57
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Telemundo Internacional
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65880
 
@@ -132,26 +135,12 @@ https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cf
 #EXTINF:-1 group-title="VARIEDADES", ESTRELLA TV
 https://estrellatv-plex.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", Canal 57
-https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES" , Wapa
 https://live.field59.com/wapa/wapa1/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES" , Wapa America
 https://live.field59.com/wapa/wapa3/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", Star Channel
-http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/13263
-
-#EXTINF:-1 group-title="VARIEDADES", Telemundo California
-https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?k8ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
-#EXTINF:-1 group-title="VARIEDADES", Telestrella 
-https://stmvideo2.livecastv.com/telestrella/telestrella/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="VARIEDADES" , Ticavision
-https://ythls.onrender.com/channel/UC9DH82HVSf4katwMeUpY80w.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , Ve Plus TV
 http://190.122.96.187:8888/http/006
@@ -278,13 +267,13 @@ http://515860080856321307.of23103.xyz:80/play/XDH31455298/664585696/321307.ts
 http://515860080856321339.of23103.xyz:80/play/XDH31455298/664585696/321339.ts
 
 #EXTINF:-1 group-title="De Paga" , Star Channels
-
+http://tv.nousiptv.com:8080/Veronicafleitas/2528/4022
 
 #EXTINF:-1 group-title="De Paga" , Warner Channel
 
 
 #EXTINF:-1 group-title="De Paga" , TNT
-
+http://tv.nousiptv.com:8080/Veronicafleitas/2528/4010
 
 #EXTINF:-1 group-title="De Paga" ,Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
@@ -327,13 +316,25 @@ http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/446
 
 
 #EXTINF:-1 group-title="De Paga" , Clan
-https://tvup-live.secure.footprint.net/clan/clan.mpd
+https://tvup-live.secure.footprint.net/clan/clan.m3u
 
 
 #EXTINF:-1 group-title="De Paga" , Clan Internacional
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_360.m3u8
 
 
+
+
+
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", AMC en Español
+https://d38fxgxhpllpfu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4w47pf3x50sko/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=653&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656898869&id=14603&ip=45.188.78.93&override_expiration=1500&sign=QHG86ZSmS8rAuOxLfYGQqULx0r1fVBqrLciVhkFN4vs%3D
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , ATV Sur
+https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
@@ -347,6 +348,9 @@ https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO", WTV NI
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
+#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", CocoTV
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
@@ -354,7 +358,7 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , +Cine
-https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
+https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Viwix TV 
 https://videohd.live:19360/8076/8076.m3u8
@@ -368,11 +372,9 @@ https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Xtrema Retro Series
 https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", AMC en Español
-https://d38fxgxhpllpfu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4w47pf3x50sko/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Canela TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=653&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656898869&id=14603&ip=45.188.78.93&override_expiration=1500&sign=QHG86ZSmS8rAuOxLfYGQqULx0r1fVBqrLciVhkFN4vs%3D
+
+
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO",  Canal Blu
 https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
@@ -380,14 +382,11 @@ https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Guatuso
 https://5cf4a2c2512a2.streamlock.net/8162/8162/master.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Contacto Deportivo 
-https://live.obslivestream.com/cdeportivo/index.m3u8
 
-#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", Telecosta 
-https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
-#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", CocoTV
-https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Gen TV 
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
@@ -396,8 +395,7 @@ https://inliveserver.com:1936/14056/14056/playlist.m3u8
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , ATV Sur
-https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Cinco TV 
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
@@ -409,14 +407,6 @@ https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Latino", TVMAX 
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
 
-#EXTINF:-1 group-title="Latino", 13Max
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Latino", ATM 
-https://v4.tustreaming.cl/atmtv/index.m3u8
-
-#EXTINF:-1 group-title="Latino" , TVN Panama
-https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
 
 #EXTINF:-1 group-title="Latino", TeleTres 
 https://d1dqr580c2izza.cloudfront.net/hls/canal3.m3u8
@@ -424,17 +414,10 @@ https://d1dqr580c2izza.cloudfront.net/hls/canal3.m3u8
 #EXTINF:-1 group-title="Latino", Telecinco 
 https://videohd.live:19360/8016/8016.m3u8
 
-#EXTINF:-1 group-title="Latino", TV TEVEPRIME
-https://tv.clientetvstudio.net:3489/live/tvprimecllive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="Latino", TeleSiete 
 https://dy434h3s52eoj.cloudfront.net/Canal7GT/d84b644e13e68dd78dfcb9a0cf0338f1.sdp/Canal7GT/Canal7GT2/chunks.m3u8
 
-#EXTINF:-1 group-title="Latino" , TV Centro 7.1
-https://cloud2.streaminglivehd.com:1936/8032/8032/playlist.m3u8
-
-#EXTINF:-1 group-title="Latino" , TV Centro 7.2
-https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8
 
 #EXTINF:-1 group-title="Latino", Teletica 7
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
@@ -448,13 +431,6 @@ https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Latino" , Canal 11 
 https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Latino" , Canal 12 SV
-https://d3kk75blondskv.cloudfront.net/hls/canal12.m3u8
-
-
-
-#EXTINF:-1 group-title="Latino", America tV
-https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 
 
 
@@ -470,7 +446,7 @@ http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/13249
 #EXTINF:-1 group-title="Kids", Tooncast
 http://177.53.153.21:8001/play/a085/index.m3u8
 
-#EXTINF:-1 tvg-id="I170.11006.schedulesdirect.org",group-title="Kids", Nickelodeon 
+#EXTINF:-1 tvg-id="I170.11006.schedulesdirect.org", group-title="Kids", Nickelodeon 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="Kids", 90s Kids
