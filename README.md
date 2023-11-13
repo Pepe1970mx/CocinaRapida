@@ -214,25 +214,25 @@ https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/27922
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" group-title="Sports", Espn Deportes 
-http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12280
+http://sysadminhost.net:8080/F17425/8ffdb770/6446
 
 #EXTINF:-1 group-title="Sports", Fox Sport Latinoamerica
-http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12257
+http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/43739
 
 #EXTINF:-1 group-title="Sports", Fox sport 2 Latinoamerica
-http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12259
+http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/43736
 
 #EXTINF:-1 group-title="Sports", Fox sport 3 Latinoamerica
-http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12258
+http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/43738
 
 #EXTINF:-1 group-title="Sports", Espn Latinoamerica
-http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12278
+
 
 #EXTINF:-1 group-title="Sports", Espn 2 Latinoamerica
-http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12283
+http://sysadminhost.net:8080/F17425/8ffdb770/3031
 
 #EXTINF:-1 group-title="Sports", Espn 3 Latinoamerica
-http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12281
+http://sysadminhost.net:8080/F17425/8ffdb770/3032
 
 #EXTINF:-1 group-title="Sports", Tudn
 http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/43732
@@ -276,13 +276,13 @@ http://515860080856321307.of23103.xyz:80/play/XDH31455298/664585696/321307.ts
 http://515860080856321339.of23103.xyz:80/play/XDH31455298/664585696/321339.ts
 
 #EXTINF:-1 group-title="De Paga" , Star Channels
-http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12138
+
 
 #EXTINF:-1 group-title="De Paga" , Warner Channel
-http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12097
+
 
 #EXTINF:-1 group-title="De Paga" , TNT
-http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/13293
+
 
 #EXTINF:-1 group-title="De Paga" ,Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
@@ -309,19 +309,19 @@ https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 http://177.53.153.21:8001/play/a085/index.m3u8
 
 #EXTINF:-1 group-title="De Paga" , Nick
-http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/29560
+
 
 #EXTINF:-1 group-title="De Paga" , Universal Kid
-http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12156
-
-#EXTINF:-1 group-title="De Paga" ,
 
 
 #EXTINF:-1 group-title="De Paga" ,
 
 
-#EXTINF:-1 group-title="De Paga" ,
+#EXTINF:-1 group-title="De Paga" , Disney Channels Es
+http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/452
 
+#EXTINF:-1 group-title="De Paga" , Nickelodeon Es
+http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/446
 
 
 #EXTINF:-1 group-title="De Paga" ,
