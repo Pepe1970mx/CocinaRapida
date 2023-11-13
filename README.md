@@ -447,7 +447,7 @@ http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/13249
 http://177.53.153.21:8001/play/a085/index.m3u8
 
 #EXTINF:-1 tvg-id="I170.11006.schedulesdirect.org", group-title="Kids", Nickelodeon 
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+https://i.mjh.nz/PlutoTV/5d8d08395f39465da6fb3ec4-alt.m3u8
 
 #EXTINF:-1 group-title="Kids", 90s Kids
 https://i.mjh.nz/PlutoTV/6452c814939a590008567a3b-alt.m3u8
@@ -487,7 +487,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=654&avod=1&coppa=1&is_lat=
 https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8?ads.wurl_channel=1184&ads.wurl_name=PeliMex&ads.coppa=0&ads.device_id=9b43ed4af96bbfcbcf07eec0a811b26f&ads.dnt=0&ads.us_privacy=1yn-&ads.gdpr=0&ads.consent=1&ads.app_name=canelatv&ads.app_bundle=com.canela.ott&ads.app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&ads.ifa_type=dpid&ads.custom=%7BCUSTOM%7D&ads.device_make=&ads.device_model=&ads.content_livestream=1&ads.content_producer_name=0&ads.content_rating=not_rated&ads.language=en&ads.device_manufacturer=&ads.device_type=handset&ads.partner=internal&ads.platform=web&ads.device_width=1280&ads.device_height=720&timestamp=1694839009&id=38655&ip=201.148.42.147&override_expiration=1500&deliveryProfileId=23762&sign=5FwWTQiJh1MHp%2BII7o53LsRo2rhC%2FVkmXog7ZxKnQ5g%3D
 
 #EXTINF:-1 group-title="Movies" , Grjngo-Peliculas del Oeste
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63489eff90b96ef5e0eb3282.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=jVtQQEicKDo1wxCw8Qjz
+
 
 #EXTINF:-1 group-title="Movies" , Pluto TV Western
 https://i.mjh.nz/PlutoTV/6385e82900ab2e000768a058-alt.m3u8
@@ -527,8 +527,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lg
 
 
 
-#EXTINF:-1 group-title="Movies" , Accion Rakuten 
-https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="643054b1fc3be59477853717-627ad8d5448f0c9d080141f7" group-title="Movies" , Accion Rakuten 
+https://i.mjh.nz/Plex/643054b1fc3be59477853717-627ad8d5448f0c9d080141f7.m3u8
 
 #EXTINF:-1 group-title="Movies",Cine Sony 
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
@@ -536,28 +536,33 @@ https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 #EXTINF:-1 group-
 
 #EXTINF:-1 group-title="Movies", Pluto TV Cine Clásico 
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="5defde6d6c07b50009cf0757" tvg-chno="81" tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png" group title="Movies",Pluto TV Nuestro Cine 
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="5defde6d6c07b50009cf0757" group title="Movies",Pluto TV Nuestro Cine 
+
+#EXTINF:-1 tvg-id="5d8d180092e97a5e107638d3-alt" group title="Movies",Pluto TV Terror
+https://i.mjh.nz/PlutoTV/5d8d180092e97a5e107638d3-alt.m3u8
+
 
 #EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" tvg-chno="901" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png" group-title="Movies",Cine Premiere 
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="60fb2f47c133270007327375" tvg-chno="903" tvg-logo="https://images.pluto.tv/channels/60fb2f47c133270007327375/colorLogoPNG.png" group-title="Movies",Pelis y Popcorn 
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb2f47c133270007327375/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="60fb2f47c133270007327375" group-title="Movies",Pelis y Popcorn 
+https://i.mjh.nz/PlutoTV/60fb2f47c133270007327375-alt.m3u8
 
 #EXTINF:-1 tvg-id="5f1ac2591dd8880007bb7d6d" group-title="Movies", Pluto TV Cine Acción 
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="61b793ccf571b80007b7a610" tvg-chno="58" tvg-logo="https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png" group-title="Movies",Pluto TV Adrenalina Freezone 
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b793ccf571b80007b7a610/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="5f1ac8a87cd38d000745d7cf" tvg-chno="115" tvg-logo="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png" group-title="Movies",Pluto TV Thrillers 
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="61b793ccf571b80007b7a610" group-title="Movies",Pluto TV Adrenalina Freezone 
+https://i.mjh.nz/PlutoTV/5d8d164d92e97a5e107638d2-alt.m3u8
 
-#EXTINF:-1 tvg-id="5f6a38eaa5b68b0007a00e7a" tvg-chno="110" tvg-logo="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png" group-title="Movies",Pluto TV Sci-Fi 
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-id="5f1ac8a87cd38d000745d7cf" group-title="Movies",Pluto TV Thrillers 
+
+
+#EXTINF:-1 tvg-id="5f6a38eaa5b68b0007a00e7a" group-title="Movies",Pluto TV Sci-Fi 
+
 
 
 #EXTINF:-1 group-title="RETRO", RetroMagico 
