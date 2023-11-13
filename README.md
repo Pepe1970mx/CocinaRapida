@@ -3,32 +3,31 @@
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Como Dice el Dicho 
+#EXTINF:-1 tvg-id="USBD2700004ME" group-title="VARIEDADES" , Como Dice el Dicho 
 https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
-![IMG-20231112-WA0018](https://github.com/Pepe1970mx/CocinaRapida/assets/69221763/b5c21e9b-dbb3-4269-ad2b-3db5865c547f)
 
-#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Vix Ja ja Ja 
+#EXTINF:-1 tvg-id="3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd" group-title="VARIEDADES" , Vix Ja ja Ja 
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Distrito Comedia
 http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/13252
 
-#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Pluto TV Series Latinas 
+#EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" group-title="VARIEDADES" , Pluto TV Series Latinas 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed he/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Azteca Internacional
+#EXTINF:-1 tvg-id="3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou" group-title="VARIEDADES" , Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Clic
+#EXTINF:-1 tvg-id="4827" group-title="VARIEDADES" , Clic
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 
-#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Corazón
+#EXTINF:-1 tvg-id="3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw" group-title="VARIEDADES" , Corazón
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Cinema
+#EXTINF:-1 tvg-id="4829" group-title="VARIEDADES" , Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 
-#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Azteca Uno-1hora
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db" group-title="VARIEDADES" , Azteca Uno-1hora
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
 
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Azteca Uno 
@@ -472,6 +471,11 @@ https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8?PlaylistM
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1 tvg-logo=" " group-title="Movies" , TigueritosTV 
+https://ss9.domint.net:3012/ttv_str/%20tigueritotv/.m3u8
+
+#EXTINF:-1 group-title="Movies",Cine Sony 
+https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 
 #EXTINF:-1 group-title="Movies" , Canela Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1yn-&did=9b43ed4af96bbfcbcf07eec0a811b26f&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=es&site_page=https%253a%252f%252fwww.canela.tv%252f%253fsection%253dcanalesepg&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1694837990&id=34456&ip=201.148.42.147&override_expiration=1500&deliveryProfileId=23762&sign=ObGzNpFF8fg8b4ZyNTOqjh2Gmhd5fHMHg6tx9Gl0vI8%3D
@@ -483,6 +487,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397&avod=1&coppa=0&is_lat
 #EXTINF:-1 group-title="Movies" , Canela Familia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654&avod=1&coppa=1&is_lat=1&dnt=1&us_privacy=1---&did=9b43ed4af96bbfcbcf07eec0a811b26f&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=es&site_page=https%253a%252f%252fwww.canela.tv%252f%253fsection%253dcanelakids&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1694838782&id=13489&ip=201.148.42.147&override_expiration=1500&deliveryProfileId=23762&sign=1MazFi6NC4S08MxbWWzCoEOXqn1U3ga6IPnDAEeXTFY%3D
 
+
+#EXTINF:-1 tvg-id="643054b1fc3be59477853717-627ad8d5448f0c9d080141f7" group-title="Movies" , Accion Rakuten 
+https://i.mjh.nz/Plex/643054b1fc3be59477853717-627ad8d5448f0c9d080141f7.m3u8
+
+#EXTINF:-1 tvg-id="3722c60a815c199d9c0ef36c5b73da68a62b09d1" group-title="Movies", Runtime Accion
+https://d10po0m73eydog.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9veh3t1iih14b/ra_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
 #EXTINF:-1 group-title="Movies" , Pelimex
 https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8?ads.wurl_channel=1184&ads.wurl_name=PeliMex&ads.coppa=0&ads.device_id=9b43ed4af96bbfcbcf07eec0a811b26f&ads.dnt=0&ads.us_privacy=1yn-&ads.gdpr=0&ads.consent=1&ads.app_name=canelatv&ads.app_bundle=com.canela.ott&ads.app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&ads.ifa_type=dpid&ads.custom=%7BCUSTOM%7D&ads.device_make=&ads.device_model=&ads.content_livestream=1&ads.content_producer_name=0&ads.content_rating=not_rated&ads.language=en&ads.device_manufacturer=&ads.device_type=handset&ads.partner=internal&ads.platform=web&ads.device_width=1280&ads.device_height=720&timestamp=1694839009&id=38655&ip=201.148.42.147&override_expiration=1500&deliveryProfileId=23762&sign=5FwWTQiJh1MHp%2BII7o53LsRo2rhC%2FVkmXog7ZxKnQ5g%3D
 
@@ -493,10 +504,9 @@ https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/
 https://i.mjh.nz/PlutoTV/6385e82900ab2e000768a058-alt.m3u8
 
 #EXTINF:-1 group-title="Movies" , Pluto TV Cine Acción 
-https://service-
 
-#EXTINF:-1 group-title="Movies", Runtime Accion
-https://d10po0m73eydog.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9veh3t1iih14b/ra_es.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+
 
 
 
@@ -509,8 +519,7 @@ https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
 #EXTINF:-1 group-title="Movies", Xtrema Cine Accion
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Movies" , TigueritosTV 
-https://ss9.domint.net:3012/ttv_str/%20tigueritotv/.m3u8
+
 
 
 
@@ -527,11 +536,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lg
 
 
 
-#EXTINF:-1 tvg-id="643054b1fc3be59477853717-627ad8d5448f0c9d080141f7" group-title="Movies" , Accion Rakuten 
-https://i.mjh.nz/Plex/643054b1fc3be59477853717-627ad8d5448f0c9d080141f7.m3u8
 
-#EXTINF:-1 group-title="Movies",Cine Sony 
-https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
+
+
 
 #EXTINF:-1 group-
 
