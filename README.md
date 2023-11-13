@@ -318,8 +318,8 @@ http://177.53.153.21:8001/play/a085/index.m3u8
 #EXTINF:-1 group-title="De Paga" , Universal Kid
 
 
-#EXTINF:-1 group-title="De Paga" ,
-
+#EXTINF:-1 group-title="De Paga" , Boing
+https://tvup-live.secure2.footprint.net/boing/video1_init_r0s65420c0b.mp4
 
 #EXTINF:-1 group-title="De Paga" , Disney Channels Es
 http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/452
@@ -328,11 +328,11 @@ http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/452
 http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/446
 
 
-#EXTINF:-1 group-title="De Paga" ,
+#EXTINF:-1 group-title="De Paga" , Clan
+https://tvup-live.secure.footprint.net/clan/video0_init_r0s65133702.mp4
 
-
-
-
+#EXTINF:-1 group-title="De Paga" , Clan Internacional
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_360.m3u8
 
 
 
