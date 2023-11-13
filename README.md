@@ -5,6 +5,7 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Como Dice el Dicho 
 https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
+![IMG-20231112-WA0018](https://github.com/Pepe1970mx/CocinaRapida/assets/69221763/b5c21e9b-dbb3-4269-ad2b-3db5865c547f)
 
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Vix Ja ja Ja 
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
@@ -211,7 +212,7 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="Sports", Fox Sports Premium
-http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/27922
+
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" group-title="Sports", Espn Deportes 
 http://sysadminhost.net:8080/F17425/8ffdb770/6446
@@ -267,13 +268,10 @@ https://live.field59.com/wapa/wapa2/.m3u8
 #EXTINF:-1 group-title="De Paga", AMC
 http://515860080856321103.of23103.xyz:80/play/XDH31455298/664585696/321103.ts
 
-#EXTINF:-1 group-title="España", Alquiler
-http://515860080856267808.of23103.xyz:80/play/XDH31455298/664585696/267808.ts
-
 #EXTINF:-1 tvg-id="I241.102862.schedulesdirect.org" group-title="De Paga", Fox
 http://515860080856321252.of23103.xyz:80/play/XDH31455298/664585696/321252.ts
 
-#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" group-title="De Paga", M+ Accion SD
+#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" group-title="De Paga", M+ Accion 
 http://515860080856321307.of23103.xyz:80/play/XDH31455298/664585696/321307.ts
 
 #EXTINF:-1 group-title="De Paga", M+ Estrenos
@@ -319,7 +317,7 @@ http://177.53.153.21:8001/play/a085/index.m3u8
 
 
 #EXTINF:-1 group-title="De Paga" , Boing
-https://tvup-live.secure2.footprint.net/boing/video1_init_r0s65420c0b.mp4
+
 
 #EXTINF:-1 group-title="De Paga" , Disney Channels Es
 http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/452
@@ -329,7 +327,8 @@ http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/446
 
 
 #EXTINF:-1 group-title="De Paga" , Clan
-https://tvup-live.secure.footprint.net/clan/video0_init_r0s65133702.mp4
+https://tvup-live.secure.footprint.net/clan/clan.mpd
+
 
 #EXTINF:-1 group-title="De Paga" , Clan Internacional
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_360.m3u8
