@@ -259,20 +259,24 @@ http://515860080856165393.of23103.xyz:80/play/XDH31455298/664585696/165393.ts
 #EXTINF:-1 group-title="Sports", Golazo Network 
 https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
 
+#EXTINF:-1 group-title="Sports", Wapa Deportes
+https://live.field59.com/wapa/wapa2/.m3u8
 
-#EXTINF:-1 group-title="España", AMC
+
+
+#EXTINF:-1 group-title="De Paga", AMC
 http://515860080856321103.of23103.xyz:80/play/XDH31455298/664585696/321103.ts
 
 #EXTINF:-1 group-title="España", Alquiler
 http://515860080856267808.of23103.xyz:80/play/XDH31455298/664585696/267808.ts
 
-#EXTINF:-1 tvg-id="I241.102862.schedulesdirect.org" group-title="España", Fox
+#EXTINF:-1 tvg-id="I241.102862.schedulesdirect.org" group-title="De Paga", Fox
 http://515860080856321252.of23103.xyz:80/play/XDH31455298/664585696/321252.ts
 
-#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" group-title="España", M+ Accion SD
+#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" group-title="De Paga", M+ Accion SD
 http://515860080856321307.of23103.xyz:80/play/XDH31455298/664585696/321307.ts
 
-#EXTINF:-1 group-title="España", M+ Estrenos
+#EXTINF:-1 group-title="De Paga", M+ Estrenos
 http://515860080856321339.of23103.xyz:80/play/XDH31455298/664585696/321339.ts
 
 #EXTINF:-1 group-title="De Paga" , Star Channels
