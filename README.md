@@ -6,22 +6,22 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="USBD2700004ME" group-title="VARIEDADES" , Como Dice el Dicho 
 https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
 
-#EXTINF:-1 tvg-id="3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd" group-title="VARIEDADES" , Vix Ja ja Ja 
+#EXTINF:-1 tvg-id="3722c60a815c199d9c0ef36c5b73da68a62b09d1" group-title="VARIEDADES" , Vix Ja ja Ja 
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Distrito Comedia
-http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/13252
+
 
 #EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" group-title="VARIEDADES" , Pluto TV Series Latinas 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed he/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou" group-title="VARIEDADES" , Azteca Internacional
+#EXTINF:-1 tvg-id="3722c60a815c199d9c0ef36c5b73da68a62b09d1" group-title="VARIEDADES" , Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-id="4827" group-title="VARIEDADES" , Clic
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 
-#EXTINF:-1 tvg-id="3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw" group-title="VARIEDADES" , Corazón
+#EXTINF:-1 tvg-id="3722c60a815c199d9c0ef36c5b73da68a62b09d1" group-title="VARIEDADES" , Corazón
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-id="4829" group-title="VARIEDADES" , Cinema
@@ -67,7 +67,7 @@ http://013tv.com:8080/1380d4eb/3fc3b12a1a/298919
 #EXTINF:-1 tvg-id="I469" group-title="VARIEDADES", MVS TV 
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
-#EXTINF:-1 tvg-id=""group-title="VARIEDADES", Canal Once 
+#EXTINF:-1 tvg-id=" "group-title="VARIEDADES", Canal Once 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Canal 12 Tijuana
@@ -226,20 +226,20 @@ http://sysadminhost.net:8080/F17425/8ffdb770/3032
 #EXTINF:-1 group-title="Sports", Tudn
 http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/43732
 
-#EXTINF:-1 group-title="Sports", Zona Tudn
+#EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona Tudn
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
 
-#EXTINF:-1 group-title="Sports", ITV Deportes
+#EXTINF:-1 tvg-id="63f7e3f9dff38e00082a57af-alt" group-title="Sports", ITV Deportes
 https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
 
-#EXTINF:-1 group-title="Sports", AyM sports
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0"  group-title="Sports", AyM sports
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
 
 #EXTINF:-1 group-title="Sports", Canela Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5759&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1yn-&did=d1803778a69275cf9da2af4715e1c2b2&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=en&site_page=https%253a%252f%252fwww.canela.tv%252f%253fsection%253dsportssection&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1697474625&id=53740&ip=200.71.109.253&override_expiration=1500&deliveryProfileId=23762&sign=WcioE8of0DsQAGXKmYdEd82TA8K5Z%2B%2B3ZTPRAQvbHbs%3D
 
-#EXTINF:-1 group-title="Sports", beIN Sport Xtra en Español
+#EXTINF:-1 "60492fdd9989d30007ccd30a-alt" group-title="Sports", beIN Sport Xtra en Español
 https://i.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 
 #EXTINF:-1 group-title="Sports", M+ La Liga
