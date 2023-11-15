@@ -314,8 +314,8 @@ http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/452
 http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/446
 
 
-#EXTINF:-1 group-title="De Paga" , Clan
-https://tvup-live.secure.footprint.net/clan/clan.m3u
+#EXTINF:-1 tvg-id="ESBC4100003WE" group-title="De Paga" , Clan
+https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
 
 
 #EXTINF:-1 group-title="De Paga" , Clan Internacional
@@ -326,10 +326,10 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_360.m3
 
 
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", AMC en Español
+#EXTINF:-1 tvg-id="3722c60a815c199d9c0ef36c5b73da68a62b09d1"  group-title="ENTRETENIMIENTO", AMC en Español
 https://d38fxgxhpllpfu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4w47pf3x50sko/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Canela TV
+#EXTINF:-1 tvg-id="495e9b096e96cee4e541b0c2695a0fcb"  group-title="ENTRETENIMIENTO", Canela TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=653&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656898869&id=14603&ip=45.188.78.93&override_expiration=1500&sign=QHG86ZSmS8rAuOxLfYGQqULx0r1fVBqrLciVhkFN4vs%3D
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , ATV Sur
