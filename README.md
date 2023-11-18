@@ -437,23 +437,23 @@ https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 #EXTINF:-1 group-title="Kids", Moni TV 
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I176.60048.schedulesdirect.org", group-title="Kids", Cartoon Network 
+#EXTINF:-1 tvg-id="I176.60048.schedulesdirect.org", group-title="Kids", Pluto TV toons Clasico
+https://i.mjh.nz/PlutoTV/609e7e423e9173000706a681-alt.m3u8
 
-
-#EXTINF:-1 group-title="Kids", Disney Channels
-
+#EXTINF:-1 group-title="Kids", Pluto TV retro Cartoons
+https://i.mjh.nz/PlutoTV/2258a54aeb0007751c15.m3u8
 
 #EXTINF:-1 group-title="Kids", Nickelodeon Pluto TV
 https://i.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
 
-#EXTINF:-1 tvg-id="I170.11006.schedulesdirect.org", group-title="Kids", Nickelodeon 
+#EXTINF:-1 tvg-id="I170.11006.schedulesdirect.org", group-title="Kids", Nickelodeon en español 
 https://i.mjh.nz/PlutoTV/5d8d08395f39465da6fb3ec4-alt.m3u8
 
 #EXTINF:-1 group-title="Kids", Nickelodeon Clasico
 https://i.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2.m3u8
 
-
-
+EXTINF:-1 group-title="Kids", Pluto TV Series Retro
+https://i.mjh.nz/PlutoTV/5de802659167b10009e7deba.m3u8
 
 #EXTINF:-1 group-title="Kids", Xtrema Cartoons
 https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
