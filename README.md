@@ -30,7 +30,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db" group-title="VARIEDADES" , Azteca Uno-1hora
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
 
-#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Azteca Uno 
+#EXTINF:-1 tvg-id=" " group-title="VARIEDADES" , Azteca Uno 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Las Estrellas 
@@ -196,34 +196,34 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
 
 
-#EXTINF:-1 tvg-logo=" " group-title="Sports", Claro Sports
+#EXTINF:-1 tvg-id="" group-title="Sports", Claro Sports
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Sports", Fox Sports Premium
+#EXTINF:-1 tvg-id="" group-title="Sports", Fox Sports Premium
 
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" group-title="Sports", Espn Deportes 
 http://sysadminhost.net:8080/F17425/8ffdb770/6446
 
-#EXTINF:-1 group-title="Sports", Fox Sport Latinoamerica
+#EXTINF:-1 tvg-id="" group-title="Sports", Fox Sport Latinoamerica
 http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/43739
 
-#EXTINF:-1 group-title="Sports", Fox sport 2 Latinoamerica
+#EXTINF:-1 tvg-id="" group-title="Sports", Fox sport 2 Latinoamerica
 http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/43736
 
-#EXTINF:-1 group-title="Sports", Fox sport 3 Latinoamerica
+#EXTINF:-1 tvg-id="" group-title="Sports", Fox sport 3 Latinoamerica
 http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/43738
 
-#EXTINF:-1 group-title="Sports", Espn Latinoamerica
+#EXTINF:-1 tvg-id="" group-title="Sports", Espn Latinoamerica
 
 
-#EXTINF:-1 group-title="Sports", Espn 2 Latinoamerica
+#EXTINF:-1 tvg-id="" group-title="Sports", Espn 2 Latinoamerica
 http://sysadminhost.net:8080/F17425/8ffdb770/3031
 
-#EXTINF:-1 group-title="Sports", Espn 3 Latinoamerica
+#EXTINF:-1 tvg-id="" group-title="Sports", Espn 3 Latinoamerica
 http://sysadminhost.net:8080/F17425/8ffdb770/3032
 
-#EXTINF:-1 group-title="Sports", Tudn
+#EXTINF:-1 tvg-id="" group-title="Sports", Tudn
 http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/43732
 
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona Tudn
@@ -437,20 +437,22 @@ https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 #EXTINF:-1 group-title="Kids", Moni TV 
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I176.60048.schedulesdirect.org",group-title="Kids", Cartoon Network 
-http://177.53.153.21:8001/play/a03d/index.m3u8
+#EXTINF:-1 tvg-id="I176.60048.schedulesdirect.org", group-title="Kids", Cartoon Network 
+
 
 #EXTINF:-1 group-title="Kids", Disney Channels
-http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/13249
 
-#EXTINF:-1 group-title="Kids", Tooncast
-http://177.53.153.21:8001/play/a085/index.m3u8
+
+#EXTINF:-1 group-title="Kids", Nickelodeon Pluto TV
+https://i.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
 
 #EXTINF:-1 tvg-id="I170.11006.schedulesdirect.org", group-title="Kids", Nickelodeon 
 https://i.mjh.nz/PlutoTV/5d8d08395f39465da6fb3ec4-alt.m3u8
 
-#EXTINF:-1 group-title="Kids", 90s Kids
-https://i.mjh.nz/PlutoTV/6452c814939a590008567a3b-alt.m3u8
+#EXTINF:-1 group-title="Kids", Nickelodeon Clasico
+https://i.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2.m3u8
+
+
 
 
 #EXTINF:-1 group-title="Kids", Xtrema Cartoons
