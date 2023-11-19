@@ -256,6 +256,9 @@ https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
 
 
 
+EXTINF:-1 group-title="De Paga" , TNT Latinoamerica
+http://tv.nousiptv.com:8080/Veronicafleitas/2528/4010
+
 #EXTINF:-1 tvg-id="664585696" group-title="De Paga", AMC Es
 http://515860080856321103.of23103.xyz:80/play/XDH31455298/664585696/321103.ts
 
@@ -274,8 +277,7 @@ http://tv.nousiptv.com:8080/Veronicafleitas/2528/4022
 #EXTINF:-1 group-title="De Paga" , Universal Premier
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/1119204
 
-#EXTINF:-1 group-title="De Paga" , TNT Latinoamerica
-http://tv.nousiptv.com:8080/Veronicafleitas/2528/4010
+#
 
 #EXTINF:-1 group-title="De Paga" ,Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
