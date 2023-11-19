@@ -6,8 +6,8 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="USBD2700004ME" group-title="VARIEDADES" , Como Dice el Dicho 
 https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
 
-#EXTINF:-1 tvg-id="3722c60a815c199d9c0ef36c5b73da68a62b09d1" group-title="VARIEDADES" , Vix Jajaja 
-https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="USBC2100010OS" group-title="VARIEDADES" , ViX Jajaja 
+https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
 
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Distrito Comedia
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/4040
