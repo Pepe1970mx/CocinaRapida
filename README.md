@@ -452,7 +452,7 @@ https://i.mjh.nz/PlutoTV/5d8d08395f39465da6fb3ec4-alt.m3u8
 #EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="Kids", Nickelodeon Clasico
 https://i.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2.m3u8
 
-EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="Kids", Pluto TV Series Retro
+EXTINF:-1 tvg-id="5de802659167b10009e7deba" group-title="Kids", Pluto TV Series Retro
 https://i.mjh.nz/PlutoTV/5de802659167b10009e7deba.m3u8
 
 #EXTINF:-1 group-title="Kids", Xtrema Cartoons
