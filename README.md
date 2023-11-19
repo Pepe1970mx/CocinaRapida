@@ -10,7 +10,7 @@ https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Distrito Comedia
-
+http://tv.nousiptv.com:8080/Veronicafleitas/2528/4040
 
 #EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" group-title="VARIEDADES" , Pluto TV Series Latinas 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed he/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -254,10 +254,12 @@ https://live.field59.com/wapa/wapa2/.m3u8
 #EXTINF:-1 tvg-id="ESBC410000577" group-title="Sports",
 https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
 
-#EXTINF:-1 tvg-id="664585696" group-title="De Paga", AMC
+
+
+#EXTINF:-1 tvg-id="664585696" group-title="De Paga", AMC Es
 http://515860080856321103.of23103.xyz:80/play/XDH31455298/664585696/321103.ts
 
-#EXTINF:-1 tvg-id="I241.102862.schedulesdirect.org" group-title="De Paga", Fox
+#EXTINF:-1 tvg-id="I241.102862.schedulesdirect.org" group-title="De Paga", Fox Es
 http://515860080856321252.of23103.xyz:80/play/XDH31455298/664585696/321252.ts
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" group-title="De Paga", M+ Accion 
@@ -266,38 +268,38 @@ http://515860080856321307.of23103.xyz:80/play/XDH31455298/664585696/321307.ts
 #EXTINF:-1 group-title="De Paga", M+ Estrenos
 http://515860080856321339.of23103.xyz:80/play/XDH31455298/664585696/321339.ts
 
-#EXTINF:-1 group-title="De Paga" , Star Channels
+#EXTINF:-1 group-title="De Paga" , Star Channels Latinoamerica
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/4022
 
-#EXTINF:-1 group-title="De Paga" , Warner Channel
+#EXTINF:-1 group-title="De Paga" , Universal Premier
+http://tv.nousiptv.com:8080/Veronicafleitas/2528/1119204
 
-
-#EXTINF:-1 group-title="De Paga" , TNT
+#EXTINF:-1 group-title="De Paga" , TNT Latinoamerica
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/4010
 
 #EXTINF:-1 group-title="De Paga" ,Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="De Paga" , HBO Latino
-http://177.53.153.21:8001/play/a03b/index.m3u8
+http://tv.nousiptv.com:8080/Veronicafleitas/2528/1173791
 
 #EXTINF:-1 group-title="De Paga" , HBO 
-http://45.181.121.57:2909/play/017
+
 
 #EXTINF:-1 group-title="De Paga" , HBO 2 
-http://45.181.121.57:2909/play/021
+
 
 #EXTINF:-1 group-title="De Paga" , HBO Family 
-http://45.181.121.57:2909/play/018
+http://tv.nousiptv.com:8080/Veronicafleitas/2528/4017
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="De Paga", Cartoon Network 
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+http://tv.nousiptv.com:8080/Veronicafleitas/2528/1155850
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="De Paga", Cartoonito 
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 
 #EXTINF:-1 group-title="De Paga" , Tooncast 
-http://177.53.153.21:8001/play/a085/index.m3u8
+http://tv.nousiptv.com:8080/Veronicafleitas/2528/1155861
 
 #EXTINF:-1 group-title="De Paga" , Nick
 
@@ -320,7 +322,7 @@ https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
 
 
 #EXTINF:-1 group-title="De Paga" , Clan Internacional
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_360.m3u8
+
 
 
 
@@ -462,13 +464,13 @@ https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 https://movil.ejeserver.com/live/nets.m3u8
 
 #EXTINF:-1 group-title="Kids", Zaz TV
-https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
+
 
 #EXTINF:-1 group-title="Kids", Super Kaos TV
 https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids", 13 Kids
-https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 group-title="Kids" , Latino Kids
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
