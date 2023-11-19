@@ -6,7 +6,7 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="USBD2700004ME" group-title="VARIEDADES" , Como Dice el Dicho 
 https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
 
-#EXTINF:-1 tvg-id="3722c60a815c199d9c0ef36c5b73da68a62b09d1" group-title="VARIEDADES" , Vix Ja ja Ja 
+#EXTINF:-1 tvg-id="3722c60a815c199d9c0ef36c5b73da68a62b09d1" group-title="VARIEDADES" , Vix Jajaja 
 https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Distrito Comedia
@@ -22,7 +22,7 @@ https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 
 #EXTINF:-1 tvg-id="3722c60a815c199d9c0ef36c5b73da68a62b09d1" group-title="VARIEDADES" , Corazón
-https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73dai ir68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-id="4829" group-title="VARIEDADES" , Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
@@ -254,7 +254,7 @@ https://live.field59.com/wapa/wapa2/.m3u8
 #EXTINF:-1 tvg-id="ESBC410000577" group-title="Sports",
 https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
 
-#EXTINF:-1 group-title="De Paga", AMC
+#EXTINF:-1 tvg-id="664585696" group-title="De Paga", AMC
 http://515860080856321103.of23103.xyz:80/play/XDH31455298/664585696/321103.ts
 
 #EXTINF:-1 tvg-id="I241.102862.schedulesdirect.org" group-title="De Paga", Fox
@@ -437,22 +437,22 @@ https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 #EXTINF:-1 group-title="Kids", Moni TV 
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I176.60048.schedulesdirect.org", group-title="Kids", Pluto TV toons Clasico
+#EXTINF:-1 tvg-id="609e7e423e9173000706a681-alt" group-title="Kids", Pluto TV toons Clasico
 https://i.mjh.nz/PlutoTV/609e7e423e9173000706a681-alt.m3u8
 
-#EXTINF:-1 group-title="Kids", Pluto TV retro Cartoons
+#EXTINF:-1 tvg-id="2258a54aeb0007751c15" group-title="Kids", Pluto TV retro Cartoons
 https://i.mjh.nz/PlutoTV/2258a54aeb0007751c15.m3u8
 
-#EXTINF:-1 group-title="Kids", Nickelodeon Pluto TV
+#EXTINF:-1 tvg-id="645952687cb4b100084ed52e-alt" group-title="Kids", Nickelodeon Pluto TV
 https://i.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
 
-#EXTINF:-1 tvg-id="I170.11006.schedulesdirect.org", group-title="Kids", Nickelodeon en español 
+#EXTINF:-1 tvg-id="5d8d08395f39465da6fb3ec4-alt" group-title="Kids", Nickelodeon en español 
 https://i.mjh.nz/PlutoTV/5d8d08395f39465da6fb3ec4-alt.m3u8
 
-#EXTINF:-1 group-title="Kids", Nickelodeon Clasico
+#EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="Kids", Nickelodeon Clasico
 https://i.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2.m3u8
 
-EXTINF:-1 group-title="Kids", Pluto TV Series Retro
+EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="Kids", Pluto TV Series Retro
 https://i.mjh.nz/PlutoTV/5de802659167b10009e7deba.m3u8
 
 #EXTINF:-1 group-title="Kids", Xtrema Cartoons
@@ -554,16 +554,16 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lg
 https://i.mjh.nz/PlutoTV/5d8d180092e97a5e107638d3-alt.m3u8
 
 
-#EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" tvg-chno="901" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png" group-title="Movies",Cine Premiere 
+#EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" group-title="Movies",Cine Premiere 
 
 
-#EXTINF:-1 tvg-id="60fb2f47c133270007327375" group-title="Movies",Pelis y Popcorn 
+#EXTINF:-1 tvg-id="60fb2f47c133270007327375-alt" group-title="Movies",Pelis y Popcorn 
 https://i.mjh.nz/PlutoTV/60fb2f47c133270007327375-alt.m3u8
 
 #EXTINF:-1 tvg-id="5f1ac2591dd8880007bb7d6d" group-title="Movies", Pluto TV Cine Acción 
 
 
-#EXTINF:-1 tvg-id="61b793ccf571b80007b7a610" group-title="Movies",Pluto TV Adrenalina Freezone 
+#EXTINF:-1 "5d8d164d92e97a5e107638d2-alt" group-title="Movies",Pluto TV Adrenalina Freezone 
 https://i.mjh.nz/PlutoTV/5d8d164d92e97a5e107638d2-alt.m3u8
 
 
