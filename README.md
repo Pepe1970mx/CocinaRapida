@@ -12,20 +12,20 @@ https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Distrito Comedia
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/4040
 
-#EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" group-title="VARIEDADES" , Pluto TV Series Latinas 
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed he/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="5dd837642c6e9300098ad484-alt" group-title="VARIEDADES" , Pluto TV Series Latinas
+https://i.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
 
-#EXTINF:-1 tvg-id="3722c60a815c199d9c0ef36c5b73da68a62b09d1" group-title="VARIEDADES" , Azteca Internacional
-https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ESBD1300004IG" group-title="VARIEDADES" , Azteca Internacional
+https://i.mjh.nz/SamsungTVPlus/ESBD1300004IG.m3u8
 
-#EXTINF:-1 tvg-id="4827" group-title="VARIEDADES" , Clic
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6469502df73356567a64ce8e" group-title="VARIEDADES" , Clic
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6469502df73356567a64ce8e.m3u8
 
-#EXTINF:-1 tvg-id="3722c60a815c199d9c0ef36c5b73da68a62b09d1" group-title="VARIEDADES" , Corazón
-https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73dai ir68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="ESBD1300003VN" group-title="VARIEDADES" , Corazón
+https://i.mjh.nz/SamsungTVPlus/ESBD1300003VN.m3u8
 
-#EXTINF:-1 tvg-id="4829" group-title="VARIEDADES" , Cinema
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64695233f73356567a64ce90" group-title="VARIEDADES" , Cinema
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64695233f73356567a64ce90.m3u8
 
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db" group-title="VARIEDADES" , Azteca Uno-1hora
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
@@ -67,12 +67,8 @@ http://013tv.com:8080/1380d4eb/3fc3b12a1a/298919
 #EXTINF:-1 tvg-id="I469" group-title="VARIEDADES", MVS TV 
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
-#EXTINF:-1 tvg-id=" "group-title="VARIEDADES", Canal Once 
+#EXTINF:-1 tvg-id=" " group-title="VARIEDADES", Canal Once 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Canal 12 Tijuana
-https://ythls.onrender.com/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
-
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Canal 13 Puebla
 https://dbdfj5y8nz2u4.cloudfront.net/c13tabasco/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
