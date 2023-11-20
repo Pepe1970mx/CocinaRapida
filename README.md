@@ -444,8 +444,12 @@ https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 #EXTINF:-1 tvg-id="609e7e423e9173000706a681-alt" group-title="Kids", Pluto TV toons Clasico
 https://i.mjh.nz/PlutoTV/609e7e423e9173000706a681-alt.m3u8
 
-#EXTINF:-1 tvg-id="2258a54aeb0007751c15" group-title="Kids", Pluto TV retro Cartoons
-https://i.mjh.nz/PlutoTV/2258a54aeb0007751c15.m3u8
+#EXTINF:-1 tvg-id="60142258a54aeb0007751c15-alt" group-title="Kids", Pluto TV retro Cartoons
+https://i.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
+
+#EXTINF:-1 tvg-id="60142258a54aeb0007751c15-alt" group-title="Kids", Pluto TV Series Retro 
+https://i.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
+
 
 #EXTINF:-1 tvg-id="645952687cb4b100084ed52e-alt" group-title="Kids", Nickelodeon Pluto TV
 https://i.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
