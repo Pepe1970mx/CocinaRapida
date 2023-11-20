@@ -489,7 +489,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134&avod=1&coppa=0&is_lat
 
 
 #EXTINF:-1 group-title="Movies" , Acción Mexicana
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1yn-&did=9b43ed4af96bbfcbcf07eec0a811b26f&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=en&site_page=https%253a%252f%252fwww.canela.tv%252f%253fsection%253dcanalesepg&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1694838351&id=51367&ip=201.148.42.147&override_expiration=1500&deliveryProfileId=23762&sign=FUb7GjYJO6ib%2BO5NtKFL0JklQN794s1JGMJJkqVIESE%3D
+
+
 
 #EXTINF:-1 group-title="Movies" , Canela Familia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654&avod=1&coppa=1&is_lat=1&dnt=1&us_privacy=1---&did=9b43ed4af96bbfcbcf07eec0a811b26f&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=es&site_page=https%253a%252f%252fwww.canela.tv%252f%253fsection%253dcanelakids&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1694838782&id=13489&ip=201.148.42.147&override_expiration=1500&deliveryProfileId=23762&sign=1MazFi6NC4S08MxbWWzCoEOXqn1U3ga6IPnDAEeXTFY%3D
@@ -513,12 +514,6 @@ https://i.mjh.nz/PlutoTV/6385e82900ab2e000768a058-alt.m3u8
 #EXTINF:-1 group-title="Movies" , Pluto TV Cine Acción 
 
 
-
-
-
-
-
-
 #EXTINF:-1 group-title="Movies", Xtrema Cine Familia
 https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
 
@@ -534,7 +529,7 @@ https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="Movies" , Estrella TV cine
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8p
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies", Pluto TV Cine Estelar 
 
@@ -559,7 +554,7 @@ https://i.mjh.nz/PlutoTV/5d8d180092e97a5e107638d3-alt.m3u8
 
 
 #EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" group-title="Movies",Cine Premiere 
-
+https://i.mjh.nz/PlutoTV/5cf968040ab7d8f181e6a68b-alt.m3u8
 
 #EXTINF:-1 tvg-id="60fb2f47c133270007327375-alt" group-title="Movies",Pelis y Popcorn 
 https://i.mjh.nz/PlutoTV/60fb2f47c133270007327375-alt.m3u8
@@ -577,6 +572,12 @@ https://i.mjh.nz/PlutoTV/5d8d164d92e97a5e107638d2-alt.m3u8
 
 #EXTINF:-1 tvg-id="5f6a38eaa5b68b0007a00e7a" group-title="Movies",Pluto TV Sci-Fi 
 
+#EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9-alt" group-title="Movies", Los Tres Chiflados
+https://i.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
+
+
+#EXTINF:-1 tvg-id="60f58f2278490000079bc47b-alt" group-title="Movies", La Niñera
+https://i.mjh.nz/PlutoTV/60f58f2278490000079bc47b-alt.m3u8
 
 
 #EXTINF:-1 group-title="RETRO", RetroMagico 
