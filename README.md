@@ -106,7 +106,7 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8?
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , Multimedios Plus
 https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w2102162107.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", Nuestra Vision 
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64878a0108027d895721403b" group-title="VARIEDADES", Nuestra Vision 
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Canal 57
@@ -127,8 +127,9 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62683
 #EXTINF:-1 group-title="VARIEDADES", Teleonce Univision PR
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", ESTRELLA TV
-https://estrellatv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="USBA300040WR" group-title="VARIEDADES", ESTRELLA TV
+https://i.mjh.nz/SamsungTVPlus/USBA300040WR.m3u8
+
 
 #EXTINF:-1 group-title="VARIEDADES" , Wapa
 https://live.field59.com/wapa/wapa1/playlist.m3u8
@@ -149,50 +150,55 @@ https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Mariavision 
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS", Foro TV 
+#EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" group-title="NOTICIAS", Foro TV 
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS", Nmedia+ 
 https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS", ADN 40 
+#EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" group-title="NOTICIAS", ADN 40 
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS" , Milenio 
+#EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" group-title="NOTICIAS" , Milenio 
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS" , Teleformula 
+#EXTINF:-1 tvg-id="63d2c140c111bc0008cb890b-alt" group-title="NOTICIAS" , TeleFormula
 https://mdstrm.com/live-stream-playlist/61e1e088d04d7744686afc42.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS", TELEMUNDO AL DÍA 
+
+
+#EXTINF:-1 tvg-id="I2.schedulesdirect.org" group-title="NOTICIAS", TELEMUNDO AL DÍA 
 https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 
-#EXTINF:-1 group-title="NOTICIAS", El Financiero - Bloomberg 
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="NOTICIAS", El Financiero - Bloomberg 
 TV https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS", DW Español 
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="NOTICIAS", DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS", RT in Spanish 
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="NOTICIAS", RT in Spanish 
 https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS", N+
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS",  Exelsior TV
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="NOTICIAS",  Exelsior TV
 https://ythlsgo.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS", EuroNews en español 
+#EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" group-title="NOTICIAS", EuroNews en español 
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS", France 24 Español SD 
+#EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" group-title="NOTICIAS", France 24 Español SD 
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="NOTICIAS" , Mexiquense Noticias 
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
 
 
-#EXTINF:-1 tvg-id="" group-title="Sports", Claro Sports
+#EXTINF:-1 tvg-id="6320d2755e54db000783fd87-alt" group-title="Sports", Claro Sports
+https://i.mjh.nz/PlutoTV/6320d2755e54db000783fd87-alt.m3u8
+
+#EXTINF:-1 tvg-id="6320d2755e54db000783fd87-alt" group-title="Sports", Claro Sports
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Fox Sports Premium
@@ -232,8 +238,8 @@ https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0"  group-title="Sports", AyM sports
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
 
-#EXTINF:-1 tvg-id="d1803778a69275cf9da2af4715e1c2b2" group-title="Sports", Canela Deportes
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5759&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1yn-&did=d1803778a69275cf9da2af4715e1c2b2&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=en&site_page=https%253a%252f%252fwww.canela.tv%252f%253fsection%253dsportssection&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1697474625&id=53740&ip=200.71.109.253&override_expiration=1500&deliveryProfileId=23762&sign=WcioE8of0DsQAGXKmYdEd82TA8K5Z%2B%2B3ZTPRAQvbHbs%3D
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" group-title="Sports", Canela Deportes
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949.m3u8
 
 #EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a-alt" group-title="Sports", beIN Sport Xtra en Español
 https://i.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
@@ -488,13 +494,10 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/.m3u8
 #EXTINF:-1 group-title="Movies",Cine Sony 
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="Movies" , Canela Cinema
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1yn-&did=9b43ed4af96bbfcbcf07eec0a811b26f&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=es&site_page=https%253a%252f%252fwww.canela.tv%252f%253fsection%253dcanalesepg&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1694837990&id=34456&ip=201.148.42.147&override_expiration=1500&deliveryProfileId=23762&sign=ObGzNpFF8fg8b4ZyNTOqjh2Gmhd5fHMHg6tx9Gl0vI8%3D
-
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64fba5f3214cf8b3b54b5ecc" group-title="Movies" , Canela Cinema
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64fba5f3214cf8b3b54b5ecc.m3u8
 
 #EXTINF:-1 group-title="Movies" , Acción Mexicana
-
-
 
 #EXTINF:-1 tvg-id=" " group-title="Movies" , Canela Familia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654&avod=1&coppa=1&is_lat=1&dnt=1&us_privacy=1---&did=9b43ed4af96bbfcbcf07eec0a811b26f&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=es&site_page=https%253a%252f%252fwww.canela.tv%252f%253fsection%253dcanelakids&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1694838782&id=13489&ip=201.148.42.147&override_expiration=1500&deliveryProfileId=23762&sign=1MazFi6NC4S08MxbWWzCoEOXqn1U3ga6IPnDAEeXTFY%3D
