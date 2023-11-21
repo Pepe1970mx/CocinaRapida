@@ -247,7 +247,7 @@ https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
 #EXTINF:-1 group-title="Sports", Wapa Deportes
 https://live.field59.com/wapa/wapa2/.m3u8
 
-#EXTINF:-1 tvg-id="ESBC410000577" group-title="Sports",
+#EXTINF:-1 tvg-id="ESBC410000577" group-title="Sports", Teledeportes
 https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
 
 
