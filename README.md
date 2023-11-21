@@ -198,7 +198,7 @@ https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sports", Fox Sports Premium
 
 
-#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" group-title="Sports", Espn Deportes 
+#EXTINF:-1 tvg-id="I854.25595.schedulesdirect.org" group-title="Sports", Espn Deportes 
 http://sysadminhost.net:8080/F17425/8ffdb770/6446
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Fox Sport Latinoamerica
@@ -261,10 +261,10 @@ http://515860080856321103.of23103.xyz:80/play/XDH31455298/664585696/321103.ts
 #EXTINF:-1 tvg-id="I241.102862.schedulesdirect.org" group-title="De Paga", Fox Es
 http://515860080856321252.of23103.xyz:80/play/XDH31455298/664585696/321252.ts
 
-#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" group-title="De Paga", M+ Accion 
+#EXTINF:-1 tvg-id="I362.91183.schedulesdirect.org" group-title="De Paga", M+ Accion 
 http://515860080856321307.of23103.xyz:80/play/XDH31455298/664585696/321307.ts
 
-#EXTINF:-1 group-title="De Paga", M+ Estrenos
+#EXTINF:-1 tvg-id="I378.102940.schedulesdirect.org" group-title="De Paga", M+ Estrenos
 http://515860080856321339.of23103.xyz:80/play/XDH31455298/664585696/321339.ts
 
 #EXTINF:-1 group-title="De Paga" , Star Channels Latinoamerica
