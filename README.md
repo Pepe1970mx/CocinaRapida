@@ -241,13 +241,13 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" group-title="Sports", Canela Deportes
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949.m3u8
 
-#EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a-alt" group-title="Sports", beIN Sport Xtra en Español
+#EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" group-title="Sports", beIN Sport Xtra en Español
 https://i.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 
 #EXTINF:-1 group-title="Sports", M+ La Liga
 http://515860080856165393.of23103.xyz:80/play/XDH31455298/664585696/165393.ts
 
-#EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e-alt" group-title="Sports", Golazo Network 
+#EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network 
 https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
 
 #EXTINF:-1 group-title="Sports", Wapa Deportes
@@ -582,11 +582,11 @@ https://i.mjh.nz/PlutoTV/5d8d164d92e97a5e107638d2-alt.m3u8
 
 #EXTINF:-1 tvg-id="5f6a38eaa5b68b0007a00e7a" group-title="Movies",Pluto TV Sci-Fi 
 
-#EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9-alt" group-title="24/7", Los Tres Chiflados
+#EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="24/7", Los Tres Chiflados
 https://i.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
 
 
-#EXTINF:-1 tvg-id="60f58f2278490000079bc47b-alt" group-title="24/7", La Niñera
+#EXTINF:-1 tvg-id="60f58f2278490000079bc47b" group-title="24/7", La Niñera
 https://i.mjh.nz/PlutoTV/60f58f2278490000079bc47b-alt.m3u8
 
 
