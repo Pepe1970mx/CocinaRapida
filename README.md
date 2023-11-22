@@ -15,6 +15,13 @@ http://tv.nousiptv.com:8080/Veronicafleitas/2528/4040
 #EXTINF:-1 tvg-id="5dd837642c6e9300098ad484-alt" group-title="VARIEDADES" , Pluto TV Series Latinas
 https://i.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
 
+
+#EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" group-title="VARIEDADES" , Pluto TV Series Latinas 2
+https://i.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="ESBD1300004IG" group-title="VARIEDADES" , Azteca Internacional
 https://i.mjh.nz/SamsungTVPlus/ESBD1300004IG.m3u8
 
