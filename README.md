@@ -198,7 +198,7 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 #EXTINF:-1 tvg-id="6320d2755e54db000783fd87-alt" group-title="Sports", Claro Sports
 https://i.mjh.nz/PlutoTV/6320d2755e54db000783fd87-alt.m3u8
 
-#EXTINF:-1 tvg-id="6320d2755e54db000783fd87-alt" group-title="Sports", Claro Sports
+#EXTINF:-1 tvg-id="6320d2755e54db000783fd87-alt" group-title="Sports", Claro Sports 2
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Fox Sports Premium
