@@ -337,9 +337,6 @@ https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
 
 
 
-
-
-
 #EXTINF:-1 tvg-id="USBD7000017L" group-title="ENTRETENIMIENTO", AMC en Español
 https://i.mjh.nz/SamsungTVPlus/USBD7000017L.m3u8
 
