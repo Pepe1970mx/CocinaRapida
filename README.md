@@ -239,7 +239,7 @@ http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/43732
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
 
-#EXTINF:-1 tvg-id="63f7e3f9dff38e00082a57af-alt" group-title="Sports", ITV Deportes
+#EXTINF:-1 tvg-id="63f7e3f9dff38e00082a57af" group-title="Sports", ITV Deportes
 https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
 
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0"  group-title="Sports", AyM sports
@@ -451,20 +451,20 @@ https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 #EXTINF:-1 group-title="Kids", Moni TV 
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 
-#EXTINF:-1 tvg-id="609e7e423e9173000706a681-alt" group-title="Kids", Pluto TV toons Clasico
+#EXTINF:-1 tvg-id="609e7e423e9173000706a681" group-title="Kids", Pluto TV toons Clasico
 https://i.mjh.nz/PlutoTV/609e7e423e9173000706a681-alt.m3u8
 
-#EXTINF:-1 tvg-id="60142258a54aeb0007751c15-alt" group-title="Kids", Pluto TV retro Cartoons
+#EXTINF:-1 tvg-id="60142258a54aeb0007751c15" group-title="Kids", Pluto TV retro Cartoons
 https://i.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
 
-#EXTINF:-1 tvg-id="5de802659167b10009e7deba-alt" group-title="Kids", Pluto TV Series Retro 
+#EXTINF:-1 tvg-id="5de802659167b10009e7deba" group-title="Kids", Pluto TV Series Retro 
 https://i.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
 
 
-#EXTINF:-1 tvg-id="645952687cb4b100084ed52e-alt" group-title="Kids", Nickelodeon Pluto TV
+#EXTINF:-1 tvg-id="645952687cb4b100084ed52e" group-title="Kids", Nickelodeon Pluto TV
 https://i.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
 
-#EXTINF:-1 tvg-id="5d8d08395f39465da6fb3ec4-alt" group-title="Kids", Nickelodeon en español 
+#EXTINF:-1 tvg-id="5d8d08395f39465da6fb3ec4" group-title="Kids", Nickelodeon en español 
 https://i.mjh.nz/PlutoTV/5d8d08395f39465da6fb3ec4-alt.m3u8
 
 #EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="Kids", Nickelodeon Clasico
