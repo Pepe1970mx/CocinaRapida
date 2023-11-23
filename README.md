@@ -202,10 +202,10 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
 
 
-#EXTINF:-1 tvg-id="6320d2755e54db000783fd87-alt" group-title="Sports", Claro Sports
+#EXTINF:-1 tvg-id="6320d2755e54db000783fd87" group-title="Sports", Claro Sports
 https://i.mjh.nz/PlutoTV/6320d2755e54db000783fd87-alt.m3u8
 
-#EXTINF:-1 tvg-id="6320d2755e54db000783fd87-alt" group-title="Sports", Claro Sports 2
+#EXTINF:-1 tvg-id="6320d2755e54db000783fd87" group-title="Sports", Claro Sports 2
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Fox Sports Premium
@@ -529,7 +529,7 @@ https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="ESBC2700002LO" group-title="Movies" , Grjngo-Peliculas del Oeste
 https://i.mjh.nz/SamsungTVPlus/ESBC2700002LO.m3u8
 
-#EXTINF:-1 tvg-id="6385e82900ab2e000768a058-alt" group-title="Movies" , Pluto TV Western
+#EXTINF:-1 tvg-id="6385e82900ab2e000768a058" group-title="Movies" , Pluto TV Western
 https://i.mjh.nz/PlutoTV/6385e82900ab2e000768a058-alt.m3u8
 
 #EXTINF:-1 group-title="Movies" , Pluto TV Cine Acción 
@@ -566,20 +566,20 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lg
 
 #EXTINF:-1 tvg-id="5defde6d6c07b50009cf0757" group title="Movies",Pluto TV Nuestro Cine 
 
-#EXTINF:-1 tvg-id="5d8d180092e97a5e107638d3-alt" group title="Movies",Pluto TV Terror
+#EXTINF:-1 tvg-id="5d8d180092e97a5e107638d3" group title="Movies",Pluto TV Terror
 https://i.mjh.nz/PlutoTV/5d8d180092e97a5e107638d3-alt.m3u8
 
 
 #EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" group-title="Movies",Cine Premiere 
 https://i.mjh.nz/PlutoTV/5cf968040ab7d8f181e6a68b-alt.m3u8
 
-#EXTINF:-1 tvg-id="60fb2f47c133270007327375-alt" group-title="Movies",Pelis y Popcorn 
+#EXTINF:-1 tvg-id="60fb2f47c133270007327375" group-title="Movies",Pelis y Popcorn 
 https://i.mjh.nz/PlutoTV/60fb2f47c133270007327375-alt.m3u8
 
 #EXTINF:-1 tvg-id="5f1ac2591dd8880007bb7d6d" group-title="Movies", Pluto TV Cine Acción 
 
 
-#EXTINF:-1 "5d8d164d92e97a5e107638d2-alt" group-title="Movies",Pluto TV Adrenalina Freezone 
+#EXTINF:-1 "5d8d164d92e97a5e107638d2" group-title="Movies",Pluto TV Adrenalina Freezone 
 https://i.mjh.nz/PlutoTV/5d8d164d92e97a5e107638d2-alt.m3u8
 
 
