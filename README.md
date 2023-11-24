@@ -306,13 +306,13 @@ http://tv.nousiptv.com:8080/Veronicafleitas/2528/4017
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="De Paga", Cartoon Network 
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/1155850
 
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="De Paga", Cartoonito 
+#EXTINF:-1 tvg-id="I176.60048.schedulesdirect.org" tvg-logo=" " group-title="De Paga", Cartoonito 
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 
 #EXTINF:-1 group-title="De Paga" , Tooncast 
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/1155861
 
-#EXTINF:-1 group-title="De Paga" , Nick
+#EXTINF:-1 tvg-id="I170.11006.schedulesdirect.org" group-title="De Paga" , Nick
 
 
 #EXTINF:-1 group-title="De Paga" , Universal Kid
