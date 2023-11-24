@@ -12,11 +12,7 @@ https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Distrito Comedia
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/4040
 
-#EXTINF:-1 tvg-id="5dd837642c6e9300098ad484-alt" group-title="VARIEDADES" , Pluto TV Series Latinas
-https://i.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
-
-
-#EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" group-title="VARIEDADES" , Pluto TV Series Latinas 2
+#EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" group-title="VARIEDADES" , Pluto TV Series Latinas
 https://i.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
 
 
@@ -303,10 +299,10 @@ http://tv.nousiptv.com:8080/Veronicafleitas/2528/1173791
 #EXTINF:-1 group-title="De Paga" , HBO Family 
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/4017
 
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="De Paga", Cartoon Network 
+#EXTINF:-1 tvg-id="I176.60048.schedulesdirect.org" tvg-logo=" " group-title="De Paga", Cartoon Network 
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/1155850
 
-#EXTINF:-1 tvg-id="I176.60048.schedulesdirect.org" tvg-logo=" " group-title="De Paga", Cartoonito 
+#EXTINF:-1 tvg-id="I176.schedulesdirect.org" group-title="De Paga", Cartoonito 
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 
 #EXTINF:-1 group-title="De Paga" , Tooncast 
@@ -327,13 +323,8 @@ http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/452
 #EXTINF:-1 group-title="De Paga" , Nickelodeon Es
 http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/446
 
-
 #EXTINF:-1 tvg-id="ESBC4100003WE" group-title="De Paga" , Clan
 https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
-
-
-#EXTINF:-1 group-title="De Paga" , Clan Internacional
-
 
 
 
