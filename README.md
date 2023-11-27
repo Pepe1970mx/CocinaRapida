@@ -54,10 +54,10 @@ https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 group-title="VARIEDADES" , Azteca Monterrey 
 https://live.info7.mx/info7/stream.m3u8
 
-#EXTINF:-1 tvg-id="I4.104892.schedulesdirect.org" tvg-logo="https://i.imgur.com/SY3a9yU.png" group-title="VARIEDADES" , A MAS 
+#EXTINF:-1 tvg-id="I4.104892.schedulesdirect.org"a group-title="VARIEDADES" , A MAS 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 group-kktitle="VARIEDADES", IMTYR
+#EXTINF:-1 group-title="VARIEDADES", IMTYR
 https://stream8.mexiserver.com:1936/morelostv/morelostv/playlist.m3u8
 
 
@@ -70,16 +70,16 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 tvg-id=" " group-title="VARIEDADES", Canal Once 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", Canal 13 Puebla
+#EXTINF:-1 group-title="VARIEDADES", Canal 13 Puebla
 https://dbdfj5y8nz2u4.cloudfront.net/c13tabasco/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , Canal 14 
+#EXTINF:-1 group-title="VARIEDADES" , Canal 14 
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 
 #EXTINF:-1 tvg-id="I220.102415.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , CANAL 22 
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , Radio y Television de Veracruz (RTV) 
+#EXTINF:-1 group-title="VARIEDADES" , Radio y Television de Veracruz (RTV) 
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Telever
@@ -165,10 +165,11 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
 #EXTINF:-1 " tvg-id="3d2c140c111bc0008cb890b" group-title="NOTICIAS" , TeleFormula
-https://mdstrm.com/live-stream-playlist/61e1e088d04d7744686afc42.m3u8
+https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
 
-#EXTINF:-1 tvg-id="I2.schedulesdirect.org" group-title="NOTICIAS", TELEMUNDO AL DÍA 
-https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+
+#EXTINF:-1 tvg-id="USBB3200016HO" group-title="NOTICIAS", TELEMUNDO AL DÍA 
+https://i.mjh.nz/SamsungTVPlus/USBB3200016HO.m3u8
 
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="NOTICIAS", El Financiero - Bloomberg 
 TV https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
@@ -185,8 +186,8 @@ https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="NOTICIAS",  Exelsior TV
 https://ythlsgo.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
 
-#EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" group-title="NOTICIAS", EuroNews en español 
-https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ESAJ4500024LR" group-title="NOTICIAS", EuroNews en español 
+https://i.mjh.nz/SamsungTVPlus/ESAJ4500024LR.m3u8
 
 #EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" group-title="NOTICIAS", France 24 Español SD 
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
@@ -255,25 +256,11 @@ https://live.field59.com/wapa/wapa2/.m3u8
 #EXTINF:-1 tvg-id="ESBC410000577" group-title="Sports", Teledeportes
 https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
 
-
-
-EXTINF:-1 group-title="De Paga" , TNT Latinoamerica
-http://tv.nousiptv.com:8080/Veronicafleitas/2528/4010
-
-#EXTINF:-1 tvg-id="664585696" group-title="De Paga", AMC Es
-http://515860080856321103.of23103.xyz:80/play/XDH31455298/664585696/321103.ts
-
-#EXTINF:-1 tvg-id="I241.102862.schedulesdirect.org" group-title="De Paga", Fox Es
-http://515860080856321252.of23103.xyz:80/play/XDH31455298/664585696/321252.ts
-
-#EXTINF:-1 tvg-id="I362.91183.schedulesdirect.org" group-title="De Paga", M+ Accion 
-http://515860080856321307.of23103.xyz:80/play/XDH31455298/664585696/321307.ts
-
-#EXTINF:-1 tvg-id="I378.102940.schedulesdirect.org" group-title="De Paga", M+ Estrenos
-http://515860080856321339.of23103.xyz:80/play/XDH31455298/664585696/321339.ts
-
-#EXTINF:-1 group-title="De Paga" , Star Channels Latinoamerica
+#EXTINF:-1 tvg-id="" group-title="De Paga", Star Channels Latinoamerica
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/4022
+
+EXTINF:-1 tvg-id="" group-title="De Paga", TNT Latinoamerica
+http://tv.nousiptv.com:8080/Veronicafleitas/2528/4010
 
 #EXTINF:-1 group-title="De Paga" , Universal Premier
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/1119204
@@ -284,20 +271,41 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="De Paga" , HBO Latino
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/1173791
 
+#EXTINF:-1 group-title="De Paga" , HBO Family 
+http://tv.nousiptv.com:8080/Veronicafleitas/2528/4017
+
+
+
+#EXTINF:-1 tvg-id="664585696" group-title="De Paga", AMC Es
+
+
+#EXTINF:-1 tvg-id="I241.102862.schedulesdirect.org" group-title="De Paga", Fox Es
+
+
+#EXTINF:-1 tvg-id="I362.91183.schedulesdirect.org" group-title="De Paga", M+ Accion 
+
+
+#EXTINF:-1 tvg-id="I378.102940.schedulesdirect.org" group-title="De Paga", M+ Estrenos
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="De Paga" , HBO 
 
 
 #EXTINF:-1 group-title="De Paga" , HBO 2 
 
 
-#EXTINF:-1 group-title="De Paga" , HBO Family 
-http://tv.nousiptv.com:8080/Veronicafleitas/2528/4017
+
 
 #EXTINF:-1 tvg-id="I176.60048.schedulesdirect.org" tvg-logo=" " group-title="De Paga", Cartoon Network 
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/1155850
-
-#EXTINF:-1 tvg-id="I176.schedulesdirect.org" group-title="De Paga", Cartoonito 
-https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 
 #EXTINF:-1 group-title="De Paga" , Tooncast 
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/1155861
