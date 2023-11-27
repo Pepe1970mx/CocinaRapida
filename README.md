@@ -33,13 +33,13 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
 #EXTINF:-1 tvg-id=" " group-title="VARIEDADES" , Azteca Uno 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" group-title="VARIEDADES" , Las Estrellas 
+#EXTINF:-1 tvg-id="I403.16257.schedulesdirect.org" group-title="VARIEDADES" , Las Estrellas 
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
 
 #EXTINF:-1 group-title="VARIEDADES", Las estrellas Internacional
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Imagen TV HD 
+#EXTINF:-1 tvg-id="I385.101111.schedulesdirect.org" group-title="VARIEDADES" , Imagen TV HD 
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/4149
 
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Canal Cinco  
@@ -48,7 +48,7 @@ http://tv.nousiptv.com:8080/Veronicafleitas/2528/1155865
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Multimedios plus
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Duplicate XHIMT Canal 7 TV Azteca 
+#EXTINF:-1 tvg-id="I107.102406.schedulesdirect.org" group-title="VARIEDADES" , Duplicate XHIMT Canal 7 TV Azteca 
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES" , Azteca Monterrey 
@@ -67,16 +67,16 @@ http://013tv.com:8080/1380d4eb/3fc3b12a1a/298919
 #EXTINF:-1 tvg-id="I469" group-title="VARIEDADES", MVS TV 
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="VARIEDADES", Canal Once 
+#EXTINF:-1 tvg-id="I11.15178.schedulesdirect.org " group-title="VARIEDADES", Canal Once 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Canal 13 Puebla
 https://dbdfj5y8nz2u4.cloudfront.net/c13tabasco/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES" , Canal 14 
+#EXTINF:-1 tvg-id="I14.98192.schedulesdirect.org " group-title="VARIEDADES" , Canal 14 
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 
-#EXTINF:-1 tvg-id="I220.102415.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , CANAL 22 
+#EXTINF:-1 tvg-id="I100.91060.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , CANAL 22 
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES" , Radio y Television de Veracruz (RTV) 
