@@ -15,9 +15,6 @@ http://tv.nousiptv.com:8080/Veronicafleitas/2528/4040
 #EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" group-title="VARIEDADES" , Pluto TV Series Latinas
 https://i.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
 
-
-
-
 #EXTINF:-1 tvg-id="ESBD1300004IG" group-title="VARIEDADES" , Azteca Internacional
 https://i.mjh.nz/SamsungTVPlus/ESBD1300004IG.m3u8
 
@@ -30,7 +27,7 @@ https://i.mjh.nz/SamsungTVPlus/ESBD1300003VN.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64695233f73356567a64ce90" group-title="VARIEDADES" , Cinema
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64695233f73356567a64ce90.m3u8
 
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db" group-title="VARIEDADES" , Azteca Uno-1hora
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db" group-title="VARIEDADES" , Azteca Uno -1 hora
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
 
 #EXTINF:-1 tvg-id=" " group-title="VARIEDADES" , Azteca Uno 
@@ -40,7 +37,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
 
 #EXTINF:-1 group-title="VARIEDADES", Las estrellas Internacional
-
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Imagen TV HD 
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/4149
@@ -157,7 +154,9 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS", Nmedia+ 
-https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
+https://linear-301.frequency.stream/dist/vix/301/hls/master/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" group-title="NOTICIAS", ADN 40 
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
@@ -165,10 +164,8 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" group-title="NOTICIAS" , Milenio 
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-#EXTINF:-1 tvg-id="63d2c140c111bc0008cb890b-alt" group-title="NOTICIAS" , TeleFormula
+#EXTINF:-1 tvg-id="61e1e088d04d7744686afc42" group-title="NOTICIAS" , TeleFormula
 https://mdstrm.com/live-stream-playlist/61e1e088d04d7744686afc42.m3u8
-
-
 
 #EXTINF:-1 tvg-id="I2.schedulesdirect.org" group-title="NOTICIAS", TELEMUNDO AL DÍA 
 https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
@@ -202,22 +199,21 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 https://i.mjh.nz/PlutoTV/6320d2755e54db000783fd87-alt.m3u8
 
 #EXTINF:-1 tvg-id="6320d2755e54db000783fd87" group-title="Sports", Claro Sports 2
-https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
+http://45.5.117.182:8000/play/a0e5/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Fox Sports Premium
-
 
 #EXTINF:-1 tvg-id="I854.25595.schedulesdirect.org" group-title="Sports", Espn Deportes 
 http://sysadminhost.net:8080/F17425/8ffdb770/6446
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Fox Sport Latinoamerica
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/43739
+
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Fox sport 2 Latinoamerica
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/43736
+
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Fox sport 3 Latinoamerica
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/43738
+http://167.250.222.35:16000/play/a07u/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Espn Latinoamerica
 
