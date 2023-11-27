@@ -164,7 +164,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" group-title="NOTICIAS" , Milenio 
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-#EXTINF:-1 tvg-id="61e1e088d04d7744686afc42" group-title="NOTICIAS" , TeleFormula
+#EXTINF:-1 " tvg-id="3d2c140c111bc0008cb890b" group-title="NOTICIAS" , TeleFormula
 https://mdstrm.com/live-stream-playlist/61e1e088d04d7744686afc42.m3u8
 
 #EXTINF:-1 tvg-id="I2.schedulesdirect.org" group-title="NOTICIAS", TELEMUNDO AL DÍA 
