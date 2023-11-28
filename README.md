@@ -112,16 +112,16 @@ https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES", Canal 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Telemundo Internacional
+#EXTINF:-1 tvg-id="I634.64835.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Telemundo Internacional
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65880
 
 #EXTINF:-1 group-title="VARIEDADES", Telemundo PR 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES",  Univision Latino America
+#EXTINF:-1 tvg-id="I692.11118.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES",  Univision Latino America
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", Unimas
+#EXTINF:-1 tvg-id="I684.29058.schedulesdirect.org" group-title="VARIEDADES", Unimas
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62683
 
 #EXTINF:-1 group-title="VARIEDADES", Teleonce Univision PR
