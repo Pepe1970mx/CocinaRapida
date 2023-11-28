@@ -33,7 +33,7 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
 #EXTINF:-1 tvg-id="I85.46607.schedulesdirect.org" group-title="VARIEDADES" , Azteca Uno 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-id="I403.16257.schedulesdirect.org" group-title="VARIEDADES" , Las Estrellas 
+#EXTINF:-1 tvg-id="I2.16461.schedulesdirect.org" group-title="VARIEDADES" , Las Estrellas 
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
 
 #EXTINF:-1 tvg-id="I403.16257.schedulesdirect.org" group-title="VARIEDADES", Las estrellas Internacional
@@ -199,30 +199,30 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 #EXTINF:-1 tvg-id="6320d2755e54db000783fd87" group-title="Sports", Claro Sports
 https://i.mjh.nz/PlutoTV/6320d2755e54db000783fd87-alt.m3u8
 
-#EXTINF:-1 tvg-id="6320d2755e54db000783fd87" group-title="Sports", Claro Sports 2
+#EXTINF:-1 tvg-id="I143.119143.schedulesdirect.org" group-title="Sports", Claro Sports 2
 http://45.5.117.182:8000/play/a0e5/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports", Fox Sports Premium
+#EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" tvg-id="" group-title="Sports", Fox Sports Premium
 
 #EXTINF:-1 tvg-id="I854.25595.schedulesdirect.org" group-title="Sports", Espn Deportes 
 http://sysadminhost.net:8080/F17425/8ffdb770/6446
 
-#EXTINF:-1 tvg-id="" group-title="Sports", Fox Sport Latinoamerica
+#EXTINF:-1 tvg-id="I505.41677.schedulesdirect.org" group-title="Sports", Fox Sport Latinoamerica
 
 
-#EXTINF:-1 tvg-id="" group-title="Sports", Fox sport 2 Latinoamerica
+#EXTINF:-1 tvg-id="I506.66365.schedulesdirect.org" group-title="Sports", Fox sport 2 Latinoamerica
 
 
-#EXTINF:-1 tvg-id="" group-title="Sports", Fox sport 3 Latinoamerica
+#EXTINF:-1 tvg-id="I511.105006.schedulesdirect.org" group-title="Sports", Fox sport 3 Latinoamerica
 http://167.250.222.35:16000/play/a07u/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports", Espn Latinoamerica
+#EXTINF:-1 tvg-id="I509.19158.schedulesdirect.org" group-title="Sports", Espn Latinoamerica
 
 
-#EXTINF:-1 tvg-id="" group-title="Sports", Espn 2 Latinoamerica
+#EXTINF:-1 tvg-id="I508.37747.schedulesdirect.org" group-title="Sports", Espn 2 Latinoamerica
 http://sysadminhost.net:8080/F17425/8ffdb770/3031
 
-#EXTINF:-1 tvg-id="" group-title="Sports", Espn 3 Latinoamerica
+#EXTINF:-1 tvg-id="I510.79042.schedulesdirect.org" group-title="Sports", Espn 3 Latinoamerica
 http://sysadminhost.net:8080/F17425/8ffdb770/3032
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Tudn
