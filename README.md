@@ -30,7 +30,7 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64695233f73356567a64ce90.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db" group-title="VARIEDADES" , Azteca Uno -1 hora
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="VARIEDADES" , Azteca Uno 
+#EXTINF:-1 tvg-id="I85.46607.schedulesdirect.org" group-title="VARIEDADES" , Azteca Uno 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 tvg-id="I403.16257.schedulesdirect.org" group-title="VARIEDADES" , Las Estrellas 
@@ -45,7 +45,7 @@ http://tv.nousiptv.com:8080/Veronicafleitas/2528/4149
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Canal Cinco  
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/1155865
 
-#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Multimedios plus
+#EXTINF:-1 tvg-id="I439.99620.schedulesdirect.org" group-title="VARIEDADES" , Multimedios plus
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 #EXTINF:-1 tvg-id="I107.102406.schedulesdirect.org" group-title="VARIEDADES" , Duplicate XHIMT Canal 7 TV Azteca 
@@ -103,7 +103,7 @@ http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TVP 
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , Multimedios Plus
+#EXTINF:-1 tvg-id="I440.99621.schedulesdirect.org" group-title="VARIEDADES" , Canal 15 Coahuila
 https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w2102162107.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64878a0108027d895721403b" group-title="VARIEDADES", Nuestra Vision 
