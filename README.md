@@ -9,7 +9,7 @@ https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
 #EXTINF:-1 tvg-id="USBC2100010OS" group-title="VARIEDADES" , ViX Jajaja 
 https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
 
-#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Distrito Comedia
+#EXTINF:-1 tvg-id="I233.55980.schedulesdirect.org" group-title="VARIEDADES" , Distrito Comedia
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/4040
 
 #EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" group-title="VARIEDADES" , Pluto TV Series Latinas
@@ -36,7 +36,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="I403.16257.schedulesdirect.org" group-title="VARIEDADES" , Las Estrellas 
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
 
-#EXTINF:-1 group-title="VARIEDADES", Las estrellas Internacional
+#EXTINF:-1 tvg-id="I403.16257.schedulesdirect.org" group-title="VARIEDADES", Las estrellas Internacional
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I385.101111.schedulesdirect.org" group-title="VARIEDADES" , Imagen TV HD 
@@ -61,7 +61,7 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 https://stream8.mexiserver.com:1936/morelostv/morelostv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="I233.97020.schedulesdirect.org" group-title="VARIEDADES", 
+#EXTINF:-1 tvg-id="I233.97020.schedulesdirect.org" group-title="VARIEDADES", Canal Nu9ve
 http://013tv.com:8080/1380d4eb/3fc3b12a1a/298919
 
 #EXTINF:-1 tvg-id="I448.15213.schedulesdirect.org" group-title="VARIEDADES", MVS TV 
@@ -79,7 +79,7 @@ https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 #EXTINF:-1 tvg-id="I100.91060.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , CANAL 22 
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES" , Radio y Television de Veracruz (RTV) 
+#EXTINF:-1 tvg-id="I503.36479.schedulesdirect.org" group-title="VARIEDADES" , Radio y Television de Veracruz (RTV) 
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Telever
@@ -91,13 +91,13 @@ https://ythlsgo.onrender.com/channel/UCQ08tNTPiBn44c975S81ftg.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Quiero TV
 
-#EXTINF:-1 group-title="VARIEDADES" , TV Mexiquense 
+#EXTINF:-1 tvg-id="I34.28440.schedulesdirect.org" group-title="VARIEDADES" , TV Mexiquense 
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Telemax (XEWH)
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES", Telemax (XEWH)
 http://s5.mexside.net:1935/telemax/telemax/chunklist_w1982711424.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , RCG Acuna Canal 36
+#EXTINF:-1 tvg-id="I508.46481.schedulesdirect.org" group-title="VARIEDADES" , RCG Acuna Canal 36
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TVP 
