@@ -225,7 +225,7 @@ http://sysadminhost.net:8080/F17425/8ffdb770/3031
 #EXTINF:-1 tvg-id="I510.79042.schedulesdirect.org" group-title="Sports", Espn 3 Latinoamerica
 http://sysadminhost.net:8080/F17425/8ffdb770/3032
 
-#EXTINF:-1 tvg-id="" group-title="Sports", Tudn
+#EXTINF:-1 tvg-id="I693.75951.schedulesdirect.org" group-title="Sports", Tudn
 http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/43732
 
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona Tudn
@@ -256,22 +256,22 @@ https://live.field59.com/wapa/wapa2/.m3u8
 #EXTINF:-1 tvg-id="ESBC410000577" group-title="Sports", Teledeportes
 https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="De Paga", Star Channels Latinoamerica
+#EXTINF:-1 tvg-id="I528.88534.schedulesdirect.org" group-title="De Paga", Star Channels Latinoamerica
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/4022
 
-EXTINF:-1 tvg-id="" group-title="De Paga", TNT Latinoamerica
+EXTINF:-1 tvg-id="I644.80807.schedulesdirect.org" group-title="De Paga", TNT Latinoamerica
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/4010
 
-#EXTINF:-1 group-title="De Paga" , Universal Premier
+#EXTINF:-1 tvg-id="I0.122761.schedulesdirect.org" group-title="De Paga" , Universal Premier
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/1119204
 
-#EXTINF:-1 group-title="De Paga" ,Golden Plus
+#EXTINF:-1 tvg-id="I911.68317.schedulesdirect.org" group-title="De Paga" ,Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="De Paga" , HBO Latino
+#EXTINF:-1 tvg-id="I313.24553.schedulesdirect.org" group-title="De Paga" , HBO Latino
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/1173791
 
-#EXTINF:-1 group-title="De Paga" , HBO Family 
+#EXTINF:-1 tvg-id="I350.34879.schedulesdirect.org" group-title="De Paga" , HBO Family 
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/4017
 
 
