@@ -57,8 +57,8 @@ https://live.info7.mx/info7/stream.m3u8
 #EXTINF:-1 tvg-id="I4.104892.schedulesdirect.org"a group-title="VARIEDADES" , A MAS 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", IMTYR
-https://stream8.mexiserver.com:1936/morelostv/morelostv/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES", ClaroTV Dominicana
+https://vsrv2.az-streamingserver.com:3960/live/claroteledomlive.m3u8
 
 
 #EXTINF:-1 tvg-id="I233.97020.schedulesdirect.org" group-title="VARIEDADES", Canal Nu9ve
