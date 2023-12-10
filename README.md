@@ -168,7 +168,6 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 " tvg-id="3d2c140c111bc0008cb890b" group-title="NOTICIAS" , TeleFormula
 https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
 
-
 #EXTINF:-1 tvg-id="USBB3200016HO" group-title="NOTICIAS", TELEMUNDO AL DÍA 
 https://i.mjh.nz/SamsungTVPlus/USBB3200016HO.m3u8
 
@@ -197,6 +196,7 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
 
 
+
 #EXTINF:-1 tvg-id="6320d2755e54db000783fd87" group-title="Sports", Claro Sports
 https://i.mjh.nz/PlutoTV/6320d2755e54db000783fd87-alt.m3u8
 
@@ -210,15 +210,12 @@ http://sysadminhost.net:8080/F17425/8ffdb770/6446
 
 #EXTINF:-1 tvg-id="I505.41677.schedulesdirect.org" group-title="Sports", Fox Sport Latinoamerica
 
-
 #EXTINF:-1 tvg-id="I506.66365.schedulesdirect.org" group-title="Sports", Fox sport 2 Latinoamerica
-
 
 #EXTINF:-1 tvg-id="I511.105006.schedulesdirect.org" group-title="Sports", Fox sport 3 Latinoamerica
 http://167.250.222.35:16000/play/a07u/index.m3u8
 
 #EXTINF:-1 tvg-id="I509.19158.schedulesdirect.org" group-title="Sports", Espn Latinoamerica
-
 
 #EXTINF:-1 tvg-id="I508.37747.schedulesdirect.org" group-title="Sports", Espn 2 Latinoamerica
 http://sysadminhost.net:8080/F17425/8ffdb770/3031
@@ -231,7 +228,6 @@ http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/43732
 
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona Tudn
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
-
 
 #EXTINF:-1 tvg-id="63f7e3f9dff38e00082a57af" group-title="Sports", ITV Deportes
 https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
@@ -257,11 +253,19 @@ https://live.field59.com/wapa/wapa2/.m3u8
 #EXTINF:-1 tvg-id="ESBC410000577" group-title="Sports", Teledeportes
 https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
 
+
+
 #EXTINF:-1 tvg-id="I528.88534.schedulesdirect.org" group-title="De Paga", Star Channels Latinoamerica
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/4022
 
-EXTINF:-1 tvg-id="I644.80807.schedulesdirect.org" group-title="De Paga", TNT Latinoamerica
+#EXTINF:-1 tvg-id="I644.80807.schedulesdirect.org" group-title="De Paga", TNT Latinoamerica
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/4010
+
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga", Warner 
+http://31.42.185.216:8000/85093573/P1NRJ69MVC/40
+
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga", Sony
+http://31.42.185.216:8000/85093573/P1NRJ69MVC/131230
 
 #EXTINF:-1 tvg-id="I0.122761.schedulesdirect.org" group-title="De Paga" , Universal Premier
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/1119204
@@ -275,34 +279,19 @@ http://tv.nousiptv.com:8080/Veronicafleitas/2528/1173791
 #EXTINF:-1 tvg-id="I350.34879.schedulesdirect.org" group-title="De Paga" , HBO Family 
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/4017
 
-
-
 #EXTINF:-1 tvg-id="664585696" group-title="De Paga", AMC Es
-
 
 #EXTINF:-1 tvg-id="I241.102862.schedulesdirect.org" group-title="De Paga", Fox Es
 
-
 #EXTINF:-1 tvg-id="I362.91183.schedulesdirect.org" group-title="De Paga", M+ Accion 
 
-
 #EXTINF:-1 tvg-id="I378.102940.schedulesdirect.org" group-title="De Paga", M+ Estrenos
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 group-title="De Paga" , HBO 
 
 
 #EXTINF:-1 group-title="De Paga" , HBO 2 
-
-
 
 
 #EXTINF:-1 tvg-id="I176.60048.schedulesdirect.org" tvg-logo=" " group-title="De Paga", Cartoon Network 
