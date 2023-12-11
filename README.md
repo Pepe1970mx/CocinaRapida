@@ -6,6 +6,9 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="USBD2700004ME" group-title="VARIEDADES" , Como Dice el Dicho 
 https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES" , Chespirito
+http://31.42.185.216:8000/wbgs/5QDJ15CYWF/129322
+
 #EXTINF:-1 tvg-id="USBC2100010OS" group-title="VARIEDADES" , ViX Jajaja 
 https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
 
@@ -271,7 +274,7 @@ http://31.42.185.216:8000/85093573/P1NRJ69MVC/131230
 http://dm.lion-ott.com:80/roberto88/roberto88/265026
 
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga", Nickelodeon 
-http://dm.lion-ott.com:80/roberto88/roberto88/265011
+http://31.42.185.216:8000/wbgs/5QDJ15CYWF/3662
 
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga", Disney Channels
 http://dm.lion-ott.com:80/roberto88/roberto88/264894
@@ -307,7 +310,7 @@ http://tv.nousiptv.com:8080/Veronicafleitas/2528/4017
 
 
 #EXTINF:-1 tvg-id="I114.16141.schedulesdirect.org" tvg-logo=" " group-title="De Paga", Cartoon Network 
-http://tv.nousiptv.com:8080/Veronicafleitas/2528/1155850
+http://31.42.185.216:8000/wbgs/5QDJ15CYWF/132317
 
 #EXTINF:-1 group-title="De Paga" , Tooncast 
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/1155861
