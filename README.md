@@ -261,11 +261,16 @@ http://tv.nousiptv.com:8080/Veronicafleitas/2528/4022
 #EXTINF:-1 tvg-id="I644.80807.schedulesdirect.org" group-title="De Paga", TNT Latinoamerica
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/4010
 
-#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga", Warner 
+#EXTINF:-1 tvg-id="I831.98111.schedulesdirect.org" group-title="De Paga", Warner 
 http://31.42.185.216:8000/85093573/P1NRJ69MVC/40
 
-#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga", Sony
+#EXTINF:-1 tvg-id="I212.19385.schedulesdirect.org" group-title="De Paga", Sony
 http://31.42.185.216:8000/85093573/P1NRJ69MVC/131230
+
+#EXTINF:-1 tvg-id="I527.60801.schedulesdirect.org" group-title="De Paga", Space
+
+
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga",
 
 #EXTINF:-1 tvg-id="I0.122761.schedulesdirect.org" group-title="De Paga" , Universal Premier
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/1119204
@@ -294,7 +299,7 @@ http://tv.nousiptv.com:8080/Veronicafleitas/2528/4017
 #EXTINF:-1 group-title="De Paga" , HBO 2 
 
 
-#EXTINF:-1 tvg-id="I176.60048.schedulesdirect.org" tvg-logo=" " group-title="De Paga", Cartoon Network 
+#EXTINF:-1 tvg-id="I114.16141.schedulesdirect.org" tvg-logo=" " group-title="De Paga", Cartoon Network 
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/1155850
 
 #EXTINF:-1 group-title="De Paga" , Tooncast 
