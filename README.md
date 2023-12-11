@@ -262,15 +262,22 @@ http://tv.nousiptv.com:8080/Veronicafleitas/2528/4022
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/4010
 
 #EXTINF:-1 tvg-id="I831.98111.schedulesdirect.org" group-title="De Paga", Warner 
-http://31.42.185.216:8000/85093573/P1NRJ69MVC/40
+http://dm.lion-ott.com:80/roberto88/roberto88/872378
 
 #EXTINF:-1 tvg-id="I212.19385.schedulesdirect.org" group-title="De Paga", Sony
 http://31.42.185.216:8000/85093573/P1NRJ69MVC/131230
 
 #EXTINF:-1 tvg-id="I527.60801.schedulesdirect.org" group-title="De Paga", Space
+http://dm.lion-ott.com:80/roberto88/roberto88/265026
 
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga", Nickelodeon 
+http://dm.lion-ott.com:80/roberto88/roberto88/265011
 
-#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga",
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga", Disney Channels
+http://dm.lion-ott.com:80/roberto88/roberto88/264894
+
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga", Disney XD
+http://dm.lion-ott.com:80/roberto88/roberto88/724181
 
 #EXTINF:-1 tvg-id="I0.122761.schedulesdirect.org" group-title="De Paga" , Universal Premier
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/1119204
