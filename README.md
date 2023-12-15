@@ -677,7 +677,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de4e0b3
 
 
 #EXTINF:-1 tvg-logo="" group-title="Retro Music", Now 80s
-https://lightning-now80s-samsunguk.amagi.tv/hls/amagi_hls_data_samsunguk-lightning-now80s-samsunguk/CDN/playlist.m3u8?device%5Bdid%5D=%7BPSID%7D&device%5Bdnt%5D=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&tc_string=%7BTC_STRING%7D&coppa=0
+
 
 #EXTINF:-1 tvg-logo="" group-title="Retro Music", Yo! MTV Raps Classic
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c10558060e830008ed1b0a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -718,16 +718,22 @@ https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8?Playli
 https://linear-419.frequency.stream:443/419/hls/master/playlist_640x360.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", Telehit Musica 
-https://linear-418.frequency.stream:443/418/hls/master/playlist_640x360.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", Telehit 
-https://linear-417.frequency.stream:443/417/hls/master/playlist_640x360.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV Hits
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/153/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV Live 
-http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/221/index.m3u8
+http://cdn.xcore.ca:80/live/veatfc/sw3ykv/432.ts
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV 00s
+http://cdn.xcore.ca:80/live/veatfc/sw3ykv/425.ts
+
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV Music
 http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/19192/index.m3u8
