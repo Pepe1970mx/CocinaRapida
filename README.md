@@ -264,20 +264,28 @@ http://tv.nousiptv.com:8080/Veronicafleitas/2528/4022
 #EXTINF:-1 tvg-id="I644.80807.schedulesdirect.org" group-title="De Paga", TNT Latinoamerica
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/4010
 
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga", AMC
+http://287868455641656442.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/656442.ts
+
+
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga", SYFY
+http://287868455641656458.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/656458.ts
+
+
 #EXTINF:-1 tvg-id="I831.98111.schedulesdirect.org" group-title="De Paga", Warner 
-http://dm.lion-ott.com:80/roberto88/roberto88/872378
+http://287868455641676698.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/676698.ts
 
 #EXTINF:-1 tvg-id="I212.19385.schedulesdirect.org" group-title="De Paga", Sony
-http://31.42.185.216:8000/85093573/P1NRJ69MVC/131230
+http://287868455641694437.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/694437.ts
 
 #EXTINF:-1 tvg-id="I527.60801.schedulesdirect.org" group-title="De Paga", Space
-http://dm.lion-ott.com:80/roberto88/roberto88/265026
+http://287868455641657212.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/657212.ts
 
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga", Nickelodeon 
-http://31.42.185.216:8000/wbgs/5QDJ15CYWF/3662
+http://287868455641694435.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/694435.ts
 
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga", Disney Channels
-http://dm.lion-ott.com:80/roberto88/roberto88/264894
+http://287868455641661945.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/661945.ts
 
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga", Disney XD
 http://dm.lion-ott.com:80/roberto88/roberto88/724181
@@ -310,7 +318,7 @@ http://tv.nousiptv.com:8080/Veronicafleitas/2528/4017
 
 
 #EXTINF:-1 tvg-id="I114.16141.schedulesdirect.org" tvg-logo=" " group-title="De Paga", Cartoon Network 
-http://31.42.185.216:8000/wbgs/5QDJ15CYWF/132317
+http://287868455641653227.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/653227.ts
 
 #EXTINF:-1 group-title="De Paga" , Tooncast 
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/1155861
