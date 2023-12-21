@@ -425,11 +425,26 @@ https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
 
 
+#EXTINF:-1 tvg-id=" " group-title="Latino", Canal 3 Super canal
+https://dy434h3s52eoj.cloudfront.net/Canal3GT/01582b1c46c04a847aa7c4936d1eeba7.sdp/playlist.m3u8
+
 #EXTINF:-1 group-title="Latino", TeleTres 
 https://d1dqr580c2izza.cloudfront.net/hls/canal3.m3u8
 
+#EXTINF:-1 tvg-id=" " group-title="Latino", Canal 4
+https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.sdp/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Latino", Telecinco 
 https://videohd.live:19360/8016/8016.m3u8
+
+#EXTINF:-1 tvg-id=" " group-title="Latino", Telemicro
+http://51.81.93.239:8084/hls/tmicro.m3u8
+
+
+#EXTINF:-1 tvg-id=" " group-title="Latino", Canal 5 El lider
+https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
+
 
 
 #EXTINF:-1 group-title="Latino", TeleSiete 
@@ -438,6 +453,10 @@ https://dy434h3s52eoj.cloudfront.net/Canal7GT/d84b644e13e68dd78dfcb9a0cf0338f1.s
 
 #EXTINF:-1 group-title="Latino", Teletica 7
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" " group-title="Latino", Canal 10 NI
+https://dgh4r3ro3i2mi.cloudfront.net/Canal10NI/7d8e90910905c4165b7180d8db1d8b68.sdp/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Latino", Canal 11 NI
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal11.m3u8
