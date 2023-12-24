@@ -703,58 +703,46 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de4e0b3
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Retro Music", Now 80s
+#EXTINF:-1 tvg-id="16490254fd2c47c00083a5743" group-title="Retro Music", Now 80s
+https://i.mjh.nz/PlutoTV/16490254fd2c47c00083a5743-alt.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Retro Music", Yo! MTV Raps Classic
 
 
-#EXTINF:-1 tvg-logo="" group-title="Retro Music", Yo! MTV Raps Classic
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c10558060e830008ed1b0a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="1635bfb89b5cd9b0007ca9d63" group-title="Retro Music", MTV Classic
+https://i.mjh.nz/PlutoTV/1635bfb89b5cd9b0007ca9d63-alt.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Retro Music", MTV Classic
-https://i.mjh.nz/PlutoTV/635bfb89b5cd9b0007ca9d63-alt.m3u8
+#EXTINF:-1 tvg-id="USBB2300004KV" group-title="Retro Music", XITE 80s Flashback 
+https://i.mjh.nz/SamsungTVPlus/USBB320000647.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Retro Music", MTV Rocks
-https://i.mjh.nz/PlutoTV/624303598e45140007d765c1-alt.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Retro Music", Vevo 80s
+#EXTINF:-1 tvg-id="5fd7b8bf927e090007685853" group-title="Retro Music", Vevo 80s
 https://i.mjh.nz/PlutoTV/5fd7b8bf927e090007685853-alt.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Retro Music", Vevo 90s
 https://i.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Retro Music", Vevo 90S & 00s
-https://d2yw87dguyr3x7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gm31ezw31rx7a/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-logo="" group-title="Retro Music", Vclassic TV
-https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1624303598e45140007d765c1" group-title="Retro Music", MTV Rocks
+https://i.mjh.nz/PlutoTV/1624303598e45140007d765c1-alt.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Retro Music", Super Classic TV
-https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
+#EXTINF:-1 tvg-id="USBB2300004KV" group-title="Retro Music", XITE Rock on
+https://i.mjh.nz/SamsungTVPlus/USBB2300004KV.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Retro Music", Vevo Retro Rock
 https://i.mjh.nz/PlutoTV/61d4b38226b8a50007fe03a6-alt.m3u8
 
-
-#EXTINF:-1 tvg-logo="" group-title="Retro Music", Oldies Hits
-https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Retro Music", Retro Channel
-https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
-
-
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", Telehit Musica Plus 
-https://linear-419.frequency.stream:443/419/hls/master/playlist_640x360.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", Telehit Musica 
 
 
-#EXTINF:-1 tvg-logo="" group-title="MUSIC", Telehit 
-
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV Hits
-http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/153/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV Live 
-http://cdn.xcore.ca:80/live/veatfc/sw3ykv/432.ts
+
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV 00s
 http://cdn.xcore.ca:80/live/veatfc/sw3ykv/425.ts
@@ -767,15 +755,11 @@ http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/19192/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV Classic
-http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/19148/index.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", Bandamax 
-https://linear-400.frequency.stream/400/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", Vevo Pop
-https://d2g0vxybsz6hsr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x9zzce8l5rccc/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", VH1 Italy
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
@@ -789,8 +773,7 @@ http://195.24.89.82/MTV_SD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", VH1+
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8cc10ca869f00078efca8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 group-title="MUSIC",Vos TV
-http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC", MUSIC TOP 
 http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
