@@ -350,8 +350,51 @@ https://i.mjh.nz/SamsungTVPlus/USBD7000017L.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBC39000080S.m3u8
 
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , ATV Sur
+#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , ATV
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , ATV Sur
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , Unitel
+https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
+
+#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , Ecuavisa
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
+
+
+#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , Teleamazonas
+https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , Canal 4 CR
+https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , Canal 6 CR
+https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , Canal 11 CR
+https://d2t46xrpai3it5.cloudfront.net/Repretel11/b3e2798525101c45f84a48573676853a.sdp/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id=" " group-title="Latino", Canal 10 NI
+https://dgh4r3ro3i2mi.cloudfront.net/Canal10NI/7d8e90910905c4165b7180d8db1d8b68.sdp/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Latino", Canal 11 NI
+https://d25v5vivhcrrh5.cloudfront.net/hls/canal11.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Latino" , Canal 11 HN
+https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Latino" , Canal 11 
+https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
@@ -454,18 +497,6 @@ https://dy434h3s52eoj.cloudfront.net/Canal7GT/d84b644e13e68dd78dfcb9a0cf0338f1.s
 #EXTINF:-1 group-title="Latino", Teletica 7
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="Latino", Canal 10 NI
-https://dgh4r3ro3i2mi.cloudfront.net/Canal10NI/7d8e90910905c4165b7180d8db1d8b68.sdp/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Latino", Canal 11 NI
-https://d25v5vivhcrrh5.cloudfront.net/hls/canal11.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="Latino" , Canal 11 HN
-https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="Latino" , Canal 11 
-https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 
 
 
