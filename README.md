@@ -702,17 +702,19 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de4e0b3
 
 
 
+#EXTINF:-1 tvg-id="161c09489197fe600073c0570" group-title="Retro Music", MTV Unplugged
+https://i.mjh.nz/PlutoTV/161c09489197fe600073c0570-alt.m3u8
 
 #EXTINF:-1 tvg-id="16490254fd2c47c00083a5743" group-title="Retro Music", Now 80s
 https://i.mjh.nz/PlutoTV/16490254fd2c47c00083a5743-alt.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Retro Music", Yo! MTV Raps Classic
-
+#EXTINF:-1 tvg-id="164db35b44c5ed80008f6a3ed" group-title="Retro Music", Yo! MTV Raps Classic
+https://i.mjh.nz/PlutoTV/164db35b44c5ed80008f6a3ed-alt.m3u8
 
 #EXTINF:-1 tvg-id="1635bfb89b5cd9b0007ca9d63" group-title="Retro Music", MTV Classic
 https://i.mjh.nz/PlutoTV/1635bfb89b5cd9b0007ca9d63-alt.m3u8
 
-#EXTINF:-1 tvg-id="USBB2300004KV" group-title="Retro Music", XITE 80s Flashback 
+#EXTINF:-1 tvg-id="USBB320000647" group-title="Retro Music", XITE 80s Flashback 
 https://i.mjh.nz/SamsungTVPlus/USBB320000647.m3u8
 
 #EXTINF:-1 tvg-id="5fd7b8bf927e090007685853" group-title="Retro Music", Vevo 80s
@@ -734,8 +736,8 @@ https://i.mjh.nz/PlutoTV/61d4b38226b8a50007fe03a6-alt.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", Telehit Musica Plus 
 
 
-#EXTINF:-1 tvg-logo="" group-title="MUSIC", Telehit Musica 
-
+#EXTINF:-1 tvg-logo="161ea759737679900078ff559" group-title="MUSIC", MTV Party Musica 
+https://i.mjh.nz/PlutoTV/161ea759737679900078ff559-alt.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV Hits
