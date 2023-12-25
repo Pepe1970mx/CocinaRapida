@@ -711,21 +711,29 @@ https://i.mjh.nz/PlutoTV/16490254fd2c47c00083a5743-alt.m3u8
 #EXTINF:-1 tvg-id="164db35b44c5ed80008f6a3ed" group-title="Retro Music", Yo! MTV Raps Classic
 https://i.mjh.nz/PlutoTV/164db35b44c5ed80008f6a3ed-alt.m3u8
 
+#EXTINF:-1 tvg-id="16465fef47cb4b100086ee7bd" group-title="Retro Music", VH1+ Hip Hop & Rap
+https://i.mjh.nz/PlutoTV/16465fef47cb4b100086ee7bd-alt.m3u8
+
+#EXTINF:-1 tvg-id="16076cd1df8576d0007c82193" group-title="Retro Music", VH1 Classic
+https://i.mjh.nz/PlutoTV/16076cd1df8576d0007c82193-alt.m3u8
+
 #EXTINF:-1 tvg-id="1635bfb89b5cd9b0007ca9d63" group-title="Retro Music", MTV Classic
 https://i.mjh.nz/PlutoTV/1635bfb89b5cd9b0007ca9d63-alt.m3u8
 
 #EXTINF:-1 tvg-id="USBB320000647" group-title="Retro Music", XITE 80s Flashback 
 https://i.mjh.nz/SamsungTVPlus/USBB320000647.m3u8
 
-#EXTINF:-1 tvg-id="5fd7b8bf927e090007685853" group-title="Retro Music", Vevo 80s
-https://i.mjh.nz/PlutoTV/5fd7b8bf927e090007685853-alt.m3u8
+#EXTINF:-1 tvg-id="15fd7b8bf927e090007685853" group-title="Retro Music", Vevo '80s
+https://i.mjh.nz/PlutoTV/15fd7b8bf927e090007685853-alt.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Retro Music", Vevo 90s
 https://i.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
 
-
 #EXTINF:-1 tvg-id="1624303598e45140007d765c1" group-title="Retro Music", MTV Rocks
 https://i.mjh.nz/PlutoTV/1624303598e45140007d765c1-alt.m3u8
+
+#EXTINF:-1 tvg-id="1636a4173e34fd50007534542" group-title="Retro Music", VH1 Rock!
+https://i.mjh.nz/PlutoTV/1636a4173e34fd50007534542-alt.m3u8
 
 #EXTINF:-1 tvg-id="USBB2300004KV" group-title="Retro Music", XITE Rock on
 https://i.mjh.nz/SamsungTVPlus/USBB2300004KV.m3u8
@@ -735,28 +743,34 @@ https://i.mjh.nz/PlutoTV/61d4b38226b8a50007fe03a6-alt.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", Telehit Musica Plus 
 
+#EXTINF:-1 tvg-id="15d93b635b43dd1a399b39eee" group-title="MUSIC", Vevo Pop
+https://i.mjh.nz/PlutoTV/15d93b635b43dd1a399b39eee-alt.m3u8
 
-#EXTINF:-1 tvg-logo="161ea759737679900078ff559" group-title="MUSIC", MTV Party Musica 
+#EXTINF:-1 tvg-id="15da0d64d0e8a62000964ebe4" group-title="MUSIC", Vevo Latino
+https://i.mjh.nz/PlutoTV/15da0d64d0e8a62000964ebe4-alt.m3u8
+
+#EXTINF:-1 tvg-id="161ea759737679900078ff559" group-title="MUSIC", MTV Party Musica 
 https://i.mjh.nz/PlutoTV/161ea759737679900078ff559-alt.m3u8
 
-
-#EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV Hits
-
+#EXTINF:-1 tvg-id="1638f2d9aa530b200072ec8ef" group-title="MUSIC", MTV Love Music
+https://i.mjh.nz/PlutoTV/1638f2d9aa530b200072ec8ef-alt.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV Live 
 
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV 00s
-http://cdn.xcore.ca:80/live/veatfc/sw3ykv/425.ts
+
 
 
 
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV Music
-http://0f3f161d.cbilant.com/iptv/DNKSGWXK47B9GH/19192/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV Classic
+
+#EXTINF:-1 tvg-id="161cd822216e2fd00086d0aeb" group-title="MUSIC", VH1+
+https://i.mjh.nz/PlutoTV/161cd822216e2fd00086d0aeb-alt.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", Bandamax 
 
