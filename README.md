@@ -726,8 +726,8 @@ https://i.mjh.nz/SamsungTVPlus/USBB320000647.m3u8
 #EXTINF:-1 tvg-id="15fd7b8bf927e090007685853" group-title="Retro Music", Vevo '80s
 https://i.mjh.nz/PlutoTV/15fd7b8bf927e090007685853-alt.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Retro Music", Vevo 90s
-https://i.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
+#EXTINF:-1 tvg-id="15fd7bb1f86d94a000796e2c2" group-title="Retro Music", Vevo 90s
+https://i.mjh.nz/PlutoTV/15fd7bb1f86d94a000796e2c2-alt.m3u8
 
 #EXTINF:-1 tvg-id="1624303598e45140007d765c1" group-title="Retro Music", MTV Rocks
 https://i.mjh.nz/PlutoTV/1624303598e45140007d765c1-alt.m3u8
@@ -743,6 +743,15 @@ https://i.mjh.nz/PlutoTV/61d4b38226b8a50007fe03a6-alt.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", Telehit Musica Plus 
 
+#EXTINF:-1 tvg-id="CABD1200038NZ" group-title="MUSIC", XITE Hits
+https://i.mjh.nz/SamsungTVPlus/CABD1200038NZ.m3u8
+
+#EXTINF:-1 tvg-id="USBD3300007PB" group-title="MUSIC", XITE Nuevo Latino
+https://i.mjh.nz/SamsungTVPlus/USBD3300007PB.m3u8
+
+#EXTINF:-1 tvg-id="15fd7bca3e0a4ee0007a38e8c" group-title="MUSIC", Vevo 2K
+https://i.mjh.nz/PlutoTV/15fd7bca3e0a4ee0007a38e8c-alt.m3u8
+
 #EXTINF:-1 tvg-id="15d93b635b43dd1a399b39eee" group-title="MUSIC", Vevo Pop
 https://i.mjh.nz/PlutoTV/15d93b635b43dd1a399b39eee-alt.m3u8
 
@@ -756,7 +765,7 @@ https://i.mjh.nz/PlutoTV/161ea759737679900078ff559-alt.m3u8
 https://i.mjh.nz/PlutoTV/1638f2d9aa530b200072ec8ef-alt.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV Live 
-
+http://vod3.zomo.lat:8080/
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV 00s
 
@@ -764,8 +773,8 @@ https://i.mjh.nz/PlutoTV/1638f2d9aa530b200072ec8ef-alt.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV Music
-
+#EXTINF:-1 tvg-id="" group-title="MUSIC", MTV Live
+http://zonamovie.live:8080/CINEMA02/RKnhMX3Bhtbp/409855
 
 
 #EXTINF:-1 tvg-id="161cd822216e2fd00086d0aeb" group-title="MUSIC", VH1+
