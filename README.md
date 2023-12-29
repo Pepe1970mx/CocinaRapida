@@ -189,7 +189,7 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 
 
 
-#EXTINF:-1 tvg-id="6320d2755e54db000783fd87" group-title="Sports", Claro Sports
+#EXTINF:-1 tvg-id="6320d2755e54db000783fd87" group-title="Sports", Claro Sports México 
 https://i.mjh.nz/PlutoTV/6320d2755e54db000783fd87-alt.m3u8
 
 #EXTINF:-1 tvg-id="I143.119143.schedulesdirect.org" group-title="Sports", Claro Sports 2
@@ -247,6 +247,14 @@ https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
 
 
 
+#EXTINF:-1 tvg-id="USBD7000017L" group-title="ENTRETENIMIENTO", AMC en Español
+https://i.mjh.nz/SamsungTVPlus/USBD7000017L.m3u8
+
+#EXTINF:-1 tvg-id="USBC39000080S" group-title="ENTRETENIMIENTO", Canela TV
+https://i.mjh.nz/SamsungTVPlus/USBC39000080S.m3u8
+
+#EXTINF:-1 tvg-id=" " group-title="Latino", Canal 3 Super canal
+https://dy434h3s52eoj.cloudfront.net/Canal3GT/01582b1c46c04a847aa7c4936d1eeba7.sdp/playlist.m3u8
 
 
 TINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , Canal 4 CR
@@ -258,16 +266,112 @@ https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.
 #EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , Canal 11 CR
 https://d2t46xrpai3it5.cloudfront.net/Repretel11/b3e2798525101c45f84a48573676853a.sdp/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO", Canal 10 NI
 https://dgh4r3ro3i2mi.cloudfront.net/Canal10NI/7d8e90910905c4165b7180d8db1d8b68.sdp/playlist.m3u8
-
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Canal 11 NI
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal11.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 11 HN
 https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
+
+#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , ATV
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , ATV Sur
+https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , Unitel
+https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
+
+#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , Ecuavisa
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
+
+#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , Teleamazonas
+https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8
+
+up-title="Latino", Telemicro
+http://51.81.93.239:8084/hls/tmicro.m3u8
+
+
+#EXTINF:-1 tvg-id=" " group-title="Latino", Canal 5 El lider
+https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
+
+
+
+#EXTINF:-1 group-title="Latino", TeleSiete 
+https://dy434h3s52eoj.cloudfront.net/Canal7GT/d84b644e13e68dd78dfcb9a0cf0338f1.sdp/Canal7GT/Canal7GT2/chunks.m3u8
+
+
+#EXTINF:-1 group-title="Latino", Teletica 7
+https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Latino", El trece 
+https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Planeta TV
+https://live.obslivestream.com/planetatv/index.m3u8
+
+#EXTINF:-1 group title="ENTRETENIMIENTO" , Planeta TV Movies
+https://scl.edge.grupoz.cl/movie/live/movie.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Planeta TV Kids
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", WTV NI
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+
+#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", CocoTV
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , +Cine
+https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Viwix TV 
+https://videohd.live:19360/8076/8076.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Xtrema Cine infantil
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Xtrema Series
+https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Xtrema Retro Series
+https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO",  Canal Blu
+https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Guatuso
+https://5cf4a2c2512a2.streamlock.net/8162/8162/master.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Gen TV 
+https://inliveserver.com:1936/14056/14056/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Cinco TV 
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Latino", TeleTres 
+https://d1dqr580c2izza.cloudfront.net/hls/canal3.m3u8
+
+
+#EXTINF:-1 tvg-id=" " gro
 
 
 
@@ -346,31 +450,6 @@ https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
 
 
 
-#EXTINF:-1 tvg-id="USBD7000017L" group-title="ENTRETENIMIENTO", AMC en Español
-https://i.mjh.nz/SamsungTVPlus/USBD7000017L.m3u8
-
-#EXTINF:-1 tvg-id="USBC39000080S" group-title="ENTRETENIMIENTO", Canela TV
-https://i.mjh.nz/SamsungTVPlus/USBC39000080S.m3u8
-
-
-#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , ATV
-https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , ATV Sur
-https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , Unitel
-https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
-
-#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , Ecuavisa
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
-
-
-#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , Teleamazonas
-https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8
-
-#EX
 
 
 
@@ -378,106 +457,9 @@ https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Planeta TV
-https://live.obslivestream.com/planetatv/index.m3u8
-
-#EXTINF:-1 group title="ENTRETENIMIENTO" , Planeta TV Movies
-https://scl.edge.grupoz.cl/movie/live/movie.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Planeta TV Kids
-https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO", WTV NI
-https://cloudvideo.servers10.com:8081/8130/index.m3u8
-
-#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", CocoTV
-https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV
-https://s2.tvdatta.com:3307/hybrid/play.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , +Cine
-https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Viwix TV 
-https://videohd.live:19360/8076/8076.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Xtrema Cine infantil
-https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Xtrema Series
-https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Xtrema Retro Series
-https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
 
 
 
-
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO",  Canal Blu
-https://vivo.solumedia.com:19360/canalblu/canalblu.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Guatuso
-https://5cf4a2c2512a2.streamlock.net/8162/8162/master.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Gen TV 
-https://inliveserver.com:1936/14056/14056/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Central TV 
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Cinco TV 
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-logo=" " group-title="Latino", El trece 
-https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
-
-#EXTINF:-1 group-title="Latino", TVMAX 
-https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
-
-
-#EXTINF:-1 tvg-id=" " group-title="Latino", Canal 3 Super canal
-https://dy434h3s52eoj.cloudfront.net/Canal3GT/01582b1c46c04a847aa7c4936d1eeba7.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="Latino", TeleTres 
-https://d1dqr580c2izza.cloudfront.net/hls/canal3.m3u8
-
-#EXTINF:-1 tvg-id=" " group-title="Latino", Canal 4
-https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.sdp/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Latino", Telecinco 
-https://videohd.live:19360/8016/8016.m3u8
-
-#EXTINF:-1 tvg-id=" " group-title="Latino", Telemicro
-http://51.81.93.239:8084/hls/tmicro.m3u8
-
-
-#EXTINF:-1 tvg-id=" " group-title="Latino", Canal 5 El lider
-https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
-
-
-
-#EXTINF:-1 group-title="Latino", TeleSiete 
-https://dy434h3s52eoj.cloudfront.net/Canal7GT/d84b644e13e68dd78dfcb9a0cf0338f1.sdp/Canal7GT/Canal7GT2/chunks.m3u8
-
-
-#EXTINF:-1 group-title="Latino", Teletica 7
-https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 
 
 
