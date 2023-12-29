@@ -65,7 +65,7 @@ https://vsrv2.az-streamingserver.com:3960/live/claroteledomlive.m3u8
 
 
 #EXTINF:-1 tvg-id="I233.97020.schedulesdirect.org" group-title="VARIEDADES", Canal Nu9ve
-http://013tv.com:8080/1380d4eb/3fc3b12a1a/298919
+
 
 #EXTINF:-1 tvg-id="I448.15213.schedulesdirect.org" group-title="VARIEDADES", MVS TV 
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
@@ -73,7 +73,7 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 tvg-id="I11.15178.schedulesdirect.org" group-title="VARIEDADES", Canal Once 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", Canal 13 Puebla
+#EXTINF:-1 group-title="VARIEDADES", Canal 13 Tabasco
 https://dbdfj5y8nz2u4.cloudfront.net/c13tabasco/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I14.98192.schedulesdirect.org" group-title="VARIEDADES" , Canal 14 
@@ -140,19 +140,8 @@ https://live.field59.com/wapa/wapa1/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES" , Wapa America
 https://live.field59.com/wapa/wapa3/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES" , Ve Plus TV
-http://190.122.96.187:8888/http/006
-
-#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Hola TV 
-https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", TV Salud 
-https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
-
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Mariavision 
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
-
 
 
 
@@ -258,6 +247,32 @@ https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
 
 
 
+
+
+TINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , Canal 4 CR
+https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , Canal 6 CR
+https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , Canal 11 CR
+https://d2t46xrpai3it5.cloudfront.net/Repretel11/b3e2798525101c45f84a48573676853a.sdp/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO", Canal 10 NI
+https://dgh4r3ro3i2mi.cloudfront.net/Canal10NI/7d8e90910905c4165b7180d8db1d8b68.sdp/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Canal 11 NI
+https://d25v5vivhcrrh5.cloudfront.net/hls/canal11.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 11 HN
+https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="I528.88534.schedulesdirect.org" group-title="De Paga", Star Channels Latinoamerica
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/4022
 
@@ -281,14 +296,7 @@ http://287868455641694437.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/694437.ts
 #EXTINF:-1 tvg-id="I527.60801.schedulesdirect.org" group-title="De Paga", Space
 http://287868455641657212.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/657212.ts
 
-#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga", Nickelodeon 
-http://287868455641694435.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/694435.ts
 
-#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga", Disney Channels
-http://287868455641661945.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/661945.ts
-
-#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga", Disney XD
-http://dm.lion-ott.com:80/roberto88/roberto88/724181
 
 #EXTINF:-1 tvg-id="I0.122761.schedulesdirect.org" group-title="De Paga" , Universal Premier
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/1119204
@@ -308,14 +316,6 @@ http://tv.nousiptv.com:8080/Veronicafleitas/2528/4017
 
 #EXTINF:-1 tvg-id="I362.91183.schedulesdirect.org" group-title="De Paga", M+ Accion 
 
-#EXTINF:-1 tvg-id="I378.102940.schedulesdirect.org" group-title="De Paga", M+ Estrenos
-
-
-#EXTINF:-1 group-title="De Paga" , HBO 
-
-
-#EXTINF:-1 group-title="De Paga" , HBO 2 
-
 
 #EXTINF:-1 tvg-id="I114.16141.schedulesdirect.org" tvg-logo=" " group-title="De Paga", Cartoon Network 
 http://287868455641653227.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/653227.ts
@@ -323,14 +323,17 @@ http://287868455641653227.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/653227.ts
 #EXTINF:-1 group-title="De Paga" , Tooncast 
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/1155861
 
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga", Nickelodeon 
+http://287868455641694435.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/694435.ts
+
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga", Disney Channels
+http://287868455641661945.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/661945.ts
+
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga", Disney XD
+http://dm.lion-ott.com:80/roberto88/roberto88/724181
+
+
 #EXTINF:-1 tvg-id="I170.11006.schedulesdirect.org" group-title="De Paga" , Nick
-
-
-#EXTINF:-1 group-title="De Paga" , Universal Kid
-
-
-#EXTINF:-1 group-title="De Paga" , Boing
-
 
 #EXTINF:-1 group-title="De Paga" , Disney Channels Es
 http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/452
@@ -367,28 +370,7 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 #EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , Teleamazonas
 https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , Canal 4 CR
-https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , Canal 6 CR
-https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , Canal 11 CR
-https://d2t46xrpai3it5.cloudfront.net/Repretel11/b3e2798525101c45f84a48573676853a.sdp/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id=" " group-title="Latino", Canal 10 NI
-https://dgh4r3ro3i2mi.cloudfront.net/Canal10NI/7d8e90910905c4165b7180d8db1d8b68.sdp/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Latino", Canal 11 NI
-https://d25v5vivhcrrh5.cloudfront.net/hls/canal11.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="Latino" , Canal 11 HN
-https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="Latino" , Canal 11 
-https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
+#EX
 
 
 
