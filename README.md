@@ -290,23 +290,23 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 #EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , Teleamazonas
 https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8
 
-up-title="Latino", Telemicro
+#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO", Telemicro
 http://51.81.93.239:8084/hls/tmicro.m3u8
 
 
-#EXTINF:-1 tvg-id=" " group-title="Latino", Canal 5 El lider
+#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO", Canal 5 El lider
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 
 
 
-#EXTINF:-1 group-title="Latino", TeleSiete 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", TeleSiete 
 https://dy434h3s52eoj.cloudfront.net/Canal7GT/d84b644e13e68dd78dfcb9a0cf0338f1.sdp/Canal7GT/Canal7GT2/chunks.m3u8
 
 
-#EXTINF:-1 group-title="Latino", Teletica 7
+#EXTINF:-1 group-title="ENTRETENIMIENTO", Teletica 7
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Latino", El trece 
+#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", El trece 
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
 
