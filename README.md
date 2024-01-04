@@ -272,13 +272,13 @@ https://dgh4r3ro3i2mi.cloudfront.net/Canal10NI/7d8e90910905c4165b7180d8db1d8b68.
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Canal 11 NI
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal11.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Canal 11 HN
+#EXTINF:-1 tvg-id="Canal11.hn" group-title="ENTRETENIMIENTO" , Canal 11 HN
 https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , ATV
+#EXTINF:-1 tvg-id="ATV.pe" group-title="ENTRETENIMIENTO" , ATV
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , ATV Sur
+#EXTINF:-1 tvg-id="ATVSur.pe" group-title="ENTRETENIMIENTO" , ATV Sur
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , Unitel
@@ -294,7 +294,7 @@ https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8
 http://51.81.93.239:8084/hls/tmicro.m3u8
 
 
-#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO", Canal 5 El lider
+#EXTINF:-1 tvg-id="Televicentro.hn" group-title="ENTRETENIMIENTO", Canal 5 El lider
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 
 
