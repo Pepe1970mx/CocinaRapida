@@ -45,7 +45,7 @@ https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="I385.101111.schedulesdirect.org" group-title="VARIEDADES" , Imagen TV HD 
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/4149
 
-#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , Canal Cinco  
+#EXTINF:-1 tvg-id="CANAL 5" group-title="VARIEDADES" , Canal Cinco  
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/1155865
 
 #EXTINF:-1 tvg-id="I441.109612.schedulesdirect.org" group-title="VARIEDADES" , Multimedios
@@ -184,7 +184,7 @@ https://i.mjh.nz/SamsungTVPlus/ESAJ4500024LR.m3u8
 #EXTINF:-1 tvg-id="I315.105781.schedulesdirect.org" group-title="NOTICIAS", France 24 Español SD 
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="NOTICIAS" , Mexiquense Noticias 
+#EXTINF:-1 tvg-id"AMX NOTICIAS" group-title="NOTICIAS" , Mexiquense Noticias 
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
 
 
@@ -204,7 +204,7 @@ http://sysadminhost.net:8080/F17425/8ffdb770/6446
 
 #EXTINF:-1 tvg-id="I506.66365.schedulesdirect.org" group-title="Sports", Fox sport 2 Latinoamerica
 
-#EXTINF:-1 tvg-id="I511.105006.schedulesdirect.org" group-title="Sports", Fox sport 3 Latinoamerica
+#EXTINF:-1 tvg-id="FOX SPORTS 3" group-title="Sports", Fox sport 3 Latinoamerica
 http://167.250.222.35:16000/play/a07u/index.m3u8
 
 #EXTINF:-1 tvg-id="I509.19158.schedulesdirect.org" group-title="Sports", Espn Latinoamerica
@@ -306,9 +306,11 @@ https://dy434h3s52eoj.cloudfront.net/Canal7GT/d84b644e13e68dd78dfcb9a0cf0338f1.s
 #EXTINF:-1 group-title="ENTRETENIMIENTO", Teletica 7
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", El trece 
+#EXTINF:-1 tvg-id="ElTrece.ar" group-title="ENTRETENIMIENTO", El trece 
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
+
+#EXTINF:-1 tvg-id="CiudadMagazine.ar" group-title="ENTRETENIMIENTO", Ciudad Magazine
 
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Planeta TV
@@ -360,13 +362,6 @@ https://inliveserver.com:1936/14056/14056/playlist.m3u8
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 
 
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="Latino", TeleTres 
 https://d1dqr580c2izza.cloudfront.net/hls/canal3.m3u8
 
@@ -378,12 +373,21 @@ https://d1dqr580c2izza.cloudfront.net/hls/canal3.m3u8
 
 
 #EXTINF:-1 tvg-id="I528.88534.schedulesdirect.org" group-title="De Paga", Star Channels Latinoamerica
+
+
+#EXTINF:-1 tvg-id="STAR CHANNE.ar" group-title="De Paga", Star Channels Latinoamerica
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/4022
 
 #EXTINF:-1 tvg-id="I644.80807.schedulesdirect.org" group-title="De Paga", TNT Latinoamerica
+
+
+#EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT Latinoamerica
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/4010
 
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga", AMC
+http://287868455641656442.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/656442.ts
+
+#EXTINF:-1 tvg-id="AMC" group-title="De Paga", AMC
 http://287868455641656442.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/656442.ts
 
 
@@ -395,12 +399,17 @@ http://287868455641656458.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/656458.ts
 http://287868455641676698.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/676698.ts
 
 #EXTINF:-1 tvg-id="I212.19385.schedulesdirect.org" group-title="De Paga", Sony
+
+
+#EXTINF:-1 tvg-id="SONY" group-title="De Paga", Sony
 http://287868455641694437.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/694437.ts
+
 
 #EXTINF:-1 tvg-id="I527.60801.schedulesdirect.org" group-title="De Paga", Space
 http://287868455641657212.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/657212.ts
 
-
+#EXTINF:-1 tvg-id="SPACE" group-title="De Paga", Space
+http://287868455641657212.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/657212.ts
 
 #EXTINF:-1 tvg-id="I0.122761.schedulesdirect.org" group-title="De Paga" , Universal Premier
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/1119204
