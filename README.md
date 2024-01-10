@@ -13,7 +13,7 @@ http://31.42.185.216:8000/wbgs/5QDJ15CYWF/129322
 https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
 
 #EXTINF:-1 tvg-id="I233.55980.schedulesdirect.org" group-title="VARIEDADES" , Distrito Comedia
-http://tv.nousiptv.com:8080/Veronicafleitas/2528/4040
+http://zonamovie.live:8080/CINEMA02/RKnhMX3Bhtbp/592597
 
 #EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" group-title="VARIEDADES" , Pluto TV Series Latinas
 https://i.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
@@ -43,10 +43,10 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdn
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I385.101111.schedulesdirect.org" group-title="VARIEDADES" , Imagen TV HD 
-http://tv.nousiptv.com:8080/Veronicafleitas/2528/4149
+http://zonamovie.live:8080/CINEMA02/RKnhMX3Bhtbp/586268
 
 #EXTINF:-1 tvg-id="CANAL 5" group-title="VARIEDADES" , Canal Cinco  
-http://tv.nousiptv.com:8080/Veronicafleitas/2528/1155865
+http://zonamovie.live:8080/CINEMA02/RKnhMX3Bhtbp/586264
 
 #EXTINF:-1 tvg-id="I441.109612.schedulesdirect.org" group-title="VARIEDADES" , Multimedios
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
@@ -65,7 +65,7 @@ https://vsrv2.az-streamingserver.com:3960/live/claroteledomlive.m3u8
 
 
 #EXTINF:-1 tvg-id="I233.97020.schedulesdirect.org" group-title="VARIEDADES", Canal Nu9ve
-
+http://zonamovie.live:8080/CINEMA02/RKnhMX3Bhtbp/586263
 
 #EXTINF:-1 tvg-id="I448.15213.schedulesdirect.org" group-title="VARIEDADES", MVS TV 
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
