@@ -198,7 +198,7 @@ http://45.5.117.182:8000/play/a0e5/index.m3u8
 #EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" tvg-id="" group-title="Sports", Fox Sports Premium
 
 #EXTINF:-1 tvg-id="I854.25595.schedulesdirect.org" group-title="Sports", Espn Deportes 
-http://sysadminhost.net:8080/F17425/8ffdb770/6446
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57185
 
 #EXTINF:-1 tvg-id="I505.41677.schedulesdirect.org" group-title="Sports", Fox Sport Latinoamerica
 
@@ -210,13 +210,13 @@ http://167.250.222.35:16000/play/a07u/index.m3u8
 #EXTINF:-1 tvg-id="I509.19158.schedulesdirect.org" group-title="Sports", Espn Latinoamerica
 
 #EXTINF:-1 tvg-id="I508.37747.schedulesdirect.org" group-title="Sports", Espn 2 Latinoamerica
-http://sysadminhost.net:8080/F17425/8ffdb770/3031
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63193
 
 #EXTINF:-1 tvg-id="I510.79042.schedulesdirect.org" group-title="Sports", Espn 3 Latinoamerica
-http://sysadminhost.net:8080/F17425/8ffdb770/3032
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63194
 
 #EXTINF:-1 tvg-id="I693.75951.schedulesdirect.org" group-title="Sports", Tudn
-http://pinkpanther.uk:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/43732
+
 
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona Tudn
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
@@ -245,6 +245,9 @@ https://live.field59.com/wapa/wapa2/.m3u8
 #EXTINF:-1 tvg-id="ESBC410000577" group-title="Sports", Teledeportes
 https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
 
+#EXTINF:-1 tvg-id="ESBD3600001Q1" group-title="Sports", La liga
+https://i.mjh.nz/SamsungTVPlus/ESBD3600001Q1.m3u8
+
 
 
 #EXTINF:-1 tvg-id="USBD7000017L" group-title="ENTRETENIMIENTO", AMC en Español
@@ -253,17 +256,17 @@ https://i.mjh.nz/SamsungTVPlus/USBD7000017L.m3u8
 #EXTINF:-1 tvg-id="USBC39000080S" group-title="ENTRETENIMIENTO", Canela TV
 https://i.mjh.nz/SamsungTVPlus/USBC39000080S.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="Latino", Canal 3 Super canal
+#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO", Canal 3 Super canal
 https://dy434h3s52eoj.cloudfront.net/Canal3GT/01582b1c46c04a847aa7c4936d1eeba7.sdp/playlist.m3u8
 
 
-TINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , Canal 4 CR
+TINF:-1 tvg-id="Canal4.CR" group-title="ENTRETENIMIENTO" , Canal 4 CR
 https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , Canal 6 CR
+#EXTINF:-1 tvg-id="Canal6.CR" group-title="ENTRETENIMIENTO" , Canal 6 CR
 https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , Canal 11 CR
+#EXTINF:-1 tvg-id="Canal11.CR " group-title="ENTRETENIMIENTO" , Canal 11 CR
 https://d2t46xrpai3it5.cloudfront.net/Repretel11/b3e2798525101c45f84a48573676853a.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO", Canal 10 NI
@@ -287,7 +290,7 @@ https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 #EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , Ecuavisa
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , Teleamazonas
+#EXTINF:-1 tvg-id="Teleamazonas" group-title="ENTRETENIMIENTO" , Teleamazonas
 https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO", Telemicro
@@ -362,7 +365,7 @@ https://inliveserver.com:1936/14056/14056/playlist.m3u8
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 group-title="Latino", TeleTres 
+#EXTINF:-1 group-title="ENTRETENIMIENTO", TeleTres 
 https://d1dqr580c2izza.cloudfront.net/hls/canal3.m3u8
 
 
@@ -376,7 +379,7 @@ https://d1dqr580c2izza.cloudfront.net/hls/canal3.m3u8
 
 
 #EXTINF:-1 tvg-id="STAR CHANNE.ar" group-title="De Paga", Star Channels Latinoamerica
-http://tv.nousiptv.com:8080/Veronicafleitas/2528/4022
+
 
 #EXTINF:-1 tvg-id="I644.80807.schedulesdirect.org" group-title="De Paga", TNT Latinoamerica
 
