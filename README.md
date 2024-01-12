@@ -259,8 +259,11 @@ https://i.mjh.nz/SamsungTVPlus/USBC39000080S.m3u8
 #EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO", Canal 3 Super canal
 https://dy434h3s52eoj.cloudfront.net/Canal3GT/01582b1c46c04a847aa7c4936d1eeba7.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Telecadena" group-title="ENTRETENIMIENTO" ,
+http://31.42.185.216:8000/85093573/P1NRJ69MVC/125927
 
-TINF:-1 tvg-id="Canal4.CR" group-title="ENTRETENIMIENTO" , Canal 4 CR
+
+#EXTINF:-1 tvg-id="Canal4.CR" group-title="ENTRETENIMIENTO" , Canal 4 CR
 https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal6.CR" group-title="ENTRETENIMIENTO" , Canal 6 CR
