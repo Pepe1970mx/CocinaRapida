@@ -494,10 +494,10 @@ https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 https://i.mjh.nz/PlutoTV/609e7e423e9173000706a681-alt.m3u8
 
 #EXTINF:-1 tvg-id="60142258a54aeb0007751c15" group-title="Kids", Pluto TV retro Cartoons
-https://i.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
+https://stitcher.pluto.tv/stitch/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=83ae8ae2-b28d-11ee-bbe9-962bf7ca3ddb
 
 #EXTINF:-1 tvg-id="5de802659167b10009e7deba" group-title="Kids", Pluto TV Series Retro 
-https://i.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
+https://stitcher.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=83ae8ae2-b28d-11ee-bbe9-962bf7ca3ddb
 
 
 #EXTINF:-1 tvg-id="645952687cb4b100084ed52e" group-title="Kids", Nickelodeon Pluto TV
@@ -507,7 +507,7 @@ https://i.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
 https://i.mjh.nz/PlutoTV/5d8d08395f39465da6fb3ec4-alt.m3u8
 
 #EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="Kids", Nickelodeon Clasico
-https://i.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2.m3u8
+https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=83ae8ae2-b28d-11ee-bbe9-962bf7ca3ddb
 
 EXTINF:-1 tvg-id="5de802659167b10009e7deba" group-title="Kids", Pluto TV Series Retro
 https://i.mjh.nz/PlutoTV/5de802659167b10009e7deba.m3u8
