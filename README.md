@@ -190,7 +190,7 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 
 
 #EXTINF:-1 tvg-id="6320d2755e54db000783fd87" group-title="Sports", Claro Sports México 
-https://i.mjh.nz/PlutoTV/6320d2755e54db000783fd87-alt.m3u8
+https://stitcher.pluto.tv/stitch/hls/channel/6320d2755e54db000783fd87/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2b64f24a-b25b-11ee-a12f-e234da9d5862
 
 #EXTINF:-1 tvg-id="I143.119143.schedulesdirect.org" group-title="Sports", Claro Sports 2
 http://45.5.117.182:8000/play/a0e5/index.m3u8
