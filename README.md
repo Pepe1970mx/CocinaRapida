@@ -196,18 +196,22 @@ https://stitcher.pluto.tv/stitch/hls/channel/6320d2755e54db000783fd87/master.m3u
 http://45.5.117.182:8000/play/a0e5/index.m3u8
 
 #EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" tvg-id="" group-title="Sports", Fox Sports Premium
+http://the.qualityplus.xyz:8880/Ajdiaz/zdxh1ytqhaJQAHf/25090
 
 #EXTINF:-1 tvg-id="I854.25595.schedulesdirect.org" group-title="Sports", Espn Deportes 
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57185
 
 #EXTINF:-1 tvg-id="I505.41677.schedulesdirect.org" group-title="Sports", Fox Sport Latinoamerica
+http://the.qualityplus.xyz:8880/Ajdiaz/zdxh1ytqhaJQAHf/25091
 
 #EXTINF:-1 tvg-id="I506.66365.schedulesdirect.org" group-title="Sports", Fox sport 2 Latinoamerica
+http://the.qualityplus.xyz:8880/Ajdiaz/zdxh1ytqhaJQAHf/25094
 
 #EXTINF:-1 tvg-id="FOX SPORTS 3" group-title="Sports", Fox sport 3 Latinoamerica
 http://167.250.222.35:16000/play/a07u/index.m3u8
 
 #EXTINF:-1 tvg-id="I509.19158.schedulesdirect.org" group-title="Sports", Espn Latinoamerica
+
 
 #EXTINF:-1 tvg-id="I508.37747.schedulesdirect.org" group-title="Sports", Espn 2 Latinoamerica
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63193
@@ -216,7 +220,10 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63193
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63194
 
 #EXTINF:-1 tvg-id="I693.75951.schedulesdirect.org" group-title="Sports", Tudn
+http://the.qualityplus.xyz:8880/Ajdiaz/zdxh1ytqhaJQAHf/25101
 
+#EXTINF:-1 tvg-id="I693.75951.schedulesdirect.org" group-title="Sports", Tudn
+http://the.qualityplus.xyz:8880/Ajdiaz/zdxh1ytqhaJQAHf/25100
 
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona Tudn
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
