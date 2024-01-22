@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES" , La Rosa de Guadalupe
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES" , La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USBD2700004ME" group-title="VARIEDADES" , Como Dice el Dicho 
@@ -16,7 +16,7 @@ https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
 http://zonamovie.live:8080/CINEMA02/RKnhMX3Bhtbp/592597
 
 #EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" group-title="VARIEDADES" , Pluto TV Series Latinas
-https://i.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
+https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=059e7698-b8c6-11ee-8af5-8ac48132f9fe
 
 #EXTINF:-1 tvg-id="ESBD1300004IG" group-title="VARIEDADES" , Azteca Internacional
 https://i.mjh.nz/SamsungTVPlus/ESBD1300004IG.m3u8
@@ -229,7 +229,7 @@ http://the.qualityplus.xyz:8880/Ajdiaz/zdxh1ytqhaJQAHf/25100
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
 #EXTINF:-1 tvg-id="63f7e3f9dff38e00082a57af" group-title="Sports", ITV Deportes
-https://i.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
+https://stitcher.pluto.tv/stitch/hls/channel/63f7e3f9dff38e00082a57af/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=059e7698-b8c6-11ee-8af5-8ac48132f9fe
 
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0"  group-title="Sports", AyM sports
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
@@ -238,15 +238,15 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949.m3u8
 
 #EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" group-title="Sports", beIN Sport Xtra en Español
-https://i.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
+
 
 #EXTINF:-1 group-title="Sports", M+ La Liga
 http://515860080856165393.of23103.xyz:80/play/XDH31455298/664585696/165393.ts
 
 #EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network 
-https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
 
-#EXTINF:-1 group-title="Sports", Wapa Deportes
+
+#EXTINF:-1 tvg-id"wapadeportes" group-title="Sports", Wapa Deportes
 https://live.field59.com/wapa/wapa2/.m3u8
 
 #EXTINF:-1 tvg-id="ESBC410000577" group-title="Sports", Teledeportes
@@ -570,7 +570,20 @@ https://i.mjh.nz/SamsungTVPlus/ESBC2700002LO.m3u8
 #EXTINF:-1 tvg-id="6385e82900ab2e000768a058" group-title="Movies" , Pluto TV Western
 https://i.mjh.nz/PlutoTV/6385e82900ab2e000768a058-alt.m3u8
 
-#EXTINF:-1 group-title="Movies" , Pluto TV Cine Acción 
+#EXTINF:-1 tvg-id="5dcb62e63d4d8f0009f36881" group-title="Movies" , Pluto TV Cine Acción 
+https://stitcher.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=059e7698-b8c6-11ee-8af5-8ac48132f9fe
+
+#EXTINF:-1 tvg-id="5e972a21ad709d00074195ba" group-title="Movies" , Pluto TV Estrellas En Accion
+https://stitcher.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=059e7698-b8c6-11ee-8af5-8ac48132f9fe
+
+#EXTINF:-1 tvg-id="5dcde437229eff00091b6c30" group-title="Movies" , Pluto TV Cine Estelar
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=059e7698-b8c6-11ee-8af5-8ac48132f9fe
+
+
+#EXTINF:-1 tvg-id="5dcddf1ed95e740009fef7ab" group title="Movies",Pluto TV Terror
+https://stitcher.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=059e7698-b8c6-11ee-8af5-8ac48132f9fe
+
+
 
 
 #EXTINF:-1 group-title="Movies", Xtrema Cine Familia
@@ -580,16 +593,17 @@ https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
 
 
+
+
+
+
+
 #EXTINF:-1 group-title="Movies", Terror Movies
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="Movies" , Estrella TV cine
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
 
-#EXTINF:-1 group-title="Movies", Pluto TV Cine Estelar 
-
-
-#EXTINF:-1 group-title="Movies", Estrellas de Acción 
 
 
 
@@ -597,7 +611,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lg
 
 
 
-#EXTINF:-1 group-
+
+
+
+
+
 
 #EXTINF:-1 group-title="Movies", Pluto TV Cine Clásico 
 
