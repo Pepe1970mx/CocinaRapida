@@ -137,9 +137,6 @@ https://i.mjh.nz/SamsungTVPlus/USBA300040WR.m3u8
 #EXTINF:-1 group-title="VARIEDADES" , Wapa
 https://live.field59.com/wapa/wapa1/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES" , Wapa America
-https://live.field59.com/wapa/wapa3/playlist.m3u8
-
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Mariavision 
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
@@ -238,13 +235,13 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949.m3u8
 
 #EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" group-title="Sports", beIN Sport Xtra en Español
-
+https://stitcher.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1ec28758-b98f-11ee-9a86-3af04881208a
 
 #EXTINF:-1 group-title="Sports", M+ La Liga
 http://515860080856165393.of23103.xyz:80/play/XDH31455298/664585696/165393.ts
 
 #EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network 
-
+https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1ec28758-b98f-11ee-9a86-3af04881208a
 
 #EXTINF:-1 tvg-id"wapadeportes" group-title="Sports", Wapa Deportes
 https://live.field59.com/wapa/wapa2/.m3u8
@@ -471,26 +468,11 @@ https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="Kids", Moni TV 
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 
 #EXTINF:-1 tvg-id="609e7e423e9173000706a681" group-title="Kids", Pluto TV toons Clasico
-https://i.mjh.nz/PlutoTV/609e7e423e9173000706a681-alt.m3u8
+.
 
 #EXTINF:-1 tvg-id="60142258a54aeb0007751c15" group-title="Kids", Pluto TV retro Cartoons
 https://stitcher.pluto.tv/stitch/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=83ae8ae2-b28d-11ee-bbe9-962bf7ca3ddb
@@ -500,7 +482,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u
 
 
 #EXTINF:-1 tvg-id="645952687cb4b100084ed52e" group-title="Kids", Nickelodeon Pluto TV
-https://i.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
+
 
 #EXTINF:-1 tvg-id="5d8d08395f39465da6fb3ec4" group-title="Kids", Nickelodeon en español 
 https://i.mjh.nz/PlutoTV/5d8d08395f39465da6fb3ec4-alt.m3u8
@@ -583,20 +565,26 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u
 #EXTINF:-1 tvg-id="5dcddf1ed95e740009fef7ab" group title="Movies",Pluto TV Terror
 https://stitcher.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=059e7698-b8c6-11ee-8af5-8ac48132f9fe
 
+#EXTINF:-1 tvg-id="5f2817d3d7573a00080f9175" group-title="Movies",Pluto TV Sci-Fi 
+https://stitcher.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1453a1b1-b98f-11ee-8b31-a2ac7c0d602f
 
+#EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" group-title="Movies",Cine Premiere 
+https://stitcher.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1ec28758-b98f-11ee-9a86-3af04881208a
 
+#EXTINF:-1 tvg-id="5dd6ddb30a1d8a000908ed4c" group-title="Movies",Pluto TV Cine Familia
+https://stitcher.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1453a1b1-b98f-11ee-8b31-a2ac7c0d602f
 
 #EXTINF:-1 group-title="Movies", Xtrema Cine Familia
 https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
 
+
+
+
+
+
+
 #EXTINF:-1 group-title="Movies", Xtrema Cine Accion
 https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="Movies", Terror Movies
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
@@ -605,45 +593,6 @@ https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Movies", Pluto TV Cine Clásico 
-
-
-#EXTINF:-1 tvg-id="5defde6d6c07b50009cf0757" group title="Movies",Pluto TV Nuestro Cine 
-
-#EXTINF:-1 tvg-id="5d8d180092e97a5e107638d3" group title="Movies",Pluto TV Terror
-https://i.mjh.nz/PlutoTV/5d8d180092e97a5e107638d3-alt.m3u8
-
-
-#EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" group-title="Movies",Cine Premiere 
-https://i.mjh.nz/PlutoTV/5cf968040ab7d8f181e6a68b-alt.m3u8
-
-#EXTINF:-1 tvg-id="60fb2f47c133270007327375" group-title="Movies",Pelis y Popcorn 
-https://i.mjh.nz/PlutoTV/60fb2f47c133270007327375-alt.m3u8
-
-#EXTINF:-1 tvg-id="5f1ac2591dd8880007bb7d6d" group-title="Movies", Pluto TV Cine Acción 
-
-
-#EXTINF:-1 "5d8d164d92e97a5e107638d2" group-title="Movies",Pluto TV Adrenalina Freezone 
-https://i.mjh.nz/PlutoTV/5d8d164d92e97a5e107638d2-alt.m3u8
-
-
-
-#EXTINF:-1 tvg-id="5f1ac8a87cd38d000745d7cf" group-title="Movies",Pluto TV Thrillers 
-
-
-#EXTINF:-1 tvg-id="5f6a38eaa5b68b0007a00e7a" group-title="Movies",Pluto TV Sci-Fi 
 
 #EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="24/7", Los Tres Chiflados
 https://i.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
