@@ -43,10 +43,10 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdn
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I385.101111.schedulesdirect.org" group-title="VARIEDADES" , Imagen TV HD 
-http://zonamovie.live:8080/CINEMA02/RKnhMX3Bhtbp/586268
+https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 
 #EXTINF:-1 tvg-id="CANAL 5" group-title="VARIEDADES" , Canal Cinco  
-http://zonamovie.live:8080/CINEMA02/RKnhMX3Bhtbp/586264
+https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="I441.109612.schedulesdirect.org" group-title="VARIEDADES" , Multimedios
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
