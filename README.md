@@ -13,7 +13,7 @@ http://31.42.185.216:8000/wbgs/5QDJ15CYWF/129322
 https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
 
 #EXTINF:-1 tvg-id="I233.55980.schedulesdirect.org" group-title="VARIEDADES" , Distrito Comedia
-http://zonamovie.live:8080/CINEMA02/RKnhMX3Bhtbp/592597
+https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" group-title="VARIEDADES" , Pluto TV Series Latinas
 https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=059e7698-b8c6-11ee-8af5-8ac48132f9fe
@@ -60,15 +60,14 @@ https://live.info7.mx/info7/stream.m3u8
 #EXTINF:-1 tvg-id="I70.104892.schedulesdirect.org"a group-title="VARIEDADES" , A MAS 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", ClaroTV Dominicana
-https://vsrv2.az-streamingserver.com:3960/live/claroteledomlive.m3u8
-
-
 #EXTINF:-1 tvg-id="I233.97020.schedulesdirect.org" group-title="VARIEDADES", Canal Nu9ve
-http://zonamovie.live:8080/CINEMA02/RKnhMX3Bhtbp/586263
+https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="I448.15213.schedulesdirect.org" group-title="VARIEDADES", MVS TV 
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES", EclipseTV 
+https://5caf24a595d94.streamlock.net:1937/djkuxtvfah/djkuxtvfah/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I11.15178.schedulesdirect.org" group-title="VARIEDADES", Canal Once 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/.m3u8
@@ -86,11 +85,10 @@ https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Telever
-https://ythls.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
-https://ythlsgo.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
+https://ythls.armelin.one/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", Televisa del Golfo
-https://ythlsgo.onrender.com/channel/UCQ08tNTPiBn44c975S81ftg.m3u8
+#EXTINF:-1 group-title="VARIEDADES", NNVeracruz
+https://s.emisoras.tv:8081/nnveracruz/index.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Quiero TV
 
@@ -112,6 +110,10 @@ https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w2102162107.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64878a0108027d895721403b" group-title="VARIEDADES", Nuestra Vision 
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES", ClaroTV Dominicana
+https://vsrv2.az-streamingserver.com:3960/live/claroteledomlive.m3u8
+
+
 #EXTINF:-1 group-title="VARIEDADES", Canal 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 
@@ -122,7 +124,11 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65880
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES",  Univision Latino America
-https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
+
+https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="I684.29058.schedulesdirect.org" group-title="VARIEDADES", Unimas
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62683
@@ -132,7 +138,6 @@ https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cf
 
 #EXTINF:-1 tvg-id="USBA300040WR" group-title="VARIEDADES", ESTRELLA TV
 https://i.mjh.nz/SamsungTVPlus/USBA300040WR.m3u8
-
 
 #EXTINF:-1 group-title="VARIEDADES" , Wapa
 https://live.field59.com/wapa/wapa1/playlist.m3u8
@@ -216,11 +221,11 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63193
 #EXTINF:-1 tvg-id="I510.79042.schedulesdirect.org" group-title="Sports", Espn 3 Latinoamerica
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63194
 
-#EXTINF:-1 tvg-id="I693.75951.schedulesdirect.org" group-title="Sports", Tudn
-http://the.qualityplus.xyz:8880/Ajdiaz/zdxh1ytqhaJQAHf/25101
+#EXTINF:-1 tvg-id="TUDN" group-title="Sports", Tudn
+https://linear-439.frequency.stream/mt/studio/439/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I693.75951.schedulesdirect.org" group-title="Sports", Tudn
-http://the.qualityplus.xyz:8880/Ajdiaz/zdxh1ytqhaJQAHf/25100
+https://linear-441.frequency.stream/mt/studio/441/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona Tudn
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
