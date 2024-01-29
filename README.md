@@ -13,7 +13,7 @@ http://31.42.185.216:8000/wbgs/5QDJ15CYWF/129322
 https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
 
 #EXTINF:-1 tvg-id="I233.55980.schedulesdirect.org" group-title="VARIEDADES" , Distrito Comedia
-https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
+https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" group-title="VARIEDADES" , Pluto TV Series Latinas
 https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=059e7698-b8c6-11ee-8af5-8ac48132f9fe
@@ -124,7 +124,7 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65880
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES",  Univision Latino America
-https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
+https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 
@@ -224,8 +224,8 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63194
 #EXTINF:-1 tvg-id="TUDN" group-title="Sports", Tudn
 https://linear-439.frequency.stream/mt/studio/439/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I693.75951.schedulesdirect.org" group-title="Sports", Tudn
-https://linear-441.frequency.stream/mt/studio/441/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="I693.75951.schedulesdirect.org" group-title="Sports", Afizzionados
+https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona Tudn
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
