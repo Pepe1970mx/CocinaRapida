@@ -222,7 +222,7 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63193
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63194
 
 #EXTINF:-1 tvg-id="TUDN" group-title="Sports", Tudn
-https://linear-439.frequency.stream/mt/studio/439/hls/master/playlist.m3u8
+http://280112626688710934.ofd0126.xyz:80/play/edu.ronda1107@gmail.com/UBMtxMDgjb/710934.ts
 
 #EXTINF:-1 tvg-id="I693.75951.schedulesdirect.org" group-title="Sports", Afizzionados
 https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
