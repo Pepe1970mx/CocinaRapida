@@ -197,20 +197,20 @@ https://stitcher.pluto.tv/stitch/hls/channel/6320d2755e54db000783fd87/master.m3u
 #EXTINF:-1 tvg-id="I143.119143.schedulesdirect.org" group-title="Sports", Claro Sports 2
 http://45.5.117.182:8000/play/a0e5/index.m3u8
 
-#EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" tvg-id="" group-title="Sports", Fox Sports Premium
-http://the.qualityplus.xyz:8880/Ajdiaz/zdxh1ytqhaJQAHf/25090
+#EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" tvg-id="" group-title="Sports", Fox Deportes 
+http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I854.25595.schedulesdirect.org" group-title="Sports", Espn Deportes 
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57185
 
 #EXTINF:-1 tvg-id="I505.41677.schedulesdirect.org" group-title="Sports", Fox Sport Latinoamerica
-http://the.qualityplus.xyz:8880/Ajdiaz/zdxh1ytqhaJQAHf/25091
+http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I506.66365.schedulesdirect.org" group-title="Sports", Fox sport 2 Latinoamerica
-http://the.qualityplus.xyz:8880/Ajdiaz/zdxh1ytqhaJQAHf/25094
+http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FOX SPORTS 3" group-title="Sports", Fox sport 3 Latinoamerica
-http://167.250.222.35:16000/play/a07u/index.m3u8
+http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I509.19158.schedulesdirect.org" group-title="Sports", Espn Latinoamerica
 
@@ -268,7 +268,7 @@ https://i.mjh.nz/SamsungTVPlus/USBC39000080S.m3u8
 #EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO", Canal 3 Super canal
 https://dy434h3s52eoj.cloudfront.net/Canal3GT/01582b1c46c04a847aa7c4936d1eeba7.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telecadena" group-title="ENTRETENIMIENTO", Telecadena 3/7
+#EXTINF:-1 tvg-id="Telecadena" group-title="ENTRETENIMIENTO", Telecadena 4/7
 http://31.42.185.216:8000/85093573/P1NRJ69MVC/125927
 
 #EXTINF:-1 tvg-id="Canal4.CR" group-title="ENTRETENIMIENTO" , Canal 4 CR
@@ -295,23 +295,21 @@ https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp
 #EXTINF:-1 tvg-id="ATVSur.pe" group-title="ENTRETENIMIENTO" , ATV Sur
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , Unitel
+#EXTINF:-1 tvg-id="unitel" group-title="ENTRETENIMIENTO" , Unitel
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO" , Ecuavisa
+#EXTINF:-1 tvg-id="ecuavisa" group-title="ENTRETENIMIENTO" , Ecuavisa
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
 
 #EXTINF:-1 tvg-id="Teleamazonas" group-title="ENTRETENIMIENTO" , Teleamazonas
 https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO", Telemicro
+#EXTINF:-1 tvg-id="telemicro" group-title="ENTRETENIMIENTO", Telemicro
 http://51.81.93.239:8084/hls/tmicro.m3u8
 
 
 #EXTINF:-1 tvg-id="Televicentro.hn" group-title="ENTRETENIMIENTO", Canal 5 El lider
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
-
-
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TeleSiete 
 https://dy434h3s52eoj.cloudfront.net/Canal7GT/d84b644e13e68dd78dfcb9a0cf0338f1.sdp/Canal7GT/Canal7GT2/chunks.m3u8
@@ -393,7 +391,7 @@ https://d1dqr580c2izza.cloudfront.net/hls/canal3.m3u8
 
 
 #EXTINF:-1 tvg-id="I644.80807.schedulesdirect.org" group-title="De Paga", TNT Latinoamerica
-
+http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT Latinoamerica
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/4010
@@ -411,6 +409,10 @@ http://287868455641656458.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/656458.ts
 
 #EXTINF:-1 tvg-id="I831.98111.schedulesdirect.org" group-title="De Paga", Warner 
 http://287868455641676698.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/676698.ts
+
+#EXTINF:-1 tvg-id="WarnerTV" group-title="De Paga", Warner 
+http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="I212.19385.schedulesdirect.org" group-title="De Paga", Sony
 
