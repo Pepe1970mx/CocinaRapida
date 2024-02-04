@@ -191,13 +191,15 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 
 
 
+
+
 #EXTINF:-1 tvg-id="6320d2755e54db000783fd87" group-title="Sports", Claro Sports México 
 https://stitcher.pluto.tv/stitch/hls/channel/6320d2755e54db000783fd87/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2b64f24a-b25b-11ee-a12f-e234da9d5862
 
 #EXTINF:-1 tvg-id="I143.119143.schedulesdirect.org" group-title="Sports", Claro Sports 2
 http://45.5.117.182:8000/play/a0e5/index.m3u8
 
-#EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" tvg-id="" group-title="Sports", Fox Deportes 
+#EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" tvg-id="foxdeportes.us" group-title="Sports", Fox Deportes 
 http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I854.25595.schedulesdirect.org" group-title="Sports", Espn Deportes 
@@ -221,7 +223,7 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63193
 #EXTINF:-1 tvg-id="I510.79042.schedulesdirect.org" group-title="Sports", Espn 3 Latinoamerica
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63194
 
-#EXTINF:-1 tvg-id="TUDN" group-title="Sports", Tudn
+#EXTINF:-1 tvg-id="tudn.mx" group-title="Sports", Tudn
 http://280112626688710934.ofd0126.xyz:80/play/edu.ronda1107@gmail.com/UBMtxMDgjb/710934.ts
 
 #EXTINF:-1 tvg-id="I693.75951.schedulesdirect.org" group-title="Sports", Afizzionados
