@@ -268,7 +268,7 @@ https://i.mjh.nz/SamsungTVPlus/USBC39000080S.m3u8
 #EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO", Canal 3 Super canal
 https://dy434h3s52eoj.cloudfront.net/Canal3GT/01582b1c46c04a847aa7c4936d1eeba7.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telecadena" group-title="ENTRETENIMIENTO", Telecadena 4/7
+#EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="ENTRETENIMIENTO", Telecadena 7 y 4
 http://31.42.185.216:8000/85093573/P1NRJ69MVC/125927
 
 #EXTINF:-1 tvg-id="Canal4.CR" group-title="ENTRETENIMIENTO" , Canal 4 CR
@@ -280,10 +280,10 @@ https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.
 #EXTINF:-1 tvg-id="Canal11.CR " group-title="ENTRETENIMIENTO" , Canal 11 CR
 https://d2t46xrpai3it5.cloudfront.net/Repretel11/b3e2798525101c45f84a48573676853a.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO", Canal 10 NI
+#EXTINF:-1 tvg-id="Canal10.ni" group-title="ENTRETENIMIENTO", Canal 10 NI
 https://dgh4r3ro3i2mi.cloudfront.net/Canal10NI/7d8e90910905c4165b7180d8db1d8b68.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Canal 11 NI
+#EXTINF:-1 tvg-id="Canal11.ni" group-title="ENTRETENIMIENTO", Canal 11 NI
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal11.m3u8
 
 #EXTINF:-1 tvg-id="Canal11.hn" group-title="ENTRETENIMIENTO" , Canal 11 HN
@@ -295,23 +295,23 @@ https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp
 #EXTINF:-1 tvg-id="ATVSur.pe" group-title="ENTRETENIMIENTO" , ATV Sur
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="unitel" group-title="ENTRETENIMIENTO" , Unitel
+#EXTINF:-1 tvg-id="unitel.pe" group-title="ENTRETENIMIENTO" , Unitel
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 
-#EXTINF:-1 tvg-id="ecuavisa" group-title="ENTRETENIMIENTO" , Ecuavisa
+#EXTINF:-1 tvg-id="ecuavisa.ec" group-title="ENTRETENIMIENTO" , Ecuavisa
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
 
-#EXTINF:-1 tvg-id="Teleamazonas" group-title="ENTRETENIMIENTO" , Teleamazonas
+#EXTINF:-1 tvg-id="Teleamazonas.ec" group-title="ENTRETENIMIENTO" , Teleamazonas
 https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8
 
-#EXTINF:-1 tvg-id="telemicro" group-title="ENTRETENIMIENTO", Telemicro
+#EXTINF:-1 tvg-id="telemicro.rd" group-title="ENTRETENIMIENTO", Telemicro
 http://51.81.93.239:8084/hls/tmicro.m3u8
 
 
 #EXTINF:-1 tvg-id="Televicentro.hn" group-title="ENTRETENIMIENTO", Canal 5 El lider
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", TeleSiete 
+#EXTINF:-1 tvg-id="Televicentro.hn" group-title="ENTRETENIMIENTO", TeleSiete 
 https://dy434h3s52eoj.cloudfront.net/Canal7GT/d84b644e13e68dd78dfcb9a0cf0338f1.sdp/Canal7GT/Canal7GT2/chunks.m3u8
 
 
