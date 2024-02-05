@@ -16,7 +16,7 @@ https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" group-title="VARIEDADES" , Pluto TV Series Latinas
-https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=059e7698-b8c6-11ee-8af5-8ac48132f9fe
+https://r.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
 
 #EXTINF:-1 tvg-id="ESBD1300004IG" group-title="VARIEDADES" , Azteca Internacional
 https://i.mjh.nz/SamsungTVPlus/ESBD1300004IG.m3u8
@@ -192,9 +192,11 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 
 
 
+#EXTINF:-1 tvg-id="6582f002a620e3000813b329" group-title="Sports", Azteca Deportes Network 
+https://r.mjh.nz/PlutoTV/6582f002a620e3000813b329-alt.m3u8
 
 #EXTINF:-1 tvg-id="6320d2755e54db000783fd87" group-title="Sports", Claro Sports México 
-https://stitcher.pluto.tv/stitch/hls/channel/6320d2755e54db000783fd87/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2b64f24a-b25b-11ee-a12f-e234da9d5862
+https://r.mjh.nz/PlutoTV/6320d2755e54db000783fd87-alt.m3u8
 
 #EXTINF:-1 tvg-id="I143.119143.schedulesdirect.org" group-title="Sports", Claro Sports 2
 http://45.5.117.182:8000/play/a0e5/index.m3u8
@@ -233,7 +235,7 @@ https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
 #EXTINF:-1 tvg-id="63f7e3f9dff38e00082a57af" group-title="Sports", ITV Deportes
-https://stitcher.pluto.tv/stitch/hls/channel/63f7e3f9dff38e00082a57af/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=059e7698-b8c6-11ee-8af5-8ac48132f9fe
+https://r.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
 
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0"  group-title="Sports", AyM sports
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
@@ -242,13 +244,13 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949.m3u8
 
 #EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" group-title="Sports", beIN Sport Xtra en Español
-https://stitcher.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1ec28758-b98f-11ee-9a86-3af04881208a
+https://r.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 
 #EXTINF:-1 group-title="Sports", M+ La Liga
 http://515860080856165393.of23103.xyz:80/play/XDH31455298/664585696/165393.ts
 
 #EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network 
-https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1ec28758-b98f-11ee-9a86-3af04881208a
+https://r.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
 
 #EXTINF:-1 tvg-id"wapadeportes" group-title="Sports", Wapa Deportes
 https://live.field59.com/wapa/wapa2/.m3u8
@@ -473,14 +475,6 @@ https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 
 #EXTINF:-1 tvg-id="609e7e423e9173000706a681" group-title="Kids", Pluto TV toons Clasico
-.
-
-#EXTINF:-1 tvg-id="60142258a54aeb0007751c15" group-title="Kids", Pluto TV retro Cartoons
-https://stitcher.pluto.tv/stitch/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=83ae8ae2-b28d-11ee-bbe9-962bf7ca3ddb
-
-#EXTINF:-1 tvg-id="5de802659167b10009e7deba" group-title="Kids", Pluto TV Series Retro 
-https://stitcher.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=83ae8ae2-b28d-11ee-bbe9-962bf7ca3ddb
-
 
 #EXTINF:-1 tvg-id="645952687cb4b100084ed52e" group-title="Kids", Nickelodeon Pluto TV
 
@@ -490,29 +484,9 @@ https://i.mjh.nz/PlutoTV/5d8d08395f39465da6fb3ec4-alt.m3u8
 
 #EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="Kids", Nickelodeon Clasico
 https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=83ae8ae2-b28d-11ee-bbe9-962bf7ca3ddb
-
-EXTINF:-1 tvg-id="5de802659167b10009e7deba" group-title="Kids", Pluto TV Series Retro
-https://i.mjh.nz/PlutoTV/5de802659167b10009e7deba.m3u8
-
-#EXTINF:-1 group-title="Kids", Xtrema Cartoons
-https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids", 
-
-
-#EXTINF:-1 group-title="Kids", Zaz TV
-
-
+ 
 #EXTINF:-1 group-title="Kids", Super Kaos TV
 https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids", 13 Kids
-
-
-#EXTINF:-1 group-title="Kids" , Latino Kids
-https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8?PlaylistM3UCL
-
-
 
 
 
@@ -555,18 +529,21 @@ https://r.mjh.nz/PlutoTV/624af40c004f8000079b784d-alt.m3u8
 #EXTINF:-1 tvg-id="ESBC2700002LO" group-title="Movies" , Grjngo-Peliculas del Oeste
 https://i.mjh.nz/SamsungTVPlus/ESBC2700002LO.m3u8
 
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63" group-title="Movies" , Top Cine
+https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291.m3u8
+
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64f0dad7c2bc9b9001d46ea8" group-title="Movies", Butaca TV
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64f0dad7c2bc9b9001d46ea8.m3u8
-
-
 
 #EXTINF:-1 group-title="Movies", Terror Movies
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="Movies" , Estrella TV cine
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="62c5d80dc6de440007e033eb" group-title="Series",
+
+#EXTINF:-1 tvg-id="5dcde1317578340009b751d0" group-title="Series", Pluto TV Series
+https://r.mjh.nz/PlutoTV/5dcde1317578340009b751d0-alt.m3u8
+
+#EXTINF:-1 tvg-id="62c5d80dc6de440007e033eb" group-title="Series", Series
 https://r.mjh.nz/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
 
 #EXTINF:-1 tvg-id="63eb947c4e83e70008ab877b" group-title="Series", NCIS
