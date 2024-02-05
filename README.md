@@ -189,6 +189,11 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id"AMX NOTICIAS" group-title="NOTICIAS" , Mexiquense Noticias 
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
 
+#EXTINF:-1 group-title="NOTICIAS", Excélsior Televisión HD 
+https://ythls.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS" , CNN en Español 
+https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
 
 
 
@@ -604,11 +609,7 @@ http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="NOTICIAS", Excélsior Televisión HD 
-https://ythls.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS" , CNN en Español 
-https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
 
 
 
