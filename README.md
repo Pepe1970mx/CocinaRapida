@@ -543,24 +543,26 @@ https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="5dcde1317578340009b751d0" group-title="Series", Pluto TV Series
 https://r.mjh.nz/PlutoTV/5dcde1317578340009b751d0-alt.m3u8
 
-#EXTINF:-1 tvg-id="62c5d80dc6de440007e033eb" group-title="Series", Series
+#EXTINF:-1 tvg-id="62c5d80dc6de440007e033eb" group-title="Series", Runtime
 https://r.mjh.nz/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
 
 #EXTINF:-1 tvg-id="63eb947c4e83e70008ab877b" group-title="Series", NCIS
 https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 
-#EXTINF:-1 tvg-id="63eb947c4e83e70008ab877b" group-title="Series", Pluto TV Series Retro
+#EXTINF:-1 tvg-id="5de802659167b10009e7deba" group-title="Series", Pluto TV Series Retro
 https://r.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
 
-#EXTINF:-1 tvg-id="63eb947c4e83e70008ab877b" group-title="Series", Pluto TV Retro Cartoons
+#EXTINF:-1 tvg-id="60142258a54aeb0007751c15" group-title="Series", Pluto TV Retro Cartoons
 https://r.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
-
 
 #EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="Series", Los Tres Chiflados
 https://i.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
 
 #EXTINF:-1 tvg-id="60f58f2278490000079bc47b" group-title="Series", La Niñera
 https://i.mjh.nz/PlutoTV/60f58f2278490000079bc47b-alt.m3u8
+
+
+
 
 
 #EXTINF:-1 group-title="RETRO", RetroMagico 
