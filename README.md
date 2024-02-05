@@ -218,7 +218,6 @@ http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I509.19158.schedulesdirect.org" group-title="Sports", Espn Latinoamerica
 
-
 #EXTINF:-1 tvg-id="I508.37747.schedulesdirect.org" group-title="Sports", Espn 2 Latinoamerica
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63193
 
@@ -392,7 +391,7 @@ https://d1dqr580c2izza.cloudfront.net/hls/canal3.m3u8
 
 
 #EXTINF:-1 tvg-id="STAR CHANNE.ar" group-title="De Paga", Star Channels Latinoamerica
-
+http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I644.80807.schedulesdirect.org" group-title="De Paga", TNT Latinoamerica
 http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
@@ -403,7 +402,7 @@ http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga", AMC
 http://287868455641656442.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/656442.ts
 
-#EXTINF:-1 tvg-id="AMC" group-title="De Paga", AMC
+#EXTINF:-1 tvg-id="AMC.mx" group-title="De Paga", AMC
 
 
 
@@ -414,7 +413,7 @@ http://287868455641656458.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/656458.ts
 #EXTINF:-1 tvg-id="I831.98111.schedulesdirect.org" group-title="De Paga", Warner 
 
 
-#EXTINF:-1 tvg-id="WarnerTV" group-title="De Paga", Warner 
+#EXTINF:-1 tvg-id="WarnerTV.mx" group-title="De Paga", Warner 
 http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
 
 
@@ -431,43 +430,24 @@ http://287868455641657212.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/657212.ts
 #EXTINF:-1 tvg-id="SPACE" group-title="De Paga", Space
 
 
-#EXTINF:-1 tvg-id="I0.122761.schedulesdirect.org" group-title="De Paga" , Universal Premier
-http://tv.nousiptv.com:8080/Veronicafleitas/2528/1119204
+#EXTINF:-1 tvg-id="I0.122761.schedulesdirect.org" group-title="De Paga" , Universal 
+http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I911.68317.schedulesdirect.org" group-title="De Paga" ,Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I313.24553.schedulesdirect.org" group-title="De Paga" , HBO Latino
-http://tv.nousiptv.com:8080/Veronicafleitas/2528/1173791
+#EXTINF:-1 tvg-id="I313.24553.schedulesdirect.org" group-title="De Paga" , HBO 
+http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I350.34879.schedulesdirect.org" group-title="De Paga" , HBO Family 
-http://tv.nousiptv.com:8080/Veronicafleitas/2528/4017
+#EXTINF:-1 tvg-id="I350.34879.schedulesdirect.org" group-title="De Paga" , HBO 2
+http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I241.102862.schedulesdirect.org" group-title="De Paga", Fox Es
 
 #EXTINF:-1 tvg-id="I362.91183.schedulesdirect.org" group-title="De Paga", M+ Accion 
 
 
-#EXTINF:-1 tvg-id="I114.16141.schedulesdirect.org" tvg-logo=" " group-title="De Paga", Cartoon Network 
-http://287868455641653227.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/653227.ts
 
-#EXTINF:-1 group-title="De Paga" , Tooncast 
-http://tv.nousiptv.com:8080/Veronicafleitas/2528/1155861
-
-#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga", Nickelodeon 
-http://287868455641694435.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/694435.ts
-
-#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga", Disney Channels
-http://287868455641661945.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/661945.ts
-
-#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga", Disney XD
-http://dm.lion-ott.com:80/roberto88/roberto88/724181
-
-
-#EXTINF:-1 tvg-id="I170.11006.schedulesdirect.org" group-title="De Paga" , Nick
-
-#EXTINF:-1 tvg-id="ESBC4100003WE" group-title="De Paga" , Clan
-https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
 
 
 
@@ -488,9 +468,26 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u
 #EXTINF:-1 group-title="Kids", Super Kaos TV
 https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="I114.16141.schedulesdirect.org" tvg-logo=" " group-title="Kids", Cartoon Network 
+http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids" , Tooncast 
+http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8
+
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="Kids", Nickelodeon 
+http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
+
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="Kids", Disney Channels
+http://287868455641661945.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/661945.ts
+
+#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="Kids", Disney XD
+
+#EXTINF:-1 tvg-id="ESBC4100003WE" group-title="Kids" , Clan
+https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
 
 
-#EXTINF:-1 tvg-logo=" " group-title="Movies" , TigueritosTV 
+
+#EXTINF:-1 group-title="Movies" , TigueritosTV 
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/.m3u8
 
 #EXTINF:-1 group-title="Movies",Cine Sony 
