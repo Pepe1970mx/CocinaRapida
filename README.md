@@ -396,13 +396,13 @@ https://d1dqr580c2izza.cloudfront.net/hls/canal3.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT Latinoamerica
-http://tv.nousiptv.com:8080/Veronicafleitas/2528/4010
+
 
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga", AMC
 http://287868455641656442.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/656442.ts
 
 #EXTINF:-1 tvg-id="AMC" group-title="De Paga", AMC
-http://287868455641656442.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/656442.ts
+
 
 
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga", SYFY
@@ -410,7 +410,7 @@ http://287868455641656458.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/656458.ts
 
 
 #EXTINF:-1 tvg-id="I831.98111.schedulesdirect.org" group-title="De Paga", Warner 
-http://287868455641676698.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/676698.ts
+
 
 #EXTINF:-1 tvg-id="WarnerTV" group-title="De Paga", Warner 
 http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
@@ -427,7 +427,7 @@ http://287868455641694437.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/694437.ts
 http://287868455641657212.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/657212.ts
 
 #EXTINF:-1 tvg-id="SPACE" group-title="De Paga", Space
-http://287868455641657212.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/657212.ts
+
 
 #EXTINF:-1 tvg-id="I0.122761.schedulesdirect.org" group-title="De Paga" , Universal Premier
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/1119204
@@ -440,8 +440,6 @@ http://tv.nousiptv.com:8080/Veronicafleitas/2528/1173791
 
 #EXTINF:-1 tvg-id="I350.34879.schedulesdirect.org" group-title="De Paga" , HBO Family 
 http://tv.nousiptv.com:8080/Veronicafleitas/2528/4017
-
-#EXTINF:-1 tvg-id="664585696" group-title="De Paga", AMC Es
 
 #EXTINF:-1 tvg-id="I241.102862.schedulesdirect.org" group-title="De Paga", Fox Es
 
@@ -465,12 +463,6 @@ http://dm.lion-ott.com:80/roberto88/roberto88/724181
 
 
 #EXTINF:-1 tvg-id="I170.11006.schedulesdirect.org" group-title="De Paga" , Nick
-
-#EXTINF:-1 group-title="De Paga" , Disney Channels Es
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/452
-
-#EXTINF:-1 group-title="De Paga" , Nickelodeon Es
-http://pinkpanther.uk:8080/Restreamtodo1/vnScmduQrHjw/446
 
 #EXTINF:-1 tvg-id="ESBC4100003WE" group-title="De Paga" , Clan
 https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
@@ -530,14 +522,8 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/.m3u8
 #EXTINF:-1 group-title="Movies",Cine Sony 
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64fba5f3214cf8b3b54b5ecc" group-title="Movies" , Canela Cinema
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64fba5f3214cf8b3b54b5ecc.m3u8
-
-#EXTINF:-1 group-title="Movies" , Acción Mexicana
-
-#EXTINF:-1 tvg-id=" " group-title="Movies" , Canela Familia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=654&avod=1&coppa=1&is_lat=1&dnt=1&us_privacy=1---&did=9b43ed4af96bbfcbcf07eec0a811b26f&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=es&site_page=https%253a%252f%252fwww.canela.tv%252f%253fsection%253dcanelakids&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1694838782&id=13489&ip=201.148.42.147&override_expiration=1500&deliveryProfileId=23762&sign=1MazFi6NC4S08MxbWWzCoEOXqn1U3ga6IPnDAEeXTFY%3D
-
+#EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" group-title="Movies",Cine Premiere 
+https://r.mjh.nz/PlutoTV/5cf968040ab7d8f181e6a68b-alt.m3u8
 
 #EXTINF:-1 tvg-id="ESAJ45000181E" group-title="Movies" , Accion Rakuten 
 https://i.mjh.nz/SamsungTVPlus/ESAJ45000181E.m3u8
@@ -548,52 +534,31 @@ https://i.mjh.nz/SamsungTVPlus/ESBD80000288.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-62990665171ca654f77b1e6c" group-title="Movies", Familiares-Rakuten
 https://i.mjh.nz/Plex/643054b1fc3be59477853717-62990665171ca654f77b1e6c.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64f0dad7c2bc9b9001d46ea8" group-title="Movies", Butaca TV
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64f0dad7c2bc9b9001d46ea8.m3u8
+"5dcb62e63d4d8f0009f36881" group-title="Movies" , Pluto TV Cine Acción 
+https://r.mjh.nz/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8
 
+#EXTINF:-1 tvg-id="5e972a21ad709d00074195ba" group-title="Movies" , Pluto TV Estrellas En Accion
+https://r.mjh.nz/PlutoTV/5e972a21ad709d00074195ba-alt.m3u8
 
-#EXTINF:-1 tvg-id="5defde6d6c07b50009cf0757" group-title="Movies" , Pelimex
-https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8?ads.wurl_channel=1184&ads.wurl_name=PeliMex&ads.coppa=0&ads.device_id=9b43ed4af96bbfcbcf07eec0a811b26f&ads.dnt=0&ads.us_privacy=1yn-&ads.gdpr=0&ads.consent=1&ads.app_name=canelatv&ads.app_bundle=com.canela.ott&ads.app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&ads.ifa_type=dpid&ads.custom=%7BCUSTOM%7D&ads.device_make=&ads.device_model=&ads.content_livestream=1&ads.content_producer_name=0&ads.content_rating=not_rated&ads.language=en&ads.device_manufacturer=&ads.device_type=handset&ads.partner=internal&ads.platform=web&ads.device_width=1280&ads.device_height=720&timestamp=1694839009&id=38655&ip=201.148.42.147&override_expiration=1500&deliveryProfileId=23762&sign=5FwWTQiJh1MHp%2BII7o53LsRo2rhC%2FVkmXog7ZxKnQ5g%3D
+#EXTINF:-1 tvg-id="5dcde437229eff00091b6c30" group-title="Movies" , Pluto TV Cine Estelar
+https://r.mjh.nz/PlutoTV/5dcde437229eff00091b6c30-alt.m3u8
+
+#EXTINF:-1 tvg-id="5dcddf1ed95e740009fef7ab" group title="Movies",Pluto TV Cine Terror
+https://r.mjh.nz/PlutoTV/5dcddf1ed95e740009fef7ab-alt.m3u8
+
+#EXTINF:-1 tvg-id="5f2817d3d7573a00080f9175" group-title="Movies",Pluto TV Sci-Fi 
+https://r.mjh.nz/PlutoTV/5f2817d3d7573a00080f9175-alt.m3u8
+
+#EXTINF:-1 tvg-id="624af40c004f8000079b784d" group-title="Movies", Pluto TV Cine Crimen
+https://r.mjh.nz/PlutoTV/624af40c004f8000079b784d-alt.m3u8
 
 #EXTINF:-1 tvg-id="ESBC2700002LO" group-title="Movies" , Grjngo-Peliculas del Oeste
 https://i.mjh.nz/SamsungTVPlus/ESBC2700002LO.m3u8
 
-#EXTINF:-1 tvg-id="6385e82900ab2e000768a058" group-title="Movies" , Pluto TV Western
-https://i.mjh.nz/PlutoTV/6385e82900ab2e000768a058-alt.m3u8
-
-#EXTINF:-1 tvg-id="5dcb62e63d4d8f0009f36881" group-title="Movies" , Pluto TV Cine Acción 
-https://stitcher.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=059e7698-b8c6-11ee-8af5-8ac48132f9fe
-
-#EXTINF:-1 tvg-id="5e972a21ad709d00074195ba" group-title="Movies" , Pluto TV Estrellas En Accion
-https://stitcher.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=059e7698-b8c6-11ee-8af5-8ac48132f9fe
-
-#EXTINF:-1 tvg-id="5dcde437229eff00091b6c30" group-title="Movies" , Pluto TV Cine Estelar
-https://stitcher.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=059e7698-b8c6-11ee-8af5-8ac48132f9fe
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64f0dad7c2bc9b9001d46ea8" group-title="Movies", Butaca TV
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64f0dad7c2bc9b9001d46ea8.m3u8
 
 
-#EXTINF:-1 tvg-id="5dcddf1ed95e740009fef7ab" group title="Movies",Pluto TV Terror
-https://stitcher.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=059e7698-b8c6-11ee-8af5-8ac48132f9fe
-
-#EXTINF:-1 tvg-id="5f2817d3d7573a00080f9175" group-title="Movies",Pluto TV Sci-Fi 
-https://stitcher.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1453a1b1-b98f-11ee-8b31-a2ac7c0d602f
-
-#EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" group-title="Movies",Cine Premiere 
-https://stitcher.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1ec28758-b98f-11ee-9a86-3af04881208a
-
-#EXTINF:-1 tvg-id="5dd6ddb30a1d8a000908ed4c" group-title="Movies",Pluto TV Cine Familia
-https://stitcher.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1453a1b1-b98f-11ee-8b31-a2ac7c0d602f
-
-#EXTINF:-1 group-title="Movies", Xtrema Cine Familia
-https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Movies", Xtrema Cine Accion
-https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies", Terror Movies
 https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
@@ -601,13 +566,23 @@ https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Movies" , Estrella TV cine
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
 
+#EXTINF:-1 tvg-id="62c5d80dc6de440007e033eb" group-title="Series",
+https://r.mjh.nz/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
+
+#EXTINF:-1 tvg-id="63eb947c4e83e70008ab877b" group-title="Series", NCIS
+https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
+
+#EXTINF:-1 tvg-id="63eb947c4e83e70008ab877b" group-title="Series", Pluto TV Series Retro
+https://r.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
+
+#EXTINF:-1 tvg-id="63eb947c4e83e70008ab877b" group-title="Series", Pluto TV Retro Cartoons
+https://r.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
 
 
-#EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="24/7", Los Tres Chiflados
+#EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="Series", Los Tres Chiflados
 https://i.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
 
-
-#EXTINF:-1 tvg-id="60f58f2278490000079bc47b" group-title="24/7", La Niñera
+#EXTINF:-1 tvg-id="60f58f2278490000079bc47b" group-title="Series", La Niñera
 https://i.mjh.nz/PlutoTV/60f58f2278490000079bc47b-alt.m3u8
 
 
