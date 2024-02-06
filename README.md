@@ -395,20 +395,20 @@ https://d1dqr580c2izza.cloudfront.net/hls/canal3.m3u8
 #EXTINF:-1 tvg-id="I528.88534.schedulesdirect.org" group-title="De Paga", Star Channels Latinoamerica
 
 
-#EXTINF:-1 tvg-id="STAR CHANNE.ar" group-title="De Paga", Star Channels Latinoamerica
+#EXTINF:-1 tvg-id="STAR CHANNEL.ar" group-title="De Paga", Star Channels Latinoamerica
 http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I644.80807.schedulesdirect.org" group-title="De Paga", TNT Latinoamerica
+
+
+#EXTINF:-1 tvg-id="TNT.mx" group-title="De Paga", TNT Latinoamerica
 http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT Latinoamerica
-
-
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga", AMC
-http://287868455641656442.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/656442.ts
+
 
 #EXTINF:-1 tvg-id="AMC.mx" group-title="De Paga", AMC
-
+http://287868455641656442.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/656442.ts
 
 
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga", SYFY
@@ -418,14 +418,14 @@ http://287868455641656458.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/656458.ts
 #EXTINF:-1 tvg-id="I831.98111.schedulesdirect.org" group-title="De Paga", Warner 
 
 
-#EXTINF:-1 tvg-id="WarnerTV.mx" group-title="De Paga", Warner 
+#EXTINF:-1 tvg-id="WARNERTV.mx" group-title="De Paga", Warner 
 http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="I212.19385.schedulesdirect.org" group-title="De Paga", Sony
 
 
-#EXTINF:-1 tvg-id="SONY" group-title="De Paga", Sony
+#EXTINF:-1 tvg-id="SONY.mx" group-title="De Paga", Sony
 http://287868455641694437.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/694437.ts
 
 
