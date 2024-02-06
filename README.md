@@ -36,7 +36,10 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
 #EXTINF:-1 tvg-id="I85.46607.schedulesdirect.org" group-title="VARIEDADES" , Azteca Uno 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-id="I102.16461.schedulesdirect.org" group-title="VARIEDADES" , Las Estrellas 
+#EXTINF:-1 tvg-id="I102.16461.schedulesdirect.org"
+
+
+#EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS" , Las Estrellas 
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
 
 #EXTINF:-1 tvg-id="I403.16257.schedulesdirect.org" group-title="VARIEDADES", Las estrellas Internacional
@@ -395,13 +398,13 @@ https://d1dqr580c2izza.cloudfront.net/hls/canal3.m3u8
 #EXTINF:-1 tvg-id="I528.88534.schedulesdirect.org" group-title="De Paga", Star Channels Latinoamerica
 
 
-#EXTINF:-1 tvg-id="STAR  CHANNEL.mx" group-title="De Paga", Star Channels Latinoamerica
+#EXTINF:-1 tvg-id="STAR CHANNEL" group-title="De Paga", Star Channels Latinoamerica
 http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I644.80807.schedulesdirect.org" group-title="De Paga", TNT Latinoamerica
 
 
-#EXTINF:-1 tvg-id="TNT.mx" group-title="De Paga", TNT Latinoamerica
+#EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT Latinoamerica
 http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga", AMC
@@ -418,22 +421,22 @@ http://287868455641656458.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/656458.ts
 #EXTINF:-1 tvg-id="I831.98111.schedulesdirect.org" group-title="De Paga", Warner 
 
 
-#EXTINF:-1 tvg-id="WARNER.mx" group-title="De Paga", Warner 
+#EXTINF:-1 tvg-id="WARNER" group-title="De Paga", Warner 
 http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="I212.19385.schedulesdirect.org" group-title="De Paga", Sony
 
 
-#EXTINF:-1 tvg-id="SONY.mx" group-title="De Paga", Sony
+#EXTINF:-1 tvg-id="SONY" group-title="De Paga", Sony
 http://287868455641694437.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/694437.ts
 
 
 #EXTINF:-1 tvg-id="I527.60801.schedulesdirect.org" group-title="De Paga", Space
-http://287868455641657212.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/657212.ts
+
 
 #EXTINF:-1 tvg-id="SPACE" group-title="De Paga", Space
-
+http://287868455641657212.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/657212.ts
 
 #EXTINF:-1 tvg-id="I0.122761.schedulesdirect.org" group-title="De Paga" , Universal 
 http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
@@ -441,16 +444,17 @@ http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
 #EXTINF:-1 tvg-id="I911.68317.schedulesdirect.org" group-title="De Paga" ,Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBO.mx" group-title="De Paga" , HBO 
+#EXTINF:-1 tvg-id="HBO" group-title="De Paga" , HBO 
 http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I313.24553.schedulesdirect.org" group-title="De Paga" , HBO 
 http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="HBO 2" group-title="De Paga" , HBO 
+http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I350.34879.schedulesdirect.org" group-title="De Paga" , HBO 2
-http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="I241.102862.schedulesdirect.org" group-title="De Paga", Fox Es
 
