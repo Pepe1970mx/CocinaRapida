@@ -110,43 +110,42 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8?
 #EXTINF:-1 tvg-id="I440.99621.schedulesdirect.org" group-title="VARIEDADES" , Canal 15 Coahuila
 https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w2102162107.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64878a0108027d895721403b" group-title="VARIEDADES", Nuestra Vision 
-https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES", ClaroTV Dominicana
-https://vsrv2.az-streamingserver.com:3960/live/claroteledomlive.m3u8
-
-
-#EXTINF:-1 group-title="VARIEDADES", Canal 57
-https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES", Telemundo Internacional
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65880
-
-#EXTINF:-1 group-title="VARIEDADES", Telemundo PR 
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
-#EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES",  Univision Latino America
-https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
-
-https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="I684.29058.schedulesdirect.org" group-title="VARIEDADES", Unimas
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62683
-
-#EXTINF:-1 group-title="VARIEDADES", Teleonce Univision PR
-https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
-
-#EXTINF:-1 tvg-id="USBA300040WR" group-title="VARIEDADES", ESTRELLA TV
-https://i.mjh.nz/SamsungTVPlus/USBA300040WR.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES" , Wapa
-https://live.field59.com/wapa/wapa1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Mariavision 
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64878a0108027d895721403b" group-title="US Español", Nuestra Vision 
+https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="US Español", ClaroTV Dominicana
+https://vsrv2.az-streamingserver.com:3960/live/claroteledomlive.m3u8
+
+#EXTINF:-1 group-title="US Español", Canal 57
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" group-title="US Español", Telemundo Internacional
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65880
+
+#EXTINF:-1 group-title="US Español", Telemundo PR 
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" tvg-logo=" " group-title="US Español",  Univision Latino America
+https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="I684.29058.schedulesdirect.org" group-title="US Español", Unimas
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62683
+
+#EXTINF:-1 group-title="US Español", Teleonce Univision PR
+https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
+
+#EXTINF:-1 tvg-id="USBA300040WR" group-title="US Español", ESTRELLA TV
+https://i.mjh.nz/SamsungTVPlus/USBA300040WR.m3u8
+
+#EXTINF:-1 group-title="US Español" , Wapa
+https://live.field59.com/wapa/wapa1/playlist.m3u8
+
+
 
 
 
