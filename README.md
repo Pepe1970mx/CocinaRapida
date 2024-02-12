@@ -284,32 +284,26 @@ https://i.mjh.nz/SamsungTVPlus/USBC39000080S.m3u8
 #EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO", Canal 3 Super canal
 https://dy434h3s52eoj.cloudfront.net/Canal3GT/01582b1c46c04a847aa7c4936d1eeba7.sdp/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-id="Canal4.CR" group-title="ENTRETENIMIENTO" , Canal 4 CR
 https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal6.CR" group-title="ENTRETENIMIENTO" , Canal 6 CR
 https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", Teletica 7 CR
+#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Teletica 7 CR
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal11.CR " group-title="ENTRETENIMIENTO" , Canal 11 CR
 https://d2t46xrpai3it5.cloudfront.net/Repretel11/b3e2798525101c45f84a48573676853a.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal13.cr" group-title="ENTRETENIMIENTO" , Canal 13 CR
+#EXTINF:-1 tvg-id="Canal13.CR" group-title="ENTRETENIMIENTO" , Canal 13 CR
 https://250weu.bozztv.com/ssh101/ssh101/sinart13/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-id="Canal10.ni" group-title="ENTRETENIMIENTO", Canal 10 NI
 https://dgh4r3ro3i2mi.cloudfront.net/Canal10NI/7d8e90910905c4165b7180d8db1d8b68.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal11.ni" group-title="ENTRETENIMIENTO", Canal 11 NI
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal11.m3u8
-
-
 
 #EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="ENTRETENIMIENTO", Telecadena 7 y 4
 http://31.42.185.216:8000/85093573/P1NRJ69MVC/125927
@@ -323,7 +317,7 @@ https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" group-title="ENTRETENIMIENTO" , ATV PE
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ATVSur.pe" group-title="ENTRETENIMIENTO" , ATV Sur PE
+#EXTINF:-1 tvg-id="ATVPlus.pe" group-title="ENTRETENIMIENTO" , ATV Sur PE
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UnitelSantaCruz.bo" group-title="ENTRETENIMIENTO" , Unitel BO
@@ -338,21 +332,13 @@ https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-id="telemicro.rd" group-title="ENTRETENIMIENTO", Telemicro RD
 http://51.81.93.239:8084/hls/tmicro.m3u8
 
-
-
-
 #EXTINF:-1 tvg-id="Televicentro.hn" group-title="ENTRETENIMIENTO", TeleSiete GT
 https://dy434h3s52eoj.cloudfront.net/Canal7GT/d84b644e13e68dd78dfcb9a0cf0338f1.sdp/Canal7GT/Canal7GT2/chunks.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="ElTrece.ar" group-title="ENTRETENIMIENTO", El trece AR
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
-
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" group-title="ENTRETENIMIENTO", Ciudad Magazine
-
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
