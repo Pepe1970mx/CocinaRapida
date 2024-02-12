@@ -299,6 +299,10 @@ https://d2t46xrpai3it5.cloudfront.net/Repretel11/b3e2798525101c45f84a48573676853
 #EXTINF:-1 tvg-id="Canal13.CR" group-title="ENTRETENIMIENTO" , Canal 13 CR
 https://250weu.bozztv.com/ssh101/ssh101/sinart13/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Telesur.CR" group-title="ENTRETENIMIENTO" , Telesur CR
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+
+
 #EXTINF:-1 tvg-id="Canal10.ni" group-title="ENTRETENIMIENTO", Canal 10 NI
 https://dgh4r3ro3i2mi.cloudfront.net/Canal10NI/7d8e90910905c4165b7180d8db1d8b68.sdp/playlist.m3u8
 
