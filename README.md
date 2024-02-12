@@ -124,8 +124,14 @@ https://vsrv2.az-streamingserver.com:3960/live/claroteledomlive.m3u8
 #EXTINF:-1 group-title="US Español", Canal 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="telemundo.us" group-title="US Español", Telemundo
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" group-title="US Español", Telemundo Internacional
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65880
+
+#EXTINF:-1 tvg-id="universo.us" group-title="US Español", Universo
+http://stream.flynetwifi.com:1935/live/mobile-065/playlist.m3u8
 
 #EXTINF:-1 group-title="US Español", Telemundo PR 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
