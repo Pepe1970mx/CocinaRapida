@@ -1,5 +1,5 @@
 #EXTM3U
-tvg-guide="https://www.bevy.be/bevyfiles/unitedstatespremium1.xml","tvg-uide="https://www.bevy.be/bevyfiles/mexicopremium1.xml",tvg-uide="https://www.bevy.be/bevyfiles/peru.xml"
+url-tvg="https://www.bevy.be/bevyfiles/unitedstatespremium1.xml","tvg-uide="https://www.bevy.be/bevyfiles/mexicopremium1.xml",tvg-uide="https://www.bevy.be/bevyfiles/peru.xml"
 
 #EXTINF:-1 tvg-id="" group-title="VARIEDADES" , La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
