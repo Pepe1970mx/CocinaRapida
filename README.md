@@ -1,6 +1,6 @@
 #EXTM3U 
 
-url- tvg="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://www.bevy.be/bevyfiles/unitedstatespremium1.xml,https://www.bevy.be/bevyfiles/mexicopremium1.xml,https://www.bevy.be/bevyfiles/peru.xml"
+url-tvg="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58"
 
 #EXTINF:-1 tvg-id="" group-title="VARIEDADES" , La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
@@ -38,10 +38,10 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
 #EXTINF:-1 tvg-id="I85.46607.schedulesdirect.org" group-title="VARIEDADES" , Azteca Uno 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-id="I102.16461.schedulesdirect.org"
+#EXTINF:-1 tvg-id="I102.16461.schedulesdirect.org" group-title="VARIEDADES" , Las Estrellas MX
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
 
-EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS" , Las Estrellas 
+#EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS" , Las Estrellas 
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
 
 #EXTINF:-1 tvg-id="I403.16257.schedulesdirect.org" group-title="VARIEDADES", Las estrellas Internacional
