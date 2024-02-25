@@ -1,4 +1,6 @@
-#EXTM3U url- tvg="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://www.bevy.be/bevyfiles/unitedstatespremium1.xml,https://www.bevy.be/bevyfiles/mexicopremium1.xml,https://www.bevy.be/bevyfiles/peru.xml"
+#EXTM3U 
+
+url- tvg="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://www.bevy.be/bevyfiles/unitedstatespremium1.xml,https://www.bevy.be/bevyfiles/mexicopremium1.xml,https://www.bevy.be/bevyfiles/peru.xml"
 
 #EXTINF:-1 tvg-id="" group-title="VARIEDADES" , La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
@@ -45,14 +47,14 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdn
 #EXTINF:-1 tvg-id="I403.16257.schedulesdirect.org" group-title="VARIEDADES", Las estrellas Internacional
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I385.101111.schedulesdirect.org" group-title="VARIEDADES" , Imagen TV HD 
-https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
+#EXTINF:-1 tvg-id="64e35aff6b1fdb0008ea8441" group-title="VARIEDADES" , Imagen TV HD 
+https://r.mjh.nz/PlutoTV/64e35aff6b1fdb0008ea8441-alt.m3u8
 
 #EXTINF:-1 tvg-id="CANAL 5" group-title="VARIEDADES" , Canal Cinco  
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="I441.109612.schedulesdirect.org" group-title="VARIEDADES" , Multimedios
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="VARIEDADES" , Multimedios
+https://r.mjh.nz/PlutoTV/652e91fd6208700008dcaf7b-alt.m3u8
 
 #EXTINF:-1 tvg-id="I107.102406.schedulesdirect.org" group-title="VARIEDADES" , Azteca 7 
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
@@ -273,6 +275,8 @@ https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
 #EXTINF:-1 tvg-id="ESBD3600001Q1" group-title="Sports", La liga
 https://i.mjh.nz/SamsungTVPlus/ESBD3600001Q1.m3u8
 
+#EXTINF:-1 tvg-id="64b79c057d934100080b3583" group-title="Sports", Dazn Internacional Futbol
+https://r.mjh.nz/PlutoTV/64b79c057d934100080b3583-alt.m3u8
 
 
 #EXTINF:-1 tvg-id="USBD7000017L" group-title="ENTRETENIMIENTO", AMC en Español
@@ -642,8 +646,12 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de4e0b3
 #EXTINF:-1 tvg-id="161c09489197fe600073c0570" group-title="Retro Music", MTV Unplugged
 https://i.mjh.nz/PlutoTV/161c09489197fe600073c0570-alt.m3u8
 
-#EXTINF:-1 tvg-id="16490254fd2c47c00083a5743" group-title="Retro Music", Now 80s
-https://i.mjh.nz/PlutoTV/16490254fd2c47c00083a5743-alt.m3u8
+#EXTINF:-1 tvg-id="6568a78d635c3c0008765f41" group-title="Retro Music", Now 80s
+https://r.mjh.nz/PlutoTV/6490254fd2c47c00083a5743-alt.m3u8
+
+#EXTINF:-1 tvg-id="6490254fd2c47c00083a5743" group-title="Retro Music", Now Rock
+https://r.mjh.nz/PlutoTV/6568a78d635c3c0008765f41-alt.m3u8
+
 
 #EXTINF:-1 tvg-id="164db35b44c5ed80008f6a3ed" group-title="Retro Music", Yo! MTV Raps Classic
 https://i.mjh.nz/PlutoTV/164db35b44c5ed80008f6a3ed-alt.m3u8
@@ -666,8 +674,8 @@ https://i.mjh.nz/PlutoTV/15fd7b8bf927e090007685853-alt.m3u8
 #EXTINF:-1 tvg-id="15fd7bb1f86d94a000796e2c2" group-title="Retro Music", Vevo 90s
 https://i.mjh.nz/PlutoTV/15fd7bb1f86d94a000796e2c2-alt.m3u8
 
-#EXTINF:-1 tvg-id="1624303598e45140007d765c1" group-title="Retro Music", MTV Rocks
-https://i.mjh.nz/PlutoTV/1624303598e45140007d765c1-alt.m3u8
+#EXTINF:-1 tvg-id="624303598e45140007d765c1" group-title="Retro Music", MTV Rocks
+https://r.mjh.nz/PlutoTV/624303598e45140007d765c1-alt.m3u8
 
 #EXTINF:-1 tvg-id="1636a4173e34fd50007534542" group-title="Retro Music", VH1 Rock!
 https://i.mjh.nz/PlutoTV/1636a4173e34fd50007534542-alt.m3u8
