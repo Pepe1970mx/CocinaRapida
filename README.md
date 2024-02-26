@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/facalfer/TELE/master/guia.xml,https://i.mjh.nz/PlutoTV/all.xml.gz,https://i.mjh.nz/Plex/all.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/277dc74b534e6500fbb28edb82778bdb58109bf3/SamsungTVPlus/all.xml,https://www.bevy.be/bevyfiles/peru.xml,https://www.bevy.be/bevyfiles/costarica.xml,https://www.bevy.be/bevyfiles/hondura.xml,https://www.bevy.be/bevyfiles/.xml"
+#EXTM3U x-tvg-url="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/facalfer/TELE/master/guia.xml,https://i.mjh.nz/PlutoTV/all.xml.gz,https://i.mjh.nz/Plex/all.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/277dc74b534e6500fbb28edb82778bdb58109bf3/SamsungTVPlus/all.xml,https://www.bevy.be/bevyfiles/peru.xml,https://www.bevy.be/bevyfiles/costaricapremium.xml,https://www.bevy.be/bevyfiles/hondura.xml,https://www.bevy.be/bevyfiles/.xml,https://www.bevy.be/bevyfiles/elsalvador.xml"
 
 #EXTINF:-1 tvg-id="" group-title="VARIEDADES" , La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
@@ -286,29 +286,29 @@ https://i.mjh.nz/SamsungTVPlus/USBC39000080S.m3u8
 #EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO", Canal 3 Super canal
 https://dy434h3s52eoj.cloudfront.net/Canal3GT/01582b1c46c04a847aa7c4936d1eeba7.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal4.CR" group-title="ENTRETENIMIENTO" , Canal 4 CR
+#EXTINF:-1 tvg-id="Canal 4 de Costa Rica" group-title="ENTRETENIMIENTO" , Canal 4 CR
 https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal6.CR" group-title="ENTRETENIMIENTO" , Canal 6 CR
+#EXTINF:-1 tvg-id="Canal 6 de Costa Rica" group-title="ENTRETENIMIENTO" , Canal 6 CR
 https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Teletica 7 CR
+#EXTINF:-1 tvg-id="Canal 7 de Costa Rica" group-title="ENTRETENIMIENTO", Teletica 7 CR
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal11.CR " group-title="ENTRETENIMIENTO" , Canal 11 CR
+#EXTINF:-1 tvg-id="Canal 11 de Costa Rica" group-title="ENTRETENIMIENTO" , Canal 11 CR
 https://d2t46xrpai3it5.cloudfront.net/Repretel11/b3e2798525101c45f84a48573676853a.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal13.CR" group-title="ENTRETENIMIENTO" , Canal 13 CR
+#EXTINF:-1 tvg-id="Canal 13 de Costa Rica" group-title="ENTRETENIMIENTO" , Canal 13 CR
 https://250weu.bozztv.com/ssh101/ssh101/sinart13/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telesur.CR" group-title="ENTRETENIMIENTO" , Telesur CR
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 
 
-#EXTINF:-1 tvg-id="Canal10.ni" group-title="ENTRETENIMIENTO", Canal 10 NI
+#EXTINF:-1 tvg-id="Canal10.sv" group-title="ENTRETENIMIENTO", Canal 10 NI
 https://dgh4r3ro3i2mi.cloudfront.net/Canal10NI/7d8e90910905c4165b7180d8db1d8b68.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal11.ni" group-title="ENTRETENIMIENTO", Canal 11 NI
+#EXTINF:-1 tvg-id="Canal11.sv" group-title="ENTRETENIMIENTO", Canal 11 NI
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal11.m3u8
 
 #EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="ENTRETENIMIENTO", Telecadena 7 y 4
