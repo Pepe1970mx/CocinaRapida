@@ -6,9 +6,6 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="USBD2700004ME" group-title="VARIEDADES" , Como Dice el Dicho 
 https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="VARIEDADES" , Chespirito
-http://31.42.185.216:8000/wbgs/5QDJ15CYWF/129322
-
 #EXTINF:-1 tvg-id="USBC2100010OS" group-title="VARIEDADES" , ViX Jajaja 
 https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
 
