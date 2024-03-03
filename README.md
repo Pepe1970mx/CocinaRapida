@@ -658,8 +658,8 @@ https://r.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
 #EXTINF:-1 tvg-id="6490254fd2c47c00083a5743" group-title="Retro Music", Now Rock
 https://r.mjh.nz/PlutoTV/6568a78d635c3c0008765f41-alt.m3u8
 
-#EXTINF:-1 tvg-id="1636a4173e34fd50007534542" group-title="Retro Music", VH1 Rock!
-https://i.mjh.nz/PlutoTV/1636a4173e34fd50007534542-alt.m3u8
+#EXTINF:-1 tvg-id="636a4173e34fd50007534542" group-title="Retro Music", VH1 Rock!
+https://i.mjh.nz/PlutoTV/636a4173e34fd50007534542-alt.m3u8
 
 #EXTINF:-1 tvg-id="USBB2300004KV" group-title="Retro Music", XITE Rock on
 https://i.mjh.nz/SamsungTVPlus/USBB2300004KV.m3u8
@@ -670,20 +670,19 @@ https://r.mjh.nz/PlutoTV/624303598e45140007d765c1-alt.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Retro Music", Vevo Retro Rock
 https://i.mjh.nz/PlutoTV/61d4b38226b8a50007fe03a6-alt.m3u8
 
+#EXTINF:-1 tvg-id="64db35b44c5ed80008f6a3ed" group-title="Retro Music", Yo! MTV Raps Classic
+https://r.mjh.nz/PlutoTV/64db35b44c5ed80008f6a3ed-alt.m3u8
 
-#EXTINF:-1 tvg-id="164db35b44c5ed80008f6a3ed" group-title="Retro Music", Yo! MTV Raps Classic
+#EXTINF:-1 tvg-id="61d4c2817a823d00070ba53e" group-title="Retro Music", Vevo True School Hip Hop
+https://r.mjh.nz/PlutoTV/61d4c2817a823d00070ba53e-alt.m3u8
 
-
-#EXTINF:-1 tvg-id="16465fef47cb4b100086ee7bd" group-title="Retro Music", VH1+ Hip Hop & Rap
-
-
-#EXTINF:-1 tvg-id="16076cd1df8576d0007c82193" group-title="Retro Music", VH1 Classic
-
+#EXTINF:-1 tvg-id="6076cd1df8576d0007c82193" group-title="Retro Music", VH1 Classic
+https://r.mjh.nz/PlutoTV/6076cd1df8576d0007c82193-alt.m3u8
 
 #EXTINF:-1 tvg-id="1635bfb89b5cd9b0007ca9d63" group-title="Retro Music", MTV Classic
 https://i.mjh.nz/PlutoTV/1635bfb89b5cd9b0007ca9d63-alt.m3u8
 
-
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61aa9f50784a2161d3caf7fb.m3u8
 
 
 
@@ -697,53 +696,11 @@ https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="MUSIC", Bandamax
 https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="61ea759737679900078ff559" group-title="MUSIC", MTV Party Musica 
+https://i.mjh.nz/PlutoTV/61ea759737679900078ff559-alt.m3u8
 
-
-#EXTINF:-1 tvg-id="CABD1200038NZ" group-title="MUSIC", XITE Hits
-https://i.mjh.nz/SamsungTVPlus/CABD1200038NZ.m3u8
-
-#EXTINF:-1 tvg-id="USBD3300007PB" group-title="MUSIC", XITE Nuevo Latino
-https://i.mjh.nz/SamsungTVPlus/USBD3300007PB.m3u8
-
-#EXTINF:-1 tvg-id="15fd7bca3e0a4ee0007a38e8c" group-title="MUSIC", Vevo 2K
-https://i.mjh.nz/PlutoTV/15fd7bca3e0a4ee0007a38e8c-alt.m3u8
-
-#EXTINF:-1 tvg-id="15d93b635b43dd1a399b39eee" group-title="MUSIC", Vevo Pop
-https://i.mjh.nz/PlutoTV/15d93b635b43dd1a399b39eee-alt.m3u8
-
-#EXTINF:-1 tvg-id="15da0d64d0e8a62000964ebe4" group-title="MUSIC", Vevo Latino
-https://i.mjh.nz/PlutoTV/15da0d64d0e8a62000964ebe4-alt.m3u8
-
-#EXTINF:-1 tvg-id="161ea759737679900078ff559" group-title="MUSIC", MTV Party Musica 
-https://i.mjh.nz/PlutoTV/161ea759737679900078ff559-alt.m3u8
-
-#EXTINF:-1 tvg-id="1638f2d9aa530b200072ec8ef" group-title="MUSIC", MTV Love Music
-https://i.mjh.nz/PlutoTV/1638f2d9aa530b200072ec8ef-alt.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV Live 
-http://vod3.zomo.lat:8080/
-
-#EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV 00s
-
-
-
-
-
-#EXTINF:-1 tvg-id="" group-title="MUSIC", MTV Live
-http://zonamovie.live:8080/CINEMA02/RKnhMX3Bhtbp/409855
-
-
-#EXTINF:-1 tvg-id="161cd822216e2fd00086d0aeb" group-title="MUSIC", VH1+
-https://i.mjh.nz/PlutoTV/161cd822216e2fd00086d0aeb-alt.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="MUSIC", Bandamax 
-
-#EXTINF:-1 tvg-logo="" group-title="MUSIC", Vevo Pop
-
-
-#EXTINF:-1 tvg-logo="" group-title="MUSIC", VH1 Italy
-https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1 tvg-id="638f2d9aa530b200072ec8ef" group-title="MUSIC", MTV Love Music
+https://i.mjh.nz/PlutoTV/638f2d9aa530b200072ec8ef-alt.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV 00s
 http://195.24.89.82/VH1_SD/index.m3u8
@@ -751,8 +708,27 @@ http://195.24.89.82/VH1_SD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV 
 http://195.24.89.82/MTV_SD/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSIC", VH1+
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8cc10ca869f00078efca8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="CABD1200038NZ" group-title="MUSIC", XITE Hits
+https://i.mjh.nz/SamsungTVPlus/CABD1200038NZ.m3u8
+
+#EXTINF:-1 tvg-id="USBD3300007PB" group-title="MUSIC", XITE Nuevo Latino
+https://i.mjh.nz/SamsungTVPlus/USBD3300007PB.m3u8
+
+#EXTINF:-1 tvg-id="ESBA330004064" group-title="MUSIC", Free TV Hits
+https://i.mjh.nz/SamsungTVPlus/ESBA330004064.m3u8
+
+
+#EXTINF:-1 tvg-id="15fd7bca3e0a4ee0007a38e8c" group-title="MUSIC", Vevo 2K
+https://i.mjh.nz/PlutoTV/15fd7bca3e0a4ee0007a38e8c-alt.m3u8
+
+#EXTINF:-1 tvg-id="5d93b635b43dd1a399b39eee" group-title="MUSIC", Vevo Pop
+https://i.mjh.nz/PlutoTV/5d93b635b43dd1a399b39eee-alt.m3u8
+
+#EXTINF:-1 tvg-id="5da0d64d0e8a62000964ebe4" group-title="MUSIC", Vevo Latino
+https://i.mjh.nz/PlutoTV/5da0d64d0e8a62000964ebe4-alt.m3u8
+
+
+
 
 
 
@@ -766,30 +742,11 @@ http://stream.mxiptv.org:25461/live/tvabierta/opentv/249.m3u8
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title "MUSIC" , Mega Box
-https://stmv1.voxhdnet.com/megabox5/megabox5/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="MUSIC", Hit TV 
-http://hitmusic.hu/hitmusic.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="MUSIC", 1HD Music Television
-https://sc.id-tv.kz/1hd.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="MUSIC", 1 Music Channels 
-https://ch.iptvmate.net/b8799300af8ecf28e89b77029dfa9e6d.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="MUSIC", First Music channel http://hz1.teleport.cc/HLS/HD.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="MUSIC", VH1 
-https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-
-#EXTINF:-1 tvg-logo" "group-title="MUSICA REGIONAL" , Balladas 24/7 
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo" "group-title="MUSICA REGIONAL" , MMC 
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-623954128ed2b3b15baecb2c.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=jVtQQEicKDo1wxCw8Qjz
-
-#EXTINF:-1 group-title="MUSICA REGIONAL", Infinita TV 
-https://rtmp02.portalexpress.es:443/infinitatv/infinitatv/chunklist_w640472234.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fyPHgEH.png" group-title="MUSICA REGIONAL", Video Rola https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_2.m3u8
 
@@ -801,19 +758,10 @@ http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="MUSICA REGIONAL", RetroChannels 
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
-#EXTINF:-1 group-title="MUSICA REGIONAL", Infinita TV 
-https://rtmp02.portalexpress.es/infinitatv/infinitatv/playlist.m3u8
-
-
-#EXTINF:-1 group-title="MUSICA REGIONAL", B15
-https://60ed5b6d0df78.streamlock.net:1936/envio2/envio2/playlist.m3u8
-
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-61aaa0cc784a2161d3caf7ff" tvg-id="5e20b730f2f8d5003d739db7-61aaa0cc784a2161d3caf7ff" tvg-logo="https://provider-static.plex.tv/epg/cms/staging/0079d02e-afb6-4d85-a986-441817927418/stingray-classic-rock_logo_dark.png" group-title="RADIO",Classic Rock 
+#EXTINF:-1 group-title="RADIO",Classic Rock 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1389&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=xAoXwfNRpzqfb4QF8JUB&custom_7=61aaa0cc784a2161d3caf7ff
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615" tvg-id="5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dc08f4b8-91c3-4b3a-9007-4330f03a0103/ClassicRock_logo_light.png" group-title="RADIO",Classic Rock Network https://cdn17.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/ClassicRock-Channel-Plex/index.m3u8?ads.X-PLEX-TOKEN=xAoXwfNRpzqfb4QF8JUB&ads.CHANNEL=6196c8c01d310bf925e02615&ads.DEVICE_ID=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.DNT=0
-
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-61aa9f50784a2161d3caf7fb" tvg-id="5e20b730f2f8d5003d739db7-61aa9f50784a2161d3caf7fb" tvg-logo="https://provider-static.plex.tv/epg/cms/staging/081b8bca-9f8e-44a6-8173-c49e124bb7d2/stingray-everything-80s_logo_dark.png" group-title="RADIO",Everything ‘80s
+#EXTINF:-1 group-title="RADIO",Classic Rock Network https://cdn17.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/ClassicRock-Channel-Plex/index.m3u8?ads.X-PLEX-TOKEN=xAoXwfNRpzqfb4QF8JUB&ads.CHANNEL=6196c8c01d310bf925e02615&ads.DEVICE_ID=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.DNT=0
 
 #EXTINF:-1, tvg-logo="" group-title="RADIO" , Universal Stero 
 https://18193.live.streamtheworld.com/XHRED_FMAAC.aac?dist=grc-web&key=grc-web&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=c9a31c52-5876-4bf1-b007-321d99ad45c3
