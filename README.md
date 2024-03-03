@@ -640,18 +640,20 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de4e0b3
 
 #EXTINF:-1 tvg-id="161c09489197fe600073c0570" group-title="Retro Music", MTV Unplugged
 
+#EXTINF:-1 tvg-id="" group-title="Retro Music", Retro Music TV
+http://976948031975276235.0222ofd.xyz:80/play/vi814668/sCRnWdQRBerG/276235.ts
 
-#EXTINF:-1 tvg-id="6568a78d635c3c0008765f41" group-title="Retro Music", Now 80s
+#EXTINF:-1 tvg-id="6490254fd2c47c00083a5743" group-title="Retro Music", Now 80s
 https://r.mjh.nz/PlutoTV/6490254fd2c47c00083a5743-alt.m3u8
 
 #EXTINF:-1 tvg-id="USBB320000647" group-title="Retro Music", XITE 80s Flashback 
 https://i.mjh.nz/SamsungTVPlus/USBB320000647.m3u8
 
-#EXTINF:-1 tvg-id="15fd7b8bf927e090007685853" group-title="Retro Music", Vevo '80s
-https://i.mjh.nz/PlutoTV/15fd7b8bf927e090007685853-alt.m3u8
+#EXTINF:-1 tvg-id="5fd7b8bf927e090007685853" group-title="Retro Music", Vevo '80s
+https://r.mjh.nz/PlutoTV/5fd7b8bf927e090007685853-alt.m3u8
 
-#EXTINF:-1 tvg-id="15fd7bb1f86d94a000796e2c2" group-title="Retro Music", Vevo 90s
-https://i.mjh.nz/PlutoTV/15fd7bb1f86d94a000796e2c2-alt.m3u8
+#EXTINF:-1 tvg-id="5fd7bb1f86d94a000796e2c2" group-title="Retro Music", Vevo 90s
+https://r.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
 
 #EXTINF:-1 tvg-id="6490254fd2c47c00083a5743" group-title="Retro Music", Now Rock
 https://r.mjh.nz/PlutoTV/6568a78d635c3c0008765f41-alt.m3u8
