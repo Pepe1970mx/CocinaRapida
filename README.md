@@ -6,10 +6,7 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="USBD2700004ME" group-title="VARIEDADES" , Como Dice el Dicho 
 https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="VARIEDADES" , Chilevisual Kids
-https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="USBC2100010OS" group-title="VARIEDADES" , ViX Jajaja 
+#EXTINF:-0 tvg-id="USBC2100010OS" group-title="VARIEDADES" , ViX Jajaja 
 https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
 
 #EXTINF:-1 tvg-id="I233.55980.schedulesdirect.org" group-title="VARIEDADES" , Distrito Comedia
@@ -565,22 +562,22 @@ https://i.mjh.nz/PlutoTV/60f58f2278490000079bc47b-alt.m3u8
 #EXTINF:-1 tvg-id="" group-title="Series", Chilevisual Retro
 https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="RETRO", ACS Network
+#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="Series", ACS Network
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w910290755.m3u8
 
-#EXTINF:-1 group-title="RETRO" , Dreiko TV 
+#EXTINF:-1 group-title="Series" , Dreiko TV 
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="RETRO", TELERED 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="Series", TELERED 
 http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="RETRO", Telesistema 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="Series", Telesistema 
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 
-#EXTINF:-1 group-title="RETRO" , Teleclasica 
+#EXTINF:-1 group-title="Series" , Teleclasica 
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
-#EXTINF:-1 group-title="RETRO" , MDA TV
+#EXTINF:-1 group-title="Series" , MDA TV
 https://vcp.myplaytv.com/mdatv/mdatv/.m3u8
 
 
