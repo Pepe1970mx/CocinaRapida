@@ -33,8 +33,15 @@ https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-id="I85.46607.schedulesdirect.org" group-title="VARIEDADES" , Azteca Uno 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
+#EXTINF:-1 tvg-id="azteca uno" group-title="VARIEDADES" , Azteca Uno 
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
+
 #EXTINF:-1 tvg-id="I102.16461.schedulesdirect.org" group-title="VARIEDADES" , Las Estrellas MX
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
+
+
+
 
 EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS" , Las Estrellas 
 
