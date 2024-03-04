@@ -24,10 +24,10 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6469502df73356567a64ce8e.m3u8
 #EXTINF:-1 tvg-id="ESBD1300003VN" group-title="VARIEDADES" , Corazón
 https://i.mjh.nz/SamsungTVPlus/ESBD1300003VN.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64695233f73356567a64ce90" group-title="VARIEDADES" , Cinema
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7" group-title="VARIEDADES" , Cinema
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64695233f73356567a64ce90.m3u8
 
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db" group-title="VARIEDADES" , Azteca Guate
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES" , Azteca Guate
 https://ch1-tva.duin.dev/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="I85.46607.schedulesdirect.org" group-title="VARIEDADES" , Azteca Uno 
@@ -36,8 +36,8 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="I102.16461.schedulesdirect.org" group-title="VARIEDADES" , Las Estrellas MX
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
 
-#EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS" , Las Estrellas 
-https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
+EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS" , Las Estrellas 
+
 
 #EXTINF:-1 tvg-id="I403.16257.schedulesdirect.org" group-title="VARIEDADES", Las estrellas Internacional
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
@@ -57,7 +57,7 @@ https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 group-title="VARIEDADES" , Azteca Monterrey 
 https://live.info7.mx/info7/stream.m3u8
 
-#EXTINF:-1 tvg-id="I70.104892.schedulesdirect.org"a group-title="VARIEDADES" , A MAS 
+#EXTINF:-1 tvg-id="A+"a group-title="VARIEDADES" , A MAS 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-id="I233.97020.schedulesdirect.org" group-title="VARIEDADES", Canal Nu9ve
