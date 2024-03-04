@@ -6,6 +6,9 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="USBD2700004ME" group-title="VARIEDADES" , Como Dice el Dicho 
 https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES" , Chilevisual Kids
+https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="USBC2100010OS" group-title="VARIEDADES" , ViX Jajaja 
 https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
 
@@ -27,8 +30,8 @@ https://i.mjh.nz/SamsungTVPlus/ESBD1300003VN.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64695233f73356567a64ce90" group-title="VARIEDADES" , Cinema
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64695233f73356567a64ce90.m3u8
 
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db" group-title="VARIEDADES" , Azteca Uno -1 hora
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db" group-title="VARIEDADES" , Azteca Guate
+https://ch1-tva.duin.dev/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="I85.46607.schedulesdirect.org" group-title="VARIEDADES" , Azteca Uno 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
@@ -490,6 +493,8 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/.m3u8
 #EXTINF:-1 group-title="Movies",Cine Sony 
 https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/index.m3u8
 
+
+
 #EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" group-title="Movies",Cine Premiere 
 https://r.mjh.nz/PlutoTV/5cf968040ab7d8f181e6a68b-alt.m3u8
 
@@ -534,6 +539,8 @@ https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
 
 
 
+
+
 #EXTINF:-1 tvg-id="5dcde1317578340009b751d0" group-title="Series", Pluto TV Series
 https://r.mjh.nz/PlutoTV/5dcde1317578340009b751d0-alt.m3u8
 
@@ -555,33 +562,14 @@ https://i.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
 #EXTINF:-1 tvg-id="60f58f2278490000079bc47b" group-title="Series", La Niñera
 https://i.mjh.nz/PlutoTV/60f58f2278490000079bc47b-alt.m3u8
 
-
-
-
-
-#EXTINF:-1 group-title="RETRO", RetroMagico 
-https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
-
-#EXTINF:-1 group-title="RETRO", Xtrema  Retro Cartoon
-https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
-
-#EXTINF:-1 group-title="RETRO", Los Simpson
-
-
-#EXTINF:-1 group-title="RETRO", RETRO PLUS TV CINE 
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
-
-#EXTINF:-1 group-title="RETRO" , Telecolor 
-https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="RETRO" , El chavo
-
+#EXTINF:-1 tvg-id="" group-title="Series", Chilevisual Retro
+https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="RETRO", ACS Network
-https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w910290755.m3u8
 
 #EXTINF:-1 group-title="RETRO" , Dreiko TV 
-https://cloudvideo.servers10.com:8081/8138/index.m3u8?PlaylistM3UCL
+https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="RETRO", TELERED 
 http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
@@ -590,19 +578,10 @@ http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 
 #EXTINF:-1 group-title="RETRO" , Teleclasica 
-https://ssh101.bozztv.com/ssh101/teleclasik/chunks.m3u8
+https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="RETRO" , TVS Retro 
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-
-
-#EXTINF:-1 tvg-logo=" " group-title="RETRO" , STV 
-http://tiquiciatv.com:1935/stv/web/playlist.m3u8
-
-
-
-
-
+#EXTINF:-1 group-title="RETRO" , MDA TV
+https://vcp.myplaytv.com/mdatv/mdatv/.m3u8
 
 
 
