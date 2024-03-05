@@ -236,7 +236,7 @@ http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
 #EXTINF:-1 tvg-id="I509.19158.schedulesdirect.org" group-title="Sports", Espn Latinoamerica
 
 #EXTINF:-1 tvg-id="I508.37747.schedulesdirect.org" group-title="Sports", Espn 2 Latinoamerica
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63193
+http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I510.79042.schedulesdirect.org" group-title="Sports", Espn 3 Latinoamerica
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63194
