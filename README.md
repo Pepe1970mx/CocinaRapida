@@ -469,8 +469,8 @@ https://i.mjh.nz/PlutoTV/5d8d08395f39465da6fb3ec4-alt.m3u8
 #EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="Kids", Nickelodeon Clasico
 https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=83ae8ae2-b28d-11ee-bbe9-962bf7ca3ddb
  
-#EXTINF:-1 group-title="Kids", Super Kaos TV
-https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
+#EXTINF:-1 group-title="Kids", Chilevisual kids
+https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="I114.16141.schedulesdirect.org" tvg-logo=" " group-title="Kids", Cartoon Network 
 http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
