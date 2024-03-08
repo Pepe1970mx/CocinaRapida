@@ -33,24 +33,22 @@ https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-id="I85.46607.schedulesdirect.org" group-title="VARIEDADES" , Azteca Uno 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-id="azteca uno" group-title="VARIEDADES" , Azteca Uno 
+#EXTINF:-1 tvg-id="AZTECA UNO" group-title="VARIEDADES" , Azteca Uno 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 
-#EXTINF:-1 tvg-id="I102.16461.schedulesdirect.org" group-title="VARIEDADES" , Las Estrellas MX
+#EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS" group-title="VARIEDADES" , Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
 
+EXTINF:-1 tvg-id="I403.16257.schedulesdirect.org" group-title="VARIEDADES", Las estrellas Internacional
 
-
-
-EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS" , Las Estrellas 
-
-
-#EXTINF:-1 tvg-id="I403.16257.schedulesdirect.org" group-title="VARIEDADES", Las estrellas Internacional
+#EXTINF:-1 tvg-id="LAS ESTRELLAS.AR" group-title="VARIEDADES", Las estrellas Latinoamerica
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="64e35aff6b1fdb0008ea8441" group-title="VARIEDADES" , Imagen TV HD 
 https://r.mjh.nz/PlutoTV/64e35aff6b1fdb0008ea8441-alt.m3u8
+
+EXTINF:-1 tvg-id="64e35aff6b1fdb0008ea8441" group-title="VARIEDADES" , Imagen TV HD
 
 #EXTINF:-1 tvg-id="CANAL 5" group-title="VARIEDADES" , Canal Cinco  
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
@@ -58,32 +56,42 @@ https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="VARIEDADES" , Multimedios
 https://r.mjh.nz/PlutoTV/652e91fd6208700008dcaf7b-alt.m3u8
 
-#EXTINF:-1 tvg-id="I107.102406.schedulesdirect.org" group-title="VARIEDADES" , Azteca 7 
+#EXTINF:-1 tvg-id="AZTECA 7" group-title="VARIEDADES" , Azteca 7 
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+
+EXTINF:-1 tvg-id="I107.102406.schedulesdirect.org" group-title="VARIEDADES" , Azteca 7 
 
 #EXTINF:-1 group-title="VARIEDADES" , Azteca Monterrey 
 https://live.info7.mx/info7/stream.m3u8
 
-#EXTINF:-1 tvg-id="A+"a group-title="VARIEDADES" , A MAS 
+#EXTINF:-1 tvg-id="A+" group-title="VARIEDADES" , A+ 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 tvg-id="I233.97020.schedulesdirect.org" group-title="VARIEDADES", Canal Nu9ve
+#EXTINF:-1 tvg-id="NUEVE" group-title="VARIEDADES", Canal Nu9ve
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
+
+EXTINF:-1 tvg-id="I233.97020.schedulesdirect.org" group-title="VARIEDADES", Canal Nu9ve
 
 #EXTINF:-1 tvg-id="I448.15213.schedulesdirect.org" group-title="VARIEDADES", MVS TV 
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
+
+
 #EXTINF:-1 tvg-id="" group-title="VARIEDADES", EclipseTV 
 https://5caf24a595d94.streamlock.net:1937/djkuxtvfah/djkuxtvfah/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I11.15178.schedulesdirect.org" group-title="VARIEDADES", Canal Once 
+#EXTINF:-1 tvg-id="CANAL 11" group-title="VARIEDADES", Canal Once 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/.m3u8
+
+EXTINF:-1 tvg-id="I11.15178.schedulesdirect.org" group-title="VARIEDADES", Canal Once
 
 #EXTINF:-1 group-title="VARIEDADES", Canal 13 Tabasco
 https://dbdfj5y8nz2u4.cloudfront.net/c13tabasco/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I14.98192.schedulesdirect.org" group-title="VARIEDADES" , Canal 14 
+#EXTINF:-1 tvg-id="CANAL 14" group-title="VARIEDADES" , Canal 14 
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
+
+EXTINF:-1 tvg-id="I14.98192.schedulesdirect.org" group-title="VARIEDADES" , Canal 14 
 
 #EXTINF:-1 tvg-id="I100.91060.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , CANAL 22 
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
