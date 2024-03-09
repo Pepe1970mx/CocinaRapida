@@ -105,7 +105,9 @@ https://ythls.armelin.one/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 #EXTINF:-1 group-title="VARIEDADES", NNVeracruz
 https://s.emisoras.tv:8081/nnveracruz/index.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Quiero TV
+#EXTINF:-1 tvg-id=" " group-title="VARIEDADES", Quiero TV
+https://stream.oursnetworktv.com/latin/encoder12/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="I34.28440.schedulesdirect.org" group-title="VARIEDADES" , TV Mexiquense 
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
