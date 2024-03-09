@@ -6,7 +6,7 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="USBD2700004ME" group-title="VARIEDADES" , Como Dice el Dicho 
 https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
 
-#EXTINF:-0 tvg-id="USBC2100010OS" group-title="VARIEDADES" , ViX Jajaja 
+#EXTINF:-1 tvg-id="USBC2100010OS" group-title="VARIEDADES" , ViX Jajaja 
 https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
 
 #EXTINF:-1 tvg-id="I233.55980.schedulesdirect.org" group-title="VARIEDADES" , Distrito Comedia
@@ -30,8 +30,8 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64695233f73356567a64ce90.m3u8
 #EXTINF:-1 tvg-id="" group-title="VARIEDADES" , Azteca Guate
 https://ch1-tva.duin.dev/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="I85.46607.schedulesdirect.org" group-title="VARIEDADES" , Azteca Uno 
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+EXTINF:-1 tvg-id="I85.46607.schedulesdirect.org" group-title="VARIEDADES" , Azteca Uno 
+
 
 #EXTINF:-1 tvg-id="AZTECA UNO" group-title="VARIEDADES" , Azteca Uno 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
