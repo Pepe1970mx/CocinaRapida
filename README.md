@@ -690,6 +690,18 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61aa9f50784a2161d3caf7fb.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" group-title="MUSIC", Nick Music
+http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MUSIC", Exa TV
+http://138.59.177.34:8000/play/a05a/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MUSIC",  Mimisica Hits
+http://191.97.60.193:10000/play/a032/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MUSIC", Mix Music Channel
+https://cdamix.streaming.ws/mixmusic/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="MUSIC", Telehit Musica  
 https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
 
