@@ -294,6 +294,10 @@ https://i.mjh.nz/SamsungTVPlus/ESBD3600001Q1.m3u8
 #EXTINF:-1 tvg-id="64b79c057d934100080b3583" group-title="Sports", Dazn Internacional Futbol
 https://r.mjh.nz/PlutoTV/64b79c057d934100080b3583-alt.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Sports", Latin America Sport
+http://138.59.177.34:8000/play/a049/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="USBD7000017L" group-title="ENTRETENIMIENTO", AMC en Español
 https://i.mjh.nz/SamsungTVPlus/USBD7000017L.m3u8
