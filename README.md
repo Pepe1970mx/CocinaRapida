@@ -31,10 +31,10 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64695233f73356567a64ce90.m3u8
 https://ch1-tva.duin.dev/hls/stream.m3u8
 
 EXTINF:-1 tvg-id="I85.46607.schedulesdirect.org" group-title="VARIEDADES" , Azteca Uno 
-
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 tvg-id="AZTECA UNO" group-title="VARIEDADES" , Azteca Uno 
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
 
 
 #EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS" group-title="VARIEDADES" , Las Estrellas
@@ -42,7 +42,7 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdn
 
 EXTINF:-1 tvg-id="I403.16257.schedulesdirect.org" group-title="VARIEDADES", Las estrellas Internacional
 
-#EXTINF:-1 tvg-id="LAS ESTRELLAS.AR" group-title="VARIEDADES", Las estrellas Latinoamerica
+#EXTINF:-1 tvg-id="LAS ESTRELLAS.PE" group-title="VARIEDADES", Las estrellas Latinoamerica
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="64e35aff6b1fdb0008ea8441" group-title="VARIEDADES" , Imagen TV HD 
@@ -59,9 +59,11 @@ https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 
 
 #EXTINF:-1 tvg-id="AZTECA 7" group-title="VARIEDADES" , Azteca 7 
-https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+
 
 EXTINF:-1 tvg-id="I107.102406.schedulesdirect.org" group-title="VARIEDADES" , Azteca 7 
+https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+
 
 #EXTINF:-1 group-title="VARIEDADES" , Azteca Monterrey 
 https://live.info7.mx/info7/stream.m3u8
@@ -170,12 +172,11 @@ https://live.field59.com/wapa/wapa1/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="NOTICIAS", Nmedia+ 
+https://linear-301.frequency.stream/dist/vix/301/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I292.6635.schedulesdirect.org" group-title="NOTICIAS", Foro TV 
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS", Nmedia+ 
-https://linear-301.frequency.stream/dist/vix/301/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I10.75278.schedulesdirect.org" group-title="NOTICIAS", ADN 40 
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
@@ -185,6 +186,9 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
 #EXTINF:-1 " tvg-id="3d2c140c111bc0008cb890b" group-title="NOTICIAS" , TeleFormula
 https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
+
+#EXTINF:-1 tvg-id="I28.82353.schedulesdirect.org" group-title="NOTICIAS",  Exelsior TV
+https://ythls.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
 
 #EXTINF:-1 tvg-id="USBB3200016HO" group-title="NOTICIAS", TELEMUNDO AL DÍA 
 https://i.mjh.nz/SamsungTVPlus/USBB3200016HO.m3u8
@@ -198,12 +202,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="I551.69367.schedulesdirect.org" group-title="NOTICIAS", RT in Spanish 
 https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS", N+
-https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
-
-#EXTINF:-1 tvg-id="I28.82353.schedulesdirect.org" group-title="NOTICIAS",  Exelsior TV
-https://ythlsgo.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
-
 #EXTINF:-1 tvg-id="ESAJ4500024LR" group-title="NOTICIAS", EuroNews en español 
 https://i.mjh.nz/SamsungTVPlus/ESAJ4500024LR.m3u8
 
@@ -212,9 +210,6 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id"AMX NOTICIAS" group-title="NOTICIAS" , Mexiquense Noticias 
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS", Excélsior Televisión HD 
-https://ythls.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS" , CNN en Español 
 https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
