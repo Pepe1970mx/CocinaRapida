@@ -587,6 +587,15 @@ https://i.mjh.nz/PlutoTV/60f58f2278490000079bc47b-alt.m3u8
 #EXTINF:-1 tvg-id="" group-title="Series", Chilevisual Retro
 https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="" group-title="Series", Chilevisual Kids
+https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="" group-title="Series", Chilevisual Classic
+https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="" group-title="Series", Channels Classic
+https://paneltv.online:1936/8046/8046/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="Series", ACS Network
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w910290755.m3u8
 
