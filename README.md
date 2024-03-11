@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/575900f158ea4e725b5f49a660f3593aa926f1e7/SamsungTVPlus/all.xml,https://i.mjh.nz/PlutoTV/all.xml.gz,https://i.mjh.nz/Plex/all.xml.gz,https://www.bevy.be/bevyfiles/dominican.xml,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml,https://www.bevy.be/bevyfiles/mexicopremium.xml,,https://www.bevy.be/bevyfiles/peru.xml,https://www.bevy.be/bevyfiles/costaricapremium.xml,https://www.bevy.be/bevyfiles/hondura.xml,https://www.bevy.be/bevyfiles/.xml,https://www.bevy.be/bevyfiles/elsalvador.xml,https://www.bevy.be/bevyfiles/guatemala.xml,https://www.bevy.be/bevyfiles/puertorico.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/575900f158ea4e725b5f49a660f3593aa926f1e7/SamsungTVPlus/all.xml.gz,https://i.mjh.nz/PlutoTV/all.xml.gz,https://i.mjh.nz/Plex/all.xml.gz,https://www.bevy.be/bevyfiles/dominican.xml,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml,https://www.bevy.be/bevyfiles/mexicopremium.xml,,https://www.bevy.be/bevyfiles/peru.xml,https://www.bevy.be/bevyfiles/costaricapremium.xml,https://www.bevy.be/bevyfiles/hondura.xml,https://www.bevy.be/bevyfiles/.xml,https://www.bevy.be/bevyfiles/elsalvador.xml,https://www.bevy.be/bevyfiles/guatemala.xml,https://www.bevy.be/bevyfiles/puertorico.xml"
 
 #EXTINF:-1 tvg-id="" group-title="VARIEDADES" , La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
@@ -48,15 +48,13 @@ https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="64e35aff6b1fdb0008ea8441" group-title="VARIEDADES" , Imagen TV HD 
 https://r.mjh.nz/PlutoTV/64e35aff6b1fdb0008ea8441-alt.m3u8
 
-EXTINF:-1 tvg-id="64e35aff6b1fdb0008ea8441" group-title="VARIEDADES" , Imagen TV HD
-
 #EXTINF:-1 tvg-id="CANAL 5" group-title="VARIEDADES" , Canal Cinco  
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="VARIEDADES" , Multimedios
 https://r.mjh.nz/PlutoTV/652e91fd6208700008dcaf7b-alt.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="VARIEDADES" , Seis
+#EXTINF:-1 tvg-id="SEIS" group-title="VARIEDADES" , Seis
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 
 
