@@ -228,9 +228,6 @@ http://45.5.117.182:8000/play/a0e5/index.m3u8
 #EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" tvg-id="foxdeportes.us" group-title="Sports", Fox Deportes 
 http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I854.25595.schedulesdirect.org" group-title="Sports", Espn Deportes 
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57185
-
 #EXTINF:-1 tvg-id="I505.41677.schedulesdirect.org" group-title="Sports", Fox Sport Latinoamerica
 http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
 
@@ -240,7 +237,11 @@ http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
 #EXTINF:-1 tvg-id="FOX SPORTS 3" group-title="Sports", Fox sport 3 Latinoamerica
 http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
 
+#EXTINF:-1 tvg-id="I854.25595.schedulesdirect.org" group-title="Sports", Espn Deportes 
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57185
+
 #EXTINF:-1 tvg-id="I509.19158.schedulesdirect.org" group-title="Sports", Espn Latinoamerica
+http://home-playtv.com:8080/restreamhome/HUvCLa351719/185154
 
 #EXTINF:-1 tvg-id="I508.37747.schedulesdirect.org" group-title="Sports", Espn 2 Latinoamerica
 http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
@@ -248,8 +249,11 @@ http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
 #EXTINF:-1 tvg-id="I510.79042.schedulesdirect.org" group-title="Sports", Espn 3 Latinoamerica
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63194
 
-#EXTINF:-1 tvg-id="tudn.mx" group-title="Sports", Tudn
-http://280112626688710934.ofd0126.xyz:80/play/edu.ronda1107@gmail.com/UBMtxMDgjb/710934.ts
+#EXTINF:-1 tvg-id="tudn.mx" group-title="Sports", Tudn MX
+https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tudn.mx" group-title="Sports", Tudn USA
+http://livex.pop-app.live/s4n/poplive/ch302/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I693.75951.schedulesdirect.org" group-title="Sports", Afizzionados
 https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
