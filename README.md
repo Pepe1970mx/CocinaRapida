@@ -500,7 +500,7 @@ http://287868455641661945.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/661945.ts
 https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
 
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7" group-title="Movies", Free TV Live
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" group-title="Movies", Free TV Live
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6018913ea15130002b28418f.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7" group-title="Movies", Free TV Sureño
