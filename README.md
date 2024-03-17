@@ -503,13 +503,13 @@ https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" group-title="Movies", Free TV Live
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6018913ea15130002b28418f.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7" group-title="Movies", Free TV Sureño
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913fa15130002b284197" group-title="Movies", Free TV Sureño
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6018913fa15130002b284197.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7" group-title="Movies", Free TV Horror
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63d954cc308687c7d9baa667" group-title="Movies", Free TV Horror
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63d954cc308687c7d9baa667.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7" group-title="Movies", Free TV Familia
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60240f57676235002df19f49" group-title="Movies", Free TV Familia
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60240f57676235002df19f49.m3u8
 
 #EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" group-title="Movies",Cine Premiere 
@@ -524,7 +524,7 @@ https://i.mjh.nz/SamsungTVPlus/ESBD80000288.m3u8
 #EXTINF:-1 tvg-id="643054b1fc3be59477853717-62990665171ca654f77b1e6c" group-title="Movies", Familiares-Rakuten
 https://i.mjh.nz/Plex/643054b1fc3be59477853717-62990665171ca654f77b1e6c.m3u8
 
-"5dcb62e63d4d8f0009f36881" group-title="Movies" , Pluto TV Cine Acción 
+#EXTINF:-1 tvg-id="5dcb62e63d4d8f0009f36881" group-title="Movies" , Pluto TV Cine Acción 
 https://r.mjh.nz/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8
 
 #EXTINF:-1 tvg-id="5e972a21ad709d00074195ba" group-title="Movies" , Pluto TV Estrellas En Accion
@@ -545,7 +545,7 @@ https://r.mjh.nz/PlutoTV/624af40c004f8000079b784d-alt.m3u8
 #EXTINF:-1 tvg-id="ESBC2700002LO" group-title="Movies" , Grjngo-Peliculas del Oeste
 https://i.mjh.nz/SamsungTVPlus/ESBC2700002LO.m3u8
 
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63" group-title="Movies" , Top Cine
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291" group-title="Movies" , Top Cine
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64f0dad7c2bc9b9001d46ea8" group-title="Movies", Butaca TV
