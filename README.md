@@ -48,13 +48,13 @@ https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="64e35aff6b1fdb0008ea8441" group-title="VARIEDADES" , Imagen TV HD 
 https://r.mjh.nz/PlutoTV/64e35aff6b1fdb0008ea8441-alt.m3u8
 
-#EXTINF:-1 tvg-id="Canal5.mx" group-title="VARIEDADES" , Canal Cinco  
+#EXTINF:-1 tvg-id="CANAL 5" group-title="VARIEDADES" , Canal Cinco  
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="VARIEDADES" , Multimedios
 https://r.mjh.nz/PlutoTV/652e91fd6208700008dcaf7b-alt.m3u8
 
-#EXTINF:-1 tvg-id="SEIS" group-title="VARIEDADES" , Seis
+#EXTINF:-1 tvg-id="CANAL 6 LAG" group-title="VARIEDADES" , Seis Laguna
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 
 
