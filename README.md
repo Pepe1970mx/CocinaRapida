@@ -381,8 +381,6 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , +Cine
-https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Gen TV 
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
@@ -466,7 +464,7 @@ http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Kids", Moni TV 
-https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="609e7e423e9173000706a681" group-title="Kids", Pluto TV toons Clasico
 
@@ -494,7 +492,6 @@ http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="Kids", Disney Channels
 http://287868455641661945.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/661945.ts
 
-#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="Kids", Disney XD
 
 #EXTINF:-1 tvg-id="ESBC4100003WE" group-title="Kids" , Clan
 https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
@@ -515,14 +512,17 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60240f57676235002df19f49.m3u8
 #EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" group-title="Movies",Cine Premiere 
 https://r.mjh.nz/PlutoTV/5cf968040ab7d8f181e6a68b-alt.m3u8
 
+#EXTINF:-1 tvg-id="ESBA3300039ZX" group-title="Movies", Free TV Estelar
+https://i.mjh.nz/SamsungTVPlus/ESBA3300039ZX.m3u8
+
 #EXTINF:-1 tvg-id="ESAJ45000181E" group-title="Movies" , Accion Rakuten 
 https://i.mjh.nz/SamsungTVPlus/ESAJ45000181E.m3u8
 
 #EXTINF:-1 tvg-id="ESBD80000288" group-title="Movies", Runtime Accion
 https://i.mjh.nz/SamsungTVPlus/ESBD80000288.m3u8
 
-#EXTINF:-1 tvg-id="643054b1fc3be59477853717-62990665171ca654f77b1e6c" group-title="Movies", Familiares-Rakuten
-https://i.mjh.nz/Plex/643054b1fc3be59477853717-62990665171ca654f77b1e6c.m3u8
+#EXTINF:-1 tvg-id="ESBA3300017FA" group-title="Movies", Familiares-Rakuten
+https://i.mjh.nz/SamsungTVPlus/ESBA3300017FA.m3u8
 
 #EXTINF:-1 tvg-id="5dcb62e63d4d8f0009f36881" group-title="Movies" , Pluto TV Cine Acción 
 https://r.mjh.nz/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8
@@ -533,14 +533,14 @@ https://r.mjh.nz/PlutoTV/5e972a21ad709d00074195ba-alt.m3u8
 #EXTINF:-1 tvg-id="5dcde437229eff00091b6c30" group-title="Movies" , Pluto TV Cine Estelar
 https://r.mjh.nz/PlutoTV/5dcde437229eff00091b6c30-alt.m3u8
 
-#EXTINF:-1 tvg-id="5dcddf1ed95e740009fef7ab" group title="Movies",Pluto TV Cine Terror
-https://r.mjh.nz/PlutoTV/5dcddf1ed95e740009fef7ab-alt.m3u8
-
 #EXTINF:-1 tvg-id="5f2817d3d7573a00080f9175" group-title="Movies",Pluto TV Sci-Fi 
 https://r.mjh.nz/PlutoTV/5f2817d3d7573a00080f9175-alt.m3u8
 
 #EXTINF:-1 tvg-id="624af40c004f8000079b784d" group-title="Movies", Pluto TV Cine Crimen
 https://r.mjh.nz/PlutoTV/624af40c004f8000079b784d-alt.m3u8
+
+#EXTINF:-1 tvg-id="5dcddf1ed95e740009fef7ab" group title="Movies" ,Pluto TV Cine Terror
+https://r.mjh.nz/PlutoTV/5dcddf1ed95e740009fef7ab-alt.m3u8
 
 #EXTINF:-1 tvg-id="ESBC2700002LO" group-title="Movies" , Grjngo-Peliculas del Oeste
 https://i.mjh.nz/SamsungTVPlus/ESBC2700002LO.m3u8
@@ -548,11 +548,8 @@ https://i.mjh.nz/SamsungTVPlus/ESBC2700002LO.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291" group-title="Movies" , Top Cine
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64f0dad7c2bc9b9001d46ea8" group-title="Movies", Butaca TV
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64f0dad7c2bc9b9001d46ea8.m3u8
 
-#EXTINF:-1 group-title="Movies", Terror Movies
-https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
+
 
 
 
@@ -576,9 +573,6 @@ https://r.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
 #EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="Series", Los Tres Chiflados
 https://i.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
 
-#EXTINF:-1 tvg-id="60f58f2278490000079bc47b" group-title="Series", La Niñera
-https://i.mjh.nz/PlutoTV/60f58f2278490000079bc47b-alt.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="Series", Chilevisual Retro
 https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8?PlaylistM3UCL
 
@@ -590,6 +584,9 @@ https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="" group-title="Series", Channels Classic
 https://paneltv.online:1936/8046/8046/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Series" , Teleclasica 
+https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="Series", ACS Network
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w910290755.m3u8
@@ -603,11 +600,8 @@ http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="Series", Telesistema 
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 
-#EXTINF:-1 group-title="Series" , Teleclasica 
-https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
-#EXTINF:-1 group-title="Series" , MDA TV
-https://vcp.myplaytv.com/mdatv/mdatv/.m3u8
+
 
 
 
@@ -687,10 +681,6 @@ https://r.mjh.nz/PlutoTV/6076cd1df8576d0007c82193-alt.m3u8
 #EXTINF:-1 tvg-id="1635bfb89b5cd9b0007ca9d63" group-title="Retro Music", MTV Classic
 https://i.mjh.nz/PlutoTV/1635bfb89b5cd9b0007ca9d63-alt.m3u8
 
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61aa9f50784a2161d3caf7fb.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="" group-title="MUSIC", Nick Music
 http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
@@ -742,28 +732,7 @@ https://i.mjh.nz/PlutoTV/15fd7bca3e0a4ee0007a38e8c-alt.m3u8
 https://i.mjh.nz/PlutoTV/5d93b635b43dd1a399b39eee-alt.m3u8
 
 #EXTINF:-1 tvg-id="5da0d64d0e8a62000964ebe4" group-title="MUSIC", Vevo Latino
-https://i.mjh.nz/PlutoTV/5da0d64d0e8a62000964ebe4-alt.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC", MUSIC TOP 
-http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC", TOP LATINO 
-http://stream.mxiptv.org:25461/live/tvabierta/opentv/249.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="MUSIC", 24/7 Pop 
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title "MUSIC" , Mega Box
-
-
-#EXTINF:-1 tvg-logo=" " group-title="MUSIC", First Music channel http://hz1.teleport.cc/HLS/HD.m3u8
-
-#EXTINF:-1 tvg-logo" "group-title="MUSICA REGIONAL" , MMC 
+https://i.mjh.nz/PlutoTV/5da0d64d0e8a62000964ebe4-alt.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fyPHgEH.png" group-title="MUSICA REGIONAL", Video Rola https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_2.m3u8
 
