@@ -87,7 +87,7 @@ https://5caf24a595d94.streamlock.net:1937/djkuxtvfah/djkuxtvfah/playlist.m3u8
 #EXTINF:-1 tvg-id="CANAL 11" group-title="VARIEDADES", Canal Once 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/.m3u8
 
-EXTINF:-1 tvg-id="I11.15178.schedulesdirect.org" group-title="VARIEDADES", Canal Once
+EXTINF:-1 tvg-id="I11.15178.schedulesdirect.org" group-title="VARIEDADES", Canal 11.2
 
 #EXTINF:-1 group-title="VARIEDADES", Canal 13 Tabasco
 https://dbdfj5y8nz2u4.cloudfront.net/c13tabasco/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
@@ -173,11 +173,11 @@ https://linear-301.frequency.stream/dist/vix/301/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="I292.6635.schedulesdirect.org" group-title="NOTICIAS", Foro TV 
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 
-#EXTINF:-1 tvg-id="I10.75278.schedulesdirect.org" group-title="NOTICIAS", ADN 40 
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-id="646ccd3681844c000974d6f4" group-title="NOTICIAS", ADN 40 
+https://r.mjh.nz/PlutoTV/646ccd3681844c000974d6f4-alt.m3u8
 
-#EXTINF:-1 tvg-id="I424.61719.schedulesdirect.org" group-title="NOTICIAS" , Milenio 
-https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 tvg-id="652e922db4b047000825f975" group-title="NOTICIAS" , Milenio Television
+https://r.mjh.nz/PlutoTV/652e922db4b047000825f975-alt.m3u8
 
 #EXTINF:-1 " tvg-id="3d2c140c111bc0008cb890b" group-title="NOTICIAS" , TeleFormula
 https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
@@ -188,8 +188,8 @@ https://ythls.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
 #EXTINF:-1 tvg-id="USBB3200016HO" group-title="NOTICIAS", TELEMUNDO AL DÍA 
 https://i.mjh.nz/SamsungTVPlus/USBB3200016HO.m3u8
 
-#EXTINF:-1 tvg-id="I150.87311.schedulesdirect.org" group-title="NOTICIAS", El Financiero - Bloomberg 
-TV https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
+#EXTINF:-1 tvg-id="I150.87311.schedulesdirect.org" group-title="NOTICIAS", El Financiero - Bloomberg TV
+https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
 
 #EXTINF:-1 tvg-id="I281.64230.schedulesdirect.org" group-title="NOTICIAS", DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -360,7 +360,7 @@ https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" group-title="ENTRETENIMIENTO", Ciudad Magazine
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Planeta TV
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
 
 #EXTINF:-1 group title="ENTRETENIMIENTO" , Planeta TV Movies
@@ -380,13 +380,6 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Gen TV 
-https://inliveserver.com:1936/14056/14056/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO", Cinco TV 
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO", TeleTres 
 https://d1dqr580c2izza.cloudfront.net/hls/canal3.m3u8
@@ -476,22 +469,18 @@ https://i.mjh.nz/PlutoTV/5d8d08395f39465da6fb3ec4-alt.m3u8
 
 #EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="Kids", Nickelodeon Clasico
 https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=83ae8ae2-b28d-11ee-bbe9-962bf7ca3ddb
- 
-#EXTINF:-1 group-title="Kids", Chilevisual kids
-https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="I114.16141.schedulesdirect.org" tvg-logo=" " group-title="Kids", Cartoon Network 
 http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
 
-#EXTINF:-1 group-title="Kids" , Tooncast 
+#EXTINF:-1 tvg-id"Tooncast" group-title="Kids" , Tooncast 
 http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="Kids", Nickelodeon 
+#EXTINF:-1 tvg-id="Nickelodeon" group-title="Kids", Nickelodeon 
 http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="Kids", Disney Channels
+#EXTINF:-1 tvg-id="Disney" group-title="Kids", Disney Channels
 http://287868455641661945.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/661945.ts
-
 
 #EXTINF:-1 tvg-id="ESBC4100003WE" group-title="Kids" , Clan
 https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
@@ -539,7 +528,7 @@ https://r.mjh.nz/PlutoTV/5f2817d3d7573a00080f9175-alt.m3u8
 #EXTINF:-1 tvg-id="624af40c004f8000079b784d" group-title="Movies", Pluto TV Cine Crimen
 https://r.mjh.nz/PlutoTV/624af40c004f8000079b784d-alt.m3u8
 
-#EXTINF:-1 tvg-id="5dcddf1ed95e740009fef7ab" group title="Movies" ,Pluto TV Cine Terror
+#EXTINF:-1 tvg-id="5dcddf1ed95e740009fef7ab" group title="Movies" , Pluto TV Cine Terror
 https://r.mjh.nz/PlutoTV/5dcddf1ed95e740009fef7ab-alt.m3u8
 
 #EXTINF:-1 tvg-id="ESBC2700002LO" group-title="Movies" , Grjngo-Peliculas del Oeste
@@ -547,11 +536,6 @@ https://i.mjh.nz/SamsungTVPlus/ESBC2700002LO.m3u8
 
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291" group-title="Movies" , Top Cine
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291.m3u8
-
-
-
-
-
 
 
 
