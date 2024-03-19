@@ -394,7 +394,7 @@ https://d1dqr580c2izza.cloudfront.net/hls/canal3.m3u8
 
 
 #EXTINF:-1 tvg-id="I528.88534.schedulesdirect.org" group-title="De Paga", Star Channels Latinoamerica
-
+http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
 
 #EXTINF:-1 tvg-id="STAR CHANNEL" group-title="De Paga", Star Channels Latinoamerica
 http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
