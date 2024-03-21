@@ -456,25 +456,14 @@ http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Kids", Moni TV 
+#EXTINF:-1 tvg-id"Boing" group-title="Kids", Boing
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 
+#EXTINF:-1 tvg-id="ESBC4100003WE" group-title="Kids" , Clan
+https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
 
-#EXTINF:-1 tvg-id="609e7e423e9173000706a681" group-title="Kids", Pluto TV toons Clasico
-
-#EXTINF:-1 tvg-id="645952687cb4b100084ed52e" group-title="Kids", Nickelodeon Pluto TV
-
-
-#EXTINF:-1 tvg-id="5d8d08395f39465da6fb3ec4" group-title="Kids", Nickelodeon en español 
-https://i.mjh.nz/PlutoTV/5d8d08395f39465da6fb3ec4-alt.m3u8
-
-#EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="Kids", Nickelodeon Clasico
-https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=83ae8ae2-b28d-11ee-bbe9-962bf7ca3ddb
-
-#EXTINF:-1 tvg-id="I114.16141.schedulesdirect.org" tvg-logo=" " group-title="Kids", Cartoon Network 
+#EXTINF:-1 tvg-id="I114.16141.schedulesdirect.org" group-title="Kids", Cartoon Network 
 http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
-
-#EXTINF:-1 tvg-id"Tooncast" group-title="Kids" , Tooncast 
-http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon" group-title="Kids", Nickelodeon 
 http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
@@ -482,8 +471,26 @@ http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
 #EXTINF:-1 tvg-id="Disney" group-title="Kids", Disney Channels
 http://287868455641661945.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/661945.ts
 
-#EXTINF:-1 tvg-id="ESBC4100003WE" group-title="Kids" , Clan
-https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
+#EXTINF:-1 tvg-id="645952687cb4b100084ed52e" group-title="Kids", Nickelodeon Pluto TV
+https://r.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
+
+#EXTINF:-1 tvg-id="5d8d08395f39465da6fb3ec4" group-title="Kids", Nickelodeon en español 
+https://i.mjh.nz/PlutoTV/5d8d08395f39465da6fb3ec4-alt.m3u8
+
+#EXTINF:-1 tvg-id"Tooncast" group-title="Kids" , Tooncast 
+http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8
+
+#EXTINF:-1 tvg-id="609e7e423e9173000706a681" group-title="Kids", Pluto TV toons Clasico
+https://r.mjh.nz/PlutoTV/609e7e423e9173000706a681-alt.m3u8
+
+#EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="Kids", Nickelodeon Clasico
+https://r.mjh.nz/PlutoTV/5f12151794c1800007a8ae63-alt.m3u8
+
+#EXTINF:-1 tvg-id="60142258a54aeb0007751c15" group-title="Kids", Pluto TV Retro Cartoons
+https://r.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
+
+#EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="Kids", Los Tres Chiflados
+https://i.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
 
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" group-title="Movies", Free TV Live
@@ -551,11 +558,9 @@ https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 #EXTINF:-1 tvg-id="5de802659167b10009e7deba" group-title="Series", Pluto TV Series Retro
 https://r.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
 
-#EXTINF:-1 tvg-id="60142258a54aeb0007751c15" group-title="Series", Pluto TV Retro Cartoons
-https://r.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
 
-#EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="Series", Los Tres Chiflados
-https://i.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" group-title="Series", Chilevisual Retro
 https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8?PlaylistM3UCL
