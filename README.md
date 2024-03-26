@@ -45,9 +45,8 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdn
 #EXTINF:-1 tvg-id="I403.16257.schedulesdirect.org" group-title="VARIEDADES", Las estrellas Internacional
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
-
-EXTINF:-1 tvg-id="LAS ESTRELLAS.PE" group-title="VARIEDADES", Las estrellas Latinoamerica
-
+EXTINF:-1 tvg-id="Las Estrellas.co" group-title="VARIEDADES", Las estrellas Latinoamerica
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="64e35aff6b1fdb0008ea8441" group-title="VARIEDADES" , Imagen TV HD 
 https://r.mjh.nz/PlutoTV/64e35aff6b1fdb0008ea8441-alt.m3u8
@@ -62,8 +61,10 @@ https://r.mjh.nz/PlutoTV/652e91fd6208700008dcaf7b-alt.m3u8
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 
 
-#EXTINF:-1 tvg-id="AZTECA 7" group-title="VARIEDADES" , Azteca 7 
+#EXTINF:-1 tvg-id="Azteca7.mx" group-title="VARIEDADES" , Azteca 7 
 
+#EXTINF:-1 tvg-id="Azteca7.mx(m3u4u)" group-title="VARIEDADES" , Azteca 7
+https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
 EXTINF:-1 tvg-id="I107.102406.schedulesdirect.org" group-title="VARIEDADES" , Azteca 7 
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
