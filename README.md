@@ -1,5 +1,9 @@
 #EXTM3U x-tvg-url="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/1f9e996f46f00176c6927ea03fd52277ef2c4b79/Plex/all.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/PlutoTV/all.xml.gz,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml,https://www.bevy.be/bevyfiles/mexicopremium.xml,https://www.bevy.be/bevyfiles/peru.xml,https://www.bevy.be/bevyfiles/costaricapremium.xml,https://www.bevy.be/bevyfiles/hondura.xml,https://www.bevy.be/bevyfiles/elsalvador.xml,https://www.bevy.be/bevyfiles/guatemala.xml,https://www.bevy.be/bevyfiles/puertorico.xml"
 
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES" , Cazafantasmas
+http://cineplay.vip:8080/movie/ang03/d4gHCwACQs/293332.mp4
+
+
 #EXTINF:-1 tvg-id="" group-title="VARIEDADES" , La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
