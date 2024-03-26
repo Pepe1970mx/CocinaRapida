@@ -39,16 +39,14 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 tvg-id="AZTECA UNO" group-title="VARIEDADES" , Azteca Uno 
 
-
-
 #EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS" group-title="VARIEDADES" , Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
 
-EXTINF:-1 tvg-id="I403.16257.schedulesdirect.org" group-title="VARIEDADES", Las estrellas Internacional
+#EXTINF:-1 tvg-id="I403.16257.schedulesdirect.org" group-title="VARIEDADES", Las estrellas Internacional
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="LAS ESTRELLAS.PE" group-title="VARIEDADES", Las estrellas Latinoamerica
+EXTINF:-1 tvg-id="LAS ESTRELLAS.PE" group-title="VARIEDADES", Las estrellas Latinoamerica
 
 
 #EXTINF:-1 tvg-id="64e35aff6b1fdb0008ea8441" group-title="VARIEDADES" , Imagen TV HD 
