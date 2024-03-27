@@ -501,11 +501,17 @@ https://i.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" group-title="Movies", Free TV Live
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6018913ea15130002b28418f.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Movies", Free TV
+https://freetv.stream.olympusatmedia.com/index.m3u8?url=https%3A%2F%2Fwww.freetv.com%2Fpeliculas%2Ffreetv-8-2%2F&genre=Entretenimiento&ic=&us_privacy=&coppa=0&user_id=&ip=201.148.42.146&ipv6=&c_duration=3600&c_producer=freetv8.2&c_lang=es&ua=Mozilla%2F5.0+%28Linux%3B+Android+11%3B+SM-A022M+Build%2FRP1A.200720.012%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F108.0.5359.128+Mobile+Safari%2F537.36&hls_marker=1&content_channel=FreeTV+8.2&content_title=&content_genre=&gdpr=0&player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
+
+#EXTINF:-1 tvg-id="" group-title="Movies", Free TV Accion
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913fa15130002b284197" group-title="Movies", Free TV Sureño
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6018913fa15130002b284197.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-63d954cc308687c7d9baa667" group-title="Movies", Free TV Horror
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63d954cc308687c7d9baa667.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=xAoXwfNRpzqfb4QF8JUB&channelId=617afafd7ab406f93af02607
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60240f57676235002df19f49" group-title="Movies", Free TV Familia
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60240f57676235002df19f49.m3u8
