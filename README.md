@@ -51,13 +51,13 @@ https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="64e35aff6b1fdb0008ea8441" group-title="VARIEDADES" , Imagen TV HD 
 https://r.mjh.nz/PlutoTV/64e35aff6b1fdb0008ea8441-alt.m3u8
 
-#EXTINF:-1 tvg-id="CANAL 5" group-title="VARIEDADES" , Canal Cinco  
+#EXTINF:-1 tvg-id="Canal5.mx(m3u4u)" group-title="VARIEDADES" , Canal Cinco  
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="VARIEDADES" , Multimedios
 https://r.mjh.nz/PlutoTV/652e91fd6208700008dcaf7b-alt.m3u8
 
-#EXTINF:-1 tvg-id="CANAL 6 LAG" group-title="VARIEDADES" , Seis Laguna
+#EXTINF:-1 tvg-id="XHOAHTDT.mx(m3u4u)" group-title="VARIEDADES" , Seis Laguna
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 
 
@@ -142,7 +142,7 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Telemundo(espanish).us" group-title="US Español", Telemundo
+#EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us(m3u4u)" group-title="US Español", Telemundo
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" group-title="US Español", Telemundo Internacional
@@ -155,6 +155,9 @@ http://stream.flynetwifi.com:1935/live/mobile-065/playlist.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" tvg-logo=" " group-title="US Español",  Univision Latino America
+https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us(m3u4u)" group-title="US Español",  Univision Latino
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I684.29058.schedulesdirect.org" group-title="US Español", Unimas
