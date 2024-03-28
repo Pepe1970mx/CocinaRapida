@@ -148,7 +148,7 @@ https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" group-title="US Español", Telemundo Internacional
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65880
 
-#EXTINF:-1 tvg-id="universo.us" group-title="US Español", Universo
+#EXTINF:-1 tvg-id="" group-title="US Español", Universo
 http://stream.flynetwifi.com:1935/live/mobile-065/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WKAQDT.pr(m3u4u)" group-title="US Español", Telemundo PR 
