@@ -142,7 +142,7 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us(m3u4u)" group-title="US Español", Telemundo
+#EXTINF:-1 tvg-id="Telemundo(Spanish).us(m3u4u)" group-title="US Español", Telemundo
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
 #EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" group-title="US Español", Telemundo Internacional
