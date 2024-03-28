@@ -151,7 +151,7 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65880
 #EXTINF:-1 tvg-id="universo.us" group-title="US Español", Universo
 http://stream.flynetwifi.com:1935/live/mobile-065/playlist.m3u8
 
-#EXTINF:-1 group-title="US Español", Telemundo PR 
+#EXTINF:-1 tvg-id="WKAQ Telemundo Puerto Rico.pr" group-title="US Español", Telemundo PR 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" tvg-logo=" " group-title="US Español",  Univision Latino America
@@ -160,13 +160,13 @@ https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="I684.29058.schedulesdirect.org" group-title="US Español", Unimas
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62683
 
-#EXTINF:-1 group-title="US Español", Teleonce Univision PR
+#EXTINF:-1 tvg-id="WOLE Univisión Puerto Rico.pr" group-title="US Español", Teleonce Univision PR
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
 #EXTINF:-1 tvg-id="USBA300040WR" group-title="US Español", ESTRELLA TV
 https://i.mjh.nz/SamsungTVPlus/USBA300040WR.m3u8
 
-#EXTINF:-1 group-title="US Español" , Wapa
+#EXTINF:-1  tvg-id="WAPA.pr"  group-title="US Español" , Wapa
 https://live.field59.com/wapa/wapa1/playlist.m3u8
 
 
@@ -279,7 +279,7 @@ http://515860080856165393.of23103.xyz:80/play/XDH31455298/664585696/165393.ts
 #EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network 
 https://r.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
 
-#EXTINF:-1 tvg-id"wapadeportes" group-title="Sports", Wapa Deportes
+#EXTINF:-1 tvg-id"WAPA 2 Deportes HDTV.pr" group-title="Sports", Wapa Deportes
 https://live.field59.com/wapa/wapa2/.m3u8
 
 #EXTINF:-1 tvg-id="ESBC410000577" group-title="Sports", Teledeportes
