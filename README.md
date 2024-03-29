@@ -84,8 +84,6 @@ EXTINF:-1 tvg-id="I233.97020.schedulesdirect.org" group-title="VARIEDADES", Cana
 #EXTINF:-1 tvg-id="I448.15213.schedulesdirect.org" group-title="VARIEDADES", MVS TV 
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
-
-
 #EXTINF:-1 tvg-id="" group-title="VARIEDADES", EclipseTV 
 https://5caf24a595d94.streamlock.net:1937/djkuxtvfah/djkuxtvfah/playlist.m3u8
 
@@ -93,6 +91,7 @@ https://5caf24a595d94.streamlock.net:1937/djkuxtvfah/djkuxtvfah/playlist.m3u8
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/.m3u8
 
 EXTINF:-1 tvg-id="I11.15178.schedulesdirect.org" group-title="VARIEDADES", Canal 11.2
+
 
 #EXTINF:-1 group-title="VARIEDADES", Canal 13 Tabasco
 https://dbdfj5y8nz2u4.cloudfront.net/c13tabasco/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
@@ -105,6 +104,9 @@ EXTINF:-1 tvg-id="I14.98192.schedulesdirect.org" group-title="VARIEDADES" , Cana
 #EXTINF:-1 tvg-id="I100.91060.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , CANAL 22 
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id"" tvg-logo=" " group-title="VARIEDADES" , CANAL 22.2
+
+
 #EXTINF:-1 tvg-id="I503.36479.schedulesdirect.org" group-title="VARIEDADES" , Radio y Television de Veracruz (RTV) 
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
@@ -113,6 +115,9 @@ https://ythls.armelin.one/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", NNVeracruz
 https://s.emisoras.tv:8081/nnveracruz/index.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Meganoticias 
+https://a37d474b6bb9441fa17e3e1ab3d55fce.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_MegaNoticias/playlist.m3u8?ads.wurl_channel=925
 
 #EXTINF:-1 tvg-id=" " group-title="VARIEDADES", Quiero TV
 https://stream.oursnetworktv.com/latin/encoder12/playlist.m3u8
@@ -510,6 +515,7 @@ https://freetv.stream.olympusatmedia.com/index.m3u8?url=https%3A%2F%2Fwww.freetv
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291" group-title="Movies", Free TV Accion
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
+
 #EXTINF:-1 tvg-id="ESBA3300039ZX" group-title="Movies", Free TV Estelar
 https://i.mjh.nz/SamsungTVPlus/ESBA3300039ZX.m3u8
 
@@ -518,6 +524,7 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6018913fa15130002b284197.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" group-title="Movies", Free TV Horror
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=xAoXwfNRpzqfb4QF8JUB&channelId=617afafd7ab406f93af02607
+
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60240f57676235002df19f49" group-title="Movies", Free TV Familia
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60240f57676235002df19f49.m3u8
