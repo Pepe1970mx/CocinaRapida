@@ -316,9 +316,11 @@ http://138.59.177.34:8000/play/a04m/index.m3u8
 #EXTINF:-1 tvg-id="Televicentro.hn" group-title="ENTRETENIMIENTO", TeleSiete GT
 http://138.59.177.34:8000/play/a04l/index.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Teleonce GT
+http://138.59.177.34:8000/play/a03f/index.m3u8
+
 #EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO",  Trecevision GT
 http://138.59.177.34:8000/play/a03e/index.m3u8
-
 
 #EXTINF:-1 tvg-id="Canal 4 de Costa Rica" group-title="ENTRETENIMIENTO" , Canal 4 CR
 https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.sdp/playlist.m3u8
@@ -337,7 +339,6 @@ https://250weu.bozztv.com/ssh101/ssh101/sinart13/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telesur.CR" group-title="ENTRETENIMIENTO" , Telesur CR
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
-
 
 #EXTINF:-1 tvg-id="Canal10.sv" group-title="ENTRETENIMIENTO", Canal 10 NI
 https://dgh4r3ro3i2mi.cloudfront.net/Canal10NI/7d8e90910905c4165b7180d8db1d8b68.sdp/playlist.m3u8
@@ -377,11 +378,6 @@ https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8
 http://51.81.93.239:8084/hls/tmicro.m3u8
 
 
-
-#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Teleonce GT
-http://138.59.177.34:8000/play/a03f/index.m3u8
-
-
 #EXTINF:-1 tvg-id="ElTrece.ar" group-title="ENTRETENIMIENTO", El trece AR
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
@@ -393,10 +389,10 @@ https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 group title="ENTRETENIMIENTO" , Planeta TV Movies
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ENTRETENIMIENTO" , Planeta TV Kids
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO", WTV NI
+#EXTINF:-1 tvg-id="VTVCanal35.sv" group-title="ENTRETENIMIENTO", WTV NI
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
 #EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", CocoTV
@@ -407,10 +403,6 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO", TeleTres 
-https://d1dqr580c2izza.cloudfront.net/hls/canal3.m3u8
-
 
 
 #EXTINF:-1 tvg-id="I528.88534.schedulesdirect.org" group-title="De Paga", Star Channels Latinoamerica
