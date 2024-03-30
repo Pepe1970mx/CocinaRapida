@@ -310,8 +310,15 @@ https://i.mjh.nz/SamsungTVPlus/USBD7000017L.m3u8
 #EXTINF:-1 tvg-id="USBC39000080S" group-title="ENTRETENIMIENTO", Canela TV
 https://i.mjh.nz/SamsungTVPlus/USBC39000080S.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO", Canal 3 Super canal
-https://dy434h3s52eoj.cloudfront.net/Canal3GT/01582b1c46c04a847aa7c4936d1eeba7.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO", Canal 3 Super canal GT
+http://138.59.177.34:8000/play/a04m/index.m3u8
+
+#EXTINF:-1 tvg-id="Televicentro.hn" group-title="ENTRETENIMIENTO", TeleSiete GT
+http://138.59.177.34:8000/play/a04l/index.m3u8
+
+#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO",  Trecevision GT
+http://138.59.177.34:8000/play/a03e/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Canal 4 de Costa Rica" group-title="ENTRETENIMIENTO" , Canal 4 CR
 https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.sdp/playlist.m3u8
@@ -339,7 +346,11 @@ https://dgh4r3ro3i2mi.cloudfront.net/Canal10NI/7d8e90910905c4165b7180d8db1d8b68.
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal11.m3u8
 
 #EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="ENTRETENIMIENTO", Telecadena 7 y 4
-http://31.42.185.216:8000/85093573/P1NRJ69MVC/125927
+http://200.52.148.194:8000/play/a04q/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Mega Clasicos
+http://170.82.37.21:8000/play/a005/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Televicentro.hn" group-title="ENTRETENIMIENTO", Canal 5 El lider HN
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
@@ -365,8 +376,11 @@ https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-id="telemicro.rd" group-title="ENTRETENIMIENTO", Telemicro RD
 http://51.81.93.239:8084/hls/tmicro.m3u8
 
-#EXTINF:-1 tvg-id="Televicentro.hn" group-title="ENTRETENIMIENTO", TeleSiete GT
-https://dy434h3s52eoj.cloudfront.net/Canal7GT/d84b644e13e68dd78dfcb9a0cf0338f1.sdp/Canal7GT/Canal7GT2/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Teleonce GT
+http://138.59.177.34:8000/play/a03f/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ElTrece.ar" group-title="ENTRETENIMIENTO", El trece AR
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
