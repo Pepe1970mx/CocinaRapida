@@ -234,7 +234,7 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id"AMX NOTICIAS" group-title="NOTICIAS" , Mexiquense Noticias 
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS" , CNN en Español 
+#EXTINF:-1 tvg-id"" group-title="NOTICIAS" , CNN en Español 
 https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
 
 
@@ -250,35 +250,50 @@ https://r.mjh.nz/PlutoTV/6320d2755e54db000783fd87-alt.m3u8
 
 #EXTINF:-1 tvg-id="I143.119143.schedulesdirect.org" group-title="Sports", Claro Sports 2
 http://45.5.117.182:8000/play/a0e5/index.m3u8
-
-#EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" tvg-id="foxdeportes.us" group-title="Sports", Fox Deportes 
+#EXTINF:-1 tvg-id="FoxDeportes(Spanish).us(m3u4u)" group-title="Sports", Fox Deportes 
 http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I505.41677.schedulesdirect.org" group-title="Sports", Fox Sport Latinoamerica
+#EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" tvg-id="foxdeportes.ugroup-title="Sports", 
+
+#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx(m3u4u)" group-title="Sports", Fox Sport Latinoamerica
 http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I506.66365.schedulesdirect.org" group-title="Sports", Fox sport 2 Latinoamerica
+#EXTINF:-1 tvg-id="I505.41677.schedulesdirect.org" group-title="Sports", 
+
+#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx(m3u4u)" group-title="Sports", Fox sport 2 Latinoamerica
 http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FOX SPORTS 3" group-title="Sports", Fox sport 3 Latinoamerica
+#EXTINF:-1 tvg-id="I506.66365.schedulesdirect.org" group-title="Sports", 
+
+
+#EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx(m3u4u)" group-title="Sports", Fox sport 3 Latinoamerica
 http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I854.25595.schedulesdirect.org" group-title="Sports", Espn Deportes 
+#EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us(m3u4u)" group-title="Sports", Espn Deportes 
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57185
 
-#EXTINF:-1 tvg-id="I509.19158.schedulesdirect.org" group-title="Sports", Espn Latinoamerica
+#EXTINF:-1 tvg-id="I854.25595.schedulesdirect.org" group-title="Sports", 
+
+#EXTINF:-1 tvg-id="ESPN.mx(m3u4u)" group-title="Sports", Espn Latinoamerica
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/185154
 
-#EXTINF:-1 tvg-id="I508.37747.schedulesdirect.org" group-title="Sports", Espn 2 Latinoamerica
+#EXTINF:-1 tvg-id="I509.19158.schedulesdirect.org" group-title="Sports", 
+
+
+#EXTINF:-1 tvg-id="ESPN2.mx(m3u4u)" group-title="Sports", Espn 2 Latinoamerica
 http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I510.79042.schedulesdirect.org" group-title="Sports", Espn 3 Latinoamerica
+#EXTINF:-1 tvg-id="I508.37747.schedulesdirect.org" group-title="Sports", 
+
+#EXTINF:-1 tvg-id="ESPNTres(North).mx(m3u4u)" group-title="Sports", Espn 3 Latinoamerica
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63194
 
-#EXTINF:-1 tvg-id="tudn.mx" group-title="Sports", Tudn MX
+#EXTINF:-1 tvg-id="I510.79042.schedulesdirect.org" group-title="Sports", 
+
+#EXTINF:-1 tvg-id="TUDN.mx(m3u4u)" group-title="Sports", Tudn MX
 https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tudn.mx" group-title="Sports", Tudn USA
+#EXTINF:-1 tvg-id="TUDN(Spanish).us(m3u4u)" group-title="Sports", Tudn USA
 http://livex.pop-app.live/s4n/poplive/ch302/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I693.75951.schedulesdirect.org" group-title="Sports", Afizzionados
