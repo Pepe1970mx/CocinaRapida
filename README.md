@@ -85,13 +85,15 @@ https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 
 EXTINF:-1 tvg-id="I233.97020.schedulesdirect.org" group-title="VARIEDADES", Canal Nu9ve
 
-#EXTINF:-1 tvg-id="I448.15213.schedulesdirect.org" group-title="VARIEDADES", MVS TV 
+#EXTINF:-1 tvg-id="MVSTV.mx(m3u4u)" group-title="VARIEDADES", MVS TV 
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+
+#EXTINF:-1 tvg-id="I448.15213.schedulesdirect.org" group-title="VARIEDADES", 
 
 #EXTINF:-1 tvg-id="" group-title="VARIEDADES", EclipseTV 
 https://5caf24a595d94.streamlock.net:1937/djkuxtvfah/djkuxtvfah/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CANAL 11" group-title="VARIEDADES", Canal Once 
+#EXTINF:-1 tvg-id="XEIPNTDT.mx(m3u4u)" group-title="VARIEDADES", Canal Once 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/.m3u8
 
 EXTINF:-1 tvg-id="I11.15178.schedulesdirect.org" group-title="VARIEDADES", Canal 11.2
@@ -106,10 +108,12 @@ https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 EXTINF:-1 tvg-id="I14.98192.schedulesdirect.org" group-title="VARIEDADES" , Canal 14 
 
 #EXTINF:-1 tvg-id="I100.91060.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , CANAL 22 
+
+#EXTINF:-1 tvg-id="XEIMTTVMetropolitan(Canal22).mx(m3u4u)" group-title="VARIEDADES" , CANAL 22 
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id"" group-title="VARIEDADES" , CANAL 22.2
-https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My80LzIwMjQgMzozMjowMyBBTSZoYXNoX3ZhbHVlPTZOZExsV0pqN0NWTVNJZWRnTXNMbmc9PSZ2YWxpZG1pbnV0ZXM9NSZpZD0=
+#EXTINF:-1 tvg-id"XEIMTDT2.mx(m3u4u)" group-title="VARIEDADES" , CANAL 22.2 MX Nuestro Cine
+https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I503.36479.schedulesdirect.org" group-title="VARIEDADES" , Radio y Television de Veracruz (RTV) 
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
@@ -120,14 +124,15 @@ https://ythls.armelin.one/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 #EXTINF:-1 group-title="VARIEDADES", NNVeracruz
 https://s.emisoras.tv:8081/nnveracruz/index.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", Meganoticias 
+#EXTINF:-1  tvg-id"MeganoticiasMX.mx(m3u4u)" group-title="VARIEDADES", Meganoticias 
 https://a37d474b6bb9441fa17e3e1ab3d55fce.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_MegaNoticias/playlist.m3u8?ads.wurl_channel=925
 
 #EXTINF:-1 tvg-id=" " group-title="VARIEDADES", Quiero TV
 https://stream.oursnetworktv.com/latin/encoder12/playlist.m3u8
 
+#EXTINF:-1 tvg-id="I34.28440.schedulesdirect.org" group-title="VARIEDADES" ,
 
-#EXTINF:-1 tvg-id="I34.28440.schedulesdirect.org" group-title="VARIEDADES" , TV Mexiquense 
+#EXTINF:-1 tvg-id="XHGEMTDT.mx(m3u4u)" group-title="VARIEDADES" , TV Mexiquense 
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
 
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES", Telemax (XEWH)
@@ -142,7 +147,7 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8?
 #EXTINF:-1 tvg-id="I440.99621.schedulesdirect.org" group-title="VARIEDADES" , Canal 15 Coahuila
 https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w2102162107.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="VARIEDADES", Mariavision 
+#EXTINF:-1 tvg-id="Mariavision.mx(m3u4u)" group-title="VARIEDADES", Mariavision 
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
 
@@ -150,27 +155,33 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64878a0108027d895721403b" group-title="US Español", Nuestra Vision 
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="Telemundo(Spanish).us(m3u4u)" group-title="US Español", Telemundo
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
-#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" group-title="US Español", Telemundo Internacional
+#EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us(m3u4u)" group-title="US Español", 
+
+#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" group-title="US Español", 
+Telemundo Internacional
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65880
 
-#EXTINF:-1 tvg-id="" group-title="US Español", Universo
+#EXTINF:-1 tvg-id="UNIVERSO(Spanish).us(m3u4u)" group-title="US Español", Universo
 http://stream.flynetwifi.com:1935/live/mobile-065/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WKAQDT.pr(m3u4u)" group-title="US Español", Telemundo PR 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" tvg-logo=" " group-title="US Español",  Univision Latino America
+#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us(m3u4u)" group-title="US Español",  Univision Latino America
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us(m3u4u)" group-title="US Español",  Univision Latino
+#EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" tvg-logo=" " group-title="US Español", 
+
+#EXTINF:-1 tvg-id"UnivisionNetwork(Pacific)(Spanish).us(m3u4u)" group-title="US Español",  Univision Latino
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I684.29058.schedulesdirect.org" group-title="US Español", Unimas
+#EXTINF:-1 tvg-id="UniMas(East)(Spanish).us(m3u4u)" group-title="US Español", Unimas
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62683
+
+#EXTINF:-1 tvg-id="I684.29058.schedulesdirect.org" group-title="US Español", 
 
 #EXTINF:-1 tvg-id="WLIIDT.pr(m3u4u)" group-title="US Español", Teleonce Univision PR
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
