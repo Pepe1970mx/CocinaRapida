@@ -10,6 +10,9 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="USBD2700004ME" group-title="VARIEDADES" , Como Dice el Dicho 
 https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
 
+#EXTINF:-1 tvg-id="USBC2100010OS" group-title="VARIEDADES" , ViX Risas de Oro
+https://linear-313.frequency.stream/mt/studio/313/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="USBC2100010OS" group-title="VARIEDADES" , ViX Jajaja 
 https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
 
@@ -104,8 +107,8 @@ EXTINF:-1 tvg-id="I14.98192.schedulesdirect.org" group-title="VARIEDADES" , Cana
 #EXTINF:-1 tvg-id="I100.91060.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , CANAL 22 
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id"" tvg-logo=" " group-title="VARIEDADES" , CANAL 22.2
-
+#EXTINF:-1 tvg-id"" group-title="VARIEDADES" , CANAL 22.2
+https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My80LzIwMjQgMzozMjowMyBBTSZoYXNoX3ZhbHVlPTZOZExsV0pqN0NWTVNJZWRnTXNMbmc9PSZ2YWxpZG1pbnV0ZXM9NSZpZD0=
 
 #EXTINF:-1 tvg-id="I503.36479.schedulesdirect.org" group-title="VARIEDADES" , Radio y Television de Veracruz (RTV) 
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
@@ -220,12 +223,15 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS" , CNN en Español 
+https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
+
+
 https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="6582f002a620e3000813b329" group-title="Sports", Azteca Deportes Network 
-https://r.mjh.nz/PlutoTV/6582f002a620e3000813b329-alt.m3u8
+#EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" group-title="Sports", Azteca Deportes Network 
+https://r.mjh.nz/PlutoTV/65cf60d166eec80008724e6f-alt.m3u8
 
 #EXTINF:-1 tvg-id="6320d2755e54db000783fd87" group-title="Sports", Claro Sports México 
 https://r.mjh.nz/PlutoTV/6320d2755e54db000783fd87-alt.m3u8
@@ -526,10 +532,10 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 https://i.mjh.nz/SamsungTVPlus/ESBA3300039ZX.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913fa15130002b284197" group-title="Movies", Free TV Sureño
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6018913fa15130002b284197.m3u8
+https://amg01024-olympusat-cinesurenope-lgpe-brjfx.amagi.tv/playlist/amg01024-olympusat-cinesurenope-lgpe/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" group-title="Movies", Free TV Horror
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=xAoXwfNRpzqfb4QF8JUB&channelId=617afafd7ab406f93af02607
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfyco-lgco/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60240f57676235002df19f49" group-title="Movies", Free TV Familia
@@ -538,7 +544,8 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60240f57676235002df19f49.m3u8
 #EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" group-title="Movies",Cine Premiere 
 https://r.mjh.nz/PlutoTV/5cf968040ab7d8f181e6a68b-alt.m3u8
 
-
+#EXTINF:-1 tvg-id="" group-title="Movies", Canela Cinema
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgmx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESAJ45000181E" group-title="Movies" , Accion Rakuten 
 https://i.mjh.nz/SamsungTVPlus/ESAJ45000181E.m3u8
