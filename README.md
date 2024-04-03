@@ -38,11 +38,12 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64695233f73356567a64ce90.m3u8
 https://ch1-tva.duin.dev/hls/stream.m3u8
 
 EXTINF:-1 tvg-id="I85.46607.schedulesdirect.org" group-title="VARIEDADES" , Azteca Uno 
+
+
+#EXTINF:-1 tvg-id="AztecaUno.mx(m3u4u)" group-title="VARIEDADES" , Azteca Uno 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-id="AZTECA UNO" group-title="VARIEDADES" , Azteca Uno 
-
-#EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS" group-title="VARIEDADES" , Las Estrellas
+#EXTINF:-1 tvg-id="LasEstrellas.mx(m3u4u)" group-title="VARIEDADES" , Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
 
 #EXTINF:-1 tvg-id="I403.16257.schedulesdirect.org" group-title="VARIEDADES", Las estrellas Internacional
@@ -99,7 +100,7 @@ EXTINF:-1 tvg-id="I11.15178.schedulesdirect.org" group-title="VARIEDADES", Canal
 #EXTINF:-1 group-title="VARIEDADES", Canal 13 Tabasco
 https://dbdfj5y8nz2u4.cloudfront.net/c13tabasco/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CANAL 14" group-title="VARIEDADES" , Canal 14 
+#EXTINF:-1 tvg-id="Canal14.mx(m3u4u)" group-title="VARIEDADES" , Canal 14 
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 
 EXTINF:-1 tvg-id="I14.98192.schedulesdirect.org" group-title="VARIEDADES" , Canal 14 
