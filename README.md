@@ -539,7 +539,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfyco-lgco/pla
 
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60240f57676235002df19f49" group-title="Movies", Free TV Familia
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60240f57676235002df19f49.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntosco-lgco/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" group-title="Movies",Cine Premiere 
 https://r.mjh.nz/PlutoTV/5cf968040ab7d8f181e6a68b-alt.m3u8
