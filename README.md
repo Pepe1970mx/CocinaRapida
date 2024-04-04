@@ -10,7 +10,7 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="USBD2700004ME" group-title="VARIEDADES" , Como Dice el Dicho 
 https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="VARIEDADES" , ViX Risas de Oro
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES" , Risas de Oro
 https://linear-313.frequency.stream/mt/studio/313/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USBC2100010OS" group-title="VARIEDADES" , ViX Jajaja 
