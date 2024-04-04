@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/PlutoTV/all.xml.gz"
+#EXTM3U x-tvg-url="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/PlutoTV/all.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/1f9e996f46f00176c6927ea03fd52277ef2c4b79/Plex/all.xml"
 
 #EXTINF:-1 tvg-id="" group-title="VARIEDADES" , Cazafantasmas
 http://cineplay.vip:8080/movie/ang03/d4gHCwACQs/293332.mp4
@@ -10,7 +10,7 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="USBD2700004ME" group-title="VARIEDADES" , Como Dice el Dicho 
 https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
 
-#EXTINF:-1 tvg-id="USBC2100010OS" group-title="VARIEDADES" , ViX Risas de Oro
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES" , ViX Risas de Oro
 https://linear-313.frequency.stream/mt/studio/313/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USBC2100010OS" group-title="VARIEDADES" , ViX Jajaja 
