@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58"
+#EXTM3U x-tvg-url="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://i.mjh.nz/SamsungTVPlus/all.xml"
 
 #EXTINF:-1 tvg-id="" group-title="VARIEDADES" , Cazafantasmas
 http://cineplay.vip:8080/movie/ang03/d4gHCwACQs/293332.mp4
@@ -122,8 +122,8 @@ https://ythls.armelin.one/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 #EXTINF:-1 group-title="VARIEDADES", NNVeracruz
 https://s.emisoras.tv:8081/nnveracruz/index.m3u8
 
-#EXTINF:-1  tvg-id"MeganoticiasMX.mx(m3u4u)" group-title="VARIEDADES", Meganoticias 
-https://a37d474b6bb9441fa17e3e1ab3d55fce.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_MegaNoticias/playlist.m3u8?ads.wurl_channel=925
+#EXTINF:-1 tvg-id"MeganoticiasMX.mx(m3u4u)" group-title="VARIEDADES", Meganoticias
+https://a37d474b6bb9441fa17e3e1ab3d55fce.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_MegaNoticias/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" " group-title="VARIEDADES", Quiero TV
 
@@ -133,7 +133,7 @@ https://a37d474b6bb9441fa17e3e1ab3d55fce.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="XHGEMTDT.mx(m3u4u)" group-title="VARIEDADES" , TV Mexiquense 
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
 
-#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="VARIEDADES", Telemax (XEWH)
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES", Telemax (XEWH)
 http://s5.mexside.net:1935/telemax/telemax/chunklist_w1982711424.m3u8
 
 #EXTINF:-1 tvg-id="I508.46481.schedulesdirect.org" group-title="VARIEDADES" , RCG Acuna Canal 36
