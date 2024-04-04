@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://i.mjh.nz/SamsungTVPlus/all.xml"
+#EXTM3U x-tvg-url="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/PlutoTV/all.xml.gz"
 
 #EXTINF:-1 tvg-id="" group-title="VARIEDADES" , Cazafantasmas
 http://cineplay.vip:8080/movie/ang03/d4gHCwACQs/293332.mp4
