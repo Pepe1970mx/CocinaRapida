@@ -364,16 +364,16 @@ http://138.59.177.34:8000/play/a03f/index.m3u8
 http://138.59.177.34:8000/play/a03e/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal 4 de Costa Rica" group-title="ENTRETENIMIENTO" , Canal 4 CR
-https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.sdp/playlist.m3u8
+https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal 6 de Costa Rica" group-title="ENTRETENIMIENTO" , Canal 6 CR
-https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="id="Canal 7 de Costa Rica (Teletica)" group-title="ENTRETENIMIENTO", Teletica 7 CR
 https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal 11 de Costa Rica" group-title="ENTRETENIMIENTO" , Canal 11 CR
-https://d2t46xrpai3it5.cloudfront.net/Repretel11/b3e2798525101c45f84a48573676853a.sdp/playlist.m3u8
+https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal 13 de Costa Rica" group-title="ENTRETENIMIENTO" , Canal 13 CR
 https://250weu.bozztv.com/ssh101/ssh101/sinart13/playlist.m3u8
