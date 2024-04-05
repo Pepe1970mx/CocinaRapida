@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/hondura.xml"
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/hondura.xml,https://www.bevy.be/bevyfiles/costaricapremium.xml"
 
 #EXTINF:-1 tvg-id="" group-title="VARIEDADES" , Cazafantasmas
 http://cineplay.vip:8080/movie/ang03/d4gHCwACQs/293332.mp4
