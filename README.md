@@ -351,6 +351,22 @@ https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83
 #EXTINF:-1 tvg-id="Canal6.sv" group-title="ENTRETENIMIENTO", Canal 6 SV
 https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/.m3u8
 
+#EXTINF:-1 tvg-id="Canal10.sv" group-title="ENTRETENIMIENTO", Canal 10 SV
+
+
+#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Canal 11 TUTV SV
+https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
+
+#EXTINF:-1 tvg-id="Canal12.sv" group-title="ENTRETENIMIENTO", Canal 12 SV
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Megavision 19 SV
+https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", TCS+ SV
+https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-video=2000000-audio_0=64000.m3u8
+
+
 #EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO", Canal 3 Super canal GT
 http://138.59.177.34:8000/play/a04m/index.m3u8
 
@@ -367,10 +383,11 @@ http://138.59.177.34:8000/play/a03e/index.m3u8
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal 6 de Costa Rica" group-title="ENTRETENIMIENTO" , Canal 6 CR
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
 
 #EXTINF:-1 tvg-id="id="Canal 7 de Costa Rica (Teletica)" group-title="ENTRETENIMIENTO", Teletica 7 CR
-https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Canal 11 de Costa Rica" group-title="ENTRETENIMIENTO" , Canal 11 CR
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
@@ -378,13 +395,13 @@ https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="Canal 13 de Costa Rica" group-title="ENTRETENIMIENTO" , Canal 13 CR
 https://250weu.bozztv.com/ssh101/ssh101/sinart13/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telesur.CR" group-title="ENTRETENIMIENTO" , Telesur CR
+#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , Telesur CR
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 
-#EXTINF:-1 tvg-id="Canal10.sv" group-title="ENTRETENIMIENTO", Canal 10 NI
+#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Canal 10 NI
 https://dgh4r3ro3i2mi.cloudfront.net/Canal10NI/7d8e90910905c4165b7180d8db1d8b68.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal11.sv" group-title="ENTRETENIMIENTO", Canal 11 NI
+#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Canal 11 NI
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal11.m3u8
 
 #EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="ENTRETENIMIENTO", Telecadena 7 y 4
