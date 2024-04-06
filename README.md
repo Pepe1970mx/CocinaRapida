@@ -129,18 +129,6 @@ https://live-c.cf.dmcdn.net/sec2(y-bSfGvPGagu07Yezr2WE7rkCiY9OHzhG_WZ30Ndpl4q7EX
 #EXTINF:-1 tvg-id="XHGEMTDT.mx(m3u4u)" group-title="VARIEDADES" , TV Mexiquense 
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="VARIEDADES", Telemax (XEWH)
-http://s5.mexside.net:1935/telemax/telemax/chunklist_w1982711424.m3u8
-
-#EXTINF:-1 tvg-id="I508.46481.schedulesdirect.org" group-title="VARIEDADES" , RCG Acuna Canal 36
-http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="VARIEDADES", TVP 
-https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8?DVR
-
-#EXTINF:-1 tvg-id="I440.99621.schedulesdirect.org" group-title="VARIEDADES" , Canal 15 Coahuila
-https://hls.gvstream.live/telesistemas/15tv.stream/chunklist_w2102162107.m3u8
-
 #EXTINF:-1 tvg-id="Mariavision.mx(m3u4u)" group-title="VARIEDADES", Mariavision 
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
@@ -181,7 +169,7 @@ https://i.mjh.nz/SamsungTVPlus/ESAJ4500024LR.m3u8
 #EXTINF:-1 tvg-id="I315.105781.schedulesdirect.org" group-title="NOTICIAS", France 24 Español SD 
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id"XEIPNTDT.mx(m3u4u)" group-title="NOTICIAS" , Mexiquense Noticias 
+#EXTINF:-1 tvg-id="XEIPNTDT.mx(m3u4u)" group-title="NOTICIAS" , Mexiquense Noticias 
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
 
 #EXTINF:-1 tvg-id"" group-title="NOTICIAS" , CNN en Español 
@@ -303,7 +291,7 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949.m3u8
 https://r.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 
 #EXTINF:-1 group-title="Sports", M+ La Liga
-http://515860080856165393.of23103.xyz:80/play/XDH31455298/664585696/165393.ts
+
 
 #EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network 
 https://r.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
@@ -352,6 +340,14 @@ https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 #EXTINF:-1 tvg-id="VTVCanal35.sv" group-title="ENTRETENIMIENTO", TCS+ SV
 https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-video=2000000-audio_0=64000.m3u8
 
+#EXTINF:-1 tvg-id="ATV.pe" group-title="ENTRETENIMIENTO" , ATV PE
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="ATVPlus.pe" group-title="ENTRETENIMIENTO" , ATV Sur PE
+http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UnitelSantaCruz.bo" group-title="ENTRETENIMIENTO" , Unitel BO
+http://181.78.78.105:8000/play/a02g/index.m3u8
 
 #EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO", Canal 3 Super canal GT
 http://138.59.177.34:8000/play/a04m/index.m3u8
@@ -406,14 +402,7 @@ https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 #EXTINF:-1 tvg-id="Canal11.hn" group-title="ENTRETENIMIENTO" , Canal 11 HN
 https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 
-#EXTINF:-1 tvg-id="ATV.pe" group-title="ENTRETENIMIENTO" , ATV PE
-http://bantel.iptvperu.tv:1935/prueba/atvmovil_t6.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ATVPlus.pe" group-title="ENTRETENIMIENTO" , ATV Sur PE
-http://bantel.iptvperu.tv:1935/transcoderip/atvnoticias_t1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="UnitelSantaCruz.bo" group-title="ENTRETENIMIENTO" , Unitel BO
-https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 
 #EXTINF:-1 tvg-id="ecuavisa.ec" group-title="ENTRETENIMIENTO" , Ecuavisa EC
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
