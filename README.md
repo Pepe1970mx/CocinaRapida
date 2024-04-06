@@ -7,6 +7,9 @@ http://cineplay.vip:8080/movie/ang03/d4gHCwACQs/293332.mp4
 #EXTINF:-1 tvg-id="" group-title="VARIEDADES" , La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" group-title="VARIEDADES" , Pluto TV Series Latinas
+https://r.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
+
 #EXTINF:-1 tvg-id="USBD2700004ME" group-title="VARIEDADES" , Como Dice el Dicho 
 https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
 
@@ -19,26 +22,19 @@ https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
 #EXTINF:-1 tvg-id="I233.55980.schedulesdirect.org" group-title="VARIEDADES" , Distrito Comedia
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" group-title="VARIEDADES" , Pluto TV Series Latinas
-https://r.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6469502df73356567a64ce8e" group-title="VARIEDADES" , Az Clic
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6469502df73356567a64ce8e.m3u8
+
+#EXTINF:-1 tvg-id="ESBD1300003VN" group-title="VARIEDADES" , Az Corazón
+https://i.mjh.nz/SamsungTVPlus/ESBD1300003VN.m3u8
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7" group-title="VARIEDADES" , Az Cinema
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64695233f73356567a64ce90.m3u8
 
 #EXTINF:-1 tvg-id="ESBD1300004IG" group-title="VARIEDADES" , Azteca Internacional
 https://i.mjh.nz/SamsungTVPlus/ESBD1300004IG.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6469502df73356567a64ce8e" group-title="VARIEDADES" , Clic
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6469502df73356567a64ce8e.m3u8
-
-#EXTINF:-1 tvg-id="ESBD1300003VN" group-title="VARIEDADES" , Corazón
-https://i.mjh.nz/SamsungTVPlus/ESBD1300003VN.m3u8
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7" group-title="VARIEDADES" , Cinema
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64695233f73356567a64ce90.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="VARIEDADES" , Azteca Guate
-https://ch1-tva.duin.dev/hls/stream.m3u8
-
 EXTINF:-1 tvg-id="I85.46607.schedulesdirect.org" group-title="VARIEDADES" , Azteca Uno 
-
 
 #EXTINF:-1 tvg-id="AztecaUno.mx(m3u4u)" group-title="VARIEDADES" , Azteca Uno 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
@@ -46,10 +42,10 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx(m3u4u)" group-title="VARIEDADES" , Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
 
-#EXTINF:-1 tvg-id="I403.16257.schedulesdirect.org" group-title="VARIEDADES", Las estrellas Internacional
+EXTINF:-1 tvg-id="I403.16257.schedulesdirect.org" group-title="VARIEDADES", Las estrellas Internacional
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
-EXTINF:-1 tvg-id="Las Estrellas.co" group-title="VARIEDADES", Las estrellas Latinoamerica
+#EXTINF:-1 tvg-id="Las Estrellas.cr" group-title="VARIEDADES", Las estrellas Latinoamerica
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="64e35aff6b1fdb0008ea8441" group-title="VARIEDADES" , Imagen TV HD 
@@ -70,10 +66,6 @@ https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
 #EXTINF:-1 tvg-id="I107.102406.schedulesdirect.org" group-title="VARIEDADES" , Azteca 7 
-
-
-#EXTINF:-1 group-title="VARIEDADES" , Azteca Monterrey 
-https://live.info7.mx/info7/stream.m3u8
 
 #EXTINF:-1 tvg-id="A+" group-title="VARIEDADES" , A+ 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
@@ -126,7 +118,7 @@ https://ythls.armelin.one/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 #EXTINF:-1 group-title="VARIEDADES", NNVeracruz
 https://s.emisoras.tv:8081/nnveracruz/index.m3u8
 
-#EXTINF:-1 tvg-id"MeganoticiasMX.mx(m3u4u)" group-title="VARIEDADES", Meganoticias
+#EXTINF:-1 tvg-id="MeganoticiasMX.mx(m3u4u)" group-title="VARIEDADES", Meganoticias
 https://a37d474b6bb9441fa17e3e1ab3d55fce.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_MegaNoticias/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" " group-title="VARIEDADES", Quiero TV
@@ -154,17 +146,56 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
 
 
+#EXTINF:-1 group-title="NOTICIAS", Nmedia+ 
+https://linear-301.frequency.stream/dist/vix/301/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ForoTV.mx(m3u4u)" group-title="NOTICIAS", Foro TV 
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
+
+EXTINF:-1 tvg-id="I292.6635.schedulesdirect.org" group-title="NOTICIAS", Foro TV
+
+#EXTINF:-1 tvg-id="646ccd3681844c000974d6f4" group-title="NOTICIAS", ADN 40 
+https://r.mjh.nz/PlutoTV/646ccd3681844c000974d6f4-alt.m3u8
+
+#EXTINF:-1 tvg-id="652e922db4b047000825f975" group-title="NOTICIAS" , Milenio Television
+https://r.mjh.nz/PlutoTV/652e922db4b047000825f975-alt.m3u8
+
+#EXTINF:-1 " tvg-id="3d2c140c111bc0008cb890b" group-title="NOTICIAS" , TeleFormula
+https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
+
+#EXTINF:-1 tvg-id="I28.82353.schedulesdirect.org" group-title="NOTICIAS",  Exelsior TV
+https://ythls.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
+
+#EXTINF:-1 tvg-id="I150.87311.schedulesdirect.org" group-title="NOTICIAS", El Financiero - Bloomberg TV
+https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
+
+#EXTINF:-1 tvg-id="I281.64230.schedulesdirect.org" group-title="NOTICIAS", DW Español 
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-id="I551.69367.schedulesdirect.org" group-title="NOTICIAS", RT in Spanish 
+https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="ESAJ4500024LR" group-title="NOTICIAS", EuroNews en español 
+https://i.mjh.nz/SamsungTVPlus/ESAJ4500024LR.m3u8
+
+#EXTINF:-1 tvg-id="I315.105781.schedulesdirect.org" group-title="NOTICIAS", France 24 Español SD 
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id"XEIPNTDT.mx(m3u4u)" group-title="NOTICIAS" , Mexiquense Noticias 
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
+
+#EXTINF:-1 tvg-id"" group-title="NOTICIAS" , CNN en Español 
+https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64878a0108027d895721403b" group-title="US Español", Nuestra Vision 
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo(Spanish).us(m3u4u)" group-title="US Español", Telemundo
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us(m3u4u)" group-title="US Español", Telemundo Internacional
+#EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us(m3u4u)" group-title="US Español", Telemundo
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65880
-
-#EXTINF:-1 tvg-id="I633.102862.schedulesdirect.org" group-title="US Español", Telemundo Internacional
-https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSO(Spanish).us(m3u4u)" group-title="US Español", Universo
 http://stream.flynetwifi.com:1935/live/mobile-065/playlist.m3u8
@@ -182,7 +213,6 @@ http://supersonictv.live:8080/Eddie8523/Whitehead83/10584
 
 #EXTINF:-1 tvg-id="UniMas(East)(Spanish).us(m3u4u)" group-title="US Español", Unimas
 
-
 #EXTINF:-1 tvg-id="I684.29058.schedulesdirect.org" group-title="US Español", 
 
 #EXTINF:-1 tvg-id="WLIIDT.pr(m3u4u)" group-title="US Español", Teleonce Univision PR
@@ -194,50 +224,6 @@ https://i.mjh.nz/SamsungTVPlus/USBA300040WR.m3u8
 #EXTINF:-1  tvg-id="WAPADT.pr(m3u4u)"  group-title="US Español" , Wapa
 https://live.field59.com/wapa/wapa1/playlist.m3u8
 
-
-
-
-#EXTINF:-1 group-title="NOTICIAS", Nmedia+ 
-https://linear-301.frequency.stream/dist/vix/301/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="I292.6635.schedulesdirect.org" group-title="NOTICIAS", Foro TV 
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
-
-#EXTINF:-1 tvg-id="646ccd3681844c000974d6f4" group-title="NOTICIAS", ADN 40 
-https://r.mjh.nz/PlutoTV/646ccd3681844c000974d6f4-alt.m3u8
-
-#EXTINF:-1 tvg-id="652e922db4b047000825f975" group-title="NOTICIAS" , Milenio Television
-https://r.mjh.nz/PlutoTV/652e922db4b047000825f975-alt.m3u8
-
-#EXTINF:-1 " tvg-id="3d2c140c111bc0008cb890b" group-title="NOTICIAS" , TeleFormula
-https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
-
-#EXTINF:-1 tvg-id="I28.82353.schedulesdirect.org" group-title="NOTICIAS",  Exelsior TV
-https://ythls.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
-
-#EXTINF:-1 tvg-id="USBB3200016HO" group-title="NOTICIAS", TELEMUNDO AL DÍA 
-https://i.mjh.nz/SamsungTVPlus/USBB3200016HO.m3u8
-
-#EXTINF:-1 tvg-id="I150.87311.schedulesdirect.org" group-title="NOTICIAS", El Financiero - Bloomberg TV
-https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
-
-#EXTINF:-1 tvg-id="I281.64230.schedulesdirect.org" group-title="NOTICIAS", DW Español 
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
-#EXTINF:-1 tvg-id="I551.69367.schedulesdirect.org" group-title="NOTICIAS", RT in Spanish 
-https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-id="ESAJ4500024LR" group-title="NOTICIAS", EuroNews en español 
-https://i.mjh.nz/SamsungTVPlus/ESAJ4500024LR.m3u8
-
-#EXTINF:-1 tvg-id="I315.105781.schedulesdirect.org" group-title="NOTICIAS", France 24 Español SD 
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id"AMX NOTICIAS" group-title="NOTICIAS" , Mexiquense Noticias 
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
-
-#EXTINF:-1 tvg-id"" group-title="NOTICIAS" , CNN en Español 
-https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
 
 
 https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
