@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/hondura.xml,https://www.bevy.be/bevyfiles/costaricapremium.xml,https://www.bevy.be/bevyfiles/elsalvador.xml,https://www.bevy.be/bevyfiles/guatemala.xml,https://www.bevy.be/bevyfiles/peru.xml,https://i.mjh.nz/SamsungTVPlus/all.xml"
+#EXTM3U x-tvg-url="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58.xml,https://i.mjh.nz/PlutoTV/all.xml.gz,https://www.bevy.be/bevyfiles/honduras.xml,https://www.bevy.be/bevyfiles/costaricapremium.xml,https://www.bevy.be/bevyfiles/elsalvador.xml,https://www.bevy.be/bevyfiles/guatemala.xml,https://www.bevy.be/bevyfiles/peru.xml,https://i.mjh.nz/SamsungTVPlus/all.xml"
 
 #EXTINF:-1 tvg-id="" group-title="VARIEDADES" , Cazafantasmas
 http://cineplay.vip:8080/movie/ang03/d4gHCwACQs/293332.mp4
