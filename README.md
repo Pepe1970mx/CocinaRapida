@@ -349,7 +349,7 @@ https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv" group-title="ENTRETENIMIENTO", Megavision 19 SV
 https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", TCS+ SV
+#EXTINF:-1 tvg-id="VTVCanal35.sv" group-title="ENTRETENIMIENTO", TCS+ SV
 https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-video=2000000-audio_0=64000.m3u8
 
 
@@ -439,7 +439,7 @@ https://scl.edge.grupoz.cl/movie/live/movie.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VTVCanal35.sv" group-title="ENTRETENIMIENTO", WTV NI
+#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", WTV NI
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
 #EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", CocoTV
