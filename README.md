@@ -360,7 +360,7 @@ https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
 #EXTINF:-1 tvg-id="Canal12.sv" group-title="ENTRETENIMIENTO", Canal 12 SV
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Megavision 19 SV
+#EXTINF:-1 tvg-id="MegavisionCanal19.sv" group-title="ENTRETENIMIENTO", Megavision 19 SV
 https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", TCS+ SV
@@ -397,6 +397,9 @@ https://250weu.bozztv.com/ssh101/ssh101/sinart13/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , Telesur CR
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+
+#EXTINF:-1 tvg-id="Telefuturo.py" group-title="ENTRETENIMIENTO" , Telefuturo PA
+http://177.234.230.226:8010/play/a033/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Canal 10 NI
 https://dgh4r3ro3i2mi.cloudfront.net/Canal10NI/7d8e90910905c4165b7180d8db1d8b68.sdp/playlist.m3u8
