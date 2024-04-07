@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58.xml,https://i.mjh.nz/PlutoTV/all.xml.gz,https://www.bevy.be/bevyfiles/honduras.xml,https://www.bevy.be/bevyfiles/costaricapremium.xml,https://www.bevy.be/bevyfiles/elsalvador.xml,https://www.bevy.be/bevyfiles/guatemala.xml,https://www.bevy.be/bevyfiles/peru.xml,https://i.mjh.nz/SamsungTVPlus/all.xml"
+#EXTM3U x-tvg-url="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58.xml,https://i.mjh.nz/PlutoTV/all.xml.gz,https://www.bevy.be/bevyfiles/honduras.xml,https://www.bevy.be/bevyfiles/costaricapremium.xml,https://www.bevy.be/bevyfiles/elsalvador.xml,https://www.bevy.be/bevyfiles/guatemala.xml,https://www.bevy.be/bevyfiles/peru.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://helmerluzo.github.io/CanelaTV_HL/epg/CanelaTV.xml.gz"
 
 #EXTINF:-1 tvg-id="" group-title="VARIEDADES" , Cazafantasmas
 http://cineplay.vip:8080/movie/ang03/d4gHCwACQs/293332.mp4
@@ -284,8 +284,8 @@ https://r.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0"  group-title="Sports", AyM sports
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" group-title="Sports", Canela Deportes
-
+#EXTINF:-1 tvg-id="" group-title="Sports", Canela Deportes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5759
 
 #EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" group-title="Sports", beIN Sport Xtra en Español
 https://r.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
@@ -573,7 +573,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntosco-lgco/playl
 #EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" group-title="Movies",Cine Premiere 
 https://r.mjh.nz/PlutoTV/5cf968040ab7d8f181e6a68b-alt.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Movies", Canela Cinema
+#EXTINF:-1 tvg-id="canela-cinema-0" group-title="Movies", Canela Cinema
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgmx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESAJ45000181E" group-title="Movies" , Accion Rakuten 
