@@ -290,11 +290,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5759
 #EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" group-title="Sports", beIN Sport Xtra en Español
 https://r.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 
-#EXTINF:-1 group-title="Sports", M+ La Liga
-
+#EXTINF:-1 group-title="Sports", Sky Sports La Liga
+http://181.78.105.146:2000/play/a08m/index.m3u8
 
 #EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network 
-https://r.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
+https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8?imafw_description_url=https%3A%2F%2Fwww.pluto.tv&imafw_csid=streaming_plutotv_unknown_desktop_web_live_63a0e33a45264d000850ed7e&imafw__fw_h_referer=www.pluto.tv&imafw__fw_did=other%3A89e47442-f50b-11ee-956d-77260f3ef268&imafw__fw_is_lat=0&imafw__fw_vcid2=89e47442-f50b-11ee-956d-77260f3ef268&imafw__fw_app_bundle=tv.pluto.web&imafw__fw_nielsen_app_id=P0C0C37AD-20C4-4EF7-AF25-BEBCB16DF85E
 
 #EXTINF:-1 tvg-id"WAPADT2(English).pr(m3u4u)" group-title="Sports", Wapa Deportes
 https://live.field59.com/wapa/wapa2/.m3u8
