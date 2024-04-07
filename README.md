@@ -251,18 +251,18 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57185
 #EXTINF:-1 tvg-id="I854.25595.schedulesdirect.org" group-title="Sports", 
 
 #EXTINF:-1 tvg-id="ESPN.mx(m3u4u)" group-title="Sports", Espn Latinoamerica
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/185154
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/27
 
 #EXTINF:-1 tvg-id="I509.19158.schedulesdirect.org" group-title="Sports", 
 
 
 #EXTINF:-1 tvg-id="ESPN2.mx(m3u4u)" group-title="Sports", Espn 2 Latinoamerica
-http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/25
 
 #EXTINF:-1 tvg-id="I508.37747.schedulesdirect.org" group-title="Sports", 
 
 #EXTINF:-1 tvg-id="ESPNTres(North).mx(m3u4u)" group-title="Sports", Espn 3 Latinoamerica
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63194
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/26
 
 #EXTINF:-1 tvg-id="I510.79042.schedulesdirect.org" group-title="Sports", 
 
@@ -270,7 +270,7 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/63194
 https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TUDN(Spanish).us(m3u4u)" group-title="Sports", Tudn USA
-http://livex.pop-app.live/s4n/poplive/ch302/playlist.m3u8
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/337
 
 #EXTINF:-1 tvg-id="I693.75951.schedulesdirect.org" group-title="Sports", Afizzionados
 https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
@@ -285,7 +285,7 @@ https://r.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949" group-title="Sports", Canela Deportes
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64fba7b6bb3e0baa5dcc0949.m3u8
+
 
 #EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" group-title="Sports", beIN Sport Xtra en Español
 https://r.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
@@ -329,7 +329,7 @@ https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c
 
 
 #EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Canal 11 TUTV SV
-https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
+
 
 #EXTINF:-1 tvg-id="Canal12.sv" group-title="ENTRETENIMIENTO", Canal 12 SV
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
@@ -348,6 +348,12 @@ http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UnitelSantaCruz.bo" group-title="ENTRETENIMIENTO" , Unitel BO
 http://181.78.78.105:8000/play/a02g/index.m3u8
+
+#EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="ENTRETENIMIENTO", Telecadena 7 y 4
+http://200.52.148.194:8000/play/a04q/index.m3u8
+
+#EXTINF:-1 tvg-id="Televicentro.hn" group-title="ENTRETENIMIENTO", Canal 5 El lider HN
+https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 
 #EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO", Canal 3 Super canal GT
 http://138.59.177.34:8000/play/a04m/index.m3u8
@@ -389,15 +395,8 @@ https://dgh4r3ro3i2mi.cloudfront.net/Canal10NI/7d8e90910905c4165b7180d8db1d8b68.
 #EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Canal 11 NI
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal11.m3u8
 
-#EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="ENTRETENIMIENTO", Telecadena 7 y 4
-http://200.52.148.194:8000/play/a04q/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Mega Clasicos
-http://170.82.37.21:8000/play/a005/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Televicentro.hn" group-title="ENTRETENIMIENTO", Canal 5 El lider HN
-https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 
 #EXTINF:-1 tvg-id="Canal11.hn" group-title="ENTRETENIMIENTO" , Canal 11 HN
 https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
