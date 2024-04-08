@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58.xml,https://i.mjh.nz/PlutoTV/all.xml.gz,https://www.bevy.be/bevyfiles/honduras.xml,https://www.bevy.be/bevyfiles/costaricapremium.xml,https://www.bevy.be/bevyfiles/elsalvador.xml,https://www.bevy.be/bevyfiles/guatemala.xml,https://www.bevy.be/bevyfiles/peru.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://helmerluzo.github.io/CanelaTV_HL/epg/CanelaTV.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/1f9e996f46f00176c6927ea03fd52277ef2c4b79/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/c7116f21526be645427f6501f16715856ac91f09/Plex/mx.xml"
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xmlhttps://raw.githubusercontent.com/matthuisman/i.mjh.nz/1f9e996f46f00176c6927ea03fd52277ef2c4b79/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/c7116f21526be645427f6501f16715856ac91f09/Plex/mx.xml"
 
 #EXTINF:-1 tvg-id="" group-title="VARIEDADES" , Cazafantasmas
 http://cineplay.vip:8080/movie/ang03/d4gHCwACQs/293332.mp4
