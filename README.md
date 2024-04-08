@@ -115,9 +115,6 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Telever
 https://ythls.armelin.one/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", NNVeracruz
-https://s.emisoras.tv:8081/nnveracruz/index.m3u8
-
 #EXTINF:-1 tvg-id="MeganoticiasMX.mx(m3u4u)" group-title="VARIEDADES", Meganoticias
 https://a37d474b6bb9441fa17e3e1ab3d55fce.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_MegaNoticias/playlist.m3u8
 
@@ -217,6 +214,8 @@ https://live.field59.com/wapa/wapa1/playlist.m3u8
 https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" group-title="Sports", beIN Sport Xtra en Español
+https://r.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 
 #EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" group-title="Sports", Azteca Deportes Network 
 https://r.mjh.nz/PlutoTV/65cf60d166eec80008724e6f-alt.m3u8
@@ -224,8 +223,6 @@ https://r.mjh.nz/PlutoTV/65cf60d166eec80008724e6f-alt.m3u8
 #EXTINF:-1 tvg-id="6320d2755e54db000783fd87" group-title="Sports", Claro Sports México 
 https://r.mjh.nz/PlutoTV/6320d2755e54db000783fd87-alt.m3u8
 
-#EXTINF:-1 tvg-id="I143.119143.schedulesdirect.org" group-title="Sports", Claro Sports 2
-http://45.5.117.182:8000/play/a0e5/index.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes(Spanish).us(m3u4u)" group-title="Sports", Fox Deportes 
 http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8
 
@@ -242,7 +239,6 @@ http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I506.66365.schedulesdirect.org" group-title="Sports", 
 
-
 #EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx(m3u4u)" group-title="Sports", Fox sport 3 Latinoamerica
 http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
 
@@ -252,18 +248,17 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57185
 #EXTINF:-1 tvg-id="I854.25595.schedulesdirect.org" group-title="Sports", 
 
 #EXTINF:-1 tvg-id="ESPN.mx(m3u4u)" group-title="Sports", Espn Latinoamerica
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/27
+http://cineplay.vip:8080/ang03/d4gHCwACQs/38864
 
 #EXTINF:-1 tvg-id="I509.19158.schedulesdirect.org" group-title="Sports", 
 
-
 #EXTINF:-1 tvg-id="ESPN2.mx(m3u4u)" group-title="Sports", Espn 2 Latinoamerica
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/25
+http://cineplay.vip:8080/ang03/d4gHCwACQs/38865
 
 #EXTINF:-1 tvg-id="I508.37747.schedulesdirect.org" group-title="Sports", 
 
 #EXTINF:-1 tvg-id="ESPNTres(North).mx(m3u4u)" group-title="Sports", Espn 3 Latinoamerica
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/26
+http://cineplay.vip:8080/ang03/d4gHCwACQs/38866
 
 #EXTINF:-1 tvg-id="I510.79042.schedulesdirect.org" group-title="Sports", 
 
@@ -271,7 +266,7 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/26
 https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TUDN(Spanish).us(m3u4u)" group-title="Sports", Tudn USA
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/337
+http://cineplay.vip:8080/ang03/d4gHCwACQs/25598
 
 #EXTINF:-1 tvg-id="I693.75951.schedulesdirect.org" group-title="Sports", Afizzionados
 https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
@@ -288,9 +283,6 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sports", Canela Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5759
 
-#EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" group-title="Sports", beIN Sport Xtra en Español
-https://r.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
-
 #EXTINF:-1 group-title="Sports", Sky Sports La Liga
 http://181.78.105.146:2000/play/a08m/index.m3u8
 
@@ -300,17 +292,12 @@ https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8?imafw
 #EXTINF:-1 tvg-id"WAPADT2(English).pr(m3u4u)" group-title="Sports", Wapa Deportes
 https://live.field59.com/wapa/wapa2/.m3u8
 
-#EXTINF:-1 tvg-id="ESBC410000577" group-title="Sports", Teledeportes
-https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
-
 #EXTINF:-1 tvg-id="ESBD3600001Q1" group-title="Sports", La liga
 https://i.mjh.nz/SamsungTVPlus/ESBD3600001Q1.m3u8
 
 #EXTINF:-1 tvg-id="64b79c057d934100080b3583" group-title="Sports", Dazn Internacional Futbol
 https://r.mjh.nz/PlutoTV/64b79c057d934100080b3583-alt.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports", Latin America Sport
-http://138.59.177.34:8000/play/a049/index.m3u8
 
 
 
