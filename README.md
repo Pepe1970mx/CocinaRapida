@@ -229,7 +229,8 @@ http://45.5.117.182:8000/play/a0e5/index.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes(Spanish).us(m3u4u)" group-title="Sports", Fox Deportes 
 http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" tvg-id="foxdeportes.ugroup-title="Sports", 
+#EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" group-title="Sports",
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx(m3u4u)" group-title="Sports", Fox Sport Latinoamerica
 http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
