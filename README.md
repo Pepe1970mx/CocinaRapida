@@ -535,7 +535,7 @@ https://r.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
 https://i.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
 
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" group-title="Movies", Free TV Live
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6018913ea15130002b28418f" group-title="Movies", Free TV Live
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6018913ea15130002b28418f.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Movies", Free TV
@@ -548,18 +548,18 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-id="ESBA3300039ZX" group-title="Movies", Free TV Estelar
 https://i.mjh.nz/SamsungTVPlus/ESBA3300039ZX.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7" group-title="Movies", Free TV Sureño
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6018913fa15130002b284197" group-title="Movies", Free TV Sureño
 https://amg01024-olympusat-cinesurenope-lgpe-brjfx.amagi.tv/playlist/amg01024-olympusat-cinesurenope-lgpe/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913fa15130002b284197" group-title="Movies", Free TV Sureño
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6018913fa15130002b284197.m3u8
 
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7" group-title="Movies", Free TV Horror
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b" group-title="Movies", Free TV Horror
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfyco-lgco/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60240f57676235002df19f49" group-title="Movies", Free TV Familia
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-60240f57676235002df19f49" group-title="Movies", Free TV Familia
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntosco-lgco/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" group-title="Movies",Cine Premiere 
