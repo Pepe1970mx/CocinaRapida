@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58.xml,https://i.mjh.nz/PlutoTV/all.xml.gz,https://www.bevy.be/bevyfiles/honduras.xml,https://www.bevy.be/bevyfiles/costaricapremium.xml,https://www.bevy.be/bevyfiles/elsalvador.xml,https://www.bevy.be/bevyfiles/guatemala.xml,https://www.bevy.be/bevyfiles/peru.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://helmerluzo.github.io/CanelaTV_HL/epg/CanelaTV.xml.gz"
+#EXTM3U x-tvg-url="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58.xml,https://i.mjh.nz/PlutoTV/all.xml.gz,https://www.bevy.be/bevyfiles/honduras.xml,https://www.bevy.be/bevyfiles/costaricapremium.xml,https://www.bevy.be/bevyfiles/elsalvador.xml,https://www.bevy.be/bevyfiles/guatemala.xml,https://www.bevy.be/bevyfiles/peru.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://helmerluzo.github.io/CanelaTV_HL/epg/CanelaTV.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/1f9e996f46f00176c6927ea03fd52277ef2c4b79/Plex/all.xml"
 
 #EXTINF:-1 tvg-id="" group-title="VARIEDADES" , Cazafantasmas
 http://cineplay.vip:8080/movie/ang03/d4gHCwACQs/293332.mp4
@@ -548,8 +548,12 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-id="ESBA3300039ZX" group-title="Movies", Free TV Estelar
 https://i.mjh.nz/SamsungTVPlus/ESBA3300039ZX.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913fa15130002b284197" group-title="Movies", Free TV Sureño
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7" group-title="Movies", Free TV Sureño
 https://amg01024-olympusat-cinesurenope-lgpe-brjfx.amagi.tv/playlist/amg01024-olympusat-cinesurenope-lgpe/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913fa15130002b284197" group-title="Movies", Free TV Sureño
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6018913fa15130002b284197.m3u8
+
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7" group-title="Movies", Free TV Horror
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfyco-lgco/playlist.m3u8
