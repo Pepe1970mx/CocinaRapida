@@ -548,8 +548,11 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-id="ESBA3300039ZX" group-title="Movies", Free TV Estelar
 https://i.mjh.nz/SamsungTVPlus/ESBA3300039ZX.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913fa15130002b284197" group-title="Movies", Free TV Sureño
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7" group-title="Movies", Free TV Sureño
 https://amg01024-olympusat-cinesurenope-lgpe-brjfx.amagi.tv/playlist/amg01024-olympusat-cinesurenope-lgpe/playlist.m3u8
+
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6018913fa15130002b284197.m3u8
+
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-617afafd7ab406f93af02607" group-title="Movies", Free TV Horror
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfyco-lgco/playlist.m3u8
