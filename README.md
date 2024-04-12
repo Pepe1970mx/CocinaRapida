@@ -226,13 +226,14 @@ https://r.mjh.nz/PlutoTV/6320d2755e54db000783fd87-alt.m3u8
 #EXTINF:-1 tvg-id="FoxDeportes(Spanish).us(m3u4u)" group-title="Sports", Fox Deportes 
 http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" group-title="Sports",
+#EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" group-title="Sports", Fox sports en español
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx(m3u4u)" group-title="Sports", Fox Sport Latinoamerica
 http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I505.41677.schedulesdirect.org" group-title="Sports", 
+#EXTINF:-1 tvg-id="I505.41677.schedulesdirect.org" group-title="Sports", Fox Premium
+https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/600
 
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx(m3u4u)" group-title="Sports", Fox sport 2 Latinoamerica
 http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
