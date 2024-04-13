@@ -346,16 +346,16 @@ http://200.52.148.194:8000/play/a04q/index.m3u8
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 
 #EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO", Canal 3 Super canal GT
-http://138.59.177.34:8000/play/a04m/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Televicentro.hn" group-title="ENTRETENIMIENTO", TeleSiete GT
-http://138.59.177.34:8000/play/a04l/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Teleonce GT
-http://138.59.177.34:8000/play/a03f/index.m3u8
+
 
 #EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO",  Trecevision GT
-http://138.59.177.34:8000/play/a03e/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Canal 4 de Costa Rica" group-title="ENTRETENIMIENTO" , Canal 4 CR
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
@@ -433,13 +433,13 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="I528.88534.schedulesdirect.org" group-title="De Paga", Star Channels Latinoamerica
 http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
 
-#EXTINF:-1 tvg-id="STAR CHANNEL" group-title="De Paga", Star Channels Latinoamerica
+#EXTINF:-1 tvg-id="StarChannel.mx(m3u4u)" group-title="De Paga", Star Channels Latinoamerica
 http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I644.80807.schedulesdirect.org" group-title="De Paga", TNT Latinoamerica
 
 
-#EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT Latinoamerica
+#EXTINF:-1 tvg-id="TNT.mx(m3u4u)" group-title="De Paga", TNT Latinoamerica
 http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga", AMC
@@ -456,7 +456,7 @@ http://287868455641656458.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/656458.ts
 #EXTINF:-1 tvg-id="I831.98111.schedulesdirect.org" group-title="De Paga", Warner 
 
 
-#EXTINF:-1 tvg-id="WARNER" group-title="De Paga", Warner 
+#EXTINF:-1 tvg-id="WarnerChannel.mx(m3u4u)" group-title="De Paga", Warner 
 http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
 
 
@@ -470,7 +470,7 @@ http://287868455641694437.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/694437.ts
 #EXTINF:-1 tvg-id="I527.60801.schedulesdirect.org" group-title="De Paga", Space
 
 
-#EXTINF:-1 tvg-id="SPACE" group-title="De Paga", Space
+#EXTINF:-1 tvg-id="Space.mx(m3u4u)" group-title="De Paga", Space
 http://287868455641657212.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/657212.ts
 
 #EXTINF:-1 tvg-id="I0.122761.schedulesdirect.org" group-title="De Paga" , Universal 
