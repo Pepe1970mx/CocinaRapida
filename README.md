@@ -506,6 +506,9 @@ https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index
 #EXTINF:-1 tvg-id="ESBC4100003WE" group-title="Kids" , Clan
 https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
 
+#EXTINF:-1 tvg-id="canela-kids" group-title="Kids" , Canela Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+
 #EXTINF:-1 tvg-id="I114.16141.schedulesdirect.org" group-title="Kids", Cartoon Network 
 http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
 
@@ -546,20 +549,20 @@ https://freetv.stream.olympusatmedia.com/index.m3u8?url=https%3A%2F%2Fwww.freetv
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291" group-title="Movies", Free TV Accion
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
-
 #EXTINF:-1 tvg-id="ESBA3300039ZX" group-title="Movies", Free TV Estelar
 https://i.mjh.nz/SamsungTVPlus/ESBA3300039ZX.m3u8
 
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6018913fa15130002b284197" group-title="Movies", Free TV Sureño
 https://amg01024-olympusat-cinesurenope-lgpe-brjfx.amagi.tv/playlist/amg01024-olympusat-cinesurenope-lgpe/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6018913fa15130002b284197" group-title="Movies", Free TV Sureño
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6018913fa15130002b284197.m3u8
-
+#EXTINF:-1 tvg-id="accion-mexicana" group-title="Movies", Acción Mexicana
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b" group-title="Movies", Free TV Horror
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfyco-lgco/playlist.m3u8
 
+#EXTINF:-1 tvg-id="canela-horror" group-title="Movies", Canela Horror
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
 
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-60240f57676235002df19f49" group-title="Movies", Free TV Familia
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntosco-lgco/playlist.m3u8
@@ -594,15 +597,11 @@ https://r.mjh.nz/PlutoTV/5f2817d3d7573a00080f9175-alt.m3u8
 #EXTINF:-1 tvg-id="624af40c004f8000079b784d" group-title="Movies", Pluto TV Cine Crimen
 https://r.mjh.nz/PlutoTV/624af40c004f8000079b784d-alt.m3u8
 
-#EXTINF:-1 tvg-id="5dcddf1ed95e740009fef7ab" group title="Movies" , Pluto TV Cine Terror
+#EXTINF:-1 tvg-id="5dcddf1ed95e740009fef7ab" group title="Movies" , Pluto TV Terror
 https://r.mjh.nz/PlutoTV/5dcddf1ed95e740009fef7ab-alt.m3u8
 
 #EXTINF:-1 tvg-id="ESBC2700002LO" group-title="Movies" , Grjngo-Peliculas del Oeste
 https://i.mjh.nz/SamsungTVPlus/ESBC2700002LO.m3u8
-
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291" group-title="Movies" , Top Cine
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291.m3u8
-
 
 
 #EXTINF:-1 tvg-id="5dcde1317578340009b751d0" group-title="Series", Pluto TV Series
