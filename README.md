@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58.xml,https://i.mjh.nz/PlutoTV/all.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml,https://www.bevy.be/bevyfiles/peru.xml,https://www.bevy.be/bevyfiles/elsalvador.xml,https://www.bevy.be/bevyfiles/hondura.xml,https://i.mjh.nz/Plex/all.xml"
+#EXTM3U x-tvg-url="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58.xml,https://i.mjh.nz/PlutoTV/all.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml,https://www.bevy.be/bevyfiles/peru.xml,https://www.bevy.be/bevyfiles/elsalvador.xml,https://www.bevy.be/bevyfiles/hondura.xml,https://i.mjh.nz/Plex/all.xml,"
 
 #EXTINF:-1 tvg-id="" group-title="VARIEDADES" , Cazafantasmas
 http://cineplay.vip:8080/movie/ang03/d4gHCwACQs/293332.mp4
@@ -377,7 +377,7 @@ https://250weu.bozztv.com/ssh101/ssh101/sinart13/playlist.m3u8
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 
 #EXTINF:-1 tvg-id="Telefuturo.py" group-title="ENTRETENIMIENTO" , Telefuturo PA
-http://177.234.230.226:8010/play/a033/index.m3u8
+https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_alta/playlist.m3u8?k=cc45d0f50be27f473caa42642ae3529ba5b34c85cd48ee4cf0181269fcdf20a3&exp=1713136504
 
 #EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Canal 10 NI
 https://dgh4r3ro3i2mi.cloudfront.net/Canal10NI/7d8e90910905c4165b7180d8db1d8b68.sdp/playlist.m3u8
@@ -399,9 +399,21 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 #EXTINF:-1 tvg-id="Teleamazonas.ec" group-title="ENTRETENIMIENTO" , Teleamazonas EC
 https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8
 
-#EXTINF:-1 tvg-id="telemicro.rd" group-title="ENTRETENIMIENTO", Telemicro RD
+#EXTINF:-1 tvg-id="Canal 15 (Digital Quince Telemicro) (República Dominicana).do" group-title="ENTRETENIMIENTO", Canal 15 Telemicro RD
+http://51.81.93.29:8084/hls/d15.m3u8
+
+#EXTINF:-1 tvg-id="Canal 5 de República Dominicana (Telemicro).do" group-title="ENTRETENIMIENTO", Canal 5 Telemicro RD
 http://51.81.93.239:8084/hls/tmicro.m3u8
 
+#EXTINF:-1 tvg-id="Canal Telesistema 11 (República Dominicana).do" group-title="ENTRETENIMIENTO", Telesistema
+http://38.41.8.1:8000/play/a0am
+
+
+
+#EXTINF:-1 tvg-id="Canal 9 de Color Visión (República Dominicana).do" group-title="ENTRETENIMIENTO", Colorvision
+https://live-c.cf.dmcdn.net/sec2(EjtpzKjB3-TWK7qq7Q8993wczHHPUaim0GsfspG6WH8QpqBW6vV5sjDxay6FHtscfx3XmMZjjbmhYw_BjHDvsboI-jnfgVBL99GwN6Quado)/dm/3/x7gy059/d/live-2.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", 
 
 #EXTINF:-1 tvg-id="ElTrece.ar" group-title="ENTRETENIMIENTO", El trece AR
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
