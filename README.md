@@ -250,12 +250,12 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57185
 #EXTINF:-1 tvg-id="I854.25595.schedulesdirect.org" group-title="Sports", 
 
 #EXTINF:-1 tvg-id="ESPN.mx(m3u4u)" group-title="Sports", Espn Latinoamerica
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/27
+http://stream.flynetwifi.com:1935/live/mobile-032/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I509.19158.schedulesdirect.org" group-title="Sports", 
 
 #EXTINF:-1 tvg-id="ESPN2.mx(m3u4u)" group-title="Sports", Espn 2 Latinoamerica
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/25
+http://stream.flynetwifi.com:1935/live/mobile-033/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I508.37747.schedulesdirect.org" group-title="Sports", 
 
