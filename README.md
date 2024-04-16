@@ -442,70 +442,78 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="I528.88534.schedulesdirect.org" group-title="De Paga", Star Channels Latinoamerica
-http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
+EXTINF:-1 tvg-id="I528.88534.schedulesdirect.org" group-title="De Paga", Star Channels Latinoamerica
 
 #EXTINF:-1 tvg-id="StarChannel.mx(m3u4u)" group-title="De Paga", Star Channels Latinoamerica
 http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I644.80807.schedulesdirect.org" group-title="De Paga", TNT Latinoamerica
 
-
 #EXTINF:-1 tvg-id="TNT.mx(m3u4u)" group-title="De Paga", TNT Latinoamerica
 http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
-
-#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga", AMC
-
-
-#EXTINF:-1 tvg-id="AMC.mx" group-title="De Paga", AMC
-http://287868455641656442.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/656442.ts
-
-
-#EXTINF:-1 tvg-id="I.schedulesdirect.org" group-title="De Paga", SYFY
-http://287868455641656458.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/656458.ts
-
-
-#EXTINF:-1 tvg-id="I831.98111.schedulesdirect.org" group-title="De Paga", Warner 
-
 
 #EXTINF:-1 tvg-id="WarnerChannel.mx(m3u4u)" group-title="De Paga", Warner 
 http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Space.mx(m3u4u)" group-title="De Paga", Space
+http://287868455641657212.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/657212.ts
 
-#EXTINF:-1 tvg-id="I212.19385.schedulesdirect.org" group-title="De Paga", Sony
+EXTINF:-1 tvg-id="" group-title="De Paga", Paramount ES
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:22_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id="I362.91183.schedulesdirect.org" group-title="De Paga", M+ Accion 
+http://924606346607321307.ofg0316.xyz:80/play/vi1229804/esDA4JqSWQTP/321307.ts
+
+
+#EXTINF:-1 tvg-id="I911.68317.schedulesdirect.org" group-title="De Paga" ,Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="De Paga" ,Golden Premier 
+https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="De Paga" ,Golden
+https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="De Paga" , Edge
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO" group-title="De Paga" , HBO 
+http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO 2" group-title="De Paga" , HBO 2
+http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
+
+
+EXTINF:-1 tvg-id="I831.98111.schedulesdirect.org" group-title="De Paga", Warner 
+
+EXTINF:-1 tvg-id="I212.19385.schedulesdirect.org" group-title="De Paga", Sony
 
 
 #EXTINF:-1 tvg-id="SONY" group-title="De Paga", Sony
 http://287868455641694437.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/694437.ts
 
-
 #EXTINF:-1 tvg-id="I527.60801.schedulesdirect.org" group-title="De Paga", Space
 
 
-#EXTINF:-1 tvg-id="Space.mx(m3u4u)" group-title="De Paga", Space
-http://287868455641657212.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/657212.ts
 
 #EXTINF:-1 tvg-id="I0.122761.schedulesdirect.org" group-title="De Paga" , Universal 
 http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I911.68317.schedulesdirect.org" group-title="De Paga" ,Golden Plus
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBO" group-title="De Paga" , HBO 
-http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="I313.24553.schedulesdirect.org" group-title="De Paga" , HBO 2
 
 
-#EXTINF:-1 tvg-id="HBO 2" group-title="De Paga" , HBO 2
-http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="I350.34879.schedulesdirect.org" group-title="De Paga" , HBO 2
 
 
 #EXTINF:-1 tvg-id="I241.102862.schedulesdirect.org" group-title="De Paga", Fox Es
 
-#EXTINF:-1 tvg-id="I362.91183.schedulesdirect.org" group-title="De Paga", M+ Accion 
+
 
 
 
