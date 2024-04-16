@@ -58,7 +58,7 @@ https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 https://r.mjh.nz/PlutoTV/652e91fd6208700008dcaf7b-alt.m3u8
 
 #EXTINF:-1 tvg-id="XHOAHTDT.mx(m3u4u)" group-title="VARIEDADES" , Seis Saltillo
-https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
+https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream/5d5d51a4e9a40e25f4a0332c/publish/media_2000.m3u8?aid=579bd29dc99290cf08362c3b&pid=G8WIZPXZuYj72omMOA47Afce3glbWgho&sid=XdusO1ZlzcXiKZF8xVywCltFMlTwkCXr&uid=ezKjpkPyW5tHaV4TRsRDXLdfqXikpndK&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1713363974941&ot=e6hNwzztc0QTbHDy0GpT8w&proto=https&pz=us
 
 
 #EXTINF:-1 tvg-id="Azteca7.mx" group-title="VARIEDADES" , Azteca 7 
@@ -72,7 +72,7 @@ https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="VARIEDADES" , El Heraldo TV
-https://live-c.cf.dmcdn.net/sec2(1eYxENv0cgCnuhA3SoBeQwyvHU9wwiM4kE-5V0vt9D7WO5f2i7QK1O9CK5evvhtNLr3SkwiX6gm_kuvS0EoBZPK39HKoBq0fs_zBnjG7f2Y)/dm/3/x88epch/d/live-4.m3u8
+https://live-b.cf.dmcdn.net/sec2(Juk1sbeEAHbMXkwU2V7SHdxYPeQjUQBjxKkECmZiykeCzypeYewfmv0uGqZXubGNmokjDoGxUiA5fBB_HgBLJt-YBUc735zSeL373iFOESA)/dm/3/x88epch/d/live-4.m3u8
 
 
 #EXTINF:-1 tvg-id="NUEVE" group-title="VARIEDADES", Canal Nu9ve
@@ -89,10 +89,7 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 
 #EXTINF:-1 tvg-id="XEIPNTDT.mx(m3u4u)" group-title="VARIEDADES", Canal Once 
-https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/.m3u8
-
-EXTINF:-1 tvg-id="I11.15178.schedulesdirect.org" group-title="VARIEDADES", Canal 11.2
-
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Canal 13 Tabasco
 
@@ -120,7 +117,7 @@ https://ythls.armelin.one/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 https://a37d474b6bb9441fa17e3e1ab3d55fce.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_MegaNoticias/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" " group-title="VARIEDADES", Quiero TV
-https://live-c.cf.dmcdn.net/sec2(y-bSfGvPGagu07Yezr2WE7rkCiY9OHzhG_WZ30Ndpl4q7EXccMz88AeSoeV7sLC3FsCgmPuOyRUQQP0Lqq0_IQGPLshLYELZxLxPVlGImBs)/dm/3/x8lng9k/s/live-4.m3u8
+https://live-b.cf.dmcdn.net/sec2(nS5RKgmowGFyHh7YGlZPWUaz957VVwTpJeaiZsEYXA7_hy_nppja7mnD8JtEl_EZLoC_K0joLLJ0DOXOF4Qx2t6XZ7pOEQx60V1DNtB5IRY)/dm/3/x8lng9k/s/live-4.m3u8
 
 #EXTINF:-1 tvg-id="I34.28440.schedulesdirect.org" group-title="VARIEDADES" ,
 
