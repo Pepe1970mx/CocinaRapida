@@ -581,6 +581,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfyco-lgco/pla
 #EXTINF:-1 tvg-id="canela-horror" group-title="Movies", Canela Horror
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
 
+#EXTINF:-1 tvg-id="" group-title="Movies", Runtime Espanto
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
+
+
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-60240f57676235002df19f49" group-title="Movies", Free TV Familia
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntosco-lgco/playlist.m3u8
 
@@ -619,6 +623,7 @@ https://r.mjh.nz/PlutoTV/5dcddf1ed95e740009fef7ab-alt.m3u8
 
 #EXTINF:-1 tvg-id="ESBC2700002LO" group-title="Movies" , Grjngo-Peliculas del Oeste
 https://i.mjh.nz/SamsungTVPlus/ESBC2700002LO.m3u8
+
 
 
 #EXTINF:-1 tvg-id="5dcde1317578340009b751d0" group-title="Series", Pluto TV Series
