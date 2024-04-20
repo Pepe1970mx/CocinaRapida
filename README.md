@@ -230,6 +230,10 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,F
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx(m3u4u)" group-title="Sports", Fox Sport Latinoamerica
 http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Sports", Vix Futbol
+https://linear-383.frequency.stream/mt/studio/383/hls/master/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="I505.41677.schedulesdirect.org" group-title="Sports", Fox Premium
 https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/600
 
