@@ -215,7 +215,7 @@ https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" group-title="Sports", beIN Sport Xtra en Español
 https://r.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 
-#EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" group-title="Sports", Azteca Deportes Network 
+EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" group-title="Sports", Azteca Deportes Network 
 https://r.mjh.nz/PlutoTV/65cf60d166eec80008724e6f-alt.m3u8
 
 #EXTINF:-1 tvg-id="6320d2755e54db000783fd87" group-title="Sports", Claro Sports México 
@@ -227,15 +227,10 @@ http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8
 #EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" group-title="Sports", Fox sports en español
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
+#EXTINF:-1 tvg-id="I505.41677.schedulesdirect.org" group-title="Sports", Fox Premium
+
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx(m3u4u)" group-title="Sports", Fox Sport Latinoamerica
 http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports", Vix Futbol
-https://linear-383.frequency.stream/mt/studio/383/hls/master/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="I505.41677.schedulesdirect.org" group-title="Sports", Fox Premium
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/600
 
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx(m3u4u)" group-title="Sports", Fox sport 2 Latinoamerica
 http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
@@ -246,7 +241,6 @@ http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us(m3u4u)" group-title="Sports", Espn Deportes 
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57185
 
 #EXTINF:-1 tvg-id="I854.25595.schedulesdirect.org" group-title="Sports", 
 
@@ -261,18 +255,18 @@ http://stream.flynetwifi.com:1935/live/mobile-033/playlist.m3u8
 #EXTINF:-1 tvg-id="I508.37747.schedulesdirect.org" group-title="Sports", 
 
 #EXTINF:-1 tvg-id="ESPNTres(North).mx(m3u4u)" group-title="Sports", Espn 3 Latinoamerica
-https://mserver.fantasticiptv.club:8888/FANTASTIC/fcgaNeHS2X/26
+
 
 #EXTINF:-1 tvg-id="I510.79042.schedulesdirect.org" group-title="Sports", 
 
 #EXTINF:-1 tvg-id="TUDN.mx(m3u4u)" group-title="Sports", Tudn MX
 https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TUDN(Spanish).us(m3u4u)" group-title="Sports", Tudn USA
-http://cineplay.vip:8080/ang03/d4gHCwACQs/25598
+#EXTINF:-1 tvg-id="TUDN(Spanish).us(m3u4u)" group-title="Sports", TUDN2
+https://linear-383.frequency.stream/mt/studio/383/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I693.75951.schedulesdirect.org" group-title="Sports", Afizzionados
-https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="I693.75951.schedulesdirect.org" group-title="Sports", Vix
+https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona Tudn
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
@@ -290,13 +284,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5759
 http://181.78.105.146:2000/play/a08m/index.m3u8
 
 #EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network 
-https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+
 
 #EXTINF:-1 tvg-id"WAPADT2(English).pr(m3u4u)" group-title="Sports", Wapa Deportes
 https://live.field59.com/wapa/wapa2/.m3u8
-
-#EXTINF:-1 tvg-id="ESBD3600001Q1" group-title="Sports", La liga
-https://i.mjh.nz/SamsungTVPlus/ESBD3600001Q1.m3u8
 
 #EXTINF:-1 tvg-id="64b79c057d934100080b3583" group-title="Sports", Dazn Internacional Futbol
 https://r.mjh.nz/PlutoTV/64b79c057d934100080b3583-alt.m3u8
@@ -459,8 +450,11 @@ http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
 #EXTINF:-1 tvg-id="Space.mx(m3u4u)" group-title="De Paga", Space
 http://287868455641657212.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/657212.ts
 
-EXTINF:-1 tvg-id="" group-title="De Paga", Paramount ES
+#EXTINF:-1 tvg-id="" group-title="De Paga", Paramount ES
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:22_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="De Paga", AMC ES
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="I362.91183.schedulesdirect.org" group-title="De Paga", M+ Accion 
 http://924606346607321307.ofg0316.xyz:80/play/vi1229804/esDA4JqSWQTP/321307.ts
@@ -490,8 +484,8 @@ EXTINF:-1 tvg-id="I831.98111.schedulesdirect.org" group-title="De Paga", Warner
 EXTINF:-1 tvg-id="I212.19385.schedulesdirect.org" group-title="De Paga", Sony
 
 
-#EXTINF:-1 tvg-id="SONY" group-title="De Paga", Sony
-http://287868455641694437.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/694437.ts
+#EXTINF:-1 tvg-id="SONY" group-title="De Paga", Cine Sony
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I527.60801.schedulesdirect.org" group-title="De Paga", Space
 
