@@ -281,7 +281,7 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5759
 
 #EXTINF:-1 group-title="Sports", Sky Sports La Liga
-http://181.78.105.146:2000/play/a08m/index.m3u8
+http://lsy3kcct.akciatv.ru/iptv/8YRETNK5CZU46C/6073/index.m3u8
 
 #EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network 
 
