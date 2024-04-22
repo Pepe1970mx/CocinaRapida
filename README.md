@@ -456,7 +456,7 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:22_HD.smil/mani
 #EXTINF:-1 tvg-id="AMC" group-title="De Paga", AMC ES
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-id="M+ Acci贸n" group-title="De Paga", M+ Accion 
+#EXTINF:-1 tvg-id="M+ Acción" group-title="De Paga", M+ Accion 
 http://924606346607321307.ofg0316.xyz:80/play/vi1229804/esDA4JqSWQTP/321307.ts
 
 
