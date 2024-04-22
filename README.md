@@ -450,13 +450,13 @@ http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
 #EXTINF:-1 tvg-id="Space.mx(m3u4u)" group-title="De Paga", Space
 http://287868455641657212.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/657212.ts
 
-#EXTINF:-1 tvg-id="Paramount Network" group-title="De Paga", Paramount ES
+#EXTINF:-1 tvg-id="Paramount Channel" group-title="De Paga", Paramount ES
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:22_HD.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-id="AMC HD" group-title="De Paga", AMC ES
+#EXTINF:-1 tvg-id="AMC" group-title="De Paga", AMC ES
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-id="A+ acción HD" group-title="De Paga", M+ Accion 
+#EXTINF:-1 tvg-id="M+ Acci贸n" group-title="De Paga", M+ Accion 
 http://924606346607321307.ofg0316.xyz:80/play/vi1229804/esDA4JqSWQTP/321307.ts
 
 
