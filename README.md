@@ -54,7 +54,7 @@ https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 https://r.mjh.nz/PlutoTV/652e91fd6208700008dcaf7b-alt.m3u8
 
 #EXTINF:-1 tvg-id="XHOAHTDT.mx(m3u4u)" group-title="VARIEDADES" , Seis Saltillo
-
+https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 
 
 #EXTINF:-1 tvg-id="Azteca7.mx" group-title="VARIEDADES" , Azteca 7 
@@ -68,8 +68,7 @@ https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-id="EL HERALDO" group-title="VARIEDADES" , El Heraldo TV
-https://live-b.cf.dmcdn.net/sec2(Juk1sbeEAHbMXkwU2V7SHdxYPeQjUQBjxKkECmZiykeCzypeYewfmv0uGqZXubGNmokjDoGxUiA5fBB_HgBLJt-YBUc735zSeL373iFOESA)/dm/3/x88epch/d/live-4.m3u8
-
+https://live-b.cf.dmcdn.net/sec2(XwnZiL_-nv1Wak0TFBwBBsG73dKB_V-ZYr5DmwaAbjgNPSQKHiPIwzz5BEZg-iJNd1EZyPHT_YWID7mZqlS348VOE3h-431n1uLd98zWg3o)/dm/3/x88epch/d/live-4.m3u8
 
 #EXTINF:-1 tvg-id="NUEVE" group-title="VARIEDADES", Canal Nu9ve
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
@@ -113,7 +112,7 @@ https://ythls.armelin.one/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 https://a37d474b6bb9441fa17e3e1ab3d55fce.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_MegaNoticias/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" " group-title="VARIEDADES", Quiero TV
-https://live-b.cf.dmcdn.net/sec2(nS5RKgmowGFyHh7YGlZPWUaz957VVwTpJeaiZsEYXA7_hy_nppja7mnD8JtEl_EZLoC_K0joLLJ0DOXOF4Qx2t6XZ7pOEQx60V1DNtB5IRY)/dm/3/x8lng9k/s/live-4.m3u8
+https://stream.oursnetworktv.com/latin/encoder12/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I34.28440.schedulesdirect.org" group-title="VARIEDADES" ,
 
