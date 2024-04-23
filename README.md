@@ -1,8 +1,4 @@
-#EXTM3U x-tvg-url="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58.xml,https://i.mjh.nz/PlutoTV/all.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml,https://www.bevy.be/bevyfiles/peru.xml,https://www.bevy.be/bevyfiles/elsalvador.xml,https://www.bevy.be/bevyfiles/hondura.xml,https://i.mjh.nz/Plex/all.xml,https://www.bevy.be/bevyfiles/dominican.xml,https://www.bevy.be/bevyfiles/costaricapremium.xml,https://www.bevy.be/bevyfiles/spain.xml"
-
-#EXTINF:-1 tvg-id="" group-title="VARIEDADES" , Cazafantasmas
-http://cineplay.vip:8080/movie/ang03/d4gHCwACQs/293332.mp4
-
+#EXTM3U x-tvg-url="http://m3u4u.com/xml/jq2zy9pzprh3jkjnxr58.xml,https://i.mjh.nz/PlutoTV/all.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml,https://www.bevy.be/bevyfiles/peru.xml,https://www.bevy.be/bevyfiles/elsalvador.xml,https://www.bevy.be/bevyfiles/hondura.xml,https://i.mjh.nz/Plex/all.xml,https://www.bevy.be/bevyfiles/dominican.xml,https://www.bevy.be/bevyfiles/costaricapremium.xml,https://www.bevy.be/bevyfiles/spain.xml,https://www.bevy.be/bevyfiles/mexicopremium.xml"
 
 #EXTINF:-1 tvg-id="" group-title="VARIEDADES" , La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
@@ -19,16 +15,16 @@ https://linear-313.frequency.stream/mt/studio/313/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="USBC2100010OS" group-title="VARIEDADES" , ViX Jajaja 
 https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
 
-#EXTINF:-1 tvg-id="I233.55980.schedulesdirect.org" group-title="VARIEDADES" , Distrito Comedia
+#EXTINF:-1 tvg-id="DISTRITO COMEDIA" group-title="VARIEDADES" , Distrito Comedia
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6469502df73356567a64ce8e" group-title="VARIEDADES" , Az Clic
+#EXTINF:-1 tvg-id="AZ CLIC" group-title="VARIEDADES" , Az Clic
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6469502df73356567a64ce8e.m3u8
 
-#EXTINF:-1 tvg-id="ESBD1300003VN" group-title="VARIEDADES" , Az Corazón
+#EXTINF:-1 tvg-id="AZ CORAZON" group-title="VARIEDADES" , Az Corazón
 https://i.mjh.nz/SamsungTVPlus/ESBD1300003VN.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7" group-title="VARIEDADES" , Az Cinema
+#EXTINF:-1 tvg-id="AZ CINEMA" group-title="VARIEDADES" , Az Cinema
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64695233f73356567a64ce90.m3u8
 
 #EXTINF:-1 tvg-id="ESBD1300004IG" group-title="VARIEDADES" , Azteca Internacional
@@ -58,7 +54,7 @@ https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 https://r.mjh.nz/PlutoTV/652e91fd6208700008dcaf7b-alt.m3u8
 
 #EXTINF:-1 tvg-id="XHOAHTDT.mx(m3u4u)" group-title="VARIEDADES" , Seis Saltillo
-https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream/5d5d51a4e9a40e25f4a0332c/publish/media_2000.m3u8?aid=579bd29dc99290cf08362c3b&pid=G8WIZPXZuYj72omMOA47Afce3glbWgho&sid=XdusO1ZlzcXiKZF8xVywCltFMlTwkCXr&uid=ezKjpkPyW5tHaV4TRsRDXLdfqXikpndK&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1713363974941&ot=e6hNwzztc0QTbHDy0GpT8w&proto=https&pz=us
+
 
 
 #EXTINF:-1 tvg-id="Azteca7.mx" group-title="VARIEDADES" , Azteca 7 
@@ -71,7 +67,7 @@ https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-id="A+" group-title="VARIEDADES" , A+ 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="VARIEDADES" , El Heraldo TV
+#EXTINF:-1 tvg-id="EL HERALDO" group-title="VARIEDADES" , El Heraldo TV
 https://live-b.cf.dmcdn.net/sec2(Juk1sbeEAHbMXkwU2V7SHdxYPeQjUQBjxKkECmZiykeCzypeYewfmv0uGqZXubGNmokjDoGxUiA5fBB_HgBLJt-YBUc735zSeL373iFOESA)/dm/3/x88epch/d/live-4.m3u8
 
 
@@ -466,10 +462,10 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="De Paga" ,Golden Premier 
 https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="De Paga" ,Golden
+#EXTINF:-1 tvg-id="GOLDEN" group-title="De Paga" ,Golden
 https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="De Paga" , Edge
+#EXTINF:-1 tvg-id="GOLDEN EDGE" group-title="De Paga" , Edge
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO" group-title="De Paga" , HBO 
@@ -484,14 +480,14 @@ EXTINF:-1 tvg-id="I831.98111.schedulesdirect.org" group-title="De Paga", Warner
 EXTINF:-1 tvg-id="I212.19385.schedulesdirect.org" group-title="De Paga", Sony
 
 
-#EXTINF:-1 tvg-id="SONY" group-title="De Paga", Cine Sony
+#EXTINF:-1 tvg-id="SONY MOVIES" group-title="De Paga", Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I527.60801.schedulesdirect.org" group-title="De Paga", Space
 
 
 
-#EXTINF:-1 tvg-id="I0.122761.schedulesdirect.org" group-title="De Paga" , Universal 
+#EXTINF:-1 tvg-id="" group-title="De Paga" , Universal 
 http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
 
 
@@ -515,7 +511,7 @@ http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id"Boing" group-title="Kids", Boing
+#EXTINF:-1 tvg-id="Boing" group-title="Kids", Boing
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="ESBC4100003WE" group-title="Kids" , Clan
@@ -524,13 +520,13 @@ https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
 #EXTINF:-1 tvg-id="canela-kids" group-title="Kids" , Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
-#EXTINF:-1 tvg-id="I114.16141.schedulesdirect.org" group-title="Kids", Cartoon Network 
+#EXTINF:-1 tvg-id="CARTOON NETWORK" group-title="Kids", Cartoon Network 
 http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon" group-title="Kids", Nickelodeon 
+#EXTINF:-1 tvg-id="NICKELODEON" group-title="Kids", Nickelodeon 
 http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Disney" group-title="Kids", Disney Channels
+#EXTINF:-1 tvg-id="DISNEY" group-title="Kids", Disney Channels
 http://287868455641661945.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/661945.ts
 
 #EXTINF:-1 tvg-id="645952687cb4b100084ed52e" group-title="Kids", Nickelodeon Pluto TV
@@ -539,7 +535,7 @@ https://r.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
 #EXTINF:-1 tvg-id="5d8d08395f39465da6fb3ec4" group-title="Kids", Nickelodeon en español 
 https://i.mjh.nz/PlutoTV/5d8d08395f39465da6fb3ec4-alt.m3u8
 
-#EXTINF:-1 tvg-id"Tooncast" group-title="Kids" , Tooncast 
+#EXTINF:-1 tvg-id"TOONCAST" group-title="Kids" , Tooncast 
 http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8
 
 #EXTINF:-1 tvg-id="609e7e423e9173000706a681" group-title="Kids", Pluto TV toons Clasico
