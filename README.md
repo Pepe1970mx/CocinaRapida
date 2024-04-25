@@ -172,7 +172,7 @@ https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo(Spanish).us(m3u4u)" group-title="US Español", Telemundo
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us(m3u4u)" group-title="US Español", Telemundo
+#EXTINF:-1 tvg-id="TELEMUNDO" group-title="US Español", Telemundo
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65880
 
 #EXTINF:-1 tvg-id="UNIVERSO(Spanish).us(m3u4u)" group-title="US Español", Universo
@@ -186,7 +186,7 @@ https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" tvg-logo=" " group-title="US Español", 
 
-#EXTINF:-1 tvg-id"UnivisionNetwork(Pacific)(Spanish).us(m3u4u)" group-title="US Español",  Univision Latino
+#EXTINF:-1 tvg-id"UNIVISION" group-title="US Español",  Univision Latino
 http://supersonictv.live:8080/Eddie8523/Whitehead83/10584
 
 #EXTINF:-1 tvg-id="UniMas(East)(Spanish).us(m3u4u)" group-title="US Español", Unimas
