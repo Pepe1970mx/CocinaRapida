@@ -537,7 +537,7 @@ https://r.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
 #EXTINF:-1 tvg-id="5d8d08395f39465da6fb3ec4" group-title="Kids", Nickelodeon en español 
 https://i.mjh.nz/PlutoTV/5d8d08395f39465da6fb3ec4-alt.m3u8
 
-#EXTINF:-1 tvg-id="5fab09a8749b1a00077d35d2" group-title="Kids", Nick Teen
+#EXTINF:-1 tvg-id="5fab09a8749b1a00077d35d2-alt" group-title="Kids", Nick Teen
 https://r.mjh.nz/PlutoTV/5fab09a8749b1a00077d35d2-alt.m3u8
 
 #EXTINF:-1 tvg-id="609e7e423e9173000706a681" group-title="Kids", Pluto TV toons Clasico
@@ -625,7 +625,7 @@ https://i.mjh.nz/SamsungTVPlus/ESBC2700002LO.m3u8
 #EXTINF:-1 tvg-id="5dcde1317578340009b751d0" group-title="Series", Pluto TV Series
 https://r.mjh.nz/PlutoTV/5dcde1317578340009b751d0-alt.m3u8
 
-#EXTINF:-1 tvg-id="65cf6ab58145cb0008129ca8" group-title="Series", Series Criminales
+#EXTINF:-1 tvg-id="65cf6ab58145cb0008129ca8-alt" group-title="Series", Series Criminales
 https://r.mjh.nz/PlutoTV/65cf6ab58145cb0008129ca8-alt.m3u8
 
 #EXTINF:-1 tvg-id="62c5d80dc6de440007e033eb" group-title="Series", Runtime
