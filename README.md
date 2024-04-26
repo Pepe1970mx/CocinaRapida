@@ -436,6 +436,8 @@ http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I644.80807.schedulesdirect.org" group-title="De Paga", TNT Latinoamerica
 
+
+
 #EXTINF:-1 tvg-id="TNT.mx(m3u4u)" group-title="De Paga", TNT Latinoamerica
 http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
 
@@ -443,7 +445,7 @@ http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Space.mx(m3u4u)" group-title="De Paga", Space
-http://287868455641657212.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/657212.ts
+http://138.59.177.34:8000/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount Channel" group-title="De Paga", Paramount ES
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:22_HD.smil/manifest.m3u8
@@ -477,7 +479,7 @@ http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
 EXTINF:-1 tvg-id="I831.98111.schedulesdirect.org" group-title="De Paga", Warner 
 
 EXTINF:-1 tvg-id="I212.19385.schedulesdirect.org" group-title="De Paga", Sony
-
+http://bantel.iptvperu.tv:1935/transcoder_t4/sonychannel_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SONY MOVIES" group-title="De Paga", Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
@@ -486,20 +488,18 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" group-title="De Paga" , Universal 
-http://stream.flynetwifi.com:1935/live/mobile-064/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="De Paga" , Universal Premiere
+http://138.59.177.34:8000/play/a05s/index.m3u8
 
-
-
+#EXTINF:-1 tvg-id="" group-title="De Paga" , USA
+http://138.59.177.34:8000/play/a053/index.m3u8
 
 
 #EXTINF:-1 tvg-id="I313.24553.schedulesdirect.org" group-title="De Paga" , HBO 2
+http://138.59.177.34:8000/play/a01m/index.m3u8
 
-
-
-
-#EXTINF:-1 tvg-id="I350.34879.schedulesdirect.org" group-title="De Paga" , HBO 2
-
+#EXTINF:-1 tvg-id="I350.34879.schedulesdirect.org" group-title="De Paga" , HBO Family
+http://138.59.177.34:8000/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-id="I241.102862.schedulesdirect.org" group-title="De Paga", Fox Es
 
