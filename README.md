@@ -473,7 +473,7 @@ https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO 2" group-title="De Paga" , HBO 2
-http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
+
 
 
 EXTINF:-1 tvg-id="I831.98111.schedulesdirect.org" group-title="De Paga", Warner 
@@ -495,18 +495,13 @@ http://138.59.177.34:8000/play/a05s/index.m3u8
 http://138.59.177.34:8000/play/a053/index.m3u8
 
 
-#EXTINF:-1 tvg-id="I313.24553.schedulesdirect.org" group-title="De Paga" , HBO 2
+#EXTINF:-1 tvg-id="I313.24553.schedulesdirect.org" group-title="De Paga" , HBO 
 http://138.59.177.34:8000/play/a01m/index.m3u8
 
 #EXTINF:-1 tvg-id="I350.34879.schedulesdirect.org" group-title="De Paga" , HBO Family
 http://138.59.177.34:8000/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-id="I241.102862.schedulesdirect.org" group-title="De Paga", Fox Es
-
-
-
-
-
 
 
 
@@ -520,16 +515,19 @@ https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK" group-title="Kids", Cartoon Network 
-http://stream.flynetwifi.com:1935/live/mobile-029/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="NICKELODEON" group-title="Kids", Nickelodeon 
-http://stream.flynetwifi.com:1935/live/mobile-112/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoder_t4/nick_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DISNEY" group-title="Kids", Disney Channels
-http://287868455641661945.ofip231209.xyz:80/play/fe513989/u6Nu@tn9TU/661945.ts
+http://bantel.iptvperu.tv:1935/transcoder_t2/disneychannel_t2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Kids", TeenNick
+http://bantel.iptvperu.tv:1935/transcoder_t4/nickteen_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-id"TOONCAST" group-title="Kids" , Tooncast 
-http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8
+http://138.59.177.34:8000/play/a04x/index.m3u8
 
 #EXTINF:-1 tvg-id="645952687cb4b100084ed52e" group-title="Kids", Nickelodeon Pluto TV
 https://r.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
@@ -540,13 +538,13 @@ https://i.mjh.nz/PlutoTV/5d8d08395f39465da6fb3ec4-alt.m3u8
 #EXTINF:-1 tvg-id="5fab09a8749b1a00077d35d2-alt" group-title="Kids", Nick Teen
 https://r.mjh.nz/PlutoTV/5fab09a8749b1a00077d35d2-alt.m3u8
 
-#EXTINF:-1 tvg-id="609e7e423e9173000706a681" group-title="Kids", Pluto TV toons Clasico
+EXTINF:-1 tvg-id="609e7e423e9173000706a681" group-title="Kids", Pluto TV toons Clasico
 https://r.mjh.nz/PlutoTV/609e7e423e9173000706a681-alt.m3u8
 
-#EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="Kids", Nickelodeon Clasico
+EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="Kids", Nickelodeon Clasico
 https://r.mjh.nz/PlutoTV/5f12151794c1800007a8ae63-alt.m3u8
 
-#EXTINF:-1 tvg-id="60142258a54aeb0007751c15" group-title="Kids", Pluto TV Retro Cartoons
+EXTINF:-1 tvg-id="60142258a54aeb0007751c15" group-title="Kids", Pluto TV Retro Cartoons
 https://r.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
 
 #EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="Kids", Los Tres Chiflados
@@ -622,7 +620,7 @@ https://i.mjh.nz/SamsungTVPlus/ESBC2700002LO.m3u8
 
 
 
-#EXTINF:-1 tvg-id="5dcde1317578340009b751d0" group-title="Series", Pluto TV Series
+EXTINF:-1 tvg-id="5dcde1317578340009b751d0" group-title="Series", Pluto TV Series
 https://r.mjh.nz/PlutoTV/5dcde1317578340009b751d0-alt.m3u8
 
 #EXTINF:-1 tvg-id="65cf6ab58145cb0008129ca8-alt" group-title="Series", Series Criminales
@@ -634,7 +632,7 @@ https://r.mjh.nz/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
 #EXTINF:-1 tvg-id="63eb947c4e83e70008ab877b" group-title="Series", NCIS
 https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 
-#EXTINF:-1 tvg-id="5de802659167b10009e7deba" group-title="Series", Pluto TV Series Retro
+EXTINF:-1 tvg-id="5de802659167b10009e7deba" group-title="Series", Pluto TV Series Retro
 https://r.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
 
 
@@ -653,19 +651,19 @@ https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" group-title="Series", Channels Classic
 https://paneltv.online:1936/8046/8046/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="Series" , Teleclasica 
+EXTINF:-1 group-title="Series" , Teleclasica 
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="Series", ACS Network
+EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="Series", ACS Network
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w910290755.m3u8
 
-#EXTINF:-1 group-title="Series" , Dreiko TV 
+EXTINF:-1 group-title="Series" , Dreiko TV 
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="Series", TELERED 
+EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="Series", TELERED 
 http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="Series", Telesistema 
+EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="Series", Telesistema 
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 
 
