@@ -168,19 +168,19 @@ https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64878a0108027d895721403b" group-title="US Español", Nuestra Vision 
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo(Spanish).us(m3u4u)" group-title="US Español", Telemundo
+#EXTINF:-1 tvg-id="Telemundo" group-title="US Español", Telemundo
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
-#EXTINF:-1 tvg-id="TELEMUNDO" group-title="US Español", Telemundo
+#EXTINF:-1 tvg-id="Telemundo Mexico" group-title="US Español", Telemundo
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65880
 
-#EXTINF:-1 tvg-id="UNIVERSO(Spanish).us(m3u4u)" group-title="US Español", Universo
+#EXTINF:-1 tvg-id="Universo" group-title="US Español", Universo
 http://stream.flynetwifi.com:1935/live/mobile-065/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WKAQDT.pr(m3u4u)" group-title="US Español", Telemundo PR 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us(m3u4u)" group-title="US Español",  Univision Latino America
+#EXTINF:-1 tvg-id="Univision" group-title="US Español",  Univision Latino America
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" tvg-logo=" " group-title="US Español", 
@@ -198,7 +198,7 @@ https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cf
 #EXTINF:-1 tvg-id="USBA300040WR" group-title="US Español", ESTRELLA TV
 https://i.mjh.nz/SamsungTVPlus/USBA300040WR.m3u8
 
-#EXTINF:-1  tvg-id="WAPADT.pr(m3u4u)"  group-title="US Español" , Wapa
+#EXTINF:-1  tvg-id="WAPA TV"  group-title="US Español" , Wapa
 https://live.field59.com/wapa/wapa1/playlist.m3u8
 
 
@@ -253,16 +253,16 @@ http://stream.flynetwifi.com:1935/live/mobile-033/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I510.79042.schedulesdirect.org" group-title="Sports", 
 
-#EXTINF:-1 tvg-id="TUDN.mx(m3u4u)" group-title="Sports", Tudn MX
+#EXTINF:-1 tvg-id="TUDN" group-title="Sports", Tudn MX
 https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I693.75951.schedulesdirect.org" group-title="Sports", 
+#EXTINF:-1 tvg-id="I693.75951.schedulesdirect.org" group-title="Sports", Zona TUDN
 https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona Tudn
+#EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN2
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
-#EXTINF:-1 tvg-id="TUDN(Spanish).us(m3u4u)" group-title="Sports", TUDN1
+#EXTINF:-1 tvg-id="TUDN USA" group-title="Sports", TUDN1
 https://linear-380.frequency.stream/mt/studio/380/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TUDN(Spanish).us(m3u4u)" group-title="Sports", TUDN2
@@ -286,7 +286,7 @@ http://lsy3kcct.akciatv.ru/iptv/8YRETNK5CZU46C/6073/index.m3u8
 #EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network 
 
 
-#EXTINF:-1 tvg-id"WAPADT2(English).pr(m3u4u)" group-title="Sports", Wapa Deportes
+#EXTINF:-1 tvg-id"WAPA2 Deportes" group-title="Sports", Wapa Deportes
 https://live.field59.com/wapa/wapa2/.m3u8
 
 #EXTINF:-1 tvg-id="64b79c057d934100080b3583" group-title="Sports", Dazn Internacional Futbol
@@ -492,7 +492,7 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" group-title="De Paga" , Universal Premiere
+#EXTINF:-1 tvg-id="Universal Premier" group-title="De Paga" , Universal Premiere
 http://138.59.177.34:8000/play/a05s/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="De Paga" , USA
