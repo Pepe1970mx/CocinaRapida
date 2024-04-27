@@ -15,7 +15,7 @@ https://linear-313.frequency.stream/mt/studio/313/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="USBC2100010OS" group-title="VARIEDADES" , ViX Jajaja 
 https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
 
-#EXTINF:-1 tvg-id="DISTRITO COMEDIA" group-title="VARIEDADES" , Distrito Comedia
+#EXTINF:-1 tvg-id="Distrito Comedia" group-title="VARIEDADES" , Distrito Comedia
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Azteca Clic" group-title="VARIEDADES" , Az Clic
@@ -161,7 +161,7 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="XEIPNTDT.mx(m3u4u)" group-title="NOTICIAS" , Mexiquense Noticias 
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
 
-#EXTINF:-1 tvg-id"" group-title="NOTICIAS" , CNN en Español 
+#EXTINF:-1 tvg-id"CNN en Espanol" group-title="NOTICIAS" , CNN en Español 
 https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
 
 
@@ -418,16 +418,16 @@ https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 group title="ENTRETENIMIENTO" , Planeta TV Movies
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV Kids
+#EXTINF:-1 tvg-id="Planeta Tv Kids"  group-title="ENTRETENIMIENTO" , Planeta TV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", WTV NI
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
-#EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="ENTRETENIMIENTO", CocoTV
+#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="ENTRETENIMIENTO", CocoTV
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.frecuenciamusical.com/img/bg.jpg" group-title="ENTRETENIMIENTO", FM TV
+#EXTINF:-1 tvg-id="Frecuencia Musical TV" group-title="ENTRETENIMIENTO", FM TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
@@ -436,20 +436,20 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 EXTINF:-1 tvg-id="I528.88534.schedulesdirect.org" group-title="De Paga", Star Channels Latinoamerica
 
-#EXTINF:-1 tvg-id="StarChannel.mx(m3u4u)" group-title="De Paga", Star Channels Latinoamerica
+#EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel
 http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I644.80807.schedulesdirect.org" group-title="De Paga", TNT Latinoamerica
 
 
 
-#EXTINF:-1 tvg-id="TNT.mx(m3u4u)" group-title="De Paga", TNT Latinoamerica
+#EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT Latinoamerica
 http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WarnerChannel.mx(m3u4u)" group-title="De Paga", Warner 
+#EXTINF:-1 tvg-id="Warner Channel" group-title="De Paga", Warner 
 http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Space.mx(m3u4u)" group-title="De Paga", Space
+#EXTINF:-1 tvg-id="Space" group-title="De Paga", Space
 http://138.59.177.34:8000/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount Channel" group-title="De Paga", Paramount ES
