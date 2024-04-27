@@ -63,7 +63,7 @@ https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
 #EXTINF:-1 tvg-id="I107.102406.schedulesdirect.org" group-title="VARIEDADES" , Azteca 7 
 
-#EXTINF:-1 tvg-id="A+" group-title="VARIEDADES" , A+ 
+#EXTINF:-1 tvg-id="A Mas" group-title="VARIEDADES" , A+ 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-id="EL HERALDO" group-title="VARIEDADES" , El Heraldo TV
@@ -82,20 +82,20 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 tvg-id="" group-title="VARIEDADES", EclipseTV 
 
 
-#EXTINF:-1 tvg-id="XEIPNTDT.mx(m3u4u)" group-title="VARIEDADES", Canal Once 
+#EXTINF:-1 tvg-id="Canal Once" group-title="VARIEDADES", Canal Once 
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Canal 13 Tabasco
 
 
-#EXTINF:-1 tvg-id="Canal14.mx(m3u4u)" group-title="VARIEDADES" , Canal 14 
+#EXTINF:-1 tvg-id="14 de Mexico" group-title="VARIEDADES" , Canal 14 
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 
 EXTINF:-1 tvg-id="I14.98192.schedulesdirect.org" group-title="VARIEDADES" , Canal 14 
 
 #EXTINF:-1 tvg-id="I100.91060.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , CANAL 22 
 
-#EXTINF:-1 tvg-id="XEIMTTVMetropolitan(Canal22).mx(m3u4u)" group-title="VARIEDADES" , CANAL 22 
+#EXTINF:-1 tvg-id="22 de Mexico" group-title="VARIEDADES" , CANAL 22 
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="XEIMTDT2.mx(m3u4u)" group-title="VARIEDADES" , CANAL 22.2 MX Nuestro Cine
@@ -513,7 +513,7 @@ http://138.59.177.34:8000/play/a01p/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Boing" group-title="Kids", Boing
+#EXTINF:-1 tvg-id="Boing Espana" group-title="Kids", Boing
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="ESBC4100003WE" group-title="Kids" , Clan
@@ -522,7 +522,7 @@ https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
 #EXTINF:-1 tvg-id="canela-kids" group-title="Kids" , Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
-#EXTINF:-1 tvg-id="CARTOON NETWORK" group-title="Kids", Cartoon Network 
+#EXTINF:-1 tvg-id="Cartoon Network Sur" group-title="Kids", Cartoon Network 
 
 
 #EXTINF:-1 tvg-id="NICKELODEON" group-title="Kids", Nickelodeon 
