@@ -651,19 +651,19 @@ https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" group-title="Series", Channels Classic
 https://paneltv.online:1936/8046/8046/playlist.m3u8?PlaylistM3UCL
 
-EXTINF:-1 group-title="Series" , Teleclasica 
+#EXTINF:-1 tvg-id="Teleclasica" group-title="Series" , Teleclasica 
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
-EXTINF:-1 tvg-id="I" tvg-logo=" " group-title="Series", ACS Network
+#EXTINF:-1 tvg-id="ACS Network TV" group-title="Series", ACS Network
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w910290755.m3u8
 
-EXTINF:-1 group-title="Series" , Dreiko TV 
+#EXTINF:-1 tvg-id="Dreiko TV" group-title="Series" , Dreiko TV 
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="Series", TELERED 
+#EXTINF:-1  tvg-id="TeleRed" group-title="Series", TELERED 
 http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="Series", Telesistema 
+#EXTINF:-1 tvg-id="Telesistema" group-title="Series", Telesistema 
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 
 
