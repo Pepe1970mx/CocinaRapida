@@ -56,10 +56,9 @@ https://r.mjh.nz/PlutoTV/652e91fd6208700008dcaf7b-alt.m3u8
 #EXTINF:-1 tvg-id="XHOAHTDT.mx(m3u4u)" group-title="VARIEDADES" , Seis Saltillo
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 
-
-#EXTINF:-1 tvg-id="Azteca7" group-title="VARIEDADES" , Azteca 7 
-
 #EXTINF:-1 tvg-id="Azteca7.mx(m3u4u)" group-title="VARIEDADES" , Azteca 7
+
+#EXTINF:-1 tvg-id="Azteca7" group-title="VARIEDADES" , Azteca 7
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
 #EXTINF:-1 tvg-id="I107.102406.schedulesdirect.org" group-title="VARIEDADES" , Azteca 7 
