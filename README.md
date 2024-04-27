@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml,https://www.bevy.be/bevyfiles/peru.xml,https://www.bevy.be/bevyfiles/elsalvador.xml,https://www.bevy.be/bevyfiles/hondura.xml,https://www.bevy.be/bevyfiles/dominican.xml,https://www.bevy.be/bevyfiles/costaricapremium.xml,https://www.bevy.be/bevyfiles/spain.xml,https://raw.githubusercontent.com/luisms123/tdt/master/guiacanales.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiacanales.xml"
 
 #EXTINF:-1 tvg-id="" group-title="VARIEDADES" , La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
