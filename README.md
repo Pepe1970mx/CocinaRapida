@@ -27,7 +27,7 @@ https://i.mjh.nz/SamsungTVPlus/ESBD1300003VN.m3u8
 #EXTINF:-1 tvg-id="Azteca Cinema" group-title="VARIEDADES" , Az Cinema
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64695233f73356567a64ce90.m3u8
 
-#EXTINF:-1 tvg-id="ESBD1300004IG" group-title="VARIEDADES" , Azteca Internacional
+#EXTINF:-1 tvg-id="Azteca Mundo" group-title="VARIEDADES" , Azteca Internacional
 https://i.mjh.nz/SamsungTVPlus/ESBD1300004IG.m3u8
 
 EXTINF:-1 tvg-id="I85.46607.schedulesdirect.org" group-title="VARIEDADES" , Azteca Uno 
@@ -286,7 +286,7 @@ http://lsy3kcct.akciatv.ru/iptv/8YRETNK5CZU46C/6073/index.m3u8
 #EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network 
 
 
-#EXTINF:-1 tvg-id"WAPA2 Deportes" group-title="Sports", Wapa Deportes
+#EXTINF:-1 tvg-id="WAPA 2 Deportes" group-title="Sports", Wapa Deportes
 https://live.field59.com/wapa/wapa2/.m3u8
 
 #EXTINF:-1 tvg-id="64b79c057d934100080b3583" group-title="Sports", Dazn Internacional Futbol
