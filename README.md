@@ -35,7 +35,7 @@ EXTINF:-1 tvg-id="I85.46607.schedulesdirect.org" group-title="VARIEDADES" , Azte
 #EXTINF:-1 tvg-id="Azteca Uno" group-title="VARIEDADES" , Azteca Uno 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-id="LasEstrellas.mx(m3u4u)" group-title="VARIEDADES" , Las Estrellas
+#EXTINF:-1 tvg-id="Las Estrellas" group-title="VARIEDADES" , Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
 
 EXTINF:-1 tvg-id="I403.16257.schedulesdirect.org" group-title="VARIEDADES", Las estrellas Internacional
