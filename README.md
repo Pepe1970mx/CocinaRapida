@@ -295,7 +295,7 @@ https://r.mjh.nz/PlutoTV/64b79c057d934100080b3583-alt.m3u8
 
 
 
-#EXTINF:-1 tvg-id="USBD7000017L" group-title="ENTRETENIMIENTO", AMC en Español
+#EXTINF:-1 tvg-id="62fa81ccd1a7e90007c1ada0" group-title="ENTRETENIMIENTO", AMC en Español
 https://i.mjh.nz/SamsungTVPlus/USBD7000017L.m3u8
 
 #EXTINF:-1 tvg-id="USBC39000080S" group-title="ENTRETENIMIENTO", Canela TV
@@ -441,8 +441,6 @@ http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I644.80807.schedulesdirect.org" group-title="De Paga", TNT Latinoamerica
 
-
-
 #EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT Latinoamerica
 http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
 
@@ -458,7 +456,7 @@ https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:22_HD.smil/mani
 #EXTINF:-1 tvg-id="AMC" group-title="De Paga", AMC ES
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-id="M+ Acción" group-title="De Paga", M+ Accion 
+#EXTINF:-1 tvg-id="M Accion" group-title="De Paga", M+ Accion 
 http://924606346607321307.ofg0316.xyz:80/play/vi1229804/esDA4JqSWQTP/321307.ts
 
 
@@ -484,6 +482,10 @@ EXTINF:-1 tvg-id="I831.98111.schedulesdirect.org" group-title="De Paga", Warner
 
 EXTINF:-1 tvg-id="I212.19385.schedulesdirect.org" group-title="De Paga", Sony
 http://bantel.iptvperu.tv:1935/transcoder_t4/sonychannel_t4/playlist.m3u8
+
+EXTINF:-1 tvg-id="Sony" group-title="De Paga", Sony
+http://bantel.iptvperu.tv:1935/transcoder_t4/sonychannel_t4/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="SONY MOVIES" group-title="De Paga", Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
