@@ -257,14 +257,20 @@ http://stream.flynetwifi.com:1935/live/mobile-033/playlist.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx(m3u4u)" group-title="Sports", Tudn MX
 https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TUDN(Spanish).us(m3u4u)" group-title="Sports", TUDN2
-https://linear-383.frequency.stream/mt/studio/383/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="I693.75951.schedulesdirect.org" group-title="Sports", Vix
+#EXTINF:-1 tvg-id="I693.75951.schedulesdirect.org" group-title="Sports", 
 https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona Tudn
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+
+#EXTINF:-1 tvg-id="TUDN(Spanish).us(m3u4u)" group-title="Sports", TUDN1
+https://linear-380.frequency.stream/mt/studio/380/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TUDN(Spanish).us(m3u4u)" group-title="Sports", TUDN2
+https://linear-381.frequency.stream/mt/studio/381/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TUDN(Spanish).us(m3u4u)" group-title="Sports", TUDN3
+https://linear-383.frequency.stream/mt/studio/383/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="63f7e3f9dff38e00082a57af" group-title="Sports", ITV Deportes
 https://r.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
