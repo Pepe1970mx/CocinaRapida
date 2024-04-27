@@ -525,13 +525,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 #EXTINF:-1 tvg-id="Cartoon Network Sur" group-title="Kids", Cartoon Network 
 
 
-#EXTINF:-1 tvg-id="NICKELODEON" group-title="Kids", Nickelodeon 
+#EXTINF:-1 tvg-id="Nickelodeon Centro" group-title="Kids", Nickelodeon 
 http://bantel.iptvperu.tv:1935/transcoder_t4/nick_t4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DISNEY" group-title="Kids", Disney Channels
+#EXTINF:-1 tvg-id="Disney Channel" group-title="Kids", Disney Channels
 http://bantel.iptvperu.tv:1935/transcoder_t2/disneychannel_t2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Kids", TeenNick
+#EXTINF:-1 tvg-id="TeenNick" group-title="Kids", TeenNick
 http://bantel.iptvperu.tv:1935/transcoder_t4/nickteen_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-id"TOONCAST" group-title="Kids" , Tooncast 
