@@ -18,13 +18,13 @@ https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
 #EXTINF:-1 tvg-id="DISTRITO COMEDIA" group-title="VARIEDADES" , Distrito Comedia
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AZ CLIC" group-title="VARIEDADES" , Az Clic
+#EXTINF:-1 tvg-id="Azteca Clic" group-title="VARIEDADES" , Az Clic
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6469502df73356567a64ce8e.m3u8
 
-#EXTINF:-1 tvg-id="AZ CORAZON" group-title="VARIEDADES" , Az Corazón
+#EXTINF:-1 tvg-id="Azteca Corazon" group-title="VARIEDADES" , Az Corazón
 https://i.mjh.nz/SamsungTVPlus/ESBD1300003VN.m3u8
 
-#EXTINF:-1 tvg-id="AZ CINEMA" group-title="VARIEDADES" , Az Cinema
+#EXTINF:-1 tvg-id="Azteca Cinema" group-title="VARIEDADES" , Az Cinema
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64695233f73356567a64ce90.m3u8
 
 #EXTINF:-1 tvg-id="ESBD1300004IG" group-title="VARIEDADES" , Azteca Internacional
@@ -32,7 +32,7 @@ https://i.mjh.nz/SamsungTVPlus/ESBD1300004IG.m3u8
 
 EXTINF:-1 tvg-id="I85.46607.schedulesdirect.org" group-title="VARIEDADES" , Azteca Uno 
 
-#EXTINF:-1 tvg-id="AztecaUno.mx(m3u4u)" group-title="VARIEDADES" , Azteca Uno 
+#EXTINF:-1 tvg-id="Azteca Uno" group-title="VARIEDADES" , Azteca Uno 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 tvg-id="LasEstrellas.mx(m3u4u)" group-title="VARIEDADES" , Las Estrellas
@@ -47,7 +47,7 @@ https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="64e35aff6b1fdb0008ea8441" group-title="VARIEDADES" , Imagen TV HD 
 https://r.mjh.nz/PlutoTV/64e35aff6b1fdb0008ea8441-alt.m3u8
 
-#EXTINF:-1 tvg-id="Canal5.mx(m3u4u)" group-title="VARIEDADES" , Canal 5
+#EXTINF:-1 tvg-id="Canal 5" group-title="VARIEDADES" , Canal 5
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="VARIEDADES" , Multimedios
@@ -57,7 +57,7 @@ https://r.mjh.nz/PlutoTV/652e91fd6208700008dcaf7b-alt.m3u8
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 
 
-#EXTINF:-1 tvg-id="Azteca7.mx" group-title="VARIEDADES" , Azteca 7 
+#EXTINF:-1 tvg-id="Azteca7" group-title="VARIEDADES" , Azteca 7 
 
 #EXTINF:-1 tvg-id="Azteca7.mx(m3u4u)" group-title="VARIEDADES" , Azteca 7
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
