@@ -53,7 +53,7 @@ https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="VARIEDADES" , Multimedios
 https://r.mjh.nz/PlutoTV/652e91fd6208700008dcaf7b-alt.m3u8
 
-#EXTINF:-1 tvg-id="XHOAHTDT.mx(m3u4u)" group-title="VARIEDADES" , Seis Saltillo
+#EXTINF:-1 tvg-id="Canal6" group-title="VARIEDADES" , Seis Saltillo
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 
 #EXTINF:-1 tvg-id="Azteca7.mx(m3u4u)" group-title="VARIEDADES" , Azteca 7
@@ -69,12 +69,12 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-id="EL HERALDO" group-title="VARIEDADES" , El Heraldo TV
 https://live-b.cf.dmcdn.net/sec2(XwnZiL_-nv1Wak0TFBwBBsG73dKB_V-ZYr5DmwaAbjgNPSQKHiPIwzz5BEZg-iJNd1EZyPHT_YWID7mZqlS348VOE3h-431n1uLd98zWg3o)/dm/3/x88epch/d/live-4.m3u8
 
-#EXTINF:-1 tvg-id="NUEVE" group-title="VARIEDADES", Canal Nu9ve
+#EXTINF:-1 tvg-id="El Nueve" group-title="VARIEDADES", Canal Nu9ve
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 
 EXTINF:-1 tvg-id="I233.97020.schedulesdirect.org" group-title="VARIEDADES", Canal Nu9ve
 
-#EXTINF:-1 tvg-id="MVSTV.mx(m3u4u)" group-title="VARIEDADES", MVS TV 
+#EXTINF:-1 tvg-id="MVSTV.mx" group-title="VARIEDADES", MVS TV 
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 #EXTINF:-1 tvg-id="I448.15213.schedulesdirect.org" group-title="VARIEDADES", 
@@ -110,15 +110,15 @@ https://ythls.armelin.one/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 #EXTINF:-1 tvg-id="MeganoticiasMX.mx(m3u4u)" group-title="VARIEDADES", Meganoticias
 https://a37d474b6bb9441fa17e3e1ab3d55fce.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_MegaNoticias/playlist.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="VARIEDADES", Quiero TV
+#EXTINF:-1 tvg-id="QuieroTV.mx" group-title="VARIEDADES", Quiero TV
 https://stream.oursnetworktv.com/latin/encoder12/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I34.28440.schedulesdirect.org" group-title="VARIEDADES" ,
 
-#EXTINF:-1 tvg-id="XHGEMTDT.mx(m3u4u)" group-title="VARIEDADES" , TV Mexiquense 
+#EXTINF:-1 tvg-id="Mexiquense TV" group-title="VARIEDADES" , Mexiquense TV 
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
 
-#EXTINF:-1 tvg-id="Mariavision.mx(m3u4u)" group-title="VARIEDADES", Mariavision 
+#EXTINF:-1 tvg-id="Maria Vision" group-title="VARIEDADES", Mariavision 
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
 
