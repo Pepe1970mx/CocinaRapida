@@ -463,19 +463,18 @@ http://924606346607321307.ofg0316.xyz:80/play/vi1229804/esDA4JqSWQTP/321307.ts
 
 
 #EXTINF:-1 tvg-id="I911.68317.schedulesdirect.org" group-title="De Paga" ,Golden Plus
+
+#EXTINF:-1 tvg-id="Golden Plus" group-title="De Paga" ,Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="De Paga" ,Golden Premier 
+#EXTINF:-1 tvg-id="Golden Premier" group-title="De Paga" ,Golden Premier 
 https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GOLDEN" group-title="De Paga" ,Golden
+#EXTINF:-1 tvg-id="Golden" group-title="De Paga" ,Golden
 https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GOLDEN EDGE" group-title="De Paga" , Edge
+#EXTINF:-1 tvg-id="Golden Edge" group-title="De Paga" , Edge
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HBO" group-title="De Paga" , HBO 
-http://stream.flynetwifi.com:1935/live/mobile-015/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO 2" group-title="De Paga" , HBO 2
 
@@ -500,10 +499,14 @@ http://138.59.177.34:8000/play/a05s/index.m3u8
 http://138.59.177.34:8000/play/a053/index.m3u8
 
 
-#EXTINF:-1 tvg-id="I313.24553.schedulesdirect.org" group-title="De Paga" , HBO 
+#EXTINF:-1 tvg-id="I313.24553.schedulesdirect.org" group-title="De Paga" , HBO
+
+#EXTINF:-1 tvg-id="HBO" group-title="De Paga" , HBO
 http://138.59.177.34:8000/play/a01m/index.m3u8
 
 #EXTINF:-1 tvg-id="I350.34879.schedulesdirect.org" group-title="De Paga" , HBO Family
+
+#EXTINF:-1 tvg-id="HBO Family" group-title="De Paga" , HBO Family
 http://138.59.177.34:8000/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-id="I241.102862.schedulesdirect.org" group-title="De Paga", Fox Es
