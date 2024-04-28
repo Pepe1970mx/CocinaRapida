@@ -44,7 +44,7 @@ https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="las estrellas.pe" group-title="VARIEDADES", Las estrellas Latinoamerica
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ImagenTV.mx" group-title="VARIEDADES" , Imagen TV HD 
+#EXTINF:-1 tvg-id="64e35aff6b1fdb0008ea8441" group-title="VARIEDADES" , Imagen TV HD 
 https://r.mjh.nz/PlutoTV/64e35aff6b1fdb0008ea8441-alt.m3u8
 
 #EXTINF:-1 tvg-id="Canal 5" group-title="VARIEDADES" , Canal 5
@@ -74,7 +74,7 @@ https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 
 EXTINF:-1 tvg-id="I233.97020.schedulesdirect.org" group-title="VARIEDADES", Canal Nu9ve
 
-#EXTINF:-1 tvg-id="MVSTV.mx" group-title="VARIEDADES", MVS TV 
+#EXTINF:-1 tvg-id="MVSTV.mx" group-title="VARIEDADES", MVSTV.mx
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 #EXTINF:-1 tvg-id="I448.15213.schedulesdirect.org" group-title="VARIEDADES", 
@@ -107,10 +107,10 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Telever
 https://ythls.armelin.one/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 
-#EXTINF:-1 tvg-id="MeganoticiasMX.mx(m3u4u)" group-title="VARIEDADES", Meganoticias
+#EXTINF:-1 tvg-id="Meganoticias MX" group-title="VARIEDADES", Meganoticias
 https://a37d474b6bb9441fa17e3e1ab3d55fce.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_MegaNoticias/playlist.m3u8
 
-#EXTINF:-1 tvg-id="QuieroTV.mx" group-title="VARIEDADES", Quiero TV
+#EXTINF:-1 tvg-id="QuieroTV.mx" group-title="VARIEDADES", QuieroTV.mx
 https://stream.oursnetworktv.com/latin/encoder12/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I34.28440.schedulesdirect.org" group-title="VARIEDADES" ,
