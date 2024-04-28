@@ -98,7 +98,7 @@ EXTINF:-1 tvg-id="I14.98192.schedulesdirect.org" group-title="VARIEDADES" , Cana
 #EXTINF:-1 tvg-id="22 de Mexico" group-title="VARIEDADES" , CANAL 22 
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="XEIMTDT2.mx(m3u4u)" group-title="VARIEDADES" , CANAL 22.2 MX Nuestro Cine
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES" , CANAL 22.2 MX Nuestro Cine
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I503.36479.schedulesdirect.org" group-title="VARIEDADES" , Radio y Television de Veracruz (RTV) 
@@ -633,7 +633,7 @@ https://i.mjh.nz/SamsungTVPlus/ESBC2700002LO.m3u8
 EXTINF:-1 tvg-id="5dcde1317578340009b751d0" group-title="Series", Pluto TV Series
 https://r.mjh.nz/PlutoTV/5dcde1317578340009b751d0-alt.m3u8
 
-#EXTINF:-1 tvg-id="65cf6ab58145cb0008129ca8-alt" group-title="Series", Series Criminales
+#EXTINF:-1 tvg-id="65cf6ab58145cb0008129ca8" group-title="Series", Series Criminales
 https://r.mjh.nz/PlutoTV/65cf6ab58145cb0008129ca8-alt.m3u8
 
 #EXTINF:-1 tvg-id="62c5d80dc6de440007e033eb" group-title="Series", Runtime
@@ -645,22 +645,6 @@ https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 EXTINF:-1 tvg-id="5de802659167b10009e7deba" group-title="Series", Pluto TV Series Retro
 https://r.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-id="" group-title="Series", Chilevisual Retro
-https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="" group-title="Series", Chilevisual Kids
-https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="" group-title="Series", Chilevisual Classic
-https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="" group-title="Series", Channels Classic
-https://paneltv.online:1936/8046/8046/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="Teleclasica" group-title="Series" , Teleclasica 
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
@@ -670,13 +654,17 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w910290755.
 #EXTINF:-1 tvg-id="Dreiko TV" group-title="Series" , Dreiko TV 
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
-#EXTINF:-1  tvg-id="TeleRed" group-title="Series", TELERED 
-http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Telesistema" group-title="Series", Telesistema 
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="LIM TV" group-title="Series", Lim TV
+https://tv.invasivamedia.com/hls/limtv.m3u8
 
+#EXTINF:-1 tvg-id="RetroX TV" group-title="Series", Retro X
+https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
+
+#EXTINF:-1 tvg-id="TVS Retro" group-title="Series", TVS Retro
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 
 #EXTINF:-1 tvg-id="5f4d3696d938c900072679fd" tvg-logo=" " group-title="DOCUMENTALES", Historias de Ultratumba 
