@@ -405,7 +405,9 @@ http://38.41.8.1:8000/play/a0am
 #EXTINF:-1 tvg-id="Canal 9 de Color Visión (República Dominicana).do" group-title="ENTRETENIMIENTO", Colorvision
 https://live-c.cf.dmcdn.net/sec2(EjtpzKjB3-TWK7qq7Q8993wczHHPUaim0GsfspG6WH8QpqBW6vV5sjDxay6FHtscfx3XmMZjjbmhYw_BjHDvsboI-jnfgVBL99GwN6Quado)/dm/3/x7gy059/d/live-2.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", 
+#EXTINF:-1 tvg-id="Maxima TV" group-title="ENTRETENIMIENTO", Maxima TV
+https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="ElTrece.ar" group-title="ENTRETENIMIENTO", El trece AR
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
@@ -418,13 +420,13 @@ https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 group title="ENTRETENIMIENTO" , Planeta TV Movies
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8
 
-#EXTINF:-1 tvg-id="Planeta Tv Kids"  group-title="ENTRETENIMIENTO" , Planeta TV Kids
+#EXTINF:-1 tvg-id="PlanetaTV Kids"  group-title="ENTRETENIMIENTO" , Planeta TV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", WTV NI
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="ENTRETENIMIENTO", CocoTV
+#EXTINF:-1 tvg-id="Gen TV" tvg-logo=" " group-title="ENTRETENIMIENTO", CocoTV
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 
 #EXTINF:-1 tvg-id="Frecuencia Musical TV" group-title="ENTRETENIMIENTO", FM TV
