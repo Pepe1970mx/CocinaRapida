@@ -561,16 +561,16 @@ https://r.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
 https://i.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
 
 
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6018913ea15130002b28418f" group-title="Movies", Free TV Live
+EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6018913ea15130002b28418f" group-title="Movies", Free TV Live
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6018913ea15130002b28418f.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Movies", Free TV
-https://freetv.stream.olympusatmedia.com/index.m3u8?url=https%3A%2F%2Fwww.freetv.com%2Fpeliculas%2Ffreetv-8-2%2F&genre=Entretenimiento&ic=&us_privacy=&coppa=0&user_id=&ip=201.148.42.146&ipv6=&c_duration=3600&c_producer=freetv8.2&c_lang=es&ua=Mozilla%2F5.0+%28Linux%3B+Android+11%3B+SM-A022M+Build%2FRP1A.200720.012%3B+wv%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F108.0.5359.128+Mobile+Safari%2F537.36&hls_marker=1&content_channel=FreeTV+8.2&content_title=&content_genre=&gdpr=0&player_height=1080&player_width=1920&min_ad_duration=6&max_ad_duration=120
+https://freetv.stream.olympusatmedia.com/index.m3u8
 
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291" group-title="Movies", Free TV Accion
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
-#EXTINF:-1 tvg-id="ESBA3300039ZX" group-title="Movies", Free TV Estelar
+EXTINF:-1 tvg-id="ESBA3300039ZX" group-title="Movies", Free TV Estelar
 https://i.mjh.nz/SamsungTVPlus/ESBA3300039ZX.m3u8
 
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6018913fa15130002b284197" group-title="Movies", Free TV Sureño
@@ -589,13 +589,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
 
 
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-60240f57676235002df19f49" group-title="Movies", Free TV Familia
+EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-60240f57676235002df19f49" group-title="Movies", Free TV Familia
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntosco-lgco/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" group-title="Movies",Cine Premiere 
 https://r.mjh.nz/PlutoTV/5cf968040ab7d8f181e6a68b-alt.m3u8
 
-#EXTINF:-1 tvg-id="canela-cinema-0" group-title="Movies", Canela Cinema
+EXTINF:-1 tvg-id="canela-cinema-0" group-title="Movies", Canela Cinema
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgmx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESAJ45000181E" group-title="Movies" , Accion Rakuten 
@@ -604,8 +604,11 @@ https://i.mjh.nz/SamsungTVPlus/ESAJ45000181E.m3u8
 #EXTINF:-1 tvg-id="ESBD80000288" group-title="Movies", Runtime Accion
 https://i.mjh.nz/SamsungTVPlus/ESBD80000288.m3u8
 
-#EXTINF:-1 tvg-id="ESBA3300017FA" group-title="Movies", Familiares-Rakuten
+EXTINF:-1 tvg-id="ESBA3300017FA" group-title="Movies", Familiares-Rakuten
 https://i.mjh.nz/SamsungTVPlus/ESBA3300017FA.m3u8
+
+#EXTINF:-1 tvg-id="65786888b228b7000843ad9a" group-title="Movies", Pluto TV Zombies
+https://r.mjh.nz/PlutoTV/65786888b228b7000843ad9a-alt.m3u8
 
 #EXTINF:-1 tvg-id="5dcb62e63d4d8f0009f36881" group-title="Movies" , Pluto TV Cine Acción 
 https://r.mjh.nz/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8
@@ -613,7 +616,10 @@ https://r.mjh.nz/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8
 #EXTINF:-1 tvg-id="5e972a21ad709d00074195ba" group-title="Movies" , Pluto TV Estrellas En Accion
 https://r.mjh.nz/PlutoTV/5e972a21ad709d00074195ba-alt.m3u8
 
-#EXTINF:-1 tvg-id="5dcde437229eff00091b6c30" group-title="Movies" , Pluto TV Cine Estelar
+#EXTINF:-1 tvg-id="5e972a21ad709d00074195ba" group-title="Movies" , Hallmark en Español 
+https://r.mjh.nz/PlutoTV/6532e7b290a74c00084a3bb6-alt.m3u8
+
+EXTINF:-1 tvg-id="5dcde437229eff00091b6c30" group-title="Movies" , Pluto TV Cine Estelar
 https://r.mjh.nz/PlutoTV/5dcde437229eff00091b6c30-alt.m3u8
 
 #EXTINF:-1 tvg-id="5f2817d3d7573a00080f9175" group-title="Movies",Pluto TV Sci-Fi 
