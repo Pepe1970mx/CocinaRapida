@@ -18,16 +18,16 @@ https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
 #EXTINF:-1 tvg-id="Distrito Comedia" group-title="VARIEDADES" , Distrito Comedia
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Azteca Clic" group-title="VARIEDADES" , Az Clic
+EXTINF:-1 tvg-id="Azteca Clic" group-title="VARIEDADES" , Az Clic
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6469502df73356567a64ce8e.m3u8
 
-#EXTINF:-1 tvg-id="Azteca Corazon" group-title="VARIEDADES" , Az Corazón
+EXTINF:-1 tvg-id="Azteca Corazon" group-title="VARIEDADES" , Az Corazón
 https://i.mjh.nz/SamsungTVPlus/ESBD1300003VN.m3u8
 
 #EXTINF:-1 tvg-id="Azteca Cinema" group-title="VARIEDADES" , Az Cinema
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64695233f73356567a64ce90.m3u8
 
-#EXTINF:-1 tvg-id="Azteca Mundo" group-title="VARIEDADES" , Azteca Internacional
+EXTINF:-1 tvg-id="Azteca Mundo" group-title="VARIEDADES" , Azteca Internacional
 https://i.mjh.nz/SamsungTVPlus/ESBD1300004IG.m3u8
 
 EXTINF:-1 tvg-id="I85.46607.schedulesdirect.org" group-title="VARIEDADES" , Azteca Uno 
@@ -39,9 +39,9 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
 
 EXTINF:-1 tvg-id="I403.16257.schedulesdirect.org" group-title="VARIEDADES", Las estrellas Internacional
-https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="las estrellas.pe" group-title="VARIEDADES", Las estrellas Latinoamerica
+
+EXTINF:-1 tvg-id="las estrellas.pe" group-title="VARIEDADES", Las estrellas Latinoamerica
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="64e35aff6b1fdb0008ea8441" group-title="VARIEDADES" , Imagen TV HD 
