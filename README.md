@@ -116,8 +116,6 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
 
 
-#EXTINF:-1 group-title="NOTICIAS", Nmedia+ 
-https://linear-301.frequency.stream/dist/vix/301/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ForoTV.mx(m3u4u)" group-title="NOTICIAS", Foro TV 
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
