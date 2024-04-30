@@ -36,15 +36,16 @@ EXTINF:-1 tvg-id="I85.46607.schedulesdirect.org" group-title="VARIEDADES" , Azte
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 tvg-id="Las Estrellas" group-title="VARIEDADES" , Las Estrellas
-https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 
 EXTINF:-1 tvg-id="I403.16257.schedulesdirect.org" group-title="VARIEDADES", Las estrellas Internacional
-
 
 EXTINF:-1 tvg-id="las estrellas.pe" group-title="VARIEDADES", Las estrellas Latinoamerica
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="64e35aff6b1fdb0008ea8441" group-title="VARIEDADES" , Imagen TV HD 
+#EXTINF:-1 tvg-id="64e35aff6b1fdb0008ea8441" group-title="VARIEDADES" , Imagen TV HD
+https://ythls-v2.onrender.com/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
+
 https://r.mjh.nz/PlutoTV/64e35aff6b1fdb0008ea8441-alt.m3u8
 
 #EXTINF:-1 tvg-id="Canal 5" group-title="VARIEDADES" , Canal 5
@@ -56,8 +57,6 @@ https://r.mjh.nz/PlutoTV/652e91fd6208700008dcaf7b-alt.m3u8
 #EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" group-title="VARIEDADES" , Seis Saltillo
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 
-#EXTINF:-1 tvg-id="Azteca7.mx(m3u4u)" group-title="VARIEDADES" , Azteca 7
-
 #EXTINF:-1 tvg-id="Azteca7" group-title="VARIEDADES" , Azteca 7
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
@@ -67,26 +66,20 @@ https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-id="EL HERALDO" group-title="VARIEDADES" , El Heraldo TV
-https://live-b.cf.dmcdn.net/sec2(XwnZiL_-nv1Wak0TFBwBBsG73dKB_V-ZYr5DmwaAbjgNPSQKHiPIwzz5BEZg-iJNd1EZyPHT_YWID7mZqlS348VOE3h-431n1uLd98zWg3o)/dm/3/x88epch/d/live-4.m3u8
+
 
 #EXTINF:-1 tvg-id="El Nueve" group-title="VARIEDADES", Canal Nu9ve
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 
 EXTINF:-1 tvg-id="I233.97020.schedulesdirect.org" group-title="VARIEDADES", Canal Nu9ve
 
-#EXTINF:-1 tvg-id="MVSTV.mx" group-title="VARIEDADES", MVSTV.mx
+#EXTINF:-1 tvg-id="MVSTV.mx" group-title="VARIEDADES", MVSTV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 #EXTINF:-1 tvg-id="I448.15213.schedulesdirect.org" group-title="VARIEDADES", 
 
-#EXTINF:-1 tvg-id="" group-title="VARIEDADES", EclipseTV 
-
-
-#EXTINF:-1 tvg-id="Canal Once" group-title="VARIEDADES", Canal Once 
-https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES", Canal 13 Tabasco
-
+#EXTINF:-1 tvg-id="Canal Once" group-title="VARIEDADES", Canal Once
+https://d2mqwgsb5fhf0p.cloudfront.net/0480d5726ab379f6d8ff8c7754578156/index.m3u8
 
 #EXTINF:-1 tvg-id="14 de Mexico" group-title="VARIEDADES" , Canal 14 
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
@@ -209,14 +202,12 @@ https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" group-title="Sports", beIN Sport Xtra en Español
 https://r.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 
-EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" group-title="Sports", Azteca Deportes Network 
-https://r.mjh.nz/PlutoTV/65cf60d166eec80008724e6f-alt.m3u8
-
 #EXTINF:-1 tvg-id="6320d2755e54db000783fd87" group-title="Sports", Claro Sports México 
+https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
+
 https://r.mjh.nz/PlutoTV/6320d2755e54db000783fd87-alt.m3u8
 
 #EXTINF:-1 tvg-id="FoxDeportes(Spanish).us(m3u4u)" group-title="Sports", Fox Deportes 
-http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" group-title="Sports", Fox sports en español
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
@@ -224,27 +215,27 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,F
 #EXTINF:-1 tvg-id="I505.41677.schedulesdirect.org" group-title="Sports", Fox Premium
 
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx(m3u4u)" group-title="Sports", Fox Sport Latinoamerica
-http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx(m3u4u)" group-title="Sports", Fox sport 2 Latinoamerica
-http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="I506.66365.schedulesdirect.org" group-title="Sports", 
 
 #EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx(m3u4u)" group-title="Sports", Fox sport 3 Latinoamerica
-http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us(m3u4u)" group-title="Sports", Espn Deportes 
 
 #EXTINF:-1 tvg-id="I854.25595.schedulesdirect.org" group-title="Sports", 
 
 #EXTINF:-1 tvg-id="ESPN.mx(m3u4u)" group-title="Sports", Espn Latinoamerica
-http://stream.flynetwifi.com:1935/live/mobile-032/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="I509.19158.schedulesdirect.org" group-title="Sports", 
 
 #EXTINF:-1 tvg-id="ESPN2.mx(m3u4u)" group-title="Sports", Espn 2 Latinoamerica
-http://stream.flynetwifi.com:1935/live/mobile-033/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="I508.37747.schedulesdirect.org" group-title="Sports", 
 
@@ -256,10 +247,10 @@ http://stream.flynetwifi.com:1935/live/mobile-033/playlist.m3u8
 #EXTINF:-1 tvg-id="TUDN" group-title="Sports", Tudn MX
 https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I693.75951.schedulesdirect.org" group-title="Sports", Zona TUDN
+#EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN Vix
 https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN2
+#EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
 #EXTINF:-1 tvg-id="TUDN USA" group-title="Sports", TUDN1
@@ -271,20 +262,19 @@ https://linear-381.frequency.stream/mt/studio/381/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TUDN(Spanish).us(m3u4u)" group-title="Sports", TUDN3
 https://linear-383.frequency.stream/mt/studio/383/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Sports", MLB Vix
+https://linear-508.frequency.stream/mt/studio/508/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="63f7e3f9dff38e00082a57af" group-title="Sports", ITV Deportes
 https://r.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
 
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0"  group-title="Sports", AyM sports
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports", Canela Deportes
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5759
+#EXTINF:-1 tvg-id="M La Liga" group-title="Sports", Sky Sports La Liga Vix
+https://linear-506.frequency.stream/mt/studio/506/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports", Sky Sports La Liga
 http://lsy3kcct.akciatv.ru/iptv/8YRETNK5CZU46C/6073/index.m3u8
-
-#EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network 
-
 
 #EXTINF:-1 tvg-id="WAPA 2 Deportes" group-title="Sports", Wapa Deportes
 https://live.field59.com/wapa/wapa2/.m3u8
@@ -292,7 +282,13 @@ https://live.field59.com/wapa/wapa2/.m3u8
 #EXTINF:-1 tvg-id="64b79c057d934100080b3583" group-title="Sports", Dazn Internacional Futbol
 https://r.mjh.nz/PlutoTV/64b79c057d934100080b3583-alt.m3u8
 
+EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network 
 
+EXTINF:-1 tvg-id="" group-title="Sports", Canela Deportes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5759
+
+EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" group-title="Sports", Azteca Deportes Network 
+https://r.mjh.nz/PlutoTV/65cf60d166eec80008724e6f-alt.m3u8
 
 
 #EXTINF:-1 tvg-id="62fa81ccd1a7e90007c1ada0" group-title="ENTRETENIMIENTO", AMC en Español
@@ -388,25 +384,17 @@ https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 #EXTINF:-1 tvg-id="ecuavisa.ec" group-title="ENTRETENIMIENTO" , Ecuavisa EC
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
 
-#EXTINF:-1 tvg-id="Teleamazonas.ec" group-title="ENTRETENIMIENTO" , Teleamazonas EC
-https://live.tvcontrolcp.com:1936/8054/8054/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Max" group-title="ENTRETENIMIENTO" , TV Max
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="Canal 15 (Digital Quince Telemicro) (República Dominicana).do" group-title="ENTRETENIMIENTO", Canal 15 Telemicro RD
-http://51.81.93.29:8084/hls/d15.m3u8
-
-#EXTINF:-1 tvg-id="Canal 5 de República Dominicana (Telemicro).do" group-title="ENTRETENIMIENTO", Canal 5 Telemicro RD
-http://51.81.93.239:8084/hls/tmicro.m3u8
 
 #EXTINF:-1 tvg-id="Canal Telesistema 11 (República Dominicana).do" group-title="ENTRETENIMIENTO", Telesistema
 http://38.41.8.1:8000/play/a0am
 
 
 
-#EXTINF:-1 tvg-id="Canal 9 de Color Visión (República Dominicana).do" group-title="ENTRETENIMIENTO", Colorvision
-https://live-c.cf.dmcdn.net/sec2(EjtpzKjB3-TWK7qq7Q8993wczHHPUaim0GsfspG6WH8QpqBW6vV5sjDxay6FHtscfx3XmMZjjbmhYw_BjHDvsboI-jnfgVBL99GwN6Quado)/dm/3/x7gy059/d/live-2.m3u8
-
 #EXTINF:-1 tvg-id="Maxima TV" group-title="ENTRETENIMIENTO", Maxima TV
-https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-id="ElTrece.ar" group-title="ENTRETENIMIENTO", El trece AR
@@ -417,16 +405,16 @@ https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
 
-#EXTINF:-1 group title="ENTRETENIMIENTO" , Planeta TV Movies
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV Movies
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8
 
 #EXTINF:-1 tvg-id="PlanetaTV Kids"  group-title="ENTRETENIMIENTO" , Planeta TV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", WTV NI
+EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", WTV NI
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
-#EXTINF:-1 tvg-id="Gen TV" tvg-logo=" " group-title="ENTRETENIMIENTO", CocoTV
+EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", CocoTV
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 
 #EXTINF:-1 tvg-id="Frecuencia Musical TV" group-title="ENTRETENIMIENTO", FM TV
@@ -436,18 +424,21 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 
+
+
+
 EXTINF:-1 tvg-id="I528.88534.schedulesdirect.org" group-title="De Paga", Star Channels Latinoamerica
 
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel
-http://stream.flynetwifi.com:1935/live/mobile-057/playlist.m3u8
+http://186.103.142.222:8000/play/a07d/index.m3u8
 
 #EXTINF:-1 tvg-id="I644.80807.schedulesdirect.org" group-title="De Paga", TNT Latinoamerica
 
 #EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT Latinoamerica
-http://stream.flynetwifi.com:1935/live/mobile-074/playlist.m3u8
+http://181.78.105.146:2000/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-id="Warner Channel" group-title="De Paga", Warner 
-http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Space" group-title="De Paga", Space
 http://138.59.177.34:8000/play/a02c/index.m3u8
@@ -516,6 +507,11 @@ http://138.59.177.34:8000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="I241.102862.schedulesdirect.org" group-title="De Paga", Fox Es
 
 
+#EXTINF:-1 tvg-id="De Pelicula Plus" group-title="De Paga" , De Pelicula Plus
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:85_HD.smil/manifest.m3u8
+
 
 #EXTINF:-1 tvg-id="Boing Espana" group-title="Kids", Boing
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
@@ -523,8 +519,8 @@ https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index
 #EXTINF:-1 tvg-id="ESBC4100003WE" group-title="Kids" , Clan
 https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
 
-#EXTINF:-1 tvg-id="canela-kids" group-title="Kids" , Canela Kids
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+#EXTINF:-1 tvg-id="" group-title="Kids" , Disney ES
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network Sur" group-title="Kids", Cartoon Network 
 
@@ -561,6 +557,12 @@ https://r.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
 
 #EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="Kids", Los Tres Chiflados
 https://i.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
+
+EXTINF:-1 tvg-id="canela-kids" group-title="Kids" , Canela Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+
+
+
 
 
 EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6018913ea15130002b28418f" group-title="Movies", Free TV Live
