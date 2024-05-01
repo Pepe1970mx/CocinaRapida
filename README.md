@@ -30,109 +30,117 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64695233f73356567a64ce90.m3u8
 EXTINF:-1 tvg-id="Azteca Mundo" group-title="VARIEDADES" , Azteca Internacional
 https://i.mjh.nz/SamsungTVPlus/ESBD1300004IG.m3u8
 
-EXTINF:-1 tvg-id="I85.46607.schedulesdirect.org" group-title="VARIEDADES" , Azteca Uno 
+EXTINF:-1 tvg-id="I85.46607.schedulesdirect.org" group-title="NACIONAL" , Azteca Uno 
 
-#EXTINF:-1 tvg-id="Azteca Uno" group-title="VARIEDADES" , Azteca Uno 
+#EXTINF:-1 tvg-id="Azteca Uno" group-title="NACIONAL" , Azteca Uno 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-id="Las Estrellas" group-title="VARIEDADES" , Las Estrellas
+#EXTINF:-1 tvg-id="646ccd3681844c000974d6f4" group-title="NACIONAL", ADN 40 
+https://r.mjh.nz/PlutoTV/646ccd3681844c000974d6f4-alt.m3u8
+
+#EXTINF:-1 tvg-id="Las Estrellas" group-title="NACIONAL" , Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 
 EXTINF:-1 tvg-id="I403.16257.schedulesdirect.org" group-title="VARIEDADES", Las estrellas Internacional
 
-EXTINF:-1 tvg-id="las estrellas.pe" group-title="VARIEDADES", Las estrellas Latinoamerica
+EXTINF:-1 tvg-id="las estrellas.pe" group-title="NACIONAL", Las estrellas Latinoamerica
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="64e35aff6b1fdb0008ea8441" group-title="VARIEDADES" , Imagen TV HD
+#EXTINF:-1 tvg-id="64e35aff6b1fdb0008ea8441" group-title="NACIONAL", Imagen TV HD
 https://ythls-v2.onrender.com/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 
 https://r.mjh.nz/PlutoTV/64e35aff6b1fdb0008ea8441-alt.m3u8
 
-#EXTINF:-1 tvg-id="Canal 5" group-title="VARIEDADES" , Canal 5
+#EXTINF:-1 tvg-id="I28.82353.schedulesdirect.org" group-title="NACIONAL",  Exelsior TV
+
+#EXTINF:-1 tvg-id="Foro TV" group-title="NACIONAL", Foro TV 
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
+
+#EXTINF:-1 tvg-id="Canal 5" group-title="NACIONAL", Canal 5
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="VARIEDADES" , Multimedios
+#EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Multimedios
 https://r.mjh.nz/PlutoTV/652e91fd6208700008dcaf7b-alt.m3u8
+
+#EXTINF:-1 tvg-id="652e922db4b047000825f975" group-title="NACIONAL" , Milenio Television
+https://r.mjh.nz/PlutoTV/652e922db4b047000825f975-alt.m3u8
 
 #EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" group-title="VARIEDADES" , Seis Saltillo
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 
-#EXTINF:-1 tvg-id="Azteca7" group-title="VARIEDADES" , Azteca 7
+#EXTINF:-1 tvg-id="Azteca7" group-title="NACIONAL", Azteca 7
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
 #EXTINF:-1 tvg-id="I107.102406.schedulesdirect.org" group-title="VARIEDADES" , Azteca 7 
 
-#EXTINF:-1 tvg-id="A Mas" group-title="VARIEDADES" , A+ 
+#EXTINF:-1 tvg-id="A Mas" group-title="NACIONAL", A+ 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-id="EL HERALDO" group-title="VARIEDADES" , El Heraldo TV
 
+#EXTINF:-1 " tvg-id="3d2c140c111bc0008cb890b" group-title="NACIONAL" , TeleFormula
+https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
 
-#EXTINF:-1 tvg-id="El Nueve" group-title="VARIEDADES", Canal Nu9ve
+#EXTINF:-1 tvg-id="El Nueve" group-title="NACIONAL", Canal Nu9ve
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 
 EXTINF:-1 tvg-id="I233.97020.schedulesdirect.org" group-title="VARIEDADES", Canal Nu9ve
 
-#EXTINF:-1 tvg-id="MVSTV.mx" group-title="VARIEDADES", MVSTV
+#EXTINF:-1 tvg-id="MVSTV.mx" group-title="NACIONAL", MVSTV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 #EXTINF:-1 tvg-id="I448.15213.schedulesdirect.org" group-title="VARIEDADES", 
 
-#EXTINF:-1 tvg-id="Canal Once" group-title="VARIEDADES", Canal Once
+#EXTINF:-1 tvg-id="Canal Once" group-title="NACIONAL", Canal Once
 https://d2mqwgsb5fhf0p.cloudfront.net/0480d5726ab379f6d8ff8c7754578156/index.m3u8
 
-#EXTINF:-1 tvg-id="14 de Mexico" group-title="VARIEDADES" , Canal 14 
+#EXTINF:-1 tvg-id="14 de Mexico" group-title="NACIONAL" , Canal 14 
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 
 EXTINF:-1 tvg-id="I14.98192.schedulesdirect.org" group-title="VARIEDADES" , Canal 14 
 
-#EXTINF:-1 tvg-id="I100.91060.schedulesdirect.org" tvg-logo=" " group-title="VARIEDADES" , CANAL 22 
+#EXTINF:-1 tvg-id="I100.91060.schedulesdirect.or", group-title="VARIEDADES" , CANAL 22 
 
-#EXTINF:-1 tvg-id="22 de Mexico" group-title="VARIEDADES" , CANAL 22 
+#EXTINF:-1 tvg-id="22 de Mexico" group-title="NACIONAL" , CANAL 22 
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="VARIEDADES" , CANAL 22.2 MX Nuestro Cine
+#EXTINF:-1 tvg-id="Nuestro Cine" group-title="NACIONAL" , CANAL 22.2 MX Nuestro Cine
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I503.36479.schedulesdirect.org" group-title="VARIEDADES" , Radio y Television de Veracruz (RTV) 
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo=" " group-title="VARIEDADES", Telever
+#EXTINF:-1 tvg-id="" group-title="NACIONAL", Telever
 https://ythls.armelin.one/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 
-#EXTINF:-1 tvg-id="Meganoticias MX" group-title="VARIEDADES", Meganoticias
+#EXTINF:-1 tvg-id="Meganoticias MX" group-title="NACIONAL", Meganoticias
 https://a37d474b6bb9441fa17e3e1ab3d55fce.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_MegaNoticias/playlist.m3u8
 
-#EXTINF:-1 tvg-id="QuieroTV.mx" group-title="VARIEDADES", QuieroTV.mx
+#EXTINF:-1 tvg-id="QuieroTV.mx" group-title="NACIONAL", QuieroTV.mx
 https://stream.oursnetworktv.com/latin/encoder12/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I34.28440.schedulesdirect.org" group-title="VARIEDADES" ,
 
-#EXTINF:-1 tvg-id="Mexiquense TV" group-title="VARIEDADES" , Mexiquense TV 
+#EXTINF:-1 tvg-id="Mexiquense TV" group-title="NACIONAL" , Mexiquense TV 
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
 
-#EXTINF:-1 tvg-id="Maria Vision" group-title="VARIEDADES", Mariavision 
+#EXTINF:-1 tvg-id="Maria Vision" group-title="NACIONAL", Mariavision 
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="ForoTV.mx(m3u4u)" group-title="NOTICIAS", Foro TV 
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
+
 
 EXTINF:-1 tvg-id="I292.6635.schedulesdirect.org" group-title="NOTICIAS", Foro TV
 
-#EXTINF:-1 tvg-id="646ccd3681844c000974d6f4" group-title="NOTICIAS", ADN 40 
-https://r.mjh.nz/PlutoTV/646ccd3681844c000974d6f4-alt.m3u8
 
-#EXTINF:-1 tvg-id="652e922db4b047000825f975" group-title="NOTICIAS" , Milenio Television
-https://r.mjh.nz/PlutoTV/652e922db4b047000825f975-alt.m3u8
 
-#EXTINF:-1 " tvg-id="3d2c140c111bc0008cb890b" group-title="NOTICIAS" , TeleFormula
-https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
 
-#EXTINF:-1 tvg-id="I28.82353.schedulesdirect.org" group-title="NOTICIAS",  Exelsior TV
-https://ythls.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="I150.87311.schedulesdirect.org" group-title="NOTICIAS", El Financiero - Bloomberg TV
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
