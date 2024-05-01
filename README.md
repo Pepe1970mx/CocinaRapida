@@ -107,7 +107,7 @@ https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Nuestro Cine" group-title="NACIONAL" , CANAL 22.2 MX Nuestro Cine
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I503.36479.schedulesdirect.org" group-title="VARIEDADES" , Radio y Television de Veracruz (RTV) 
+#EXTINF:-1 tvg-id="I503.36479.schedulesdirect.org" group-title="NACIONAL", Radio y Television de Veracruz (RTV) 
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="NACIONAL", Telever
@@ -127,19 +127,7 @@ https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649
 #EXTINF:-1 tvg-id="Maria Vision" group-title="NACIONAL", Mariavision 
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
-
-
-
-
-
 EXTINF:-1 tvg-id="I292.6635.schedulesdirect.org" group-title="NOTICIAS", Foro TV
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="I150.87311.schedulesdirect.org" group-title="NOTICIAS", El Financiero - Bloomberg TV
@@ -199,8 +187,6 @@ https://i.mjh.nz/SamsungTVPlus/USBA300040WR.m3u8
 
 #EXTINF:-1  tvg-id="WAPA TV"  group-title="US Español" , Wapa
 https://live.field59.com/wapa/wapa1/playlist.m3u8
-
-
 
 https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
 
@@ -297,11 +283,42 @@ EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" group-title="Sports", Azteca Deporte
 https://r.mjh.nz/PlutoTV/65cf60d166eec80008724e6f-alt.m3u8
 
 
+
+
 #EXTINF:-1 tvg-id="62fa81ccd1a7e90007c1ada0" group-title="ENTRETENIMIENTO", AMC en Español
 https://i.mjh.nz/SamsungTVPlus/USBD7000017L.m3u8
 
 #EXTINF:-1 tvg-id="USBC39000080S" group-title="ENTRETENIMIENTO", Canela TV
 https://i.mjh.nz/SamsungTVPlus/USBC39000080S.m3u8
+
+#EXTINF:-1 tvg-id="65cf6ab58145cb0008129ca8" group-title="Series", Series Criminales
+https://r.mjh.nz/PlutoTV/65cf6ab58145cb0008129ca8-alt.m3u8
+
+#EXTINF:-1 tvg-id="62c5d80dc6de440007e033eb" group-title="Series", Runtime
+https://r.mjh.nz/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
+
+#EXTINF:-1 tvg-id="63eb947c4e83e70008ab877b" group-title="Series", NCIS
+https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
+
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
+https://live.obslivestream.com/planetatv/index.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV Movies
+https://scl.edge.grupoz.cl/movie/live/movie.m3u8
+
+#EXTINF:-1 tvg-id="PlanetaTV Kids"  group-title="ENTRETENIMIENTO" , Planeta TV Kids
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Frecuencia Musical TV" group-title="ENTRETENIMIENTO", FM TV
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , Telesur CR
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+
 
 #EXTINF:-1 tvg-id="Canal4.sv" group-title="ENTRETENIMIENTO", Canal 4 SV
 https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
@@ -367,8 +384,7 @@ https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="Canal 13 de Costa Rica" group-title="ENTRETENIMIENTO" , Canal 13 CR
 https://250weu.bozztv.com/ssh101/ssh101/sinart13/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , Telesur CR
-https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+
 
 #EXTINF:-1 tvg-id="Telefuturo.py" group-title="ENTRETENIMIENTO" , Telefuturo PA
 https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_alta/playlist.m3u8?k=cc45d0f50be27f473caa42642ae3529ba5b34c85cd48ee4cf0181269fcdf20a3&exp=1713136504
@@ -408,14 +424,7 @@ https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" group-title="ENTRETENIMIENTO", Ciudad Magazine
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
-https://live.obslivestream.com/planetatv/index.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV Movies
-https://scl.edge.grupoz.cl/movie/live/movie.m3u8
-
-#EXTINF:-1 tvg-id="PlanetaTV Kids"  group-title="ENTRETENIMIENTO" , Planeta TV Kids
-https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
 
 EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", WTV NI
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
@@ -423,11 +432,7 @@ https://cloudvideo.servers10.com:8081/8130/index.m3u8
 EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", CocoTV
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 
-#EXTINF:-1 tvg-id="Frecuencia Musical TV" group-title="ENTRETENIMIENTO", FM TV
-https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 
 
@@ -648,15 +653,6 @@ https://i.mjh.nz/SamsungTVPlus/ESBC2700002LO.m3u8
 
 EXTINF:-1 tvg-id="5dcde1317578340009b751d0" group-title="Series", Pluto TV Series
 https://r.mjh.nz/PlutoTV/5dcde1317578340009b751d0-alt.m3u8
-
-#EXTINF:-1 tvg-id="65cf6ab58145cb0008129ca8" group-title="Series", Series Criminales
-https://r.mjh.nz/PlutoTV/65cf6ab58145cb0008129ca8-alt.m3u8
-
-#EXTINF:-1 tvg-id="62c5d80dc6de440007e033eb" group-title="Series", Runtime
-https://r.mjh.nz/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
-
-#EXTINF:-1 tvg-id="63eb947c4e83e70008ab877b" group-title="Series", NCIS
-https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 
 EXTINF:-1 tvg-id="5de802659167b10009e7deba" group-title="Series", Pluto TV Series Retro
 https://r.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
