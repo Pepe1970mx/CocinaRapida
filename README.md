@@ -239,10 +239,10 @@ http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN_t2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TUDN" group-title="Sports", Tudn MX
 https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN Vix
+#EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN MX
 https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN
+#EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN USA
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
 #EXTINF:-1 tvg-id="TUDN USA" group-title="Sports", TUDN1
@@ -253,6 +253,10 @@ https://linear-381.frequency.stream/mt/studio/381/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TUDN(Spanish).us(m3u4u)" group-title="Sports", TUDN3
 https://linear-383.frequency.stream/mt/studio/383/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TUDN(Spanish).us(m3u4u)" group-title="Sports", TUDN Champions 
+https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" group-title="Sports", MLB Vix
 https://linear-508.frequency.stream/mt/studio/508/hls/master/playlist.m3u8
