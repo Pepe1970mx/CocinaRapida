@@ -221,8 +221,8 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,F
 
 #EXTINF:-1 tvg-id="I854.25595.schedulesdirect.org" group-title="Sports", 
 
-#EXTINF:-1 tvg-id="ESPN.mx(m3u4u)" group-title="Sports", Espn Latinoamerica
-
+#EXTINF:-1 tvg-id="ESPN.mx(m3u4u)" group-title="Sports", Espn
+http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN_t2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I509.19158.schedulesdirect.org" group-title="Sports", 
 
