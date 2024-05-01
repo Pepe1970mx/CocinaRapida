@@ -291,13 +291,13 @@ https://i.mjh.nz/SamsungTVPlus/USBD7000017L.m3u8
 #EXTINF:-1 tvg-id="USBC39000080S" group-title="ENTRETENIMIENTO", Canela TV
 https://i.mjh.nz/SamsungTVPlus/USBC39000080S.m3u8
 
-#EXTINF:-1 tvg-id="65cf6ab58145cb0008129ca8" group-title="Series", Series Criminales
+#EXTINF:-1 tvg-id="65cf6ab58145cb0008129ca8" group-title="ENTRETENIMIENTO", Series Criminales
 https://r.mjh.nz/PlutoTV/65cf6ab58145cb0008129ca8-alt.m3u8
 
-#EXTINF:-1 tvg-id="62c5d80dc6de440007e033eb" group-title="Series", Runtime
+#EXTINF:-1 tvg-id="62c5d80dc6de440007e033eb" group-title="ENTRETENIMIENTO", Runtime
 https://r.mjh.nz/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
 
-#EXTINF:-1 tvg-id="63eb947c4e83e70008ab877b" group-title="Series", NCIS
+#EXTINF:-1 tvg-id="63eb947c4e83e70008ab877b" group-title="ENTRETENIMIENTO", NCIS
 https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 
 
@@ -444,6 +444,8 @@ EXTINF:-1 tvg-id="I528.88534.schedulesdirect.org" group-title="De Paga", Star Ch
 http://186.103.142.222:8000/play/a07d/index.m3u8
 
 #EXTINF:-1 tvg-id="I644.80807.schedulesdirect.org" group-title="De Paga", TNT Latinoamerica
+65cf6ab58145cb0008129ca8
+
 
 #EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT Latinoamerica
 http://181.78.105.146:2000/play/a018/index.m3u8
