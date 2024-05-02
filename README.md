@@ -16,6 +16,8 @@ https://linear-313.frequency.stream/mt/studio/313/hls/master/playlist.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
 
 #EXTINF:-1 tvg-id="Distrito Comedia" group-title="VARIEDADES" , Distrito Comedia
+
+#EXTINF:-1 tvg-id="201" group-title="VARIEDADES" , Distrito Comedia
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 
 EXTINF:-1 tvg-id="Azteca Clic" group-title="VARIEDADES" , Az Clic
@@ -41,7 +43,7 @@ https://r.mjh.nz/PlutoTV/646ccd3681844c000974d6f4-alt.m3u8
 #EXTINF:-1 tvg-id="Las Estrellas" group-title="NACIONAL" , Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 
-EXTINF:-1 tvg-id="I403.16257.schedulesdirect.org" group-title="VARIEDADES", Las estrellas Internacional
+EXTINF:-1 tvg-id="102" group-title="VARIEDADES", Las estrellas Internacional
 
 EXTINF:-1 tvg-id="las estrellas.pe" group-title="NACIONAL", Las estrellas Latinoamerica
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
@@ -158,7 +160,7 @@ https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo" group-title="US Español", Telemundo
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo Mexico" group-title="US Español", Telemundo
+#EXTINF:-1 tvg-id="205" group-title="US Español", Telemundo
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65880
 
 #EXTINF:-1 tvg-id="Universo" group-title="US Español", Universo
