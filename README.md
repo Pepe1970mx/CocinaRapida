@@ -238,7 +238,7 @@ http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN_t2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I510.79042.schedulesdirect.org" group-title="Sports", 
 
-#EXTINF:-1 tvg-id="TUDN" group-title="Sports", Tudn MX
+#EXTINF:-1 tvg-id="TUDN" group-title="Sports", Tudn 
 https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN MX
@@ -255,6 +255,9 @@ https://linear-381.frequency.stream/mt/studio/381/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TUDN(Spanish).us(m3u4u)" group-title="Sports", TUDN3
 https://linear-383.frequency.stream/mt/studio/383/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TUDN(Spanish).us(m3u4u)" group-title="Sports", TUDN
+https://linear-384.frequency.stream/mt/studio/384/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TUDN(Spanish).us(m3u4u)" group-title="Sports", TUDN Champions 
 https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
