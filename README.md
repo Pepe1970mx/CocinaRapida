@@ -17,7 +17,7 @@ https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
 
 #EXTINF:-1 tvg-id="Distrito Comedia" group-title="VARIEDADES" , Distrito Comedia
 
-#EXTINF:-1 tvg-id="201" group-title="VARIEDADES" , Distrito Comedia
+#EXTINF:-1 tvg-id="Distrito Comedia" group-title="VARIEDADES" , Distrito Comedia
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 
 EXTINF:-1 tvg-id="Azteca Clic" group-title="VARIEDADES" , Az Clic
@@ -80,7 +80,7 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-id="EL HERALDO" group-title="VARIEDADES" , El Heraldo TV
 
-#EXTINF:-1 " tvg-id="3d2c140c111bc0008cb890b" group-title="NACIONAL" , TeleFormula
+#EXTINF:-1 " tvg-id="63d2c140c111bc0008cb890b" group-title="NACIONAL" , TeleFormula
 https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
 
 #EXTINF:-1 tvg-id="El Nueve" group-title="NACIONAL", Canal Nu9ve
@@ -106,7 +106,7 @@ EXTINF:-1 tvg-id="I14.98192.schedulesdirect.org" group-title="VARIEDADES" , Cana
 #EXTINF:-1 tvg-id="22 de Mexico" group-title="NACIONAL" , CANAL 22 
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Nuestro Cine" group-title="NACIONAL" , CANAL 22.2 MX Nuestro Cine
+#EXTINF:-1 tvg-id="Nuestro Cine.mx" group-title="NACIONAL" , CANAL 22.2 MX Nuestro Cine
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I503.36479.schedulesdirect.org" group-title="NACIONAL", Radio y Television de Veracruz (RTV) 
@@ -132,22 +132,22 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 EXTINF:-1 tvg-id="I292.6635.schedulesdirect.org" group-title="NOTICIAS", Foro TV
 
 
-#EXTINF:-1 tvg-id="I150.87311.schedulesdirect.org" group-title="NOTICIAS", El Financiero - Bloomberg TV
+#EXTINF:-1 tvg-id="El Financiero" group-title="NOTICIAS", El Financiero - Bloomberg TV
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
 
-#EXTINF:-1 tvg-id="I281.64230.schedulesdirect.org" group-title="NOTICIAS", DW Español 
+#EXTINF:-1 tvg-id="DW en español" group-title="NOTICIAS", DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-id="I551.69367.schedulesdirect.org" group-title="NOTICIAS", RT in Spanish 
 https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-id="ESAJ4500024LR" group-title="NOTICIAS", EuroNews en español 
+#EXTINF:-1 tvg-id="EuroNews" group-title="NOTICIAS", EuroNews en español 
 https://i.mjh.nz/SamsungTVPlus/ESAJ4500024LR.m3u8
 
-#EXTINF:-1 tvg-id="I315.105781.schedulesdirect.org" group-title="NOTICIAS", France 24 Español SD 
+#EXTINF:-1 tvg-id="France en español" group-title="NOTICIAS", France 24 Español SD 
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="XEIPNTDT.mx(m3u4u)" group-title="NOTICIAS" , Mexiquense Noticias 
+#EXTINF:-1 tvg-id="Mexiquense Moticias" group-title="NOTICIAS" , Mexiquense Noticias 
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
 
 #EXTINF:-1 tvg-id"CNN en Espanol" group-title="NOTICIAS" , CNN en Español 
@@ -160,7 +160,7 @@ https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo" group-title="US Español", Telemundo
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
-#EXTINF:-1 tvg-id="205" group-title="US Español", Telemundo
+#EXTINF:-1 tvg-id="Telemundo miami" group-title="US Español", Telemundo
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65880
 
 #EXTINF:-1 tvg-id="Universo" group-title="US Español", Universo
