@@ -132,19 +132,19 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 EXTINF:-1 tvg-id="I292.6635.schedulesdirect.org" group-title="NOTICIAS", Foro TV
 
 
-#EXTINF:-1 tvg-id="El Financiero" group-title="NOTICIAS", El Financiero - Bloomberg TV
+#EXTINF:-1 tvg-id="bloomberg TV" group-title="NOTICIAS", El Financiero - Bloomberg TV
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
 
 #EXTINF:-1 tvg-id="DW en español" group-title="NOTICIAS", DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-id="I551.69367.schedulesdirect.org" group-title="NOTICIAS", RT in Spanish 
+#EXTINF:-1 tvg-id="RT en español" group-title="NOTICIAS", RT in Spanish 
 https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-id="euronews" group-title="NOTICIAS", EuroNews en español 
+#EXTINF:-1 tvg-id="euronews en español" group-title="NOTICIAS", EuroNews en español 
 https://i.mjh.nz/SamsungTVPlus/ESAJ4500024LR.m3u8
 
-#EXTINF:-1 tvg-id="France" group-title="NOTICIAS", France 24 Español SD 
+#EXTINF:-1 tvg-id="France en español" group-title="NOTICIAS", France 24 Español SD 
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Mexiquense Noticias" group-title="NOTICIAS" , Mexiquense Noticias 
@@ -577,32 +577,32 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6018913ea15130002b28418f.m3u8
 #EXTINF:-1 tvg-id="" group-title="Movies", Free TV
 https://freetv.stream.olympusatmedia.com/index.m3u8
 
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291" group-title="Movies", Free TV Accion
+EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291" group-title="Movies", Free TV Accion
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
 EXTINF:-1 tvg-id="ESBA3300039ZX" group-title="Movies", Free TV Estelar
 https://i.mjh.nz/SamsungTVPlus/ESBA3300039ZX.m3u8
 
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6018913fa15130002b284197" group-title="Movies", Free TV Sureño
+EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6018913fa15130002b284197" group-title="Movies", Free TV Sureño
 https://amg01024-olympusat-cinesurenope-lgpe-brjfx.amagi.tv/playlist/amg01024-olympusat-cinesurenope-lgpe/playlist.m3u8
 
-#EXTINF:-1 tvg-id="accion-mexicana" group-title="Movies", Acción Mexicana
+EXTINF:-1 tvg-id="accion-mexicana" group-title="Movies", Acción Mexicana
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b" group-title="Movies", Free TV Horror
+EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b" group-title="Movies", Free TV Horror
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfyco-lgco/playlist.m3u8
 
-#EXTINF:-1 tvg-id="canela-horror" group-title="Movies", Canela Horror
+EXTINF:-1 tvg-id="canela-horror" group-title="Movies", Canela Horror
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
 
-#EXTINF:-1 tvg-id="" group-title="Movies", Runtime Espanto
+EXTINF:-1 tvg-id="" group-title="Movies", Runtime Espanto
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
 
 
 EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-60240f57676235002df19f49" group-title="Movies", Free TV Familia
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntosco-lgco/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" group-title="Movies",Cine Premiere 
+EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" group-title="Movies",Cine Premiere 
 https://r.mjh.nz/PlutoTV/5cf968040ab7d8f181e6a68b-alt.m3u8
 
 EXTINF:-1 tvg-id="canela-cinema-0" group-title="Movies", Canela Cinema
