@@ -141,8 +141,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="RT en español" group-title="NOTICIAS", RT in Spanish 
 https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-id="euronews en español" group-title="NOTICIAS", EuroNews en español 
-https://i.mjh.nz/SamsungTVPlus/ESAJ4500024LR.m3u8
+#EXTINF:-1 tvg-id="619d59b7cbef25000728221c" group-title="NOTICIAS", EuroNews en español 
+https://r.mjh.nz/PlutoTV/619d59b7cbef25000728221c-alt.m3u8
 
 #EXTINF:-1 tvg-id="France en español" group-title="NOTICIAS", France 24 Español SD 
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
@@ -160,7 +160,7 @@ https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo" group-title="US Español", Telemundo
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo mexico" group-title="US Español", Telemundo
+#EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us" group-title="US Español", Telemundo
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65880
 
 #EXTINF:-1 tvg-id="Universo" group-title="US Español", Universo
@@ -223,7 +223,7 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,F
 
 #EXTINF:-1 tvg-id="I854.25595.schedulesdirect.org" group-title="Sports", 
 
-#EXTINF:-1 tvg-id="ESPN.mx(m3u4u)" group-title="Sports", Espn
+#EXTINF:-1 tvg-id="ESPN" group-title="Sports", Espn
 http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN_t2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I509.19158.schedulesdirect.org" group-title="Sports", 
@@ -250,16 +250,16 @@ https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 #EXTINF:-1 tvg-id="TUDN USA" group-title="Sports", TUDN1
 https://linear-380.frequency.stream/mt/studio/380/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TUDN(Spanish).us(m3u4u)" group-title="Sports", TUDN2
+#EXTINF:-1 tvg-id="" group-title="Sports", TUDN2
 https://linear-381.frequency.stream/mt/studio/381/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TUDN(Spanish).us(m3u4u)" group-title="Sports", TUDN3
+#EXTINF:-1 tvg-id="" group-title="Sports", TUDN3
 https://linear-383.frequency.stream/mt/studio/383/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TUDN(Spanish).us(m3u4u)" group-title="Sports", TUDN
+#EXTINF:-1 tvg-id="" group-title="Sports", TUDN
 https://linear-384.frequency.stream/mt/studio/384/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TUDN(Spanish).us(m3u4u)" group-title="Sports", TUDN Champions 
+#EXTINF:-1 tvg-id="" group-title="Sports", TUDN Champions 
 https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
 
 
