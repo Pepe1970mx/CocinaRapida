@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml,https://i.mjh.nz/PlutoTV/all.xml"
+#EXTM3U x-tvg-url=""
 
 #EXTINF:-1 tvg-id="" group-title="VARIEDADES" , La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
