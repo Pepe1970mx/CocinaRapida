@@ -37,7 +37,7 @@ EXTINF:-1 tvg-id="I85.46607.schedulesdirect.org" group-title="NACIONAL" , Azteca
 #EXTINF:-1 tvg-id="Azteca Uno" group-title="NACIONAL" , Azteca Uno 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-id="646ccd3681844c000974d6f4" group-title="NACIONAL", ADN 40 
+#EXTINF:-1 tvg-id="ADN 40" group-title="NACIONAL", ADN 40 
 https://r.mjh.nz/PlutoTV/646ccd3681844c000974d6f4-alt.m3u8
 
 #EXTINF:-1 tvg-id="Las Estrellas" group-title="NACIONAL" , Las Estrellas
@@ -48,7 +48,7 @@ EXTINF:-1 tvg-id="102" group-title="VARIEDADES", Las estrellas Internacional
 EXTINF:-1 tvg-id="las estrellas.pe" group-title="NACIONAL", Las estrellas Latinoamerica
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="64e35aff6b1fdb0008ea8441" group-title="NACIONAL", Imagen TV HD
+#EXTINF:-1 tvg-id="Imagen Television" group-title="NACIONAL", Imagen TV HD
 https://ythls-v2.onrender.com/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 
 https://r.mjh.nz/PlutoTV/64e35aff6b1fdb0008ea8441-alt.m3u8
@@ -61,10 +61,10 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 #EXTINF:-1 tvg-id="Canal 5" group-title="NACIONAL", Canal 5
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Multimedios
+#EXTINF:-1 tvg-id="MULTIMEDIOS TV.mx" group-title="NACIONAL" , Multimedios
 https://r.mjh.nz/PlutoTV/652e91fd6208700008dcaf7b-alt.m3u8
 
-#EXTINF:-1 tvg-id="652e922db4b047000825f975" group-title="NACIONAL" , Milenio Television
+#EXTINF:-1 tvg-id="Milenio Televisión" group-title="NACIONAL" , Milenio Television
 https://r.mjh.nz/PlutoTV/652e922db4b047000825f975-alt.m3u8
 
 #EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" group-title="VARIEDADES" , Seis Saltillo
@@ -80,7 +80,7 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-id="EL HERALDO" group-title="VARIEDADES" , El Heraldo TV
 
-#EXTINF:-1 " tvg-id="63d2c140c111bc0008cb890b" group-title="NACIONAL" , TeleFormula
+#EXTINF:-1 " tvg-id="Teleformula " group-title="NACIONAL" , TeleFormula
 https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
 
 #EXTINF:-1 tvg-id="El Nueve" group-title="NACIONAL", Canal Nu9ve
@@ -132,7 +132,7 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 EXTINF:-1 tvg-id="I292.6635.schedulesdirect.org" group-title="NOTICIAS", Foro TV
 
 
-#EXTINF:-1 tvg-id="bloomberg TV" group-title="NOTICIAS", El Financiero - Bloomberg TV
+#EXTINF:-1 tvg-id="El Financiero Bloomberg TV" group-title="NOTICIAS", El Financiero - Bloomberg TV
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
 
 #EXTINF:-1 tvg-id="DW en español" group-title="NOTICIAS", DW Español 
@@ -141,7 +141,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="RT en español" group-title="NOTICIAS", RT in Spanish 
 https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-id="619d59b7cbef25000728221c" group-title="NOTICIAS", EuroNews en español 
+#EXTINF:-1 tvg-id="Euro" group-title="NOTICIAS", EuroNews en español 
 https://r.mjh.nz/PlutoTV/619d59b7cbef25000728221c-alt.m3u8
 
 #EXTINF:-1 tvg-id="France en español" group-title="NOTICIAS", France 24 Español SD 
@@ -157,7 +157,7 @@ https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64878a0108027d895721403b" group-title="US Español", Nuestra Vision 
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo" group-title="US Español", Telemundo
+#EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us" group-title="US Español", Telemundo
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us" group-title="US Español", Telemundo
