@@ -94,7 +94,7 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 tvg-id="I448.15213.schedulesdirect.org" group-title="VARIEDADES", 
 
 #EXTINF:-1 tvg-id="Canal Once" group-title="NACIONAL", Canal Once
-https://d2mqwgsb5fhf0p.cloudfront.net/0480d5726ab379f6d8ff8c7754578156/index.m3u8
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="14 de Mexico" group-title="NACIONAL" , Canal 14 
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
@@ -141,13 +141,13 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="I551.69367.schedulesdirect.org" group-title="NOTICIAS", RT in Spanish 
 https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-id="EuroNews" group-title="NOTICIAS", EuroNews en español 
+#EXTINF:-1 tvg-id="euronews" group-title="NOTICIAS", EuroNews en español 
 https://i.mjh.nz/SamsungTVPlus/ESAJ4500024LR.m3u8
 
-#EXTINF:-1 tvg-id="France en español" group-title="NOTICIAS", France 24 Español SD 
+#EXTINF:-1 tvg-id="France" group-title="NOTICIAS", France 24 Español SD 
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="Mexiquense Moticias" group-title="NOTICIAS" , Mexiquense Noticias 
+#EXTINF:-1 tvg-id="Mexiquense Noticias" group-title="NOTICIAS" , Mexiquense Noticias 
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
 
 #EXTINF:-1 tvg-id"CNN en Espanol" group-title="NOTICIAS" , CNN en Español 
@@ -160,7 +160,7 @@ https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo" group-title="US Español", Telemundo
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo miami" group-title="US Español", Telemundo
+#EXTINF:-1 tvg-id="Telemundo mexico" group-title="US Español", Telemundo
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65880
 
 #EXTINF:-1 tvg-id="Universo" group-title="US Español", Universo
@@ -329,111 +329,95 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 
 
-#EXTINF:-1 tvg-id="Canal4.sv" group-title="ENTRETENIMIENTO", Canal 4 SV
+EXTINF:-1 tvg-id="Canal4.sv" group-title="ENTRETENIMIENTO", Canal 4 SV
 https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 
-#EXTINF:-1 tvg-id="Canal6.sv" group-title="ENTRETENIMIENTO", Canal 6 SV
+EXTINF:-1 tvg-id="Canal6.sv" group-title="ENTRETENIMIENTO", Canal 6 SV
 https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/.m3u8
 
-#EXTINF:-1 tvg-id="Canal10.sv" group-title="ENTRETENIMIENTO", Canal 10 SV
+EXTINF:-1 tvg-id="Canal10.sv" group-title="ENTRETENIMIENTO", Canal 10 SV
 
 
-#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Canal 11 TUTV SV
+EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Canal 11 TUTV SV
 
 
-#EXTINF:-1 tvg-id="Canal12.sv" group-title="ENTRETENIMIENTO", Canal 12 SV
+EXTINF:-1 tvg-id="Canal12.sv" group-title="ENTRETENIMIENTO", Canal 12 SV
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="MegavisionCanal19.sv" group-title="ENTRETENIMIENTO", Megavision 19 SV
+EXTINF:-1 tvg-id="MegavisionCanal19.sv" group-title="ENTRETENIMIENTO", Megavision 19 SV
 https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 
-#EXTINF:-1 tvg-id="VTVCanal35.sv" group-title="ENTRETENIMIENTO", TCS+ SV
+EXTINF:-1 tvg-id="VTVCanal35.sv" group-title="ENTRETENIMIENTO", TCS+ SV
 https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-video=2000000-audio_0=64000.m3u8
 
-#EXTINF:-1 tvg-id="ATV.pe" group-title="ENTRETENIMIENTO" , ATV PE
+EXTINF:-1 tvg-id="ATV.pe" group-title="ENTRETENIMIENTO" , ATV PE
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="ATVPlus.pe" group-title="ENTRETENIMIENTO" , ATV Sur PE
+EXTINF:-1 tvg-id="ATVPlus.pe" group-title="ENTRETENIMIENTO" , ATV Sur PE
 http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="UnitelSantaCruz.bo" group-title="ENTRETENIMIENTO" , Unitel BO
+EXTINF:-1 tvg-id="UnitelSantaCruz.bo" group-title="ENTRETENIMIENTO" , Unitel BO
 http://181.78.78.105:8000/play/a02g/index.m3u8
 
-#EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="ENTRETENIMIENTO", Telecadena 7 y 4
+EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="ENTRETENIMIENTO", Telecadena 7 y 4
 http://200.52.148.194:8000/play/a04q/index.m3u8
 
-#EXTINF:-1 tvg-id="Televicentro.hn" group-title="ENTRETENIMIENTO", Canal 5 El lider HN
+EXTINF:-1 tvg-id="Televicentro.hn" group-title="ENTRETENIMIENTO", Canal 5 El lider HN
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO", Canal 3 Super canal GT
+EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO", Canal 3 Super canal GT
+
+EXTINF:-1 tvg-id="Televicentro.hn" group-title="ENTRETENIMIENTO", TeleSiete GT
+
+EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Teleonce GT
+
+EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO",  Trecevision GT
 
 
-#EXTINF:-1 tvg-id="Televicentro.hn" group-title="ENTRETENIMIENTO", TeleSiete GT
-
-
-#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Teleonce GT
-
-
-#EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO",  Trecevision GT
-
-
-#EXTINF:-1 tvg-id="Canal 4 de Costa Rica" group-title="ENTRETENIMIENTO" , Canal 4 CR
+EXTINF:-1 tvg-id="Canal 4 de Costa Rica" group-title="ENTRETENIMIENTO" , Canal 4 CR
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal 6 de Costa Rica" group-title="ENTRETENIMIENTO" , Canal 6 CR
+EXTINF:-1 tvg-id="Canal 6 de Costa Rica" group-title="ENTRETENIMIENTO" , Canal 6 CR
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
+EXTINF:-1 tvg-id="id="Canal 7 de Costa Rica (Teletica)" group-title="ENTRETENIMIENTO", Teletica 7 CR
 
-#EXTINF:-1 tvg-id="id="Canal 7 de Costa Rica (Teletica)" group-title="ENTRETENIMIENTO", Teletica 7 CR
-
-
-#EXTINF:-1 tvg-id="Canal 11 de Costa Rica" group-title="ENTRETENIMIENTO" , Canal 11 CR
+EXTINF:-1 tvg-id="Canal 11 de Costa Rica" group-title="ENTRETENIMIENTO" , Canal 11 CR
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal 13 de Costa Rica" group-title="ENTRETENIMIENTO" , Canal 13 CR
+EXTINF:-1 tvg-id="Canal 13 de Costa Rica" group-title="ENTRETENIMIENTO" , Canal 13 CR
 https://250weu.bozztv.com/ssh101/ssh101/sinart13/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Telefuturo.py" group-title="ENTRETENIMIENTO" , Telefuturo PA
+EXTINF:-1 tvg-id="Telefuturo.py" group-title="ENTRETENIMIENTO" , Telefuturo PA
 https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_alta/playlist.m3u8?k=cc45d0f50be27f473caa42642ae3529ba5b34c85cd48ee4cf0181269fcdf20a3&exp=1713136504
 
-#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Canal 10 NI
+EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Canal 10 NI
 https://dgh4r3ro3i2mi.cloudfront.net/Canal10NI/7d8e90910905c4165b7180d8db1d8b68.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Canal 11 NI
+EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Canal 11 NI
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal11.m3u8
 
-
-
-
-#EXTINF:-1 tvg-id="Canal11.hn" group-title="ENTRETENIMIENTO" , Canal 11 HN
+EXTINF:-1 tvg-id="Canal11.hn" group-title="ENTRETENIMIENTO" , Canal 11 HN
 https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 
-
-
-#EXTINF:-1 tvg-id="ecuavisa.ec" group-title="ENTRETENIMIENTO" , Ecuavisa EC
+EXTINF:-1 tvg-id="ecuavisa.ec" group-title="ENTRETENIMIENTO" , Ecuavisa EC
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
 
-#EXTINF:-1 tvg-id="TV Max" group-title="ENTRETENIMIENTO" , TV Max
+EXTINF:-1 tvg-id="TV Max" group-title="ENTRETENIMIENTO" , TV Max
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 
-
-#EXTINF:-1 tvg-id="Canal Telesistema 11 (República Dominicana).do" group-title="ENTRETENIMIENTO", Telesistema
+EXTINF:-1 tvg-id="Canal Telesistema 11 (República Dominicana).do" group-title="ENTRETENIMIENTO", Telesistema
 http://38.41.8.1:8000/play/a0am
 
-
-
 #EXTINF:-1 tvg-id="Maxima TV" group-title="ENTRETENIMIENTO", Maxima TV
-
 
 
 #EXTINF:-1 tvg-id="ElTrece.ar" group-title="ENTRETENIMIENTO", El trece AR
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" group-title="ENTRETENIMIENTO", Ciudad Magazine
-
-
 
 EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", WTV NI
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
