@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url=""
+#EXTM3U 
+x-tvg-url=""
 
 #EXTINF:-1 tvg-id="" group-title="VARIEDADES" , La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
@@ -309,6 +310,11 @@ https://r.mjh.nz/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
 #EXTINF:-1 tvg-id="63eb947c4e83e70008ab877b" group-title="ENTRETENIMIENTO", NCIS
 https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 
+#EXTINF:-1 tvg-id="TV Max" group-title="ENTRETENIMIENTO" , TV Max
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="Maxima TV" group-title="ENTRETENIMIENTO", Maxima TV
+
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
@@ -327,6 +333,9 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , Telesur CR
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+
+
+
 
 
 EXTINF:-1 tvg-id="Canal4.sv" group-title="ENTRETENIMIENTO", Canal 4 SV
@@ -405,19 +414,19 @@ https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 EXTINF:-1 tvg-id="ecuavisa.ec" group-title="ENTRETENIMIENTO" , Ecuavisa EC
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
 
-EXTINF:-1 tvg-id="TV Max" group-title="ENTRETENIMIENTO" , TV Max
-https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+
 
 EXTINF:-1 tvg-id="Canal Telesistema 11 (República Dominicana).do" group-title="ENTRETENIMIENTO", Telesistema
 http://38.41.8.1:8000/play/a0am
 
-#EXTINF:-1 tvg-id="Maxima TV" group-title="ENTRETENIMIENTO", Maxima TV
+
 
 
 #EXTINF:-1 tvg-id="ElTrece.ar" group-title="ENTRETENIMIENTO", El trece AR
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" group-title="ENTRETENIMIENTO", Ciudad Magazine
+
 
 EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", WTV NI
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
