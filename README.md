@@ -81,6 +81,11 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-id="EL HERALDO" group-title="VARIEDADES" , El Heraldo TV
 
+
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES" , TVOAI Channels
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5278&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1YN-&did=d1803778a69275cf9da2af4715e1c2b2&ifa_type=sessionid&app_bundle=com.radioformula.live&app_store_url=https%3A%2F%2Fwww.tvoai.com%2Fdevices&app_domain=tvoai.com&app_name=teleformula&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=teleformula&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.tvoai.com%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1715180568&id=136&ip=200.71.109.253&override_expiration=1500&sign=TMidAGknuw0On%2FSD%2FEMX1n5Go57m5wkhhJbKpzgJOrA%3D
+
+
 #EXTINF:-1 " tvg-id="Teleformula " group-title="NACIONAL" , TeleFormula
 https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
 
