@@ -145,13 +145,13 @@ https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/in
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-id="RT en español" group-title="NOTICIAS", RT in Spanish 
-https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
+https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 
 #EXTINF:-1 tvg-id="Euro" group-title="NOTICIAS", EuroNews en español 
 https://r.mjh.nz/PlutoTV/619d59b7cbef25000728221c-alt.m3u8
 
 #EXTINF:-1 tvg-id="France en español" group-title="NOTICIAS", France 24 Español SD 
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
+https://marine2.miplay.cl/france24/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mexiquense Noticias" group-title="NOTICIAS" , Mexiquense Noticias 
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
@@ -405,7 +405,7 @@ https://250weu.bozztv.com/ssh101/ssh101/sinart13/playlist.m3u8
 
 
 EXTINF:-1 tvg-id="Telefuturo.py" group-title="ENTRETENIMIENTO" , Telefuturo PA
-https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_alta/playlist.m3u8?k=cc45d0f50be27f473caa42642ae3529ba5b34c85cd48ee4cf0181269fcdf20a3&exp=1713136504
+http://177.234.230.226:8010/play/a033/index.m3u8
 
 EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Canal 10 NI
 https://dgh4r3ro3i2mi.cloudfront.net/Canal10NI/7d8e90910905c4165b7180d8db1d8b68.sdp/playlist.m3u8
