@@ -82,11 +82,11 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-id="EL HERALDO" group-title="VARIEDADES" , El Heraldo TV
 
 
-#EXTINF:-1 tvg-id="" group-title="VARIEDADES" , TVOAI Channels
+#EXTINF:-1 tvg-id="Teleformula" group-title="NACIONAL" , TVOAI Channels
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5278&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1YN-&did=d1803778a69275cf9da2af4715e1c2b2&ifa_type=sessionid&app_bundle=com.radioformula.live&app_store_url=https%3A%2F%2Fwww.tvoai.com%2Fdevices&app_domain=tvoai.com&app_name=teleformula&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=teleformula&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.tvoai.com%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1715180568&id=136&ip=200.71.109.253&override_expiration=1500&sign=TMidAGknuw0On%2FSD%2FEMX1n5Go57m5wkhhJbKpzgJOrA%3D
 
 
-#EXTINF:-1 " tvg-id="Teleformula " group-title="NACIONAL" , TeleFormula
+#EXTINF:-1 " tvg-id="Teleformula" group-title="NACIONAL" , TeleFormula
 https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
 
 #EXTINF:-1 tvg-id="El Nueve" group-title="NACIONAL", Canal Nu9ve
@@ -160,7 +160,7 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w750
 https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64878a0108027d895721403b" group-title="US Español", Nuestra Vision 
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7" group-title="US Español", Nuestra Vision 
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us" group-title="US Español", Telemundo
@@ -197,7 +197,6 @@ https://i.mjh.nz/SamsungTVPlus/USBA300040WR.m3u8
 https://live.field59.com/wapa/wapa1/playlist.m3u8
 
 https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" group-title="Sports", beIN Sport Xtra en Español
 https://r.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
@@ -340,8 +339,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 
 
-
-
+EXTINF:-1 tvg-id="Canal2.sv" group-title="ENTRETENIMIENTO", Canal 2 SV
+https://telecorporacion.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live-video=144960.m3u8
 
 EXTINF:-1 tvg-id="Canal4.sv" group-title="ENTRETENIMIENTO", Canal 4 SV
 https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
@@ -353,7 +352,7 @@ EXTINF:-1 tvg-id="Canal10.sv" group-title="ENTRETENIMIENTO", Canal 10 SV
 
 
 EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Canal 11 TUTV SV
-
+https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
 
 EXTINF:-1 tvg-id="Canal12.sv" group-title="ENTRETENIMIENTO", Canal 12 SV
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
@@ -363,6 +362,9 @@ https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 
 EXTINF:-1 tvg-id="VTVCanal35.sv" group-title="ENTRETENIMIENTO", TCS+ SV
 https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-video=2000000-audio_0=64000.m3u8
+
+EXTINF:-1 tvg-id="Canal57.sv" group-title="ENTRETENIMIENTO", Canal 57 SV
+https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 
 EXTINF:-1 tvg-id="ATV.pe" group-title="ENTRETENIMIENTO" , ATV PE
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
