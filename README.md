@@ -665,31 +665,34 @@ https://i.mjh.nz/SamsungTVPlus/ESBC2700002LO.m3u8
 EXTINF:-1 tvg-id="5dcde1317578340009b751d0" group-title="Series", Pluto TV Series
 https://r.mjh.nz/PlutoTV/5dcde1317578340009b751d0-alt.m3u8
 
-EXTINF:-1 tvg-id="5de802659167b10009e7deba" group-title="Series", Pluto TV Series Retro
+EXTINF:-1 tvg-id="5de802659167b10009e7deba" group-title="Retro", Pluto TV Series Retro
 https://r.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
 
-#EXTINF:-1 tvg-id="Teleclasica" group-title="Series" , Teleclasica 
+#EXTINF:-1 tvg-id="Teleclasica" group-title="Retro" , Teleclasica 
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ACS Network TV" group-title="Series", ACS Network
+#EXTINF:-1 tvg-id="ACS Network TV" group-title="Retro", ACS Network
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w910290755.m3u8
 
-#EXTINF:-1 tvg-id="Dreiko TV" group-title="Series" , Dreiko TV 
+#EXTINF:-1 tvg-id="Dreiko TV" group-title="Retro" , Dreiko TV 
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
-#EXTINF:-1 tvg-id="Telesistema" group-title="Series", Telesistema 
+#EXTINF:-1 tvg-id="Telesistema" group-title="Retro", Telesistema 
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Ciudad Magica" group-title="Series", Ciudad Magica AR
+#EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="Retro", Ciudad Magica AR
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
-#EXTINF:-1 tvg-id="RetroX TV" group-title="Series", Retro X
+#EXTINF:-1 tvg-id="Tv Retro Palmares" group-title="Retro", TV Palmares TV
+https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RetroX TV" group-title="Retro", Retro X
 https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
 
-#EXTINF:-1 tvg-id="Magic Kid" group-title="Series", Magic Kids
+#EXTINF:-1 tvg-id="Magic Kids Tv" group-title="Retro", Magic Kids TV
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
-#EXTINF:-1 tvg-id="Mi TV Television Clasica" group-title="Series", Mi TV televisión Clasica
+#EXTINF:-1 tvg-id="Mi TV Television Clasica" group-title="Retro", Mi TV televisión Clasica
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 
 
