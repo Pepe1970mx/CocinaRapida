@@ -317,8 +317,8 @@ https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 #EXTINF:-1 tvg-id="TV Max" group-title="ENTRETENIMIENTO" , TV Max
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="Maxima TV" group-title="ENTRETENIMIENTO", Maxima TV
-
+#EXTINF:-1 tvg-id="Maxima TV" group-title="ENTRETENIMIENTO", Telefuturo 
+http://177.234.230.226:8010/play/a033/index.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
@@ -680,14 +680,14 @@ https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1 tvg-id="Telesistema" group-title="Series", Telesistema 
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LIM TV" group-title="Series", Lim TV
-https://tv.invasivamedia.com/hls/limtv.m3u8
+#EXTINF:-1 tvg-id="Ciudad Magica" group-title="Series", Ciudad Magica AR
+https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
 #EXTINF:-1 tvg-id="RetroX TV" group-title="Series", Retro X
 https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
 
-#EXTINF:-1 tvg-id="TVS Retro" group-title="Series", TVS Retro
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 tvg-id="Magic Kid" group-title="Series", Magic Kids
+https://magicstream.ddns.net/magicstream/stream.m3u8
 
 #EXTINF:-1 tvg-id="Mi TV Television Clasica" group-title="Series", Mi TV televisión Clasica
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
