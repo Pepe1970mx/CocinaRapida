@@ -17,7 +17,10 @@ https://linear-313.frequency.stream/mt/studio/313/hls/master/playlist.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
 
 #EXTINF:-1 tvg-id="Distrito Comedia" group-title="VARIEDADES" , Distrito Comedia
-https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
+http://45.5.117.182:8000/play/ihf9/index.m3u8
+
+
+http://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 
 EXTINF:-1 tvg-id="Azteca Clic" group-title="VARIEDADES" , Az Clic
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6469502df73356567a64ce8e.m3u8
