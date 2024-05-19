@@ -65,7 +65,7 @@ https://r.mjh.nz/PlutoTV/652e91fd6208700008dcaf7b-alt.m3u8
 #EXTINF:-1 tvg-id="Milenio Televisión" group-title="NACIONAL" , Milenio Television
 https://r.mjh.nz/PlutoTV/652e922db4b047000825f975-alt.m3u8
 
-#EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" group-title="VARIEDADES" , Seis Saltillo
+#EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" group-title="NACIONAL" , Seis Saltillo
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 
 #EXTINF:-1 tvg-id="Azteca7" group-title="NACIONAL", Azteca 7
@@ -103,7 +103,7 @@ https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 
 EXTINF:-1 tvg-id="I14.98192.schedulesdirect.org" group-title="VARIEDADES" , Canal 14 
 
-#EXTINF:-1 tvg-id="Capital 21" group-title="VARIEDADES" , Capital 21
+#EXTINF:-1 tvg-id="Capital 21" group-title="NACIONAL" , Capital 21
 https://video.cdmx.gob.mx/redes/stream.m3u8
 
 #EXTINF:-1 tvg-id="I100.91060.schedulesdirect.or", group-title="VARIEDADES" , CANAL 22 
@@ -159,7 +159,6 @@ https://marine2.miplay.cl/france24/playlist.m3u8
 #EXTINF:-1 tvg-id"CNN en Espanol" group-title="NOTICIAS" , CNN en Español 
 https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7" group-title="US Español", Nuestra Vision 
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
@@ -170,18 +169,18 @@ https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65880
 
 #EXTINF:-1 tvg-id="Universo" group-title="US Español", Universo
-http://stream.flynetwifi.com:1935/live/mobile-065/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="WKAQDT.pr(m3u4u)" group-title="US Español", Telemundo PR 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-id="Univision" group-title="US Español",  Univision Latino America
-https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" tvg-logo=" " group-title="US Español", 
 
 #EXTINF:-1 tvg-id"UNIVISION" group-title="US Español",  Univision Latino
-http://supersonictv.live:8080/Eddie8523/Whitehead83/10584
+
 
 #EXTINF:-1 tvg-id="UniMas(East)(Spanish).us(m3u4u)" group-title="US Español", Unimas
 
@@ -196,15 +195,12 @@ https://i.mjh.nz/SamsungTVPlus/USBA300040WR.m3u8
 #EXTINF:-1  tvg-id="WAPA TV"  group-title="US Español" , Wapa
 https://live.field59.com/wapa/wapa1/playlist.m3u8
 
-https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" group-title="Sports", beIN Sport Xtra en Español
 https://r.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 
 #EXTINF:-1 tvg-id="6320d2755e54db000783fd87" group-title="Sports", Claro Sports México 
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
-
-https://r.mjh.nz/PlutoTV/6320d2755e54db000783fd87-alt.m3u8
 
 #EXTINF:-1 tvg-id="FoxDeportes(Spanish).us(m3u4u)" group-title="Sports", Fox Deportes 
 
@@ -229,7 +225,7 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,F
 #EXTINF:-1 tvg-id="I854.25595.schedulesdirect.org" group-title="Sports", 
 
 #EXTINF:-1 tvg-id="ESPN" group-title="Sports", Espn
-http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN_t2.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="I509.19158.schedulesdirect.org" group-title="Sports", 
 
@@ -267,7 +263,6 @@ https://linear-384.frequency.stream/mt/studio/384/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sports", TUDN Champions 
 https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="" group-title="Sports", MLB Vix
 https://linear-508.frequency.stream/mt/studio/508/hls/master/playlist.m3u8
 
@@ -278,9 +273,7 @@ https://r.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
 
 #EXTINF:-1 tvg-id="M La Liga" group-title="Sports", Sky Sports La Liga Vix
-https://linear-506.frequency.stream/mt/studio/506/hls/master/playlist.m3u8
 
-http://lsy3kcct.akciatv.ru/iptv/8YRETNK5CZU46C/6073/index.m3u8
 
 #EXTINF:-1 tvg-id="WAPA 2 Deportes" group-title="Sports", Wapa Deportes
 https://live.field59.com/wapa/wapa2/.m3u8
