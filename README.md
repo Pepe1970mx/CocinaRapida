@@ -17,8 +17,6 @@ https://linear-313.frequency.stream/mt/studio/313/hls/master/playlist.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
 
 #EXTINF:-1 tvg-id="Distrito Comedia" group-title="VARIEDADES" , Distrito Comedia
-
-#EXTINF:-1 tvg-id="Distrito Comedia" group-title="VARIEDADES" , Distrito Comedia
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 
 EXTINF:-1 tvg-id="Azteca Clic" group-title="VARIEDADES" , Az Clic
@@ -26,9 +24,6 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6469502df73356567a64ce8e.m3u8
 
 EXTINF:-1 tvg-id="Azteca Corazon" group-title="VARIEDADES" , Az Corazón
 https://i.mjh.nz/SamsungTVPlus/ESBD1300003VN.m3u8
-
-#EXTINF:-1 tvg-id="Azteca Cinema" group-title="VARIEDADES" , Az Cinema
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64695233f73356567a64ce90.m3u8
 
 EXTINF:-1 tvg-id="Azteca Mundo" group-title="VARIEDADES" , Azteca Internacional
 https://i.mjh.nz/SamsungTVPlus/ESBD1300004IG.m3u8
@@ -38,20 +33,19 @@ EXTINF:-1 tvg-id="I85.46607.schedulesdirect.org" group-title="NACIONAL" , Azteca
 #EXTINF:-1 tvg-id="Azteca Uno" group-title="NACIONAL" , Azteca Uno 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
+#EXTINF:-1 tvg-id="Azteca Cinema" group-title="NACIONAL" , Az Cinema
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64695233f73356567a64ce90.m3u8
+
 #EXTINF:-1 tvg-id="ADN 40" group-title="NACIONAL", ADN 40 
 https://r.mjh.nz/PlutoTV/646ccd3681844c000974d6f4-alt.m3u8
 
 #EXTINF:-1 tvg-id="Las Estrellas" group-title="NACIONAL" , Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 
-EXTINF:-1 tvg-id="102" group-title="VARIEDADES", Las estrellas Internacional
-
 EXTINF:-1 tvg-id="las estrellas.pe" group-title="NACIONAL", Las estrellas Latinoamerica
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Imagen Television" group-title="NACIONAL", Imagen TV HD
-https://ythls-v2.onrender.com/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
-
 https://r.mjh.nz/PlutoTV/64e35aff6b1fdb0008ea8441-alt.m3u8
 
 #EXTINF:-1 tvg-id="I28.82353.schedulesdirect.org" group-title="NACIONAL",  Exelsior TV
@@ -76,15 +70,14 @@ https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
 #EXTINF:-1 tvg-id="I107.102406.schedulesdirect.org" group-title="VARIEDADES" , Azteca 7 
 
-#EXTINF:-1 tvg-id="A Mas" group-title="NACIONAL", A+ 
+#EXTINF:-1 tvg-id="A Mas" group-title="NACIONAL", A Mas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-id="EL HERALDO" group-title="VARIEDADES" , El Heraldo TV
 
 
 #EXTINF:-1 tvg-id="Teleformula" group-title="NACIONAL" , TVOAI Channels
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5278&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1YN-&did=d1803778a69275cf9da2af4715e1c2b2&ifa_type=sessionid&app_bundle=com.radioformula.live&app_store_url=https%3A%2F%2Fwww.tvoai.com%2Fdevices&app_domain=tvoai.com&app_name=teleformula&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=teleformula&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.tvoai.com%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%2520America&timestamp=1715180568&id=136&ip=200.71.109.253&override_expiration=1500&sign=TMidAGknuw0On%2FSD%2FEMX1n5Go57m5wkhhJbKpzgJOrA%3D
-
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5278
 
 #EXTINF:-1 " tvg-id="Teleformula" group-title="NACIONAL" , TeleFormula
 https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
@@ -94,7 +87,7 @@ https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 
 EXTINF:-1 tvg-id="I233.97020.schedulesdirect.org" group-title="VARIEDADES", Canal Nu9ve
 
-#EXTINF:-1 tvg-id="MVSTV.mx" group-title="NACIONAL", MVSTV
+#EXTINF:-1 tvg-id="MVSTV.mx" group-title="NACIONAL", MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 #EXTINF:-1 tvg-id="I448.15213.schedulesdirect.org" group-title="VARIEDADES", 
