@@ -30,16 +30,16 @@ https://i.mjh.nz/SamsungTVPlus/ESBD1300004IG.m3u8
 
 EXTINF:-1 tvg-id="I85.46607.schedulesdirect.org" group-title="NACIONAL" , Azteca Uno 
 
-#EXTINF:-1 tvg-id="Azteca Uno" group-title="NACIONAL" , Azteca Uno 
+#EXTINF:-1 tvg-id="Azteca Uno" group-title="NACIONAL", Azteca Uno 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-id="Azteca Cinema" group-title="NACIONAL" , Az Cinema
+#EXTINF:-1 tvg-id="Azteca Cinema" group-title="NACIONAL", Az Cinema
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64695233f73356567a64ce90.m3u8
 
 #EXTINF:-1 tvg-id="ADN 40" group-title="NACIONAL", ADN 40 
 https://r.mjh.nz/PlutoTV/646ccd3681844c000974d6f4-alt.m3u8
 
-#EXTINF:-1 tvg-id="Las Estrellas" group-title="NACIONAL" , Las Estrellas
+#EXTINF:-1 tvg-id="Las Estrellas" group-title="NACIONAL", Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 
 EXTINF:-1 tvg-id="las estrellas.pe" group-title="NACIONAL", Las estrellas Latinoamerica
@@ -100,6 +100,9 @@ https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 
 EXTINF:-1 tvg-id="I14.98192.schedulesdirect.org" group-title="VARIEDADES" , Canal 14 
 
+#EXTINF:-1 tvg-id="Capital 21" group-title="VARIEDADES" , Capital 21
+https://video.cdmx.gob.mx/redes/stream.m3u8
+
 #EXTINF:-1 tvg-id="I100.91060.schedulesdirect.or", group-title="VARIEDADES" , CANAL 22 
 
 #EXTINF:-1 tvg-id="22 de Mexico" group-title="NACIONAL" , CANAL 22 
@@ -125,11 +128,15 @@ https://stream.oursnetworktv.com/latin/encoder12/playlist.m3u8
 #EXTINF:-1 tvg-id="Mexiquense TV" group-title="NACIONAL" , Mexiquense TV 
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
 
+#EXTINF:-1 tvg-id="Mexiquense Noticias" group-title="NOTICIAS" , Mexiquense Noticias 
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
+
 #EXTINF:-1 tvg-id="Maria Vision" group-title="NACIONAL", Mariavision 
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
-EXTINF:-1 tvg-id="I292.6635.schedulesdirect.org" group-title="NOTICIAS", Foro TV
 
+
+EXTINF:-1 tvg-id="I292.6635.schedulesdirect.org" group-title="NOTICIAS", Foro TV
 
 #EXTINF:-1 tvg-id="El Financiero Bloomberg TV" group-title="NOTICIAS", El Financiero - Bloomberg TV
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
@@ -145,9 +152,6 @@ https://r.mjh.nz/PlutoTV/619d59b7cbef25000728221c-alt.m3u8
 
 #EXTINF:-1 tvg-id="France en español" group-title="NOTICIAS", France 24 Español SD 
 https://marine2.miplay.cl/france24/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Mexiquense Noticias" group-title="NOTICIAS" , Mexiquense Noticias 
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
 
 #EXTINF:-1 tvg-id"CNN en Espanol" group-title="NOTICIAS" , CNN en Español 
 https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
