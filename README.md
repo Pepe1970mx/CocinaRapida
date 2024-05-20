@@ -457,6 +457,10 @@ http://bantel.iptvperu.tv:1935/transcoderip/StarChannel_t2.stream/playlist.m3u8
 http://181.78.105.146:2000/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-id="Warner Channel" group-title="De Paga", Warner 
+http://698292161688843460.ofsd5513.xyz:80/live/vi117434/Y3QCcAKrwT/843460.ts
+
+#EXTINF:-1 tvg-id="Space" group-title="De Paga", Space
+http://698292161688843422.ofsd5513.xyz:80/live/vi117434/Y3QCcAKrwT/843422.ts
 
 #EXTINF:-1 tvg-id="Sony" group-title="De Paga", Sony
 http://bantel.iptvperu.tv:1935/transcoder_t4/sonychannel_t4/playlist.m3u8
