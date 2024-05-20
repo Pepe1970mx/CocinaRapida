@@ -220,7 +220,9 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,F
 #EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx(m3u4u)" group-title="Sports", Fox sport 3 Latinoamerica
 
 
-#EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us(m3u4u)" group-title="Sports", Espn Deportes 
+#EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes 
+http://698292161688788790.ofsd5513.xyz:80/live/vi117434/Y3QCcAKrwT/788790.ts
+
 
 #EXTINF:-1 tvg-id="I854.25595.schedulesdirect.org" group-title="Sports", 
 
@@ -240,7 +242,7 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,F
 #EXTINF:-1 tvg-id="I510.79042.schedulesdirect.org" group-title="Sports", 
 
 #EXTINF:-1 tvg-id="TUDN" group-title="Sports", Tudn 
-https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
+http://45.143.221.9:8000/live/vi117434/Y3QCcAKrwT/843450.ts?token=H0EMV0RQRl8UVw8BA1ZTDAJUVVIACAIBBVZeC1VbAlFVAgECVFpcXANDFRZAFkBdBw48WFASDVwBBFINUxQXRhcGFmleXEZfFFUJAQBUAxpKQRdYWVUVXgQAVw5SDwYFU1RIFEdRAEcMQwgMBlADGkpBBklAVUUKVFs5XAZOXFABQV5YQlQISRQOV2tXB19ZCAdBCxYBFUgXXhVIQQJbRggPSBRVURAXVxVcFglAAhpKQQBeQV5DFkwVXBouYBcfRgYcQlJWFwxZDxsOERZBGkpBCkJrQlIXQUUDWQ5dRxFeQVQUGxoJBE4+WltdDFdbEgoMX0cSDUYGFUoaDldbWhAMFmlHUQBHDEMIDAZVBxob
 
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN MX
 https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
