@@ -51,7 +51,7 @@ https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Imagen Television" group-title="NACIONAL", Imagen TV HD
 https://r.mjh.nz/PlutoTV/64e35aff6b1fdb0008ea8441-alt.m3u8
 
-#EXTINF:-1 tvg-id="I28.82353.schedulesdirect.org" group-title="NACIONAL",  Exelsior TV
+EXTINF:-1 tvg-id="I28.82353.schedulesdirect.org" group-title="NACIONAL",  Exelsior TV
 
 #EXTINF:-1 tvg-id="Foro TV" group-title="NACIONAL", Foro TV 
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
@@ -71,18 +71,18 @@ https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 #EXTINF:-1 tvg-id="Azteca7" group-title="NACIONAL", Azteca 7
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
-#EXTINF:-1 tvg-id="I107.102406.schedulesdirect.org" group-title="VARIEDADES" , Azteca 7 
+EXTINF:-1 tvg-id="I107.102406.schedulesdirect.org" group-title="VARIEDADES" , Azteca 7 
 
 #EXTINF:-1 tvg-id="A Mas" group-title="NACIONAL", A Mas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 tvg-id="EL HERALDO" group-title="VARIEDADES" , El Heraldo TV
+EXTINF:-1 tvg-id="EL HERALDO" group-title="VARIEDADES" , El Heraldo TV
 
 
 #EXTINF:-1 tvg-id="Teleformula" group-title="NACIONAL" , TVOAI Channels
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5278
 
-#EXTINF:-1 " tvg-id="Teleformula" group-title="NACIONAL" , TeleFormula
+EXTINF:-1 " tvg-id="Teleformula" group-title="NACIONAL" , TeleFormula
 https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
 
 #EXTINF:-1 tvg-id="El Nueve" group-title="NACIONAL", Canal Nu9ve
@@ -93,7 +93,7 @@ EXTINF:-1 tvg-id="I233.97020.schedulesdirect.org" group-title="VARIEDADES", Cana
 #EXTINF:-1 tvg-id="MVSTV.mx" group-title="NACIONAL", MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
-#EXTINF:-1 tvg-id="I448.15213.schedulesdirect.org" group-title="VARIEDADES", 
+EXTINF:-1 tvg-id="I448.15213.schedulesdirect.org" group-title="VARIEDADES", 
 
 #EXTINF:-1 tvg-id="Canal Once" group-title="NACIONAL", Canal Once
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
@@ -106,7 +106,7 @@ EXTINF:-1 tvg-id="I14.98192.schedulesdirect.org" group-title="VARIEDADES" , Cana
 #EXTINF:-1 tvg-id="Capital 21" group-title="NACIONAL" , Capital 21
 https://video.cdmx.gob.mx/redes/stream.m3u8
 
-#EXTINF:-1 tvg-id="I100.91060.schedulesdirect.or", group-title="VARIEDADES" , CANAL 22 
+EXTINF:-1 tvg-id="I100.91060.schedulesdirect.or", group-title="VARIEDADES" , CANAL 22 
 
 #EXTINF:-1 tvg-id="22 de Mexico" group-title="NACIONAL" , CANAL 22 
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
@@ -126,12 +126,12 @@ https://a37d474b6bb9441fa17e3e1ab3d55fce.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="QuieroTV.mx" group-title="NACIONAL", QuieroTV.mx
 https://stream.oursnetworktv.com/latin/encoder12/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I34.28440.schedulesdirect.org" group-title="VARIEDADES" ,
+EXTINF:-1 tvg-id="I34.28440.schedulesdirect.org" group-title="VARIEDADES" ,
 
 #EXTINF:-1 tvg-id="Mexiquense TV" group-title="NACIONAL" , Mexiquense TV 
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
 
-#EXTINF:-1 tvg-id="Mexiquense Noticias" group-title="NOTICIAS" , Mexiquense Noticias 
+#EXTINF:-1  tvg-id="Mexiquense Noticias" group-title="NOTICIAS" , Mexiquense Noticias 
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
 
 #EXTINF:-1 tvg-id="Maria Vision" group-title="NACIONAL", Mariavision 
@@ -159,32 +159,34 @@ https://marine2.miplay.cl/france24/playlist.m3u8
 #EXTINF:-1 tvg-id"CNN en Espanol" group-title="NOTICIAS" , CNN en Español 
 https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
 
+
+
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7" group-title="US Español", Nuestra Vision 
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us" group-title="US Español", Telemundo
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us" group-title="US Español", Telemundo
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/65880
+EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us" group-title="US Español", Telemundo Internacional
+http://bantel.iptvperu.tv:1935/miscelaneos/telemundo.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Universo" group-title="US Español", Universo
+EXTINF:-1 tvg-id="Universo" group-title="US Español", Universo
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
 
-
-#EXTINF:-1 tvg-id="WKAQDT.pr(m3u4u)" group-title="US Español", Telemundo PR 
+#EXTINF:-1 tvg-id="" group-title="US Español", Telemundo PR 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-id="Univision" group-title="US Español",  Univision Latino America
+http://bantel.iptvperu.tv:1935/transcoder_t4/Univision_t4/playlist.m3u8
+
+EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" tvg-logo=" " group-title="US Español", 
+
+EXTINF:-1 tvg-id"UNIVISION" group-title="US Español",  Univision Latino
 
 
-#EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" tvg-logo=" " group-title="US Español", 
+EXTINF:-1 tvg-id="UniMas(East)(Spanish).us(m3u4u)" group-title="US Español", Unimas
 
-#EXTINF:-1 tvg-id"UNIVISION" group-title="US Español",  Univision Latino
-
-
-#EXTINF:-1 tvg-id="UniMas(East)(Spanish).us(m3u4u)" group-title="US Español", Unimas
-
-#EXTINF:-1 tvg-id="I684.29058.schedulesdirect.org" group-title="US Español", 
+EXTINF:-1 tvg-id="I684.29058.schedulesdirect.org" group-title="US Español", 
 
 #EXTINF:-1 tvg-id="WLIIDT.pr(m3u4u)" group-title="US Español", Teleonce Univision PR
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
@@ -203,6 +205,8 @@ https://r.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 
 #EXTINF:-1 tvg-id="FoxDeportes(Spanish).us(m3u4u)" group-title="Sports", Fox Deportes 
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158838
+
 
 #EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" group-title="Sports", Fox sports en español
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
@@ -465,6 +469,9 @@ http://bantel.iptvperu.tv:1935/transcoder_t4/SonyMovies_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Studio Universal" group-title="De Paga", Studio Universal 
 http://bantel.iptvperu.tv:1935/transcoderip/studiouniversal_t5.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Universal TV" group-title="De Paga", Universal TV
+http://bantel.iptvperu.tv:1935/transcoderip/universalchannel_t5.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="AXN" group-title="De Paga", AXN
