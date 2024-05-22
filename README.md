@@ -59,7 +59,7 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 #EXTINF:-1 tvg-id="Canal 5" group-title="NACIONAL", Canal 5
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="MULTIMEDIOS TV.mx" group-title="NACIONAL" , Multimedios
+#EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Multimedios
 https://r.mjh.nz/PlutoTV/652e91fd6208700008dcaf7b-alt.m3u8
 
 #EXTINF:-1 tvg-id="Milenio Televisión" group-title="NACIONAL" , Milenio Television
@@ -111,7 +111,7 @@ EXTINF:-1 tvg-id="I100.91060.schedulesdirect.or", group-title="VARIEDADES" , CAN
 #EXTINF:-1 tvg-id="22 de Mexico" group-title="NACIONAL" , CANAL 22 
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Nuestro Cine.mx" group-title="NACIONAL" , CANAL 22.2 MX Nuestro Cine
+#EXTINF:-1 tvg-id="" group-title="NACIONAL" , CANAL 22.2 MX Nuestro Cine
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I503.36479.schedulesdirect.org" group-title="NACIONAL", Radio y Television de Veracruz (RTV) 
@@ -141,7 +141,7 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
 EXTINF:-1 tvg-id="I292.6635.schedulesdirect.org" group-title="NOTICIAS", Foro TV
 
-#EXTINF:-1 tvg-id="El Financiero Bloomberg TV" group-title="NOTICIAS", El Financiero - Bloomberg TV
+#EXTINF:-1 tvg-id="El Financiero Bloomberg" group-title="NOTICIAS", El Financiero - Bloomberg TV
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
 
 #EXTINF:-1 tvg-id="DW en español" group-title="NOTICIAS", DW Español 
@@ -150,13 +150,13 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="RT en español" group-title="NOTICIAS", RT in Spanish 
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 
-#EXTINF:-1 tvg-id="Euro" group-title="NOTICIAS", EuroNews en español 
+#EXTINF:-1 tvg-id="619d59b7cbef25000728221c" group-title="NOTICIAS", EuroNews en español 
 https://r.mjh.nz/PlutoTV/619d59b7cbef25000728221c-alt.m3u8
 
 #EXTINF:-1 tvg-id="France en español" group-title="NOTICIAS", France 24 Español SD 
 https://marine2.miplay.cl/france24/playlist.m3u8
 
-#EXTINF:-1 tvg-id"CNN en Espanol" group-title="NOTICIAS" , CNN en Español 
+#EXTINF:-1 tvg-id"CNN en Español" group-title="NOTICIAS" , CNN en Español 
 https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
 
 
@@ -167,7 +167,7 @@ https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us" group-title="US Español", Telemundo
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us" group-title="US Español", Telemundo Internacional
+#EXTINF:-1 tvg-id="Telemundo Internacional" group-title="US Español", Telemundo Internacional
 http://bantel.iptvperu.tv:1935/miscelaneos/telemundo.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Universo" group-title="US Español", Universo
