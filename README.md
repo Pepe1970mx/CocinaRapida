@@ -1,7 +1,7 @@
 #EXTM3U 
 x-tvg-url=""
 
-#EXTINF:-1 tvg-id="" group-title="VARIEDADES" , La Rosa de Guadalupe
+#EXTINF:-1 tvg-id="La Rosa" group-title="VARIEDADES" , La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" group-title="VARIEDADES" , Pluto TV Series Latinas
@@ -10,7 +10,7 @@ https://r.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
 #EXTINF:-1 tvg-id="USBD2700004ME" group-title="VARIEDADES" , Como Dice el Dicho 
 https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="VARIEDADES" , Risas de Oro
+#EXTINF:-1 tvg-id="Risas fe Oro" group-title="VARIEDADES" , Risas de Oro
 https://linear-313.frequency.stream/mt/studio/313/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USBC2100010OS" group-title="VARIEDADES" , ViX Jajaja 
@@ -117,7 +117,7 @@ https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="I503.36479.schedulesdirect.org" group-title="NACIONAL", Radio y Television de Veracruz (RTV) 
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="NACIONAL", Telever
+#EXTINF:-1 tvg-id="Telever" group-title="NACIONAL", Telever
 https://ythls.armelin.one/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 
 #EXTINF:-1 tvg-id="Meganoticias MX" group-title="NACIONAL", Meganoticias
@@ -167,10 +167,10 @@ https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us" group-title="US Español", Telemundo
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
-EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us" group-title="US Español", Telemundo Internacional
+#EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us" group-title="US Español", Telemundo Internacional
 http://bantel.iptvperu.tv:1935/miscelaneos/telemundo.stream/playlist.m3u8
 
-EXTINF:-1 tvg-id="Universo" group-title="US Español", Universo
+#EXTINF:-1 tvg-id="Universo" group-title="US Español", Universo
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
 
 #EXTINF:-1 tvg-id="" group-title="US Español", Telemundo PR 
@@ -248,28 +248,28 @@ http://698292161688788790.ofsd5513.xyz:80/live/vi117434/Y3QCcAKrwT/788790.ts
 #EXTINF:-1 tvg-id="TUDN" group-title="Sports", Tudn 
 http://45.143.221.9:8000/live/vi117434/Y3QCcAKrwT/843450.ts?token=H0EMV0RQRl8UVw8BA1ZTDAJUVVIACAIBBVZeC1VbAlFVAgECVFpcXANDFRZAFkBdBw48WFASDVwBBFINUxQXRhcGFmleXEZfFFUJAQBUAxpKQRdYWVUVXgQAVw5SDwYFU1RIFEdRAEcMQwgMBlADGkpBBklAVUUKVFs5XAZOXFABQV5YQlQISRQOV2tXB19ZCAdBCxYBFUgXXhVIQQJbRggPSBRVURAXVxVcFglAAhpKQQBeQV5DFkwVXBouYBcfRgYcQlJWFwxZDxsOERZBGkpBCkJrQlIXQUUDWQ5dRxFeQVQUGxoJBE4+WltdDFdbEgoMX0cSDUYGFUoaDldbWhAMFmlHUQBHDEMIDAZVBxob
 
-#EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN MX
+EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN MX
 https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN USA
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
-#EXTINF:-1 tvg-id="TUDN USA" group-title="Sports", TUDN1
+EXTINF:-1 tvg-id="TUDN USA" group-title="Sports", TUDN1
 https://linear-380.frequency.stream/mt/studio/380/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports", TUDN2
+EXTINF:-1 tvg-id="" group-title="Sports", TUDN2
 https://linear-381.frequency.stream/mt/studio/381/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports", TUDN3
+EXTINF:-1 tvg-id="" group-title="Sports", TUDN3
 https://linear-383.frequency.stream/mt/studio/383/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports", TUDN
+EXTINF:-1 tvg-id="" group-title="Sports", TUDN
 https://linear-384.frequency.stream/mt/studio/384/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports", TUDN Champions 
+EXTINF:-1 tvg-id="" group-title="Sports", TUDN Champions 
 https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports", MLB Vix
+EXTINF:-1 tvg-id="" group-title="Sports", MLB Vix
 https://linear-508.frequency.stream/mt/studio/508/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="63f7e3f9dff38e00082a57af" group-title="Sports", ITV Deportes
