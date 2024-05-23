@@ -556,6 +556,9 @@ https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:85_HD.smil/manifest.m3u8
 
 
+
+
+
 #EXTINF:-1 tvg-id="Boing Espana" group-title="Kids", Boing
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 
@@ -566,7 +569,6 @@ https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network Sur" group-title="Kids", Cartoon Network 
-
 
 #EXTINF:-1 tvg-id="Nickelodeon Centro" group-title="Kids", Nickelodeon 
 http://bantel.iptvperu.tv:1935/transcoder_t4/nick_t4/playlist.m3u8
@@ -604,8 +606,11 @@ https://i.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
 EXTINF:-1 tvg-id="canela-kids" group-title="Kids" , Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
+#EXTINF:-1 tvg-id="Dreamworkds" group-title="Kids" , Dreamworkds
+http://bantel.iptvperu.tv:1935/transcoderip/dreamworkds_t5.stream/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="FHM Kids" group-title="Kids" , FHM Kids
+http://bantel.iptvperu.tv:1935/astralocal/FMH_Kids/playlist.m3u8
 
 
 EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6018913ea15130002b28418f" group-title="Movies", Free TV Live
