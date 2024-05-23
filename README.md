@@ -36,6 +36,9 @@ EXTINF:-1 tvg-id="I85.46607.schedulesdirect.org" group-title="NACIONAL" , Azteca
 #EXTINF:-1 tvg-id="Azteca Uno" group-title="NACIONAL", Azteca Uno 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
+
+
+
 #EXTINF:-1 tvg-id="Azteca Cinema" group-title="NACIONAL", Az Cinema
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64695233f73356567a64ce90.m3u8
 
@@ -60,6 +63,8 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Multimedios
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dcaf7blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+
 https://r.mjh.nz/PlutoTV/652e91fd6208700008dcaf7b-alt.m3u8
 
 #EXTINF:-1 tvg-id="Milenio Televisión" group-title="NACIONAL" , Milenio Television
