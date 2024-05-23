@@ -10,7 +10,7 @@ https://r.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
 #EXTINF:-1 tvg-id="USBD2700004ME" group-title="VARIEDADES" , Como Dice el Dicho 
 https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
 
-#EXTINF:-1 tvg-id="Risas fe Oro" group-title="VARIEDADES" , Risas de Oro
+#EXTINF:-1 tvg-id="Risas de Oro" group-title="VARIEDADES" , Risas de Oro
 https://linear-313.frequency.stream/mt/studio/313/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USBC2100010OS" group-title="VARIEDADES" , ViX Jajaja 
@@ -178,7 +178,7 @@ http://bantel.iptvperu.tv:1935/miscelaneos/telemundo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Universo" group-title="US Español", Universo
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
 
-#EXTINF:-1 tvg-id="" group-title="US Español", Telemundo PR 
+#EXTINF:-1 tvg-id="WKAQ Telemundo Puerto Rico.pr" group-title="US Español", Telemundo PR 
 https://nbculocallive.akamaiz ed.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-id="Univision" group-title="US Español",  Univision Latino America
@@ -193,13 +193,13 @@ EXTINF:-1 tvg-id="UniMas(East)(Spanish).us(m3u4u)" group-title="US Español", Un
 
 EXTINF:-1 tvg-id="I684.29058.schedulesdirect.org" group-title="US Español", 
 
-#EXTINF:-1 tvg-id="WLIIDT.pr(m3u4u)" group-title="US Español", Teleonce Univision PR
+#EXTINF:-1 tvg-id="WOLE Univisión Puerto Rico.pr" group-title="US Español", Teleonce Univision PR
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
 #EXTINF:-1 tvg-id="USBA300040WR" group-title="US Español", ESTRELLA TV
 https://i.mjh.nz/SamsungTVPlus/USBA300040WR.m3u8
 
-#EXTINF:-1  tvg-id="WAPA TV"  group-title="US Español" , Wapa
+#EXTINF:-1  tvg-id="WAPA.pr"  group-title="US Español" , Wapa
 https://live.field59.com/wapa/wapa1/playlist.m3u8
 
 
