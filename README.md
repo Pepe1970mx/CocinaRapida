@@ -227,15 +227,19 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,F
 #EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx(m3u4u)" group-title="Sports", Fox sport 3 Latinoamerica
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes 
-http://698292161688788790.ofsd5513.xyz:80/live/vi117434/Y3QCcAKrwT/788790.ts
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158831
 
 #EXTINF:-1 tvg-id="I854.25595.schedulesdirect.org" group-title="Sports", 
 
 #EXTINF:-1 tvg-id="ESPN" group-title="Sports", Espn
+http://181.78.105.146:2000/play/a064/index.m3u8
+
 
 #EXTINF:-1 tvg-id="I509.19158.schedulesdirect.org" group-title="Sports", 
 
 #EXTINF:-1 tvg-id="ESPN2.mx(m3u4u)" group-title="Sports", Espn 2 Latinoamerica
+http://181.78.105.146:2000/play/a063/index.m3u8
+
 
 #EXTINF:-1 tvg-id="I508.37747.schedulesdirect.org" group-title="Sports", 
 
