@@ -37,8 +37,6 @@ EXTINF:-1 tvg-id="I85.46607.schedulesdirect.org" group-title="NACIONAL" , Azteca
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 
-
-
 #EXTINF:-1 tvg-id="Azteca Cinema" group-title="NACIONAL", Az Cinema
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64695233f73356567a64ce90.m3u8
 
@@ -315,12 +313,6 @@ https://r.mjh.nz/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
 #EXTINF:-1 tvg-id="63eb947c4e83e70008ab877b" group-title="ENTRETENIMIENTO", NCIS
 https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 
-#EXTINF:-1 tvg-id="TV Max" group-title="ENTRETENIMIENTO" , TV Max
-https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="Telefuturo" group-title="ENTRETENIMIENTO", Telefuturo 
-http://177.234.230.226:8010/play/a033/index.m3u8
-
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
 
@@ -336,50 +328,53 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , Telesur CR
+
+#EXTINF:-1 tvg-id="TV Max" group-title="Latinoamérica" , TV Max
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="Telefuturo" group-title="Latinoamérica", Telefuturo 
+http://177.234.230.226:8010/play/a033/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Latinoamérica" , Telesur CR
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 
-
-#EXTINF:-1 tvg-id="Canal2.sv" group-title="El Salvador", Canal 2 SV
+#EXTINF:-1 tvg-id="Canal2.sv" group-title="Latinoamérica", Canal 2 SV
 https://telecorporacion.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live-video=144960.m3u8
 
-#EXTINF:-1 tvg-id="Canal4.sv" group-title="El Salvador", Canal 4 SV
+#EXTINF:-1 tvg-id="Canal4.sv" group-title="Latinoamérica", Canal 4 SV
 https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 
-#EXTINF:-1 tvg-id="Canal6.sv" group-title="El Salvador", Canal 6 SV
+#EXTINF:-1 tvg-id="Canal6.sv" group-title="Latinoamérica", Canal 6 SV
 https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/.m3u8
 
 EXTINF:-1 tvg-id="Canal10.sv" group-title="El Salvador", Canal 10 SV
 
 
-EXTINF:-1 tvg-id="" group-title="El Salvador", Canal 11 TUTV SV
-https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
-
-#EXTINF:-1 tvg-id="Canal12.sv" group-title="El Salvador", Canal 12 SV
+#EXTINF:-1 tvg-id="Canal12.sv" group-title="Latinoamérica", Canal 12 SV
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
-EXTINF:-1 tvg-id="MegavisionCanal19.sv" group-title="El Salvador", Megavision 19 SV
+EXTINF:-1 tvg-id="MegavisionCanal19.sv" group-title="Latinoamérica", Megavision 19 SV
 https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 
-#EXTINF:-1 tvg-id="VTVCanal35.sv" group-title="El Salvador", TCS+ SV
+#EXTINF:-1 tvg-id="VTVCanal35.sv" group-title="Latinoamérica", TCS+ SV
 https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-video=2000000-audio_0=64000.m3u8
 
-#EXTINF:-1 tvg-id="Canal57.sv" group-title="El Salvador", Canal 57 SV
+#EXTINF:-1 tvg-id="Canal57.sv" group-title="Latinoamérica", Canal 57 SV
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 
-#EXTINF:-1 tvg-id="ATV.pe" group-title="ENTRETENIMIENTO" , ATV PE
+#EXTINF:-1 tvg-id="ATV.pe" group-title="Latinoamérica" , ATV PE
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="ATVPlus.pe" group-title="ENTRETENIMIENTO" , ATV Sur PE
+#EXTINF:-1 tvg-id="ATVPlus.pe" group-title="Latinoamérica" , ATV Sur PE
 http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="UnitelSantaCruz.bo" group-title="ENTRETENIMIENTO" , Unitel BO
+#EXTINF:-1 tvg-id="UnitelSantaCruz.bo" group-title="Latinoamérica" , Unitel BO
 http://181.78.78.105:8000/play/a02g/index.m3u8
 
 EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="ENTRETENIMIENTO", Telecadena 7 y 4
 http://200.52.148.194:8000/play/a04q/index.m3u8
 
-EXTINF:-1 tvg-id="Televicentro.hn" group-title="ENTRETENIMIENTO", Canal 5 El lider HN
+#EXTINF:-1 tvg-id="Televicentro.hn" group-title="Latinoamérica", Canal 5 El lider HN
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 
 EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO", Canal 3 Super canal GT
@@ -391,43 +386,33 @@ EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Teleonce GT
 EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO",  Trecevision GT
 
 
-EXTINF:-1 tvg-id="Canal 4 de Costa Rica" group-title="ENTRETENIMIENTO" , Canal 4 CR
+#EXTINF:-1 tvg-id="Canal 4 de Costa Rica" group-title="Latinoamérica" , Canal 4 CR
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 
-EXTINF:-1 tvg-id="Canal 6 de Costa Rica" group-title="ENTRETENIMIENTO" , Canal 6 CR
+#EXTINF:-1 tvg-id="Canal 6 de Costa Rica" group-title="Latinoamérica" , Canal 6 CR
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
-EXTINF:-1 tvg-id="id="Canal 7 de Costa Rica (Teletica)" group-title="ENTRETENIMIENTO", Teletica 7 CR
+EXTINF:-1 tvg-id="id="Canal 7 de Costa Rica (Teletica)" group-title="Latinoamérica", Teletica 7 CR
 
-EXTINF:-1 tvg-id="Canal 11 de Costa Rica" group-title="ENTRETENIMIENTO" , Canal 11 CR
+#EXTINF:-1 tvg-id="Canal 11 de Costa Rica" group-title="Latinoamérica" , Canal 11 CR
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 
 EXTINF:-1 tvg-id="Canal 13 de Costa Rica" group-title="ENTRETENIMIENTO" , Canal 13 CR
-https://250weu.bozztv.com/ssh101/ssh101/sinart13/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-id="Telefuturo.py" group-title="ENTRETENIMIENTO" , Telefuturo PA
+#EXTINF:-1 tvg-id="Telefuturo.py" group-title="Latinoamérica" , Telefuturo PA
 http://177.234.230.226:8010/play/a033/index.m3u8
 
 EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Canal 10 NI
-https://dgh4r3ro3i2mi.cloudfront.net/Canal10NI/7d8e90910905c4165b7180d8db1d8b68.sdp/playlist.m3u8
+
 
 EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Canal 11 NI
-https://d25v5vivhcrrh5.cloudfront.net/hls/canal11.m3u8
+
 
 EXTINF:-1 tvg-id="Canal11.hn" group-title="ENTRETENIMIENTO" , Canal 11 HN
-https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
-
-EXTINF:-1 tvg-id="ecuavisa.ec" group-title="ENTRETENIMIENTO" , Ecuavisa EC
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
-
 
 
 EXTINF:-1 tvg-id="Canal Telesistema 11 (República Dominicana).do" group-title="ENTRETENIMIENTO", Telesistema
-http://38.41.8.1:8000/play/a0am
-
-
 
 
 #EXTINF:-1 tvg-id="ElTrece.ar" group-title="ENTRETENIMIENTO", El trece AR
@@ -435,13 +420,8 @@ https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" group-title="ENTRETENIMIENTO", Ciudad Magazine
 
-
-EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", WTV NI
-https://cloudvideo.servers10.com:8081/8130/index.m3u8
-
-EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", CocoTV
-https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
-
+#EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="Retro", Ciudad Magica AR
+https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
 
 
@@ -459,7 +439,7 @@ http://bantel.iptvperu.tv:1935/transcoderip/StarChannel_t2.stream/playlist.m3u8
 http://181.78.105.146:2000/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-id="Warner Channel" group-title="De Paga", Warner 
-http://698292161688843460.ofsd5513.xyz:80/live/vi117434/Y3QCcAKrwT/843460.ts
+
 
 #EXTINF:-1 tvg-id="Space" group-title="De Paga", Space
 http://698292161688843422.ofsd5513.xyz:80/live/vi117434/Y3QCcAKrwT/843422.ts
@@ -542,7 +522,7 @@ http://138.59.177.34:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="I350.34879.schedulesdirect.org" group-title="De Paga" , HBO Family
 
 #EXTINF:-1 tvg-id="HBO Family" group-title="De Paga" , HBO Family
-http://138.59.177.34:8000/play/a01p/index.m3u8
+
 
 #EXTINF:-1 tvg-id="I241.102862.schedulesdirect.org" group-title="De Paga", Fox Es
 
@@ -566,6 +546,7 @@ https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
 https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network Sur" group-title="Kids", Cartoon Network 
+http://181.78.105.146:2000/play/a03k/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon Centro" group-title="Kids", Nickelodeon 
 http://bantel.iptvperu.tv:1935/transcoder_t4/nick_t4/playlist.m3u8
@@ -577,7 +558,17 @@ http://bantel.iptvperu.tv:1935/transcoder_t2/disneychannel_t2.stream/playlist.m3
 http://bantel.iptvperu.tv:1935/transcoder_t4/nickteen_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-id"TOONCAST" group-title="Kids" , Tooncast 
-http://138.59.177.34:8000/play/a04x/index.m3u8
+
+
+
+
+http://181.78.105.146:2000/play/a04x/index.m3u8
+
+
+
+play/a064/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="645952687cb4b100084ed52e" group-title="Kids", Nickelodeon Pluto TV
 https://r.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
@@ -597,7 +588,7 @@ https://r.mjh.nz/PlutoTV/5f12151794c1800007a8ae63-alt.m3u8
 EXTINF:-1 tvg-id="60142258a54aeb0007751c15" group-title="Kids", Pluto TV Retro Cartoons
 https://r.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
 
-#EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="Kids", Los Tres Chiflados
+EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="Kids", Los Tres Chiflados
 https://i.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
 
 EXTINF:-1 tvg-id="canela-kids" group-title="Kids" , Canela Kids
@@ -610,41 +601,41 @@ http://bantel.iptvperu.tv:1935/transcoderip/dreamworkds_t5.stream/playlist.m3u8
 http://bantel.iptvperu.tv:1935/astralocal/FMH_Kids/playlist.m3u8
 
 
-EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6018913ea15130002b28418f" group-title="Movies", Free TV Live
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6018913ea15130002b28418f" group-title="Movies", Free TV Live
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6018913ea15130002b28418f.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Movies", Free TV
 https://freetv.stream.olympusatmedia.com/index.m3u8
 
-EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291" group-title="Movies", Free TV Accion
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291" group-title="Movies", Free TV Accion
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
 EXTINF:-1 tvg-id="ESBA3300039ZX" group-title="Movies", Free TV Estelar
 https://i.mjh.nz/SamsungTVPlus/ESBA3300039ZX.m3u8
 
-EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6018913fa15130002b284197" group-title="Movies", Free TV Sureño
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6018913fa15130002b284197" group-title="Movies", Free TV Sureño
 https://amg01024-olympusat-cinesurenope-lgpe-brjfx.amagi.tv/playlist/amg01024-olympusat-cinesurenope-lgpe/playlist.m3u8
 
-EXTINF:-1 tvg-id="accion-mexicana" group-title="Movies", Acción Mexicana
+#EXTINF:-1 tvg-id="accion-mexicana" group-title="Movies", Acción Mexicana
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 
-EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b" group-title="Movies", Free TV Horror
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b" group-title="Movies", Free TV Horror
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfyco-lgco/playlist.m3u8
 
-EXTINF:-1 tvg-id="canela-horror" group-title="Movies", Canela Horror
+#EXTINF:-1 tvg-id="canela-horror" group-title="Movies", Canela Horror
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
 
-EXTINF:-1 tvg-id="" group-title="Movies", Runtime Espanto
+#EXTINF:-1 tvg-id="" group-title="Movies", Runtime Espanto
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
 
 
 EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-60240f57676235002df19f49" group-title="Movies", Free TV Familia
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntosco-lgco/playlist.m3u8
 
-EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" group-title="Movies",Cine Premiere 
+#EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" group-title="Movies",Cine Premiere 
 https://r.mjh.nz/PlutoTV/5cf968040ab7d8f181e6a68b-alt.m3u8
 
-EXTINF:-1 tvg-id="canela-cinema-0" group-title="Movies", Canela Cinema
+#EXTINF:-1 tvg-id="canela-cinema-0" group-title="Movies", Canela Cinema
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgmx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESAJ45000181E" group-title="Movies" , Accion Rakuten 
@@ -691,7 +682,7 @@ https://r.mjh.nz/PlutoTV/5dcde1317578340009b751d0-alt.m3u8
 EXTINF:-1 tvg-id="5de802659167b10009e7deba" group-title="Retro", Pluto TV Series Retro
 https://r.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
 
-#EXTINF:-1 tvg-id="Teleclasica" group-title="Retro" , Teleclasica 
+EXTINF:-1 tvg-id="Teleclasica" group-title="Retro" , Teleclasica 
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ACS Network TV" group-title="Retro", ACS Network
@@ -700,19 +691,17 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w910290755.
 #EXTINF:-1 tvg-id="Dreiko TV" group-title="Retro" , Dreiko TV 
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
-#EXTINF:-1 tvg-id="Telesistema" group-title="Retro", Telesistema 
+EXTINF:-1 tvg-id="Telesistema" group-title="Retro", Telesistema 
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="Retro", Ciudad Magica AR
-https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
 #EXTINF:-1 tvg-id="Tv Retro Palmares" group-title="Retro", TV Palmares TV
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RetroX TV" group-title="Retro", Retro X
+EXTINF:-1 tvg-id="RetroX TV" group-title="Retro", Retro X
 https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
 
-#EXTINF:-1 tvg-id="Magic Kids Tv" group-title="Retro", Magic Kids TV
+EXTINF:-1 tvg-id="Magic Kids Tv" group-title="Retro", Magic Kids TV
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
 #EXTINF:-1 tvg-id="Mi TV Television Clasica" group-title="Retro", Mi TV televisión Clasica
