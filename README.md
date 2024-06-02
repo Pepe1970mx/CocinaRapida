@@ -60,7 +60,6 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 #EXTINF:-1 tvg-id="Canal 5" group-title="NACIONAL", Canal 5
 http://181.78.105.146:2000/play/a038/index.m3u8
 
-
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Multimedios
@@ -82,7 +81,7 @@ EXTINF:-1 tvg-id="I107.102406.schedulesdirect.org" group-title="VARIEDADES" , Az
 #EXTINF:-1 tvg-id="A Mas" group-title="NACIONAL", A Mas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-EXTINF:-1 tvg-id="Canal 10" group-title="VARIEDADES" , Camal 10/El Heraldo TV
+#EXTINF:-1 tvg-id="Canal 10" group-title="VARIEDADES" , Camal 10/El Heraldo TV
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Teleformula" group-title="NACIONAL" , TVOAI Channels
@@ -447,15 +446,15 @@ http://181.78.105.146:2000/play/a018/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Space" group-title="De Paga", Space
-http://698292161688843422.ofsd5513.xyz:80/live/vi117434/Y3QCcAKrwT/843422.ts
 
-#EXTINF:-1 tvg-id="Sony" group-title="De Paga", Sony
+
+#EXTINF:-1 tvg-id="Sony" group-title="De Paga", Sony Channel
 http://bantel.iptvperu.tv:1935/transcoder_t4/sonychannel_t4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SONY MOVIES" group-title="De Paga", Cine Sony
+#EXTINF:-1 tvg-id="Cine Sony" group-title="De Paga", Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SONY MOVIES" group-title="De Paga", Cine Sony
+#EXTINF:-1 tvg-id="SONY MOVIES" group-title="De Paga", Sony Movies
 http://bantel.iptvperu.tv:1935/transcoder_t4/SonyMovies_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Studio Universal" group-title="De Paga", Studio Universal 
@@ -463,7 +462,6 @@ http://bantel.iptvperu.tv:1935/transcoderip/studiouniversal_t5.stream/playlist.m
 
 #EXTINF:-1 tvg-id="Universal TV" group-title="De Paga", Universal TV
 http://bantel.iptvperu.tv:1935/transcoderip/universalchannel_t5.stream/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="AXN" group-title="De Paga", AXN
 http://bantel.iptvperu.tv:1935/transcoder_t4/axn_t4/playlist.m3u8
@@ -475,10 +473,10 @@ http://bantel.iptvperu.tv:1935/transcoderip/paramount_t4/playlist.m3u8
 http://bantel.iptvperu.tv:1935/transcoderip/FX_t2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Paramount Channel" group-title="De Paga", Paramount ES
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:22_HD.smil/manifest.m3u8
+
 
 #EXTINF:-1 tvg-id="AMC" group-title="De Paga", AMC ES
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8
+
 
 #EXTINF:-1 tvg-id="M Accion" group-title="De Paga", M+ Accion 
 http://924606346607321307.ofg0316.xyz:80/play/vi1229804/esDA4JqSWQTP/321307.ts
@@ -501,7 +499,6 @@ https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO 2" group-title="De Paga" , HBO 2
 
 
-
 EXTINF:-1 tvg-id="I831.98111.schedulesdirect.org" group-title="De Paga", Warner 
 
 EXTINF:-1 tvg-id="I212.19385.schedulesdirect.org" group-title="De Paga", Sony
@@ -513,21 +510,24 @@ EXTINF:-1 tvg-id="I212.19385.schedulesdirect.org" group-title="De Paga", Sony
 
 
 #EXTINF:-1 tvg-id="Universal Premier" group-title="De Paga" , Universal Premiere
-http://138.59.177.34:8000/play/a05s/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" group-title="De Paga" , USA
-http://138.59.177.34:8000/play/a053/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="I313.24553.schedulesdirect.org" group-title="De Paga" , HBO
 
-#EXTINF:-1 tvg-id="HBO" group-title="De Paga" , HBO
-http://138.59.177.34:8000/play/a01m/index.m3u8
+#EXTINF:-1 tvg-id="HBO" group-title="De Paga" , HBO 
+https://live.tv247us.com/tv247/hbo.m3u8
+
+#EXTINF:-1 tvg-id="HBO 2" group-title="De Paga" , HBO 2
+http://170.254.18.106/HBO2/index.m3u8
 
 #EXTINF:-1 tvg-id="I350.34879.schedulesdirect.org" group-title="De Paga" , HBO Family
 
 #EXTINF:-1 tvg-id="HBO Family" group-title="De Paga" , HBO Family
-
+http://170.254.18.106/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-id="I241.102862.schedulesdirect.org" group-title="De Paga", Fox Es
 
