@@ -81,7 +81,7 @@ EXTINF:-1 tvg-id="I107.102406.schedulesdirect.org" group-title="VARIEDADES" , Az
 #EXTINF:-1 tvg-id="A Mas" group-title="NACIONAL", A Mas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 tvg-id="Canal 10" group-title="VARIEDADES" , Camal 10/El Heraldo TV
+#EXTINF:-1 tvg-id="Canal 10" group-title="VARIEDADES" , Canal 10/El Heraldo TV
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Teleformula" group-title="NACIONAL" , TVOAI Channels
@@ -336,11 +336,9 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Max" group-title="Latinoamérica" , TV Max
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="Telefuturo" group-title="Latinoamérica", Telefuturo 
+#EXTINF:-1 tvg-id="Telefuturo.py" group-title="Latinoamérica" , Telefuturo PA
 http://177.234.230.226:8010/play/a033/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Latinoamérica" , Telesur CR
-https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 
 #EXTINF:-1 tvg-id="Canal2.sv" group-title="Latinoamérica", Canal 2 SV
 https://telecorporacion.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live-video=144960.m3u8
@@ -366,6 +364,10 @@ https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f58
 #EXTINF:-1 tvg-id="Canal57.sv" group-title="Latinoamérica", Canal 57 SV
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 
+
+#EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="Retro", Ciudad Magica AR
+https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
+
 #EXTINF:-1 tvg-id="Willax.pe" group-title="Latinoamérica" , Willax PE
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
@@ -377,6 +379,9 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnery/atvsur.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UnitelSantaCruz.bo" group-title="Latinoamérica" , Unitel BO
 http://181.78.78.105:8000/play/a02g/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Latinoamérica" , Telesur CR
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 
 EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="ENTRETENIMIENTO", Telecadena 7 y 4
 http://200.52.148.194:8000/play/a04q/index.m3u8
@@ -407,8 +412,7 @@ https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 EXTINF:-1 tvg-id="Canal 13 de Costa Rica" group-title="ENTRETENIMIENTO" , Canal 13 CR
 
 
-#EXTINF:-1 tvg-id="Telefuturo.py" group-title="Latinoamérica" , Telefuturo PA
-http://177.234.230.226:8010/play/a033/index.m3u8
+
 
 EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Canal 10 NI
 
@@ -427,8 +431,7 @@ https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" group-title="ENTRETENIMIENTO", Ciudad Magazine
 
-#EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="Retro", Ciudad Magica AR
-https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
+
 
 
 
