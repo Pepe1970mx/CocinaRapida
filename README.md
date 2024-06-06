@@ -81,7 +81,7 @@ EXTINF:-1 tvg-id="I107.102406.schedulesdirect.org" group-title="VARIEDADES" , Az
 #EXTINF:-1 tvg-id="A Mas" group-title="NACIONAL", A Mas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 tvg-id="Canal 10" group-title="VARIEDADES" , Canal 10/El Heraldo TV
+#EXTINF:-1 tvg-id="Canal 10" group-title="VARIEDADES" , Canal 10 
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Teleformula" group-title="NACIONAL" , TVOAI Channels
