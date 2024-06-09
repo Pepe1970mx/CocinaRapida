@@ -441,6 +441,8 @@ https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 EXTINF:-1 tvg-id="I528.88534.schedulesdirect.org" group-title="De Paga", Star Channels Latinoamerica
 
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel
+http://rasaiptv.com:8080/amartinez/s1stemas.13579/30
+
 http://bantel.iptvperu.tv:1935/transcoderip/StarChannel_t2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I644.80807.schedulesdirect.org" group-title="De Paga", TNT Latinoamerica
@@ -449,33 +451,45 @@ http://bantel.iptvperu.tv:1935/transcoderip/StarChannel_t2.stream/playlist.m3u8
 http://181.78.105.146:2000/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-id="Warner Channel" group-title="De Paga", Warner 
-http://177.53.153.20:8001/play/a08l/index.m3u8
+http://rasaiptv.com:8080/amartinez/s1stemas.13579/1259
 
 #EXTINF:-1 tvg-id="Space" group-title="De Paga", Space
 http://181.78.105.146:2000/play/a04x/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony" group-title="De Paga", Sony Channel
+
+
 http://bantel.iptvperu.tv:1935/transcoder_t4/sonychannel_t4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cine Sony" group-title="De Paga", Cine Sony
+#EXTINF:-1 tvg-id="Sony Cine" group-title="De Paga", Sony Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SONY MOVIES" group-title="De Paga", Sony Movies
 http://bantel.iptvperu.tv:1935/transcoder_t4/SonyMovies_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Studio Universal" group-title="De Paga", Studio Universal 
+
+
 http://bantel.iptvperu.tv:1935/transcoderip/studiouniversal_t5.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Universal TV" group-title="De Paga", Universal TV
+http://rasaiptv.com:8080/amartinez/s1stemas.13579/1269
+
 http://bantel.iptvperu.tv:1935/transcoderip/universalchannel_t5.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AXN" group-title="De Paga", AXN
+
+
 http://bantel.iptvperu.tv:1935/transcoder_t4/axn_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Paramount" group-title="De Paga", Paramount 
+http://rasaiptv.com:8080/amartinez/s1stemas.13579/53938
+
 http://bantel.iptvperu.tv:1935/transcoderip/paramount_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FX" group-title="De Paga", FX
+http://rasaiptv.com:8080/amartinez/s1stemas.13579/1275
+
 http://bantel.iptvperu.tv:1935/transcoderip/FX_t2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Paramount Channel" group-title="De Paga", Paramount ES
@@ -502,9 +516,6 @@ https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Golden Edge" group-title="De Paga" , Edge
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBO 2" group-title="De Paga" , HBO 2
-
-
 EXTINF:-1 tvg-id="I831.98111.schedulesdirect.org" group-title="De Paga", Warner 
 
 
@@ -517,16 +528,14 @@ EXTINF:-1 tvg-id="I212.19385.schedulesdirect.org" group-title="De Paga", Sony
 
 
 #EXTINF:-1 tvg-id="Universal Premier" group-title="De Paga" , Universal Premiere
-
+http://rasaiptv.com:8080/amartinez/s1stemas.13579/111419
 
 #EXTINF:-1 tvg-id="" group-title="De Paga" , USA
 
 
 
 #EXTINF:-1 tvg-id="I313.24553.schedulesdirect.org" group-title="De Paga" , HBO
-
-#EXTINF:-1 tvg-id="HBO" group-title="De Paga" , HBO 
-https://live.tv247us.com/tv247/hbo.m3u8
+http://rasaiptv.com:8080/amartinez/s1stemas.13579/55
 
 #EXTINF:-1 tvg-id="HBO 2" group-title="De Paga" , HBO 2
 http://170.254.18.106/HBO2/index.m3u8
@@ -539,10 +548,10 @@ http://170.254.18.106/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="I241.102862.schedulesdirect.org" group-title="De Paga", Fox Es
 
 
-#EXTINF:-1 tvg-id="De Pelicula Plus" group-title="De Paga" , De Pelicula Plus
+EXTINF:-1 tvg-id="De Pelicula Plus" group-title="De Paga" , De Pelicula Plus
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:85_HD.smil/manifest.m3u8
+
 
 
 
