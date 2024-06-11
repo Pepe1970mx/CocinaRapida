@@ -20,8 +20,6 @@ https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
 http://45.5.117.182:8000/play/ihf9/index.m3u8
 
 
-http://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
-
 EXTINF:-1 tvg-id="Azteca Clic" group-title="VARIEDADES" , Az Clic
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6469502df73356567a64ce8e.m3u8
 
@@ -39,8 +37,6 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 tvg-id="Azteca Cinema" group-title="NACIONAL", Az Cinema
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa.m3u8
-
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64695233f73356567a64ce90.m3u8
 
 #EXTINF:-1 tvg-id="ADN 40" group-title="NACIONAL", ADN 40 
 https://r.mjh.nz/PlutoTV/646ccd3681844c000974d6f4-alt.m3u8
@@ -171,7 +167,7 @@ https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us" group-title="US Español", Telemundo
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+http://rasaiptv.com:8080/amartinez/s1stemas.13579/114358
 
 #EXTINF:-1 tvg-id="Telemundo Internacional" group-title="US Español", Telemundo Internacional
 http://bantel.iptvperu.tv:1935/miscelaneos/telemundo.stream/playlist.m3u8
@@ -253,8 +249,8 @@ http://181.78.105.146:2000/play/a063/index.m3u8
 #EXTINF:-1 tvg-id="TUDN" group-title="Sports", Tudn 
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/1549.m3u8
 
-#EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN MX
-https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8
+EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN MX
+
 
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN USA
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
@@ -268,7 +264,7 @@ https://linear-381.frequency.stream/mt/studio/381/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sports", TUDN3
 https://linear-383.frequency.stream/mt/studio/383/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports", TUDN
+#EXTINF:-1 tvg-id="" group-title="Sports", TUDN4
 https://linear-384.frequency.stream/mt/studio/384/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports", TUDN Champions 
@@ -282,9 +278,6 @@ https://r.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
 
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0"  group-title="Sports", AyM sports
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
-
-#EXTINF:-1 tvg-id="M La Liga" group-title="Sports", Sky Sports La Liga Vix
-
 
 #EXTINF:-1 tvg-id="WAPA 2 Deportes" group-title="Sports", Wapa Deportes
 https://live.field59.com/wapa/wapa2/.m3u8
@@ -395,7 +388,7 @@ https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="ENTRETENIMIENTO", Telecadena 7 y 4
 http://200.52.148.194:8000/play/a04q/index.m3u8
 
-#EXTINF:-1 tvg-id="Televicentro.hn" group-title="Latinoamérica", Canal 5 El lider HN
+EXTINF:-1 tvg-id="Televicentro.hn" group-title="Latinoamérica", Canal 5 El lider HN
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 
 EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO", Canal 3 Super canal GT
@@ -429,15 +422,6 @@ EXTINF:-1 tvg-id="Canal11.hn" group-title="ENTRETENIMIENTO" , Canal 11 HN
 
 
 EXTINF:-1 tvg-id="Canal Telesistema 11 (República Dominicana).do" group-title="ENTRETENIMIENTO", Telesistema
-
-
-
-
-
-
-
-
-
 
 
 
@@ -531,33 +515,20 @@ https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index
 #EXTINF:-1 tvg-id="ESBC4100003WE" group-title="Kids" , Clan
 https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Kids" , Disney ES
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
-
 #EXTINF:-1 tvg-id="Cartoon Network Sur" group-title="Kids", Cartoon Network 
 http://181.78.105.146:2000/play/a03k/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon Centro" group-title="Kids", Nickelodeon 
-http://bantel.iptvperu.tv:1935/transcoder_t4/nick_t4/playlist.m3u8
+http://rasaiptv.com:8080/amartinez/s1stemas.13579/132691
 
 #EXTINF:-1 tvg-id="Disney Channel" group-title="Kids", Disney Channels
-http://bantel.iptvperu.tv:1935/transcoder_t2/disneychannel_t2.stream/playlist.m3u8
+http://rasaiptv.com:8080/amartinez/s1stemas.13579/110282
 
 #EXTINF:-1 tvg-id="TeenNick" group-title="Kids", TeenNick
-http://bantel.iptvperu.tv:1935/transcoder_t4/nickteen_t4/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id"TOONCAST" group-title="Kids" , Tooncast 
-
-
-
-
-http://181.78.105.146:2000/play/a04x/index.m3u8
-
-
-
-play/a064/index.m3u8
-
-
+http://rasaiptv.com:8080/amartinez/s1stemas.13579/132703
 
 #EXTINF:-1 tvg-id="645952687cb4b100084ed52e" group-title="Kids", Nickelodeon Pluto TV
 https://r.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
@@ -584,10 +555,10 @@ EXTINF:-1 tvg-id="canela-kids" group-title="Kids" , Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
 #EXTINF:-1 tvg-id="Dreamworkds" group-title="Kids" , Dreamworkds
-http://bantel.iptvperu.tv:1935/transcoderip/dreamworkds_t5.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="FHM Kids" group-title="Kids" , FHM Kids
-http://bantel.iptvperu.tv:1935/astralocal/FMH_Kids/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6018913ea15130002b28418f" group-title="Movies", Free TV Live
