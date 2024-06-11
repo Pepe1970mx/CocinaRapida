@@ -38,6 +38,8 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 
 #EXTINF:-1 tvg-id="Azteca Cinema" group-title="NACIONAL", Az Cinema
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa.m3u8
+
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64695233f73356567a64ce90.m3u8
 
 #EXTINF:-1 tvg-id="ADN 40" group-title="NACIONAL", ADN 40 
@@ -46,7 +48,7 @@ https://r.mjh.nz/PlutoTV/646ccd3681844c000974d6f4-alt.m3u8
 #EXTINF:-1 tvg-id="Las Estrellas" group-title="NACIONAL", Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 
-EXTINF:-1 tvg-id="las estrellas.pe" group-title="NACIONAL", Las estrellas Latinoamerica
+#EXTINF:-1 tvg-id="las estrellas.pe" group-title="NACIONAL", Las estrellas Latinoamerica
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Imagen Television" group-title="NACIONAL", Imagen TV HD
@@ -74,8 +76,6 @@ https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 #EXTINF:-1 tvg-id="Azteca7" group-title="NACIONAL", Azteca 7
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
-https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-
 EXTINF:-1 tvg-id="I107.102406.schedulesdirect.org" group-title="VARIEDADES" , Azteca 7 
 
 #EXTINF:-1 tvg-id="A Mas" group-title="NACIONAL", A Mas
@@ -91,9 +91,10 @@ EXTINF:-1 " tvg-id="Teleformula" group-title="NACIONAL" , TeleFormula
 https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
 
 #EXTINF:-1 tvg-id="El Nueve" group-title="NACIONAL", Canal Nu9ve
+https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 
 EXTINF:-1 tvg-id="I233.97020.schedulesdirect.org" group-title="VARIEDADES", Canal Nu9ve
-https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
+
 
 #EXTINF:-1 tvg-id="MVSTV.mx" group-title="NACIONAL", MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
@@ -167,7 +168,7 @@ https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7" group-title="US Español", Nuestra Vision 
-https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us" group-title="US Español", Telemundo
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
