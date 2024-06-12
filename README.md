@@ -175,8 +175,8 @@ http://bantel.iptvperu.tv:1935/miscelaneos/telemundo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Universo" group-title="US Español", Universo
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
 
-#EXTINF:-1 tvg-id="WKAQ Telemundo Puerto Rico.pr" group-title="US Español", Telemundo PR 
-https://nbculocallive.akamaiz ed.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="WKAQ Telemundo Puerto Rico.pr" group-title="US Español", Telemundo PR
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-id="Univision" group-title="US Español",  Univision Latino America
 http://bantel.iptvperu.tv:1935/transcoder_t4/Univision_t4/playlist.m3u8
@@ -358,7 +358,7 @@ https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f58
 #EXTINF:-1 tvg-id="Canal57.sv" group-title="Latinoamérica", Canal 57 SV
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 
-#EXTINF:-1 tvg-id="Willax.pe" group-title="Latinoamérica" , Willax PE
+#EXTINF:-1 tvg-id="WillaxTV.pe" group-title="Latinoamérica" , Willax PE
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
 #EXTINF:-1 tvg-id="ATV.pe" group-title="Latinoamérica" , ATV PE
@@ -367,7 +367,7 @@ http://rasaiptv.com:8080/amartinez/s1stemas.13579/330718
 #EXTINF:-1 tvg-id="ATVPlus.pe" group-title="Latinoamérica" , ATV Sur PE
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="Panamericana.pe" group-title="Latinoamérica" , Panamericana 
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" group-title="Latinoamérica" , Panamericana 
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 
 #EXTINF:-1 tvg-id="UnitelSantaCruz.bo" group-title="Latinoamérica" , Unitel BO
