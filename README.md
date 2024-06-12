@@ -47,7 +47,7 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 #EXTINF:-1 tvg-id="las estrellas.pe" group-title="NACIONAL", Las estrellas Latinoamerica
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Imagen Television" group-title="NACIONAL", Imagen TV HD
+#EXTINF:-1 tvg-id="64e35aff6b1fdb0008ea8441" group-title="NACIONAL", Imagen TV HD
 https://r.mjh.nz/PlutoTV/64e35aff6b1fdb0008ea8441-alt.m3u8
 
 EXTINF:-1 tvg-id="I28.82353.schedulesdirect.org" group-title="NACIONAL",  Exelsior TV
@@ -60,8 +60,9 @@ http://rasaiptv.com:8080/amartinez/s1stemas.13579/114283
 
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Multimedios
+#EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 CdMX
 https://r.mjh.nz/PlutoTV/652e91fd6208700008dcaf7b-alt.m3u8
+
 
 #EXTINF:-1 tvg-id="Milenio Televisión" group-title="NACIONAL" , Milenio Television
 https://r.mjh.nz/PlutoTV/652e922db4b047000825f975-alt.m3u8
@@ -86,7 +87,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5278
 EXTINF:-1 " tvg-id="Teleformula" group-title="NACIONAL" , TeleFormula
 https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
 
-#EXTINF:-1 tvg-id="El Nueve" group-title="NACIONAL", Canal Nu9ve
+#EXTINF:-1 tvg-id="El Nueve" group-title="NACIONAL", El Nueve
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 
 EXTINF:-1 tvg-id="I233.97020.schedulesdirect.org" group-title="VARIEDADES", Canal Nu9ve
@@ -379,7 +380,7 @@ https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 #EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="Retro", Ciudad Magica AR
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
-#EXTINF:-1 tvg-id="ElTrece.ar" group-title="ENTRETENIMIENTO", El trece AR
+#EXTINF:-1 tvg-id="13 de Argentina" group-title="ENTRETENIMIENTO", El trece AR
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" group-title="ENTRETENIMIENTO", Ciudad Magazine
