@@ -389,10 +389,10 @@ https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" group-title="ENTRETENIMIENTO", Ciudad Magazine
 
 
-EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="ENTRETENIMIENTO", Telecadena 7 y 4
+#EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="ENTRETENIMIENTO", Telecadena 7 y 4
 http://200.52.148.194:8000/play/a04q/index.m3u8
 
-EXTINF:-1 tvg-id="Televicentro.hn" group-title="Latinoamérica", Canal 5 El lider HN
+#EXTINF:-1 tvg-id="Televicentro.hn" group-title="Latinoamérica", Canal 5 El lider HN
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 
 EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO", Canal 3 Super canal GT
@@ -563,13 +563,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
 #EXTINF:-1 tvg-id="FHM Kids" group-title="Kids" , FHM Kids
 
-
+#EXTINF:-1 tvg-id="" group-title="Movies", Free TV
+https://freetv.stream.olympusatmedia.com/index.m3u8
 
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6018913ea15130002b28418f" group-title="Movies", Free TV Live
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6018913ea15130002b28418f.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Movies", Free TV
-https://freetv.stream.olympusatmedia.com/index.m3u8
 
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291" group-title="Movies", Free TV Accion
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
