@@ -156,11 +156,11 @@ https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-id="619d59b7cbef25000728221c" group-title="NOTICIAS", EuroNews en español 
 https://r.mjh.nz/PlutoTV/619d59b7cbef25000728221c-alt.m3u8
 
-#EXTINF:-1 tvg-id="France en español" group-title="NOTICIAS", France 24 Español SD 
-https://marine2.miplay.cl/france24/playlist.m3u8
+#EXTINF:-1 tvg-id="France en español" group-title="NOTICIAS", France 24 Español 
+https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
 #EXTINF:-1 tvg-id"CNN en Español" group-title="NOTICIAS" , CNN en Español 
-https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
+
 
 
 
@@ -168,7 +168,7 @@ https://linear-358.frequency.stream/mt/studio/358/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us" group-title="US Español", Telemundo
-http://rasaiptv.com:8080/amartinez/s1stemas.13579/114358
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo Internacional" group-title="US Español", Telemundo Internacional
 http://bantel.iptvperu.tv:1935/miscelaneos/telemundo.stream/playlist.m3u8
@@ -273,6 +273,9 @@ https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
 
 EXTINF:-1 tvg-id="" group-title="Sports", MLB Vix
 https://linear-508.frequency.stream/mt/studio/508/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports", Multivision Sport
+https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
 
 #EXTINF:-1 tvg-id="63f7e3f9dff38e00082a57af" group-title="Sports", ITV Deportes
 https://r.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
