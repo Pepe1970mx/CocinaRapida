@@ -185,6 +185,8 @@ http://bantel.iptvperu.tv:1935/transcoder_t4/Univision_t4/playlist.m3u8
 EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" tvg-logo=" " group-title="US Español", 
 
 EXTINF:-1 tvg-id"UNIVISION" group-title="US Español",  Univision Latino
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
+
 
 
 EXTINF:-1 tvg-id="UniMas(East)(Spanish).us(m3u4u)" group-title="US Español", Unimas
@@ -201,31 +203,35 @@ https://i.mjh.nz/SamsungTVPlus/USBA300040WR.m3u8
 https://live.field59.com/wapa/wapa1/playlist.m3u8
 
 
+
+
 #EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" group-title="Sports", beIN Sport Xtra en Español
 https://r.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 
 #EXTINF:-1 tvg-id="6320d2755e54db000783fd87" group-title="Sports", Claro Sports México 
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 
-#EXTINF:-1 tvg-id="FoxDeportes(Spanish).us(m3u4u)" group-title="Sports", Fox Deportes 
+#EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes 
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158838
 
 
-#EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" group-title="Sports", Fox sports en español
+EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" group-title="Sports", Fox sports en español
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
-#EXTINF:-1 tvg-id="I505.41677.schedulesdirect.org" group-title="Sports", Fox Premium
+#EXTINF:-1 tvg-id="I505.41677.schedulesdirect.org" group-title="Sports",
+
+#EXTINF:-1 tvg-id="Fox Premium México " group-title="Sports", Fox Premium
 http://pe.shortgod.com/temporal/play.php?id=157
 
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx(m3u4u)" group-title="Sports", Fox Sport Latinoamerica
 
 
-#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx(m3u4u)" group-title="Sports", Fox sport 2 Latinoamerica
+#EXTINF:-1 tvg-id="Fox Sports 2" group-title="Sports", Fox sport 2 Latinoamerica
 https://pe.shortgod.com/temporal/play.php?id=25
 
 #EXTINF:-1 tvg-id="I506.66365.schedulesdirect.org" group-title="Sports", 
 
-#EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx(m3u4u)" group-title="Sports", Fox sport 3 Latinoamerica
+#EXTINF:-1 tvg-id="Fox Sports 3" group-title="Sports", Fox sport 3 Latinoamerica
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes 
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158831
@@ -237,7 +243,7 @@ http://181.78.105.146:2000/play/a064/index.m3u8
 
 #EXTINF:-1 tvg-id="I509.19158.schedulesdirect.org" group-title="Sports", 
 
-#EXTINF:-1 tvg-id="ESPN2.mx(m3u4u)" group-title="Sports", Espn 2 Latinoamerica
+#EXTINF:-1 tvg-id="ESPN2 México" group-title="Sports", Espn 2 Latinoamerica
 http://181.78.105.146:2000/play/a063/index.m3u8
 
 
@@ -274,7 +280,7 @@ https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
 EXTINF:-1 tvg-id="" group-title="Sports", MLB Vix
 https://linear-508.frequency.stream/mt/studio/508/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports", Multivision Sport
+#EXTINF:-1 tvg-id="Multivision Sport" group-title="Sports", Multivision Sport
 https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
 
 #EXTINF:-1 tvg-id="63f7e3f9dff38e00082a57af" group-title="Sports", ITV Deportes
@@ -337,7 +343,6 @@ https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/60580
 #EXTINF:-1 tvg-id="Telefuturo.py" group-title="Latinoamérica" , Telefuturo PA
 http://177.234.230.226:8010/play/a033/index.m3u8
 
-
 #EXTINF:-1 tvg-id="Canal2.sv" group-title="Latinoamérica", Canal 2 SV
 https://telecorporacion.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live-video=144960.m3u8
 
@@ -377,7 +382,7 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 tvg-id="UnitelSantaCruz.bo" group-title="Latinoamérica" , Unitel BO
 http://181.78.78.105:8000/play/a02g/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Latinoamérica" , Telesur CR
+#EXTINF:-1 tvg-id="Telesur" group-title="Latinoamérica" , Telesur CR
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 
 #EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="Retro", Ciudad Magica AR
@@ -432,29 +437,29 @@ EXTINF:-1 tvg-id="Canal Telesistema 11 (República Dominicana).do" group-title="
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/30
 
-#EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT Latinoamerica
+#EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1245
 
 #EXTINF:-1 tvg-id="Space" group-title="De Paga", Space
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1281
 
-#EXTINF:-1 tvg-id="Warner Channel" group-title="De Paga", Warner 
+#EXTINF:-1 tvg-id="Warner Channel Mexico" group-title="De Paga", Warner 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1259
 
-#EXTINF:-1 tvg-id="Sony" group-title="De Paga", Sony Channel
+#EXTINF:-1 tvg-id="Sony Mexico" group-title="De Paga", Sony 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1263
 
-#EXTINF:-1 tvg-id="Sony Cine" group-title="De Paga", Sony Cine
+#EXTINF:-1 tvg-id="Cine Sony" group-title="De Paga", Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SONY MOVIES" group-title="De Paga", Sony Movies
 
 #EXTINF:-1 tvg-id="Studio Universal" group-title="De Paga", Studio Universal 
 
-#EXTINF:-1 tvg-id="Universal TV" group-title="De Paga", Universal Channel
+#EXTINF:-1 tvg-id="Universal" group-title="De Paga", Universal Channel
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1269
 
-#EXTINF:-1 tvg-id="AXN" group-title="De Paga", AXN
+#EXTINF:-1 tvg-id="AXN MX" group-title="De Paga", AXN
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1255
 
 #EXTINF:-1 tvg-id="Paramount" group-title="De Paga", Paramount 
@@ -463,7 +468,7 @@ http://rasaiptv.com:8080/amartinez/s1stemas.13579/53938
 #EXTINF:-1 tvg-id="FX" group-title="De Paga", FX
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1275
 
-#EXTINF:-1 tvg-id="Universal Premier" group-title="De Paga" , Universal Premiere
+#EXTINF:-1 tvg-id="Universal Premier" group-title="De Paga" , Universal Premier
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/111419
 
 #EXTINF:-1 tvg-id="AMC" group-title="De Paga", AMC 
@@ -519,13 +524,13 @@ https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index
 #EXTINF:-1 tvg-id="ESBC4100003WE" group-title="Kids" , Clan
 https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
 
-#EXTINF:-1 tvg-id="Cartoon Network Sur" group-title="Kids", Cartoon Network 
+#EXTINF:-1 tvg-id="Cartoon Network México" group-title="Kids", Cartoon Network 
 http://181.78.105.146:2000/play/a03k/index.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon Centro" group-title="Kids", Nickelodeon 
+#EXTINF:-1 tvg-id="Nickelodeon México" group-title="Kids", Nickelodeon 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/132691
 
-#EXTINF:-1 tvg-id="Disney Channel" group-title="Kids", Disney Channels
+#EXTINF:-1 tvg-id="Disney Channel Espana" group-title="Kids", Disney Channels
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/110282
 
 #EXTINF:-1 tvg-id="TeenNick" group-title="Kids", TeenNick
