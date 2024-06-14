@@ -35,7 +35,7 @@ EXTINF:-1 tvg-id="I85.46607.schedulesdirect.org" group-title="NACIONAL" , Azteca
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 
-#EXTINF:-1 tvg-id="Azteca Cinema" group-title="NACIONAL", Az Cinema
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7" group-title="NACIONAL", Cine Oro
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa.m3u8
 
 #EXTINF:-1 tvg-id="ADN 40" group-title="NACIONAL", ADN 40 
