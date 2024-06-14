@@ -327,8 +327,8 @@ https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV Movies
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8
 
-#EXTINF:-1 tvg-id="PlanetaTV Kids"  group-title="ENTRETENIMIENTO" , Planeta TV Kids
-https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Prime"  group-title="ENTRETENIMIENTO" , TV Prime
+https://premium.tvcontrolcp.com:19360/8062/8062.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Frecuencia Musical TV" group-title="ENTRETENIMIENTO", FM TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
@@ -649,8 +649,14 @@ https://r.mjh.nz/PlutoTV/5dcde1317578340009b751d0-alt.m3u8
 EXTINF:-1 tvg-id="5de802659167b10009e7deba" group-title="Retro", Pluto TV Series Retro
 https://r.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
 
+
+
+
 EXTINF:-1 tvg-id="Teleclasica" group-title="Retro" , Teleclasica 
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Retro TV" group-title="Retro" , Retro TV
+https://ssh101-fl.bozztv.com/ssh101/retrotvcr/index.m3u8
 
 #EXTINF:-1 tvg-id="ACS Network TV" group-title="Retro", ACS Network
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w910290755.m3u8
