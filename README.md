@@ -44,7 +44,7 @@ https://r.mjh.nz/PlutoTV/646ccd3681844c000974d6f4-alt.m3u8
 #EXTINF:-1 tvg-id="Las Estrellas" group-title="NACIONAL", Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="las estrellas.pe" group-title="NACIONAL", Las estrellas Latinoamerica
+#EXTINF:-1 tvg-id="Las estrellas.pe" group-title="NACIONAL", Las estrellas Latinoamerica
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="64e35aff6b1fdb0008ea8441" group-title="NACIONAL", Imagen TV HD
@@ -147,16 +147,17 @@ EXTINF:-1 tvg-id="I292.6635.schedulesdirect.org" group-title="NOTICIAS", Foro TV
 #EXTINF:-1 tvg-id="El Financiero Bloomberg" group-title="NOTICIAS", El Financiero - Bloomberg TV
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
 
-#EXTINF:-1 tvg-id="DW en español" group-title="NOTICIAS", DW Español 
+#EXTINF:-1 tvg-id="DEUTSCHE
+WELLE.pe" group-title="NOTICIAS", DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-id="RT en español" group-title="NOTICIAS", RT in Spanish 
+#EXTINF:-1 tvg-id="RUSIA TODAY.pe" group-title="NOTICIAS", RT in Spanish 
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 
 #EXTINF:-1 tvg-id="619d59b7cbef25000728221c" group-title="NOTICIAS", EuroNews en español 
 https://r.mjh.nz/PlutoTV/619d59b7cbef25000728221c-alt.m3u8
 
-#EXTINF:-1 tvg-id="France en español" group-title="NOTICIAS", France 24 Español 
+#EXTINF:-1 tvg-id="FRANCE24.pe" group-title="NOTICIAS", France 24 Español 
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
 #EXTINF:-1 tvg-id"CNN en Español" group-title="NOTICIAS" , CNN en Español 
@@ -434,19 +435,19 @@ EXTINF:-1 tvg-id="Canal Telesistema 11 (República Dominicana).do" group-title="
 
 
 
-#EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel
+#EXTINF:-1 tvg-id="STAR CHANNEL.pe" group-title="De Paga", Star Channel
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/30
 
-#EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT 
+#EXTINF:-1 tvg-id="TNT.pe" group-title="De Paga", TNT 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1245
 
-#EXTINF:-1 tvg-id="Space" group-title="De Paga", Space
+#EXTINF:-1 tvg-id="SPACE.pe" group-title="De Paga", Space
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1281
 
-#EXTINF:-1 tvg-id="Warner Channel Mexico" group-title="De Paga", Warner 
+#EXTINF:-1 tvg-id="WARNER CHANNEL.pe" group-title="De Paga", Warner 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1259
 
-#EXTINF:-1 tvg-id="Sony Mexico" group-title="De Paga", Sony 
+#EXTINF:-1 tvg-id="SONY.pe" group-title="De Paga", Sony 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1263
 
 #EXTINF:-1 tvg-id="Cine Sony" group-title="De Paga", Cine Sony
@@ -456,22 +457,22 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Studio Universal" group-title="De Paga", Studio Universal 
 
-#EXTINF:-1 tvg-id="Universal" group-title="De Paga", Universal Channel
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL.pe" group-title="De Paga", Universal Channel
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1269
 
-#EXTINF:-1 tvg-id="AXN MX" group-title="De Paga", AXN
+#EXTINF:-1 tvg-id="AXN.pe" group-title="De Paga", AXN
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1255
 
-#EXTINF:-1 tvg-id="Paramount" group-title="De Paga", Paramount 
+#EXTINF:-1 tvg-id="PARAMOUNT.pe" group-title="De Paga", Paramount 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/53938
 
-#EXTINF:-1 tvg-id="FX" group-title="De Paga", FX
+#EXTINF:-1 tvg-id="FX.pe" group-title="De Paga", FX
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1275
 
 #EXTINF:-1 tvg-id="Universal Premier" group-title="De Paga" , Universal Premier
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/111419
 
-#EXTINF:-1 tvg-id="AMC" group-title="De Paga", AMC 
+#EXTINF:-1 tvg-id="AMC HD.pe" group-title="De Paga", AMC 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1284
 
 #EXTINF:-1 tvg-id="Golden Premier" group-title="De Paga" ,Golden Premier 
@@ -521,7 +522,7 @@ EXTINF:-1 tvg-id="De Pelicula Plus" group-title="De Paga" , De Pelicula Plus
 #EXTINF:-1 tvg-id="Boing Espana" group-title="Kids", Boing
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="ESBC4100003WE" group-title="Kids" , Clan
+#EXTINF:-1 tvg-id="CLAN HD.pe" group-title="Kids" , Clan
 https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network México" group-title="Kids", Cartoon Network 
