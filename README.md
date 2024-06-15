@@ -325,7 +325,7 @@ https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV Movies
+EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV Movies
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8
 
 #EXTINF:-1 tvg-id="TV Prime"  group-title="ENTRETENIMIENTO" , TV Prime
@@ -438,7 +438,7 @@ EXTINF:-1 tvg-id="Canal Telesistema 11 (República Dominicana).do" group-title="
 #EXTINF:-1 tvg-id="STAR CHANNEL.pe" group-title="De Paga", Star Channel
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/30
 
-#EXTINF:-1 tvg-id="TNT.pe" group-title="De Paga", TNT 
+#EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1245
 
 #EXTINF:-1 tvg-id="SPACE.pe" group-title="De Paga", Space
@@ -463,7 +463,7 @@ http://rasaiptv.com:8080/amartinez/s1stemas.13579/1269
 #EXTINF:-1 tvg-id="AXN.pe" group-title="De Paga", AXN
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1255
 
-#EXTINF:-1 tvg-id="PARAMOUNT.pe" group-title="De Paga", Paramount 
+#EXTINF:-1 tvg-id="PARAMOUNT" group-title="De Paga", Paramount 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/53938
 
 #EXTINF:-1 tvg-id="FX.pe" group-title="De Paga", FX
