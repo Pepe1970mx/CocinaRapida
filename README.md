@@ -441,7 +441,7 @@ http://rasaiptv.com:8080/amartinez/s1stemas.13579/30
 #EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1245
 
-#EXTINF:-1 tvg-id="SPACE.pe" group-title="De Paga", Space
+#EXTINF:-1 tvg-id="SPACE" group-title="De Paga", Space
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1281
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL.pe" group-title="De Paga", Warner 
@@ -466,7 +466,7 @@ http://rasaiptv.com:8080/amartinez/s1stemas.13579/1255
 #EXTINF:-1 tvg-id="PARAMOUNT" group-title="De Paga", Paramount 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/53938
 
-#EXTINF:-1 tvg-id="FX.pe" group-title="De Paga", FX
+#EXTINF:-1 tvg-id="FX" group-title="De Paga", FX
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1275
 
 #EXTINF:-1 tvg-id="Universal Premier" group-title="De Paga" , Universal Premier
