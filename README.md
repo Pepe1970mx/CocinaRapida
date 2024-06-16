@@ -1,36 +1,6 @@
 #EXTM3U 
 x-tvg-url=""
 
-#EXTINF:-1 tvg-id="La Rosa" group-title="VARIEDADES" , La Rosa de Guadalupe
-https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" group-title="VARIEDADES" , Pluto TV Series Latinas
-https://r.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
-
-#EXTINF:-1 tvg-id="USBD2700004ME" group-title="VARIEDADES" , Como Dice el Dicho 
-https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
-
-#EXTINF:-1 tvg-id="Risas de Oro" group-title="VARIEDADES" , Risas de Oro
-https://linear-313.frequency.stream/mt/studio/313/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USBC2100010OS" group-title="VARIEDADES" , ViX Jajaja 
-https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
-
-#EXTINF:-1 tvg-id="Distrito Comedia" group-title="VARIEDADES" , Distrito Comedia
-http://45.5.117.182:8000/play/ihf9/index.m3u8
-
-
-EXTINF:-1 tvg-id="Azteca Clic" group-title="VARIEDADES" , Az Clic
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6469502df73356567a64ce8e.m3u8
-
-EXTINF:-1 tvg-id="Azteca Corazon" group-title="VARIEDADES" , Az Corazón
-https://i.mjh.nz/SamsungTVPlus/ESBD1300003VN.m3u8
-
-EXTINF:-1 tvg-id="Azteca Mundo" group-title="VARIEDADES" , Azteca Internacional
-https://i.mjh.nz/SamsungTVPlus/ESBD1300004IG.m3u8
-
-EXTINF:-1 tvg-id="I85.46607.schedulesdirect.org" group-title="NACIONAL" , Azteca Uno 
-
 #EXTINF:-1 tvg-id="Azteca Uno" group-title="NACIONAL", Azteca Uno 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
@@ -142,6 +112,59 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
 
 
+#EXTINF:-1 tvg-id="La Rosa" group-title="VARIEDADES" , La Rosa de Guadalupe
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" group-title="VARIEDADES" , Pluto TV Series Latinas
+https://r.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
+
+#EXTINF:-1 tvg-id="USBD2700004ME" group-title="VARIEDADES" , Como Dice el Dicho 
+https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
+
+#EXTINF:-1 tvg-id="USBC2100010OS" group-title="VARIEDADES" , ViX Jajaja 
+https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
+
+#EXTINF:-1 tvg-id="Distrito Comedia" group-title="VARIEDADES" , Distrito Comedia
+http://45.5.117.182:8000/play/ihf9/index.m3u8
+
+
+EXTINF:-1 tvg-id="Azteca Clic" group-title="VARIEDADES" , Az Clic
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6469502df73356567a64ce8e.m3u8
+
+EXTINF:-1 tvg-id="Azteca Corazon" group-title="VARIEDADES" , Az Corazón
+https://i.mjh.nz/SamsungTVPlus/ESBD1300003VN.m3u8
+
+EXTINF:-1 tvg-id="Azteca Mundo" group-title="VARIEDADES" , Azteca Internacional
+https://i.mjh.nz/SamsungTVPlus/ESBD1300004IG.m3u8
+
+EXTINF:-1 tvg-id="I85.46607.schedulesdirect.org" group-title="NACIONAL" , Azteca Uno 
+
+
+(Spanish).us" group-title="US Español", Telemundo
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo Internacional" group-title="US Español", Telemundo Internacional
+http://bantel.iptvperu.tv:1935/miscelaneos/telemundo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Universo" group-title="US Español", Universo
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
+
+#EXTINF:-1 tvg-id="WKAQ Telemundo Puerto Rico.pr" group-title="US Español", Telemundo PR
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-id="Univision" group-title="US Español",  Univision Latino America
+http://bantel.iptvperu.tv:1935/transcoder_t4/Univision_t4/playlist.m3u8
+
+EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" tvg-logo=" " group-title="US Español", 
+
+EXTINF:-1 tvg-id"UNIVISION" group-title="US Español",  Univision Latino
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
+
+
+
+
+
+
 EXTINF:-1 tvg-id="I292.6635.schedulesdirect.org" group-title="NOTICIAS", Foro TV
 
 #EXTINF:-1 tvg-id="El Financiero Bloomberg" group-title="NOTICIAS", El Financiero - Bloomberg TV
@@ -168,26 +191,7 @@ https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7" group-title="US Español", Nuestra Vision 
 
 
-#EXTINF:-1 tvg-id="Telemundo(Pacific)(Spanish).us" group-title="US Español", Telemundo
-https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
-
-#EXTINF:-1 tvg-id="Telemundo Internacional" group-title="US Español", Telemundo Internacional
-http://bantel.iptvperu.tv:1935/miscelaneos/telemundo.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Universo" group-title="US Español", Universo
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
-
-#EXTINF:-1 tvg-id="WKAQ Telemundo Puerto Rico.pr" group-title="US Español", Telemundo PR
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
-#EXTINF:-1 tvg-id="Univision" group-title="US Español",  Univision Latino America
-http://bantel.iptvperu.tv:1935/transcoder_t4/Univision_t4/playlist.m3u8
-
-EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" tvg-logo=" " group-title="US Español", 
-
-EXTINF:-1 tvg-id"UNIVISION" group-title="US Español",  Univision Latino
-http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
-
+#EXTINF:-1 tvg-id="Telemundo(Pacific)
 
 
 EXTINF:-1 tvg-id="UniMas(East)(Spanish).us(m3u4u)" group-title="US Español", Unimas
