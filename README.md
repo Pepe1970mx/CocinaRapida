@@ -368,13 +368,13 @@ https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f58
 #EXTINF:-1 tvg-id="Canal57.sv" group-title="Latinoamérica", Canal 57 SV
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 
-#EXTINF:-1 tvg-id="WillaxTV.pe" group-title="Latinoamérica" , Willax PE
+#EXTINF:-1 tvg-id="WillaxTV.pe" group-title="Latinoamérica" , Willax.pe
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
 #EXTINF:-1 tvg-id="ATV.pe" group-title="Latinoamérica" , ATV PE
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/330718
 
-#EXTINF:-1 tvg-id="ATVPlus.pe" group-title="Latinoamérica" , ATV Sur PE
+#EXTINF:-1 tvg-id="ATVSur.pe" group-title="Latinoamérica" , ATV Sur PE
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" group-title="Latinoamérica" , Panamericana 
