@@ -5,7 +5,7 @@ x-tvg-url=""
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7" group-title="NACIONAL", Cine Oro
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa" group-title="NACIONAL", Cine Oro
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa.m3u8
 
 #EXTINF:-1 tvg-id="ADN 40" group-title="NACIONAL", ADN 40 
@@ -140,7 +140,7 @@ https://i.mjh.nz/SamsungTVPlus/ESBD1300004IG.m3u8
 EXTINF:-1 tvg-id="I85.46607.schedulesdirect.org" group-title="NACIONAL" , Azteca Uno 
 
 
-(Spanish).us" group-title="US Español", Telemundo
+#EXTINF:-1 tvg-id="Telemundo" group-title="US Español", Telemundo
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo Internacional" group-title="US Español", Telemundo Internacional
@@ -225,7 +225,7 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,F
 
 #EXTINF:-1 tvg-id="I505.41677.schedulesdirect.org" group-title="Sports",
 
-#EXTINF:-1 tvg-id="Fox Sports Premium" group-title="Sports", Fox Sports Premium
+#EXTINF:-1 tvg-id="Fox Sports Premium Argentina" group-title="Sports", Fox Sports Premium
 http://pe.shortgod.com/temporal/play.php?id=157
 
 #EXTINF:-1 tvg-id="Fox Sports MX" group-title="Sports", Fox Sport Latinoamerica
@@ -467,7 +467,7 @@ http://rasaiptv.com:8080/amartinez/s1stemas.13579/1269
 #EXTINF:-1 tvg-id="AXN.pe" group-title="De Paga", AXN
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1255
 
-#EXTINF:-1 tvg-id="PARAMOUNT" group-title="De Paga", Paramount 
+#EXTINF:-1 tvg-id="Paramount" group-title="De Paga", Paramount 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/53938
 
 #EXTINF:-1 tvg-id="FX" group-title="De Paga", FX
