@@ -20,7 +20,7 @@ https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="64e35aff6b1fdb0008ea8441" group-title="NACIONAL", Imagen TV HD
 https://r.mjh.nz/PlutoTV/64e35aff6b1fdb0008ea8441-alt.m3u8
 
-EXTINF:-1 tvg-id="I28.82353.schedulesdirect.org" group-title="NACIONAL",  Exelsior TV
+EXTINF:-1 tvg-id="Excelsior Television I28.82353.schedulesdirect.org" group-title="NACIONAL",  Exelsior TV
 
 #EXTINF:-1 tvg-id="Foro TV" group-title="NACIONAL", Foro TV 
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
@@ -63,7 +63,7 @@ https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 EXTINF:-1 tvg-id="I233.97020.schedulesdirect.org" group-title="VARIEDADES", Canal Nu9ve
 
 
-#EXTINF:-1 tvg-id="MVSTV.mx" group-title="NACIONAL", MVS TV
+#EXTINF:-1 tvg-id="MVSTV" group-title="NACIONAL", MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 EXTINF:-1 tvg-id="I448.15213.schedulesdirect.org" group-title="VARIEDADES", 
@@ -204,7 +204,7 @@ https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cf
 #EXTINF:-1 tvg-id="USBA300040WR" group-title="US Español", ESTRELLA TV
 https://i.mjh.nz/SamsungTVPlus/USBA300040WR.m3u8
 
-#EXTINF:-1  tvg-id="WAPA.pr"  group-title="US Español" , Wapa
+#EXTINF:-1  tvg-id="WAPA TV"  group-title="US Español" , Wapa
 https://live.field59.com/wapa/wapa1/playlist.m3u8
 
 
@@ -225,36 +225,36 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,F
 
 #EXTINF:-1 tvg-id="I505.41677.schedulesdirect.org" group-title="Sports",
 
-#EXTINF:-1 tvg-id="Fox Premium México " group-title="Sports", Fox Premium
+#EXTINF:-1 tvg-id="Fox Sports Premium" group-title="Sports", Fox Sports Premium
 http://pe.shortgod.com/temporal/play.php?id=157
 
-#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx(m3u4u)" group-title="Sports", Fox Sport Latinoamerica
+#EXTINF:-1 tvg-id="Fox Sports MX" group-title="Sports", Fox Sport Latinoamerica
 
 
-#EXTINF:-1 tvg-id="Fox Sports 2" group-title="Sports", Fox sport 2 Latinoamerica
+#EXTINF:-1 tvg-id="Fox Sports 2 MX" group-title="Sports", Fox sport 2 Latinoamerica
 https://pe.shortgod.com/temporal/play.php?id=25
 
 #EXTINF:-1 tvg-id="I506.66365.schedulesdirect.org" group-title="Sports", 
 
-#EXTINF:-1 tvg-id="Fox Sports 3" group-title="Sports", Fox sport 3 Latinoamerica
+#EXTINF:-1 tvg-id="Fox Sports 3 MX" group-title="Sports", Fox sport 3 Latinoamerica
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes 
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158831
 
 #EXTINF:-1 tvg-id="I854.25595.schedulesdirect.org" group-title="Sports", 
 
-#EXTINF:-1 tvg-id="ESPN" group-title="Sports", Espn
+#EXTINF:-1 tvg-id="ESPN MX" group-title="Sports", Espn
 http://181.78.105.146:2000/play/a064/index.m3u8
 
 #EXTINF:-1 tvg-id="I509.19158.schedulesdirect.org" group-title="Sports", 
 
-#EXTINF:-1 tvg-id="ESPN2 México" group-title="Sports", Espn 2 Latinoamerica
+#EXTINF:-1 tvg-id="ESPN 2 MX" group-title="Sports", Espn 2 Latinoamerica
 http://181.78.105.146:2000/play/a063/index.m3u8
 
 
 #EXTINF:-1 tvg-id="I508.37747.schedulesdirect.org" group-title="Sports", 
 
-#EXTINF:-1 tvg-id="ESPNTres(North).mx(m3u4u)" group-title="Sports", Espn 3 Latinoamerica
+#EXTINF:-1 tvg-id="ESPN 3 MX" group-title="Sports", Espn 3 Latinoamerica
 
 #EXTINF:-1 tvg-id="I510.79042.schedulesdirect.org" group-title="Sports", 
 
