@@ -191,11 +191,6 @@ https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7" group-title="US Español", Nuestra Vision 
 
 
-#EXTINF:-1 tvg-id="Telemundo(Pacific)
-
-
-EXTINF:-1 tvg-id="UniMas(East)(Spanish).us(m3u4u)" group-title="US Español", Unimas
-
 EXTINF:-1 tvg-id="I684.29058.schedulesdirect.org" group-title="US Español", 
 
 #EXTINF:-1 tvg-id="WOLE Univisión Puerto Rico.pr" group-title="US Español", Teleonce Univision PR
@@ -218,6 +213,9 @@ https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes 
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158838
+
+#EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" group-title="Sports", Azteca Deportes Network 
+https://r.mjh.nz/PlutoTV/65cf60d166eec80008724e6f-alt.m3u8
 
 
 EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" group-title="Sports", Fox sports en español
@@ -267,7 +265,7 @@ EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN MX
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN USA
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
-#EXTINF:-1 tvg-id="TUDN USA" group-title="Sports", TUDN1
+#EXTINF:-1 tvg-id="" group-title="Sports", TUDN1
 https://linear-380.frequency.stream/mt/studio/380/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports", TUDN2
@@ -281,12 +279,6 @@ https://linear-384.frequency.stream/mt/studio/384/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports", TUDN Champions 
 https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
-
-EXTINF:-1 tvg-id="" group-title="Sports", MLB Vix
-https://linear-508.frequency.stream/mt/studio/508/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Multivision Sport" group-title="Sports", Multivision Sport
-https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
 
 #EXTINF:-1 tvg-id="63f7e3f9dff38e00082a57af" group-title="Sports", ITV Deportes
 https://r.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
@@ -302,11 +294,6 @@ https://r.mjh.nz/PlutoTV/64b79c057d934100080b3583-alt.m3u8
 
 EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network 
 
-EXTINF:-1 tvg-id="" group-title="Sports", Canela Deportes
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5759
-
-EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" group-title="Sports", Azteca Deportes Network 
-https://r.mjh.nz/PlutoTV/65cf60d166eec80008724e6f-alt.m3u8
 
 
 
@@ -317,23 +304,19 @@ https://i.mjh.nz/SamsungTVPlus/USBD7000017L.m3u8
 #EXTINF:-1 tvg-id="USBC39000080S" group-title="ENTRETENIMIENTO", Canela TV
 https://i.mjh.nz/SamsungTVPlus/USBC39000080S.m3u8
 
-#EXTINF:-1 tvg-id="60fb3087fbbc120007fc46be" group-title="ENTRETENIMIENTO", Series con Ñ
+EXTINF:-1 tvg-id="60fb3087fbbc120007fc46be" group-title="ENTRETENIMIENTO", Series con Ñ
 https://r.mjh.nz/PlutoTV/60fb3087fbbc120007fc46be-alt.m3u8
 
-#EXTINF:-1 tvg-id="62c5d80dc6de440007e033eb" group-title="ENTRETENIMIENTO", Runtime
+EXTINF:-1 tvg-id="62c5d80dc6de440007e033eb" group-title="ENTRETENIMIENTO", Runtime
 https://r.mjh.nz/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
 
-#EXTINF:-1 tvg-id="63eb947c4e83e70008ab877b" group-title="ENTRETENIMIENTO", NCIS
+EXTINF:-1 tvg-id="63eb947c4e83e70008ab877b" group-title="ENTRETENIMIENTO", NCIS
 https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
 
 EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV Movies
-https://scl.edge.grupoz.cl/movie/live/movie.m3u8
-
-#EXTINF:-1 tvg-id="TV Prime"  group-title="ENTRETENIMIENTO" , TV Prime
-https://premium.tvcontrolcp.com:19360/8062/8062.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Frecuencia Musical TV" group-title="ENTRETENIMIENTO", FM TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
@@ -348,7 +331,7 @@ https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/60580
 #EXTINF:-1 tvg-id="Telefuturo.py" group-title="Latinoamérica" , Telefuturo PA
 http://177.234.230.226:8010/play/a033/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal2.sv" group-title="Latinoamérica", Canal 2 SV
+EXTINF:-1 tvg-id="Canal2.sv" group-title="Latinoamérica", Canal 2 SV
 https://telecorporacion.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live-video=144960.m3u8
 
 #EXTINF:-1 tvg-id="Canal4.sv" group-title="Latinoamérica", Canal 4 SV
@@ -360,7 +343,7 @@ https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c
 EXTINF:-1 tvg-id="Canal10.sv" group-title="El Salvador", Canal 10 SV
 
 
-#EXTINF:-1 tvg-id="Canal12.sv" group-title="Latinoamérica", Canal 12 SV
+EXTINF:-1 tvg-id="Canal12.sv" group-title="Latinoamérica", Canal 12 SV
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
 EXTINF:-1 tvg-id="MegavisionCanal19.sv" group-title="Latinoamérica", Megavision 19 SV
@@ -375,10 +358,10 @@ https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 #EXTINF:-1 tvg-id="WillaxTV.pe" group-title="Latinoamérica" , Willax.pe
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
-#EXTINF:-1 tvg-id="ATV.pe" group-title="Latinoamérica" , ATV PE
+EXTINF:-1 tvg-id="ATV.pe" group-title="Latinoamérica" , ATV PE
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/330718
 
-#EXTINF:-1 tvg-id="ATVSur.pe" group-title="Latinoamérica" , ATV Sur PE
+EXTINF:-1 tvg-id="ATVSur.pe" group-title="Latinoamérica" , ATV Sur PE
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" group-title="Latinoamérica" , Panamericana 
@@ -393,16 +376,16 @@ https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 #EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="Retro", Ciudad Magica AR
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
-#EXTINF:-1 tvg-id="13 de Argentina" group-title="ENTRETENIMIENTO", El trece AR
+EXTINF:-1 tvg-id="13 de Argentina" group-title="ENTRETENIMIENTO", El trece AR
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" group-title="ENTRETENIMIENTO", Ciudad Magazine
 
 
-#EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="ENTRETENIMIENTO", Telecadena 7 y 4
+EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="ENTRETENIMIENTO", Telecadena 7 y 4
 http://200.52.148.194:8000/play/a04q/index.m3u8
 
-#EXTINF:-1 tvg-id="Televicentro.hn" group-title="Latinoamérica", Canal 5 El lider HN
+EXTINF:-1 tvg-id="Televicentro.hn" group-title="Latinoamérica", Canal 5 El lider HN
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 
 EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO", Canal 3 Super canal GT
@@ -417,7 +400,7 @@ EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO",  Trecevision GT
 #EXTINF:-1 tvg-id="Canal 4 de Costa Rica" group-title="Latinoamérica" , Canal 4 CR
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal 6 de Costa Rica" group-title="Latinoamérica" , Canal 6 CR
+EXTINF:-1 tvg-id="Canal 6 de Costa Rica" group-title="Latinoamérica" , Canal 6 CR
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
 EXTINF:-1 tvg-id="id="Canal 7 de Costa Rica (Teletica)" group-title="Latinoamérica", Teletica 7 CR
@@ -550,7 +533,7 @@ https://r.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
 #EXTINF:-1 tvg-id="5d8d08395f39465da6fb3ec4" group-title="Kids", Nickelodeon en español 
 https://i.mjh.nz/PlutoTV/5d8d08395f39465da6fb3ec4-alt.m3u8
 
-#EXTINF:-1 tvg-id="5fab09a8749b1a00077d35d2-alt" group-title="Kids", Nick Teen
+EXTINF:-1 tvg-id="5fab09a8749b1a00077d35d2-alt" group-title="Kids", Nick Teen
 https://r.mjh.nz/PlutoTV/5fab09a8749b1a00077d35d2-alt.m3u8
 
 EXTINF:-1 tvg-id="609e7e423e9173000706a681" group-title="Kids", Pluto TV toons Clasico
@@ -567,11 +550,6 @@ https://i.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
 
 EXTINF:-1 tvg-id="canela-kids" group-title="Kids" , Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
-
-#EXTINF:-1 tvg-id="Dreamworkds" group-title="Kids" , Dreamworkds
-
-
-#EXTINF:-1 tvg-id="FHM Kids" group-title="Kids" , FHM Kids
 
 #EXTINF:-1 tvg-id="" group-title="Movies", Free TV
 https://freetv.stream.olympusatmedia.com/index.m3u8
@@ -628,7 +606,7 @@ https://r.mjh.nz/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8
 #EXTINF:-1 tvg-id="5e972a21ad709d00074195ba" group-title="Movies" , Pluto TV Estrellas En Accion
 https://r.mjh.nz/PlutoTV/5e972a21ad709d00074195ba-alt.m3u8
 
-#EXTINF:-1 tvg-id="6532e7b290a74c00084a3bb6" group-title="Movies" , Hallmark en Español 
+EXTINF:-1 tvg-id="6532e7b290a74c00084a3bb6" group-title="Movies" , Hallmark en Español 
 https://r.mjh.nz/PlutoTV/6532e7b290a74c00084a3bb6-alt.m3u8
 
 EXTINF:-1 tvg-id="5dcde437229eff00091b6c30" group-title="Movies" , Pluto TV Cine Estelar
@@ -637,7 +615,7 @@ https://r.mjh.nz/PlutoTV/5dcde437229eff00091b6c30-alt.m3u8
 #EXTINF:-1 tvg-id="5f2817d3d7573a00080f9175" group-title="Movies",Pluto TV Sci-Fi 
 https://r.mjh.nz/PlutoTV/5f2817d3d7573a00080f9175-alt.m3u8
 
-#EXTINF:-1 tvg-id="624af40c004f8000079b784d" group-title="Movies", Pluto TV Cine Crimen
+EXTINF:-1 tvg-id="624af40c004f8000079b784d" group-title="Movies", Pluto TV Cine Crimen
 https://r.mjh.nz/PlutoTV/624af40c004f8000079b784d-alt.m3u8
 
 #EXTINF:-1 tvg-id="5dcddf1ed95e740009fef7ab" group title="Movies" , Pluto TV Terror
