@@ -188,8 +188,6 @@ https://live.field59.com/wapa/wapa1/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
 
-EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV Movies
-
 #EXTINF:-1 tvg-id="Frecuencia Musical TV" group-title="ENTRETENIMIENTO", FM TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
@@ -203,19 +201,10 @@ https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/60580
 #EXTINF:-1 tvg-id="Telefuturo.py" group-title="Latinoamérica" , Telefuturo PA
 http://177.234.230.226:8010/play/a033/index.m3u8
 
-EXTINF:-1 tvg-id="Canal2.sv" group-title="Latinoamérica", Canal 2 SV
+#EXTINF:-1 tvg-id="Canal2.sv" group-title="Latinoamérica", Canal 2 SV
 https://telecorporacion.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live-video=144960.m3u8
 
 #EXTINF:-1 tvg-id="Canal4.sv" group-title="Latinoamérica", Canal 4 SV
-https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
-
-
-
-
-
-https://telecorporacion.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live-video=144960.m3u8
-
-#EXTINF:-1 tvg-id="Canal4.sv" group-title="Internacional", Canal 4 SV
 https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 
 #EXTINF:-1 tvg-id="Canal6.sv" group-title="Internacional", Canal 6 SV
@@ -224,10 +213,10 @@ https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c
 EXTINF:-1 tvg-id="Canal10.sv" group-title="El Salvador", Canal 10 SV
 
 
-EXTINF:-1 tvg-id="Canal12.sv" group-title="Internacional", Canal 12 SV
+#EXTINF:-1 tvg-id="Canal12.sv" group-title="Internacional", Canal 12 SV
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
-EXTINF:-1 tvg-id="MegavisionCanal19.sv" group-title="Latinoamérica", Megavision 19 SV
+#EXTINF:-1 tvg-id="MegavisionCanal19.sv" group-title="Latinoamérica", Megavision 19 SV
 https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 
 #EXTINF:-1 tvg-id="VTVCanal35.sv" group-title="Internacional", TCS+ SV
@@ -242,7 +231,7 @@ https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=v
 EXTINF:-1 tvg-id="ATV.pe" group-title="Latinoamérica" , ATV PE
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/330718
 
-EXTINF:-1 tvg-id="ATVSur.pe" group-title="Latinoamérica" , ATV Sur PE
+#EXTINF:-1 tvg-id="ATVSur.pe" group-title="Latinoamérica" , ATV Sur PE
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" group-title="Latinoamérica" , Panamericana 
@@ -266,7 +255,7 @@ https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="ENTRETENIMIENTO", Telecadena 7 y 4
 http://200.52.148.194:8000/play/a04q/index.m3u8
 
-EXTINF:-1 tvg-id="Televicentro.hn" group-title="Latinoamérica", Canal 5 El lider HN
+#EXTINF:-1 tvg-id="Televicentro.hn" group-title="Latinoamérica", Canal 5 El lider HN
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 
 EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO", Canal 3 Super canal GT
@@ -280,22 +269,13 @@ EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO",  Trecevision GT
 #EXTINF:-1 tvg-id="Canal 4 de Costa Rica" group-title="Latinoamérica" , Canal 4 CR
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 
-EXTINF:-1 tvg-id="Canal 6 de Costa Rica" group-title="Latinoamérica" , Canal 6 CR
+#EXTINF:-1 tvg-id="Canal 6 de Costa Rica" group-title="Latinoamérica" , Canal 6 CR
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
 EXTINF:-1 tvg-id="id="Canal 7 de Costa Rica (Teletica)" group-title="Latinoamérica", Teletica 7 CR
 
 #EXTINF:-1 tvg-id="Canal 11 de Costa Rica" group-title="Latinoamérica" , Canal 11 CR
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
-
-EXTINF:-1 tvg-id="Canal 13 de Costa Rica" group-title="ENTRETENIMIENTO" , Canal 13 CR
-
-EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Canal 10 NI
-
-EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Canal 11 NI
-
-
-EXTINF:-1 tvg-id="Canal11.hn" group-title="ENTRETENIMIENTO" , Canal 11 HN
 
 
 EXTINF:-1 tvg-id="Canal Telesistema 11 (República Dominicana).do" group-title="ENTRETENIMIENTO", Telesistema
@@ -413,30 +393,6 @@ https://r.mjh.nz/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
 
 EXTINF:-1 tvg-id="63eb947c4e83e70008ab877b" group-title="ENTRETENIMIENTO", NCIS
 https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
-
-
-
-#EXTIN#EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
-https://live.obslivestream.com/planetatv/index.m3u8
-
-EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV Movies
-
-#EXTINF:-1 tvg-id="Frecuencia Musical TV" group-title="ENTRETENIMIENTO", FM TV
-https://s2.tvdatta.com:3307/hybrid/play.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="TV Max" group-title="Latinoamérica" , TV Max
-https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="Telefuturo.py" group-title="Latinoamérica" , Telefuturo PA
-http://177.234.230.226:8010/play/a033/index.m3u8
-
-EXTINF:-1 tvg-id="Canal2.sv" group-title="Latinoamérica", Canal 2 SV
-
-
 
 
 #EXTINF:-1 tvg-id="STAR CHANNEL.pe" group-title="De Paga", Star Channel
