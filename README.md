@@ -26,7 +26,7 @@ EXTINF:-1 tvg-id="Excelsior Television I28.82353.schedulesdirect.org" group-titl
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 
 #EXTINF:-1 tvg-id="Canal 5" group-title="NACIONAL", Canal 5
-http://rasaiptv.com:8080/amartinez/s1stemas.13579/114283
+http://pe.shortgod.com/temporal/play.php?id=2
 
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 
@@ -211,11 +211,14 @@ https://r.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 #EXTINF:-1 tvg-id="6320d2755e54db000783fd87" group-title="Sports", Claro Sports México 
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 
-#EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes 
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158838
-
 #EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" group-title="Sports", Azteca Deportes Network 
 https://r.mjh.nz/PlutoTV/65cf60d166eec80008724e6f-alt.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports", Futbol Network TV
+https://59d39900ebfb8.streamlock.net/8312/8312/.m3u8
+
+#EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes 
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158838
 
 
 EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" group-title="Sports", Fox sports en español
@@ -223,11 +226,10 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,F
 
 #EXTINF:-1 tvg-id="I505.41677.schedulesdirect.org" group-title="Sports",
 
-#EXTINF:-1 tvg-id="Fox Sports Premium Argentina" group-title="Sports", Fox Sports Premium
+#EXTINF:-1 tvg-id="Fox Sports Premium" group-title="Sports", Fox Sports Premium
 http://pe.shortgod.com/temporal/play.php?id=157
 
 #EXTINF:-1 tvg-id="Fox Sports MX" group-title="Sports", Fox Sport Latinoamerica
-
 
 #EXTINF:-1 tvg-id="Fox Sports 2 MX" group-title="Sports", Fox sport 2 Latinoamerica
 https://pe.shortgod.com/temporal/play.php?id=25
@@ -259,9 +261,6 @@ http://181.78.105.146:2000/play/a063/index.m3u8
 #EXTINF:-1 tvg-id="TUDN" group-title="Sports", Tudn 
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/1549.m3u8
 
-EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN MX
-
-
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN USA
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
@@ -277,7 +276,7 @@ https://linear-383.frequency.stream/mt/studio/383/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sports", TUDN4
 https://linear-384.frequency.stream/mt/studio/384/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports", TUDN Champions 
+#EXTINF:-1 tvg-id="" group-title="Sports", TUDN Eurocopa
 https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="63f7e3f9dff38e00082a57af" group-title="Sports", ITV Deportes
@@ -291,6 +290,9 @@ https://live.field59.com/wapa/wapa2/.m3u8
 
 #EXTINF:-1 tvg-id="64b79c057d934100080b3583" group-title="Sports", Dazn Internacional Futbol
 https://r.mjh.nz/PlutoTV/64b79c057d934100080b3583-alt.m3u8
+
+#EXTINF:-1 tvg id="" group-title="Sports", Sony Sports
+https://homeip.biz/livso/index.m3u8
 
 EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network 
 
