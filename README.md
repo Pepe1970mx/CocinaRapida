@@ -470,7 +470,7 @@ http://rasaiptv.com:8080/amartinez/s1stemas.13579/1255
 #EXTINF:-1 tvg-id="Paramount" group-title="De Paga", Paramount 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/53938
 
-#EXTINF:-1 tvg-id="FX" group-title="De Paga", FX
+#EXTINF:-1 tvg-id="FX.pe" group-title="De Paga", FX
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1275
 
 #EXTINF:-1 tvg-id="Universal Premier" group-title="De Paga" , Universal Premier
