@@ -48,10 +48,10 @@ EXTINF:-1 tvg-id="I107.102406.schedulesdirect.org" group-title="VARIEDADES" , Az
 #EXTINF:-1 tvg-id="A Mas" group-title="NACIONAL", A Mas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 tvg-id="Canal 10" group-title="VARIEDADES" , Canal 10 
+#EXTINF:-1 tvg-id="" group-title="VARIEDADES" , Canal 10 
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Teleformula" group-title="NACIONAL" , TVOAI Channels
+#EXTINF:-1 tvg-id="Teleformula" group-title="NACIONAL" , Teleformula
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5278
 
 EXTINF:-1 " tvg-id="Teleformula" group-title="NACIONAL" , TeleFormula
@@ -63,10 +63,8 @@ https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 EXTINF:-1 tvg-id="I233.97020.schedulesdirect.org" group-title="VARIEDADES", Canal Nu9ve
 
 
-#EXTINF:-1 tvg-id="MVSTV" group-title="NACIONAL", MVS TV
+#EXTINF:-1 tvg-id="MVS TV" group-title="NACIONAL", MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-
-EXTINF:-1 tvg-id="I448.15213.schedulesdirect.org" group-title="VARIEDADES", 
 
 #EXTINF:-1 tvg-id="Canal Once" group-title="NACIONAL", Canal Once
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
@@ -74,12 +72,8 @@ https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 #EXTINF:-1 tvg-id="14 de Mexico" group-title="NACIONAL" , Canal 14 
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 
-EXTINF:-1 tvg-id="I14.98192.schedulesdirect.org" group-title="VARIEDADES" , Canal 14 
-
 #EXTINF:-1 tvg-id="Capital 21" group-title="NACIONAL" , Capital 21
-https://video.cdmx.gob.mx/redes/stream.m3u8
-
-EXTINF:-1 tvg-id="I100.91060.schedulesdirect.or", group-title="VARIEDADES" , CANAL 22 
+https://video.cdmx.gob.mx/redes/stream.m3u8 
 
 #EXTINF:-1 tvg-id="22 de Mexico" group-title="NACIONAL" , CANAL 22 
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
