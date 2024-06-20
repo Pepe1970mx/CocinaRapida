@@ -137,35 +137,7 @@ https://i.mjh.nz/SamsungTVPlus/ESBD1300003VN.m3u8
 EXTINF:-1 tvg-id="Azteca Mundo" group-title="VARIEDADES" , Azteca Internacional
 https://i.mjh.nz/SamsungTVPlus/ESBD1300004IG.m3u8
 
-EXTINF:-1 tvg-id="I85.46607.schedulesdirect.org" group-title="NACIONAL" , Azteca Uno 
 
-
-#EXTINF:-1 tvg-id="Telemundo" group-title="US Español", Telemundo
-https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
-
-#EXTINF:-1 tvg-id="Telemundo Internacional" group-title="US Español", Telemundo Internacional
-http://bantel.iptvperu.tv:1935/miscelaneos/telemundo.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Universo" group-title="US Español", Universo
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
-
-#EXTINF:-1 tvg-id="WKAQ Telemundo Puerto Rico.pr" group-title="US Español", Telemundo PR
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
-#EXTINF:-1 tvg-id="Univision" group-title="US Español",  Univision Latino America
-http://bantel.iptvperu.tv:1935/transcoder_t4/Univision_t4/playlist.m3u8
-
-EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" tvg-logo=" " group-title="US Español", 
-
-EXTINF:-1 tvg-id"UNIVISION" group-title="US Español",  Univision Latino
-http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
-
-
-
-
-
-
-EXTINF:-1 tvg-id="I292.6635.schedulesdirect.org" group-title="NOTICIAS", Foro TV
 
 #EXTINF:-1 tvg-id="El Financiero Bloomberg" group-title="NOTICIAS", El Financiero - Bloomberg TV
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
@@ -186,21 +158,123 @@ https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-id"CNN en Español" group-title="NOTICIAS" , CNN en Español 
 
 
+#EXTINF:-1 tvg-id="Telemundo" group-title="Internacional", Telemundo
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 
+#EXTINF:-1 tvg-id="Telemundo Internacional" group-title="Internacional", Telemundo Internacional
+http://bantel.iptvperu.tv:1935/miscelaneos/telemundo.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7" group-title="US Español", Nuestra Vision 
+#EXTINF:-1 tvg-id="Universo" group-title="Internacional", Universo
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
 
+#EXTINF:-1 tvg-id="WKAQ Telemundo Puerto Rico.pr" group-title="Internacional", Telemundo PR
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-EXTINF:-1 tvg-id="I684.29058.schedulesdirect.org" group-title="US Español", 
+#EXTINF:-1 tvg-id="Univision" group-title="Internacional",  Univision Latino America
+http://bantel.iptvperu.tv:1935/transcoder_t4/Univision_t4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WOLE Univisión Puerto Rico.pr" group-title="US Español", Teleonce Univision PR
+#EXTINF:-1 tvg-id"UNIVISION" group-title="Internacional",  Univision Latino
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
+
+#EXTINF:-1 tvg-id="WOLE Univisión Puerto Rico.pr" group-title="Internacional", Teleonce Univision PR
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
-#EXTINF:-1 tvg-id="USBA300040WR" group-title="US Español", ESTRELLA TV
+#EXTINF:-1 tvg-id="USBA300040WR" group-title="Internacional", ESTRELLA TV
 https://i.mjh.nz/SamsungTVPlus/USBA300040WR.m3u8
 
-#EXTINF:-1  tvg-id="WAPA TV"  group-title="US Español" , Wapa
+#EXTINF:-1  tvg-id="WAPA TV"  group-title="Internacional" , Wapa
 https://live.field59.com/wapa/wapa1/playlist.m3u8
+
+
+https://telecorporacion.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live-video=144960.m3u8
+
+#EXTINF:-1 tvg-id="Canal4.sv" group-title="Latinoamérica", Canal 4 SV
+https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
+
+#EXTINF:-1 tvg-id="Canal6.sv" group-title="Latinoamérica", Canal 6 SV
+https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/.m3u8
+F:-1 tvg-id="Canal6.sv" group-title="Latinoamérica", Canal 6 SV
+https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/.m3u8
+
+EXTINF:-1 tvg-id="Canal10.sv" group-title="El Salvador", Canal 10 SV
+
+
+EXTINF:-1 tvg-id="Canal12.sv" group-title="Latinoamérica", Canal 12 SV
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+
+EXTINF:-1 tvg-id="MegavisionCanal19.sv" group-title="Latinoamérica", Megavision 19 SV
+https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/master.m3u8
+
+#EXTINF:-1 tvg-id="VTVCanal35.sv" group-title="Latinoamérica", TCS+ SV
+https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-video=2000000-audio_0=64000.m3u8
+
+#EXTINF:-1 tvg-id="Canal57.sv" group-title="Latinoamérica", Canal 57 SV
+https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
+
+#EXTINF:-1 tvg-id="WillaxTV.pe" group-title="Latinoamérica" , Willax.pe
+https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+
+EXTINF:-1 tvg-id="ATV.pe" group-title="Latinoamérica" , ATV PE
+http://rasaiptv.com:8080/amartinez/s1stemas.13579/330718
+
+EXTINF:-1 tvg-id="ATVSur.pe" group-title="Latinoamérica" , ATV Sur PE
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" group-title="Latinoamérica" , Panamericana 
+https://cdnhd.iblups.com/hls/ptv5.m3u8
+
+#EXTINF:-1 tvg-id="UnitelSantaCruz.bo" group-title="Latinoamérica" , Unitel BO
+http://181.78.78.105:8000/play/a02g/index.m3u8
+
+#EXTINF:-1 tvg-id="Telesur" group-title="Latinoamérica" , Telesur CR
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+
+#EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="Retro", Ciudad Magica AR
+https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
+
+EXTINF:-1 tvg-id="13 de Argentina" group-title="ENTRETENIMIENTO", El trece AR
+https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CiudadMagazine.ar" group-title="ENTRETENIMIENTO", Ciudad Magazine
+
+
+EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="ENTRETENIMIENTO", Telecadena 7 y 4
+http://200.52.148.194:8000/play/a04q/index.m3u8
+
+EXTINF:-1 tvg-id="Televicentro.hn" group-title="Latinoamérica", Canal 5 El lider HN
+https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
+
+EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO", Canal 3 Super canal GT
+
+EXTINF:-1 tvg-id="Televicentro.hn" group-title="ENTRETENIMIENTO", TeleSiete GT
+
+EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Teleonce GT
+
+EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO",  Trecevision GT
+
+#EXTINF:-1 tvg-id="Canal 4 de Costa Rica" group-title="Latinoamérica" , Canal 4 CR
+https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
+
+EXTINF:-1 tvg-id="Canal 6 de Costa Rica" group-title="Latinoamérica" , Canal 6 CR
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+
+EXTINF:-1 tvg-id="id="Canal 7 de Costa Rica (Teletica)" group-title="Latinoamérica", Teletica 7 CR
+
+#EXTINF:-1 tvg-id="Canal 11 de Costa Rica" group-title="Latinoamérica" , Canal 11 CR
+https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
+
+EXTINF:-1 tvg-id="Canal 13 de Costa Rica" group-title="ENTRETENIMIENTO" , Canal 13 CR
+
+EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Canal 10 NI
+
+EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Canal 11 NI
+
+
+EXTINF:-1 tvg-id="Canal11.hn" group-title="ENTRETENIMIENTO" , Canal 11 HN
+
+
+EXTINF:-1 tvg-id="Canal Telesistema 11 (República Dominicana).do" group-title="ENTRETENIMIENTO", Telesistema
+
 
 
 
@@ -339,88 +413,26 @@ https://telecorporacion.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e
 #EXTINF:-1 tvg-id="Canal4.sv" group-title="Latinoamérica", Canal 4 SV
 https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 
-#EXTINF:-1 tvg-id="Canal6.sv" group-title="Latinoamérica", Canal 6 SV
-https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/.m3u8
+#EXTIN#EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
+https://live.obslivestream.com/planetatv/index.m3u8
 
-EXTINF:-1 tvg-id="Canal10.sv" group-title="El Salvador", Canal 10 SV
+EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV Movies
 
+#EXTINF:-1 tvg-id="Frecuencia Musical TV" group-title="ENTRETENIMIENTO", FM TV
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
-EXTINF:-1 tvg-id="Canal12.sv" group-title="Latinoamérica", Canal 12 SV
-https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
-
-EXTINF:-1 tvg-id="MegavisionCanal19.sv" group-title="Latinoamérica", Megavision 19 SV
-https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/master.m3u8
-
-#EXTINF:-1 tvg-id="VTVCanal35.sv" group-title="Latinoamérica", TCS+ SV
-https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-video=2000000-audio_0=64000.m3u8
-
-#EXTINF:-1 tvg-id="Canal57.sv" group-title="Latinoamérica", Canal 57 SV
-https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
-
-#EXTINF:-1 tvg-id="WillaxTV.pe" group-title="Latinoamérica" , Willax.pe
-https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
-
-EXTINF:-1 tvg-id="ATV.pe" group-title="Latinoamérica" , ATV PE
-http://rasaiptv.com:8080/amartinez/s1stemas.13579/330718
-
-EXTINF:-1 tvg-id="ATVSur.pe" group-title="Latinoamérica" , ATV Sur PE
-https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" group-title="Latinoamérica" , Panamericana 
-https://cdnhd.iblups.com/hls/ptv5.m3u8
-
-#EXTINF:-1 tvg-id="UnitelSantaCruz.bo" group-title="Latinoamérica" , Unitel BO
-http://181.78.78.105:8000/play/a02g/index.m3u8
-
-#EXTINF:-1 tvg-id="Telesur" group-title="Latinoamérica" , Telesur CR
-https://s1.tvdatta.com:3582/live/telesurlive.m3u8
-
-#EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="Retro", Ciudad Magica AR
-https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
-
-EXTINF:-1 tvg-id="13 de Argentina" group-title="ENTRETENIMIENTO", El trece AR
-https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="CiudadMagazine.ar" group-title="ENTRETENIMIENTO", Ciudad Magazine
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 
-EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="ENTRETENIMIENTO", Telecadena 7 y 4
-http://200.52.148.194:8000/play/a04q/index.m3u8
+#EXTINF:-1 tvg-id="TV Max" group-title="Latinoamérica" , TV Max
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 
-EXTINF:-1 tvg-id="Televicentro.hn" group-title="Latinoamérica", Canal 5 El lider HN
-https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
+#EXTINF:-1 tvg-id="Telefuturo.py" group-title="Latinoamérica" , Telefuturo PA
+http://177.234.230.226:8010/play/a033/index.m3u8
 
-EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO", Canal 3 Super canal GT
+EXTINF:-1 tvg-id="Canal2.sv" group-title="Latinoamérica", Canal 2 SV
 
-EXTINF:-1 tvg-id="Televicentro.hn" group-title="ENTRETENIMIENTO", TeleSiete GT
-
-EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Teleonce GT
-
-EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO",  Trecevision GT
-
-
-#EXTINF:-1 tvg-id="Canal 4 de Costa Rica" group-title="Latinoamérica" , Canal 4 CR
-https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
-
-EXTINF:-1 tvg-id="Canal 6 de Costa Rica" group-title="Latinoamérica" , Canal 6 CR
-https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
-
-EXTINF:-1 tvg-id="id="Canal 7 de Costa Rica (Teletica)" group-title="Latinoamérica", Teletica 7 CR
-
-#EXTINF:-1 tvg-id="Canal 11 de Costa Rica" group-title="Latinoamérica" , Canal 11 CR
-https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
-
-EXTINF:-1 tvg-id="Canal 13 de Costa Rica" group-title="ENTRETENIMIENTO" , Canal 13 CR
-
-EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Canal 10 NI
-
-EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Canal 11 NI
-
-
-EXTINF:-1 tvg-id="Canal11.hn" group-title="ENTRETENIMIENTO" , Canal 11 HN
-
-
-EXTINF:-1 tvg-id="Canal Telesistema 11 (República Dominicana).do" group-title="ENTRETENIMIENTO", Telesistema
 
 
 
