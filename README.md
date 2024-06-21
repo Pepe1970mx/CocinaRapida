@@ -37,13 +37,11 @@ https://r.mjh.nz/PlutoTV/652e91fd6208700008dcaf7b-alt.m3u8
 #EXTINF:-1 tvg-id="Milenio Televisión" group-title="NACIONAL" , Milenio Television
 https://r.mjh.nz/PlutoTV/652e922db4b047000825f975-alt.m3u8
 
-#EXTINF:-1 tvg-id="MULTIMEDIOSTV.mx" group-title="NACIONAL" , Seis Saltillo
+#EXTINF:-1 tvg-id="SEIS +" group-title="NACIONAL" , Seis Saltillo
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 
 #EXTINF:-1 tvg-id="Azteca7" group-title="NACIONAL", Azteca 7
-https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-
-EXTINF:-1 tvg-id="I107.102406.schedulesdirect.org" group-title="VARIEDADES" , Azteca 7 
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8 
 
 #EXTINF:-1 tvg-id="A Mas" group-title="NACIONAL", A Mas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
@@ -78,7 +76,7 @@ https://video.cdmx.gob.mx/redes/stream.m3u8
 #EXTINF:-1 tvg-id="22 de Mexico" group-title="NACIONAL" , CANAL 22 
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="NACIONAL" , CANAL 22.2 MX Nuestro Cine
+#EXTINF:-1 tvg-id="MX NUESTRO CINE" group-title="NACIONAL" , CANAL 22.2 MX Nuestro Cine
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I503.36479.schedulesdirect.org" group-title="NACIONAL", Radio y Television de Veracruz (RTV) 
@@ -98,7 +96,7 @@ EXTINF:-1 tvg-id="I34.28440.schedulesdirect.org" group-title="VARIEDADES" ,
 #EXTINF:-1 tvg-id="Mexiquense TV" group-title="NACIONAL" , Mexiquense TV 
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
 
-#EXTINF:-1  tvg-id="Mexiquense Noticias" group-title="NACIONAL" , Mexiquense Noticias 
+#EXTINF:-1  tvg-id="AMX NOTICIAS" group-title="NACIONAL" , Mexiquense Noticias 
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
 
 #EXTINF:-1 tvg-id="Maria Vision" group-title="NACIONAL", Mariavision 
