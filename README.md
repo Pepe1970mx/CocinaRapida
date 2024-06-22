@@ -4,6 +4,8 @@ x-tvg-url=""
 #EXTINF:-1 tvg-id="Azteca Uno" group-title="NACIONAL", Azteca Uno 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
+#EXTINF:-1 tvg-id="Azteca Cinema" group-title="NACIONAL", Azteca Cinema
+https://azt-cin.otteravision.com/azt/cin/cin.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa" group-title="NACIONAL", Cine Oro
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa.m3u8
@@ -26,6 +28,8 @@ EXTINF:-1 tvg-id="Excelsior Television I28.82353.schedulesdirect.org" group-titl
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 
 #EXTINF:-1 tvg-id="Canal 5" group-title="NACIONAL", Canal 5
+https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
+
 http://pe.shortgod.com/temporal/play.php?id=2
 
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
@@ -46,6 +50,12 @@ https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1 tvg-id="A Mas" group-title="NACIONAL", A Mas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
+#EXTINF:-1 tvg-id="El Heraldo" group-title="VARIEDADES" , El Heraldo
+https://live-c.cf.dmcdn.net/sec2(MhS-EAMJz-JXGKZkk8-Q5k8aGQJ5DpZjgl0fEnuhtsmV2xGWG-p77OsNv6gzphWayhTqvXasS3hRhTgQXrZtkeBV-OHau9OyiYK1ciHNEw0)/dm/3/x88epch/d/live-4.m3u8
+
+#EXTINF:-1 tvg-id="El Nueve" group-title="NACIONAL", El Nueve
+https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="VARIEDADES" , Canal 10 
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
@@ -54,11 +64,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5278
 
 EXTINF:-1 " tvg-id="Teleformula" group-title="NACIONAL" , TeleFormula
 https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
-
-#EXTINF:-1 tvg-id="El Nueve" group-title="NACIONAL", El Nueve
-https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
-
-EXTINF:-1 tvg-id="I233.97020.schedulesdirect.org" group-title="VARIEDADES", Canal Nu9ve
 
 
 #EXTINF:-1 tvg-id="MVS TV" group-title="NACIONAL", MVS TV
@@ -88,10 +93,8 @@ https://ythls.armelin.one/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 #EXTINF:-1 tvg-id="Meganoticias MX" group-title="NACIONAL", Meganoticias
 https://a37d474b6bb9441fa17e3e1ab3d55fce.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_MegaNoticias/playlist.m3u8
 
-#EXTINF:-1 tvg-id="QuieroTV.mx" group-title="NACIONAL", QuieroTV.mx
-https://stream.oursnetworktv.com/latin/encoder12/playlist.m3u8
-
-EXTINF:-1 tvg-id="I34.28440.schedulesdirect.org" group-title="VARIEDADES" ,
+#EXTINF:-1 tvg-id="QuieroTV.mx" group-title="NACIONAL", QuieroTV
+https://live-b.cf.dmcdn.net/sec2(LLGs7br_N6t9kmhQB4gsiD5e_c0ML2sUNzV1OKicY4Kg8lKXR_6_77oPn5DFddFQ1q34h57F4nWopwg9wVcSE-vUoi3JNh8iFjneHKNZbT0)/dm/3/x8lng9k/s/live-4.m3u8
 
 #EXTINF:-1 tvg-id="Mexiquense TV" group-title="NACIONAL" , Mexiquense TV 
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
@@ -662,23 +665,25 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de4e0b3
 
 
 
-#EXTINF:-1 tvg-id="161c09489197fe600073c0570" group-title="Retro Music", MTV Unplugged
+#EXTINF:-1 tvg-id="5f98471110cca20007d39f76" group-title="Retro Music", MTV Unplugged
+https://r.mjh.nz/PlutoTV/5f98471110cca20007d39f76-alt.m3u8
 
 
-#EXTINF:-1 tvg-id="" group-title="Retro Music", Retro Music TV
-http://976948031975276235.0222ofd.xyz:80/play/vi814668/sCRnWdQRBerG/276235.ts
 
 #EXTINF:-1 tvg-id="6490254fd2c47c00083a5743" group-title="Retro Music", Now 80s
 https://r.mjh.nz/PlutoTV/6490254fd2c47c00083a5743-alt.m3u8
 
+#EXTINF:-1 tvg-id="5fd7b8bf927e090007685853" group-title="Retro Music", Vevo '80s
+https://r.mjh.nz/PlutoTV/5fd7b8bf927e090007685853-alt.m3u8
+
 #EXTINF:-1 tvg-id="USBB320000647" group-title="Retro Music", XITE 80s Flashback 
 https://i.mjh.nz/SamsungTVPlus/USBB320000647.m3u8
 
+#EXTINF:-1 tvg-id="6076cd1df8576d0007c82193" group-title="Retro Music", VH1 Classic
+https://r.mjh.nz/PlutoTV/6076cd1df8576d0007c82193-alt.m3u8
+
 #EXTINF:-1 tvg-id="635bfb89b5cd9b0007ca9d63" group-title="Retro Music", MTV Classic
 https://r.mjh.nz/PlutoTV/635bfb89b5cd9b0007ca9d63-alt.m3u8
-
-#EXTINF:-1 tvg-id="5fd7b8bf927e090007685853" group-title="Retro Music", Vevo '80s
-https://r.mjh.nz/PlutoTV/5fd7b8bf927e090007685853-alt.m3u8
 
 #EXTINF:-1 tvg-id="5fd7bb1f86d94a000796e2c2" group-title="Retro Music", Vevo 90s
 https://r.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
@@ -698,39 +703,38 @@ https://r.mjh.nz/PlutoTV/624303598e45140007d765c1-alt.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Retro Music", Vevo Retro Rock
 https://i.mjh.nz/PlutoTV/61d4b38226b8a50007fe03a6-alt.m3u8
 
-#EXTINF:-1 tvg-id="64db35b44c5ed80008f6a3ed" group-title="Retro Music", Yo! MTV Raps Classic
-https://r.mjh.nz/PlutoTV/64db35b44c5ed80008f6a3ed-alt.m3u8
+#EXTINF:-1 tvg-id="65cf6adca25d5e00081d2f3f" group-title="Retro Music", MTV Hip Hop and Rap
+https://r.mjh.nz/PlutoTV/65cf6adca25d5e00081d2f3f-alt.m3u8
+
+#EXTINF:-1 tvg-id="64c10558060e830008ed1b0a" group-title="Retro Music", Yo! MTV Raps Classic
+https://r.mjh.nz/PlutoTV/64c10558060e830008ed1b0a-alt.m3u8
 
 #EXTINF:-1 tvg-id="61d4c2817a823d00070ba53e" group-title="Retro Music", Vevo True School Hip Hop
 https://r.mjh.nz/PlutoTV/61d4c2817a823d00070ba53e-alt.m3u8
 
-#EXTINF:-1 tvg-id="6076cd1df8576d0007c82193" group-title="Retro Music", VH1 Classic
-https://r.mjh.nz/PlutoTV/6076cd1df8576d0007c82193-alt.m3u8
-
-#EXTINF:-1 tvg-id="1635bfb89b5cd9b0007ca9d63" group-title="Retro Music", MTV Classic
-https://i.mjh.nz/PlutoTV/1635bfb89b5cd9b0007ca9d63-alt.m3u8
 
 
-#EXTINF:-1 tvg-id="" group-title="MUSIC", Nick Music
-http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="MUSIC", Exa TV
-http://138.59.177.34:8000/play/a05a/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="MUSIC",  Mimisica Hits
-http://191.97.60.193:10000/play/a032/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="MUSIC", Mix Music Channel
-https://cdamix.streaming.ws/mixmusic/live/playlist.m3u8
+https://cdamix.streaming.ws/mixmusic/live/playlist.m3u8  
 
-#EXTINF:-1 tvg-id="" group-title="MUSIC", Telehit Musica  
-https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="15fd7bca3e0a4ee0007a38e8c" group-title="MUSIC", Vevo 2K
+https://i.mjh.nz/PlutoTV/15fd7bca3e0a4ee0007a38e8c-alt.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="MUSIC", Telehit
-https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="CABD1200038NZ" group-title="MUSIC", XITE Hits
+https://i.mjh.nz/SamsungTVPlus/CABD1200038NZ.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="MUSIC", Bandamax
-https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ESBA330004064" group-title="MUSIC", Free TV Hits
+https://i.mjh.nz/SamsungTVPlus/ESBA330004064.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV Live
+https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+
+#EXTINF:-1 tvg-id="5d93b635b43dd1a399b39eee" group-title="MUSIC", Vevo Pop
+https://i.mjh.nz/PlutoTV/5d93b635b43dd1a399b39eee-alt.m3u8
+
+#EXTINF:-1 tvg-id="5d14fd1a252d35decbc4080c" group-title="MUSIC", MTV Biggest pop
+https://r.mjh.nz/PlutoTV/5d14fd1a252d35decbc4080c-alt.m3u8
 
 #EXTINF:-1 tvg-id="61ea759737679900078ff559" group-title="MUSIC", MTV Party Musica 
 https://i.mjh.nz/PlutoTV/61ea759737679900078ff559-alt.m3u8
@@ -738,40 +742,31 @@ https://i.mjh.nz/PlutoTV/61ea759737679900078ff559-alt.m3u8
 #EXTINF:-1 tvg-id="638f2d9aa530b200072ec8ef" group-title="MUSIC", MTV Love Music
 https://i.mjh.nz/PlutoTV/638f2d9aa530b200072ec8ef-alt.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV 00s
-http://195.24.89.82/VH1_SD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV 
-http://195.24.89.82/MTV_SD/index.m3u8
-
-#EXTINF:-1 tvg-id="CABD1200038NZ" group-title="MUSIC", XITE Hits
-https://i.mjh.nz/SamsungTVPlus/CABD1200038NZ.m3u8
+#EXTINF:-1 tvg-logo="64d161c93c785e0008df575e" group-title="MUSIC", Vevo Iconos Latinos
+https://r.mjh.nz/PlutoTV/64d161c93c785e0008df575e-alt.m3u8
 
 #EXTINF:-1 tvg-id="USBD3300007PB" group-title="MUSIC", XITE Nuevo Latino
 https://i.mjh.nz/SamsungTVPlus/USBD3300007PB.m3u8
 
-#EXTINF:-1 tvg-id="ESBA330004064" group-title="MUSIC", Free TV Hits
-https://i.mjh.nz/SamsungTVPlus/ESBA330004064.m3u8
-
-
-#EXTINF:-1 tvg-id="15fd7bca3e0a4ee0007a38e8c" group-title="MUSIC", Vevo 2K
-https://i.mjh.nz/PlutoTV/15fd7bca3e0a4ee0007a38e8c-alt.m3u8
-
-#EXTINF:-1 tvg-id="5d93b635b43dd1a399b39eee" group-title="MUSIC", Vevo Pop
-https://i.mjh.nz/PlutoTV/5d93b635b43dd1a399b39eee-alt.m3u8
-
 #EXTINF:-1 tvg-id="5da0d64d0e8a62000964ebe4" group-title="MUSIC", Vevo Latino
 https://i.mjh.nz/PlutoTV/5da0d64d0e8a62000964ebe4-alt.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fyPHgEH.png" group-title="MUSICA REGIONAL", Video Rola https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_2.m3u8
+
+
+#EXTINF:-1 tvg-id="64dab5fe35425100080e2991" group-title="MUSICA REGIONAL", Vevo Regional Latino
+https://r.mjh.nz/PlutoTV/64dab5fe35425100080e2991-alt.m3u8
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-623954128ed2b3b15baecb2c" group-title="MUSICA REGIONAL", Free TV Banda
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-623954128ed2b3b15baecb2c.m3u8
+
+#EXTINF:-1 tvg-id="Videorola" group-title="MUSICA REGIONAL", Video Rola https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_2.m3u8
 
 #EXTINF: -1 tvg-logo = "http://i.imgur.com/897e9wy.png" group-title="MUSICA REGIONAL", Teleritmo http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-1 group-title="MUSICA REGIONAL", Conecta TV 
-http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 group-title="MUSICA REGIONAL", RetroChannels 
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title="RADIO",Classic Rock 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1389&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=xAoXwfNRpzqfb4QF8JUB&custom_7=61aaa0cc784a2161d3caf7ff
