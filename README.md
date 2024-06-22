@@ -28,7 +28,7 @@ EXTINF:-1 tvg-id="Excelsior Television I28.82353.schedulesdirect.org" group-titl
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 
 #EXTINF:-1 tvg-id="Canal 5" group-title="NACIONAL", Canal 5
-https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
+
 
 http://pe.shortgod.com/temporal/play.php?id=2
 
