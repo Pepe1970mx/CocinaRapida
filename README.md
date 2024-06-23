@@ -4,10 +4,10 @@ x-tvg-url=""
 #EXTINF:-1 tvg-id="Azteca Uno" group-title="NACIONAL", Azteca Uno 
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-id="Azteca Cinema" group-title="NACIONAL", Azteca Cinema
+EXTINF:-1 tvg-id="Azteca Cinema" group-title="NACIONAL", Azteca Cinema
 https://azt-cin.otteravision.com/azt/cin/cin.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa" group-title="NACIONAL", Cine Oro
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7" group-title="NACIONAL", Cine Oro
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa.m3u8
 
 #EXTINF:-1 tvg-id="ADN 40" group-title="NACIONAL", ADN 40 
@@ -28,8 +28,6 @@ EXTINF:-1 tvg-id="Excelsior Television I28.82353.schedulesdirect.org" group-titl
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 
 #EXTINF:-1 tvg-id="Canal 5" group-title="NACIONAL", Canal 5
-
-
 http://pe.shortgod.com/temporal/play.php?id=2
 
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
@@ -202,31 +200,31 @@ https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
 #EXTINF:-1 tvg-id="ESBC4100002AG" group-title="Latinoamérica" , La 2
 https://i.mjh.nz/SamsungTVPlus/ESBC4100002AG.m3u8
 
-#EXTINF:-1 tvg-id="Canal2.sv" group-title="Latinoamérica", Canal 2 SV
+EXTINF:-1 tvg-id="Canal2.sv" group-title="Latinoamérica", Canal 2 SV
 https://telecorporacion.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live-video=144960.m3u8
 
 #EXTINF:-1 tvg-id="Canal4.sv" group-title="Latinoamérica", Canal 4 SV
 https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 
-#EXTINF:-1 tvg-id="Canal6.sv" group-title="Internacional", Canal 6 SV
+#EXTINF:-1 tvg-id="Canal6.sv" group-title="Latinoamérica", Canal 6 SV
 https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/.m3u8
 
 EXTINF:-1 tvg-id="Canal10.sv" group-title="El Salvador", Canal 10 SV
 
 
-#EXTINF:-1 tvg-id="Canal12.sv" group-title="Internacional", Canal 12 SV
+#EXTINF:-1 tvg-id="Canal12.sv" group-title="Latinoamérica", Canal 12 SV
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv" group-title="Latinoamérica", Megavision 19 SV
 https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 
-#EXTINF:-1 tvg-id="VTVCanal35.sv" group-title="Internacional", TCS+ SV
+#EXTINF:-1 tvg-id="VTVCanal35.sv" group-title="Latinoamérica", TCS+ SV
 https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-video=2000000-audio_0=64000.m3u8
 
-#EXTINF:-1 tvg-id="Canal57.sv" group-title="Internacional", Canal 57 SV
+#EXTINF:-1 tvg-id="Canal57.sv" group-title="Latinoamérica", Canal 57 SV
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 
-#EXTINF:-1 tvg-id="WillaxTV.pe" group-title="Internacional" , Willax.pe
+#EXTINF:-1 tvg-id="WillaxTV.pe" group-title="Latinoamérica" , Willax.pe
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
 EXTINF:-1 tvg-id="ATV.pe" group-title="Latinoamérica" , ATV PE
@@ -241,19 +239,19 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 tvg-id="UnitelSantaCruz.bo" group-title="Latinoamérica" , Unitel BO
 http://181.78.78.105:8000/play/a02g/index.m3u8
 
-#EXTINF:-1 tvg-id="Telesur" group-title="Internacional" , Telesur CR
+#EXTINF:-1 tvg-id="Telesur" group-title="Latinoamérica" , Telesur CR
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 
-#EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="Internacional", Ciudad Magica AR
+#EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="Latinoamérica", Ciudad Magica AR
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
-EXTINF:-1 tvg-id="13 de Argentina" group-title="ENTRETENIMIENTO", El trece AR
+EXTINF:-1 tvg-id="13 de Argentina" group-title="Latinoamérica", El trece AR
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="CiudadMagazine.ar" group-title="ENTRETENIMIENTO", Ciudad Magazine
+#EXTINF:-1 tvg-id="CiudadMagazine.ar" group-title="Latinoamérica", Ciudad Magazine
 
 
-EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="ENTRETENIMIENTO", Telecadena 7 y 4
+EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="Latinoamérica", Telecadena 7 y 4
 http://200.52.148.194:8000/play/a04q/index.m3u8
 
 #EXTINF:-1 tvg-id="Televicentro.hn" group-title="Latinoamérica", Canal 5 El lider HN
