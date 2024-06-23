@@ -196,6 +196,12 @@ https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/60580
 #EXTINF:-1 tvg-id="Telefuturo.py" group-title="Latinoamérica" , Telefuturo PA
 http://177.234.230.226:8010/play/a033/index.m3u8
 
+#EXTINF:-1 tvg-id="ESBC4100001NZ" group-title="Latinoamérica" , La 1
+https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
+
+#EXTINF:-1 tvg-id="ESBC4100002AG" group-title="Latinoamérica" , La 2
+https://i.mjh.nz/SamsungTVPlus/ESBC4100002AG.m3u8
+
 #EXTINF:-1 tvg-id="Canal2.sv" group-title="Latinoamérica", Canal 2 SV
 https://telecorporacion.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live-video=144960.m3u8
 
