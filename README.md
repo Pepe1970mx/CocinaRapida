@@ -538,7 +538,7 @@ https://i.mjh.nz/SamsungTVPlus/ESBA3300039ZX.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6018913fa15130002b284197" group-title="Movies", Free TV Sureño
 https://amg01024-olympusat-cinesurenope-lgpe-brjfx.amagi.tv/playlist/amg01024-olympusat-cinesurenope-lgpe/playlist.m3u8
 
-#EXTINF:-1 tvg-id="accion-mexicana" group-title="Movies", Acción Mexicana
+#EXTINF:-1 tvg-id="Acción Mexicana" group-title="Movies", Acción Mexicana
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b" group-title="Movies", Free TV Horror
