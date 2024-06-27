@@ -14,6 +14,8 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa.m3u8
 https://r.mjh.nz/PlutoTV/646ccd3681844c000974d6f4-alt.m3u8
 
 #EXTINF:-1 tvg-id="Las Estrellas" group-title="NACIONAL", Las Estrellas
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjUuVY4Yb_DHgzsx8PMu2aYN51xQ8qf4m_4gHSz_nWle/ts
+
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="Las estrellas.pe" group-title="NACIONAL", Las estrellas Latinoamerica
@@ -43,6 +45,8 @@ https://r.mjh.nz/PlutoTV/652e922db4b047000825f975-alt.m3u8
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 
 #EXTINF:-1 tvg-id="Azteca7" group-title="NACIONAL", Azteca 7
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jm4FpgfkGHQrusX_1B-OLkcNMWU-rvXQ5KaJPOf39_9-/ts
+
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8 
 
 #EXTINF:-1 tvg-id="A Mas" group-title="NACIONAL", A Mas
@@ -167,7 +171,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 http://bantel.iptvperu.tv:1935/transcoder_t4/Univision_t4/playlist.m3u8
 
 #EXTINF:-1 tvg-id"UNIVISION" group-title="Internacional",  Univision Latino
-http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
 
 #EXTINF:-1 tvg-id="WOLE Univisión Puerto Rico.pr" group-title="Internacional", Teleonce Univision PR
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
@@ -187,18 +191,23 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="TV Max" group-title="Latinoamérica" , TV Max
-https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="Telefuturo.py" group-title="Latinoamérica" , Telefuturo PA
-http://177.234.230.226:8010/play/a033/index.m3u8
-
 #EXTINF:-1 tvg-id="ESBC4100001NZ" group-title="Latinoamérica" , La 1
 https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
 
 #EXTINF:-1 tvg-id="ESBC4100002AG" group-title="Latinoamérica" , La 2
 https://i.mjh.nz/SamsungTVPlus/ESBC4100002AG.m3u8
+
+EXTINF:-1 tvg-id="TV Max" group-title="Latinoamérica" , TV Max
+https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="Telefuturo.py" group-title="Latinoamérica" , Telefuturo PA
+http://177.234.230.226:8010/play/a033/index.m3u8
+
+#EXTINF:-1 tvg-id="Telesur" group-title="Latinoamérica" , Telesur CR
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+
+#EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="Latinoamérica", Ciudad Magica AR
+https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
 EXTINF:-1 tvg-id="Canal2.sv" group-title="Latinoamérica", Canal 2 SV
 https://telecorporacion.cdn.vustreams.com/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live-video=144960.m3u8
@@ -212,10 +221,10 @@ https://telecorporacion.cdn.vustreams.com/live/a242095a-c49d-4263-b9ae-5958f5e0c
 EXTINF:-1 tvg-id="Canal10.sv" group-title="El Salvador", Canal 10 SV
 
 
-#EXTINF:-1 tvg-id="Canal12.sv" group-title="Latinoamérica", Canal 12 SV
+EXTINF:-1 tvg-id="Canal12.sv" group-title="Latinoamérica", Canal 12 SV
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="MegavisionCanal19.sv" group-title="Latinoamérica", Megavision 19 SV
+EXTINF:-1 tvg-id="MegavisionCanal19.sv" group-title="Latinoamérica", Megavision 19 SV
 https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 
 #EXTINF:-1 tvg-id="VTVCanal35.sv" group-title="Latinoamérica", TCS+ SV
@@ -239,11 +248,7 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 tvg-id="UnitelSantaCruz.bo" group-title="Latinoamérica" , Unitel BO
 http://181.78.78.105:8000/play/a02g/index.m3u8
 
-#EXTINF:-1 tvg-id="Telesur" group-title="Latinoamérica" , Telesur CR
-https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 
-#EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="Latinoamérica", Ciudad Magica AR
-https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
 EXTINF:-1 tvg-id="13 de Argentina" group-title="Latinoamérica", El trece AR
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
@@ -254,7 +259,7 @@ https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="Latinoamérica", Telecadena 7 y 4
 http://200.52.148.194:8000/play/a04q/index.m3u8
 
-#EXTINF:-1 tvg-id="Televicentro.hn" group-title="Latinoamérica", Canal 5 El lider HN
+EXTINF:-1 tvg-id="Televicentro.hn" group-title="Latinoamérica", Canal 5 El lider HN
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 
 EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO", Canal 3 Super canal GT
@@ -265,15 +270,15 @@ EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Teleonce GT
 
 EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO",  Trecevision GT
 
-#EXTINF:-1 tvg-id="Canal 4 de Costa Rica" group-title="Latinoamérica" , Canal 4 CR
+EXTINF:-1 tvg-id="Canal 4 de Costa Rica" group-title="Latinoamérica" , Canal 4 CR
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal 6 de Costa Rica" group-title="Latinoamérica" , Canal 6 CR
+EXTINF:-1 tvg-id="Canal 6 de Costa Rica" group-title="Latinoamérica" , Canal 6 CR
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
 EXTINF:-1 tvg-id="id="Canal 7 de Costa Rica (Teletica)" group-title="Latinoamérica", Teletica 7 CR
 
-#EXTINF:-1 tvg-id="Canal 11 de Costa Rica" group-title="Latinoamérica" , Canal 11 CR
+EXTINF:-1 tvg-id="Canal 11 de Costa Rica" group-title="Latinoamérica" , Canal 11 CR
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 
 
@@ -395,12 +400,19 @@ https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 
 
 #EXTINF:-1 tvg-id="STAR CHANNEL.pe" group-title="De Paga", Star Channel
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjUuVY4Yb_DHgzsx8PMu2abW2Ukfa6Xi4BUhJP7jViiA/ts
+
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/30
 
-#EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT 
+#EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjUuVY4Yb_DHgzsx8PMu2aZq1W_gA3d5K8R52A9jBqFf/ts
+
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1245
 
 #EXTINF:-1 tvg-id="SPACE" group-title="De Paga", Space
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjUuVY4Yb_DHgzsx8PMu2aY7WbXj81UMqRut8SZmFGfz/ts
+
+
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1281
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL.pe" group-title="De Paga", Warner 
@@ -441,6 +453,8 @@ http://rasaiptv.com:8080/amartinez/s1stemas.13579/1293
 http://924606346607321307.ofg0316.xyz:80/play/vi1229804/esDA4JqSWQTP/321307.ts
 
 #EXTINF:-1 tvg-id="I313.24553.schedulesdirect.org" group-title="De Paga" , HBO
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjUuVY4Yb_DHgzsx8PMu2aYu2n9QPXE8DLnN0xJX8byD/ts
+
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/55
 
 #EXTINF:-1 tvg-id="HBO 2" group-title="De Paga" , HBO 2
