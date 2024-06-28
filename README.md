@@ -1,7 +1,7 @@
 #EXTM3U 
 x-tvg-url=""
 
-#EXTINF:-1 tvg-id="Azteca Uno" group-title="NACIONAL", Azteca Uno 
+#EXTINF:-1 tvg-id="Azteca Uno" group-title="NACIONAL", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 EXTINF:-1 tvg-id="Azteca Cinema" group-title="NACIONAL", Azteca Cinema
@@ -21,7 +21,9 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 #EXTINF:-1 tvg-id="Las estrellas.pe" group-title="NACIONAL", Las estrellas Latinoamerica
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="64e35aff6b1fdb0008ea8441" group-title="NACIONAL", Imagen TV HD
+#EXTINF:-1 tvg-id="Imagen TV" group-title="NACIONAL", Imagen TV 
+https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
+
 https://r.mjh.nz/PlutoTV/64e35aff6b1fdb0008ea8441-alt.m3u8
 
 EXTINF:-1 tvg-id="Excelsior Television I28.82353.schedulesdirect.org" group-title="NACIONAL",  Exelsior TV
@@ -45,9 +47,11 @@ https://r.mjh.nz/PlutoTV/652e922db4b047000825f975-alt.m3u8
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 
 #EXTINF:-1 tvg-id="Azteca7" group-title="NACIONAL", Azteca 7
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jm4FpgfkGHQrusX_1B-OLkcNMWU-rvXQ5KaJPOf39_9-/ts
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
-https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8 
+
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jm4FpgfkGHQrusX_1B-OLkcNMWU-rvXQ5KaJPOf39_9-/ts
+ 
 
 #EXTINF:-1 tvg-id="A Mas" group-title="NACIONAL", A Mas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
