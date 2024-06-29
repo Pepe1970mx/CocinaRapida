@@ -4,9 +4,6 @@ x-tvg-url=""
 #EXTINF:-1 tvg-id="Azteca Uno" group-title="NACIONAL", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-EXTINF:-1 tvg-id="Azteca Cinema" group-title="NACIONAL", Azteca Cinema
-https://azt-cin.otteravision.com/azt/cin/cin.m3u8
-
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7" group-title="NACIONAL", Cine Oro
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa.m3u8
 
@@ -14,15 +11,12 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa.m3u8
 https://r.mjh.nz/PlutoTV/646ccd3681844c000974d6f4-alt.m3u8
 
 #EXTINF:-1 tvg-id="Las Estrellas" group-title="NACIONAL", Las Estrellas
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjUuVY4Yb_DHgzsx8PMu2aYN51xQ8qf4m_4gHSz_nWle/ts
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159082
 
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="Las estrellas.pe" group-title="NACIONAL", Las estrellas Latinoamerica
-https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Imagen TV" group-title="NACIONAL", Imagen TV 
-https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
+#EXTINF:-1 tvg-id="Imagen TV" group-title="NACIONAL", Imagen TV
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159081
 
 https://r.mjh.nz/PlutoTV/64e35aff6b1fdb0008ea8441-alt.m3u8
 
@@ -32,7 +26,7 @@ EXTINF:-1 tvg-id="Excelsior Television I28.82353.schedulesdirect.org" group-titl
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 
 #EXTINF:-1 tvg-id="Canal 5" group-title="NACIONAL", Canal 5
-http://pe.shortgod.com/temporal/play.php?id=2
+http://45.228.234.167:8000/play/a0ll/index.m3u8
 
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 
@@ -201,10 +195,19 @@ https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
 #EXTINF:-1 tvg-id="ESBC4100002AG" group-title="Latinoamérica" , La 2
 https://i.mjh.nz/SamsungTVPlus/ESBC4100002AG.m3u8
 
+#EXTINF:-1 tvg-id="Canal 3" group-title="Latinoamérica" , Canal 3
+https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal 7" group-title="Latinoamérica" , Canal 7 - Televisiete
+https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
+
+
 EXTINF:-1 tvg-id="TV Max" group-title="Latinoamérica" , TV Max
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="Telefuturo.py" group-title="Latinoamérica" , Telefuturo PA
+https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_alta/playlist.m3u8?k=e1c0f09e6dd58eb8ccbd0126f102435f3de1b025cd14ad373c65041cac153c3c&exp=1719640458
+
 http://177.234.230.226:8010/play/a033/index.m3u8
 
 #EXTINF:-1 tvg-id="Telesur" group-title="Latinoamérica" , Telesur CR
