@@ -206,9 +206,7 @@ EXTINF:-1 tvg-id="TV Max" group-title="Latinoamérica" , TV Max
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="Telefuturo.py" group-title="Latinoamérica" , Telefuturo PA
-https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_alta/playlist.m3u8?k=e1c0f09e6dd58eb8ccbd0126f102435f3de1b025cd14ad373c65041cac153c3c&exp=1719640458
-
-http://177.234.230.226:8010/play/a033/index.m3u8
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jt3ZGIaBWSR2FDEsqnEHROVUrxVfwD5tm3sSj2fcgvyp/ts
 
 #EXTINF:-1 tvg-id="Telesur" group-title="Latinoamérica" , Telesur CR
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
@@ -220,6 +218,8 @@ https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 https://telecorporacion.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/.m3u8
 
 #EXTINF:-1 tvg-id="Canal4.sv" group-title="Latinoamérica", Canal 4 SV
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jllP4u1vzGBg-dWPh5dNBh5_3syZEkcSw4yllNlpuUy5/ts
+
 https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 
 #EXTINF:-1 tvg-id="Canal6.sv" group-title="Latinoamérica", Canal 6 SV
@@ -230,6 +230,10 @@ EXTINF:-1 tvg-id="Canal10.sv" group-title="El Salvador", Canal 10 SV
 
 EXTINF:-1 tvg-id="Canal12.sv" group-title="Latinoamérica", Canal 12 SV
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+
+EXTINF:-1 tvg-id="Canal13.sv" group-title="Latinoamérica", Canal 13 SV
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jg6LVMjEvSrPJCk3BDwx1qrAwK78R_W0FhtisbMyorWT/ts
+
 
 EXTINF:-1 tvg-id="MegavisionCanal19.sv" group-title="Latinoamérica", Megavision 19 SV
 https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/master.m3u8
@@ -253,15 +257,18 @@ https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 
 #EXTINF:-1 tvg-id="UnitelSantaCruz.bo" group-title="Latinoamérica" , Unitel BO
-http://181.78.78.105:8000/play/a02g/index.m3u8
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jmThcUJ-MGZjvpaJxA26utkV1vouCA8p8VNuSUSZ25Oo/ts
 
+
+#EXTINF:-1 tvg-id="Telefe.ar" group-title="Latinoamérica" , Telefe AR
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jhHRHRUqc6S2jzMEWq_b_7oqSZl1eoQ7RwoDGuGu57Bx/ts
 
 
 EXTINF:-1 tvg-id="13 de Argentina" group-title="Latinoamérica", El trece AR
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" group-title="Latinoamérica", Ciudad Magazine
-
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0juSeh8zJ2m4JukQIH10x2_WkKmg-IC9XcmiV1VB-nKz6/ts
 
 EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="Latinoamérica", Telecadena 7 y 4
 http://200.52.148.194:8000/play/a04q/index.m3u8
