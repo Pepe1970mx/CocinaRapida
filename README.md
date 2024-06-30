@@ -37,8 +37,8 @@ https://r.mjh.nz/PlutoTV/652e91fd6208700008dcaf7b-alt.m3u8
 #EXTINF:-1 tvg-id="Milenio Televisión" group-title="NACIONAL" , Milenio Television
 https://r.mjh.nz/PlutoTV/652e922db4b047000825f975-alt.m3u8
 
-#EXTINF:-1 tvg-id="SEIS +" group-title="NACIONAL" , Seis Saltillo
-https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
+#EXTINF:-1 tvg-id="Telediario Now" group-title="NACIONAL" , Telediario Now
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 
 #EXTINF:-1 tvg-id="Azteca7" group-title="NACIONAL", Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
@@ -50,7 +50,7 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jm4FpgfkGHQrusX_1B-OLkcNMWU-rvX
 #EXTINF:-1 tvg-id="A Mas" group-title="NACIONAL", A Mas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 tvg-id="El Heraldo" group-title="VARIEDADES" , El Heraldo
+#EXTINF:-1 tvg-id="El Heraldo" group-title="NACIONAL" , El Heraldo
 https://live-c.cf.dmcdn.net/sec2(MhS-EAMJz-JXGKZkk8-Q5k8aGQJ5DpZjgl0fEnuhtsmV2xGWG-p77OsNv6gzphWayhTqvXasS3hRhTgQXrZtkeBV-OHau9OyiYK1ciHNEw0)/dm/3/x88epch/d/live-4.m3u8
 
 #EXTINF:-1 tvg-id="El Nueve" group-title="NACIONAL", El Nueve
@@ -64,7 +64,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5278
 
 EXTINF:-1 " tvg-id="Teleformula" group-title="NACIONAL" , TeleFormula
 https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
-
 
 #EXTINF:-1 tvg-id="MVS TV" group-title="NACIONAL", MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
@@ -107,19 +106,21 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="La Rosa" group-title="VARIEDADES" , La Rosa de Guadalupe
+#EXTINF:-1 tvg-id="La Rosa" group-title="Drama" , La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" group-title="VARIEDADES" , Pluto TV Series Latinas
+#EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" group-title="Drama" , Pluto TV Series Latinas
 https://r.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
 
-#EXTINF:-1 tvg-id="USBD2700004ME" group-title="VARIEDADES" , Como Dice el Dicho 
+#EXTINF:-1 tvg-id="USBD2700004ME" group-title="Drama" , Como Dice el Dicho 
 https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
 
-#EXTINF:-1 tvg-id="USBC2100010OS" group-title="VARIEDADES" , ViX Jajaja 
+
+
+#EXTINF:-1 tvg-id="USBC2100010OS" group-title="Comedia" , ViX Jajaja 
 https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
 
-#EXTINF:-1 tvg-id="Distrito Comedia" group-title="VARIEDADES" , Distrito Comedia
+#EXTINF:-1 tvg-id="Distrito Comedia" group-title="Comedia" , Distrito Comedia
 http://45.5.117.182:8000/play/ihf9/index.m3u8
 
 
@@ -174,7 +175,7 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
 #EXTINF:-1 tvg-id="WOLE Univisión Puerto Rico.pr" group-title="Internacional", Teleonce Univision PR
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
-#EXTINF:-1 tvg-id="USBA300040WR" group-title="Internacional", ESTRELLA TV
+EXTINF:-1 tvg-id="USBA300040WR" group-title="Internacional", ESTRELLA TV
 https://i.mjh.nz/SamsungTVPlus/USBA300040WR.m3u8
 
 #EXTINF:-1  tvg-id="WAPA TV"  group-title="Internacional" , Wapa
@@ -189,85 +190,85 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESBC4100001NZ" group-title="Latinoamérica" , La 1
+#EXTINF:-1 tvg-id="ESBC4100001NZ" group-title="Internacional" , La 1
 https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
 
-#EXTINF:-1 tvg-id="ESBC4100002AG" group-title="Latinoamérica" , La 2
+#EXTINF:-1 tvg-id="ESBC4100002AG" group-title="Internacional" , La 2
 https://i.mjh.nz/SamsungTVPlus/ESBC4100002AG.m3u8
 
-#EXTINF:-1 tvg-id="Canal 3" group-title="Latinoamérica" , Canal 3
+#EXTINF:-1 tvg-id="Canal 3" group-title="Internacional" , Canal 3
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal 7" group-title="Latinoamérica" , Canal 7 - Televisiete
+#EXTINF:-1 tvg-id="Canal 7" group-title="Internacional" , Canal 7 - Televisiete
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 
 
-EXTINF:-1 tvg-id="TV Max" group-title="Latinoamérica" , TV Max
+#EXTINF:-1 tvg-id="TV Max" group-title="Internacional" , TV Max
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-id="Telefuturo.py" group-title="Latinoamérica" , Telefuturo PA
+#EXTINF:-1 tvg-id="Telefuturo.py" group-title="Internacional" , Telefuturo PA
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jt3ZGIaBWSR2FDEsqnEHROVUrxVfwD5tm3sSj2fcgvyp/ts
 
-#EXTINF:-1 tvg-id="Telesur" group-title="Latinoamérica" , Telesur CR
+#EXTINF:-1 tvg-id="Telesur" group-title="Internacional" , Telesur CR
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 
-#EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="Latinoamérica", Ciudad Magica AR
+#EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="Internacional", Ciudad Magica AR
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
-#EXTINF:-1 tvg-id="Canal2.sv" group-title="Latinoamérica", Canal 2 SV
+#EXTINF:-1 tvg-id="Canal2.sv" group-title="Internacional", Canal 2 SV
 https://telecorporacion.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/.m3u8
 
-#EXTINF:-1 tvg-id="Canal4.sv" group-title="Latinoamérica", Canal 4 SV
+#EXTINF:-1 tvg-id="Canal4.sv" group-title="Internacional", Canal 4 SV
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jllP4u1vzGBg-dWPh5dNBh5_3syZEkcSw4yllNlpuUy5/ts
 
 https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
 
-#EXTINF:-1 tvg-id="Canal6.sv" group-title="Latinoamérica", Canal 6 SV
+#EXTINF:-1 tvg-id="Canal6.sv" group-title="Internacional", Canal 6 SV
 https://telecorporacion.cdn.vustreams.com/live/0ee29634-11fb-4b59-8987-996d5663dbd8/live.isml/.m3u8
 
 EXTINF:-1 tvg-id="Canal10.sv" group-title="El Salvador", Canal 10 SV
 
 
-EXTINF:-1 tvg-id="Canal12.sv" group-title="Latinoamérica", Canal 12 SV
+EXTINF:-1 tvg-id="Canal12.sv" group-title="Internacional", Canal 12 SV
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
-EXTINF:-1 tvg-id="Canal13.sv" group-title="Latinoamérica", Canal 13 SV
+EXTINF:-1 tvg-id="Canal13.sv" group-title="Internacional", Canal 13 SV
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jg6LVMjEvSrPJCk3BDwx1qrAwK78R_W0FhtisbMyorWT/ts
 
 
 EXTINF:-1 tvg-id="MegavisionCanal19.sv" group-title="Latinoamérica", Megavision 19 SV
 https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 
-#EXTINF:-1 tvg-id="VTVCanal35.sv" group-title="Latinoamérica", TCS+ SV
+#EXTINF:-1 tvg-id="VTVCanal35.sv" group-title="Internacional", TCS+ SV
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8
 
-#EXTINF:-1 tvg-id="Canal57.sv" group-title="Latinoamérica", Canal 57 SV
+#EXTINF:-1 tvg-id="Canal57.sv" group-title="Internacional", Canal 57 SV
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 
-#EXTINF:-1 tvg-id="WillaxTV.pe" group-title="Latinoamérica" , Willax.pe
+#EXTINF:-1 tvg-id="WillaxTV.pe" group-title="Internacional" , Willax.pe
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
-EXTINF:-1 tvg-id="ATV.pe" group-title="Latinoamérica" , ATV PE
+EXTINF:-1 tvg-id="ATV.pe" group-title="Internacional" , ATV PE
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="ATVSur.pe" group-title="Latinoamérica" , ATV Sur PE
+#EXTINF:-1 tvg-id="ATVSur.pe" group-title="Internacional" , ATV Sur PE
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" group-title="Latinoamérica" , Panamericana 
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" group-title="Internacional" , Panamericana 
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 
-#EXTINF:-1 tvg-id="UnitelSantaCruz.bo" group-title="Latinoamérica" , Unitel BO
+#EXTINF:-1 tvg-id="UnitelSantaCruz.bo" group-title="Internacional" , Unitel BO
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jmThcUJ-MGZjvpaJxA26utkV1vouCA8p8VNuSUSZ25Oo/ts
 
 
-#EXTINF:-1 tvg-id="Telefe.ar" group-title="Latinoamérica" , Telefe AR
+#EXTINF:-1 tvg-id="Telefe" group-title="Internacional" , Telefe AR
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jhHRHRUqc6S2jzMEWq_b_7oqSZl1eoQ7RwoDGuGu57Bx/ts
 
 
 EXTINF:-1 tvg-id="13 de Argentina" group-title="Latinoamérica", El trece AR
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="CiudadMagazine.ar" group-title="Latinoamérica", Ciudad Magazine
+#EXTINF:-1 tvg-id="CiudadMagazine.ar" group-title="Internacional", Ciudad Magazine
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0juSeh8zJ2m4JukQIH10x2_WkKmg-IC9XcmiV1VB-nKz6/ts
 
 EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="Latinoamérica", Telecadena 7 y 4
