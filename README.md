@@ -8,7 +8,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa.m3u8
 
 #EXTINF:-1 tvg-id="ADN 40" group-title="NACIONAL", ADN 40 
-
+https://jmp2.uk/PlutoTV/646ccd3681844c000974d6f4-alt.m3u8
 
 #EXTINF:-1 tvg-id="Las Estrellas" group-title="NACIONAL", Las Estrellas
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159082
@@ -25,11 +25,11 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 http://45.228.234.167:8000/play/a0ll/index.m3u8
 
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 CdMX
-https://r.mjh.nz/PlutoTV/652e91fd6208700008dcaf7b-alt.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
 
 
 #EXTINF:-1 tvg-id="Milenio Televisión" group-title="NACIONAL" , Milenio Television
-https://r.mjh.nz/PlutoTV/652e922db4b047000825f975-alt.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
 
 #EXTINF:-1 tvg-id="Telediario Now" group-title="NACIONAL", Telediario Now
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
@@ -49,7 +49,7 @@ https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Teleformula" group-title="NACIONAL" , Teleformula
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5278
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 
 #EXTINF:-1 tvg-id="MVS TV" group-title="NACIONAL", MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
@@ -76,7 +76,8 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 https://ythls.armelin.one/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 
 #EXTINF:-1 tvg-id="Meganoticias MX" group-title="NACIONAL", Meganoticias
-https://a37d474b6bb9441fa17e3e1ab3d55fce.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_MegaNoticias/playlist.m3u8
+https://a37d474b6bb9441fa17e3e1ab3d55fce.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_MegaNoticias/playlist.m3u8?ads.wurl_channel=925
+
 
 #EXTINF:-1 tvg-id="QuieroTV.mx" group-title="NACIONAL", QuieroTV
 https://live-b.cf.dmcdn.net/sec2(LLGs7br_N6t9kmhQB4gsiD5e_c0ML2sUNzV1OKicY4Kg8lKXR_6_77oPn5DFddFQ1q34h57F4nWopwg9wVcSE-vUoi3JNh8iFjneHKNZbT0)/dm/3/x8lng9k/s/live-4.m3u8
