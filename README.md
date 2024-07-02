@@ -8,7 +8,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa.m3u8
 
 #EXTINF:-1 tvg-id="ADN 40" group-title="NACIONAL", ADN 40 
-https://r.mjh.nz/PlutoTV/646ccd3681844c000974d6f4-alt.m3u8
+
 
 #EXTINF:-1 tvg-id="Las Estrellas" group-title="NACIONAL", Las Estrellas
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159082
@@ -179,17 +179,16 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESBC4100001NZ" group-title="Internacional" , La 1
-https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
+https://jmp2.uk/SamsungTVPlus/ESBC4100001NZ.m3u8
 
 #EXTINF:-1 tvg-id="ESBC4100002AG" group-title="Internacional" , La 2
-https://i.mjh.nz/SamsungTVPlus/ESBC4100002AG.m3u8
+https://jmp2.uk/SamsungTVPlus/ESBC4100002AG.m3u8
 
 #EXTINF:-1 tvg-id="Canal 3" group-title="Internacional" , Canal 3
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal 7" group-title="Internacional" , Canal 7 - Televisiete
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
-
 
 #EXTINF:-1 tvg-id="TV Max" group-title="Internacional" , TV Max
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
@@ -204,15 +203,13 @@ https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
 #EXTINF:-1 tvg-id="Canal2.sv" group-title="Internacional", Canal 2 SV
-https://telecorporacion.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/.m3u8
+
 
 #EXTINF:-1 tvg-id="Canal4.sv" group-title="Internacional", Canal 4 SV
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jllP4u1vzGBg-dWPh5dNBh5_3syZEkcSw4yllNlpuUy5/ts
 
-https://telecorporacion.cdn.vustreams.com/live/65b52a0a-415d-4686-8ef5-7a0b07b83992/live.isml/.m3u8
-
 #EXTINF:-1 tvg-id="Canal6.sv" group-title="Internacional", Canal 6 SV
-https://telecorporacion.cdn.vustreams.com/live/0ee29634-11fb-4b59-8987-996d5663dbd8/live.isml/.m3u8
+
 
 EXTINF:-1 tvg-id="Canal10.sv" group-title="El Salvador", Canal 10 SV
 
@@ -220,7 +217,7 @@ EXTINF:-1 tvg-id="Canal10.sv" group-title="El Salvador", Canal 10 SV
 EXTINF:-1 tvg-id="Canal12.sv" group-title="Internacional", Canal 12 SV
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
-EXTINF:-1 tvg-id="Canal13.sv" group-title="Internacional", Canal 13 SV
+#EXTINF:-1 tvg-id="Canal13.sv" group-title="Internacional", Canal 13 SV
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jg6LVMjEvSrPJCk3BDwx1qrAwK78R_W0FhtisbMyorWT/ts
 
 
@@ -228,7 +225,7 @@ EXTINF:-1 tvg-id="MegavisionCanal19.sv" group-title="Latinoamérica", Megavision
 https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 
 #EXTINF:-1 tvg-id="VTVCanal35.sv" group-title="Internacional", TCS+ SV
-https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8
+
 
 #EXTINF:-1 tvg-id="Canal57.sv" group-title="Internacional", Canal 57 SV
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
@@ -499,7 +496,7 @@ EXTINF:-1 tvg-id="De Pelicula Plus" group-title="De Paga" , De Pelicula Plus
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="ESBC4100003WE" group-title="Kids" , Clan
-https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
+https://jmp2.uk/SamsungTVPlus/ESBC4100003WE.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network México" group-title="Kids", Cartoon Network 
 http://181.78.105.146:2000/play/a03k/index.m3u8
@@ -514,37 +511,37 @@ http://rasaiptv.com:8080/amartinez/s1stemas.13579/110282
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/132703
 
 #EXTINF:-1 tvg-id="645952687cb4b100084ed52e" group-title="Kids", Nickelodeon Pluto TV
-https://r.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
+https://jmp2.uk/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
 
 #EXTINF:-1 tvg-id="5d8d08395f39465da6fb3ec4" group-title="Kids", Nickelodeon en español 
-https://i.mjh.nz/PlutoTV/5d8d08395f39465da6fb3ec4-alt.m3u8
+https://jmp2.uk/PlutoTV/5d8d08395f39465da6fb3ec4-alt.m3u8
 
-#EXTINF:-1 tvg-id="5fab09a8749b1a00077d35d2-alt" group-title="Kids", Nick Teen
-https://r.mjh.nz/PlutoTV/5fab09a8749b1a00077d35d2-alt.m3u8
+#EXTINF:-1 tvg-id="5fab09a8749b1a00077d35d2" group-title="Kids", Nick Teen
+https://jmp2.uk/PlutoTV/5fab09a8749b1a00077d35d2-alt.m3u8
 
 #EXTINF:-1 tvg-id="609e7e423e9173000706a681" group-title="Kids", Pluto TV toons Clasico
-https://r.mjh.nz/PlutoTV/609e7e423e9173000706a681-alt.m3u8
+https://jmp2.uk/PlutoTV/609e7e423e9173000706a681-alt.m3u8
 
 #EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="Kids", Nickelodeon Clasico
-https://r.mjh.nz/PlutoTV/5f12151794c1800007a8ae63-alt.m3u8
+https://jmp2.uk/PlutoTV/5f12151794c1800007a8ae63-alt.m3u8
 
 #EXTINF:-1 tvg-id="60142258a54aeb0007751c15" group-title="Kids", Pluto TV Retro Cartoons
-https://r.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
+https://jmp2.uk/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
 
 #EXTINF:-1 tvg-id="5fcea93ffcf94500071c4b2f" group-title="Kids", Kenan y Kel
-https://r.mjh.nz/PlutoTV/5fcea93ffcf94500071c4b2f-alt.m3u8
+https://jmp2.uk/PlutoTV/5fcea93ffcf94500071c4b2f-alt.m3u8
 
 #EXTINF:-1 tvg-id="6254598f5083f800076d8563" group-title="Kids", Bob Espoja Psntalones Cuadrados
-https://r.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
+https://jmp2.uk/PlutoTV/6254598f5083f800076d8563-alt.m3u8
 
 #EXTINF:-1 tvg-id="6322099c822bbc00074857db" group-title="Kids", Los Padrinos Magicos
-https://r.mjh.nz/PlutoTV/6322099c822bbc00074857db-alt.m3u8
+https://jmp2.uk/PlutoTV/6322099c822bbc00074857db-alt.m3u8
 
 #EXTINF:-1 tvg-id="63dd5d7a4e83e700088fbca8" group-title="Kids", Las Tortugas Ninja
-https://r.mjh.nz/PlutoTV/63dd5d7a4e83e700088fbca8-alt.m3u8
+https://jmp2.uk/PlutoTV/63dd5d7a4e83e700088fbca8-alt.m3u8
 
 EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="Kids", Los Tres Chiflados
-https://i.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
+https://jmp2.uk/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
 
 
 
@@ -583,28 +580,28 @@ EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" group-title="Movies",Cine Premiere
 https://r.mjh.nz/PlutoTV/5cf968040ab7d8f181e6a68b-alt.m3u8
 
 #EXTINF:-1 tvg-id="65f8123025e21c0013fadeb0" group-title="Movies", Pluto TV Noches de Acción 
-https://r.mjh.nz/PlutoTV/65f8123025e21c0013fadeb0-alt.m3u8
+https://jmp2.uk/PlutoTV/65f8123025e21c0013fadeb0-alt.m3u8
 
 EXTINF:-1 tvg-id="canela-cinema-0" group-title="Movies", Canela Cinema
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgmx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESAJ45000181E" group-title="Movies" , Accion Rakuten 
-https://i.mjh.nz/SamsungTVPlus/ESAJ45000181E.m3u8
+https://jmp2.uk/SamsungTVPlus/ESAJ45000181E.m3u8
 
 #EXTINF:-1 tvg-id="ESBD80000288" group-title="Movies", Runtime Accion
-https://i.mjh.nz/SamsungTVPlus/ESBD80000288.m3u8
+https://jmp2.uk/SamsungTVPlus/ESBD80000288.m3u8
 
 EXTINF:-1 tvg-id="ESBA3300017FA" group-title="Movies", Familiares-Rakuten
 https://i.mjh.nz/SamsungTVPlus/ESBA3300017FA.m3u8
 
 #EXTINF:-1 tvg-id="65786888b228b7000843ad9a" group-title="Movies", Pluto TV Zombies
-https://r.mjh.nz/PlutoTV/65786888b228b7000843ad9a-alt.m3u8
+https://jmp2.uk/PlutoTV/65786888b228b7000843ad9a-alt.m3u8
 
 #EXTINF:-1 tvg-id="5dcb62e63d4d8f0009f36881" group-title="Movies" , Pluto TV Cine Acción 
-https://r.mjh.nz/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8
+https://jmp2.uk/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8
 
 #EXTINF:-1 tvg-id="5e972a21ad709d00074195ba" group-title="Movies" , Pluto TV Estrellas En Accion
-https://r.mjh.nz/PlutoTV/5e972a21ad709d00074195ba-alt.m3u8
+https://jmp2.uk/PlutoTV/5e972a21ad709d00074195ba-alt.m3u8
 
 EXTINF:-1 tvg-id="6532e7b290a74c00084a3bb6" group-title="Movies" , Hallmark en Español 
 https://r.mjh.nz/PlutoTV/6532e7b290a74c00084a3bb6-alt.m3u8
@@ -613,10 +610,10 @@ EXTINF:-1 tvg-id="5dcde437229eff00091b6c30" group-title="Movies" , Pluto TV Cine
 https://r.mjh.nz/PlutoTV/5dcde437229eff00091b6c30-alt.m3u8
 
 #EXTINF:-1 tvg-id="5f2817d3d7573a00080f9175" group-title="Movies",Pluto TV Sci-Fi 
-https://r.mjh.nz/PlutoTV/5f2817d3d7573a00080f9175-alt.m3u8
+https://jmp2.uk/PlutoTV/5f2817d3d7573a00080f9175-alt.m3u8
 
 #EXTINF:-1 tvg-id="65ddec1ef7f0af0008be4b65" group-title="Movies",Pluto TV Series Sci-Fi
-https://r.mjh.nz/PlutoTV/65ddec1ef7f0af0008be4b65-alt.m3u8
+https://jmp2.uk/PlutoTV/65ddec1ef7f0af0008be4b65-alt.m3u8
 
 EXTINF:-1 tvg-id="624af40c004f8000079b784d" group-title="Movies", Pluto TV Cine Crimen
 https://r.mjh.nz/PlutoTV/624af40c004f8000079b784d-alt.m3u8
