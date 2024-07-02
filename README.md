@@ -140,10 +140,10 @@ https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-id"CNN en Español" group-title="NOTICIAS" , CNN en Español 
 
 
-#EXTINF:-1 tvg-id="Telemundo" group-title="Internacional", Telemundo
+#EXTINF:-1 tvg-id="Telemundo" group-title="Internacional", Telemundo Este
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo Internacional" group-title="Internacional", Telemundo Internacional
+#EXTINF:-1 tvg-id="Telemundo México" group-title="Internacional", Telemundo Internacional
 http://bantel.iptvperu.tv:1935/miscelaneos/telemundo.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", Universo
@@ -155,8 +155,10 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-id="Univision" group-title="Internacional",  Univision Latino America
 http://bantel.iptvperu.tv:1935/transcoder_t4/Univision_t4/playlist.m3u8
 
-#EXTINF:-1 tvg-id"UNIVISION" group-title="Internacional",  Univision Latino
+#EXTINF:-1 tvg-id"UNIVISION" group-title="Internacional",  Univision Este
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
+
+
 
 #EXTINF:-1 tvg-id="WOLE Univisión Puerto Rico.pr" group-title="Internacional", Teleonce Univision PR
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
