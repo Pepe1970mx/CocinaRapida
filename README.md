@@ -13,12 +13,8 @@ https://r.mjh.nz/PlutoTV/646ccd3681844c000974d6f4-alt.m3u8
 #EXTINF:-1 tvg-id="Las Estrellas" group-title="NACIONAL", Las Estrellas
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159082
 
-https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
-
 #EXTINF:-1 tvg-id="Imagen TV" group-title="NACIONAL", Imagen TV
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159081
-
-https://r.mjh.nz/PlutoTV/64e35aff6b1fdb0008ea8441-alt.m3u8
 
 EXTINF:-1 tvg-id="Excelsior Television I28.82353.schedulesdirect.org" group-title="NACIONAL",  Exelsior TV
 
@@ -28,8 +24,6 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 #EXTINF:-1 tvg-id="Canal 5" group-title="NACIONAL", Canal 5
 http://45.228.234.167:8000/play/a0ll/index.m3u8
 
-https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
-
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 CdMX
 https://r.mjh.nz/PlutoTV/652e91fd6208700008dcaf7b-alt.m3u8
 
@@ -37,33 +31,25 @@ https://r.mjh.nz/PlutoTV/652e91fd6208700008dcaf7b-alt.m3u8
 #EXTINF:-1 tvg-id="Milenio Televisión" group-title="NACIONAL" , Milenio Television
 https://r.mjh.nz/PlutoTV/652e922db4b047000825f975-alt.m3u8
 
-#EXTINF:-1 tvg-id="Telediario Now" group-title="NACIONAL" , Telediario Now
+#EXTINF:-1 tvg-id="Telediario Now" group-title="NACIONAL", Telediario Now
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 
 #EXTINF:-1 tvg-id="Azteca7" group-title="NACIONAL", Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
-
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jm4FpgfkGHQrusX_1B-OLkcNMWU-rvXQ5KaJPOf39_9-/ts
- 
-
 #EXTINF:-1 tvg-id="A Mas" group-title="NACIONAL", A Mas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-id="El Heraldo" group-title="NACIONAL" , El Heraldo
-https://live-c.cf.dmcdn.net/sec2(MhS-EAMJz-JXGKZkk8-Q5k8aGQJ5DpZjgl0fEnuhtsmV2xGWG-p77OsNv6gzphWayhTqvXasS3hRhTgQXrZtkeBV-OHau9OyiYK1ciHNEw0)/dm/3/x88epch/d/live-4.m3u8
 
 #EXTINF:-1 tvg-id="El Nueve" group-title="NACIONAL", El Nueve
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="VARIEDADES" , Canal 10 
+#EXTINF:-1 tvg-id="El Heraldo" group-title="NACIONAL" , Canal 10 
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Teleformula" group-title="NACIONAL" , Teleformula
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5278
-
-EXTINF:-1 " tvg-id="Teleformula" group-title="NACIONAL" , TeleFormula
-https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
 
 #EXTINF:-1 tvg-id="MVS TV" group-title="NACIONAL", MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
