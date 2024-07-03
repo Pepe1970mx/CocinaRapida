@@ -51,7 +51,7 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleformula" group-title="NACIONAL" , Teleformula
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 
-#EXTINF:-1 tvg-id="MVS TV" group-title="NACIONAL", MVS TV
+#EXTINF:-1 tvg-id="MVStv.(Mexico).(MVSTV).mx" group-title="NACIONAL", MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 #EXTINF:-1 tvg-id="Canal Once" group-title="NACIONAL", Canal Once
@@ -188,7 +188,7 @@ https://jmp2.uk/SamsungTVPlus/ESBC4100002AG.m3u8
 #EXTINF:-1 tvg-id="Canal 3" group-title="Internacional" , Canal 3
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal 7" group-title="Internacional" , Canal 7 - Televisiete
+#EXTINF:-1 tvg-id="Canal.7.de.Guatemala.(Televisiete).mx" group-title="Internacional" , Canal 7 - Televisiete
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="TV Max" group-title="Internacional" , TV Max
