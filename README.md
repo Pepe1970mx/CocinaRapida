@@ -125,7 +125,7 @@ https://i.mjh.nz/SamsungTVPlus/ESBD1300004IG.m3u8
 #EXTINF:-1 tvg-id="El Financiero Bloomberg" group-title="NOTICIAS", El Financiero - Bloomberg TV
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
 
-#EXTINF:-1 tvg-id="Deutsche.Welle.TV.Español.(DW-ES).[551].cr" group-title="NOTICIAS", DW Español 
+#EXTINF:-1 tvg-id="dw_latinoamerica" group-title="NOTICIAS", DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-id="RT.Español.(RTESP).[607].c" group-title="NOTICIAS", RT in Spanish 
@@ -140,16 +140,16 @@ https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-id"CNN en Español" group-title="NOTICIAS" , CNN en Español 
 
 
-#EXTINF:-1 tvg-id="Telemundo" group-title="Internacional", Telemundo Este
+#EXTINF:-1 tvg-id="telemundo_panregional" group-title="Internacional", Telemundo Este
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo México" group-title="Internacional", Telemundo Internacional
+#EXTINF:-1 tvg-id="TelemundoInternacional.us" group-title="Internacional", Telemundo Internacional
 http://bantel.iptvperu.tv:1935/miscelaneos/telemundo.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", Universo
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
 
-#EXTINF:-1 tvg-id="WKAQ Telemundo Puerto Rico.pr" group-title="Internacional", Telemundo PR
+#EXTINF:-1 tvg-id="telemundo_puerto_rico" group-title="Internacional", Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-id="Univision" group-title="Internacional",  Univision Latino America
@@ -184,10 +184,10 @@ https://jmp2.uk/SamsungTVPlus/ESBC4100001NZ.m3u8
 #EXTINF:-1 tvg-id="ESBC4100002AG" group-title="Internacional" , La 2
 https://jmp2.uk/SamsungTVPlus/ESBC4100002AG.m3u8
 
-#EXTINF:-1 tvg-id="Canal.3.de.Guatemala.(CANL3).[958].c" group-title="Internacional" , Canal 3
+#EXTINF:-1 tvg-id="Canal3.gt" group-title="Internacional" , Canal 3
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal.7.de.Guatemala.(Televisiete).mx" group-title="Internacional" , Canal 7 - Televisiete
+#EXTINF:-1 tvg-id="Televisiete.gt" group-title="Internacional" , Canal 7 - Televisiete
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="TV Max" group-title="Internacional" , TV Max
@@ -246,7 +246,7 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jmThcUJ-MGZjvpaJxA26utkV1vouCA8p8VNuSUSZ25Oo/ts
 
 
-#EXTINF:-1 tvg-id="Telefe" group-title="Internacional" , Telefe AR
+#EXTINF:-1 tvg-id="Telefe.ar" group-title="Internacional" , Telefe AR
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jhHRHRUqc6S2jzMEWq_b_7oqSZl1eoQ7RwoDGuGu57Bx/ts
 
 
