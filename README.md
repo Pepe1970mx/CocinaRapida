@@ -1,7 +1,7 @@
 #EXTM3U 
 x-tvg-url=""
 
-#EXTINF:-1 tvg-id="Azteca Uno" group-title="NACIONAL", Azteca Uno
+#EXTINF:-1 tvg-id="AztecaUno.mx" group-title="NACIONAL", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7" group-title="NACIONAL", Cine Oro
@@ -21,7 +21,7 @@ EXTINF:-1 tvg-id="Excelsior Television I28.82353.schedulesdirect.org" group-titl
 #EXTINF:-1 tvg-id="Foro TV" group-title="NACIONAL", Foro TV 
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 
-#EXTINF:-1 tvg-id="Canal 5" group-title="NACIONAL", Canal 5
+#EXTINF:-1 tvg-id="5 de México" group-title="NACIONAL", Canal 5
 http://45.228.234.167:8000/play/a0ll/index.m3u8
 
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 CdMX
@@ -34,15 +34,15 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
 #EXTINF:-1 tvg-id="Telediario Now" group-title="NACIONAL", Telediario Now
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 
-#EXTINF:-1 tvg-id="Azteca7" group-title="NACIONAL", Azteca 7
+#EXTINF:-1 tvg-id="Azteca7.mx" group-title="NACIONAL", Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
-#EXTINF:-1 tvg-id="A Mas" group-title="NACIONAL", A Mas
+#EXTINF:-1 tvg-id="APlus.mx" group-title="NACIONAL", A Mas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-id="El Heraldo" group-title="NACIONAL" , El Heraldo
 
-#EXTINF:-1 tvg-id="El Nueve" group-title="NACIONAL", El Nueve
+#EXTINF:-1 tvg-id="id="9_de_mexico">" group-title="NACIONAL", El Nueve
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="El Heraldo" group-title="NACIONAL" , Canal 10 
@@ -57,7 +57,7 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 tvg-id="Canal Once" group-title="NACIONAL", Canal Once
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="14 de Mexico" group-title="NACIONAL" , Canal 14 
+#EXTINF:-1 tvg-id="id="14_de_mexico">" group-title="NACIONAL" , Canal 14 
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 
 #EXTINF:-1 tvg-id="Capital 21" group-title="NACIONAL" , Capital 21
@@ -107,7 +107,7 @@ https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
 #EXTINF:-1 tvg-id="USBC2100010OS" group-title="Comedia" , ViX Jajaja 
 https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
 
-#EXTINF:-1 tvg-id="Distrito Comedia" group-title="Comedia" , Distrito Comedia
+#EXTINF:-1 tvg-id="DistritoComedia.mx" group-title="Comedia" , Distrito Comedia
 http://45.5.117.182:8000/play/ihf9/index.m3u8
 
 
@@ -202,10 +202,10 @@ https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 #EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="Internacional", Ciudad Magica AR
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
-#EXTINF:-1 tvg-id="Canal.2.de.El.Salvador.sv" group-title="Internacional", Canal 2 SV
+#EXTINF:-1 tvg-id="Canal2.sv" group-title="Internacional", Canal 2 SV
 
 
-#EXTINF:-1 tvg-id="Canal.4.de.El.Salvador.sv" group-title="Internacional", Canal 4 SV
+#EXTINF:-1 tvg-id="Canal4.sv" group-title="Internacional", Canal 4 SV
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jllP4u1vzGBg-dWPh5dNBh5_3syZEkcSw4yllNlpuUy5/ts
 
 #EXTINF:-1 tvg-id="Canal6.sv" group-title="Internacional", Canal 6 SV
@@ -259,21 +259,18 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0juSeh8zJ2m4JukQIH10x2_WkKmg-IC9
 EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="Latinoamérica", Telecadena 7 y 4
 http://200.52.148.194:8000/play/a04q/index.m3u8
 
-EXTINF:-1 tvg-id="Televicentro.hn" group-title="Latinoamérica", Canal 5 El lider HN
+#EXTINF:-1 tvg-id="Canal5ElLider.hn" group-title="Latinoamérica", Canal 5 El lider HN
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 
-EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO", Canal 3 Super canal GT
 
-EXTINF:-1 tvg-id="Televicentro.hn" group-title="ENTRETENIMIENTO", TeleSiete GT
-
-EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Teleonce GT
+EXTINF:-1 tvg-id="Canal3.gt" group-title="ENTRETENIMIENTO", Canal 13 GT
 
 EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO",  Trecevision GT
 
-EXTINF:-1 tvg-id="Canal 4 de Costa Rica" group-title="Latinoamérica" , Canal 4 CR
+EXTINF:-1 tvg-id="Canal4.cr" group-title="Latinoamérica" , Canal 4 CR
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="Repretel.6.HDTV.(CR6HD).[766].c" group-title="Latinoamérica" , Canal 6 CR
+#EXTINF:-1 tvg-id="Canal6.cr" group-title="Latinoamérica" , Canal 6 CR
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
 EXTINF:-1 tvg-id="id="Canal 7 de Costa Rica (Teletica)" group-title="Latinoamérica", Teletica 7 CR
@@ -492,7 +489,7 @@ EXTINF:-1 tvg-id="De Pelicula Plus" group-title="De Paga" , De Pelicula Plus
 
 
 
-#EXTINF:-1 tvg-id="Boing Espana" group-title="Kids", Boing
+#EXTINF:-1 tvg-id="Boing.es" group-title="Kids", Boing
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="ESBC4100003WE" group-title="Kids" , Clan
