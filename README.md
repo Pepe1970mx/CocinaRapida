@@ -10,7 +10,7 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa.m3u8
 #EXTINF:-1 tvg-id="ADN 40" group-title="NACIONAL", ADN 40 
 https://jmp2.uk/PlutoTV/646ccd3681844c000974d6f4-alt.m3u8
 
-#EXTINF:-1 tvg-id="Las Estrellas" group-title="NACIONAL", Las Estrellas
+#EXTINF:-1 tvg-id="LasEstrellas.mx" group-title="NACIONAL", Las Estrellas
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159082
 
 #EXTINF:-1 tvg-id="Imagen TV" group-title="NACIONAL", Imagen TV
@@ -28,7 +28,7 @@ http://45.228.234.167:8000/play/a0ll/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
 
 
-#EXTINF:-1 tvg-id="Milenio Televisión" group-title="NACIONAL" , Milenio Television
+#EXTINF:-1 tvg-id="MilenioTelevision.mx" group-title="NACIONAL" , Milenio Television
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
 
 #EXTINF:-1 tvg-id="Telediario Now" group-title="NACIONAL", Telediario Now
@@ -46,7 +46,7 @@ https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 #EXTINF:-1 tvg-id="el_heraldo_tv_mexico" group-title="NACIONAL" , Canal 10 
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Teleformula" group-title="NACIONAL" , Teleformula
+#EXTINF:-1 tvg-id="TeleFormula.mx" group-title="NACIONAL" , Teleformula
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 
 #EXTINF:-1 tvg-id="MVStv.(Mexico).(MVSTV).mx" group-title="NACIONAL", MVS TV
@@ -73,20 +73,20 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-id="Telever" group-title="NACIONAL", Telever
 https://ythls.armelin.one/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 
-#EXTINF:-1 tvg-id="Meganoticias MX" group-title="NACIONAL", Meganoticias
+#EXTINF:-1 tvg-id="MeganoticiasMX.mx" group-title="NACIONAL", Meganoticias
 https://a37d474b6bb9441fa17e3e1ab3d55fce.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_MegaNoticias/playlist.m3u8?ads.wurl_channel=925
 
 
 #EXTINF:-1 tvg-id="QuieroTV.mx" group-title="NACIONAL", QuieroTV
 https://live-b.cf.dmcdn.net/sec2(LLGs7br_N6t9kmhQB4gsiD5e_c0ML2sUNzV1OKicY4Kg8lKXR_6_77oPn5DFddFQ1q34h57F4nWopwg9wVcSE-vUoi3JNh8iFjneHKNZbT0)/dm/3/x8lng9k/s/live-4.m3u8
 
-#EXTINF:-1 tvg-id="Mexiquense TV" group-title="NACIONAL" , Mexiquense TV 
+#EXTINF:-1 tvg-id="MexiquenseTV.mx" group-title="NACIONAL" , Mexiquense TV 
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
 
 #EXTINF:-1  tvg-id="AMX NOTICIAS" group-title="NACIONAL" , Mexiquense Noticias 
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
 
-#EXTINF:-1 tvg-id="Maria Vision" group-title="NACIONAL", Mariavision 
+#EXTINF:-1 tvg-id="MariaVision.mx" group-title="NACIONAL", Mariavision 
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
 
@@ -138,7 +138,7 @@ https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-id"CNN en Español" group-title="NOTICIAS" , CNN en Español 
 
 
-#EXTINF:-1 tvg-id="telemundo_panregional" group-title="Internacional", Telemundo Este
+#EXTINF:-1 tvg-id="telemundo_panregional" group-title="Internacional", Telemundo 
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 
 #EXTINF:-1 tvg-id="TelemundoInternacional.us" group-title="Internacional", Telemundo Internacional
@@ -150,13 +150,11 @@ http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
 #EXTINF:-1 tvg-id="telemundo_puerto_rico" group-title="Internacional", Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-id="Univision" group-title="Internacional",  Univision Latino America
+#EXTINF:-1 tvg-id="Univision" group-title="Internacional",  Univision Latino
 http://bantel.iptvperu.tv:1935/transcoder_t4/Univision_t4/playlist.m3u8
 
-#EXTINF:-1 tvg-id"UNIVISION" group-title="Internacional",  Univision Este
+#EXTINF:-1 tvg-id"univision_latinoamerica" group-title="Internacional",  Univision 
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
-
-
 
 #EXTINF:-1 tvg-id="WOLE Univisión Puerto Rico.pr" group-title="Internacional", Teleonce Univision PR
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
@@ -164,7 +162,7 @@ https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cf
 EXTINF:-1 tvg-id="USBA300040WR" group-title="Internacional", ESTRELLA TV
 https://i.mjh.nz/SamsungTVPlus/USBA300040WR.m3u8
 
-#EXTINF:-1  tvg-id="WAPA TV"  group-title="Internacional" , Wapa
+#EXTINF:-1  tvg-id="WAPADT1.pr"  group-title="Internacional" , Wapa
 https://live.field59.com/wapa/wapa1/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
@@ -188,7 +186,7 @@ https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="Televisiete.gt" group-title="Internacional" , Canal 7 - Televisiete
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="TV Max" group-title="Internacional" , TV Max
+#EXTINF:-1 tvg-id="TVMax.pa" group-title="Internacional" , TV Max
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="Telefuturo.py" group-title="Internacional" , Telefuturo PA
@@ -223,7 +221,6 @@ EXTINF:-1 tvg-id="MegavisionCanal19.sv" group-title="Latinoamérica", Megavision
 https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 
 #EXTINF:-1 tvg-id="VTV.Canal.35.ESA.(VTV.Canal).sv" group-title="Internacional", TCS+ SV
-
 
 #EXTINF:-1 tvg-id="Canal57.sv" group-title="Internacional", Canal 57 SV
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
@@ -261,7 +258,7 @@ http://200.52.148.194:8000/play/a04q/index.m3u8
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 
 
-EXTINF:-1 tvg-id="Canal3.gt" group-title="ENTRETENIMIENTO", Canal 13 GT
+EXTINF:-1 tvg-id="TreceCostaRicaTV.cr" group-title="ENTRETENIMIENTO", Canal 13 CR
 
 EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO",  Trecevision GT
 
@@ -327,13 +324,13 @@ http://181.78.105.146:2000/play/a063/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN3.mx" group-title="Sports", Espn 3 Latinoamerica
 
-#EXTINF:-1 tvg-id="TUDN" group-title="Sports", Tudn 
+#EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", Tudn 
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/1549.m3u8
 
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN USA
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports", TUDN1
+#EXTINF:-1 tvg-id="TUDN.us" group-title="Sports", TUDN1
 https://linear-380.frequency.stream/mt/studio/380/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports", TUDN2
@@ -354,7 +351,7 @@ https://r.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0"  group-title="Sports", AyM sports
 https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
 
-#EXTINF:-1 tvg-id="WAPA 2 Deportes" group-title="Sports", Wapa Deportes
+#EXTINF:-1 tvg-id="WAPADT2.pr" group-title="Sports", Wapa Deportes
 https://live.field59.com/wapa/wapa2/.m3u8
 
 #EXTINF:-1 tvg-id="64b79c057d934100080b3583" group-title="Sports", Dazn Internacional Futbol
