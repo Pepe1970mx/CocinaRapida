@@ -16,9 +16,9 @@ http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159082
 #EXTINF:-1 tvg-id="Imagen TV" group-title="NACIONAL", Imagen TV
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159081
 
-EXTINF:-1 tvg-id="Excelsior Television I28.82353.schedulesdirect.org" group-title="NACIONAL",  Exelsior TV
+EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
 
-#EXTINF:-1 tvg-id="Foro TV" group-title="NACIONAL", Foro TV 
+#EXTINF:-1 tvg-id="Foro.mx"" group-title="NACIONAL", Foro TV 
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 
 #EXTINF:-1 tvg-id="5 de México" group-title="NACIONAL", Canal 5
@@ -40,12 +40,10 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="APlus.mx" group-title="NACIONAL", A Mas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 tvg-id="El Heraldo" group-title="NACIONAL" , El Heraldo
-
 #EXTINF:-1 tvg-id="id="9_de_mexico">" group-title="NACIONAL", El Nueve
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="El Heraldo" group-title="NACIONAL" , Canal 10 
+#EXTINF:-1 tvg-id="el_heraldo_tv_mexico" group-title="NACIONAL" , Canal 10 
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Teleformula" group-title="NACIONAL" , Teleformula
@@ -250,7 +248,7 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jmThcUJ-MGZjvpaJxA26utkV1vouCA8
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jhHRHRUqc6S2jzMEWq_b_7oqSZl1eoQ7RwoDGuGu57Bx/ts
 
 
-EXTINF:-1 tvg-id="13 de Argentina" group-title="Latinoamérica", El trece AR
+EXTINF:-1 tvg-id="ElTrece.ar" group-title="Latinoamérica", El trece AR
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" group-title="Internacional", Ciudad Magazine
@@ -297,46 +295,37 @@ https://r.mjh.nz/PlutoTV/65cf60d166eec80008724e6f-alt.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sports", Futbol Network TV
 https://59d39900ebfb8.streamlock.net/8312/8312/.m3u8
 
-#EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes 
+#EXTINF:-1 tvg-id="FoxDeportes.us" group-title="Sports", Fox Deportes 
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158838
 
 
 EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" group-title="Sports", Fox sports en español
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
-#EXTINF:-1 tvg-id="I505.41677.schedulesdirect.org" group-title="Sports",
-
 #EXTINF:-1 tvg-id="Fox Sports Premium" group-title="Sports", Fox Sports Premium
 http://pe.shortgod.com/temporal/play.php?id=157
 
-#EXTINF:-1 tvg-id="Fox Sports MX" group-title="Sports", Fox Sport Latinoamerica
-
-#EXTINF:-1 tvg-id="Fox Sports 2 MX" group-title="Sports", Fox sport 2 Latinoamerica
+#EXTINF:-1 tvg-id="fox_sports_cono_norte" group-title="Sports", Fox Sport Latinoamerica
 https://pe.shortgod.com/temporal/play.php?id=25
 
-#EXTINF:-1 tvg-id="I506.66365.schedulesdirect.org" group-title="Sports", 
 
-#EXTINF:-1 tvg-id="Fox Sports 3 MX" group-title="Sports", Fox sport 3 Latinoamerica
+#EXTINF:-1 tvg-id="fox_sports_2_cono_norte" group-title="Sports", Fox sport 2 Latinoamerica
+https://pe.shortgod.com/temporal/play.php?id=25
 
-#EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes 
+#EXTINF:-1 tvg-id="fox_sports_3_cono_norte" group-title="Sports", Fox sport 3 Latinoamerica
+
+#EXTINF:-1 tvg-id="ESPNDeportes.us" group-title="Sports", Espn Deportes 
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158831
 
 #EXTINF:-1 tvg-id="I854.25595.schedulesdirect.org" group-title="Sports", 
 
-#EXTINF:-1 tvg-id="ESPN MX" group-title="Sports", Espn
+#EXTINF:-1 tvg-id="ESPN.mx" group-title="Sports", Espn
 http://181.78.105.146:2000/play/a064/index.m3u8
 
-#EXTINF:-1 tvg-id="I509.19158.schedulesdirect.org" group-title="Sports", 
-
-#EXTINF:-1 tvg-id="ESPN 2 MX" group-title="Sports", Espn 2 Latinoamerica
+#EXTINF:-1 tvg-id="ESPN2.mx" group-title="Sports", Espn 2 Latinoamerica
 http://181.78.105.146:2000/play/a063/index.m3u8
 
-
-#EXTINF:-1 tvg-id="I508.37747.schedulesdirect.org" group-title="Sports", 
-
-#EXTINF:-1 tvg-id="ESPN 3 MX" group-title="Sports", Espn 3 Latinoamerica
-
-#EXTINF:-1 tvg-id="I510.79042.schedulesdirect.org" group-title="Sports", 
+#EXTINF:-1 tvg-id="ESPN3.mx" group-title="Sports", Espn 3 Latinoamerica
 
 #EXTINF:-1 tvg-id="TUDN" group-title="Sports", Tudn 
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/1549.m3u8
