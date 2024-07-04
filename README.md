@@ -7,7 +7,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7" group-title="NACIONAL", Cine Oro
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa.m3u8
 
-#EXTINF:-1 tvg-id="ADN 40" group-title="NACIONAL", ADN 40 
+#EXTINF:-1 tvg-id="646ccd3681844c000974d6f4" group-title="NACIONAL", ADN 40 
 https://jmp2.uk/PlutoTV/646ccd3681844c000974d6f4-alt.m3u8
 
 #EXTINF:-1 tvg-id="LasEstrellas.mx" group-title="NACIONAL", Las Estrellas
@@ -61,7 +61,7 @@ https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 #EXTINF:-1 tvg-id="Capital 21" group-title="NACIONAL" , Capital 21
 https://video.cdmx.gob.mx/redes/stream.m3u8 
 
-#EXTINF:-1 tvg-id="22 de Mexico" group-title="NACIONAL" , CANAL 22 
+#EXTINF:-1 tvg-id="Canal22MetropolitanayNacional.mx" group-title="NACIONAL" , CANAL 22 
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MX NUESTRO CINE" group-title="NACIONAL" , CANAL 22.2 MX Nuestro Cine
@@ -217,11 +217,11 @@ https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jg6LVMjEvSrPJCk3BDwx1qrAwK78R_W0FhtisbMyorWT/ts
 
 
-EXTINF:-1 tvg-id="MegavisionCanal19.sv" group-title="Latinoamérica", Megavision 19 SV
+#EXTINF:-1 tvg-id="MegavisionCanal19.sv" group-title="Latinoamérica", Megavision 19 SV
 https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 
-#EXTINF:-1 tvg-id="VTV.Canal.35.ESA.(VTV.Canal).sv" group-title="Internacional", TCS+ SV
-
+#EXTINF:-1 tvg-id="VTVCanal35.sv" group-title="Internacional", TCS+ SV
+https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 
 #EXTINF:-1 tvg-id="Canal57.sv" group-title="Internacional", Canal 57 SV
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
