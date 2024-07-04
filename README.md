@@ -192,7 +192,7 @@ https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/60580
 #EXTINF:-1 tvg-id="Telefuturo.py" group-title="Internacional" , Telefuturo PA
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jt3ZGIaBWSR2FDEsqnEHROVUrxVfwD5tm3sSj2fcgvyp/ts
 
-#EXTINF:-1 tvg-id="elesur.Costa.Rica.(TELSRCR).[861].c" group-title="Internacional" , Telesur CR
+#EXTINF:-1 tvg-id="Telesur.Costa.Rica.(TELSRCR).[861].cr" group-title="Internacional" , Telesur CR
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 
 #EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="Internacional", Ciudad Magica AR
@@ -221,6 +221,7 @@ EXTINF:-1 tvg-id="MegavisionCanal19.sv" group-title="Latinoamérica", Megavision
 https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 
 #EXTINF:-1 tvg-id="VTV.Canal.35.ESA.(VTV.Canal).sv" group-title="Internacional", TCS+ SV
+
 
 #EXTINF:-1 tvg-id="Canal57.sv" group-title="Internacional", Canal 57 SV
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
