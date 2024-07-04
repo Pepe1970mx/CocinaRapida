@@ -18,10 +18,10 @@ http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159081
 
 EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
 
-#EXTINF:-1 tvg-id="Foro.mx"" group-title="NACIONAL", Foro TV 
+#EXTINF:-1 tvg-id="Foro.mx" group-title="NACIONAL", Foro TV 
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 
-#EXTINF:-1 tvg-id="5 de México" group-title="NACIONAL", Canal 5
+#EXTINF:-1 tvg-id="5_mexico" group-title="NACIONAL", Canal 5
 http://45.228.234.167:8000/play/a0ll/index.m3u8
 
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 CdMX
@@ -39,7 +39,7 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="APlus.mx" group-title="NACIONAL", A Mas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 tvg-id="id="9_de_mexico">" group-title="NACIONAL", El Nueve
+#EXTINF:-1 tvg-id="9_de_mexico" group-title="NACIONAL", El Nueve
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="el_heraldo_tv_mexico" group-title="NACIONAL" , Canal 10 
@@ -125,10 +125,10 @@ https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/in
 #EXTINF:-1 tvg-id="dw_latinoamerica" group-title="NOTICIAS", DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-id="RT.Español.(RTESP).[607].c" group-title="NOTICIAS", RT in Spanish 
+#EXTINF:-1 tvg-id="RT.Español.(RTESP).[607].cr" group-title="NOTICIAS", RT in Spanish 
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 
-#EXTINF:-1 tvg-id="619d59b7cbef25000728221c" group-title="NOTICIAS", EuroNews en español 
+#EXTINF:-1 tvg-id="619d59b7cbef25000728221" group-title="NOTICIAS", EuroNews en español 
 https://jmp2.uk/PlutoTV/619d59b7cbef25000728221c-alt.m3u8
 
 #EXTINF:-1 tvg-id="FRANCE24.pe" group-title="NOTICIAS", France 24 Español 
@@ -137,7 +137,7 @@ https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-id"CNN en Español" group-title="NOTICIAS" , CNN en Español 
 
 
-#EXTINF:-1 tvg-id="telemundo_panregional" group-title="Internacional", Telemundo 
+#EXTINF:-1 tvg-id="Telemundo.HDTV.(Latin.America./.Non-US).(TELEMUNHD).[843].cr" group-title="Internacional", Telemundo 
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 
 #EXTINF:-1 tvg-id="TelemundoInternacional.us" group-title="Internacional", Telemundo Internacional
@@ -152,7 +152,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-id="Univision" group-title="Internacional",  Univision Latino
 http://bantel.iptvperu.tv:1935/transcoder_t4/Univision_t4/playlist.m3u8
 
-#EXTINF:-1 tvg-id"univision_latinoamerica" group-title="Internacional",  Univision 
+#EXTINF:-1 tvg-id"Univisión.(Latin.America).(UNIVIS).[407].cr" group-title="Internacional",  Univision 
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
 
 #EXTINF:-1 tvg-id="WOLE Univisión Puerto Rico.pr" group-title="Internacional", Teleonce Univision PR
