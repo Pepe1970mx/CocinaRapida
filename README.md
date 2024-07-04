@@ -5,7 +5,7 @@ x-tvg-url=""
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7" group-title="NACIONAL", Cine Oro
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa.m3u8
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa.m3u8
 
 #EXTINF:-1 tvg-id="646ccd3681844c000974d6f4" group-title="NACIONAL", ADN 40 
 https://jmp2.uk/PlutoTV/646ccd3681844c000974d6f4-alt.m3u8
@@ -26,7 +26,6 @@ http://45.228.234.167:8000/play/a0ll/index.m3u8
 
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 CdMX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
-
 
 #EXTINF:-1 tvg-id="MilenioTelevision.mx" group-title="NACIONAL" , Milenio Television
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
@@ -52,7 +51,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 #EXTINF:-1 tvg-id="MVStv.(Mexico).(MVSTV).mx" group-title="NACIONAL", MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
-#EXTINF:-1 tvg-id="Canal Once" group-title="NACIONAL", Canal Once
+#EXTINF:-1 tvg-id="XEIPNTDT.mx" group-title="NACIONAL", Canal Once
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="id="14_de_mexico">" group-title="NACIONAL" , Canal 14 
@@ -95,15 +94,15 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" group-title="Drama" , Pluto TV Series Latinas
-https://r.mjh.nz/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
+https://jmp2.uk/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
 
 #EXTINF:-1 tvg-id="USBD2700004ME" group-title="Drama" , Como Dice el Dicho 
-https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
+https://jmp2.uk/SamsungTVPlus/USBD2700004ME.m3u8
 
 
 
 #EXTINF:-1 tvg-id="USBC2100010OS" group-title="Comedia" , ViX Jajaja 
-https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
+https://jmp2.uk/SamsungTVPlus/USBC2100010OS.m3u8
 
 #EXTINF:-1 tvg-id="DistritoComedia.mx" group-title="Comedia" , Distrito Comedia
 http://45.5.117.182:8000/play/ihf9/index.m3u8
@@ -120,7 +119,7 @@ https://i.mjh.nz/SamsungTVPlus/ESBD1300004IG.m3u8
 
 
 
-#EXTINF:-1 tvg-id="El Financiero Bloomberg" group-title="NOTICIAS", El Financiero - Bloomberg TV
+#EXTINF:-1 tvg-id="el_financiero_tv" group-title="NOTICIAS", El Financiero - Bloomberg TV
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
 
 #EXTINF:-1 tvg-id="dw_latinoamerica" group-title="NOTICIAS", DW Español 
@@ -130,7 +129,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 
 #EXTINF:-1 tvg-id="619d59b7cbef25000728221c" group-title="NOTICIAS", EuroNews en español 
-https://r.mjh.nz/PlutoTV/619d59b7cbef25000728221c-alt.m3u8
+https://jmp2.uk/PlutoTV/619d59b7cbef25000728221c-alt.m3u8
 
 #EXTINF:-1 tvg-id="FRANCE24.pe" group-title="NOTICIAS", France 24 Español 
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
@@ -160,7 +159,7 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
 EXTINF:-1 tvg-id="USBA300040WR" group-title="Internacional", ESTRELLA TV
-https://i.mjh.nz/SamsungTVPlus/USBA300040WR.m3u8
+https://jmp2.uk/SamsungTVPlus/USBA300040WR.m3u8
 
 #EXTINF:-1  tvg-id="WAPADT1.pr"  group-title="Internacional" , Wapa
 https://live.field59.com/wapa/wapa1/playlist.m3u8
@@ -220,7 +219,7 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jg6LVMjEvSrPJCk3BDwx1qrAwK78R_W
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv" group-title="Latinoamérica", Megavision 19 SV
 https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 
-#EXTINF:-1 tvg-id="VTVCanal35.sv" group-title="Internacional", TCS+ SV
+#EXTINF:-1 tvg-id="VTV.hn" group-title="Internacional", TCS+ SV
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 
 #EXTINF:-1 tvg-id="Canal57.sv" group-title="Internacional", Canal 57 SV
@@ -282,13 +281,13 @@ EXTINF:-1 tvg-id="Canal Telesistema 11 (República Dominicana).do" group-title="
 
 
 #EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" group-title="Sports", beIN Sport Xtra en Español
-https://r.mjh.nz/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
+https://jmp2.uk/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 
 #EXTINF:-1 tvg-id="6320d2755e54db000783fd87" group-title="Sports", Claro Sports México 
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 
 #EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" group-title="Sports", Azteca Deportes Network 
-https://r.mjh.nz/PlutoTV/65cf60d166eec80008724e6f-alt.m3u8
+https://jmp2.uk/PlutoTV/65cf60d166eec80008724e6f-alt.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Futbol Network TV
 https://59d39900ebfb8.streamlock.net/8312/8312/.m3u8
@@ -329,7 +328,7 @@ http://181.78.105.146:2000/play/a063/index.m3u8
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/1549.m3u8
 
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN USA
-https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+https://jmp2.uk/SamsungTVPlus/USBD1700016X9.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.us" group-title="Sports", TUDN1
 https://linear-380.frequency.stream/mt/studio/380/hls/master/playlist.m3u8
@@ -347,16 +346,16 @@ https://linear-384.frequency.stream/mt/studio/384/hls/master/playlist.m3u8
 https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="63f7e3f9dff38e00082a57af" group-title="Sports", ITV Deportes
-https://r.mjh.nz/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
+https://jmp2.uk/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
 
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0"  group-title="Sports", AyM sports
-https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
+https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
 
 #EXTINF:-1 tvg-id="WAPADT2.pr" group-title="Sports", Wapa Deportes
 https://live.field59.com/wapa/wapa2/.m3u8
 
 #EXTINF:-1 tvg-id="64b79c057d934100080b3583" group-title="Sports", Dazn Internacional Futbol
-https://r.mjh.nz/PlutoTV/64b79c057d934100080b3583-alt.m3u8
+https://jmp2.uk/PlutoTV/64b79c057d934100080b3583-alt.m3u8
 
 #EXTINF:-1 tvg id="" group-title="Sports", Sony Sports
 https://homeip.biz/livso/index.m3u8
@@ -368,10 +367,10 @@ EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network
 
 
 #EXTINF:-1 tvg-id="62fa81ccd1a7e90007c1ada0" group-title="ENTRETENIMIENTO", AMC en Español
-https://i.mjh.nz/SamsungTVPlus/USBD7000017L.m3u8
+https://jmp2.uk/SamsungTVPlus/USBD7000017L.m3u8
 
 #EXTINF:-1 tvg-id="USBC39000080S" group-title="ENTRETENIMIENTO", Canela TV
-https://i.mjh.nz/SamsungTVPlus/USBC39000080S.m3u8
+https://jmp2.uk/SamsungTVPlus/USBC39000080S.m3u8
 
 EXTINF:-1 tvg-id="60fb3087fbbc120007fc46be" group-title="ENTRETENIMIENTO", Series con Ñ
 https://r.mjh.nz/PlutoTV/60fb3087fbbc120007fc46be-alt.m3u8
@@ -383,76 +382,70 @@ EXTINF:-1 tvg-id="63eb947c4e83e70008ab877b" group-title="ENTRETENIMIENTO", NCIS
 https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 
 
-#EXTINF:-1 tvg-id="STAR CHANNEL.pe" group-title="De Paga", Star Channel
+#EXTINF:-1 tvg-id="StarChannel.mx" group-title="De Paga", Star Channel
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjUuVY4Yb_DHgzsx8PMu2abW2Ukfa6Xi4BUhJP7jViiA/ts
 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/30
 
-#EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT
+#EXTINF:-1 tvg-id="TNT.mx" group-title="De Paga", TNT
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjUuVY4Yb_DHgzsx8PMu2aZq1W_gA3d5K8R52A9jBqFf/ts
 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1245
 
-#EXTINF:-1 tvg-id="SPACE" group-title="De Paga", Space
+#EXTINF:-1 tvg-id="Space.mx" group-title="De Paga", Space
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjUuVY4Yb_DHgzsx8PMu2aY7WbXj81UMqRut8SZmFGfz/ts
 
 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1281
 
-#EXTINF:-1 tvg-id="WARNER CHANNEL.pe" group-title="De Paga", Warner 
+#EXTINF:-1 tvg-id="warner_tv_mexico" group-title="De Paga", Warner 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1259
 
-#EXTINF:-1 tvg-id="SONY.pe" group-title="De Paga", Sony 
+#EXTINF:-1 tvg-id="SonyChannel.mx" group-title="De Paga", Sony Channels
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1263
 
-#EXTINF:-1 tvg-id="Cine Sony" group-title="De Paga", Cine Sony
+#EXTINF:-1 tvg-id="CineSony.us" group-title="De Paga", Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SONY MOVIES" group-title="De Paga", Sony Movies
 
 #EXTINF:-1 tvg-id="Studio Universal" group-title="De Paga", Studio Universal 
 
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL.pe" group-title="De Paga", Universal Channel
+#EXTINF:-1 tvg-id="UniversalTV.mx" group-title="De Paga", Universal Channel
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1269
 
-#EXTINF:-1 tvg-id="AXN.pe" group-title="De Paga", AXN
+#EXTINF:-1 tvg-id="AXN.mx" group-title="De Paga", AXN
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1255
 
-#EXTINF:-1 tvg-id="Paramount" group-title="De Paga", Paramount 
+#EXTINF:-1 tvg-id="paramount_channel_mexico" group-title="De Paga", Paramount 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/53938
 
-#EXTINF:-1 tvg-id="FX.pe" group-title="De Paga", FX
+#EXTINF:-1 tvg-id="FX.mx" group-title="De Paga", FX
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1275
 
 #EXTINF:-1 tvg-id="Universal Premier" group-title="De Paga" , Universal Premier
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/111419
 
-#EXTINF:-1 tvg-id="AMC HD.pe" group-title="De Paga", AMC 
+#EXTINF:-1 tvg-id="amc_mexico" group-title="De Paga", AMC 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1284
 
 #EXTINF:-1 tvg-id="Golden Premier" group-title="De Paga" ,Golden Premier 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1293
 
-#EXTINF:-1 tvg-id="M Accion" group-title="De Paga", M+ Accion 
+#EXTINF:-1 tvg-id="AccionporMovistarPlusPlus.es" group-title="De Paga", M+ Accion 
 http://924606346607321307.ofg0316.xyz:80/play/vi1229804/esDA4JqSWQTP/321307.ts
 
-#EXTINF:-1 tvg-id="I313.24553.schedulesdirect.org" group-title="De Paga" , HBO
+#EXTINF:-1 tvg-id="HBOLatinAmerica.us" group-title="De Paga" , HBO
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjUuVY4Yb_DHgzsx8PMu2aYu2n9QPXE8DLnN0xJX8byD/ts
 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/55
 
-#EXTINF:-1 tvg-id="HBO 2" group-title="De Paga" , HBO 2
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" group-title="De Paga" , HBO 2
 http://170.254.18.106/HBO2/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO Family" group-title="De Paga" , HBO Family
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" group-title="De Paga" , HBO Family
 http://170.254.18.106/HBO_FAMILY/index.m3u8
 
-
-EXTINF:-1 tvg-id="I528.88534.schedulesdirect.org" group-title="De Paga", Star Channels Latinoamerica
-
-EXTINF:-1 tvg-id="I644.80807.schedulesdirect.org" group-title="De Paga", TNT Latinoamerica
-
-#EXTINF:-1 tvg-id="I911.68317.schedulesdirect.org" group-title="De Paga" ,Golden Plus
 
 #EXTINF:-1 tvg-id="Golden Plus" group-title="De Paga" ,Golden Plus
 
@@ -460,17 +453,6 @@ EXTINF:-1 tvg-id="I644.80807.schedulesdirect.org" group-title="De Paga", TNT Lat
 
 #EXTINF:-1 tvg-id="Golden Edge" group-title="De Paga" , Edge
 
-EXTINF:-1 tvg-id="I831.98111.schedulesdirect.org" group-title="De Paga", Warner 
-
-EXTINF:-1 tvg-id="I212.19385.schedulesdirect.org" group-title="De Paga", Sony
-
-#EXTINF:-1 tvg-id="I527.60801.schedulesdirect.org" group-title="De Paga", Space
-
-#EXTINF:-1 tvg-id="" group-title="De Paga" , USA
-
-#EXTINF:-1 tvg-id="I350.34879.schedulesdirect.org" group-title="De Paga" , HBO Family
-
-#EXTINF:-1 tvg-id="I241.102862.schedulesdirect.org" group-title="De Paga", Fox Es
 
 EXTINF:-1 tvg-id="De Pelicula Plus" group-title="De Paga" , De Pelicula Plus
 
@@ -482,13 +464,13 @@ https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index
 #EXTINF:-1 tvg-id="ESBC4100003WE" group-title="Kids" , Clan
 https://jmp2.uk/SamsungTVPlus/ESBC4100003WE.m3u8
 
-#EXTINF:-1 tvg-id="Cartoon Network México" group-title="Kids", Cartoon Network 
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" group-title="Kids", Cartoon Network 
 http://181.78.105.146:2000/play/a03k/index.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon México" group-title="Kids", Nickelodeon 
+#EXTINF:-1 tvg-id="Nickelodeon.mx" group-title="Kids", Nickelodeon 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/132691
 
-#EXTINF:-1 tvg-id="Disney Channel Espana" group-title="Kids", Disney Channels
+#EXTINF:-1 tvg-id="DisneyChannel.es" group-title="Kids", Disney Channels
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/110282
 
 #EXTINF:-1 tvg-id"TOONCAST" group-title="Kids" , Tooncast 
