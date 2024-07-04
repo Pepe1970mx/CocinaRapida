@@ -54,7 +54,7 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 tvg-id="XEIPNTDT.mx" group-title="NACIONAL", Canal Once
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="id="14_de_mexico">" group-title="NACIONAL" , Canal 14 
+#EXTINF:-1 tvg-id="14_de_mexico" group-title="NACIONAL" , Canal 14 
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 
 #EXTINF:-1 tvg-id="Capital 21" group-title="NACIONAL" , Capital 21
