@@ -179,14 +179,55 @@ https://jmp2.uk/SamsungTVPlus/ESBC4100001NZ.m3u8
 #EXTINF:-1 tvg-id="ESBC4100002AG" group-title="Internacional" , La 2
 https://jmp2.uk/SamsungTVPlus/ESBC4100002AG.m3u8
 
+#EXTINF:-1 tvg-id="Canal2.sv" group-title="Internacional", Canal 2 SV
+
+
+#EXTINF:-1 tvg-id="Canal2.cr" group-title="Internacional", Canal 2 CR
+
+
 #EXTINF:-1 tvg-id="Canal3.gt" group-title="Internacional" , Canal 3
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal4.sv" group-title="Internacional", Canal 4 SV
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jllP4u1vzGBg-dWPh5dNBh5_3syZEkcSw4yllNlpuUy5/ts
+
+#EXTINF:-1 tvg-id="Canal4.cr" group-title="Latinoamérica" , Canal 4 CR
+https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal4.ni" group-title="Latinoamérica" , Canal 4 NI
+https://live-b.cf.dmcdn.net/sec2(qKwt9m5C6viYbX1I-wR7a9bbn6NfvNHWlknlpC-XK3cB8GCiwgfRgwyVip8gJIBSGGw2AteFG5D-L7D-30aNXBJxF-dtD7J2123rVADtNjQ)/dm/3/x7rwv8c/s/live-1.m3u8
+
+#EXTINF:-1 tvg-id="Canal5ElLider.hn" group-title="Latinoamérica", Canal 5 El lider HN
+https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
+
+#EXTINF:-1 tvg-id="Canal6.sv" group-title="Internacional", Canal 6 SV
+
+#EXTINF:-1 tvg-id="Canal6.cr" group-title="Latinoamérica" , Canal 6 CR
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal6.ni" group-title="Internacional", Canal 6 NI
+https://live-c.cf.dmcdn.net/sec2(lX0yrM8QfkFL6yRyrXhllGStFqIzGhUvqo9k6h3lm6aO0eii-01qMuYgLQuvA5jjx1M_dONZbuJndYIzd8sQu_U0rd2wjTMz0efl0WaqJr8)/dm/3/x8o87cu/s/live-1.m3u8
 
 #EXTINF:-1 tvg-id="Televisiete.gt" group-title="Internacional" , Canal 7 - Televisiete
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 
+#EXTINF:-1 tvg-id="id="Canal 7 de Costa Rica (Teletica)" group-title="Latinoamérica", Teletica 7 CR
+https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
+
+
+#EXTINF:-1 tvg-id="Canal10.sv" group-title="Latinoamérica", Canal 10 SV
+https://5fe2654d6127d.streamlock.net:443/tves/smil:tves.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjQgNTo0OTowOCBBTSZoYXNoX3ZhbHVlPWZxajAzNnhVQmwxYlFJMmRsanFVdXc9PSZ2YWxpZG1pbnV0ZXM9MTUmaWQ9
+
+#EXTINF:-1 tvg-id="Canal10.ni" group-title="Latinoamérica", Canal 10 NI
+https://alba-ni-c10-c10.stream.mediatiquestream.com/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Repretel:.Canal.11.(CR11).[11].cr" group-title="Latinoamérica" , Canal 11 CR
+https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
+
+
 #EXTINF:-1 tvg-id="TVMax.pa" group-title="Internacional" , TV Max
-https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
+https://tvnpan-ecdn3.cdn.mdstrm.com/live-stream-dai/65d4c7bcbe741b6c4131bd70/c2986629464f4312b2ebc46b572e2aab/f624fec49dadc88894ebeff1d974eab019af7757/session/43268dfc-e35f-4fed-a003-4051fb09e26f/media.m3u8?aid=6495bd4ecd55fe08b4765b53&uid=rjwxgsufgb45pxwpyx1rj68ns9h3vvk8&sid=js9p1nbvugbmbxqxntndvyqvz6p9w33r&pid=mqcwnl71xwd0d6korhv0pj4npedfmtll&ref=https%3a%2f%2ftvnpass.com%2f&without_cookies=false&listenerid=&dnt=true&access_token=thow7ko4iq85ycpk1gcgld4gffyqo0yh4dqgzosx7gyfd5wndnz2jegihmgsle9gc9maurdwrzl&es=tvnpan-ecdn3.cdn.mdstrm.com&proto=https&pz=us&hash=0c3d423051f23285c9f2f
 
 #EXTINF:-1 tvg-id="Telefuturo.py" group-title="Internacional" , Telefuturo PA
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jt3ZGIaBWSR2FDEsqnEHROVUrxVfwD5tm3sSj2fcgvyp/ts
@@ -197,16 +238,14 @@ https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 #EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="Internacional", Ciudad Magica AR
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
-#EXTINF:-1 tvg-id="Canal2.sv" group-title="Internacional", Canal 2 SV
 
 
-#EXTINF:-1 tvg-id="Canal4.sv" group-title="Internacional", Canal 4 SV
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jllP4u1vzGBg-dWPh5dNBh5_3syZEkcSw4yllNlpuUy5/ts
-
-#EXTINF:-1 tvg-id="Canal6.sv" group-title="Internacional", Canal 6 SV
 
 
-EXTINF:-1 tvg-id="Canal10.sv" group-title="El Salvador", Canal 10 SV
+
+
+
+
 
 
 EXTINF:-1 tvg-id="Canal12.sv" group-title="Internacional", Canal 12 SV
@@ -254,24 +293,20 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0juSeh8zJ2m4JukQIH10x2_WkKmg-IC9
 EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="Latinoamérica", Telecadena 7 y 4
 http://200.52.148.194:8000/play/a04q/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal5ElLider.hn" group-title="Latinoamérica", Canal 5 El lider HN
-https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
+
 
 
 EXTINF:-1 tvg-id="TreceCostaRicaTV.cr" group-title="ENTRETENIMIENTO", Canal 13 CR
 
 EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO",  Trecevision GT
 
-EXTINF:-1 tvg-id="Canal4.cr" group-title="Latinoamérica" , Canal 4 CR
-https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal6.cr" group-title="Latinoamérica" , Canal 6 CR
-https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
-EXTINF:-1 tvg-id="id="Canal 7 de Costa Rica (Teletica)" group-title="Latinoamérica", Teletica 7 CR
 
-#EXTINF:-1 tvg-id="Repretel:.Canal.11.(CR11).[11].cr" group-title="Latinoamérica" , Canal 11 CR
-https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
+
+
+
+
 
 
 EXTINF:-1 tvg-id="Canal Telesistema 11 (República Dominicana).do" group-title="ENTRETENIMIENTO", Telesistema
