@@ -225,6 +225,27 @@ https://alba-ni-c10-c10.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="Repretel:.Canal.11.(CR11).[11].cr" group-title="Latinoamérica" , Canal 11 CR
 https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 
+#EXTINF:-1 tvg-id="Canal11.hn" group-title="Latinoamérica", Canal 11HN
+https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
+
+#EXTINF:-1 tvg-id="Canal11.sv" group-title="Latinoamérica", TUTV Canal 11 SV
+https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
+
+#EXTINF:-1 tvg-id="Canal12.sv" group-title="Internacional", Canal 12 SV
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal13.sv" group-title="Internacional", Canal 13 SV
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jg6LVMjEvSrPJCk3BDwx1qrAwK78R_W0FhtisbMyorWT/ts
+
+#EXTINF:-1 tvg-id="TreceCostaRicaTV.cr" group-title="ENTRETENIMIENTO", Canal 13 CR
+https://live-c.cf.dmcdn.net/sec2(6w8wgN562ATww6p9ZzHds4Yq5tIwLGxID3fPG_GNz1deIZ299YPiEUD0mxRmf5GOYWWwhLP2eK6AsdtgbxlGEUFYESYqgmuWcE-j8u_7fCk)/dm/3/x7vh8g3/d/live-3.m3u8
+
+#EXTINF:-1 tvg-id="ElTrece.ar" group-title="Latinoamérica", El trece AR
+https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MegavisionCanal19.sv" group-title="Latinoamérica", Megavision 19 SV
+https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/master.m3u8
+
 
 #EXTINF:-1 tvg-id="TVMax.pa" group-title="Internacional" , TV Max
 https://tvnpan-ecdn3.cdn.mdstrm.com/live-stream-dai/65d4c7bcbe741b6c4131bd70/c2986629464f4312b2ebc46b572e2aab/f624fec49dadc88894ebeff1d974eab019af7757/session/43268dfc-e35f-4fed-a003-4051fb09e26f/media.m3u8?aid=6495bd4ecd55fe08b4765b53&uid=rjwxgsufgb45pxwpyx1rj68ns9h3vvk8&sid=js9p1nbvugbmbxqxntndvyqvz6p9w33r&pid=mqcwnl71xwd0d6korhv0pj4npedfmtll&ref=https%3a%2f%2ftvnpass.com%2f&without_cookies=false&listenerid=&dnt=true&access_token=thow7ko4iq85ycpk1gcgld4gffyqo0yh4dqgzosx7gyfd5wndnz2jegihmgsle9gc9maurdwrzl&es=tvnpan-ecdn3.cdn.mdstrm.com&proto=https&pz=us&hash=0c3d423051f23285c9f2f
@@ -243,23 +264,8 @@ https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
 
 
-
-
-
-
-
-EXTINF:-1 tvg-id="Canal12.sv" group-title="Internacional", Canal 12 SV
-https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal13.sv" group-title="Internacional", Canal 13 SV
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jg6LVMjEvSrPJCk3BDwx1qrAwK78R_W0FhtisbMyorWT/ts
-
-
-#EXTINF:-1 tvg-id="MegavisionCanal19.sv" group-title="Latinoamérica", Megavision 19 SV
-https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/master.m3u8
-
 #EXTINF:-1 tvg-id="VTV.hn" group-title="Internacional", TCS+ SV
-https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
+
 
 #EXTINF:-1 tvg-id="Canal57.sv" group-title="Internacional", Canal 57 SV
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
@@ -284,8 +290,6 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jmThcUJ-MGZjvpaJxA26utkV1vouCA8
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jhHRHRUqc6S2jzMEWq_b_7oqSZl1eoQ7RwoDGuGu57Bx/ts
 
 
-EXTINF:-1 tvg-id="ElTrece.ar" group-title="Latinoamérica", El trece AR
-https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" group-title="Internacional", Ciudad Magazine
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0juSeh8zJ2m4JukQIH10x2_WkKmg-IC9XcmiV1VB-nKz6/ts
@@ -296,7 +300,7 @@ http://200.52.148.194:8000/play/a04q/index.m3u8
 
 
 
-EXTINF:-1 tvg-id="TreceCostaRicaTV.cr" group-title="ENTRETENIMIENTO", Canal 13 CR
+
 
 EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO",  Trecevision GT
 
