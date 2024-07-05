@@ -125,7 +125,7 @@ https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/in
 #EXTINF:-1 tvg-id="dw_latinoamerica" group-title="NOTICIAS", DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-id="RT.Español.(RTESP).[607].cr" group-title="NOTICIAS", RT in Spanish 
+#EXTINF:-1 tvg-id="RT.(Russia.Today).Español.(RTESP).[602].cr" group-title="NOTICIAS", RT in Spanish 
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 
 #EXTINF:-1 tvg-id="619d59b7cbef25000728221" group-title="NOTICIAS", EuroNews en español 
@@ -140,7 +140,7 @@ https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-id="Telemundo.HDTV.(Latin.America./.Non-US).(TELEMUNHD).[843].cr" group-title="Internacional", Telemundo 
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 
-#EXTINF:-1 tvg-id="TelemundoInternacional.us" group-title="Internacional", Telemundo Internacional
+#EXTINF:-1 tvg-id="Telemundo.(Latin.America./.Non-US).(TELEMUND).[9].cr" group-title="Internacional", Telemundo Internacional
 http://bantel.iptvperu.tv:1935/miscelaneos/telemundo.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", Universo
@@ -184,6 +184,8 @@ https://jmp2.uk/SamsungTVPlus/ESBC4100002AG.m3u8
 
 #EXTINF:-1 tvg-id="Canal2.cr" group-title="Internacional", Canal 2 CR
 
+Canal2.ni
+
 
 #EXTINF:-1 tvg-id="Canal3.gt" group-title="Internacional" , Canal 3
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
@@ -211,7 +213,7 @@ https://live-c.cf.dmcdn.net/sec2(lX0yrM8QfkFL6yRyrXhllGStFqIzGhUvqo9k6h3lm6aO0ei
 #EXTINF:-1 tvg-id="Televisiete.gt" group-title="Internacional" , Canal 7 - Televisiete
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="id="Canal 7 de Costa Rica (Teletica)" group-title="Latinoamérica", Teletica 7 CR
+#EXTINF:-1 tvg-id"Teletica7.cr" group-title="Latinoamérica", Teletica 7 CR
 https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
 
 
@@ -242,6 +244,9 @@ https://live-c.cf.dmcdn.net/sec2(6w8wgN562ATww6p9ZzHds4Yq5tIwLGxID3fPG_GNz1deIZ2
 
 #EXTINF:-1 tvg-id="ElTrece.ar" group-title="Latinoamérica", El trece AR
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
+
+
+TeleOnce.gt
 
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv" group-title="Latinoamérica", Megavision 19 SV
 https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/master.m3u8
