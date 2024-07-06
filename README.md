@@ -182,13 +182,13 @@ https://jmp2.uk/SamsungTVPlus/ESBC4100001NZ.m3u8
 https://jmp2.uk/SamsungTVPlus/ESBC4100002AG.m3u8
 
 #EXTINF:-1 tvg-id="Canal2.sv" group-title="Internacional", Canal 2 SV
-https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jllP4u1vzGBg-dWPh5dNBh7t1rTaZEh-NXTGakBtPUvP/ts
 
 #EXTINF:-1 tvg-id="Canal2.cr" group-title="Internacional", Canal 2 CR
 
 
-Canal2.ni
-
+#EXTINF:-1 tvg-id="Canal2.ni" group-title="Internacional", Canal 2 NI
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jkWzJlR7K7f6E4GdbvymNPm0hmxk6ofZ6Yh-JUuVBHSu/ts
 
 #EXTINF:-1 tvg-id="Canal3.gt" group-title="Internacional" , Canal 3
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
@@ -200,18 +200,19 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jllP4u1vzGBg-dWPh5dNBh5_3syZEkc
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal4.ni" group-title="Latinoamérica" , Canal 4 NI
-https://live-b.cf.dmcdn.net/sec2(qKwt9m5C6viYbX1I-wR7a9bbn6NfvNHWlknlpC-XK3cB8GCiwgfRgwyVip8gJIBSGGw2AteFG5D-L7D-30aNXBJxF-dtD7J2123rVADtNjQ)/dm/3/x7rwv8c/s/live-1.m3u8
+https://live-b.cf.dmcdn.net/sec2(oGMbZL3pT-EktkF7fHvLrn_lCbCfgOEdfKjncUHFQFTtnGOHQAHnp_C5DrQjF9gGVqK5U-xqSVQ_fyvlibwa5Ro-0iOp5cEXjDWH8B6OYpI)/dm/3/x7rwv8c/s/live-1.m3u8
 
 #EXTINF:-1 tvg-id="Canal5ElLider.hn" group-title="Latinoamérica", Canal 5 El lider HN
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 
 #EXTINF:-1 tvg-id="Canal6.sv" group-title="Internacional", Canal 6 SV
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jhOFMWdWejmBP5fQqTeTJU_dtKl6vwiecM_d_rGlscwJ/ts
 
 #EXTINF:-1 tvg-id="Canal6.cr" group-title="Latinoamérica" , Canal 6 CR
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal6.ni" group-title="Internacional", Canal 6 NI
-https://live-c.cf.dmcdn.net/sec2(lX0yrM8QfkFL6yRyrXhllGStFqIzGhUvqo9k6h3lm6aO0eii-01qMuYgLQuvA5jjx1M_dONZbuJndYIzd8sQu_U0rd2wjTMz0efl0WaqJr8)/dm/3/x8o87cu/s/live-1.m3u8
+https://live-c.cf.dmcdn.net/sec2(2Ai0ZG76Zu2pJjDvKmc7smcoH2Tli2yx73nSWmiunUS6Eh5_1IpV8fW_I4zF3UKZ3gvqIXTgStkvrgIiL8EXkA0su3iND-CxBSbdFY48T6Q)/dm/3/x8o87cu/s/live-1.m3u8
 
 #EXTINF:-1 tvg-id="Televisiete.gt" group-title="Internacional" , Canal 7 - Televisiete
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
@@ -221,7 +222,7 @@ https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
 
 
 #EXTINF:-1 tvg-id="Canal10.sv" group-title="Latinoamérica", Canal 10 SV
-https://5fe2654d6127d.streamlock.net:443/tves/smil:tves.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjQgNTo0OTowOCBBTSZoYXNoX3ZhbHVlPWZxajAzNnhVQmwxYlFJMmRsanFVdXc9PSZ2YWxpZG1pbnV0ZXM9MTUmaWQ9
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jo7kBe-nDUqDVY16r2dTVBZIkrQqAzqb3DY4kcI6GkqJ/ts
 
 #EXTINF:-1 tvg-id="Canal10.ni" group-title="Latinoamérica", Canal 10 NI
 https://alba-ni-c10-c10.stream.mediatiquestream.com/index.m3u8
@@ -239,11 +240,14 @@ https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
 #EXTINF:-1 tvg-id="Canal12.sv" group-title="Internacional", Canal 12 SV
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
+#EXTINF:-1 tvg-id="Canal12.ni" group-title="Internacional", Canal 2 NI
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jkWzJlR7K7f6E4GdbvymNPmHc5qddNvKvyF34nbGU9y-/ts
+
 #EXTINF:-1 tvg-id="Canal13.sv" group-title="Internacional", Canal 13 SV
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jg6LVMjEvSrPJCk3BDwx1qrAwK78R_W0FhtisbMyorWT/ts
 
 #EXTINF:-1 tvg-id="TreceCostaRicaTV.cr" group-title="ENTRETENIMIENTO", Canal 13 CR
-https://live-c.cf.dmcdn.net/sec2(6w8wgN562ATww6p9ZzHds4Yq5tIwLGxID3fPG_GNz1deIZ299YPiEUD0mxRmf5GOYWWwhLP2eK6AsdtgbxlGEUFYESYqgmuWcE-j8u_7fCk)/dm/3/x7vh8g3/d/live-3.m3u8
+https://live-b.cf.dmcdn.net/sec2(obZNPl_0WVqcLDerZo1vG8PQJULzg5ZYg4UJqbBbDvLPdGeISZ_yU3ax0f8lamlKoXaoQkE3HE9N2QP_4DB6TJdc6EWEs1y8YdKZ1c-V6YM)/dm/3/x7vh8g3/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar" group-title="Latinoamérica", El trece AR
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
@@ -253,6 +257,11 @@ TeleOnce.gt
 
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv" group-title="Latinoamérica", Megavision 19 SV
 https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/master.m3u8
+
+
+#EXTINF:-1 tvg-id="MegavisionCanal19.sv" group-title="Latinoamérica",
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jkWzJlR7K7f6E4GdbvymNPk44Ji7SNsGIDJ00mprOGv4/ts
+
 
 
 #EXTINF:-1 tvg-id="TVMax.pa" group-title="Internacional" , TV Max
@@ -272,8 +281,8 @@ https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
 
 
-#EXTINF:-1 tvg-id="VTV.hn" group-title="Internacional", TCS+ SV
-
+#EXTINF:-1 tvg-id="VTV.hn" group-title="Internacional", VTV HN
+https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal57.sv" group-title="Internacional", Canal 57 SV
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
