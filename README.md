@@ -182,9 +182,10 @@ https://jmp2.uk/SamsungTVPlus/ESBC4100001NZ.m3u8
 https://jmp2.uk/SamsungTVPlus/ESBC4100002AG.m3u8
 
 #EXTINF:-1 tvg-id="Canal2.sv" group-title="Internacional", Canal 2 SV
-
+https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 
 #EXTINF:-1 tvg-id="Canal2.cr" group-title="Internacional", Canal 2 CR
+
 
 Canal2.ni
 
