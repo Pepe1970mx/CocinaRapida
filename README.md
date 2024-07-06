@@ -346,19 +346,18 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,F
 #EXTINF:-1 tvg-id="Fox Sports Premium" group-title="Sports", Fox Sports Premium
 http://pe.shortgod.com/temporal/play.php?id=157
 
-#EXTINF:-1 tvg-id="fox_sports_cono_norte" group-title="Sports", Fox Sport Latinoamerica
-https://pe.shortgod.com/temporal/play.php?id=25
+#EXTINF:-1 tvg-id="fox_sports_cono_norte" group-title="Sports", Fox Sport HD
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jqxiA-lzsuN24U2f3M6xz-jn5sYK0BNthSk0J2jHcI99/ts
 
 
-#EXTINF:-1 tvg-id="fox_sports_2_cono_norte" group-title="Sports", Fox sport 2 Latinoamerica
-https://pe.shortgod.com/temporal/play.php?id=25
+#EXTINF:-1 tvg-id="fox_sports_2_cono_norte" group-title="Sports", Fox sport 2 HD
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jn6xCG-BatOD7CLI5hHOqHNzbdQpwM7dcuchcc0vF7WH/ts
 
-#EXTINF:-1 tvg-id="fox_sports_3_cono_norte" group-title="Sports", Fox sport 3 Latinoamerica
+#EXTINF:-1 tvg-id="fox_sports_3_cono_norte" group-title="Sports", Fox sport 3 HD
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jn6xCG-BatOD7CLI5hHOqHO8L0e1-P70g64RRyYkiIRr/ts
 
 #EXTINF:-1 tvg-id="ESPNDeportes.us" group-title="Sports", Espn Deportes 
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158831
-
-#EXTINF:-1 tvg-id="I854.25595.schedulesdirect.org" group-title="Sports", 
 
 #EXTINF:-1 tvg-id="ESPN.mx" group-title="Sports", Espn
 http://181.78.105.146:2000/play/a064/index.m3u8
@@ -368,8 +367,8 @@ http://181.78.105.146:2000/play/a063/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN3.mx" group-title="Sports", Espn 3 Latinoamerica
 
-#EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", Tudn 
-http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/1549.m3u8
+#EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", Tudn HD
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jkHrJgzw7vjYpheGT9oUhwGa5JVd_uitHUGbMU1gqgSi/ts
 
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN USA
 https://jmp2.uk/SamsungTVPlus/USBD1700016X9.m3u8
@@ -388,6 +387,9 @@ https://linear-384.frequency.stream/mt/studio/384/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports", TUDN Eurocopa
 https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports", Amazon Prime
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0juEAqdgUEpB2Px4WlnMsn5BFaLWxRkc3yxZDTW3Xt3GA/ts
 
 #EXTINF:-1 tvg-id="63f7e3f9dff38e00082a57af" group-title="Sports", ITV Deportes
 https://jmp2.uk/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
@@ -426,8 +428,8 @@ EXTINF:-1 tvg-id="63eb947c4e83e70008ab877b" group-title="ENTRETENIMIENTO", NCIS
 https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 
 
-#EXTINF:-1 tvg-id="StarChannel" group-title="De Paga", Star Channel 4K
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjUuVY4Yb_DHgzsx8PMu2abW2Ukfa6Xi4BUhJP7jViiA/ts
+#EXTINF:-1 tvg-id="StarChannel" group-title="De Paga", Star Channel HD
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jrc43-5zCJz1qF0dcQ28poc/ts
 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/30
 
@@ -438,9 +440,6 @@ http://rasaiptv.com:8080/amartinez/s1stemas.13579/1245
 
 #EXTINF:-1 tvg-id="Space.mx" group-title="De Paga", Space
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjUuVY4Yb_DHgzsx8PMu2aY7WbXj81UMqRut8SZmFGfz/ts
-
-
-http://rasaiptv.com:8080/amartinez/s1stemas.13579/1281
 
 #EXTINF:-1 tvg-id="warner_tv_mexico" group-title="De Paga", Warner 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1259
@@ -476,8 +475,8 @@ http://rasaiptv.com:8080/amartinez/s1stemas.13579/1284
 #EXTINF:-1 tvg-id="Golden Premier" group-title="De Paga" ,Golden Premier 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1293
 
-#EXTINF:-1 tvg-id="AccionporMovistarPlusPlus.es" group-title="De Paga", M+ Accion 
-http://234879402770321305.otjb0606.xyz:80/live/me429904/MRhGbCGGEP/321305.ts
+#EXTINF:-1 tvg-id="AccionporMovistarPlusPlus.es" group-title="De Paga", M+ Accion HD
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jqZlwRmkOKrlwa65Dx1q4l3T1t3TUS7P1WN13_gfKdwE/ts
 
 #EXTINF:-1 tvg-id="HBOLatinAmerica.us" group-title="De Paga" , HBO 4K
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjUuVY4Yb_DHgzsx8PMu2aYu2n9QPXE8DLnN0xJX8byD/ts
@@ -511,11 +510,11 @@ https://jmp2.uk/SamsungTVPlus/ESBC4100003WE.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" group-title="Kids", Cartoon Network 4K
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjUuVY4Yb_DHgzsx8PMu2aafVkEJGgitSl2DMt9mUoi0/ts
 
-#EXTINF:-1 tvg-id="Nickelodeon.mx" group-title="Kids", Nickelodeon 
-http://rasaiptv.com:8080/amartinez/s1stemas.13579/132691
+#EXTINF:-1 tvg-id="Nickelodeon.mx" group-title="Kids", Nick HD
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jpZrbSzUE7Jj3X4BPJaJM98kMtHQ6VQrbIIMT7wYuZya/ts
 
-#EXTINF:-1 tvg-id="DisneyChannel.es" group-title="Kids", Disney Channels 4K
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjUuVY4Yb_DHgzsx8PMu2abCN_iWVDwKn9kCVoh3dOqv/ts
+#EXTINF:-1 tvg-id="DisneyChannel.es" group-title="Kids", Disney Channels HD
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jpw5GZ_8GxfU_VIPGbnrtnIe10KLEqZxiPhPBGS5_i0e/ts
 
 #EXTINF:-1 tvg-id"TOONCAST" group-title="Kids" , Tooncast 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/132703
