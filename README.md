@@ -10,8 +10,8 @@ https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa.m3u8
 #EXTINF:-1 tvg-id="646ccd3681844c000974d6f4" group-title="NACIONAL", ADN 40 
 https://jmp2.uk/PlutoTV/646ccd3681844c000974d6f4-alt.m3u8
 
-#EXTINF:-1 tvg-id="LasEstrellas.mx" group-title="NACIONAL", Las Estrellas
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159082
+#EXTINF:-1 tvg-id="LasEstrellas.mx" group-title="NACIONAL", Las Estrellas 4K
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjUuVY4Yb_DHgzsx8PMu2aYN51xQ8qf4m_4gHSz_nWle/ts
 
 #EXTINF:-1 tvg-id="Imagen TV" group-title="NACIONAL", Imagen TV
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159081
@@ -426,7 +426,7 @@ EXTINF:-1 tvg-id="63eb947c4e83e70008ab877b" group-title="ENTRETENIMIENTO", NCIS
 https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 
 
-#EXTINF:-1 tvg-id="StarChannel.mx" group-title="De Paga", Star Channel
+#EXTINF:-1 tvg-id="StarChannel" group-title="De Paga", Star Channel 4K
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjUuVY4Yb_DHgzsx8PMu2abW2Ukfa6Xi4BUhJP7jViiA/ts
 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/30
@@ -445,8 +445,8 @@ http://rasaiptv.com:8080/amartinez/s1stemas.13579/1281
 #EXTINF:-1 tvg-id="warner_tv_mexico" group-title="De Paga", Warner 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1259
 
-#EXTINF:-1 tvg-id="SonyChannel.mx" group-title="De Paga", Sony Channels
-http://rasaiptv.com:8080/amartinez/s1stemas.13579/1263
+#EXTINF:-1 tvg-id="SonyChannel.mx" group-title="De Paga", Sony Channels 4K
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjUuVY4Yb_DHgzsx8PMu2aYmafK983IHx8SohG3mMAD3/ts
 
 #EXTINF:-1 tvg-id="CineSony.us" group-title="De Paga", Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
@@ -477,12 +477,12 @@ http://rasaiptv.com:8080/amartinez/s1stemas.13579/1284
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1293
 
 #EXTINF:-1 tvg-id="AccionporMovistarPlusPlus.es" group-title="De Paga", M+ Accion 
-http://924606346607321307.ofg0316.xyz:80/play/vi1229804/esDA4JqSWQTP/321307.ts
+http://234879402770321305.otjb0606.xyz:80/live/me429904/MRhGbCGGEP/321305.ts
 
-#EXTINF:-1 tvg-id="HBOLatinAmerica.us" group-title="De Paga" , HBO
+#EXTINF:-1 tvg-id="HBOLatinAmerica.us" group-title="De Paga" , HBO 4K
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjUuVY4Yb_DHgzsx8PMu2aYu2n9QPXE8DLnN0xJX8byD/ts
 
-http://rasaiptv.com:8080/amartinez/s1stemas.13579/55
+
 
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us" group-title="De Paga" , HBO 2
 http://170.254.18.106/HBO2/index.m3u8
@@ -508,14 +508,14 @@ https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index
 #EXTINF:-1 tvg-id="ESBC4100003WE" group-title="Kids" , Clan
 https://jmp2.uk/SamsungTVPlus/ESBC4100003WE.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetwork.mx" group-title="Kids", Cartoon Network 
-http://181.78.105.146:2000/play/a03k/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" group-title="Kids", Cartoon Network 4K
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjUuVY4Yb_DHgzsx8PMu2aafVkEJGgitSl2DMt9mUoi0/ts
 
 #EXTINF:-1 tvg-id="Nickelodeon.mx" group-title="Kids", Nickelodeon 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/132691
 
-#EXTINF:-1 tvg-id="DisneyChannel.es" group-title="Kids", Disney Channels
-http://rasaiptv.com:8080/amartinez/s1stemas.13579/110282
+#EXTINF:-1 tvg-id="DisneyChannel.es" group-title="Kids", Disney Channels 4K
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjUuVY4Yb_DHgzsx8PMu2abCN_iWVDwKn9kCVoh3dOqv/ts
 
 #EXTINF:-1 tvg-id"TOONCAST" group-title="Kids" , Tooncast 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/132703
