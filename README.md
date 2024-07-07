@@ -139,6 +139,56 @@ https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-id"CNN en Español" group-title="NOTICIAS" , CNN en Español 
 
 
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
+https://live.obslivestream.com/planetatv/index.m3u8
+
+#EXTINF:-1 tvg-id="Frecuencia Musical TV" group-title="ENTRETENIMIENTO", FM TV
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VTV.hn" group-title="ENTRETENIMIENTO", VTV HN
+https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="ENTRETENIMIENTO", Ciudad Magica AR
+https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
+
+#EXTINF:-1 tvg-id="Telesur.Costa.Rica.(TELSRCR).[861].cr" group-title="ENTRETENIMIENTO" , Telesur CR
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+
+#EXTINF:-1 tvg-id="Canal57.sv" group-title="ENTRETENIMIENTO", Canal 57 SV
+https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
+
+#EXTINF:-1 tvg-id="Retro TV" group-title="ENTRETENIMIENTO" , Retro TV
+https://ssh101-fl.bozztv.com/ssh101/retrotvcr/index.m3u8
+
+#EXTINF:-1 tvg-id="Dreiko TV" group-title="ENTRETENIMIENTO" , Dreiko TV 
+https://cloudvideo.servers10.com:8081/8138/index.m3u8
+
+#EXTINF:-1 tvg-id="Teleclasica" group-title="ENTRETENIMIENTO" , Teleclasica 
+https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ACS Network TV" group-title="ENTRETENIMIENTO", ACS Network
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w910290755.m3u8
+
+#EXTINF:-1 tvg-id="Telesistema" group-title="ENTRETENIMIENTO", Telesistema 
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv Retro Palmares" group-title="ENTRETENIMIENTO", TV Palmares TV
+https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RetroX TV" group-title="ENTRETENIMIENTO", Retro X
+https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
+
+#EXTINF:-1 tvg-id="Magic Kids Tv" group-title="ENTRETENIMIENTO", Magic Kids TV
+https://magicstream.ddns.net/magicstream/stream.m3u8
+
+#EXTINF:-1 tvg-id="Mi TV Television Clasica" group-title="ENTRETENIMIENTO", Mi TV televisión Clasica
+https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="Telemundo.HDTV.(Latin.America./.Non-US).(TELEMUNHD).[843].cr" group-title="Internacional", Telemundo 
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 
@@ -160,20 +210,11 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
 #EXTINF:-1 tvg-id="WOLE Univisión Puerto Rico.pr" group-title="Internacional", Teleonce Univision PR
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
-EXTINF:-1 tvg-id="USBA300040WR" group-title="Internacional", ESTRELLA TV
+#EXTINF:-1 tvg-id="USBA300040WR" group-title="Internacional", ESTRELLA TV
 https://jmp2.uk/SamsungTVPlus/USBA300040WR.m3u8
 
 #EXTINF:-1  tvg-id="WAPADT1.pr"  group-title="Internacional" , Wapa
 https://live.field59.com/wapa/wapa1/playlist.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
-https://live.obslivestream.com/planetatv/index.m3u8
-
-#EXTINF:-1 tvg-id="Frecuencia Musical TV" group-title="ENTRETENIMIENTO", FM TV
-https://s2.tvdatta.com:3307/hybrid/play.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESBC4100001NZ" group-title="Internacional" , La 1
 https://jmp2.uk/SamsungTVPlus/ESBC4100001NZ.m3u8
@@ -196,19 +237,19 @@ https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="Canal4.sv" group-title="Internacional", Canal 4 SV
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jllP4u1vzGBg-dWPh5dNBh5_3syZEkcSw4yllNlpuUy5/ts
 
-#EXTINF:-1 tvg-id="Canal4.cr" group-title="Latinoamérica" , Canal 4 CR
+#EXTINF:-1 tvg-id="Canal4.cr" group-title="Internacional" , Canal 4 CR
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jgHTSx2Uuyk_11If7RcY0v-UZMU9IGUwR9c9uaeh3xz_/ts
 
-#EXTINF:-1 tvg-id="Canal4.ni" group-title="Latinoamérica" , Canal 4 NI
+#EXTINF:-1 tvg-id="Canal4.ni" group-title="Internacional" , Canal 4 NI
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jkWzJlR7K7f6E4GdbvymNPlpYcCeRlGzGCTwJkxU-Wyr/ts
 
-#EXTINF:-1 tvg-id="Televicentro.hn" group-title="Latinoamérica", Canal 5 El lider HN
+#EXTINF:-1 tvg-id="Televicentro.hn" group-title="Internacional", Canal 5 El lider HN
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 
 #EXTINF:-1 tvg-id="Canal6.sv" group-title="Internacional", Canal 6 SV
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jhOFMWdWejmBP5fQqTeTJU_dtKl6vwiecM_d_rGlscwJ/ts
 
-#EXTINF:-1 tvg-id="Canal.6.(CANAL6).[990].cr" group-title="Latinoamérica" , Canal 6 CR
+#EXTINF:-1 tvg-id="Canal.6.(CANAL6).[990].cr" group-title="Internacional" , Canal 6 CR
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal6.ni" group-title="Internacional", Canal 6 NI
@@ -217,73 +258,58 @@ https://live-c.cf.dmcdn.net/sec2(2Ai0ZG76Zu2pJjDvKmc7smcoH2Tli2yx73nSWmiunUS6Eh5
 #EXTINF:-1 tvg-id="Televisiete.gt" group-title="Internacional" , Canal 7 - Televisiete
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id"Teletica.Canal.7.HDTV.(CR7HD).[844].cr" group-title="Latinoamérica", Teletica 7 CR
+#EXTINF:-1 tvg-id"Teletica.Canal.7.HDTV.(CR7HD).[844].cr" group-title="Internacional", Teletica 7 CR
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jgHTSx2Uuyk_11If7RcY0v_DiJ4BUuei1XTrXpvoBHOl/ts
 
 
-#EXTINF:-1 tvg-id="Canal10.sv" group-title="Latinoamérica", Canal 10 SV
+#EXTINF:-1 tvg-id="Canal10.sv" group-title="Internacional", Canal 10 SV
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jo7kBe-nDUqDVY16r2dTVBZIkrQqAzqb3DY4kcI6GkqJ/ts
 
-#EXTINF:-1 tvg-id="Canal10.ni" group-title="Latinoamérica", Canal 10 NI
+#EXTINF:-1 tvg-id="Canal10.ni" group-title="Internacional", Canal 10 NI
 https://alba-ni-c10-c10.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="Repretel:.Canal.11.(CR11).[11].cr" group-title="Latinoamérica" , Canal 11 CR
+#EXTINF:-1 tvg-id="Repretel:.Canal.11.(CR11).[11].cr" group-title="Internacional" , Canal 11 CR
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jgHTSx2Uuyk_11If7RcY0v-3fQno6Eikc6d-libu6yVx/ts
 
-#EXTINF:-1 tvg-id="Canal11.hn" group-title="Latinoamérica", Canal 11 HN
+#EXTINF:-1 tvg-id="Canal11.hn" group-title="Internacional", Canal 11 HN
 https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 
-#EXTINF:-1 tvg-id="Canal11.sv" group-title="Latinoamérica", TUTV Canal 11 SV
+#EXTINF:-1 tvg-id="Canal11.sv" group-title="Internacional", TUTV Canal 11 SV
 https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
+
+#EXTINF:-1 tvg-id="TeleOnce.gt." group-title="Internacional", Canal 11 GT
+
 
 #EXTINF:-1 tvg-id="Canal12.sv" group-title="Internacional", Canal 12 SV
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal12.ni" group-title="Internacional", Canal 2 NI
+#EXTINF:-1 tvg-id="Canal12.ni" group-title="Internacional", Canal 12 NI
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jkWzJlR7K7f6E4GdbvymNPmHc5qddNvKvyF34nbGU9y-/ts
 
 #EXTINF:-1 tvg-id="Canal13.sv" group-title="Internacional", Canal 13 SV
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jg6LVMjEvSrPJCk3BDwx1qrAwK78R_W0FhtisbMyorWT/ts
 
-#EXTINF:-1 tvg-id="TreceCostaRicaTV.cr" group-title="ENTRETENIMIENTO", Canal 13 CR
+#EXTINF:-1 tvg-id="TreceCostaRicaTV.cr" group-title="Internacional", Canal 13 CR
 https://live-b.cf.dmcdn.net/sec2(obZNPl_0WVqcLDerZo1vG8PQJULzg5ZYg4UJqbBbDvLPdGeISZ_yU3ax0f8lamlKoXaoQkE3HE9N2QP_4DB6TJdc6EWEs1y8YdKZ1c-V6YM)/dm/3/x7vh8g3/d/live-3.m3u8
 
-#EXTINF:-1 tvg-id="Canal13.ni" group-title="ENTRETENIMIENTO", Canal 13 NI
+#EXTINF:-1 tvg-id="Canal13.ni" group-title="Internacional", Canal 13 NI
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjAOulSC4Pj6y6s9TX5nLqKEgzv6E_QJ0eE84f3UWgRe/ts
 
-#EXTINF:-1 tvg-id="ElTrece.ar" group-title="Latinoamérica", El trece AR
+#EXTINF:-1 tvg-id="ElTrece.ar" group-title="Internacional", El trece AR
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
-
-TeleOnce.gt
-
-#EXTINF:-1 tvg-id="MegavisionCanal19.sv" group-title="Latinoamérica", Megavision 19 SV
+#EXTINF:-1 tvg-id="Megavisioncanal19.sv" group-title="Internacional", Megavision 19 SV
 https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 
 
-#EXTINF:-1 tvg-id="MegavisionCanal19.sv" group-title="Latinoamérica",
+#EXTINF:-1 tvg-id="MegavisionCanal21.sv" group-title="Internacional",
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jkWzJlR7K7f6E4GdbvymNPk44Ji7SNsGIDJ00mprOGv4/ts
-
-
 
 #EXTINF:-1 tvg-id="TVMax.pa" group-title="Internacional" , TV Max
 https://tvnpan-ecdn3.cdn.mdstrm.com/live-stream-dai/65d4c7bcbe741b6c4131bd70/c2986629464f4312b2ebc46b572e2aab/f624fec49dadc88894ebeff1d974eab019af7757/session/43268dfc-e35f-4fed-a003-4051fb09e26f/media.m3u8?aid=6495bd4ecd55fe08b4765b53&uid=rjwxgsufgb45pxwpyx1rj68ns9h3vvk8&sid=js9p1nbvugbmbxqxntndvyqvz6p9w33r&pid=mqcwnl71xwd0d6korhv0pj4npedfmtll&ref=https%3a%2f%2ftvnpass.com%2f&without_cookies=false&listenerid=&dnt=true&access_token=thow7ko4iq85ycpk1gcgld4gffyqo0yh4dqgzosx7gyfd5wndnz2jegihmgsle9gc9maurdwrzl&es=tvnpan-ecdn3.cdn.mdstrm.com&proto=https&pz=us&hash=0c3d423051f23285c9f2f
 
 #EXTINF:-1 tvg-id="Telefuturo.py" group-title="Internacional" , Telefuturo PA
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jt3ZGIaBWSR2FDEsqnEHROVUrxVfwD5tm3sSj2fcgvyp/ts
-
-#EXTINF:-1 tvg-id="Telesur.Costa.Rica.(TELSRCR).[861].cr" group-title="Internacional" , Telesur CR
-https://s1.tvdatta.com:3582/live/telesurlive.m3u8
-
-#EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="Internacional", Ciudad Magica AR
-https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
-
-
-#EXTINF:-1 tvg-id="VTV.hn" group-title="Internacional", VTV HN
-https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal57.sv" group-title="Internacional", Canal 57 SV
-https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 
 #EXTINF:-1 tvg-id="WillaxTV.pe" group-title="Internacional" , Willax.pe
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
@@ -300,28 +326,16 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 tvg-id="UnitelSantaCruz.bo" group-title="Internacional" , Unitel BO
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jmThcUJ-MGZjvpaJxA26utkV1vouCA8p8VNuSUSZ25Oo/ts
 
-
 #EXTINF:-1 tvg-id="Telefe.ar" group-title="Internacional" , Telefe AR
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jhHRHRUqc6S2jzMEWq_b_7oqSZl1eoQ7RwoDGuGu57Bx/ts
-
-
 
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" group-title="Internacional", Ciudad Magazine
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0juSeh8zJ2m4JukQIH10x2_WkKmg-IC9XcmiV1VB-nKz6/ts
 
-EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="Latinoamérica", Telecadena 7 y 4
+EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="Internacional", Telecadena 7 y 4
 http://200.52.148.194:8000/play/a04q/index.m3u8
 
-EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO",  Trecevision GT
-
-
-
-
-
-
-
-
-
+EXTINF:-1 tvg-id=" " group-title="Internacional",  Trecevision GT
 
 EXTINF:-1 tvg-id="Canal Telesistema 11 (República Dominicana).do" group-title="ENTRETENIMIENTO", Telesistema
 
@@ -647,35 +661,7 @@ https://r.mjh.nz/PlutoTV/5de802659167b10009e7deba-alt.m3u8
 
 
 
-EXTINF:-1 tvg-id="Teleclasica" group-title="Retro" , Teleclasica 
-https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Retro TV" group-title="Retro" , Retro TV
-https://ssh101-fl.bozztv.com/ssh101/retrotvcr/index.m3u8
-
-#EXTINF:-1 tvg-id="ACS Network TV" group-title="Retro", ACS Network
-https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w910290755.m3u8
-
-#EXTINF:-1 tvg-id="Dreiko TV" group-title="Retro" , Dreiko TV 
-https://cloudvideo.servers10.com:8081/8138/index.m3u8
-
-EXTINF:-1 tvg-id="Telesistema" group-title="Retro", Telesistema 
-https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="Tv Retro Palmares" group-title="Retro", TV Palmares TV
-https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
-
-EXTINF:-1 tvg-id="RetroX TV" group-title="Retro", Retro X
-https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
-
-EXTINF:-1 tvg-id="Magic Kids Tv" group-title="Retro", Magic Kids TV
-https://magicstream.ddns.net/magicstream/stream.m3u8
-
-#EXTINF:-1 tvg-id="Mi TV Television Clasica" group-title="Retro", Mi TV televisión Clasica
-https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
-
-
+EXTINF:-1 tvg-id="Teleclasica" group-title
 
 #EXTINF:-1 tvg-id="5f4d3696d938c900072679fd" tvg-logo=" " group-title="DOCUMENTALES", Historias de Ultratumba 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=c2849db8-1412-11eb-bde1-0242ac110002&userId=&serverSideAds=true
