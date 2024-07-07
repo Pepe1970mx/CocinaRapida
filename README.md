@@ -1,7 +1,7 @@
 #EXTM3U 
 x-tvg-url=""
 
-#EXTINF:-1 tvg-id="AztecaUno.mx" group-title="NACIONAL", Azteca Uno
+#EXTINF:-1 tvg-id="Azteca Uno" group-title="NACIONAL", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7" group-title="NACIONAL", Cine Oro
@@ -10,7 +10,7 @@ https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa.m3u8
 #EXTINF:-1 tvg-id="646ccd3681844c000974d6f4" group-title="NACIONAL", ADN 40 
 https://jmp2.uk/PlutoTV/646ccd3681844c000974d6f4-alt.m3u8
 
-#EXTINF:-1 tvg-id="LasEstrellas.mx" group-title="NACIONAL", Las Estrellas 4K
+#EXTINF:-1 tvg-id="Las Estrellas" group-title="NACIONAL", Las Estrellas 4K
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjUuVY4Yb_DHgzsx8PMu2aYN51xQ8qf4m_4gHSz_nWle/ts
 
 #EXTINF:-1 tvg-id="Imagen TV" group-title="NACIONAL", Imagen TV HD
@@ -21,7 +21,7 @@ EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
 #EXTINF:-1 tvg-id="Foro.mx" group-title="NACIONAL", Foro TV 
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 
-#EXTINF:-1 tvg-id="5_mexico" group-title="NACIONAL", Canal 5
+#EXTINF:-1 tvg-id="Canal 5" group-title="NACIONAL", Canal 5
 http://45.228.234.167:8000/play/a0ll/index.m3u8
 
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 CdMX
@@ -33,13 +33,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
 #EXTINF:-1 tvg-id="Telediario Now" group-title="NACIONAL", Telediario Now
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 
-#EXTINF:-1 tvg-id="Azteca7.mx" group-title="NACIONAL", Azteca 7
+#EXTINF:-1 tvg-id="Azteca 7" group-title="NACIONAL", Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
-#EXTINF:-1 tvg-id="APlus.mx" group-title="NACIONAL", A Mas
+#EXTINF:-1 tvg-id="A Mas" group-title="NACIONAL", A Mas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 tvg-id="9_de_mexico" group-title="NACIONAL", El Nueve
+#EXTINF:-1 tvg-id="El Nueve" group-title="NACIONAL", El Nueve
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="el_heraldo_tv_mexico" group-title="NACIONAL" , Canal 10 
@@ -51,16 +51,16 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 #EXTINF:-1 tvg-id="MVStv.(Mexico).(MVSTV).mx" group-title="NACIONAL", MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
-#EXTINF:-1 tvg-id="XEIPNTDT.mx" group-title="NACIONAL", Canal Once
+#EXTINF:-1 tvg-id="Canal Once" group-title="NACIONAL", Canal Once
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="14_de_mexico" group-title="NACIONAL" , Canal 14 
+#EXTINF:-1 tvg-id="14 de Mexico" group-title="NACIONAL" , Canal 14 
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 
 #EXTINF:-1 tvg-id="Capital 21" group-title="NACIONAL" , Capital 21
 https://video.cdmx.gob.mx/redes/stream.m3u8 
 
-#EXTINF:-1 tvg-id="Canal22MetropolitanayNacional.mx" group-title="NACIONAL" , CANAL 22 
+#EXTINF:-1 tvg-id="22 de Mexico" group-title="NACIONAL" , CANAL 22 
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MX NUESTRO CINE" group-title="NACIONAL" , CANAL 22.2 MX Nuestro Cine
@@ -104,7 +104,7 @@ https://jmp2.uk/SamsungTVPlus/USBD2700004ME.m3u8
 #EXTINF:-1 tvg-id="USBC2100010OS" group-title="Comedia" , ViX Jajaja 
 https://jmp2.uk/SamsungTVPlus/USBC2100010OS.m3u8
 
-#EXTINF:-1 tvg-id="DistritoComedia.mx" group-title="Comedia" , Distrito Comedia
+#EXTINF:-1 tvg-id="Distrito Comedia" group-title="Comedia" , Distrito Comedia
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jlJ3Y1i6GhqcltPzrJmRyWdYk2xOMFxoFl2rXMOdqgYX/ts
 
 http://45.5.117.182:8000/play/ihf9/index.m3u8
@@ -121,10 +121,10 @@ https://i.mjh.nz/SamsungTVPlus/ESBD1300004IG.m3u8
 
 
 
-#EXTINF:-1 tvg-id="el_financiero_tv" group-title="NOTICIAS", El Financiero - Bloomberg TV
+#EXTINF:-1 tvg-id="El Financiero Bloomberg" group-title="NOTICIAS", El Financiero - Bloomberg TV
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
 
-#EXTINF:-1 tvg-id="dw_latinoamerica" group-title="NOTICIAS", DW Español 
+#EXTINF:-1 tvg-id="DW Latino" group-title="NOTICIAS", DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-id="RT.(Russia.Today).Español.(RTESP).[602].cr" group-title="NOTICIAS", RT in Spanish 
@@ -295,7 +295,7 @@ https://live-b.cf.dmcdn.net/sec2(obZNPl_0WVqcLDerZo1vG8PQJULzg5ZYg4UJqbBbDvLPdGe
 #EXTINF:-1 tvg-id="Canal13.ni" group-title="Internacional", Canal 13 NI
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjAOulSC4Pj6y6s9TX5nLqKEgzv6E_QJ0eE84f3UWgRe/ts
 
-#EXTINF:-1 tvg-id="ElTrece.ar" group-title="Internacional", El trece AR
+#EXTINF:-1 tvg-id="13 de Argentina" group-title="Internacional", El trece AR
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Megavisioncanal19.sv" group-title="Internacional", Megavision 19 SV
@@ -377,13 +377,13 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jn6xCG-BatOD7CLI5hHOqHO8L0e1-P7
 #EXTINF:-1 tvg-id="ESPNDeportes.us" group-title="Sports", Espn Deportes 
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158831
 
-#EXTINF:-1 tvg-id="ESPN.mx" group-title="Sports", Espn HD
+#EXTINF:-1 tvg-id="ESPN MX" group-title="Sports", Espn HD
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jtLgeD3MLad8E4781DjiTXHURtI3PzdQ-9LX49zo0Yxo/ts
 
-#EXTINF:-1 tvg-id="ESPN2.mx" group-title="Sports", Espn 2 HD
+#EXTINF:-1 tvg-id="ESPN 2 MX" group-title="Sports", Espn 2 HD
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jtLgeD3MLad8E4781DjiTXF6GpkkZHf8xxUcasUCSGaM/ts
 
-#EXTINF:-1 tvg-id="ESPN3.mx" group-title="Sports", Espn 3 HD
+#EXTINF:-1 tvg-id="ESPN 3 MX" group-title="Sports", Espn 3 HD
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jtLgeD3MLad8E4781DjiTXH-R5ZefYdIAzUdfaF8Zixj/ts
 
 
@@ -518,19 +518,19 @@ EXTINF:-1 tvg-id="De Pelicula Plus" group-title="De Paga" , De Pelicula Plus
 
 
 
-#EXTINF:-1 tvg-id="Boing.es" group-title="Kids", Boing
+#EXTINF:-1 tvg-id="Boing Espana" group-title="Kids", Boing
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="ESBC4100003WE" group-title="Kids" , Clan
 https://jmp2.uk/SamsungTVPlus/ESBC4100003WE.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetwork.mx" group-title="Kids", Cartoon Network 4K
+#EXTINF:-1 tvg-id="Cartoon Network Norte" group-title="Kids", Cartoon Network 4K
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjUuVY4Yb_DHgzsx8PMu2aafVkEJGgitSl2DMt9mUoi0/ts
 
-#EXTINF:-1 tvg-id="Nickelodeon.mx" group-title="Kids", Nick HD
+#EXTINF:-1 tvg-id="Nickelodeon" group-title="Kids", Nick HD
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jpZrbSzUE7Jj3X4BPJaJM98kMtHQ6VQrbIIMT7wYuZya/ts
 
-#EXTINF:-1 tvg-id="DisneyChannel.es" group-title="Kids", Disney Channels HD
+#EXTINF:-1 tvg-id="Disney Channel Espana" group-title="Kids", Disney Channels HD
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jpw5GZ_8GxfU_VIPGbnrtnIe10KLEqZxiPhPBGS5_i0e/ts
 
 #EXTINF:-1 tvg-id"TOONCAST" group-title="Kids" , Tooncast 
