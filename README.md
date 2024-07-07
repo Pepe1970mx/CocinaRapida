@@ -208,7 +208,7 @@ https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 #EXTINF:-1 tvg-id="Canal6.sv" group-title="Internacional", Canal 6 SV
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jhOFMWdWejmBP5fQqTeTJU_dtKl6vwiecM_d_rGlscwJ/ts
 
-#EXTINF:-1 tvg-id="Canal6.cr" group-title="Latinoamérica" , Canal 6 CR
+#EXTINF:-1 tvg-id="Canal.6.(CANAL6).[990].cr" group-title="Latinoamérica" , Canal 6 CR
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal6.ni" group-title="Internacional", Canal 6 NI
@@ -217,7 +217,7 @@ https://live-c.cf.dmcdn.net/sec2(2Ai0ZG76Zu2pJjDvKmc7smcoH2Tli2yx73nSWmiunUS6Eh5
 #EXTINF:-1 tvg-id="Televisiete.gt" group-title="Internacional" , Canal 7 - Televisiete
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id"Teletica7.cr" group-title="Latinoamérica", Teletica 7 CR
+#EXTINF:-1 tvg-id"Teletica.Canal.7.HDTV.(CR7HD).[844].cr" group-title="Latinoamérica", Teletica 7 CR
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jgHTSx2Uuyk_11If7RcY0v_DiJ4BUuei1XTrXpvoBHOl/ts
 
 
