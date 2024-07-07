@@ -197,10 +197,10 @@ https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jllP4u1vzGBg-dWPh5dNBh5_3syZEkcSw4yllNlpuUy5/ts
 
 #EXTINF:-1 tvg-id="Canal4.cr" group-title="Latinoamérica" , Canal 4 CR
-https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jgHTSx2Uuyk_11If7RcY0v-UZMU9IGUwR9c9uaeh3xz_/ts
 
 #EXTINF:-1 tvg-id="Canal4.ni" group-title="Latinoamérica" , Canal 4 NI
-https://live-b.cf.dmcdn.net/sec2(oGMbZL3pT-EktkF7fHvLrn_lCbCfgOEdfKjncUHFQFTtnGOHQAHnp_C5DrQjF9gGVqK5U-xqSVQ_fyvlibwa5Ro-0iOp5cEXjDWH8B6OYpI)/dm/3/x7rwv8c/s/live-1.m3u8
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jkWzJlR7K7f6E4GdbvymNPlpYcCeRlGzGCTwJkxU-Wyr/ts
 
 #EXTINF:-1 tvg-id="Canal5ElLider.hn" group-title="Latinoamérica", Canal 5 El lider HN
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
@@ -218,7 +218,7 @@ https://live-c.cf.dmcdn.net/sec2(2Ai0ZG76Zu2pJjDvKmc7smcoH2Tli2yx73nSWmiunUS6Eh5
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id"Teletica7.cr" group-title="Latinoamérica", Teletica 7 CR
-https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jgHTSx2Uuyk_11If7RcY0v_DiJ4BUuei1XTrXpvoBHOl/ts
 
 
 #EXTINF:-1 tvg-id="Canal10.sv" group-title="Latinoamérica", Canal 10 SV
@@ -229,7 +229,7 @@ https://alba-ni-c10-c10.stream.mediatiquestream.com/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Repretel:.Canal.11.(CR11).[11].cr" group-title="Latinoamérica" , Canal 11 CR
-https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jgHTSx2Uuyk_11If7RcY0v-3fQno6Eikc6d-libu6yVx/ts
 
 #EXTINF:-1 tvg-id="Canal11.hn" group-title="Latinoamérica", Canal 11HN
 https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
@@ -248,6 +248,9 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jg6LVMjEvSrPJCk3BDwx1qrAwK78R_W
 
 #EXTINF:-1 tvg-id="TreceCostaRicaTV.cr" group-title="ENTRETENIMIENTO", Canal 13 CR
 https://live-b.cf.dmcdn.net/sec2(obZNPl_0WVqcLDerZo1vG8PQJULzg5ZYg4UJqbBbDvLPdGeISZ_yU3ax0f8lamlKoXaoQkE3HE9N2QP_4DB6TJdc6EWEs1y8YdKZ1c-V6YM)/dm/3/x7vh8g3/d/live-3.m3u8
+
+#EXTINF:-1 tvg-id="Canal13.ni" group-title="ENTRETENIMIENTO", Canal 13 NI
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjAOulSC4Pj6y6s9TX5nLqKEgzv6E_QJ0eE84f3UWgRe/ts
 
 #EXTINF:-1 tvg-id="ElTrece.ar" group-title="Latinoamérica", El trece AR
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
