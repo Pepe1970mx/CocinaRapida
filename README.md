@@ -27,7 +27,7 @@ http://45.228.234.167:8000/play/a0ll/index.m3u8
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 CdMX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
 
-#EXTINF:-1 tvg-id="MilenioTelevision.mx" group-title="NACIONAL" , Milenio Television
+#EXTINF:-1 tvg-id="Milenio TV" group-title="NACIONAL" , Milenio Television
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
 
 #EXTINF:-1 tvg-id="Telediario Now" group-title="NACIONAL", Telediario Now
@@ -450,7 +450,7 @@ https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 
 
 
-#EXTINF:-1 tvg-id="StarChannel" group-title="De Paga", Star Channel HD
+#EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jrc43-5zCJz1qF0dcQ28poc/ts
 
 #EXTINF:-1 tvg-id="TNT.mx" group-title="De Paga", TNT HD
@@ -459,13 +459,13 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jqUq8NQL54Z2-Qo3FO0ba496oIFICoc
 #EXTINF:-1 tvg-id="Space.mx" group-title="De Paga", Space HD
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jh4MrYJChPpsfZegZacUBfNb4Pn2tUlOx_nU6Wchczsp/ts
 
-#EXTINF:-1 tvg-id="warner_tv_mexico" group-title="De Paga", Warner 
+#EXTINF:-1 tvg-id="Warner" group-title="De Paga", Warner 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1259
 
-#EXTINF:-1 tvg-id="SonyChannel.mx" group-title="De Paga", Sony Channels 4K
+#EXTINF:-1 tvg-id="Sony" group-title="De Paga", Sony Channels 4K
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjUuVY4Yb_DHgzsx8PMu2aYmafK983IHx8SohG3mMAD3/ts
 
-#EXTINF:-1 tvg-id="CineSony.us" group-title="De Paga", Cine Sony
+#EXTINF:-1 tvg-id="CineSony" group-title="De Paga", Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SONY MOVIES" group-title="De Paga", Sony Movies
@@ -475,13 +475,13 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="UniversalTV.mx" group-title="De Paga", Universal Channel
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1269
 
-#EXTINF:-1 tvg-id="AXN.mx" group-title="De Paga", AXN
+#EXTINF:-1 tvg-id="AXN" group-title="De Paga", AXN
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1255
 
 #EXTINF:-1 tvg-id="Paramount Channel" group-title="De Paga", Paramount 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/53938
 
-#EXTINF:-1 tvg-id="FX.mx" group-title="De Paga", FX
+#EXTINF:-1 tvg-id="FX" group-title="De Paga", FX
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1275
 
 #EXTINF:-1 tvg-id="Universal Premier" group-title="De Paga" , Universal Premier
@@ -527,7 +527,7 @@ https://jmp2.uk/SamsungTVPlus/ESBC4100003WE.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network Norte" group-title="Kids", Cartoon Network 4K
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjUuVY4Yb_DHgzsx8PMu2aafVkEJGgitSl2DMt9mUoi0/ts
 
-#EXTINF:-1 tvg-id="Nickelodeon" group-title="Kids", Nick HD
+#EXTINF:-1 tvg-id="Nick" group-title="Kids", Nick HD
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jpZrbSzUE7Jj3X4BPJaJM98kMtHQ6VQrbIIMT7wYuZya/ts
 
 #EXTINF:-1 tvg-id="Disney Channel Espana" group-title="Kids", Disney Channels HD
