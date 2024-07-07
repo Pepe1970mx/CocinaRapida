@@ -202,7 +202,7 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jgHTSx2Uuyk_11If7RcY0v-UZMU9IGU
 #EXTINF:-1 tvg-id="Canal4.ni" group-title="Latinoamérica" , Canal 4 NI
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jkWzJlR7K7f6E4GdbvymNPlpYcCeRlGzGCTwJkxU-Wyr/ts
 
-#EXTINF:-1 tvg-id="Canal5ElLider.hn" group-title="Latinoamérica", Canal 5 El lider HN
+#EXTINF:-1 tvg-id="Televicentro.hn" group-title="Latinoamérica", Canal 5 El lider HN
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 
 #EXTINF:-1 tvg-id="Canal6.sv" group-title="Internacional", Canal 6 SV
@@ -227,11 +227,10 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jo7kBe-nDUqDVY16r2dTVBZIkrQqAzq
 #EXTINF:-1 tvg-id="Canal10.ni" group-title="Latinoamérica", Canal 10 NI
 https://alba-ni-c10-c10.stream.mediatiquestream.com/index.m3u8
 
-
 #EXTINF:-1 tvg-id="Repretel:.Canal.11.(CR11).[11].cr" group-title="Latinoamérica" , Canal 11 CR
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jgHTSx2Uuyk_11If7RcY0v-3fQno6Eikc6d-libu6yVx/ts
 
-#EXTINF:-1 tvg-id="Canal11.hn" group-title="Latinoamérica", Canal 11HN
+#EXTINF:-1 tvg-id="Canal11.hn" group-title="Latinoamérica", Canal 11 HN
 https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 
 #EXTINF:-1 tvg-id="Canal11.sv" group-title="Latinoamérica", TUTV Canal 11 SV
@@ -280,10 +279,6 @@ https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
 
-
-
-
-
 #EXTINF:-1 tvg-id="VTV.hn" group-title="Internacional", VTV HN
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 
@@ -316,11 +311,6 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0juSeh8zJ2m4JukQIH10x2_WkKmg-IC9
 
 EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="Latinoamérica", Telecadena 7 y 4
 http://200.52.148.194:8000/play/a04q/index.m3u8
-
-
-
-
-
 
 EXTINF:-1 tvg-id=" " group-title="ENTRETENIMIENTO",  Trecevision GT
 
