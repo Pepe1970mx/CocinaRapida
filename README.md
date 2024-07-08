@@ -42,7 +42,7 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-id="El Nueve" group-title="NACIONAL", El Nueve
 https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="el_heraldo_tv_mexico" group-title="NACIONAL" , Canal 10 
+#EXTINF:-1 tvg-id="El Heraldo TV" group-title="NACIONAL" , Canal 10 Yucatan
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TeleFormula.mx" group-title="NACIONAL" , Teleformula
@@ -72,7 +72,7 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-id="Telever" group-title="NACIONAL", Telever
 https://ythls.armelin.one/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 
-#EXTINF:-1 tvg-id="MeganoticiasMX.mx" group-title="NACIONAL", Meganoticias
+#EXTINF:-1 tvg-id="Meganoticias MX" group-title="NACIONAL", Meganoticias
 https://a37d474b6bb9441fa17e3e1ab3d55fce.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_MegaNoticias/playlist.m3u8?ads.wurl_channel=925
 
 
