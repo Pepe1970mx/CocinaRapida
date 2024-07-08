@@ -308,6 +308,9 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jkWzJlR7K7f6E4GdbvymNPk44Ji7SNs
 #EXTINF:-1 tvg-id="TVMax.pa" group-title="Internacional" , TV Max
 https://tvnpan-ecdn3.cdn.mdstrm.com/live-stream-dai/65d4c7bcbe741b6c4131bd70/c2986629464f4312b2ebc46b572e2aab/f624fec49dadc88894ebeff1d974eab019af7757/session/43268dfc-e35f-4fed-a003-4051fb09e26f/media.m3u8?aid=6495bd4ecd55fe08b4765b53&uid=rjwxgsufgb45pxwpyx1rj68ns9h3vvk8&sid=js9p1nbvugbmbxqxntndvyqvz6p9w33r&pid=mqcwnl71xwd0d6korhv0pj4npedfmtll&ref=https%3a%2f%2ftvnpass.com%2f&without_cookies=false&listenerid=&dnt=true&access_token=thow7ko4iq85ycpk1gcgld4gffyqo0yh4dqgzosx7gyfd5wndnz2jegihmgsle9gc9maurdwrzl&es=tvnpan-ecdn3.cdn.mdstrm.com&proto=https&pz=us&hash=0c3d423051f23285c9f2f
 
+
+
+
 #EXTINF:-1 tvg-id="Telefuturo.py" group-title="Internacional" , Telefuturo PA
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jt3ZGIaBWSR2FDEsqnEHROVUrxVfwD5tm3sSj2fcgvyp/ts
 
