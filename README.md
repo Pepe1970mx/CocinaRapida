@@ -133,7 +133,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-id="619d59b7cbef25000728221" group-title="NOTICIAS", EuroNews en español 
 https://jmp2.uk/PlutoTV/619d59b7cbef25000728221c-alt.m3u8
 
-#EXTINF:-1 tvg-id="FRANCE24.pe" group-title="NOTICIAS", France 24 Español 
+#EXTINF:-1 tvg-id="0206" group-title="NOTICIAS", France Español 
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
 #EXTINF:-1 tvg-id"CNN en Español" group-title="NOTICIAS" , CNN en Español 
