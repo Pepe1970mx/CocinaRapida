@@ -13,7 +13,7 @@ https://jmp2.uk/PlutoTV/646ccd3681844c000974d6f4-alt.m3u8
 #EXTINF:-1 tvg-id="Las Estrellas" group-title="NACIONAL", Las Estrellas 4K
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjUuVY4Yb_DHgzsx8PMu2aYN51xQ8qf4m_4gHSz_nWle/ts
 
-#EXTINF:-1 tvg-id="Imagen TV" group-title="NACIONAL", Imagen TV HD
+#EXTINF:-1 tvg-id="ImagenTV.mx" group-title="NACIONAL", Imagen TV HD
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jvGubXZ7ForYpK2yBR7LZBmpMpDfWOaj0WUwQj14LTSr/ts
 
 EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
@@ -48,7 +48,7 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleFormula.mx" group-title="NACIONAL" , Teleformula
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 
-#EXTINF:-1 tvg-id="MVStv.(Mexico).(MVSTV).mx" group-title="NACIONAL", MVS TV
+#EXTINF:-1 tvg-id="MVSTV.mx" group-title="NACIONAL", MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 #EXTINF:-1 tvg-id="Canal Once" group-title="NACIONAL", Canal Once
@@ -57,7 +57,7 @@ https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 #EXTINF:-1 tvg-id="14 de Mexico" group-title="NACIONAL" , Canal 14 
 https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 
-#EXTINF:-1 tvg-id="Capital 21" group-title="NACIONAL" , Capital 21
+#EXTINF:-1 tvg-id="XHCDMTDT.mx" group-title="NACIONAL" , Capital 21
 https://video.cdmx.gob.mx/redes/stream.m3u8 
 
 #EXTINF:-1 tvg-id="22 de Mexico" group-title="NACIONAL" , CANAL 22 
@@ -72,7 +72,7 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-id="Telever" group-title="NACIONAL", Telever
 https://ythls.armelin.one/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
 
-#EXTINF:-1 tvg-id="Meganoticias MX" group-title="NACIONAL", Meganoticias
+#EXTINF:-1 tvg-id="Meganoticias MX" group-title="NACIONAL", Meganoticias MX
 https://a37d474b6bb9441fa17e3e1ab3d55fce.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_MegaNoticias/playlist.m3u8?ads.wurl_channel=925
 
 
@@ -82,10 +82,10 @@ https://live-b.cf.dmcdn.net/sec2(LLGs7br_N6t9kmhQB4gsiD5e_c0ML2sUNzV1OKicY4Kg8lK
 #EXTINF:-1 tvg-id="MexiquenseTV.mx" group-title="NACIONAL" , Mexiquense TV 
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
 
-#EXTINF:-1  tvg-id="AMX NOTICIAS" group-title="NACIONAL" , Mexiquense Noticias 
+#EXTINF:-1  tvg-id="XHPTDT.mx" group-title="NACIONAL" , 34 Noticias 
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
 
-#EXTINF:-1 tvg-id="MariaVision.mx" group-title="NACIONAL", Mariavision 
+#EXTINF:-1 tvg-id="Maria Vision" group-title="NACIONAL", Mariavision 
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
 
@@ -148,6 +148,9 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Moni TV" group-title="ENTRETENIMIENTO" , Moni TV
+
+
 #EXTINF:-1 tvg-id="VTV.hn" group-title="ENTRETENIMIENTO", VTV HN
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 
@@ -187,17 +190,17 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="Mi TV Television Clasica" group-title="ENTRETENIMIENTO", Mi TV televisión Clasica
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Energeek" group-title="ENTRETENIMIENTO", Energeek
+#EXTINF:-1 tvg-id="EnerGeek Retro" group-title="ENTRETENIMIENTO", Energeek
 https://wifispeed.trapemn.tv:1936/energeek/canal-1p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fanpop" group-title="ENTRETENIMIENTO", Fanpop TV
 https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Telemundo.HDTV.(Latin.America./.Non-US).(TELEMUNHD).[843].cr" group-title="Internacional", Telemundo 
+#EXTINF:-1 tvg-id="Telemundo(Spanish).us" group-title="Internacional", Telemundo 
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo.(Latin.America./.Non-US).(TELEMUND).[9].cr" group-title="Internacional", Telemundo Internacional
+#EXTINF:-1 tvg-id="TelemundoInternacional.mx" group-title="Internacional", Telemundo Internacional
 http://bantel.iptvperu.tv:1935/miscelaneos/telemundo.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", Universo
@@ -209,8 +212,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-id="Univision" group-title="Internacional",  Univision Latino
 http://bantel.iptvperu.tv:1935/transcoder_t4/Univision_t4/playlist.m3u8
 
-#EXTINF:-1 tvg-id"name></channel>
-<channel id="Canal Univision (Costa Central)" group-title="Internacional",  Univision 
+#EXTINF:-1 tvg-id"" group-title="Internacional",  Univision 
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
 
 #EXTINF:-1 tvg-id="WOLE Univisión Puerto Rico.pr" group-title="Internacional", Teleonce Univision PR
@@ -219,7 +221,7 @@ https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cf
 #EXTINF:-1 tvg-id="USBA300040WR" group-title="Internacional", ESTRELLA TV
 https://jmp2.uk/SamsungTVPlus/USBA300040WR.m3u8
 
-#EXTINF:-1  tvg-id="WAPADT1.pr"  group-title="Internacional" , Wapa
+#EXTINF:-1  tvg-id="WAPA TV"  group-title="Internacional" , Wapa
 https://live.field59.com/wapa/wapa1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESBC4100001NZ" group-title="Internacional" , La 1
@@ -317,7 +319,7 @@ https://tvnpan-ecdn3.cdn.mdstrm.com/live-stream-dai/65d4c7bcbe741b6c4131bd70/c29
 
 
 
-#EXTINF:-1 tvg-id="Telefuturo.py" group-title="Internacional" , Telefuturo PA
+#EXTINF:-1 tvg-id="Telefuturo" group-title="Internacional" , Telefuturo PA
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jt3ZGIaBWSR2FDEsqnEHROVUrxVfwD5tm3sSj2fcgvyp/ts
 
 #EXTINF:-1 tvg-id="WillaxTV.pe" group-title="Internacional" , Willax.pe
@@ -335,7 +337,7 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 tvg-id="UnitelSantaCruz.bo" group-title="Internacional" , Unitel BO
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jmThcUJ-MGZjvpaJxA26utkV1vouCA8p8VNuSUSZ25Oo/ts
 
-#EXTINF:-1 tvg-id="Telefe.ar" group-title="Internacional" , Telefe AR
+#EXTINF:-1 tvg-id="Telefe" group-title="Internacional" , Telefe AR
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jhHRHRUqc6S2jzMEWq_b_7oqSZl1eoQ7RwoDGuGu57Bx/ts
 
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" group-title="Internacional", Ciudad Magazine
