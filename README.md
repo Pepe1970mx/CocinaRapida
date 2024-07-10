@@ -187,6 +187,11 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="Mi TV Television Clasica" group-title="ENTRETENIMIENTO", Mi TV televisión Clasica
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Energeek" group-title="ENTRETENIMIENTO", Energeek
+https://wifispeed.trapemn.tv:1936/energeek/canal-1p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fanpop" group-title="ENTRETENIMIENTO", Fanpop TV
+https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Telemundo.HDTV.(Latin.America./.Non-US).(TELEMUNHD).[843].cr" group-title="Internacional", Telemundo 
