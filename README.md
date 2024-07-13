@@ -464,17 +464,17 @@ https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jrc43-5zCJz1qF0dcQ28poc/ts
 
-#EXTINF:-1 tvg-id="TNT.mx" group-title="De Paga", TNT HD
+#EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT HD
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jqUq8NQL54Z2-Qo3FO0ba496oIFICocpL64xQrx1xj-v/ts
 
-#EXTINF:-1 tvg-id="Space.mx" group-title="De Paga", Space HD
+#EXTINF:-1 tvg-id="Space.sur" group-title="De Paga", Space HD
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jh4MrYJChPpsfZegZacUBfNb4Pn2tUlOx_nU6Wchczsp/ts
 
 #EXTINF:-1 tvg-id="Warner" group-title="De Paga", Warner 
-http://rasaiptv.com:8080/amartinez/s1stemas.13579/1259
+http://234879402770866450.otjb0606.xyz:80/live/me429904/MRhGbCGGEP/866450.ts
 
-#EXTINF:-1 tvg-id="Sony" group-title="De Paga", Sony Channels 4K
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjUuVY4Yb_DHgzsx8PMu2aYmafK983IHx8SohG3mMAD3/ts
+#EXTINF:-1 tvg-id="Sony" group-title="De Paga", Sony Channels 
+http://234879402770776736.otjb0606.xyz:80/live/me429904/MRhGbCGGEP/776736.ts
 
 #EXTINF:-1 tvg-id="CineSony" group-title="De Paga", Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
@@ -492,7 +492,7 @@ http://rasaiptv.com:8080/amartinez/s1stemas.13579/1255
 #EXTINF:-1 tvg-id="Paramount Channel" group-title="De Paga", Paramount 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/53938
 
-#EXTINF:-1 tvg-id="FX" group-title="De Paga", FX
+#EXTINF:-1 tvg-id="FX.sur" group-title="De Paga", FX
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1275
 
 #EXTINF:-1 tvg-id="Universal Premier" group-title="De Paga" , Universal Premier
