@@ -149,7 +149,7 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Moni TV" group-title="ENTRETENIMIENTO" , Moni TV
-
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="VTV.hn" group-title="ENTRETENIMIENTO", VTV HN
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
@@ -163,37 +163,37 @@ https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 #EXTINF:-1 tvg-id="Canal57.sv" group-title="ENTRETENIMIENTO", Canal 57 SV
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 
+#EXTINF:-1 tvg-id="RetroX TV" group-title="ENTRETENIMIENTO", Retro X
+https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
+
 #EXTINF:-1 tvg-id="Retro TV" group-title="ENTRETENIMIENTO" , Retro TV
 https://ssh101-fl.bozztv.com/ssh101/retrotvcr/index.m3u8
 
 #EXTINF:-1 tvg-id="Dreiko TV" group-title="ENTRETENIMIENTO" , Dreiko TV 
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
-#EXTINF:-1 tvg-id="Teleclasica" group-title="ENTRETENIMIENTO" , Teleclasica 
+EXTINF:-1 tvg-id="Teleclasica" group-title="ENTRETENIMIENTO" , Teleclasica 
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ACS Network TV" group-title="ENTRETENIMIENTO", ACS Network
+EXTINF:-1 tvg-id="ACS Network TV" group-title="ENTRETENIMIENTO", ACS Network
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w910290755.m3u8
 
-#EXTINF:-1 tvg-id="Telesistema" group-title="ENTRETENIMIENTO", Telesistema 
+EXTINF:-1 tvg-id="Telesistema" group-title="ENTRETENIMIENTO", Telesistema 
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tv Retro Palmares" group-title="ENTRETENIMIENTO", TV Palmares TV
+EXTINF:-1 tvg-id="Tv Retro Palmares" group-title="ENTRETENIMIENTO", TV Palmares TV
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RetroX TV" group-title="ENTRETENIMIENTO", Retro X
-https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
-
-#EXTINF:-1 tvg-id="Magic Kids Tv" group-title="ENTRETENIMIENTO", Magic Kids TV
+EXTINF:-1 tvg-id="Magic Kids Tv" group-title="ENTRETENIMIENTO", Magic Kids TV
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
-#EXTINF:-1 tvg-id="Mi TV Television Clasica" group-title="ENTRETENIMIENTO", Mi TV televisión Clasica
+EXTINF:-1 tvg-id="Mi TV Television Clasica" group-title="ENTRETENIMIENTO", Mi TV televisión Clasica
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EnerGeek Retro" group-title="ENTRETENIMIENTO", Energeek
+EXTINF:-1 tvg-id="EnerGeek Retro" group-title="ENTRETENIMIENTO", Energeek
 https://wifispeed.trapemn.tv:1936/energeek/canal-1p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Fanpop" group-title="ENTRETENIMIENTO", Fanpop TV
+EXTINF:-1 tvg-id="Fanpop" group-title="ENTRETENIMIENTO", Fanpop TV
 https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
 
 
@@ -218,7 +218,7 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
 #EXTINF:-1 tvg-id="WOLE Univisión Puerto Rico.pr" group-title="Internacional", Teleonce Univision PR
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
 
-#EXTINF:-1 tvg-id="USBA300040WR" group-title="Internacional", ESTRELLA TV
+EXTINF:-1 tvg-id="USBA300040WR" group-title="Internacional", ESTRELLA TV
 https://jmp2.uk/SamsungTVPlus/USBA300040WR.m3u8
 
 #EXTINF:-1  tvg-id="WAPA TV"  group-title="Internacional" , Wapa
