@@ -24,7 +24,7 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 #EXTINF:-1 tvg-id="Canal 5" group-title="NACIONAL", Canal 5
 http://45.228.234.167:8000/play/a0ll/index.m3u8
 
-#EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 CdMX
+#EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 MX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
 
 #EXTINF:-1 tvg-id="Milenio TV" group-title="NACIONAL" , Milenio Television
@@ -212,7 +212,7 @@ http://bantel.iptvperu.tv:1935/miscelaneos/telemundo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", Universo
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
 
-#EXTINF:-1 tvg-id="WKAQ Telemundo Puerto Rico.pr" group-title="Internacional", Telemundo PR
+#EXTINF:-1 tvg-id="1615" group-title="Internacional", Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-id="Univision" group-title="Internacional",  Univision Latino
