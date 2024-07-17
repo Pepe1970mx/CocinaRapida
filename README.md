@@ -397,26 +397,26 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jtLgeD3MLad8E4781DjiTXF6GpkkZHf
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jtLgeD3MLad8E4781DjiTXH-R5ZefYdIAzUdfaF8Zixj/ts
 
 
-#EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", Tudn HD
+#EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jkHrJgzw7vjYpheGT9oUhwGa5JVd_uitHUGbMU1gqgSi/ts
 
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN USA
 https://jmp2.uk/SamsungTVPlus/USBD1700016X9.m3u8
 
-#EXTINF:-1 tvg-id="TUDN.us" group-title="Sports", TUDN1
+#EXTINF:-1 tvg-id="TUDN.us" group-title="Sports", VIX FUTBOL 1
 https://linear-380.frequency.stream/mt/studio/380/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports", TUDN2
+#EXTINF:-1 tvg-id="" group-title="Sports", VIX FUTBOL 2
 https://linear-381.frequency.stream/mt/studio/381/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports", TUDN3
+#EXTINF:-1 tvg-id="" group-title="Sports", VIX FUTBOL 3
 https://linear-383.frequency.stream/mt/studio/383/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports", TUDN4
+#EXTINF:-1 tvg-id="" group-title="Sports", VIX FUTBOL 4
 https://linear-384.frequency.stream/mt/studio/384/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports", TUDN Eurocopa
-https://linear-360.frequency.stream/mt/studio/360/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sports", VIX FUTBOL 4
+https://linear-386.frequency.stream/mt/studio/386/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Amazon Prime
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0juEAqdgUEpB2Px4WlnMsn5BFaLWxRkc3yxZDTW3Xt3GA/ts
