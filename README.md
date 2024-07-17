@@ -362,8 +362,8 @@ https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 #EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" group-title="Sports", Azteca Deportes Network 
 https://jmp2.uk/PlutoTV/65cf60d166eec80008724e6f-alt.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports", Futbol Network TV
-https://59d39900ebfb8.streamlock.net/8312/8312/.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sports", Caliente TV
+https://m.youtube.com/watch?v=28rUDmyt3fo
 
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes 
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158838
