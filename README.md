@@ -160,6 +160,9 @@ https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="Canal13.sv" group-title="ENTRETENIMIENTO", Canal 13 SV
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jg6LVMjEvSrPJCk3BDwx1qrAwK78R_W0FhtisbMyorWT/ts
 
+#EXTINF:-1 tvg-id="UnitelSantaCruz.bo" group-title="ENTRETENIMIENTO" , Unitel BO
+https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
+
 #EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="ENTRETENIMIENTO", Ciudad Magica AR
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
@@ -325,7 +328,7 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jt3ZGIaBWSR2FDEsqnEHROVUrxVfwD5
 #EXTINF:-1 tvg-id="WillaxTV.pe" group-title="Internacional" , Willax.pe
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
-EXTINF:-1 tvg-id="ATV.pe" group-title="Internacional" , ATV PE
+#EXTINF:-1 tvg-id="ATV.pe" group-title="Internacional" , ATV PE
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 
 
@@ -333,8 +336,7 @@ https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" group-title="Internacional" , Panamericana 
 https://cdnhd.iblups.com/hls/ptv5.m3u8
 
-#EXTINF:-1 tvg-id="UnitelSantaCruz.bo" group-title="Internacional" , Unitel BO
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jmThcUJ-MGZjvpaJxA26utkV1vouCA8p8VNuSUSZ25Oo/ts
+
 
 #EXTINF:-1 tvg-id="Telefe" group-title="Internacional" , Telefe AR
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jhHRHRUqc6S2jzMEWq_b_7oqSZl1eoQ7RwoDGuGu57Bx/ts
