@@ -4,7 +4,7 @@ x-tvg-url=""
 #EXTINF:-1 tvg-id="Azteca Uno" group-title="NACIONAL", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7" group-title="NACIONAL", Cine Oro
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa" group-title="NACIONAL", Cine Oro
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa.m3u8
 
 #EXTINF:-1 tvg-id="646ccd3681844c000974d6f4" group-title="NACIONAL", ADN 40 
@@ -363,7 +363,7 @@ https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 https://jmp2.uk/PlutoTV/65cf60d166eec80008724e6f-alt.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Caliente TV
-https://m.youtube.com/watch?v=28rUDmyt3fo
+https://ythls-v3.onrender.com/channel/UCpJN_3WCOtfICbsKKxZcBsg.m3u8
 
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes 
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158838
