@@ -359,7 +359,7 @@ https://jmp2.uk/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 #EXTINF:-1 tvg-id="6320d2755e54db000783fd87" group-title="Sports", Claro Sports México 
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 
-#EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" group-title="Sports", Azteca Deportes Network 
+#EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" group-title="Sports", Azteca Deportes Premium
 https://jmp2.uk/PlutoTV/65cf60d166eec80008724e6f-alt.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Caliente TV
