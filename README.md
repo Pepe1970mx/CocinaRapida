@@ -233,10 +233,10 @@ https://jmp2.uk/SamsungTVPlus/USBA300040WR.m3u8
 #EXTINF:-1  tvg-id="WAPA TV"  group-title="Internacional" , Wapa
 https://live.field59.com/wapa/wapa1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESBC4100001NZ" group-title="Internacional" , La 1
+#EXTINF:-1 tvg-id="ESBC4100001NZ" group-title="Internacional" , La 1 ES
 https://jmp2.uk/SamsungTVPlus/ESBC4100001NZ.m3u8
 
-#EXTINF:-1 tvg-id="ESBC4100002AG" group-title="Internacional" , La 2
+#EXTINF:-1 tvg-id="ESBC4100002AG" group-title="Internacional" , La 2 ES
 https://jmp2.uk/SamsungTVPlus/ESBC4100002AG.m3u8
 
 #EXTINF:-1 tvg-id="Canal2.sv" group-title="Internacional", Canal 2 SV
@@ -248,22 +248,22 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jllP4u1vzGBg-dWPh5dNBh7t1rTaZEh
 #EXTINF:-1 tvg-id="Canal2.ni" group-title="Internacional", Canal 2 NI
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jkWzJlR7K7f6E4GdbvymNPm0hmxk6ofZ6Yh-JUuVBHSu/ts
 
-#EXTINF:-1 tvg-id="Canal.3.de.Guatemala.(CANL3).[958].cr" group-title="Internacional" , Canal 3
+#EXTINF:-1 tvg-id="3_de_guatemala" group-title="Internacional" , Canal 3 GT
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal4.sv" group-title="Internacional", Canal 4 SV
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jllP4u1vzGBg-dWPh5dNBh5_3syZEkcSw4yllNlpuUy5/ts
 
-#EXTINF:-1 tvg-id="Canal 4 de Costa Rica" group-title="Internacional" , Canal 4 CR
+#EXTINF:-1 tvg-id="4_de_costa_rica" group-title="Internacional" , Canal 4 CR
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jgHTSx2Uuyk_11If7RcY0v-UZMU9IGUwR9c9uaeh3xz_/ts
 
 #EXTINF:-1 tvg-id="Canal4.ni" group-title="Internacional" , Canal 4 NI
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jkWzJlR7K7f6E4GdbvymNPlpYcCeRlGzGCTwJkxU-Wyr/ts
 
-#EXTINF:-1 tvg-id="Televicentro.hn" group-title="Internacional", Canal 5 El lider HN
+#EXTINF:-1 tvg-id="Canal5ElLider.hn" group-title="Internacional", Canal 5 El lider HN
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 
-#EXTINF:-1 tvg-id="Canal 6 de Costa Rica" group-title="Internacional", Canal 6 SV
+#EXTINF:-1 tvg-id="6_de_costa_rica" group-title="Internacional", Canal 6 SV
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jhOFMWdWejmBP5fQqTeTJU_dtKl6vwiecM_d_rGlscwJ/ts
 
 #EXTINF:-1 tvg-id="Canal.6.(CANAL6).[990].cr" group-title="Internacional" , Canal 6 CR
@@ -278,6 +278,7 @@ https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id"Canal 7 de Costa Rica (Teletica)" group-title="Internacional", Teletica 7 CR
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jgHTSx2Uuyk_11If7RcY0v_DiJ4BUuei1XTrXpvoBHOl/ts
 
+#EXTINF:-1 tvg-id"9_de_honduras_vica" group-title="Internacional", Canal 9 HN
 
 #EXTINF:-1 tvg-id="Canal10.sv" group-title="Internacional", Canal 10 SV
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jo7kBe-nDUqDVY16r2dTVBZIkrQqAzqb3DY4kcI6GkqJ/ts
@@ -285,7 +286,7 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jo7kBe-nDUqDVY16r2dTVBZIkrQqAzq
 #EXTINF:-1 tvg-id="Canal10.ni" group-title="Internacional", Canal 10 NI
 https://alba-ni-c10-c10.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal 11 de Costa Rica" group-title="Internacional" , Canal 11 CR
+#EXTINF:-1 tvg-id="11_de_costa_rica" group-title="Internacional" , Canal 11 CR
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jgHTSx2Uuyk_11If7RcY0v-3fQno6Eikc6d-libu6yVx/ts
 
 #EXTINF:-1 tvg-id="Canal11.hn" group-title="Internacional", Canal 11 HN
@@ -308,6 +309,10 @@ https://live-b.cf.dmcdn.net/sec2(obZNPl_0WVqcLDerZo1vG8PQJULzg5ZYg4UJqbBbDvLPdGe
 
 #EXTINF:-1 tvg-id="Canal13.ni" group-title="Internacional", Canal 13 NI
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjAOulSC4Pj6y6s9TX5nLqKEgzv6E_QJ0eE84f3UWgRe/ts
+
+
+#EXTINF:-1 tvg-id="13_de_guatemala" group-title="Internacional", Canal 13 GT
+
 
 #EXTINF:-1 tvg-id="13 de Argentina" group-title="Internacional", El trece AR
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
