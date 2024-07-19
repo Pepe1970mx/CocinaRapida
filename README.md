@@ -272,10 +272,10 @@ https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="Canal.6.Nicaragua.(CANAL6).[991].cr" group-title="Internacional", Canal 6 NI
 https://live-c.cf.dmcdn.net/sec2(2Ai0ZG76Zu2pJjDvKmc7smcoH2Tli2yx73nSWmiunUS6Eh5_1IpV8fW_I4zF3UKZ3gvqIXTgStkvrgIiL8EXkA0su3iND-CxBSbdFY48T6Q)/dm/3/x8o87cu/s/live-1.m3u8
 
-#EXTINF:-1 tvg-id="Televisiete.gt" group-title="Internacional" , Canal 7 - Televisiete
+#EXTINF:-1 tvg-id="7_de_guatemala" group-title="Internacional" , Canal 7 - Televisiete
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id"Canal 7 de Costa Rica (Teletica)" group-title="Internacional", Teletica 7 CR
+#EXTINF:-1 tvg-id"Teletica7.cr" group-title="Internacional", Teletica 7 CR
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jgHTSx2Uuyk_11If7RcY0v_DiJ4BUuei1XTrXpvoBHOl/ts
 
 #EXTINF:-1 tvg-id"9_de_honduras_vica" group-title="Internacional", Canal 9 HN
@@ -295,7 +295,7 @@ https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 #EXTINF:-1 tvg-id="Canal11.sv" group-title="Internacional", TUTV Canal 11 SV
 https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
 
-#EXTINF:-1 tvg-id="TeleOnce.gt." group-title="Internacional", Canal 11 GT
+#EXTINF:-1 tvg-id="TeleOnce.gt" group-title="Internacional", Canal 11 GT
 
 
 #EXTINF:-1 tvg-id="Canal12.sv" group-title="Internacional", Canal 12 SV
@@ -304,7 +304,7 @@ https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="Canal12.ni" group-title="Internacional", Canal 12 NI
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jkWzJlR7K7f6E4GdbvymNPmHc5qddNvKvyF34nbGU9y-/ts
 
-#EXTINF:-1 tvg-id="Canal 13 de Costa Rica" group-title="Internacional", Canal 13 CR
+#EXTINF:-1 tvg-id="TreceCostaRicaTV.cr" group-title="Internacional", Canal 13 CR
 https://live-b.cf.dmcdn.net/sec2(obZNPl_0WVqcLDerZo1vG8PQJULzg5ZYg4UJqbBbDvLPdGeISZ_yU3ax0f8lamlKoXaoQkE3HE9N2QP_4DB6TJdc6EWEs1y8YdKZ1c-V6YM)/dm/3/x7vh8g3/d/live-3.m3u8
 
 #EXTINF:-1 tvg-id="Canal13.ni" group-title="Internacional", Canal 13 NI
@@ -312,6 +312,8 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjAOulSC4Pj6y6s9TX5nLqKEgzv6E_Q
 
 
 #EXTINF:-1 tvg-id="13_de_guatemala" group-title="Internacional", Canal 13 GT
+
+#EXTINF:-1 tvg-id="VivaNicaraguaCanal13.ni" group-title="Internacional", Canal 13 NI
 
 
 #EXTINF:-1 tvg-id="13 de Argentina" group-title="Internacional", El trece AR
@@ -343,7 +345,7 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Telefe" group-title="Internacional" , Telefe AR
+#EXTINF:-1 tvg-id="telefe_argentina" group-title="Internacional" , Telefe AR
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jhHRHRUqc6S2jzMEWq_b_7oqSZl1eoQ7RwoDGuGu57Bx/ts
 
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" group-title="Internacional", Ciudad Magazine
