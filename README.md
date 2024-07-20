@@ -263,10 +263,10 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jkWzJlR7K7f6E4GdbvymNPlpYcCeRlG
 #EXTINF:-1 tvg-id="Canal5ElLider.hn" group-title="Internacional", Canal 5 El lider HN
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 
-#EXTINF:-1 tvg-id="6_de_costa_rica" group-title="Internacional", Canal 6 SV
+#EXTINF:-1 tvg-id="Canal6.sv" group-title="Internacional", Canal 6 SV
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jhOFMWdWejmBP5fQqTeTJU_dtKl6vwiecM_d_rGlscwJ/ts
 
-#EXTINF:-1 tvg-id="Canal.6.(CANAL6).[990].cr" group-title="Internacional" , Canal 6 CR
+#EXTINF:-1 tvg-id="6_de_costa_rica" group-title="Internacional" , Canal 6 CR
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.6.Nicaragua.(CANAL6).[991].cr" group-title="Internacional", Canal 6 NI
@@ -351,14 +351,10 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jhHRHRUqc6S2jzMEWq_b_7oqSZl1eoQ
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" group-title="Internacional", Ciudad Magazine
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0juSeh8zJ2m4JukQIH10x2_WkKmg-IC9XcmiV1VB-nKz6/ts
 
-EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="Internacional", Telecadena 7 y 4
+#EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="Internacional", Telecadena 7 y 4
 http://200.52.148.194:8000/play/a04q/index.m3u8
 
-EXTINF:-1 tvg-id=" " group-title="Internacional",  Trecevision GT
-
 EXTINF:-1 tvg-id="Canal Telesistema 11 (República Dominicana).do" group-title="ENTRETENIMIENTO", Telesistema
-
-
 
 
 
