@@ -248,7 +248,7 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jllP4u1vzGBg-dWPh5dNBh7t1rTaZEh
 #EXTINF:-1 tvg-id="Canal2.ni" group-title="Internacional", Canal 2 NI
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jkWzJlR7K7f6E4GdbvymNPm0hmxk6ofZ6Yh-JUuVBHSu/ts
 
-#EXTINF:-1 tvg-id="3_de_guatemala" group-title="Internacional" , Canal 3 GT
+#EXTINF:-1 tvg-id="gt#canal-3" group-title="Internacional" , Canal 3 GT
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal4.sv" group-title="Internacional", Canal 4 SV
@@ -272,7 +272,7 @@ https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="Canal.6.Nicaragua.(CANAL6).[991].cr" group-title="Internacional", Canal 6 NI
 https://live-c.cf.dmcdn.net/sec2(2Ai0ZG76Zu2pJjDvKmc7smcoH2Tli2yx73nSWmiunUS6Eh5_1IpV8fW_I4zF3UKZ3gvqIXTgStkvrgIiL8EXkA0su3iND-CxBSbdFY48T6Q)/dm/3/x8o87cu/s/live-1.m3u8
 
-#EXTINF:-1 tvg-id="7_de_guatemala" group-title="Internacional" , Canal 7 - Televisiete
+#EXTINF:-1 tvg-id="gt#televisiete">" group-title="Internacional" , Canal 7 - Televisiete
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id"Canal 7 de Costa Rica" group-title="Internacional", Teletica 7 CR
