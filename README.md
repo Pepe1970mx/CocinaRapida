@@ -207,13 +207,13 @@ https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Telemundo(Spanish).us" group-title="Internacional", Telemundo 
-https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
 #EXTINF:-1 tvg-id="TelemundoInternacional.mx" group-title="Internacional", Telemundo Internacional
 http://bantel.iptvperu.tv:1935/miscelaneos/telemundo.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", Universo
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
+
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
