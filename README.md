@@ -298,8 +298,8 @@ https://mdstrm.com/live-stream-playlist/603d4e1fb042ce07c5c8f911.m3u8
 #EXTINF:-1 tvg-id="Canal11.sv" group-title="Internacional", TUTV Canal 11 SV
 https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
 
-#EXTINF:-1 tvg-id="TeleOnce.gt" group-title="Internacional", Canal 11 GT
-
+#EXTINF:-1 tvg-id="TeleOnce.gt" group-title="Internacional", Canal 23 GT
+https://alba-gt-chapintv-tn23.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal12.sv" group-title="Internacional", Canal 12 SV
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
@@ -315,6 +315,7 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjAOulSC4Pj6y6s9TX5nLqKEgzv6E_Q
 
 
 #EXTINF:-1 tvg-id="13_de_guatemala" group-title="Internacional", Canal 13 GT
+
 
 #EXTINF:-1 tvg-id="VivaNicaraguaCanal13.ni" group-title="Internacional", Canal 13 NI
 
