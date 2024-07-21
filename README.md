@@ -142,6 +142,9 @@ https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
 
+#EXTINF:-1 tvg-id="Moni TV" group-title="ENTRETENIMIENTO" , Moni TV
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="Frecuencia Musical TV" group-title="ENTRETENIMIENTO", FM TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
@@ -151,8 +154,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="ATVSur.pe" group-title="ENTRETENIMIENTO" , ATV Sur PE
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="Moni TV" group-title="ENTRETENIMIENTO" , Moni TV
-https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="ATV.pe" group-title="ENTRETENIMIENTO" , ATV PE
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="VTV.hn" group-title="ENTRETENIMIENTO", VTV HN
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
@@ -165,6 +168,10 @@ https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 
 #EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="ENTRETENIMIENTO", Ciudad Magica AR
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
+
+#EXTINF:-1 tvg-id="CiudadMagazine.ar" group-title="ENTRETENIMIENTO", Ciudad Magazine
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0juSeh8zJ2m4JukQIH10x2_WkKmg-IC9XcmiV1VB-nKz6/ts
+
 
 #EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , Telesur CR
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
@@ -339,8 +346,7 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jt3ZGIaBWSR2FDEsqnEHROVUrxVfwD5
 #EXTINF:-1 tvg-id="WillaxTV.pe" group-title="Internacional" , Willax.pe
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
-#EXTINF:-1 tvg-id="ATV.pe" group-title="Internacional" , ATV PE
-https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" group-title="Internacional" , Panamericana 
 https://cdnhd.iblups.com/hls/ptv5.m3u8
@@ -348,8 +354,7 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 #EXTINF:-1 tvg-id="telefe_argentina" group-title="Internacional" , Telefe AR
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jhHRHRUqc6S2jzMEWq_b_7oqSZl1eoQ7RwoDGuGu57Bx/ts
 
-#EXTINF:-1 tvg-id="CiudadMagazine.ar" group-title="Internacional", Ciudad Magazine
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0juSeh8zJ2m4JukQIH10x2_WkKmg-IC9XcmiV1VB-nKz6/ts
+
 
 #EXTINF:-1 tvg-id="Telesistema3y7.hn" group-title="Internacional", Telesistema 3y7 HN
 
