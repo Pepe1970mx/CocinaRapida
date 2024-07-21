@@ -718,46 +718,46 @@ https://r.mjh.nz/PlutoTV/5f98471110cca20007d39f76-alt.m3u8
 
 
 #EXTINF:-1 tvg-id="6490254fd2c47c00083a5743" group-title="Retro Music", Now 80s
-https://r.mjh.nz/PlutoTV/6490254fd2c47c00083a5743-alt.m3u8
+https://jmp2.uk/PlutoTV/6490254fd2c47c00083a5743-alt.m3u8
 
 #EXTINF:-1 tvg-id="5fd7b8bf927e090007685853" group-title="Retro Music", Vevo '80s
-https://r.mjh.nz/PlutoTV/5fd7b8bf927e090007685853-alt.m3u8
+https://jmp2.uk/PlutoTV/5fd7b8bf927e090007685853-alt.m3u8
 
 #EXTINF:-1 tvg-id="USBB320000647" group-title="Retro Music", XITE 80s Flashback 
-https://i.mjh.nz/SamsungTVPlus/USBB320000647.m3u8
+https://jmp2.uk/SamsungTVPlus/USBB320000647.m3u8
 
 #EXTINF:-1 tvg-id="6076cd1df8576d0007c82193" group-title="Retro Music", VH1 Classic
-https://r.mjh.nz/PlutoTV/6076cd1df8576d0007c82193-alt.m3u8
+https://jmp2.uk/PlutoTV/6076cd1df8576d0007c82193-alt.m3u8
 
 #EXTINF:-1 tvg-id="635bfb89b5cd9b0007ca9d63" group-title="Retro Music", MTV Classic
-https://r.mjh.nz/PlutoTV/635bfb89b5cd9b0007ca9d63-alt.m3u8
+https://jmp2.uk/PlutoTV/635bfb89b5cd9b0007ca9d63-alt.m3u8
 
 #EXTINF:-1 tvg-id="5fd7bb1f86d94a000796e2c2" group-title="Retro Music", Vevo 90s
-https://r.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
+https://jmp2.uk/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
 
 #EXTINF:-1 tvg-id="6490254fd2c47c00083a5743" group-title="Retro Music", Now Rock
-https://r.mjh.nz/PlutoTV/6568a78d635c3c0008765f41-alt.m3u8
+https://jmp2.uk/PlutoTV/6568a78d635c3c0008765f41-alt.m3u8
 
 #EXTINF:-1 tvg-id="636a4173e34fd50007534542" group-title="Retro Music", VH1 Rock!
-https://i.mjh.nz/PlutoTV/636a4173e34fd50007534542-alt.m3u8
+https://jmp2.uk/PlutoTV/636a4173e34fd50007534542-alt.m3u8
 
 #EXTINF:-1 tvg-id="USBB2300004KV" group-title="Retro Music", XITE Rock on
-https://i.mjh.nz/SamsungTVPlus/USBB2300004KV.m3u8
+https://jmp2.uk/SamsungTVPlus/USBB2300004KV.m3u8
 
 #EXTINF:-1 tvg-id="624303598e45140007d765c1" group-title="Retro Music", MTV Rocks
-https://r.mjh.nz/PlutoTV/624303598e45140007d765c1-alt.m3u8
+https://jmp2.uk/PlutoTV/624303598e45140007d765c1-alt.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Retro Music", Vevo Retro Rock
-https://i.mjh.nz/PlutoTV/61d4b38226b8a50007fe03a6-alt.m3u8
+https://jmp2.uk/PlutoTV/61d4b38226b8a50007fe03a6-alt.m3u8
 
 #EXTINF:-1 tvg-id="65cf6adca25d5e00081d2f3f" group-title="Retro Music", MTV Hip Hop and Rap
-https://r.mjh.nz/PlutoTV/65cf6adca25d5e00081d2f3f-alt.m3u8
+https://jmp2.uk/PlutoTV/65cf6adca25d5e00081d2f3f-alt.m3u8
 
 #EXTINF:-1 tvg-id="64c10558060e830008ed1b0a" group-title="Retro Music", Yo! MTV Raps Classic
-https://r.mjh.nz/PlutoTV/64c10558060e830008ed1b0a-alt.m3u8
+https://jmp2.uk/PlutoTV/64c10558060e830008ed1b0a-alt.m3u8
 
 #EXTINF:-1 tvg-id="61d4c2817a823d00070ba53e" group-title="Retro Music", Vevo True School Hip Hop
-https://r.mjh.nz/PlutoTV/61d4c2817a823d00070ba53e-alt.m3u8
+https://jmp2.uk/PlutoTV/61d4c2817a823d00070ba53e-alt.m3u8
 
 
 
