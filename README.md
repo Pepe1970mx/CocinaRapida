@@ -371,6 +371,15 @@ https://jmp2.uk/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 #EXTINF:-1 tvg-id="6320d2755e54db000783fd87" group-title="Sports", Claro Sports México 
 https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Sports", Claro Sports 2
+https://pubads.g.doubleclick.net/ssai/event/erhZGvvqQdmR8xTfFO3MZw/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports", Claro Sports 3
+https://pubads.g.doubleclick.net/ssai/event/6DSQ8CGURXew6V-oYhN27Q/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports", Claro Sports 4
+https://pubads.g.doubleclick.net/ssai/event/UDhGuB7fSvuKDebY72_m_Q/master.m3u8
+
 #EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" group-title="Sports", Azteca Deportes Premium
 https://jmp2.uk/PlutoTV/65cf60d166eec80008724e6f-alt.m3u8
 
