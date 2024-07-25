@@ -107,7 +107,15 @@ https://jmp2.uk/SamsungTVPlus/USBC2100010OS.m3u8
 #EXTINF:-1 tvg-id="Distrito Comedia" group-title="Comedia" , Distrito Comedia
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jlJ3Y1i6GhqcltPzrJmRyWdYk2xOMFxoFl2rXMOdqgYX/ts
 
-http://45.5.117.182:8000/play/ihf9/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Comedia" , Chespirito
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0joeqXy6uoR0jVUY6hj5_JJ2x4IxVSu_TxFjt1FVU4N3Y/ts
+
+#EXTINF:-1 tvg-id="" group-title="Comedia" , Los Simpsons
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0joeqXy6uoR0jVUY6hj5_JJ1bVV-T8rB4oZzikYFswlVx/ts
+
+
+
+
 
 
 EXTINF:-1 tvg-id="Azteca Clic" group-title="VARIEDADES" , Az Clic
