@@ -34,6 +34,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 
 #EXTINF:-1 tvg-id="Azteca 7" group-title="NACIONAL", Azteca 7
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jlJ3Y1i6GhqcltPzrJmRyWfAWg7d7eqYW46dKZ8Nk7b0/ts
+
+
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 tvg-id="A Mas" group-title="NACIONAL", A Mas
