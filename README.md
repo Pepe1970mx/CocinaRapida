@@ -162,6 +162,16 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="ATVSur.pe" group-title="ENTRETENIMIENTO" , ATV Sur PE
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , Aurora Film GT
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , vision GT
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , Toto isiom GT
+https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
+
+
 #EXTINF:-1 tvg-id="ATV.pe" group-title="ENTRETENIMIENTO" , ATV PE
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 
@@ -237,7 +247,7 @@ https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 http://bantel.iptvperu.tv:1935/miscelaneos/telemundo.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", Universo
-
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jqZlwRmkOKrlwa65Dx1q4l1F5nInbrcH0z8gcGf2F8m1/ts
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
@@ -254,7 +264,7 @@ https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cf
 EXTINF:-1 tvg-id="USBA300040WR" group-title="Internacional", ESTRELLA TV
 https://jmp2.uk/SamsungTVPlus/USBA300040WR.m3u8
 
-#EXTINF:-1  tvg-id="WAPA TV"  group-title="Internacional" , Wapa
+EXTINF:-1  tvg-id="WAPA TV"  group-title="Internacional" , Wapa
 https://live.field59.com/wapa/wapa1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESBC4100001NZ" group-title="Internacional" , La 1 ES
