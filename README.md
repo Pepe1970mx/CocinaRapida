@@ -11,7 +11,7 @@ https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa.m3u8
 https://jmp2.uk/PlutoTV/646ccd3681844c000974d6f4-alt.m3u8
 
 #EXTINF:-1 tvg-id="Las Estrellas" group-title="NACIONAL", Las Estrellas 4K
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjUuVY4Yb_DHgzsx8PMu2aYN51xQ8qf4m_4gHSz_nWle/ts
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjebCC6j1P0XOgxAxGm11MMnobuK59iDS9IILTSsPHZu/ts
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" group-title="NACIONAL", Imagen TV HD
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jvGubXZ7ForYpK2yBR7LZBmpMpDfWOaj0WUwQj14LTSr/ts
@@ -474,10 +474,10 @@ EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network
 
 
 
-#EXTINF:-1 tvg-id="62fa81ccd1a7e90007c1ada0" group-title="ENTRETENIMIENTO", AMC en Español
+EXTINF:-1 tvg-id="62fa81ccd1a7e90007c1ada0" group-title="ENTRETENIMIENTO", AMC en Español
 https://jmp2.uk/SamsungTVPlus/USBD7000017L.m3u8
 
-#EXTINF:-1 tvg-id="USBC39000080S" group-title="ENTRETENIMIENTO", Canela TV
+EXTINF:-1 tvg-id="USBC39000080S" group-title="ENTRETENIMIENTO", Canela TV
 https://jmp2.uk/SamsungTVPlus/USBC39000080S.m3u8
 
 EXTINF:-1 tvg-id="60fb3087fbbc120007fc46be" group-title="ENTRETENIMIENTO", Series con Ñ
@@ -493,16 +493,16 @@ https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 
 
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jrc43-5zCJz1qF0dcQ28poc/ts
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjUuVY4Yb_DHgzsx8PMu2abW2Ukfa6Xi4BUhJP7jViiA/ts
 
 #EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT HD
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jqUq8NQL54Z2-Qo3FO0ba496oIFICocpL64xQrx1xj-v/ts
 
 #EXTINF:-1 tvg-id="Space.sur" group-title="De Paga", Space HD
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jh4MrYJChPpsfZegZacUBfNb4Pn2tUlOx_nU6Wchczsp/ts
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jh4MrYJChPpsfZegZacUBfPaVAfICb-2Ft_RXBijjv3z/ts
 
 #EXTINF:-1 tvg-id="Warner" group-title="De Paga", Warner 
-http://234879402770866450.otjb0606.xyz:80/live/me429904/MRhGbCGGEP/866450.ts
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jvgMOFXYrQUbb4i5mzRPIdLAmjWg5ANSpyZKIJuCVp_0/ts
 
 #EXTINF:-1 tvg-id="Sony" group-title="De Paga", Sony Channels 
 http://234879402770776736.otjb0606.xyz:80/live/me429904/MRhGbCGGEP/776736.ts
