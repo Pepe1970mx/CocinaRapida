@@ -429,10 +429,13 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jtLgeD3MLad8E4781DjiTXH-R5ZefYd
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jkHrJgzw7vjYpheGT9oUhwGa5JVd_uitHUGbMU1gqgSi/ts
 
+#EXTINF:-1 tvg-id="TUDN.us" group-title="Sports", TUDN USA
+http://tvmate.icu:8080/Alan/Alan1234/82241
+
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN USA
 https://jmp2.uk/SamsungTVPlus/USBD1700016X9.m3u8
 
-#EXTINF:-1 tvg-id="TUDN.us" group-title="Sports", VIX FUTBOL 1
+#EXTINF:-1 tvg-id="" group-title="Sports", VIX FUTBOL 1
 https://linear-380.frequency.stream/mt/studio/380/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports", VIX FUTBOL 2
