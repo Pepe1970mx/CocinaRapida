@@ -515,18 +515,14 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jqUq8NQL54Z2-Qo3FO0ba496oIFICoc
 #EXTINF:-1 tvg-id="Space.sur" group-title="De Paga", Space HD
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jh4MrYJChPpsfZegZacUBfPaVAfICb-2Ft_RXBijjv3z/ts
 
+#EXTINF:-1 tvg-id="FX.sur" group-title="De Paga", FX
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jsGLvTjbGOq5Fm5s_t5SK0LCfavnmyHqhKI_hOZuIrLj/ts
+
 #EXTINF:-1 tvg-id="Warner" group-title="De Paga", Warner 
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jvgMOFXYrQUbb4i5mzRPIdLAmjWg5ANSpyZKIJuCVp_0/ts
 
 #EXTINF:-1 tvg-id="Sony" group-title="De Paga", Sony Channels 
 http://234879402770776736.otjb0606.xyz:80/live/me429904/MRhGbCGGEP/776736.ts
-
-#EXTINF:-1 tvg-id="CineSony" group-title="De Paga", Cine Sony
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SONY MOVIES" group-title="De Paga", Sony Movies
-
-#EXTINF:-1 tvg-id="Studio Universal" group-title="De Paga", Studio Universal 
 
 #EXTINF:-1 tvg-id="UniversalTV.mx" group-title="De Paga", Universal Channel
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1269
@@ -537,8 +533,7 @@ http://rasaiptv.com:8080/amartinez/s1stemas.13579/1255
 #EXTINF:-1 tvg-id="Paramount Channel" group-title="De Paga", Paramount 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/53938
 
-#EXTINF:-1 tvg-id="FX.sur" group-title="De Paga", FX
-http://rasaiptv.com:8080/amartinez/s1stemas.13579/1275
+
 
 #EXTINF:-1 tvg-id="Universal Premier" group-title="De Paga" , Universal Premier
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/111419
@@ -563,14 +558,6 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jm_Oh-pVHFKtZoOfSxtHM2c/ts
 
 #EXTINF:-1 tvg-id="Golden Plus" group-title="De Paga" ,Golden Plus
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jg-k7JGKU3HXd6ohcIx1cBlAjb2HTO9EOsA_1XDGzQfJ/ts
-
-
-#EXTINF:-1 tvg-id="Golden" group-title="De Paga" ,Golden
-
-#EXTINF:-1 tvg-id="Golden Edge" group-title="De Paga" , Edge
-
-
-EXTINF:-1 tvg-id="De Pelicula Plus" group-title="De Paga" , De Pelicula Plus
 
 
 
