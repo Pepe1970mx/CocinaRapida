@@ -113,11 +113,6 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0joeqXy6uoR0jVUY6hj5_JJ2x4IxVSu_
 #EXTINF:-1 tvg-id="" group-title="Comedia" , Los Simpsons
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0joeqXy6uoR0jVUY6hj5_JJ1bVV-T8rB4oZzikYFswlVx/ts
 
-
-
-
-
-
 EXTINF:-1 tvg-id="Azteca Clic" group-title="VARIEDADES" , Az Clic
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6469502df73356567a64ce8e.m3u8
 
@@ -165,6 +160,9 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="gt#teleonce-canal-11" group-title="ENTRETENIMIENTO", Canal 11 - Teleonce
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jmVIm-jgyf5NB2VdyT1mHqHNkU0NRgLs3KUwLdyFpeoF/ts
 
+#EXTINF:-1 tvg-id"TOONCAST" group-title="ENTRETENIMIENTO" , Tooncast 
+http://rasaiptv.com:8080/amartinez/s1stemas.13579/132703
+
 #EXTINF:-1 tvg-id="gt#trecevision-canal-13" group-title="ENTRETENIMIENTO", Canal 13 - Trecevisión
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jg6LVMjEvSrPJCk3BDwx1qrAwK78R_W0FhtisbMyorWT/ts
 
@@ -189,10 +187,6 @@ https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="gt#televisiete">" group-title="ENTRETENIMIENTO" , Canal 7 - Televisiete
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-id="UnitelSantaCruz.bo" group-title="ENTRETENIMIENTO" , Unitel BO
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
@@ -575,9 +569,6 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jpZrbSzUE7Jj3X4BPJaJM98kMtHQ6VQ
 
 #EXTINF:-1 tvg-id="Disney Channel Espana" group-title="Kids", Disney Channels HD
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jpw5GZ_8GxfU_VIPGbnrtnIe10KLEqZxiPhPBGS5_i0e/ts
-
-#EXTINF:-1 tvg-id"TOONCAST" group-title="Kids" , Tooncast 
-http://rasaiptv.com:8080/amartinez/s1stemas.13579/132703
 
 #EXTINF:-1 tvg-id="645952687cb4b100084ed52e" group-title="Kids", Nickelodeon Pluto TV
 https://jmp2.uk/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
