@@ -402,8 +402,20 @@ https://jmp2.uk/PlutoTV/65cf60d166eec80008724e6f-alt.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sports", Caliente TV
 https://ythls-v3.onrender.com/channel/UCpJN_3WCOtfICbsKKxZcBsg.m3u8
 
+#EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes 
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0js3edDuHorQuAKLlon4CKsNtwvVDd0yUP93Ip1x5_xGG/ts
+
+#EXTINF:-1 tvg-id="ESPN MX" group-title="Sports", Espn HD
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0js3edDuHorQuAKLlon4CKsPsiEhUlS1TF1qXugAR5f3E/ts
+
+#EXTINF:-1 tvg-id="ESPN 2 MX" group-title="Sports", Espn 2 HD
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jtLgeD3MLad8E4781DjiTXF6GpkkZHf8xxUcasUCSGaM/ts
+
+#EXTINF:-1 tvg-id="ESPN 3 MX" group-title="Sports", Espn 3 HD
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jtLgeD3MLad8E4781DjiTXH-R5ZefYdIAzUdfaF8Zixj/ts
+
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes 
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158838
+
 
 EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" group-title="Sports", Fox sports en español
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
@@ -414,25 +426,11 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jr78-TWIHkIoVRTAeq8QkvPz6fz3zlv
 #EXTINF:-1 tvg-id="Fox Sports MX" group-title="Sports", Fox Sport HD
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jqxiA-lzsuN24U2f3M6xz-jn5sYK0BNthSk0J2jHcI99/ts
 
-
 #EXTINF:-1 tvg-id="Fox Sports 2 MX" group-title="Sports", Fox sport 2 HD
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jn6xCG-BatOD7CLI5hHOqHNzbdQpwM7dcuchcc0vF7WH/ts
 
 #EXTINF:-1 tvg-id="Fox Sports 3 MX" group-title="Sports", Fox sport 3 HD
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jn6xCG-BatOD7CLI5hHOqHO8L0e1-P70g64RRyYkiIRr/ts
-
-#EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes 
-http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158831
-
-#EXTINF:-1 tvg-id="ESPN MX" group-title="Sports", Espn HD
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jtLgeD3MLad8E4781DjiTXHURtI3PzdQ-9LX49zo0Yxo/ts
-
-#EXTINF:-1 tvg-id="ESPN 2 MX" group-title="Sports", Espn 2 HD
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jtLgeD3MLad8E4781DjiTXF6GpkkZHf8xxUcasUCSGaM/ts
-
-#EXTINF:-1 tvg-id="ESPN 3 MX" group-title="Sports", Espn 3 HD
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jtLgeD3MLad8E4781DjiTXH-R5ZefYdIAzUdfaF8Zixj/ts
-
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jkHrJgzw7vjYpheGT9oUhwGa5JVd_uitHUGbMU1gqgSi/ts
@@ -472,9 +470,6 @@ https://live.field59.com/wapa/wapa2/.m3u8
 
 #EXTINF:-1 tvg-id="64b79c057d934100080b3583" group-title="Sports", Dazn Internacional Futbol
 https://jmp2.uk/PlutoTV/64b79c057d934100080b3583-alt.m3u8
-
-#EXTINF:-1 tvg id="" group-title="Sports", Sony Sports
-https://homeip.biz/livso/index.m3u8
 
 EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network 
 
@@ -541,17 +536,15 @@ http://rasaiptv.com:8080/amartinez/s1stemas.13579/1284
 #EXTINF:-1 tvg-id="M Accion" group-title="De Paga", M+ Accion HD
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jqZlwRmkOKrlwa65Dx1q4l3T1t3TUS7P1WN13_gfKdwE/ts
 
+
 #EXTINF:-1 tvg-id="HBO" group-title="De Paga" , HBO HD
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jubADExqOZ3YBXje-1Mfgn8/ts
-
-#EXTINF:-1 tvg-id="HBO 2" group-title="De Paga" , HBO 2
-http://170.254.18.106/HBO2/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family" group-title="De Paga" , HBO Family
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jm_Oh-pVHFKtZoOfSxtHM2c/ts
 
-#EXTINF:-1 tvg-id="Golden Plus" group-title="De Paga" ,Golden Plus
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jg-k7JGKU3HXd6ohcIx1cBlAjb2HTO9EOsA_1XDGzQfJ/ts
+#EXTINF:-1 tvg-id="M Accion" group-title="De Paga", Starz Encore Family
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jugTPXVE5lhBzVqxVnBsr_CTMKbA8LerrqM92AYoVyH6/ts
 
 
 
