@@ -181,7 +181,7 @@ https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 
 
 #EXTINF:-1 tvg-id="gt#canal-3" group-title="ENTRETENIMIENTO" , Canal 3 
-
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jr78-TWIHkIoVRTAeq8QkvMJTKuLXJen0BE27v2O4e5v/ts
 
 #EXTINF:-1 tvg-id="gt#televisiete">" group-title="ENTRETENIMIENTO" , Canal 7 - Televisiete
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
