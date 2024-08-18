@@ -55,7 +55,7 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="14 de Mexico" group-title="NACIONAL" , Canal 14 
-https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
+https://s5.mexside.net:1936/canal14/ngrp:canal14_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="XHCDMTDT.mx" group-title="NACIONAL" , Capital 21
 https://video.cdmx.gob.mx/redes/stream.m3u8 
@@ -157,15 +157,18 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TCS+" group-title="ENTRETENIMIENTO" , TCS+
+https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8
+
+
 #EXTINF:-1 tvg-id="gt#teleonce-canal-11" group-title="ENTRETENIMIENTO", Canal 11 - Teleonce
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jmVIm-jgyf5NB2VdyT1mHqHNkU0NRgLs3KUwLdyFpeoF/ts
 
 #EXTINF:-1 tvg-id"TOONCAST" group-title="ENTRETENIMIENTO" , Tooncast 
-http://rasaiptv.com:8080/amartinez/s1stemas.13579/132703
+
 
 #EXTINF:-1 tvg-id="gt#trecevision-canal-13" group-title="ENTRETENIMIENTO", Canal 13 - Trecevisión
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jg6LVMjEvSrPJCk3BDwx1qrAwK78R_W0FhtisbMyorWT/ts
-
 
 #EXTINF:-1 tvg-id="ATVSur.pe" group-title="ENTRETENIMIENTO" , ATV Sur PE
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
@@ -173,17 +176,12 @@ https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" group-title="ENTRETENIMIENTO" , ATV PE
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , vision GT
-https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , Toto isiom GT
-https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
-
 #EXTINF:-1 tvg-id="VTV.hn" group-title="ENTRETENIMIENTO", VTV HN
-https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="gt#canal-3" group-title="ENTRETENIMIENTO" , Canal 3 
-https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
+
 
 #EXTINF:-1 tvg-id="gt#televisiete">" group-title="ENTRETENIMIENTO" , Canal 7 - Televisiete
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
