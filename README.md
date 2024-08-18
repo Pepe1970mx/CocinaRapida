@@ -10,8 +10,8 @@ https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa.m3u8
 #EXTINF:-1 tvg-id="646ccd3681844c000974d6f4" group-title="NACIONAL", ADN 40 
 https://jmp2.uk/PlutoTV/646ccd3681844c000974d6f4-alt.m3u8
 
-#EXTINF:-1 tvg-id="Las Estrellas" group-title="NACIONAL", Las Estrellas 4K
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjebCC6j1P0XOgxAxGm11MMnobuK59iDS9IILTSsPHZu/ts
+#EXTINF:-1 tvg-id="Las Estrellas" group-title="NACIONAL", Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" group-title="NACIONAL", Imagen TV HD
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jvGubXZ7ForYpK2yBR7LZBmpMpDfWOaj0WUwQj14LTSr/ts
