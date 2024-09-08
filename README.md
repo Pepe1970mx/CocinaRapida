@@ -40,10 +40,10 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jlJ3Y1i6GhqcltPzrJmRyWfAWg7d7eq
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-id="El Nueve" group-title="NACIONAL", El Nueve
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jrEj9jWjRkgprppMWS9rs-GoWXhV27HAgXQJrJM4AaOa/ts
+
 
 #EXTINF:-1 tvg-id="El Heraldo TV" group-title="NACIONAL" , Canal 10 Yucatan
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="TeleFormula.mx" group-title="NACIONAL" , Teleformula
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
@@ -55,7 +55,7 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="14 de Mexico" group-title="NACIONAL" , Canal 14 
-https://s5.mexside.net:1936/canal14/ngrp:canal14_all/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="XHCDMTDT.mx" group-title="NACIONAL" , Capital 21
 https://video.cdmx.gob.mx/redes/stream.m3u8 
@@ -77,7 +77,7 @@ https://a37d474b6bb9441fa17e3e1ab3d55fce.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 #EXTINF:-1 tvg-id="QuieroTV.mx" group-title="NACIONAL", QuieroTV
-https://live-b.cf.dmcdn.net/sec2(LLGs7br_N6t9kmhQB4gsiD5e_c0ML2sUNzV1OKicY4Kg8lKXR_6_77oPn5DFddFQ1q34h57F4nWopwg9wVcSE-vUoi3JNh8iFjneHKNZbT0)/dm/3/x8lng9k/s/live-4.m3u8
+
 
 #EXTINF:-1 tvg-id="MexiquenseTV.mx" group-title="NACIONAL" , Mexiquense TV 
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
@@ -148,9 +148,6 @@ https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 tvg-id="Moni TV" group-title="ENTRETENIMIENTO" , Moni TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , Aurora Film GT
-https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
-
 #EXTINF:-1 tvg-id="Frecuencia Musical TV" group-title="ENTRETENIMIENTO", FM TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
@@ -168,7 +165,7 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jmVIm-jgyf5NB2VdyT1mHqHNkU0NRgL
 
 
 #EXTINF:-1 tvg-id="gt#trecevision-canal-13" group-title="ENTRETENIMIENTO", Canal 13 - Trecevisión
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jg6LVMjEvSrPJCk3BDwx1qrAwK78R_W0FhtisbMyorWT/ts
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 
 #EXTINF:-1 tvg-id="ATVSur.pe" group-title="ENTRETENIMIENTO" , ATV Sur PE
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
@@ -177,6 +174,9 @@ https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="VTV.hn" group-title="ENTRETENIMIENTO", VTV HN
+
+#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , Trivision
+https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR
 
 
 
@@ -196,11 +196,6 @@ https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0juSeh8zJ2m4JukQIH10x2_WkKmg-IC9XcmiV1VB-nKz6/ts
 
 
-#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , Telesur CR
-https://s1.tvdatta.com:3582/live/telesurlive.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO", Canal 57 SV
-https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 
 #EXTINF:-1 tvg-id="RetroX TV" group-title="ENTRETENIMIENTO", Retro X
 https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
@@ -237,10 +232,10 @@ https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Telemundo(Spanish).us" group-title="Internacional", Telemundo 
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 
 #EXTINF:-1 tvg-id="TelemundoInternacional.mx" group-title="Internacional", Telemundo Internacional
-http://bantel.iptvperu.tv:1935/miscelaneos/telemundo.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", Universo
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jqZlwRmkOKrlwa65Dx1q4l1F5nInbrcH0z8gcGf2F8m1/ts
@@ -439,8 +434,8 @@ http://tvmate.icu:8080/Alan/Alan1234/82241
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN USA
 https://jmp2.uk/SamsungTVPlus/USBD1700016X9.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports", VIX FUTBOL 1
-https://linear-380.frequency.stream/mt/studio/380/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sports", Fubo Sport Network 
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fubo.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports", VIX FUTBOL 2
 https://linear-381.frequency.stream/mt/studio/381/hls/master/playlist.m3u8
