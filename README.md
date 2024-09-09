@@ -258,20 +258,26 @@ https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo(Spanish).us" group-title="Internacional", Telemundo 
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 
-#EXTINF:-1 tvg-id="TelemundoInternacional.mx" group-title="Internacional", Telemundo Internacional
-
+#EXTINF:-1 tvg-id="Telemundo" group-title="Internacional", Telemundo 
+http://rhsbjv7k.tvclub.xyz/iptv/YF8M7CWF2TZSDU/1080/index.m3u8
 
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", Universo
+http://rhsbjv7k.tvclub.xyz/iptv/YF8M7CWF2TZSDU/31121/index.m3u8
+
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jqZlwRmkOKrlwa65Dx1q4l1F5nInbrcH0z8gcGf2F8m1/ts
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-id="Univision" group-title="Internacional",  Univision Latino
-http://bantel.iptvperu.tv:1935/transcoder_t4/Univision_t4/playlist.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/YF8M7CWF2TZSDU/1099/index.m3u8
 
 #EXTINF:-1 tvg-id"" group-title="Internacional",  Univision 
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
+
+#EXTINF:-1 tvg-id"" group-title="Internacional", Unimas
+http://rhsbjv7k.tvclub.xyz/iptv/YF8M7CWF2TZSDU/1100/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Teleonce Univision PR
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
@@ -419,7 +425,10 @@ https://jmp2.uk/PlutoTV/65cf60d166eec80008724e6f-alt.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sports", Caliente TV
 https://ythls-v3.onrender.com/channel/UCpJN_3WCOtfICbsKKxZcBsg.m3u8
 
-#EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes 
+#EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
+http://rhsbjv7k.tvclub.xyz/iptv/YF8M7CWF2TZSDU/30063/index.m3u8
+
+
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0js3edDuHorQuAKLlon4CKsNtwvVDd0yUP93Ip1x5_xGG/ts
 
 #EXTINF:-1 tvg-id="ESPN MX" group-title="Sports", Espn HD
@@ -432,7 +441,7 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jtLgeD3MLad8E4781DjiTXF6GpkkZHf
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jtLgeD3MLad8E4781DjiTXH-R5ZefYdIAzUdfaF8Zixj/ts
 
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes 
-
+http://rhsbjv7k.tvclub.xyz/iptv/YF8M7CWF2TZSDU/30075/index.m3u8
 
 EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" group-title="Sports", Fox sports en español
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
@@ -453,6 +462,8 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jn6xCG-BatOD7CLI5hHOqHO8L0e1-P7
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jkHrJgzw7vjYpheGT9oUhwGa5JVd_uitHUGbMU1gqgSi/ts
 
 #EXTINF:-1 tvg-id="TUDN.us" group-title="Sports", TUDN USA
+http://rhsbjv7k.tvclub.xyz/iptv/YF8M7CWF2TZSDU/31103/index.m3u8
+
 http://tvmate.icu:8080/Alan/Alan1234/82241
 
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN USA
@@ -461,8 +472,8 @@ https://jmp2.uk/SamsungTVPlus/USBD1700016X9.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sports", Fubo Sport Network 
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fubo.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports", VIX FUTBOL 2
-https://linear-381.frequency.stream/mt/studio/381/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sports", Movistar Liga de Campeones
+http://rhsbjv7k.tvclub.xyz/iptv/YF8M7CWF2TZSDU/6074/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports", VIX FUTBOL 3
 https://linear-383.frequency.stream/mt/studio/383/hls/master/playlist.m3u8
@@ -551,7 +562,7 @@ http://rasaiptv.com:8080/amartinez/s1stemas.13579/1284
 
 
 #EXTINF:-1 tvg-id="M Accion" group-title="De Paga", M+ Accion HD
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jqZlwRmkOKrlwa65Dx1q4l3T1t3TUS7P1WN13_gfKdwE/ts
+http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/7065/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO" group-title="De Paga" , HBO HD
