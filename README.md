@@ -114,6 +114,23 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0joeqXy6uoR0jVUY6hj5_JJ2x4IxVSu_
 #EXTINF:-1 tvg-id="" group-title="Comedia" , Los Simpsons
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0joeqXy6uoR0jVUY6hj5_JJ1bVV-T8rB4oZzikYFswlVx/ts
 
+#EXTINF:-1 tvg-id="" group-title="Comedia" , Don Gato
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jpw5GZ_8GxfU_VIPGbnrtnIsziJId4vsfAJqc_5x50LE/ts
+
+#EXTINF:-1 tvg-id="" group-title="Comedia" , La Pantera Rosa 
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0ju64O3WUXNFYMymwbD8udx7tskxIRSd1s3iny8t9Vsj1/ts
+
+
+#EXTINF:-1 tvg-id="" group-title="Comedia" , La casa de Mickey Mouse 
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jpw5GZ_8GxfU_VIPGbnrtnKyGxoaKGVMM4vPASCIQ1Ok/ts
+
+#EXTINF:-1 tvg-id="" group-title="Comedia" , Marvel
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0joeqXy6uoR0jVUY6hj5_JJ1XXCaj1biJp-PyXqmYQZz-/ts
+
+
+
+
+
 EXTINF:-1 tvg-id="Azteca Clic" group-title="VARIEDADES" , Az Clic
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6469502df73356567a64ce8e.m3u8
 
