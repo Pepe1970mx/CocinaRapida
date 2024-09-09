@@ -23,7 +23,7 @@ EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 
 #EXTINF:-1 tvg-id="Canal 5" group-title="NACIONAL", Canal 5
-http://45.228.234.167:8000/play/a0ll/index.m3u8
+https://7.tutl24.xyz/live/ST0f01a5ddb6d6e42.m3u8
 
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 MX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
