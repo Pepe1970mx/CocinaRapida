@@ -53,10 +53,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 #EXTINF:-1 tvg-id="Canal Once" group-title="NACIONAL", Canal Once
-https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b1431072.m3u8
 
 #EXTINF:-1 tvg-id="14 de Mexico" group-title="NACIONAL" , Canal 14 
-
+https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="XHCDMTDT.mx" group-title="NACIONAL" , Capital 21
 https://video.cdmx.gob.mx/redes/stream.m3u8 
@@ -66,6 +66,12 @@ https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MX NUESTRO CINE" group-title="NACIONAL" , CANAL 22.2 MX Nuestro Cine
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV UNAM" group-title="NACIONAL" , TV UNAM
+https://s5.mexside.net:1936/tvunam/tvunam/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal del Congreso" group-title="NACIONAL" , Canal del Congreso
+
 
 #EXTINF:-1 tvg-id="I503.36479.schedulesdirect.org" group-title="NACIONAL", Radio y Television de Veracruz (RTV) 
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
@@ -146,16 +152,16 @@ https://i.mjh.nz/SamsungTVPlus/ESBD1300004IG.m3u8
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
 
 #EXTINF:-1 tvg-id="DWDeutschPlus.de" group-title="NOTICIAS", DW Español 
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="gt#russia-today-hd" group-title="NOTICIAS", Russia Today  
+#EXTINF:-1 tvg-id="gt#russia-today-hd" group-title="NOTICIAS", Russia Today 
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 
 #EXTINF:-1 tvg-id="619d59b7cbef25000728221c" group-title="NOTICIAS", EuroNews en español 
 https://jmp2.uk/PlutoTV/619d59b7cbef25000728221c-alt.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="NOTICIAS", France Español 
-https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+https://s5.mexside.net:1936/france24/france24/playlist.m3u8
 
 #EXTINF:-1 tvg-id"CNN en Español" group-title="NOTICIAS" , CNN en Español 
 
