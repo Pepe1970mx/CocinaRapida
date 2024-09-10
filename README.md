@@ -55,6 +55,10 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 tvg-id="Canal Once" group-title="NACIONAL", Canal Once
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b1431072.m3u8
 
+#EXTINF:-1 tvg-id="Canal Once" group-title="NACIONAL", Canal 13
+https://207963.global.ssl.fastly.net/65313d270e749722b6474684/live_9ada1d70dfbe11eeabd66ba1b9ba93a1/tracks-v1/index.fmp4.m3u8
+
+
 #EXTINF:-1 tvg-id="14 de Mexico" group-title="NACIONAL" , Canal 14 
 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 
