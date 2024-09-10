@@ -178,7 +178,7 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TCS+" group-title="ENTRETENIMIENTO" , TCS+
+#EXTINF:-1 tvg-id="VTV" group-title="ENTRETENIMIENTO" , TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8
 
 
