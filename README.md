@@ -75,7 +75,7 @@ https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
 https://s5.mexside.net:1936/tvunam/tvunam/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal del Congreso" group-title="NACIONAL" , Canal del Congreso
-
+https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I503.36479.schedulesdirect.org" group-title="NACIONAL", Radio y Television de Veracruz (RTV) 
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
