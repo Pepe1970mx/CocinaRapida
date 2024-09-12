@@ -473,29 +473,20 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fubo.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sports", Movistar Liga de Campeones
 http://rhsbjv7k.tvclub.xyz/iptv/YF8M7CWF2TZSDU/6074/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports", VIX FUTBOL 3
-https://linear-383.frequency.stream/mt/studio/383/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports", VIX FUTBOL 4
-https://linear-384.frequency.stream/mt/studio/384/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports", VIX FUTBOL 4
-https://linear-386.frequency.stream/mt/studio/386/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="Sports", Amazon Prime
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0juEAqdgUEpB2Px4WlnMsn5BFaLWxRkc3yxZDTW3Xt3GA/ts
 
 #EXTINF:-1 tvg-id="63f7e3f9dff38e00082a57af" group-title="Sports", ITV Deportes
-https://jmp2.uk/PlutoTV/63f7e3f9dff38e00082a57af-alt.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0"  group-title="Sports", AyM sports
-https://jmp2.uk/Plex/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 
 #EXTINF:-1 tvg-id="WAPADT2.pr" group-title="Sports", Wapa Deportes
 https://live.field59.com/wapa/wapa2/.m3u8
 
 #EXTINF:-1 tvg-id="64b79c057d934100080b3583" group-title="Sports", Dazn Internacional Futbol
-https://jmp2.uk/PlutoTV/64b79c057d934100080b3583-alt.m3u8
+
 
 EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network 
 
