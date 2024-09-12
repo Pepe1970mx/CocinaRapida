@@ -284,7 +284,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/YF8M7CWF2TZSDU/1100/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Teleonce Univision PR
-https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
+https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJhNzk3NzdkODUwOGIzZjVhNDNjNmIyZmQ5Zjc1MzRiMSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzI2MTYzODY4LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.Qhek7u_sA0BnKfr4Q9crtqM09ktZHGXI9jk1GZqm2Rnv-x0HijgAyAo7uL3jUOTyeo_rGlSeYzqAXIGyXRioiQzGdVj89VTNjcqYYDUr-lguLxqHL59jov-PuctHO_Vxhx6tM3jfm2x3N5SQDHuEXUgWHDy4umwblY59X4wnPDKvLG_pmBiFL3AQPI5lxwklFyh9knxqT7ZFxDw4D8gsVwTVgeYJ46iRdA89FEOZJUeOjyGtuR1BCbTkOCmslXS06JRwXSIqcuL_xcCH9lbNWT5fSAytBKk3UoRh5V2xFt7bN1nV445kkejsQ6htlAhnj-TsqdKhKHRebcIJp3Uw_Q/manifest/video.m3u8?CMCD=cid%3D%221726120667930%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22c5cfaece-5d05-404b-b096-298706709426%22%2Csu
 
 EXTINF:-1 tvg-id="USBA300040WR" group-title="Internacional", ESTRELLA TV
 https://jmp2.uk/SamsungTVPlus/USBA300040WR.m3u8
@@ -411,17 +411,11 @@ EXTINF:-1 tvg-id="Canal Telesistema 11 (República Dominicana).do" group-title="
 #EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" group-title="Sports", beIN Sport Xtra en Español
 https://jmp2.uk/PlutoTV/60492fdd9989d30007ccd30a-alt.m3u8
 
-#EXTINF:-1 tvg-id="6320d2755e54db000783fd87" group-title="Sports", Claro Sports México 
-https://dai.google.com/linear/hls/event/NHe1sutaROeLlaDlLvF4-g/master.m3u8
+#EXTINF:-1 tvg-id="6320d2755e54db000783fd87" group-title="Sports", Claro Sports México
+https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Claro Sports 2
 https://pubads.g.doubleclick.net/ssai/event/erhZGvvqQdmR8xTfFO3MZw/master.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports", Claro Sports 3
-https://pubads.g.doubleclick.net/ssai/event/6DSQ8CGURXew6V-oYhN27Q/master.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports", Claro Sports 4
-https://pubads.g.doubleclick.net/ssai/event/UDhGuB7fSvuKDebY72_m_Q/master.m3u8
 
 #EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" group-title="Sports", Azteca Deportes Premium
 https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=310a09e6-6fd5-11ef-b1af-be21e08b28a0
