@@ -418,10 +418,12 @@ EXTINF:-1 tvg-id="Canal Telesistema 11 (República Dominicana).do" group-title="
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,beIN-Espanol.m3u8
 
 #EXTINF:-1 tvg-id="6320d2755e54db000783fd87" group-title="Sports", Claro Sports México
+https://stitcher.pluto.tv/stitch/hls/channel/6320d2755e54db000783fd87/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=3e2af7c6-74cf-11ef-994c-9ab454f98136
+
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Claro Sports 2
-https://pubads.g.doubleclick.net/ssai/event/erhZGvvqQdmR8xTfFO3MZw/master.m3u8
+
 
 #EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" group-title="Sports", Azteca Deportes Premium
 https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=310a09e6-6fd5-11ef-b1af-be21e08b28a0
@@ -430,8 +432,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u
 https://ythls-v3.onrender.com/channel/UCpJN_3WCOtfICbsKKxZcBsg.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
-http://rhsbjv7k.tvclub.xyz/iptv/YF8M7CWF2TZSDU/30063/index.m3u8
-
+http://ueigcgls.otttv.pw/iptv/W48F7L8HA9DPEZ/30063/index.m3u8
 
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0js3edDuHorQuAKLlon4CKsNtwvVDd0yUP93Ip1x5_xGG/ts
 
@@ -445,7 +446,7 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jtLgeD3MLad8E4781DjiTXF6GpkkZHf
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jtLgeD3MLad8E4781DjiTXH-R5ZefYdIAzUdfaF8Zixj/ts
 
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes 
-http://rhsbjv7k.tvclub.xyz/iptv/YF8M7CWF2TZSDU/30075/index.m3u8
+http://ueigcgls.otttv.pw/iptv/W48F7L8HA9DPEZ/30075/index.m3u8
 
 EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" group-title="Sports", Fox sports en español
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
@@ -477,10 +478,10 @@ https://jmp2.uk/SamsungTVPlus/USBD1700016X9.m3u8
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fubo.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Movistar Liga de Campeones
-http://rhsbjv7k.tvclub.xyz/iptv/YF8M7CWF2TZSDU/6074/index.m3u8
+http://3bca4210.rossteleccom.net/iptv/EZHVRPF8TL2RPK/6074/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Amazon Prime
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0juEAqdgUEpB2Px4WlnMsn5BFaLWxRkc3yxZDTW3Xt3GA/ts
+
 
 #EXTINF:-1 tvg-id="63f7e3f9dff38e00082a57af" group-title="Sports", ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
