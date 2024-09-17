@@ -19,6 +19,7 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jvGubXZ7ForYpK2yBR7LZBmpMpDfWOa
 
 EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
 
+
 #EXTINF:-1 tvg-id="Foro TV" group-title="NACIONAL", Foro TV 
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 
@@ -105,10 +106,10 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" group-title="Drama" , Pluto TV Series Latinas
-https://jmp2.uk/PlutoTV/5dd837642c6e9300098ad484-alt.m3u8
+https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=310a09e6-6fd5-11ef-b1af-be21e08b28a0
 
 #EXTINF:-1 tvg-id="USBD2700004ME" group-title="Drama" , Como Dice el Dicho 
-https://jmp2.uk/SamsungTVPlus/USBD2700004ME.m3u8
+
 
 
 
@@ -170,6 +171,9 @@ https://s5.mexside.net:1936/france24/france24/playlist.m3u8
 #EXTINF:-1 tvg-id"CNN en Español" group-title="NOTICIAS" , CNN en Español 
 
 
+
+
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
 
@@ -185,6 +189,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="VTV" group-title="ENTRETENIMIENTO" , TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , Pluto TV Series de acción
+https://stitcher.pluto.tv/stitch/hls/channel/6479ff1c17f5e10008ad2797/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=310a09e6-6fd5-11ef-b1af-be21e08b28a0
 
 #EXTINF:-1 tvg-id="gt#teleonce-canal-11" group-title="ENTRETENIMIENTO", Canal 11 - Teleonce
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jmVIm-jgyf5NB2VdyT1mHqHNkU0NRgLs3KUwLdyFpeoF/ts
@@ -562,6 +568,10 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jm_Oh-pVHFKtZoOfSxtHM2c/ts
 
 #EXTINF:-1 tvg-id="M Accion" group-title="De Paga", Starz Encore Family
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jugTPXVE5lhBzVqxVnBsr_CTMKbA8LerrqM92AYoVyH6/ts
+
+
+
+
 
 
 
