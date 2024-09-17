@@ -561,14 +561,17 @@ http://rasaiptv.com:8080/amartinez/s1stemas.13579/1284
 http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/7065/index.m3u8
 
 
-#EXTINF:-1 tvg-id="HBO" group-title="De Paga" , HBO HD
+#EXTINF:-1 tvg-id="HBO Latino" group-title="De Paga" , HBO Latino
+http://pro.royal8080.com:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=270276&extension=ts
+
+#EXTINF:-1 tvg-id="HBO" group-title="De Paga" , HBO 
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jubADExqOZ3YBXje-1Mfgn8/ts
 
 #EXTINF:-1 tvg-id="HBO Family" group-title="De Paga" , HBO Family
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jm_Oh-pVHFKtZoOfSxtHM2c/ts
 
-#EXTINF:-1 tvg-id="M Accion" group-title="De Paga", Starz Encore Family
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jugTPXVE5lhBzVqxVnBsr_CTMKbA8LerrqM92AYoVyH6/ts
+#EXTINF:-1 tvg-id="" group-title="De Paga", Starz Encore En español
+http://645singleplayerserver04.access.ly:8080/live/play/VkZSUU4wNWpTMjB2Vkd0MlNVOTNXRkpoVkZGTGJXcFBReTl3T0VWcGRFMUtNV054T1ZBMWQzRmhiejA9/270197&playext=270197.ts
 
 
 
