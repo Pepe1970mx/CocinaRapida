@@ -771,7 +771,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/6977/index.m3u8
 
 
 #EXTINF:-1 tvg-id="6076cd1df8576d0007c82193" group-title="Retro Music", VH1 Classic
-
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jinOrOfJYH2FNVyXzjigPktA9eLNVHrZt-zUBId5zxOD/ts
 
 #EXTINF:-1 tvg-id="635bfb89b5cd9b0007ca9d63" group-title="Retro Music", MTV Classic
 http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/19148/index.m3u8
