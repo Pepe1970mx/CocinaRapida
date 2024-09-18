@@ -286,7 +286,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/YF8M7CWF2TZSDU/1099/index.m3u8
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
 
 #EXTINF:-1 tvg-id"" group-title="Internacional", Unimas
-http://rhsbjv7k.tvclub.xyz/iptv/YF8M7CWF2TZSDU/1100/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/1100/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Teleonce Univision PR
@@ -754,51 +754,54 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de4e0b3
 
 
 #EXTINF:-1 tvg-id="5f98471110cca20007d39f76" group-title="Retro Music", MTV Unplugged
-https://r.mjh.nz/PlutoTV/5f98471110cca20007d39f76-alt.m3u8
+
 
 
 
 #EXTINF:-1 tvg-id="6490254fd2c47c00083a5743" group-title="Retro Music", Now 80s
-https://jmp2.uk/PlutoTV/6490254fd2c47c00083a5743-alt.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/19196/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Retro Music", MTV 80's
+http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/6977/index.m3u8
 
 #EXTINF:-1 tvg-id="5fd7b8bf927e090007685853" group-title="Retro Music", Vevo '80s
-https://jmp2.uk/PlutoTV/5fd7b8bf927e090007685853-alt.m3u8
+
 
 #EXTINF:-1 tvg-id="USBB320000647" group-title="Retro Music", XITE 80s Flashback 
-https://jmp2.uk/SamsungTVPlus/USBB320000647.m3u8
+
 
 #EXTINF:-1 tvg-id="6076cd1df8576d0007c82193" group-title="Retro Music", VH1 Classic
-https://jmp2.uk/PlutoTV/6076cd1df8576d0007c82193-alt.m3u8
+
 
 #EXTINF:-1 tvg-id="635bfb89b5cd9b0007ca9d63" group-title="Retro Music", MTV Classic
-https://jmp2.uk/PlutoTV/635bfb89b5cd9b0007ca9d63-alt.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/19148/index.m3u8
 
 #EXTINF:-1 tvg-id="5fd7bb1f86d94a000796e2c2" group-title="Retro Music", Vevo 90s
-https://jmp2.uk/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
+
 
 #EXTINF:-1 tvg-id="6490254fd2c47c00083a5743" group-title="Retro Music", Now Rock
-https://jmp2.uk/PlutoTV/6568a78d635c3c0008765f41-alt.m3u8
+
 
 #EXTINF:-1 tvg-id="636a4173e34fd50007534542" group-title="Retro Music", VH1 Rock!
-https://jmp2.uk/PlutoTV/636a4173e34fd50007534542-alt.m3u8
+
 
 #EXTINF:-1 tvg-id="USBB2300004KV" group-title="Retro Music", XITE Rock on
-https://jmp2.uk/SamsungTVPlus/USBB2300004KV.m3u8
+
 
 #EXTINF:-1 tvg-id="624303598e45140007d765c1" group-title="Retro Music", MTV Rocks
-https://jmp2.uk/PlutoTV/624303598e45140007d765c1-alt.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="Retro Music", Vevo Retro Rock
-https://jmp2.uk/PlutoTV/61d4b38226b8a50007fe03a6-alt.m3u8
+
 
 #EXTINF:-1 tvg-id="65cf6adca25d5e00081d2f3f" group-title="Retro Music", MTV Hip Hop and Rap
-https://jmp2.uk/PlutoTV/65cf6adca25d5e00081d2f3f-alt.m3u8
+
 
 #EXTINF:-1 tvg-id="64c10558060e830008ed1b0a" group-title="Retro Music", Yo! MTV Raps Classic
-https://jmp2.uk/PlutoTV/64c10558060e830008ed1b0a-alt.m3u8
+
 
 #EXTINF:-1 tvg-id="61d4c2817a823d00070ba53e" group-title="Retro Music", Vevo True School Hip Hop
-https://jmp2.uk/PlutoTV/61d4c2817a823d00070ba53e-alt.m3u8
+
 
 
 
@@ -816,8 +819,8 @@ https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="15fd7bca3e0a4ee0007a38e8c" group-title="MUSIC", Vevo 2K
-
+#EXTINF:-1 tvg-id="" group-title="MUSIC", Box Hits
+http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/19175/index.m3u8
 
 #EXTINF:-1 tvg-id="CABD1200038NZ" group-title="MUSIC", XITE Hits
 
