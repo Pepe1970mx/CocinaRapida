@@ -806,38 +806,47 @@ https://jmp2.uk/PlutoTV/61d4c2817a823d00070ba53e-alt.m3u8
 #EXTINF:-1 tvg-id="" group-title="MUSIC", Mix Music Channel
 https://cdamix.streaming.ws/mixmusic/live/playlist.m3u8  
 
-#EXTINF:-1 tvg-id="15fd7bca3e0a4ee0007a38e8c" group-title="MUSIC", Vevo 2K
-https://i.mjh.nz/PlutoTV/15fd7bca3e0a4ee0007a38e8c-alt.m3u8
-
-#EXTINF:-1 tvg-id="CABD1200038NZ" group-title="MUSIC", XITE Hits
-https://i.mjh.nz/SamsungTVPlus/CABD1200038NZ.m3u8
-
-#EXTINF:-1 tvg-id="ESBA330004064" group-title="MUSIC", Free TV Hits
-https://i.mjh.nz/SamsungTVPlus/ESBA330004064.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV Live
 https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV Hits
+#EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV Live
+https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="15fd7bca3e0a4ee0007a38e8c" group-title="MUSIC", Vevo 2K
+
+
+#EXTINF:-1 tvg-id="CABD1200038NZ" group-title="MUSIC", XITE Hits
+
+
+#EXTINF:-1 tvg-id="ESBA330004064" group-title="MUSIC", Free TV Hits
+
+
+
+
 #EXTINF:-1 tvg-id="5d93b635b43dd1a399b39eee" group-title="MUSIC", Vevo Pop
-https://i.mjh.nz/PlutoTV/5d93b635b43dd1a399b39eee-alt.m3u8
+
 
 #EXTINF:-1 tvg-id="5d14fd1a252d35decbc4080c" group-title="MUSIC", MTV Biggest pop
-https://r.mjh.nz/PlutoTV/5d14fd1a252d35decbc4080c-alt.m3u8
+
 
 #EXTINF:-1 tvg-id="61ea759737679900078ff559" group-title="MUSIC", MTV Party Musica 
-https://i.mjh.nz/PlutoTV/61ea759737679900078ff559-alt.m3u8
+
 
 #EXTINF:-1 tvg-id="638f2d9aa530b200072ec8ef" group-title="MUSIC", MTV Love Music
-https://i.mjh.nz/PlutoTV/638f2d9aa530b200072ec8ef-alt.m3u8
+
 
 #EXTINF:-1 tvg-logo="64d161c93c785e0008df575e" group-title="MUSIC", Vevo Iconos Latinos
-https://r.mjh.nz/PlutoTV/64d161c93c785e0008df575e-alt.m3u8
+
 
 #EXTINF:-1 tvg-id="USBD3300007PB" group-title="MUSIC", XITE Nuevo Latino
-https://i.mjh.nz/SamsungTVPlus/USBD3300007PB.m3u8
+
 
 #EXTINF:-1 tvg-id="5da0d64d0e8a62000964ebe4" group-title="MUSIC", Vevo Latino
-https://i.mjh.nz/PlutoTV/5da0d64d0e8a62000964ebe4-alt.m3u8 
+ 
 
 
 
