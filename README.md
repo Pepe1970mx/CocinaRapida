@@ -293,7 +293,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/1100/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Teleonce Univision PR
-https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJhNzk3NzdkODUwOGIzZjVhNDNjNmIyZmQ5Zjc1MzRiMSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzI2MTYzODY4LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.Qhek7u_sA0BnKfr4Q9crtqM09ktZHGXI9jk1GZqm2Rnv-x0HijgAyAo7uL3jUOTyeo_rGlSeYzqAXIGyXRioiQzGdVj89VTNjcqYYDUr-lguLxqHL59jov-PuctHO_Vxhx6tM3jfm2x3N5SQDHuEXUgWHDy4umwblY59X4wnPDKvLG_pmBiFL3AQPI5lxwklFyh9knxqT7ZFxDw4D8gsVwTVgeYJ46iRdA89FEOZJUeOjyGtuR1BCbTkOCmslXS06JRwXSIqcuL_xcCH9lbNWT5fSAytBKk3UoRh5V2xFt7bN1nV445kkejsQ6htlAhnj-TsqdKhKHRebcIJp3Uw_Q/manifest/video.m3u8?CMCD=cid%3D%221726120667930%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22c5cfaece-5d05-404b-b096-298706709426%22%2Csu
 
 EXTINF:-1 tvg-id="USBA300040WR" group-title="Internacional", ESTRELLA TV
 https://jmp2.uk/SamsungTVPlus/USBA300040WR.m3u8
@@ -302,10 +301,10 @@ EXTINF:-1  tvg-id="WAPA TV"  group-title="Internacional" , Wapa
 https://live.field59.com/wapa/wapa1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESBC4100001NZ" group-title="Internacional" , La 1 ES
-https://jmp2.uk/SamsungTVPlus/ESBC4100001NZ.m3u8
+
 
 #EXTINF:-1 tvg-id="ESBC4100002AG" group-title="Internacional" , La 2 ES
-https://jmp2.uk/SamsungTVPlus/ESBC4100002AG.m3u8
+
 
 #EXTINF:-1 tvg-id="Canal2.sv" group-title="Internacional", Canal 2 SV
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jllP4u1vzGBg-dWPh5dNBh7t1rTaZEh-NXTGakBtPUvP/ts
@@ -816,8 +815,10 @@ https://cdamix.streaming.ws/mixmusic/live/playlist.m3u8
 https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV Hits
+http://1.1usd.tv:34000/ch019/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPYJWg5-XvGV1grldK-u_7Z6TNIJd95AgbvPjxHfe8BQ
+
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV Live
-https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+
 
 
 
