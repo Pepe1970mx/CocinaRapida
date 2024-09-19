@@ -56,7 +56,7 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 tvg-id="Canal Once" group-title="NACIONAL", Canal Once
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b1431072.m3u8
 
-#EXTINF:-1 tvg-id="Canal Once" group-title="NACIONAL", Canal 13
+#EXTINF:-1 tvg-id="" group-title="NACIONAL", Canal 13
 https://207963.global.ssl.fastly.net/65313d270e749722b6474684/live_9ada1d70dfbe11eeabd66ba1b9ba93a1/tracks-v1/index.fmp4.m3u8
 
 
@@ -276,8 +276,11 @@ http://rhsbjv7k.tvclub.xyz/iptv/YF8M7CWF2TZSDU/31121/index.m3u8
 
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jqZlwRmkOKrlwa65Dx1q4l1F5nInbrcH0z8gcGf2F8m1/ts
 
-#EXTINF:-1 tvg-id="" group-title="Internacional", Telemundo PR
+#EXTINF:-1 tvg-id="Telemundo Puerto Rico" group-title="Internacional", Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-id="Punto 2" group-title="Internacional", Punto2
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
 #EXTINF:-1 tvg-id="Univision" group-title="Internacional",  Univision Latino
 http://rhsbjv7k.tvclub.xyz/iptv/YF8M7CWF2TZSDU/1099/index.m3u8
