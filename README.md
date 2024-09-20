@@ -9,7 +9,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa.m3u8
 
 #EXTINF:-1 tvg-id="646ccd3681844c000974d6f4" group-title="NACIONAL", ADN 40 
-https://us-b4-p-e-ja16.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/ajJQI39aQd69Omr0hRZw9Q/stream/048837c7-fa5e-43b9-883d-93962025756f:CHS/master.m3u8?aid=5fea0f3673148d5d52cf6a76&adInsertionGoogleStreamId=048837c7-fa5e-43b9-883d-93962025756f%3ACHS&pid=E9uFUWH25dVjvDaG2qOhr361tz0YZdAz&sid=pUJwoO8Xxp0uObjjwFGICuuDOVdTEEwV&uid=i1hP3PLf6qAOxNEM6Psew4fz61EMI2pn&es=us-b4-p-e-ja16.cdn.mdstrm.com&ote=1726930220222&ot=P-viX9-zSKLfC7xLRplVrw&proto=https&pz=us
+https://us-b4-p-e-pb13.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/ajJQI39aQd69Omr0hRZw9Q/stream/b7534f19-2b14-4a7e-bb56-904bf55f0a4e:CHS/master.m3u8?aid=5fea0f3673148d5d52cf6a76&adInsertionGoogleStreamId=b7534f19-2b14-4a7e-bb56-904bf55f0a4e%3ACHS&pid=2UlrMhbd6k9NTZs1TaRJYhM76vCNcnwF&sid=pUJwoO8Xxp0uObjjwFGICuuDOVdTEEwV&uid=i1hP3PLf6qAOxNEM6Psew4fz61EMI2pn&es=us-b4-p-e-pb13.cdn.mdstrm.com&ote=1726930716278&ot=fhGux9TbA2cXPh4t2a-l1w&proto=https&pz=us
 
 
 #EXTINF:-1 tvg-id="Las Estrellas" group-title="NACIONAL", Las Estrellas
