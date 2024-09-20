@@ -9,7 +9,8 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa.m3u8
 
 #EXTINF:-1 tvg-id="646ccd3681844c000974d6f4" group-title="NACIONAL", ADN 40 
-https://jmp2.uk/PlutoTV/646ccd3681844c000974d6f4-alt.m3u8
+https://us-b4-p-e-ja16.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/ajJQI39aQd69Omr0hRZw9Q/stream/048837c7-fa5e-43b9-883d-93962025756f:CHS/master.m3u8?aid=5fea0f3673148d5d52cf6a76&adInsertionGoogleStreamId=048837c7-fa5e-43b9-883d-93962025756f%3ACHS&pid=E9uFUWH25dVjvDaG2qOhr361tz0YZdAz&sid=pUJwoO8Xxp0uObjjwFGICuuDOVdTEEwV&uid=i1hP3PLf6qAOxNEM6Psew4fz61EMI2pn&es=us-b4-p-e-ja16.cdn.mdstrm.com&ote=1726930220222&ot=P-viX9-zSKLfC7xLRplVrw&proto=https&pz=us
+
 
 #EXTINF:-1 tvg-id="Las Estrellas" group-title="NACIONAL", Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
@@ -21,7 +22,7 @@ EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
 
 
 #EXTINF:-1 tvg-id="Foro TV" group-title="NACIONAL", Foro TV 
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
+https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8?hdnea=exp=1726844564~acl=/*~hmac=f917ac826c2cde6b402b13e820bde379f271f48eb4670c453418adfc8c62a27e
 
 #EXTINF:-1 tvg-id="Canal 5" group-title="NACIONAL", Canal 5
 https://7.tutl24.xyz/live/ST0f01a5ddb6d6e42.m3u8
