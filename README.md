@@ -528,7 +528,7 @@ https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 
 
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjUuVY4Yb_DHgzsx8PMu2abW2Ukfa6Xi4BUhJP7jViiA/ts
+
 
 #EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT HD
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jqUq8NQL54Z2-Qo3FO0ba496oIFICocpL64xQrx1xj-v/ts
@@ -543,7 +543,7 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jsGLvTjbGOq5Fm5s_t5SK0LCfavnmyH
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jvgMOFXYrQUbb4i5mzRPIdLAmjWg5ANSpyZKIJuCVp_0/ts
 
 #EXTINF:-1 tvg-id="Sony" group-title="De Paga", Sony Channels 
-http://234879402770776736.otjb0606.xyz:80/live/me429904/MRhGbCGGEP/776736.ts
+http://rasaiptv.com:8080/amartinez/s1stemas.13579/1263
 
 #EXTINF:-1 tvg-id="UniversalTV.mx" group-title="De Paga", Universal Channel
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1269
@@ -579,7 +579,7 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jubADExqOZ3YBXje-1Mfgn8/ts
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jm_Oh-pVHFKtZoOfSxtHM2c/ts
 
 #EXTINF:-1 tvg-id="" group-title="De Paga", Starz Encore En español
-http://645singleplayerserver04.access.ly:8080/live/play/VkZSUU4wNWpTMjB2Vkd0MlNVOTNXRkpoVkZGTGJXcFBReTl3T0VWcGRFMUtNV054T1ZBMWQzRmhiejA9/270197&playext=270197.ts
+t=270197.ts
 
 
 
