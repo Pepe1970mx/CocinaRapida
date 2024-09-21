@@ -112,10 +112,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u
 #EXTINF:-1 tvg-id="USBD2700004ME" group-title="Drama" , Como Dice el Dicho 
 
 
-
-
 #EXTINF:-1 tvg-id="USBC2100010OS" group-title="Comedia" , ViX Jajaja 
-https://jmp2.uk/SamsungTVPlus/USBC2100010OS.m3u8
+
 
 #EXTINF:-1 tvg-id="Distrito Comedia" group-title="Comedia" , Distrito Comedia
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jlJ3Y1i6GhqcltPzrJmRyWdYk2xOMFxoFl2rXMOdqgYX/ts
@@ -132,7 +130,6 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jpw5GZ_8GxfU_VIPGbnrtnIsziJId4v
 #EXTINF:-1 tvg-id="" group-title="Comedia" , La Pantera Rosa 
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0ju64O3WUXNFYMymwbD8udx7tskxIRSd1s3iny8t9Vsj1/ts
 
-
 #EXTINF:-1 tvg-id="" group-title="Comedia" , La casa de Mickey Mouse 
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jpw5GZ_8GxfU_VIPGbnrtnKyGxoaKGVMM4vPASCIQ1Ok/ts
 
@@ -140,17 +137,14 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jpw5GZ_8GxfU_VIPGbnrtnKyGxoaKGV
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0joeqXy6uoR0jVUY6hj5_JJ1XXCaj1biJp-PyXqmYQZz-/ts
 
 
-
-
-
 EXTINF:-1 tvg-id="Azteca Clic" group-title="VARIEDADES" , Az Clic
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6469502df73356567a64ce8e.m3u8
+
 
 EXTINF:-1 tvg-id="Azteca Corazon" group-title="VARIEDADES" , Az Corazón
-https://i.mjh.nz/SamsungTVPlus/ESBD1300003VN.m3u8
+
 
 EXTINF:-1 tvg-id="Azteca Mundo" group-title="VARIEDADES" , Azteca Internacional
-https://i.mjh.nz/SamsungTVPlus/ESBD1300004IG.m3u8
+
 
 
 
@@ -440,7 +434,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u
 https://m.youtube.com/watch?v=Rbx2ORqC64E
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
-http://ueigcgls.otttv.pw/iptv/W48F7L8HA9DPEZ/30063/index.m3u8
+http://supersonictv.live:8080/329474/903964/22222
 
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0js3edDuHorQuAKLlon4CKsNtwvVDd0yUP93Ip1x5_xGG/ts
 
@@ -454,7 +448,7 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jtLgeD3MLad8E4781DjiTXF6GpkkZHf
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jtLgeD3MLad8E4781DjiTXH-R5ZefYdIAzUdfaF8Zixj/ts
 
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes 
-http://ueigcgls.otttv.pw/iptv/W48F7L8HA9DPEZ/30075/index.m3u8
+
 
 EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" group-title="Sports", Fox sports en español
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
