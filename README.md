@@ -1,4 +1,4 @@
-#EXTM3U 
+de#EXTM3U 
 x-tvg-url=""
 
 #EXTINF:-1 tvg-id="Azteca Uno" group-title="NACIONAL", Azteca Uno
@@ -475,17 +475,12 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jn6xCG-BatOD7CLI5hHOqHO8L0e1-P7
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jkHrJgzw7vjYpheGT9oUhwGa5JVd_uitHUGbMU1gqgSi/ts
 
 #EXTINF:-1 tvg-id="TUDN.us" group-title="Sports", TUDN USA
-http://rhsbjv7k.tvclub.xyz/iptv/YF8M7CWF2TZSDU/31103/index.m3u8
-
 http://tvmate.icu:8080/Alan/Alan1234/82241
 
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN USA
-https://jmp2.uk/SamsungTVPlus/USBD1700016X9.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Futbol Network 
 https://live.relentlessinnovations.net:1936/futbolnetwork/futbolnetwork/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Fubo Sport Network 
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fubo.m3u8
