@@ -766,17 +766,28 @@ http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/19196/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Retro Music", MTV 80's
 http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/6977/index.m3u8
 
+#EXTINF:-1 tvg-id="6076cd1df8576d0007c82193" group-title="Retro Music", VH1 Classic
+http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jinOrOfJYH2FNVyXzjigPktA9eLNVHrZt-zUBId5zxOD/ts
+
+#EXTINF:-1 tvg-id="635bfb89b5cd9b0007ca9d63" group-title="Retro Music", MTV Classic
+http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/19148/index.m3u8
+
+#EXTINF:-1 tvg-id=" " group-title="Retro Music", Retro Music TV
+http://881166186915276235.ofd0711.xyz:80/play/JC8L3TCSVE/GJrYUvREHSY/276235.ts
+
+#EXTINF:-1 tvg-id=" " group-title="Retro Music", BET Jams
+http://823791426715915613.ofgd919.xyz:80/play/vi120237/kpmkHcrCj@/915613.ts
+
+
 #EXTINF:-1 tvg-id="5fd7b8bf927e090007685853" group-title="Retro Music", Vevo '80s
 
 
 #EXTINF:-1 tvg-id="USBB320000647" group-title="Retro Music", XITE 80s Flashback 
 
 
-#EXTINF:-1 tvg-id="6076cd1df8576d0007c82193" group-title="Retro Music", VH1 Classic
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jinOrOfJYH2FNVyXzjigPktA9eLNVHrZt-zUBId5zxOD/ts
 
-#EXTINF:-1 tvg-id="635bfb89b5cd9b0007ca9d63" group-title="Retro Music", MTV Classic
-http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/19148/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="5fd7bb1f86d94a000796e2c2" group-title="Retro Music", Vevo 90s
 
