@@ -772,6 +772,9 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jinOrOfJYH2FNVyXzjigPktA9eLNVHr
 #EXTINF:-1 tvg-id="635bfb89b5cd9b0007ca9d63" group-title="Retro Music", MTV Classic
 http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/19148/index.m3u8
 
+#EXTINF:-1 tvg-id=" " group-title="Retro Music", MTV U
+http://823791426715912170.ofgd919.xyz:80/play/vi120237/kpmkHcrCj@/912170.ts
+
 #EXTINF:-1 tvg-id=" " group-title="Retro Music", Retro Music TV
 http://881166186915276235.ofd0711.xyz:80/play/JC8L3TCSVE/GJrYUvREHSY/276235.ts
 
