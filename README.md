@@ -211,8 +211,8 @@ https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="VTV.hn" group-title="ENTRETENIMIENTO", VTV HN
 
-#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , Trivision
-https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , Centro+
+https://cloud2.streaminglivehd.com:1936/8004/8004/.m3u8
 
 
 
