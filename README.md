@@ -480,7 +480,7 @@ https://live.relentlessinnovations.net:1936/futbolnetwork/futbolnetwork/playlist
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fubo.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Movistar Liga de Campeones
-http://3bca4210.rossteleccom.net/iptv/EZHVRPF8TL2RPK/6074/index.m3u8
+http://8493be36.rossteleccom.net/iptv/6W8YX9A5QGGYCV/6074/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Movistar La Liga
 http://823791426715165392.ofgd919.xyz:80/play/vi120237/kpmkHcrCj@/165392.ts
