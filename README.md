@@ -302,10 +302,29 @@ https://jmp2.uk/SamsungTVPlus/USBA300040WR.m3u8
 EXTINF:-1  tvg-id="WAPA TV"  group-title="Internacional" , Wapa
 https://live.field59.com/wapa/wapa1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESBC4100001NZ" group-title="Internacional" , La 1 ES
 
 
-#EXTINF:-1 tvg-id="ESBC4100002AG" group-title="Internacional" , La 2 ES
+
+
+#EXTINF:-1 tvg-id="ESBC4100001NZ" group-title="España" , La 1 ES
+
+
+#EXTINF:-1 tvg-id="ESBC4100002AG" group-title="España" , La 2 ES
+
+
+#EXTINF:-1 tvg-id="Disney Channel" group-title="España" , Disney Channel
+http://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:21_HD.smil/.m3u8
+
+#EXTINF:-1 tvg-id="M Accion" group-title="España", M+ Accion HD
+http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/7065/index.m3u8
+
+#EXTINF:-1 tvg-id="M Estrenos" group-title="España", M Estrenos
+http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/6078/index.m3u8
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="Canal2.sv" group-title="Internacional", Canal 2 SV
@@ -562,11 +581,7 @@ http://rasaiptv.com:8080/amartinez/s1stemas.13579/1284
 #EXTINF:-1 tvg-id="Golden Premier" group-title="De Paga" ,Golden Premier 
 
 
-#EXTINF:-1 tvg-id="M Accion" group-title="De Paga", M+ Accion HD
-http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/7065/index.m3u8
 
-#EXTINF:-1 tvg-id="M Estrenos" group-title="De Paga", M Estrenos
-http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/6078/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO Latino" group-title="De Paga" , HBO Latino
