@@ -25,7 +25,7 @@ EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
 https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8?hdnea=exp=1726844564~acl=/*~hmac=f917ac826c2cde6b402b13e820bde379f271f48eb4670c453418adfc8c62a27e
 
 #EXTINF:-1 tvg-id="Canal 5" group-title="NACIONAL", Canal 5
-https://7.tutl24.xyz/live/ST0f01a5ddb6d6e42.m3u8
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/303782
 
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 MX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
@@ -291,7 +291,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/YF8M7CWF2TZSDU/1099/index.m3u8
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
 
 #EXTINF:-1 tvg-id"" group-title="Internacional", Unimas
-http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/1100/index.m3u8
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASEAST&calidad=sd&.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Teleonce Univision PR
@@ -311,9 +311,23 @@ https://live.field59.com/wapa/wapa1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESBC4100002AG" group-title="España" , La 2 ES
 
+#EXTINF:-1 tvg-id="La Otra" group-title="España" , La Otra
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:3_HD.smil/.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="España" ,
+
+
+#EXTINF:-1 tvg-id="" group-title="España" ,
+
+#EXTINF:-1 tvg-id="" group-title="España" ,
 
 #EXTINF:-1 tvg-id="Disney Channel" group-title="España" , Disney Channel
 http://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:21_HD.smil/.m3u8
+
+#EXTINF:-1 tvg-id="Clan" group-title="España" , Clan
+https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
+
+
 
 #EXTINF:-1 tvg-id="M Accion" group-title="España", M+ Accion HD
 http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/7065/index.m3u8
