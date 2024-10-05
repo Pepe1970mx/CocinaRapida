@@ -563,7 +563,10 @@ http://rasaiptv.com:8080/amartinez/s1stemas.13579/1284
 
 
 #EXTINF:-1 tvg-id="M Accion" group-title="De Paga", M+ Accion HD
-http://rhsbjv7k.tvclub.xyz/iptv/HBHPK9FK755LG3/7065/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/7065/index.m3u8
+
+#EXTINF:-1 tvg-id="M Estrenos" group-title="De Paga", M Estrenos
+http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/6078/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO Latino" group-title="De Paga" , HBO Latino
