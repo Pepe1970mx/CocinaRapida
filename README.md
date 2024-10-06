@@ -558,10 +558,15 @@ https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 
 
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
-
+https://streamer1.nexgen.bz/STAR/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT HD
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jqUq8NQL54Z2-Qo3FO0ba496oIFICocpL64xQrx1xj-v/ts
+
+
+#EXTINF:-1 tvg-id="Sony Cine" group-title="De Paga", Sony Cine
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="Space.sur" group-title="De Paga", Space HD
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jh4MrYJChPpsfZegZacUBfPaVAfICb-2Ft_RXBijjv3z/ts
@@ -575,15 +580,14 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jvgMOFXYrQUbb4i5mzRPIdLAmjWg5AN
 #EXTINF:-1 tvg-id="Sony" group-title="De Paga", Sony Channels 
 
 
-#EXTINF:-1 tvg-id="Sony Cine" group-title="De Paga", Sony Cine
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="UniversalTV.mx" group-title="De Paga", Universal Channel
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1269
 
 #EXTINF:-1 tvg-id="AXN" group-title="De Paga", AXN
-http://rasaiptv.com:8080/amartinez/s1stemas.13579/1255
+https://streamer1.nexgen.bz/AXN/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount Channel" group-title="De Paga", Paramount 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/53938
