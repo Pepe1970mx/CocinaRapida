@@ -4,7 +4,6 @@ x-tvg-url=""
 #EXTINF:-1 tvg-id="Azteca Uno" group-title="NACIONAL", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa" group-title="NACIONAL", Cine Oro
 
 
