@@ -104,7 +104,7 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
 
 #EXTINF:-1 tvg-id="La Rosa" group-title="Drama" , La Rosa de Guadalupe
-https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" group-title="Drama" , Pluto TV Series Latinas
 https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=310a09e6-6fd5-11ef-b1af-be21e08b28a0
@@ -116,25 +116,25 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u
 
 
 #EXTINF:-1 tvg-id="Distrito Comedia" group-title="Comedia" , Distrito Comedia
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jlJ3Y1i6GhqcltPzrJmRyWdYk2xOMFxoFl2rXMOdqgYX/ts
+
 
 #EXTINF:-1 tvg-id="" group-title="Comedia" , Chespirito
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0joeqXy6uoR0jVUY6hj5_JJ2x4IxVSu_TxFjt1FVU4N3Y/ts
+
 
 #EXTINF:-1 tvg-id="" group-title="Comedia" , Los Simpsons
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0joeqXy6uoR0jVUY6hj5_JJ1bVV-T8rB4oZzikYFswlVx/ts
+
 
 #EXTINF:-1 tvg-id="" group-title="Comedia" , Don Gato
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jpw5GZ_8GxfU_VIPGbnrtnIsziJId4vsfAJqc_5x50LE/ts
+
 
 #EXTINF:-1 tvg-id="" group-title="Comedia" , La Pantera Rosa 
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0ju64O3WUXNFYMymwbD8udx7tskxIRSd1s3iny8t9Vsj1/ts
+
 
 #EXTINF:-1 tvg-id="" group-title="Comedia" , La casa de Mickey Mouse 
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jpw5GZ_8GxfU_VIPGbnrtnKyGxoaKGVMM4vPASCIQ1Ok/ts
+
 
 #EXTINF:-1 tvg-id="" group-title="Comedia" , Marvel
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0joeqXy6uoR0jVUY6hj5_JJ1XXCaj1biJp-PyXqmYQZz-/ts
+
 
 
 EXTINF:-1 tvg-id="Azteca Clic" group-title="VARIEDADES" , Az Clic
