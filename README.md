@@ -285,7 +285,7 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASEAST&calidad=sd&.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Teleonce Univision PR
-
+https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJlYjNhNjZiOWEzNTdkZTBhNDg0Mjg1N2RhYjFlMWVkZSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzI4NjE1ODY0LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.J-FKdXPqV3cQMHPjvmVK4lDLLUiGfXl5iDYz41zh5HtURDoqj4o5KsWD5do0KdTIJl4R6tsAuyI2sD9hszWxQG68TtmVuQCgB62JVOElzNE26XMikQ1rleQ43DdoiN_KfZs5b_D5xqp9ypsXrX0Vy8JyG8WClsbdloxGZ1u6AeMk91CDRv9GxqqzklyyzwS45VR5wzrn1fCIdjVj1mfU1-pLua06LwRO5D8g4-nYOSLRALcY0PjDThNo-dfU7wxw0v6QTGv99ejiR6n0Q2qAnype5XAVUgSxJ5ECdpQUD3vWM4PIYDmrpGQt3yCeN91ghoDUT_jw7wlWGolUQvXTRQ/manifest/stream_t2_r999999999.m3u8?useVODOTFE=false&llhlsHBs=0.5&CMCD=cid%3D%221728572665373%22%2Cmtp%3D2300%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2235312da0-549b-47ce-9d5f-c1a9a59b4239%22
 
 #EXTINF:-1 tvg-id="USBA300040WR" group-title="Internacional", ESTRELLA TV
 
