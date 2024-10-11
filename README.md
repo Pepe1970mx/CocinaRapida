@@ -180,7 +180,6 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnijc/FMH_Kids/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistASTRAL
 
-
 #EXTINF:-1 tvg-id="Frecuencia Musical TV" group-title="ENTRETENIMIENTO", FM TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
@@ -190,17 +189,25 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="VTV" group-title="ENTRETENIMIENTO" , TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , Pluto TV Series de acción
+#EXTINF:-1 tvg-id="VTV.hn" group-title="ENTRETENIMIENTO", VTV HN
+https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 
+#EXTINF:-1 tvg-id="gt#canal-3" group-title="ENTRETENIMIENTO" , Canal 3 GT
+https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , Canal 3 
+https://cloud2.streaminglivehd.com:1936/8048/8048/.m3u8
+
+#EXTINF:-1 tvg-id="gt#televisiete">" group-title="ENTRETENIMIENTO" , Canal 7 - Televisiete
+https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="gt#trecevision-canal-13" group-title="ENTRETENIMIENTO", Canal 13 - Trecevisión
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 
 #EXTINF:-1 tvg-id="gt#teleonce-canal-11" group-title="ENTRETENIMIENTO", Canal 11 - Teleonce
 
 
 #EXTINF:-1 tvg-id"TOONCAST" group-title="ENTRETENIMIENTO" , Tooncast 
-
-
-#EXTINF:-1 tvg-id="gt#trecevision-canal-13" group-title="ENTRETENIMIENTO", Canal 13 - Trecevisión
-https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 
 #EXTINF:-1 tvg-id="ATVSur.pe" group-title="ENTRETENIMIENTO" , ATV Sur PE
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
@@ -208,38 +215,20 @@ https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" group-title="ENTRETENIMIENTO" , ATV PE
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="VTV.hn" group-title="ENTRETENIMIENTO", VTV HN
-https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , Centro+
-https://cloud2.streaminglivehd.com:1936/8004/8004/.m3u8
-
-
-
-#EXTINF:-1 tvg-id="gt#canal-3" group-title="ENTRETENIMIENTO" , Canal 3 
-https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-id="gt#televisiete">" group-title="ENTRETENIMIENTO" , Canal 7 - Televisiete
-https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
-
 #EXTINF:-1 tvg-id="UnitelSantaCruz.bo" group-title="ENTRETENIMIENTO" , Unitel BO
 
-
-#EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="ENTRETENIMIENTO", Ciudad Magica AR
+EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="ENTRETENIMIENTO", Ciudad Magica AR
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
-#EXTINF:-1 tvg-id="CiudadMagazine.ar" group-title="ENTRETENIMIENTO", Ciudad Magazine
+EXTINF:-1 tvg-id="CiudadMagazine.ar" group-title="ENTRETENIMIENTO", Ciudad Magazine
 
-
-
-
-#EXTINF:-1 tvg-id="RetroX TV" group-title="ENTRETENIMIENTO", Retro X
+EXTINF:-1 tvg-id="RetroX TV" group-title="ENTRETENIMIENTO", Retro X
 https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , Retro TV
+EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , Retro TV
 https://ssh101-fl.bozztv.com/ssh101/retrotvcr/index.m3u8
 
-#EXTINF:-1 tvg-id="Dreiko TV" group-title="ENTRETENIMIENTO" , Dreiko TV 
+EXTINF:-1 tvg-id="Dreiko TV" group-title="ENTRETENIMIENTO" , Dreiko TV 
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
 EXTINF:-1 tvg-id="Teleclasica" group-title="ENTRETENIMIENTO" , Teleclasica 
