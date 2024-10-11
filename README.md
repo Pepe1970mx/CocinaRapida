@@ -117,34 +117,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u
 #EXTINF:-1 tvg-id="Distrito Comedia" group-title="Comedia" , Distrito Comedia
 
 
-#EXTINF:-1 tvg-id="" group-title="Comedia" , Chespirito
-
-
-#EXTINF:-1 tvg-id="" group-title="Comedia" , Los Simpsons
-
-
-#EXTINF:-1 tvg-id="" group-title="Comedia" , Don Gato
-
-
-#EXTINF:-1 tvg-id="" group-title="Comedia" , La Pantera Rosa 
-
-
-#EXTINF:-1 tvg-id="" group-title="Comedia" , La casa de Mickey Mouse 
-
-
-#EXTINF:-1 tvg-id="" group-title="Comedia" , Marvel
-
-
-
-EXTINF:-1 tvg-id="Azteca Clic" group-title="VARIEDADES" , Az Clic
-
-
-EXTINF:-1 tvg-id="Azteca Corazon" group-title="VARIEDADES" , Az Corazón
-
-
-EXTINF:-1 tvg-id="Azteca Mundo" group-title="VARIEDADES" , Azteca Internacional
-
-
 
 
 #EXTINF:-1 tvg-id="El Financiero Bloomberg" group-title="NOTICIAS", El Financiero - Bloomberg TV
@@ -274,16 +246,12 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASEAST&calidad=sd&.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Teleonce Univision PR
-https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJlYjNhNjZiOWEzNTdkZTBhNDg0Mjg1N2RhYjFlMWVkZSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzI4NjE1ODY0LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.J-FKdXPqV3cQMHPjvmVK4lDLLUiGfXl5iDYz41zh5HtURDoqj4o5KsWD5do0KdTIJl4R6tsAuyI2sD9hszWxQG68TtmVuQCgB62JVOElzNE26XMikQ1rleQ43DdoiN_KfZs5b_D5xqp9ypsXrX0Vy8JyG8WClsbdloxGZ1u6AeMk91CDRv9GxqqzklyyzwS45VR5wzrn1fCIdjVj1mfU1-pLua06LwRO5D8g4-nYOSLRALcY0PjDThNo-dfU7wxw0v6QTGv99ejiR6n0Q2qAnype5XAVUgSxJ5ECdpQUD3vWM4PIYDmrpGQt3yCeN91ghoDUT_jw7wlWGolUQvXTRQ/manifest/stream_t2_r999999999.m3u8?useVODOTFE=false&llhlsHBs=0.5&CMCD=cid%3D%221728572665373%22%2Cmtp%3D2300%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2235312da0-549b-47ce-9d5f-c1a9a59b4239%22
+
 
 #EXTINF:-1 tvg-id="USBA300040WR" group-title="Internacional", ESTRELLA TV
 
 
 EXTINF:-1  tvg-id="WAPA TV"  group-title="Internacional" , Wapa
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="ESBC4100001NZ" group-title="España" , La 1 ES
@@ -342,6 +310,9 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jllP4u1vzGBg-dWPh5dNBh7t1rTaZEh
 #EXTINF:-1 tvg-id="Televicentro.hn" group-title="Internacional", Canal 5 HN
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 
+#EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="Internacional", Telecadena 7 y 4
+http://200.52.148.194:8000/play/a04q/index.m3u8
+
 #EXTINF:-1 tvg-id="Canal6.sv" group-title="Internacional", Canal 6 SV
 
 
@@ -396,23 +367,14 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjAOulSC4Pj6y6s9TX5nLqKEgzv6E_Q
 #EXTINF:-1 tvg-id="13 de Argentina" group-title="Internacional", El trece AR
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Megavisioncanal19.sv" group-title="Internacional", Megavision 19 SV
-https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/master.m3u8
-
-
-#EXTINF:-1 tvg-id="MegavisionCanal21.sv" group-title="Internacional",
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jkWzJlR7K7f6E4GdbvymNPk44Ji7SNsGIDJ00mprOGv4/ts
-
 #EXTINF:-1 tvg-id="TVMax.pa" group-title="Internacional" , TV Max
-https://tvnpan-ecdn3.cdn.mdstrm.com/live-stream-dai/65d4c7bcbe741b6c4131bd70/c2986629464f4312b2ebc46b572e2aab/f624fec49dadc88894ebeff1d974eab019af7757/session/43268dfc-e35f-4fed-a003-4051fb09e26f/media.m3u8?aid=6495bd4ecd55fe08b4765b53&uid=rjwxgsufgb45pxwpyx1rj68ns9h3vvk8&sid=js9p1nbvugbmbxqxntndvyqvz6p9w33r&pid=mqcwnl71xwd0d6korhv0pj4npedfmtll&ref=https%3a%2f%2ftvnpass.com%2f&without_cookies=false&listenerid=&dnt=true&access_token=thow7ko4iq85ycpk1gcgld4gffyqo0yh4dqgzosx7gyfd5wndnz2jegihmgsle9gc9maurdwrzl&es=tvnpan-ecdn3.cdn.mdstrm.com&proto=https&pz=us&hash=0c3d423051f23285c9f2f
+
 
 #EXTINF:-1 tvg-id="Telefuturo.py" group-title="Internacional" , Telefuturo PA
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jt3ZGIaBWSR2FDEsqnEHROVUrxVfwD5tm3sSj2fcgvyp/ts
+
 
 #EXTINF:-1 tvg-id="WillaxTV.pe" group-title="Internacional" , Willax.pe
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
-
-
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" group-title="Internacional" , Panamericana 
 https://cdnhd.iblups.com/hls/ptv5.m3u8
@@ -424,8 +386,7 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jhHRHRUqc6S2jzMEWq_b_7oqSZl1eoQ
 
 #EXTINF:-1 tvg-id="Telesistema3y7.hn" group-title="Internacional", Telesistema 3y7 HN
 
-#EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="Internacional", Telecadena 7 y 4
-http://200.52.148.194:8000/play/a04q/index.m3u8
+
 
 EXTINF:-1 tvg-id="Canal Telesistema 11 (República Dominicana).do" group-title="ENTRETENIMIENTO", Telesistema
 
@@ -459,6 +420,27 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jtLgeD3MLad8E4781DjiTXF6GpkkZHf
 
 #EXTINF:-1 tvg-id="ESPN 3 MX" group-title="Sports", Espn 3 HD
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jtLgeD3MLad8E4781DjiTXH-R5ZefYdIAzUdfaF8Zixj/ts
+
+#EXTINF:-1 tvg-id="" group-title="Sports", Espn Sur
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports", Espn 2 Sur
+http://bantel-cdn1.iptvperu.tv:1935/cdnwen/ESPN2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports", Espn 3 Sur
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports", Espn 4 Sur
+http://bantel-cdn1.iptvperu.tv:1935/cdnwen/Espn4.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports", Espn 5 Sur
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports", Espn 6 Sur
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports", Espn 7 Sur
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn7/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes 
 
