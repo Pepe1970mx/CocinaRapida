@@ -240,7 +240,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
 #EXTINF:-1 tvg-id"" group-title="Internacional",  Univision 
-http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
+http://23.237.66.106:25461/now_160322/now2.php id=UNIVISIONEAST&calidad=sd&.m3u8
 
 #EXTINF:-1 tvg-id"" group-title="Internacional", Unimas
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASEAST&calidad=sd&.m3u8
