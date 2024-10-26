@@ -437,6 +437,8 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnwen/ESPN2.stream/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Espn 4 Sur
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/173357.ts
+
 http://bantel-cdn1.iptvperu.tv:1935/cdnwen/Espn4.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Espn 5 Sur
