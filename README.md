@@ -467,7 +467,7 @@ http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53974
 http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53975
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
-
+http://48226878630930324.ofnm1026.xyz:80/play/me819618/KWcxmukujdT/930324.ts
 
 #EXTINF:-1 tvg-id="TUDN.us" group-title="Sports", TUDN USA
 http://tvmate.icu:8080/Alan/Alan1234/82241
