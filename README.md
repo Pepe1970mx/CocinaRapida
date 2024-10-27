@@ -1,4 +1,4 @@
-de#EXTM3U 
+#EXTM3U 
 x-tvg-url=""
 
 #EXTINF:-1 tvg-id="Azteca Uno" group-title="NACIONAL", Azteca Uno
@@ -24,7 +24,7 @@ EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
 https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8?hdnea=exp=1726844564~acl=/*~hmac=f917ac826c2cde6b402b13e820bde379f271f48eb4670c453418adfc8c62a27e
 
 #EXTINF:-1 tvg-id="Canal 5" group-title="NACIONAL", Canal 5
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/303782
+http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53930
 
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 MX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
@@ -42,7 +42,7 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-id="El Nueve" group-title="NACIONAL", El Nueve
-
+http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53978
 
 #EXTINF:-1 tvg-id="El Heraldo TV" group-title="NACIONAL" , Canal 10 Yucatan
 
@@ -416,16 +416,14 @@ https://m.youtube.com/watch?v=Rbx2ORqC64E
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
 http://supersonictv.live:8080/329474/903964/22222
 
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0js3edDuHorQuAKLlon4CKsNtwvVDd0yUP93Ip1x5_xGG/ts
-
 #EXTINF:-1 tvg-id="ESPN MX" group-title="Sports", Espn HD
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0js3edDuHorQuAKLlon4CKsPsiEhUlS1TF1qXugAR5f3E/ts
+
 
 #EXTINF:-1 tvg-id="ESPN 2 MX" group-title="Sports", Espn 2 HD
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jtLgeD3MLad8E4781DjiTXF6GpkkZHf8xxUcasUCSGaM/ts
+http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53961
 
 #EXTINF:-1 tvg-id="ESPN 3 MX" group-title="Sports", Espn 3 HD
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jtLgeD3MLad8E4781DjiTXH-R5ZefYdIAzUdfaF8Zixj/ts
+http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53962
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Espn Sur
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn1/playlist.m3u8
@@ -453,23 +451,23 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn7/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes 
 
 
-EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" group-title="Sports", Fox sports en español
+#EXTINF:-1 tvg-id="I270.11118.schedulesdirect.org" group-title="Sports", Fox sports en español
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
 #EXTINF:-1 tvg-id="Fox Sports Premium" group-title="Sports", Fox Sports Premium HD
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jr78-TWIHkIoVRTAeq8QkvPz6fz3zlvdtFME8yi-bwWG/ts
+
 
 #EXTINF:-1 tvg-id="Fox Sports MX" group-title="Sports", Fox Sport HD
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jqxiA-lzsuN24U2f3M6xz-jn5sYK0BNthSk0J2jHcI99/ts
+http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53973
 
 #EXTINF:-1 tvg-id="Fox Sports 2 MX" group-title="Sports", Fox sport 2 HD
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jn6xCG-BatOD7CLI5hHOqHNzbdQpwM7dcuchcc0vF7WH/ts
+http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53974
 
 #EXTINF:-1 tvg-id="Fox Sports 3 MX" group-title="Sports", Fox sport 3 HD
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jn6xCG-BatOD7CLI5hHOqHO8L0e1-P70g64RRyYkiIRr/ts
+http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53975
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jkHrJgzw7vjYpheGT9oUhwGa5JVd_uitHUGbMU1gqgSi/ts
+
 
 #EXTINF:-1 tvg-id="TUDN.us" group-title="Sports", TUDN USA
 http://tvmate.icu:8080/Alan/Alan1234/82241
