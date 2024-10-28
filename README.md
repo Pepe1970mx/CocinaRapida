@@ -580,7 +580,10 @@ http://rasaiptv.com:8080/amartinez/s1stemas.13579/1284
 http://pro.royal8080.com:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=270276&extension=ts
 
 #EXTINF:-1 tvg-id="HBO" group-title="De Paga" , HBO 
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jubADExqOZ3YBXje-1Mfgn8/ts
+http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/52291
+
+#EXTINF:-1 tvg-id="HBO" group-title="De Paga" , HBO 2
+http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/54938
 
 #EXTINF:-1 tvg-id="HBO Family" group-title="De Paga" , HBO Family
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jm_Oh-pVHFKtZoOfSxtHM2c/ts
