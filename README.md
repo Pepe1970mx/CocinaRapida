@@ -240,13 +240,17 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
 #EXTINF:-1 tvg-id"" group-title="Internacional",  Univision 
+http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/19682
+
 http://23.237.66.106:25461/now_160322/now2.php id=UNIVISIONEAST&calidad=sd&.m3u8
 
 #EXTINF:-1 tvg-id"" group-title="Internacional", Unimas
+http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/52229
+
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASEAST&calidad=sd&.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Teleonce Univision PR
-
+http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/19677
 
 #EXTINF:-1 tvg-id="USBA300040WR" group-title="Internacional", ESTRELLA TV
 
@@ -529,27 +533,22 @@ https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 https://streamer1.nexgen.bz/STAR/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT HD
-
+http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/54022
 
 #EXTINF:-1 tvg-id="Sony Cine" group-title="De Paga", Sony Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-id="Space.sur" group-title="De Paga", Space HD
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jh4MrYJChPpsfZegZacUBfPaVAfICb-2Ft_RXBijjv3z/ts
+http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/54012
 
 #EXTINF:-1 tvg-id="FX.sur" group-title="De Paga", FX
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jsGLvTjbGOq5Fm5s_t5SK0LCfavnmyHqhKI_hOZuIrLj/ts
+http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53976
 
 #EXTINF:-1 tvg-id="Warner" group-title="De Paga", Warner 
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jvgMOFXYrQUbb4i5mzRPIdLAmjWg5ANSpyZKIJuCVp_0/ts
+http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/54038
 
 #EXTINF:-1 tvg-id="Sony" group-title="De Paga", Sony Channels 
-
-
-
-
+http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/54011
 
 #EXTINF:-1 tvg-id="UniversalTV.mx" group-title="De Paga", Universal Channel
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1269
@@ -560,33 +559,25 @@ https://streamer1.nexgen.bz/AXN/index.m3u8
 #EXTINF:-1 tvg-id="Paramount Channel" group-title="De Paga", Paramount 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/53938
 
-
-
 #EXTINF:-1 tvg-id="Universal Premier" group-title="De Paga" , Universal Premier
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/111419
 
 #EXTINF:-1 tvg-id="amc_mexico" group-title="De Paga", AMC 
-https://d38fxgxhpllpfu.cloudfront.net/playlist.m3u8
-
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1284
 
 #EXTINF:-1 tvg-id="Golden Premier" group-title="De Paga" ,Golden Premier 
-
-
-
-
 
 #EXTINF:-1 tvg-id="HBO Latino" group-title="De Paga" , HBO Latino
 http://pro.royal8080.com:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=270276&extension=ts
 
 #EXTINF:-1 tvg-id="HBO" group-title="De Paga" , HBO 
-http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/52291
+http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53985
 
 #EXTINF:-1 tvg-id="HBO" group-title="De Paga" , HBO 2
-http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/54938
+http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53986
 
 #EXTINF:-1 tvg-id="HBO Family" group-title="De Paga" , HBO Family
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jm_Oh-pVHFKtZoOfSxtHM2c/ts
+http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53987
 
 #EXTINF:-1 tvg-id="" group-title="De Paga", Starz Encore En español
 t=270197.ts
