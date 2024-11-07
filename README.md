@@ -530,15 +530,21 @@ https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 
 
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
+http://redima.pro:8880/1311617953/1311617953/343
+
 https://streamer1.nexgen.bz/STAR/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT HD
+http://redima.pro:8880/1311617953/1311617953/364
+
 http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/54022
 
 #EXTINF:-1 tvg-id="Sony Cine" group-title="De Paga", Sony Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Space.sur" group-title="De Paga", Space HD
+
+
 http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/54012
 
 #EXTINF:-1 tvg-id="FX.sur" group-title="De Paga", FX
