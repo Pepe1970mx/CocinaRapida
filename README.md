@@ -24,6 +24,9 @@ EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
 https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8?hdnea=exp=1726844564~acl=/*~hmac=f917ac826c2cde6b402b13e820bde379f271f48eb4670c453418adfc8c62a27e
 
 #EXTINF:-1 tvg-id="Canal 5" group-title="NACIONAL", Canal 5
+http://tvlatino.club:2082/joelnieto5678/NJxDUvMgNDrS/492888
+
+
 http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53930
 
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 MX
