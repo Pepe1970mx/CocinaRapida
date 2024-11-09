@@ -269,8 +269,8 @@ EXTINF:-1  tvg-id="WAPA TV"  group-title="Internacional" , Wapa
 #EXTINF:-1 tvg-id="La Otra" group-title="España" , La Otra
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:3_HD.smil/.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="España" ,
-
+#EXTINF:-1 tvg-id="Neox" group-title="España" , Neox
+http://hls.webredirect.org/61048/mp_9367.php/https://atres-live.atresmedia.com/1ca750fca1f8df10b0d985d329c5c8f5a5c20409_ES_1731160754_1731189494/h264leg/live/neox/bitrate_2.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="España" ,
 
