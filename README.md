@@ -14,14 +14,14 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="Las Estrellas" group-title="NACIONAL", Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="ImagenTV.mx" group-title="NACIONAL", Imagen TV HD
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jvGubXZ7ForYpK2yBR7LZBmpMpDfWOaj0WUwQj14LTSr/ts
+#EXTINF:-1 tvg-id="ImagenTV.mx" group-title="NACIONAL", Imagen TV 
+http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53993
 
 EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
 
 
 #EXTINF:-1 tvg-id="Foro TV" group-title="NACIONAL", Foro TV 
-https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8?hdnea=exp=1726844564~acl=/*~hmac=f917ac826c2cde6b402b13e820bde379f271f48eb4670c453418adfc8c62a27e
+
 
 #EXTINF:-1 tvg-id="Canal 5" group-title="NACIONAL", Canal 5
 http://tvlatino.club:2082/joelnieto5678/NJxDUvMgNDrS/492888
