@@ -536,23 +536,19 @@ https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 http://tvlatino.club:2082/joelnieto5678/NJxDUvMgNDrS/148376
 
 #EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT HD
-http://redima.pro:8880/1311617953/1311617953/364
-
-http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/54022
+http://tvlatino.club:2082/joelnieto5678/NJxDUvMgNDrS/184681
 
 #EXTINF:-1 tvg-id="Sony Cine" group-title="De Paga", Sony Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Space.sur" group-title="De Paga", Space HD
-
-
-http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/54012
+http://tvlatino.club:2082/joelnieto5678/NJxDUvMgNDrS/184662
 
 #EXTINF:-1 tvg-id="FX.sur" group-title="De Paga", FX
-http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53976
+http://tvlatino.club:2082/joelnieto5678/NJxDUvMgNDrS/460153
 
 #EXTINF:-1 tvg-id="Warner" group-title="De Paga", Warner 
-http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/54038
+http://tvlatino.club:2082/joelnieto5678/NJxDUvMgNDrS/184696
 
 #EXTINF:-1 tvg-id="Sony" group-title="De Paga", Sony Channels 
 http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/54011
