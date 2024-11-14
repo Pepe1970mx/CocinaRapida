@@ -533,7 +533,7 @@ https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 
 
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
-https://streamer1.nexgen.bz/STAR/index.m3u8
+http://tvlatino.club:2082/joelnieto5678/NJxDUvMgNDrS/148376
 
 #EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT HD
 http://redima.pro:8880/1311617953/1311617953/364
