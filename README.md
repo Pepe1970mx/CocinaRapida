@@ -119,7 +119,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u
 
 #EXTINF:-1 tvg-id="Distrito Comedia" group-title="Comedia" , Distrito Comedia
 
-
+#EXTINF:-1 tvg-id="Chespirito" group-title="Comedia" , Chespirito 
+http://tvlatino.club:2082/joelnieto5678/NJxDUvMgNDrS/304514
 
 
 #EXTINF:-1 tvg-id="El Financiero Bloomberg" group-title="NOTICIAS", El Financiero - Bloomberg TV
