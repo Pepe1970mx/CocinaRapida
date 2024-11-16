@@ -184,6 +184,9 @@ https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 
 
 #EXTINF:-1 tvg-id"TOONCAST" group-title="ENTRETENIMIENTO" , Tooncast 
+http://tvlatino.club:2082/joelnieto5678/NJxDUvMgNDrS/477634
+
+
 
 #EXTINF:-1 tvg-id="ATVSur.pe" group-title="ENTRETENIMIENTO" , ATV Sur PE
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
