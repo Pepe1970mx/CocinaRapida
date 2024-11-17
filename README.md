@@ -478,12 +478,19 @@ http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53974
 http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53975
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
-http://tvlatino.club:2082/joelnieto5678/NJxDUvMgNDrS/305460
+http://home-playtv.com:8080/OlgerAlvarado/KWWGT/218637
 
 #EXTINF:-1 tvg-id="TUDN.us" group-title="Sports", TUDN USA
-http://tvmate.icu:8080/Alan/Alan1234/82241
+http://home-playtv.com:8080/OlgerAlvarado/KWWGT/166029
+
+#EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN
+http://home-playtv.com:8080/OlgerAlvarado/KWWGT/456662
+
 
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN USA
+http://home-playtv.com:8080/OlgerAlvarado/KWWGT/456664
+
+
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Futbol Network 
 https://live.relentlessinnovations.net:1936/futbolnetwork/futbolnetwork/playlist.m3u8
