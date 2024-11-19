@@ -248,7 +248,8 @@ https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo(Spanish).us" group-title="Internacional", Telemundo 
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 
-#EXTINF:-1 tvg-id="Universo" group-title="Internacional", Universo
+#EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
+http://home-playtv.com:8080/OlgerAlvarado/KWWGT/185096
 
 #EXTINF:-1 tvg-id="Telemundo Puerto Rico" group-title="Internacional", Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
@@ -268,6 +269,9 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASEAST&calidad=sd&.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Teleonce Univision PR
 http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/19677
+
+#EXTINF:-1 tvg-id="" group-title="Internacional", Galavision
+http://home-playtv.com:8080/OlgerAlvarado/KWWGT/218336
 
 #EXTINF:-1 tvg-id="USBA300040WR" group-title="Internacional", ESTRELLA TV
 
