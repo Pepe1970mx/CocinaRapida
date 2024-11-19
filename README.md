@@ -164,6 +164,15 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
+#EXTINF:-1 tvg-id"TOONCAST" group-title="ENTRETENIMIENTO" , Tooncast 
+http://tvlatino.club:2082/joelnieto5678/NJxDUvMgNDrS/477634
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Adult Swin
+http://home-playtv.com:8080/OlgerAlvarado/KWWGT/19466
+
+
+
+
 #EXTINF:-1 tvg-id="VTV" group-title="ENTRETENIMIENTO" , TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8
 
@@ -185,8 +194,7 @@ https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 #EXTINF:-1 tvg-id="gt#teleonce-canal-11" group-title="ENTRETENIMIENTO", Canal 11 - Teleonce
 
 
-#EXTINF:-1 tvg-id"TOONCAST" group-title="ENTRETENIMIENTO" , Tooncast 
-http://tvlatino.club:2082/joelnieto5678/NJxDUvMgNDrS/477634
+
 
 
 
