@@ -74,7 +74,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b1431072.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="NACIONAL", Canal 13
-https://207963.global.ssl.fastly.net/65313d270e749722b6474684/live_9ada1d70dfbe11eeabd66ba1b9ba93a1/tracks-v1/index.fmp4.m3u8
+
 
 
 #EXTINF:-1 tvg-id="14 de Mexico" group-title="NACIONAL" , Canal 14 
@@ -155,13 +155,17 @@ https://jmp2.uk/PlutoTV/619d59b7cbef25000728221c-alt.m3u8
 https://s5.mexside.net:1936/france24/france24/playlist.m3u8
 
 #EXTINF:-1 tvg-id"CNN en Español" group-title="NOTICIAS" , CNN en Español 
-
+https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 
 
 
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Imagen Universa
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+
 
 #EXTINF:-1 tvg-id="Moni TV" group-title="ENTRETENIMIENTO" , Moni TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8?PlaylistM3UCL
