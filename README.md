@@ -12,7 +12,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 
 #EXTINF:-1 tvg-id="Las Estrellas" group-title="NACIONAL", Las Estrellas
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/3?mp2t
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" group-title="NACIONAL", Imagen TV 
 http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53993
@@ -38,6 +38,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
 #EXTINF:-1 tvg-id="Telediario Now" group-title="NACIONAL", Telediario Now
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 
+#EXTINF:-1 tvg-id="MVSTV.mx" group-title="NACIONAL", MVS TV
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+
+#EXTINF:-1 tvg-id="Teleritmo" group-title="NACIONAL", Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
 #EXTINF:-1 tvg-id="Azteca 7" group-title="NACIONAL", Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
@@ -53,8 +59,7 @@ http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53978
 #EXTINF:-1 tvg-id="TeleFormula.mx" group-title="NACIONAL" , Teleformula
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 
-#EXTINF:-1 tvg-id="MVSTV.mx" group-title="NACIONAL", MVS TV
-https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+
 
 #EXTINF:-1 tvg-id="Canal Once" group-title="NACIONAL", Canal Once
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b1431072.m3u8
