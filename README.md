@@ -60,6 +60,8 @@ https://chiquilines-plex.amagi.tv:443/Chiquilines-plex/master_6.m3u8
 #EXTINF:-1 tvg-id="El Nueve" group-title="NACIONAL", El Nueve
 http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53978
 
+
+
 #EXTINF:-1 tvg-id="El Heraldo TV" group-title="NACIONAL" , Canal 10 Yucatan
 
 
