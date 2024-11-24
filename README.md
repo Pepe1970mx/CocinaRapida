@@ -50,6 +50,13 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="A Mas" group-title="NACIONAL", A Mas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="NACIONAL", Free TV 8.2
+https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="NACIONAL", Free TV 8.3
+https://chiquilines-plex.amagi.tv:443/Chiquilines-plex/master_6.m3u8
+
+
 #EXTINF:-1 tvg-id="El Nueve" group-title="NACIONAL", El Nueve
 http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53978
 
