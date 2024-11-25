@@ -172,6 +172,10 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistASTRAL
 #EXTINF:-1 tvg-id="Frecuencia Musical TV" group-title="ENTRETENIMIENTO", FM TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-id="Infinita TV" group-title="ENTRETENIMIENTO", Infinita TV
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
