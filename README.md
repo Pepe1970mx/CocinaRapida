@@ -287,20 +287,23 @@ http://home-playtv.com:8080/OlgerAlvarado/KWWGT/218336
 #EXTINF:-1 tvg-id="USBA300040WR" group-title="Internacional", ESTRELLA TV
 https://jmp2.uk/sam-USBA300040WR.m3u8
 
-#EXTINF:-1 tvg-id="USBC39000080S" group-title="ENTRETENIMIENTO", Canela TV
+#EXTINF:-1 tvg-id="USBC39000080S" group-title="Internacional", Canela TV
 https://jmp2.uk/sam-USBC39000080S.m3u8
 
 
 EXTINF:-1  tvg-id="WAPA TV"  group-title="Internacional" , Wapa
 
-EXTINF:-1 tvg-id="USBD7000017L" group-title="ENTRETENIMIENTO", AMC en Español
+#EXTINF:-1  tvg-id="America TV"  group-title="Internacional" , America TV
+https://live.gideo.video/americateve2/master.m3u8
+
+EXTINF:-1 tvg-id="USBD7000017L" group-title="Internacional", AMC en Español
 https://jmp2.uk/Sam-USBD7000017L.m3u8
 
-#EXTINF:-1 tvg-id="60fb3087fbbc120007fc46be" group-title="ENTRETENIMIENTO", Series con Ñ
-https://r.mjh.nz/PlutoTV/60fb3087fbbc120007fc46be-alt.m3u8
+#EXTINF:-1 tvg-id="60fb3087fbbc120007fc46be" group-title="Internacional", Series con Ñ
+
 
 EXTINF:-1 tvg-id="62c5d80dc6de440007e033eb" group-title="ENTRETENIMIENTO", Runtime
-https://r.mjh.nz/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
+
 
 
 
