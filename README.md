@@ -126,10 +126,10 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=310a09e6-6fd5-11ef-b1af-be21e08b28a0
 
 #EXTINF:-1 tvg-id="USBD2700004ME" group-title="Drama" , Como Dice el Dicho 
-
+https://jmp2.uk/sam-USBD2700004ME.m3u8
 
 #EXTINF:-1 tvg-id="USBC2100010OS" group-title="Comedia" , ViX Jajaja 
-
+https://jmp2.uk/sam-USBC2100010OS.m3u8
 
 #EXTINF:-1 tvg-id="Distrito Comedia" group-title="Comedia" , Distrito Comedia
 http://home-playtv.com:8080/OlgerAlvarado/KWWGT/9412
@@ -292,9 +292,23 @@ http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/19677
 http://home-playtv.com:8080/OlgerAlvarado/KWWGT/218336
 
 #EXTINF:-1 tvg-id="USBA300040WR" group-title="Internacional", ESTRELLA TV
+https://jmp2.uk/sam-USBA300040WR.m3u8
+
+#EXTINF:-1 tvg-id="USBC39000080S" group-title="ENTRETENIMIENTO", Canela TV
+https://jmp2.uk/sam-USBC39000080S.m3u8
 
 
 EXTINF:-1  tvg-id="WAPA TV"  group-title="Internacional" , Wapa
+
+EXTINF:-1 tvg-id="USBD7000017L" group-title="ENTRETENIMIENTO", AMC en Español
+https://jmp2.uk/Sam-USBD7000017L.m3u8
+
+#EXTINF:-1 tvg-id="60fb3087fbbc120007fc46be" group-title="ENTRETENIMIENTO", Series con Ñ
+https://r.mjh.nz/PlutoTV/60fb3087fbbc120007fc46be-alt.m3u8
+
+EXTINF:-1 tvg-id="62c5d80dc6de440007e033eb" group-title="ENTRETENIMIENTO", Runtime
+https://r.mjh.nz/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
+
 
 
 #EXTINF:-1 tvg-id="ESBC4100001NZ" group-title="España" , La 1 ES
@@ -557,17 +571,7 @@ EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network
 
 
 
-EXTINF:-1 tvg-id="62fa81ccd1a7e90007c1ada0" group-title="ENTRETENIMIENTO", AMC en Español
-https://jmp2.uk/SamsungTVPlus/USBD7000017L.m3u8
 
-EXTINF:-1 tvg-id="USBC39000080S" group-title="ENTRETENIMIENTO", Canela TV
-https://jmp2.uk/SamsungTVPlus/USBC39000080S.m3u8
-
-EXTINF:-1 tvg-id="60fb3087fbbc120007fc46be" group-title="ENTRETENIMIENTO", Series con Ñ
-https://r.mjh.nz/PlutoTV/60fb3087fbbc120007fc46be-alt.m3u8
-
-EXTINF:-1 tvg-id="62c5d80dc6de440007e033eb" group-title="ENTRETENIMIENTO", Runtime
-https://r.mjh.nz/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
 
 EXTINF:-1 tvg-id="63eb947c4e83e70008ab877b" group-title="ENTRETENIMIENTO", NCIS
 https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
