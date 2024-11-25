@@ -576,7 +576,7 @@ https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
 
 
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
-http://tvlatino.club:2082/joelnieto5678/NJxDUvMgNDrS/148376
+https://streamer1.nexgen.bz/STAR/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT HD
 http://tvlatino.club:2082/joelnieto5678/NJxDUvMgNDrS/184681
@@ -588,13 +588,16 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 http://tvlatino.club:2082/joelnieto5678/NJxDUvMgNDrS/184662
 
 #EXTINF:-1 tvg-id="FX.sur" group-title="De Paga", FX
-http://tvlatino.club:2082/joelnieto5678/NJxDUvMgNDrS/460153
+https://streamer1.nexgen.bz/FX/index.m3u8
 
 #EXTINF:-1 tvg-id="Warner" group-title="De Paga", Warner 
 http://tvlatino.club:2082/joelnieto5678/NJxDUvMgNDrS/184696
 
 #EXTINF:-1 tvg-id="Sony" group-title="De Paga", Sony Channels 
 http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/54011
+
+#EXTINF:-1 tvg-id="USA" group-title="De Paga", USA
+http://200.115.120.1:8000/play/ca125/index.m3u8
 
 #EXTINF:-1 tvg-id="UniversalTV.mx" group-title="De Paga", Universal Channel
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/1269
