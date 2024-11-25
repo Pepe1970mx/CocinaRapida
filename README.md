@@ -292,7 +292,7 @@ http://home-playtv.com:8080/OlgerAlvarado/KWWGT/218336
 https://jmp2.uk/sam-USBA300040WR.m3u8
 
 #EXTINF:-1 tvg-id="USBC39000080S" group-title="Internacional", Canela TV
-https://jmp2.uk/sam-USBC39000080S.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4847
 
 
 EXTINF:-1  tvg-id="WAPA TV"  group-title="Internacional" , Wapa
