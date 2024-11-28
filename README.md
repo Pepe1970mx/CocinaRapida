@@ -24,7 +24,7 @@ EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
 
 
 #EXTINF:-1 tvg-id="Canal 5" group-title="NACIONAL", Canal 5
-http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53930
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/CANAL5/40-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 MX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
@@ -524,7 +524,7 @@ http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53974
 http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53975
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
-http://home-playtv.com:8080/OlgerAlvarado/KWWGT/218637
+http://200.115.120.1:8000/play/ca039/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.us" group-title="Sports", TUDN USA
 http://home-playtv.com:8080/OlgerAlvarado/KWWGT/166029
