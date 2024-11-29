@@ -12,16 +12,20 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 
 #EXTINF:-1 tvg-id="Las Estrellas" group-title="NACIONAL", Las Estrellas
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/ESTRELLAS/40-hls/live-media.m3u8
+
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/3?mp2t
 
-#EXTINF:-1 tvg-id="ImagenTV.mx" group-title="NACIONAL", Imagen TV 
+#EXTINF:-1 tvg-id="ImagenTV.mx" group-title="NACIONAL", Imagen TV
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/IMAGEN/40-hls/live-media.m3u8
+
 http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53993
 
 EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
 
 
 #EXTINF:-1 tvg-id="Foro TV" group-title="NACIONAL", Foro TV 
-
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/FOROTV/20-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-id="Canal 5" group-title="NACIONAL", Canal 5
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/CANAL5/40-hls/live-media.m3u8
@@ -47,7 +51,7 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="A Mas" group-title="NACIONAL", A Mas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="NACIONAL",  TV 6.2
+#EXTINF:-1 tvg-id="" group-title="NACIONAL",  TV 6.4
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="NACIONAL", Free TV 8.3
