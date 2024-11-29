@@ -134,7 +134,10 @@ http://home-playtv.com:8080/OlgerAlvarado/KWWGT/9412
 
 
 #EXTINF:-1 tvg-id="Chespirito" group-title="Comedia" , Chespirito 
-http://tvlatino.club:2082/joelnieto5678/NJxDUvMgNDrS/304514
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="El Financiero Bloomberg" group-title="NOTICIAS", El Financiero - Bloomberg TV
