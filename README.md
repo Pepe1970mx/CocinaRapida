@@ -46,6 +46,8 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 tvg-id="Azteca 7" group-title="NACIONAL", Azteca 7
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AZTECA7/40-hls/live-media.m3u8
+
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 tvg-id="A Mas" group-title="NACIONAL", A Mas
@@ -61,11 +63,10 @@ https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53978
 
 #EXTINF:-1 tvg-id="El Heraldo TV" group-title="NACIONAL" , Canal 10 Yucatan
+https://ythls.armelin.one/channel/UC7E9Dj_lmrJdDrH2Bg7rNqQ.m3u8
 
 #EXTINF:-1 tvg-id="TeleFormula.mx" group-title="NACIONAL" , Teleformula
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
-
-
 
 #EXTINF:-1 tvg-id="Canal Once" group-title="NACIONAL", Canal Once
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b1431072.m3u8
