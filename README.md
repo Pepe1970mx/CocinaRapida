@@ -579,14 +579,6 @@ EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network
 
 
 
-
-
-EXTINF:-1 tvg-id="63eb947c4e83e70008ab877b" group-title="ENTRETENIMIENTO", NCIS
-https://r.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
-
-
-
-
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
 https://streamer1.nexgen.bz/STAR/index.m3u8
 
@@ -632,21 +624,22 @@ http://rasaiptv.com:8080/amartinez/s1stemas.13579/1284
 http://pro.royal8080.com:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=270276&extension=ts
 
 #EXTINF:-1 tvg-id="HBO" group-title="De Paga" , HBO 
-http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/52291
+
 
 #EXTINF:-1 tvg-id="HBO" group-title="De Paga" , HBO 2
-http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53986
+
 
 #EXTINF:-1 tvg-id="HBO Family" group-title="De Paga" , HBO Family
-http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53987
-
-#EXTINF:-1 tvg-id="" group-title="De Paga", Starz Encore En español
 
 
+#EXTINF:-1 tvg-id="" group-title="De Paga", Starz Cinema En español
+http://895845416218955125.ofdgk1124.xyz:80/live/wa812936/5mEyjyh4QQ/955125.ts
 
+#EXTINF:-1 tvg-id="" group-title="De Paga", Starz Encore Family & Kids
+http://895845416218971950.ofdgk1124.xyz:80/live/wa812936/5mEyjyh4QQ/971950.ts
 
-
-
+#EXTINF:-1 tvg-id="" group-title="De Paga", Cine Starz
+http://895845416218974127.ofdgk1124.xyz:80/live/wa812936/5mEyjyh4QQ/974127.ts
 
 
 #EXTINF:-1 tvg-id="Boing Espana" group-title="Kids", Boing
