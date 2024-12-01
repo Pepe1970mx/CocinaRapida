@@ -335,7 +335,7 @@ http://hls.webredirect.org/61048/mp_9367.php/https://atres-live.atresmedia.com/1
 #EXTINF:-1 tvg-id="" group-title="España" ,
 
 #EXTINF:-1 tvg-id="Nickelodeon" group-title="España" , Nickelodeon 
-http://823791426715321381.ofgd919.xyz:80/play/vi120237/kpmkHcrCj@/321381.ts
+
 
 #EXTINF:-1 tvg-id="Disney Channel" group-title="España" , Disney Channel
 http://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:21_HD.smil/.m3u8
@@ -346,19 +346,22 @@ https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 
 
 #EXTINF:-1 tvg-id="M Accion" group-title="España", M+ Accion HD
-http://823791426715321305.ofgd919.xyz:80/play/vi120237/kpmkHcrCj@/321305.ts
+http://895845416218321306.ofdgk1124.xyz:80/live/wa812936/5mEyjyh4QQ/321306.ts
 
 #EXTINF:-1 tvg-id="M Estrenos" group-title="España", M Estrenos
-http://823791426715321337.ofgd919.xyz:80/play/vi120237/kpmkHcrCj@/321337.ts
+
 
 #EXTINF:-1 tvg-id="" group-title="España" , Star Channel
-http://823791426715806971.ofgd919.xyz:80/play/vi120237/kpmkHcrCj@/806971.ts
+
 
 #EXTINF:-1 tvg-id="Neox" group-title="España", Neox
-http://823791426715321374.ofgd919.xyz:80/play/vi120237/kpmkHcrCj@/321374.ts
+http://895845416218321376.ofdgk1124.xyz:80/live/wa812936/5mEyjyh4QQ/321376.ts
 
 #EXTINF:-1 tvg-id="" group-title="España" , Warner
-http://823791426715321442.ofgd919.xyz:80/play/vi120237/kpmkHcrCj@/321442.ts
+
+
+
+
 
 #EXTINF:-1 tvg-id="Canal2.sv" group-title="Internacional", Canal 2 SV
 http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jllP4u1vzGBg-dWPh5dNBh7t1rTaZEh-NXTGakBtPUvP/ts
