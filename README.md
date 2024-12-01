@@ -624,13 +624,13 @@ http://rasaiptv.com:8080/amartinez/s1stemas.13579/1284
 http://pro.royal8080.com:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=270276&extension=ts
 
 #EXTINF:-1 tvg-id="HBO" group-title="De Paga" , HBO 
-
+http://895845416218977664.ofdgk1124.xyz:80/live/wa812936/5mEyjyh4QQ/977664.ts
 
 #EXTINF:-1 tvg-id="HBO" group-title="De Paga" , HBO 2
-
+http://895845416218955080.ofdgk1124.xyz:80/live/wa812936/5mEyjyh4QQ/955080.ts
 
 #EXTINF:-1 tvg-id="HBO Family" group-title="De Paga" , HBO Family
-
+http://895845416218955081.ofdgk1124.xyz:80/live/wa812936/5mEyjyh4QQ/955081.ts
 
 #EXTINF:-1 tvg-id="" group-title="De Paga", Starz Cinema En español
 http://895845416218955125.ofdgk1124.xyz:80/live/wa812936/5mEyjyh4QQ/955125.ts
