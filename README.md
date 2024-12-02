@@ -479,10 +479,10 @@ https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=310a09e6-6fd5-11ef-b1af-be21e08b28a0
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Caliente TV
-https://m.youtube.com/watch?v=Rbx2ORqC64E
+
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
-http://supersonictv.live:8080/329474/903964/22222
+http://home-playtv.com:8080/OlgerAlvarado/KWWGT/54533
 
 #EXTINF:-1 tvg-id="ESPN MX" group-title="Sports", Espn HD
 http://home-playtv.com:8080/OlgerAlvarado/KWWGT/9380
