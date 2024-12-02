@@ -586,28 +586,28 @@ EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network
 http://home-playtv.com:8080/OlgerAlvarado/KWWGT/439744
 
 #EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT HD
-http://tvlatino.club:2082/joelnieto5678/NJxDUvMgNDrS/184681
+http://home-playtv.com:8080/OlgerAlvarado/KWWGT/9495
 
 #EXTINF:-1 tvg-id="Sony Cine" group-title="De Paga", Sony Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Space.sur" group-title="De Paga", Space HD
-http://tvlatino.club:2082/joelnieto5678/NJxDUvMgNDrS/184662
+http://home-playtv.com:8080/OlgerAlvarado/KWWGT/54168
 
 #EXTINF:-1 tvg-id="FX.sur" group-title="De Paga", FX
 https://streamer1.nexgen.bz/FX/index.m3u8
 
 #EXTINF:-1 tvg-id="Warner" group-title="De Paga", Warner 
-http://tvlatino.club:2082/joelnieto5678/NJxDUvMgNDrS/184696
+http://home-playtv.com:8080/OlgerAlvarado/KWWGT/53040
 
 #EXTINF:-1 tvg-id="Sony" group-title="De Paga", Sony Channels 
-http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/54011
+http://home-playtv.com:8080/OlgerAlvarado/KWWGT/439783
 
 #EXTINF:-1 tvg-id="USA" group-title="De Paga", USA
 http://200.115.120.1:8000/play/ca125/index.m3u8
 
 #EXTINF:-1 tvg-id="UniversalTV.mx" group-title="De Paga", Universal Channel
-http://rasaiptv.com:8080/amartinez/s1stemas.13579/1269
+
 
 #EXTINF:-1 tvg-id="AXN" group-title="De Paga", AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
