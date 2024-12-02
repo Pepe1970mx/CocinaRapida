@@ -485,13 +485,13 @@ https://m.youtube.com/watch?v=Rbx2ORqC64E
 http://supersonictv.live:8080/329474/903964/22222
 
 #EXTINF:-1 tvg-id="ESPN MX" group-title="Sports", Espn HD
-
+http://home-playtv.com:8080/OlgerAlvarado/KWWGT/9380
 
 #EXTINF:-1 tvg-id="ESPN 2 MX" group-title="Sports", Espn 2 HD
-http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53961
+http://home-playtv.com:8080/OlgerAlvarado/KWWGT/36391
 
 #EXTINF:-1 tvg-id="ESPN 3 MX" group-title="Sports", Espn 3 HD
-http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53962
+http://home-playtv.com:8080/OlgerAlvarado/KWWGT/186774
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Espn Sur
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn1/playlist.m3u8
