@@ -526,13 +526,13 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,F
 
 
 #EXTINF:-1 tvg-id="Fox Sports MX" group-title="Sports", Fox Sport HD
-http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53973
+http://home-playtv.com:8080/OlgerAlvarado/KWWGT/198785
 
 #EXTINF:-1 tvg-id="Fox Sports 2 MX" group-title="Sports", Fox sport 2 HD
-http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53974
+http://home-playtv.com:8080/OlgerAlvarado/KWWGT/19495
 
 #EXTINF:-1 tvg-id="Fox Sports 3 MX" group-title="Sports", Fox sport 3 HD
-http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53975
+http://home-playtv.com:8080/OlgerAlvarado/KWWGT/9538
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
 http://200.115.120.1:8000/play/ca039/index.m3u8
