@@ -187,8 +187,8 @@ https://s2.tvdatta.com:3753/hybrid/play.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id"TOONCAST" group-title="ENTRETENIMIENTO" , Tooncast 
-http://tvlatino.club:2082/joelnieto5678/NJxDUvMgNDrS/477634
+#EXTINF:-1 tvg-id"TOONCAST" group-title="ENTRETENIMIENTO" , Tooncast
+http://65088091630947315.ofdgk1124.xyz:80/play/wa812936/5mEyjyh4QQ/947315.ts
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Adult Swin
 http://home-playtv.com:8080/OlgerAlvarado/KWWGT/19466
