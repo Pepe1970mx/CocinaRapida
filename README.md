@@ -583,7 +583,7 @@ EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network
 
 
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
-https://streamer1.nexgen.bz/STAR/index.m3u8
+http://home-playtv.com:8080/OlgerAlvarado/KWWGT/439744
 
 #EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT HD
 http://tvlatino.club:2082/joelnieto5678/NJxDUvMgNDrS/184681
