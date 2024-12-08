@@ -828,6 +828,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de4e0b3
 
 
 #EXTINF:-1 tvg-id="5f98471110cca20007d39f76" group-title="Retro Music", MTV Unplugged
+https://bit.ly/3K2CDBb?profile=corgol.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Retro Music", Best of the 80's
 https://linear-759.frequency.stream/mt/studio/759/hls/master/playlist.m3u8
