@@ -167,6 +167,8 @@ https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Imagen Universa
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Global Televisión 
+http://bantel-cdn1.iptvperu.tv:1935/cdnecl/Global/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Moni TV" group-title="ENTRETENIMIENTO" , Moni TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8?PlaylistM3UCL
@@ -193,9 +195,6 @@ http://65088091630947315.ofdgk1124.xyz:80/play/wa812936/5mEyjyh4QQ/947315.ts
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Adult Swin
 http://home-playtv.com:8080/OlgerAlvarado/KWWGT/19466
 
-
-
-
 #EXTINF:-1 tvg-id="VTV" group-title="ENTRETENIMIENTO" , TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8
 
@@ -205,8 +204,7 @@ https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="gt#canal-3" group-title="ENTRETENIMIENTO" , Canal 3 GT
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , Canal 3 
-https://cloud2.streaminglivehd.com:1936/8048/8048/.m3u8
+
 
 #EXTINF:-1 tvg-id="gt#televisiete">" group-title="ENTRETENIMIENTO" , Canal 7 - Televisiete
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
