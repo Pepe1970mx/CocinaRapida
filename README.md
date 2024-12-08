@@ -220,10 +220,10 @@ https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 
 
 #EXTINF:-1 tvg-id="ATVSur.pe" group-title="ENTRETENIMIENTO" , ATV Sur PE
-https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV.pe" group-title="ENTRETENIMIENTO" , ATV PE
-https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnecl/ATV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UnitelSantaCruz.bo" group-title="ENTRETENIMIENTO" , Unitel BO
 
