@@ -214,7 +214,8 @@ https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="gt#canal-3" group-title="ENTRETENIMIENTO" , Canal 3 GT
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 
-
+#EXTINF:-1 tvg-id="gt#canal-3" group-title="ENTRETENIMIENTO" , Canal 3 SV
+https://cloud2.streaminglivehd.com:1936/8048/8048/.m3u8
 
 #EXTINF:-1 tvg-id="gt#televisiete">" group-title="ENTRETENIMIENTO" , Canal 7 - Televisiete
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
@@ -372,7 +373,7 @@ http://895845416218321376.ofdgk1124.xyz:80/live/wa812936/5mEyjyh4QQ/321376.ts
 
 
 #EXTINF:-1 tvg-id="Canal2.sv" group-title="Internacional", Canal 2 SV
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jllP4u1vzGBg-dWPh5dNBh7t1rTaZEh-NXTGakBtPUvP/ts
+https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Canal 2 CR
 
