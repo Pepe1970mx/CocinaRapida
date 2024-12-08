@@ -164,6 +164,10 @@ https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
 
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , + Cine
+https://glb.bozztv.com/glb/ssh101/mascineclasico/playlist.m3u8
+
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Imagen Universa
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
