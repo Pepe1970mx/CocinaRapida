@@ -134,9 +134,13 @@ http://home-playtv.com:8080/OlgerAlvarado/KWWGT/9412
 
 
 #EXTINF:-1 tvg-id="Chespirito" group-title="Comedia" , Chespirito 
+http://weib-tv.com:80/pacha1968/joasa2717/575625.ts
 
 #EXTINF:-1 tvg-id="Chespirito" group-title="Comedia" , Los Tres Chiflados
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="" group-title="Comedia" , Loney Tones
+http://weib-tv.com:80/pacha1968/joasa2717/575738.ts
 
 
 
