@@ -142,6 +142,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e
 #EXTINF:-1 tvg-id="" group-title="Comedia" , Loney Tones
 http://weib-tv.com:80/pacha1968/joasa2717/575738.ts
 
+#EXTINF:-1 tvg-id="" group-title="Comedia" , Locos ADamsy
+http://weib-tv.com:80/pacha1968/joasa2717/575795.ts
+
+
 
 
 #EXTINF:-1 tvg-id="El Financiero Bloomberg" group-title="NOTICIAS", El Financiero - Bloomberg TV
