@@ -62,7 +62,7 @@ https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 #EXTINF:-1 tvg-id="El Nueve" group-title="NACIONAL", El Nueve
 http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53978
 
-#EXTINF:-1 tvg-id="El Heraldo TV" group-title="NACIONAL" , Canal 10 Yucatan
+#EXTINF:-1 tvg-id="El Heraldo TV" group-title="NACIONAL" , Heraldo TV
 https://ythls.armelin.one/channel/UC7E9Dj_lmrJdDrH2Bg7rNqQ.m3u8
 
 #EXTINF:-1 tvg-id="TeleFormula.mx" group-title="NACIONAL" , Teleformula
@@ -301,6 +301,12 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/19682
 
 http://23.237.66.106:25461/now_160322/now2.php id=UNIVISIONEAST&calidad=sd&.m3u8
+
+#EXTINF:-1 tvg-id"" group-title="Internacional",  Univision Latinoamérica 
+http://weib-tv.com:80/pacha1968/joasa2717/443150.ts
+
+
+
 
 #EXTINF:-1 tvg-id"" group-title="Internacional", Unimas
 http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/52229
@@ -552,6 +558,9 @@ http://home-playtv.com:8080/OlgerAlvarado/KWWGT/19495
 http://home-playtv.com:8080/OlgerAlvarado/KWWGT/9538
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
+http://weib-tv.com:80/pacha1968/joasa2717/443131.ts
+
+
 http://200.115.120.1:8000/play/ca039/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.us" group-title="Sports", TUDN USA
@@ -600,10 +609,10 @@ EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network
 
 
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
-http://home-playtv.com:8080/OlgerAlvarado/KWWGT/439744
+http://weib-tv.com:80/pacha1968/joasa2717/46189.ts
 
 #EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT HD
-http://home-playtv.com:8080/OlgerAlvarado/KWWGT/9495
+
 
 #EXTINF:-1 tvg-id="Sony Cine" group-title="De Paga", Sony Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
