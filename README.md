@@ -208,7 +208,7 @@ https://s2.tvdatta.com:3753/hybrid/play.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id"TOONCAST" group-title="ENTRETENIMIENTO" , Tooncast
-http://65088091630947315.ofdgk1124.xyz:80/play/wa812936/5mEyjyh4QQ/947315.ts
+http://weib-tv.com:80/pacha1968/joasa2717/11941.ts
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Adult Swin
 http://home-playtv.com:8080/OlgerAlvarado/KWWGT/19466
@@ -677,47 +677,50 @@ https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index
 #EXTINF:-1 tvg-id="ESBC4100003WE" group-title="Kids" , Clan
 https://jmp2.uk/SamsungTVPlus/ESBC4100003WE.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Kids" , Dreamworks 
+http://weib-tv.com:80/pacha1968/joasa2717/319635.ts
+
 #EXTINF:-1 tvg-id="Cartoon Network Norte" group-title="Kids", Cartoon Network 4K
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjUuVY4Yb_DHgzsx8PMu2aafVkEJGgitSl2DMt9mUoi0/ts
+http://weib-tv.com:80/pacha1968/joasa2717/11920.ts
 
 #EXTINF:-1 tvg-id="Nick" group-title="Kids", Nick HD
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jpZrbSzUE7Jj3X4BPJaJM98kMtHQ6VQrbIIMT7wYuZya/ts
+http://weib-tv.com:80/pacha1968/joasa2717/11939.ts
 
 #EXTINF:-1 tvg-id="Disney Channel Espana" group-title="Kids", Disney Channels HD
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jpw5GZ_8GxfU_VIPGbnrtnIe10KLEqZxiPhPBGS5_i0e/ts
+http://weib-tv.com:80/pacha1968/joasa2717/11926.ts
 
 #EXTINF:-1 tvg-id="645952687cb4b100084ed52e" group-title="Kids", Nickelodeon Pluto TV
-https://jmp2.uk/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
+
 
 #EXTINF:-1 tvg-id="5d8d08395f39465da6fb3ec4" group-title="Kids", Nickelodeon en español 
-https://jmp2.uk/PlutoTV/5d8d08395f39465da6fb3ec4-alt.m3u8
+
 
 #EXTINF:-1 tvg-id="5fab09a8749b1a00077d35d2" group-title="Kids", Nick Teen
-https://jmp2.uk/PlutoTV/5fab09a8749b1a00077d35d2-alt.m3u8
+http://weib-tv.com:80/pacha1968/joasa2717/11935.ts
 
 #EXTINF:-1 tvg-id="609e7e423e9173000706a681" group-title="Kids", Pluto TV toons Clasico
-https://jmp2.uk/PlutoTV/609e7e423e9173000706a681-alt.m3u8
+
 
 #EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="Kids", Nickelodeon Clasico
-https://jmp2.uk/PlutoTV/5f12151794c1800007a8ae63-alt.m3u8
+
 
 #EXTINF:-1 tvg-id="60142258a54aeb0007751c15" group-title="Kids", Pluto TV Retro Cartoons
-https://jmp2.uk/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
+
 
 #EXTINF:-1 tvg-id="5fcea93ffcf94500071c4b2f" group-title="Kids", Kenan y Kel
-https://jmp2.uk/PlutoTV/5fcea93ffcf94500071c4b2f-alt.m3u8
+
 
 #EXTINF:-1 tvg-id="6254598f5083f800076d8563" group-title="Kids", Bob Espoja Psntalones Cuadrados
-https://jmp2.uk/PlutoTV/6254598f5083f800076d8563-alt.m3u8
+
 
 #EXTINF:-1 tvg-id="6322099c822bbc00074857db" group-title="Kids", Los Padrinos Magicos
-https://jmp2.uk/PlutoTV/6322099c822bbc00074857db-alt.m3u8
+
 
 #EXTINF:-1 tvg-id="63dd5d7a4e83e700088fbca8" group-title="Kids", Las Tortugas Ninja
-https://jmp2.uk/PlutoTV/63dd5d7a4e83e700088fbca8-alt.m3u8
+
 
 EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="Kids", Los Tres Chiflados
-https://jmp2.uk/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
+
 
 
 
