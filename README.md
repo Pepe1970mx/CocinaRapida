@@ -926,16 +926,10 @@ https://cdamix.streaming.ws/mixmusic/live/playlist.m3u8
 https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV Hits
-http://1.1usd.tv:34000/ch019/mono.m3u8?token=1usdtv_kol218.FQLwEoHD4r5K2LNrRWktdPYJWg5-XvGV1grldK-u_7Z6TNIJd95AgbvPjxHfe8BQ
+
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV Live
 
-
-
-
-
-#EXTINF:-1 tvg-id="" group-title="MUSIC", Box Hits
-http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/19175/index.m3u8
 
 #EXTINF:-1 tvg-id="CABD1200038NZ" group-title="MUSIC", XITE Hits
 
@@ -976,10 +970,9 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-623954128ed2b3b15baecb2c.m3u8
 
 #EXTINF:-1 tvg-id="Videorola" group-title="MUSICA REGIONAL", Video Rola https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_2.m3u8
 
-#EXTINF: -1 tvg-logo = "http://i.imgur.com/897e9wy.png" group-title="MUSICA REGIONAL", Teleritmo http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-1 group-title="MUSICA REGIONAL", RetroChannels 
-https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+
+
 
 
 
