@@ -932,7 +932,7 @@ https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 
 
 #EXTINF:-1 tvg-id="CABD1200038NZ" group-title="MUSIC", XITE Hits
-
+https://jmp2.uk/sam-USBD3300004RH.m3u8
 
 #EXTINF:-1 tvg-id="ESBA330004064" group-title="MUSIC", Free TV Hits
 
@@ -940,7 +940,7 @@ https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 
 
 #EXTINF:-1 tvg-id="5d93b635b43dd1a399b39eee" group-title="MUSIC", Vevo Pop
-
+https://jmp2.uk/sam-USBC3600008WY.m3u8
 
 #EXTINF:-1 tvg-id="5d14fd1a252d35decbc4080c" group-title="MUSIC", MTV Biggest pop
 
@@ -958,7 +958,7 @@ https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 
 
 #EXTINF:-1 tvg-id="5da0d64d0e8a62000964ebe4" group-title="MUSIC", Vevo Latino
- 
+ https://jmp2.uk/sam-USBC3600015GF.m3u8
 
 
 
