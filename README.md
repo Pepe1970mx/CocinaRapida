@@ -880,17 +880,17 @@ http://823791426715915613.ofgd919.xyz:80/play/vi120237/kpmkHcrCj@/915613.ts
 
 
 #EXTINF:-1 tvg-id="5fd7b8bf927e090007685853" group-title="Retro Music", Vevo '80s
-
+https://jmp2.uk/sam-USBD300012YC.m3u8
 
 #EXTINF:-1 tvg-id="USBB320000647" group-title="Retro Music", XITE 80s Flashback 
+https://jmp2.uk/sam-USBB320000647.m3u8
 
-
-
-
+#EXTINF:-1 tvg-id="USBC3600002EK" group-title="Retro Music", Vevo Hip Hop
+https://jmp2.uk/sam-USBC3600002EK.m3u8
 
 
 #EXTINF:-1 tvg-id="5fd7bb1f86d94a000796e2c2" group-title="Retro Music", Vevo 90s
-
+https://jmp2.uk/sam-USBD3000133M.m3u8
 
 #EXTINF:-1 tvg-id="6490254fd2c47c00083a5743" group-title="Retro Music", Now Rock
 
@@ -899,13 +899,13 @@ http://823791426715915613.ofgd919.xyz:80/play/vi120237/kpmkHcrCj@/915613.ts
 
 
 #EXTINF:-1 tvg-id="USBB2300004KV" group-title="Retro Music", XITE Rock on
-
+https://jmp2.uk/sam-USBB2300004KV.m3u8
 
 #EXTINF:-1 tvg-id="624303598e45140007d765c1" group-title="Retro Music", MTV Rocks
 
 
 #EXTINF:-1 tvg-logo="" group-title="Retro Music", Vevo Retro Rock
-
+https://jmp2.uk/sam-USBD3000145P.m3u8
 
 #EXTINF:-1 tvg-id="65cf6adca25d5e00081d2f3f" group-title="Retro Music", MTV Hip Hop and Rap
 
