@@ -130,8 +130,10 @@ https://jmp2.uk/sam-USBD2700004ME.m3u8
 https://jmp2.uk/sam-USBC2100010OS.m3u8
 
 #EXTINF:-1 tvg-id="Distrito Comedia" group-title="Comedia" , Distrito Comedia
-http://home-playtv.com:8080/OlgerAlvarado/KWWGT/9412
 
+
+#EXTINF:-1 tvg-id="Sony Comedia" group-title="Comedia" , Sony Comedia
+https://jmp2.uk/sam-USAJ22000057N.m3u8
 
 #EXTINF:-1 tvg-id="Chespirito" group-title="Comedia" , Chespirito 
 http://weib-tv.com:80/pacha1968/joasa2717/575625.ts
@@ -323,7 +325,7 @@ http://home-playtv.com:8080/OlgerAlvarado/KWWGT/218336
 https://jmp2.uk/sam-USBA300040WR.m3u8
 
 #EXTINF:-1 tvg-id="USBC39000080S" group-title="Internacional", Canela TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4847
+https://jmp2.uk/sam-USBC39000080S.m3u8
 
 
 EXTINF:-1  tvg-id="WAPA TV"  group-title="Internacional" , Wapa
