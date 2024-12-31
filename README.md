@@ -14,12 +14,8 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="Las Estrellas" group-title="NACIONAL", Las Estrellas
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/ESTRELLAS/40-hls/live-media.m3u8
 
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/3?mp2t
-
 #EXTINF:-1 tvg-id="ImagenTV.mx" group-title="NACIONAL", Imagen TV
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/IMAGEN/40-hls/live-media.m3u8
-
-http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53993
 
 EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
 
@@ -299,27 +295,20 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-id="Punto 2" group-title="Internacional", Punto2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
-#EXTINF:-1 tvg-id"" group-title="Internacional",  Univision 
-http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/19682
-
+#EXTINF:-1 tvg-id"" group-title="Internacional",  Univision
 http://23.237.66.106:25461/now_160322/now2.php id=UNIVISIONEAST&calidad=sd&.m3u8
 
 #EXTINF:-1 tvg-id"" group-title="Internacional",  Univision Latinoamérica 
-http://weib-tv.com:80/pacha1968/joasa2717/443150.ts
-
-
 
 
 #EXTINF:-1 tvg-id"" group-title="Internacional", Unimas
-http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/52229
-
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASEAST&calidad=sd&.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Teleonce Univision PR
-http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/19677
+
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Galavision
-http://home-playtv.com:8080/OlgerAlvarado/KWWGT/218336
+
 
 #EXTINF:-1 tvg-id="USBA300040WR" group-title="Internacional", ESTRELLA TV
 https://jmp2.uk/sam-USBA300040WR.m3u8
