@@ -213,18 +213,18 @@ https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , + Cine
 https://glb.bozztv.com/glb/ssh101/mascineclasico/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , + Media
-http://366561339425909066.ofds1114.xyz:80/play/vi117405/QSkFvSyysk/909066.ts
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Chinola
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , HD Pelis
-https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Imagen Universa
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Global Televisión 
-http://bantel-cdn1.iptvperu.tv:1935/cdnecl/Global/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Moni TV" group-title="ENTRETENIMIENTO" , Moni TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8?PlaylistM3UCL
@@ -609,7 +609,7 @@ http://weib-tv.com:80/pacha1968/joasa2717/46189.ts
 
 
 #EXTINF:-1 tvg-id="Sony Cine" group-title="De Paga", Sony Cine
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Space.sur" group-title="De Paga", Space HD
 http://home-playtv.com:8080/OlgerAlvarado/KWWGT/54168
