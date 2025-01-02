@@ -165,6 +165,46 @@ https://s5.mexside.net:1936/france24/france24/playlist.m3u8
 https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 
 
+#EXTINF:-1 tvg-id="Telemundo(Spanish).us" group-title="Internacional", Telemundo 
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
+
+#EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
+http://home-playtv.com:8080/OlgerAlvarado/KWWGT/185096
+
+#EXTINF:-1 tvg-id="Telemundo Puerto Rico" group-title="Internacional", Telemundo PR
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-id="Punto 2" group-title="Internacional", Punto2
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+
+#EXTINF:-1 tvg-id"" group-title="Internacional",  Univision
+http://23.237.66.106:25461/now_160322/now2.php id=UNIVISIONEAST&calidad=sd&.m3u8
+
+#EXTINF:-1 tvg-id"" group-title="Internacional",  Univision Latinoamérica 
+
+
+#EXTINF:-1 tvg-id"" group-title="Internacional", Unimas
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASEAST&calidad=sd&.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Internacional", Teleonce Univision PR
+
+
+#EXTINF:-1 tvg-id="" group-title="Internacional", Galavision
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/GALAVISION/40-hls/live-media.m3u8
+
+#EXTINF:-1 tvg-id="USBA300040WR" group-title="Internacional", ESTRELLA TV
+https://jmp2.uk/sam-USBA300040WR.m3u8
+
+#EXTINF:-1 tvg-id="USBC39000080S" group-title="Internacional", Canela TV
+https://jmp2.uk/sam-USBC39000080S.m3u8
+
+
+EXTINF:-1  tvg-id="WAPA TV"  group-title="Internacional" , Wapa
+
+#EXTINF:-1  tvg-id="America TV"  group-title="Internacional" , America TV
+https://live.gideo.video/americateve2/master.m3u8
+
+
 
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
@@ -283,44 +323,7 @@ EXTINF:-1 tvg-id="Fanpop" group-title="ENTRETENIMIENTO", Fanpop TV
 https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Telemundo(Spanish).us" group-title="Internacional", Telemundo 
-https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 
-#EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
-http://home-playtv.com:8080/OlgerAlvarado/KWWGT/185096
-
-#EXTINF:-1 tvg-id="Telemundo Puerto Rico" group-title="Internacional", Telemundo PR
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
-#EXTINF:-1 tvg-id="Punto 2" group-title="Internacional", Punto2
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-
-#EXTINF:-1 tvg-id"" group-title="Internacional",  Univision
-http://23.237.66.106:25461/now_160322/now2.php id=UNIVISIONEAST&calidad=sd&.m3u8
-
-#EXTINF:-1 tvg-id"" group-title="Internacional",  Univision Latinoamérica 
-
-
-#EXTINF:-1 tvg-id"" group-title="Internacional", Unimas
-http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASEAST&calidad=sd&.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Internacional", Teleonce Univision PR
-
-
-#EXTINF:-1 tvg-id="" group-title="Internacional", Galavision
-
-
-#EXTINF:-1 tvg-id="USBA300040WR" group-title="Internacional", ESTRELLA TV
-https://jmp2.uk/sam-USBA300040WR.m3u8
-
-#EXTINF:-1 tvg-id="USBC39000080S" group-title="Internacional", Canela TV
-https://jmp2.uk/sam-USBC39000080S.m3u8
-
-
-EXTINF:-1  tvg-id="WAPA TV"  group-title="Internacional" , Wapa
-
-#EXTINF:-1  tvg-id="America TV"  group-title="Internacional" , America TV
-https://live.gideo.video/americateve2/master.m3u8
 
 EXTINF:-1 tvg-id="USBD7000017L" group-title="Internacional", AMC en Español
 https://jmp2.uk/Sam-USBD7000017L.m3u8
