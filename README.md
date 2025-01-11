@@ -496,16 +496,16 @@ https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=310a09e6-6fd5-11ef-b1af-be21e08b28a0
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Caliente TV
-
+http://spacetvplay.com:80/RBXVT/CJYFR/558709.ts
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
-
+http://spacetvplay.com:80/RBXVT/CJYFR/54533.ts
 
 #EXTINF:-1 tvg-id="ESPN MX" group-title="Sports", Espn HD
 http://spacetvplay.com:80/RBXVT/CJYFR/9380.ts
 
 #EXTINF:-1 tvg-id="ESPN 2 MX" group-title="Sports", Espn 2 HD
-
+http://spacetvplay.com:80/RBXVT/CJYFR/36391.ts
 
 #EXTINF:-1 tvg-id="ESPN 3 MX" group-title="Sports", Espn 3 HD
 http://spacetvplay.com:80/RBXVT/CJYFR/9530.ts
@@ -534,7 +534,7 @@ http://spacetvplay.com:80/RBXVT/CJYFR/9530.ts
 
 
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes 
-
+http://spacetvplay.com:80/RBXVT/CJYFR/36396.ts
 
 #EXTINF:-1 tvg-id="Fox Sports Premium" group-title="Sports", Fox Sports Premium HD
 
