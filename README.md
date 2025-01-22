@@ -533,6 +533,12 @@ http://spacetvplay.com:80/RBXVT/CJYFR/9530.ts
 #EXTINF:-1 tvg-id="" group-title="Sports", Espn 7 Sur
 
 
+#EXTINF:-1 tvg-id="Fox Sports en español" group-title="Sports", Fox Sports en español 
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+
+group-title="Sports", Fox Deportes
+
+
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes 
 http://spacetvplay.com:80/RBXVT/CJYFR/36396.ts
 
