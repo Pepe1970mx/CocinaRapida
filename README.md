@@ -555,17 +555,17 @@ http://spacetvplay.com:80/RBXVT/CJYFR/19495.ts
 http://spacetvplay.com:80/RBXVT/CJYFR/19496.ts
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
-http://weib-tv.com:80/pacha1968/joasa2717/443131.ts
+http://spacetvplay.com:80/RBXVT/CJYFR/456663.ts
 
 #EXTINF:-1 tvg-id="TUDN.us" group-title="Sports", TUDN USA
-http://home-playtv.com:8080/OlgerAlvarado/KWWGT/166029
+http://spacetvplay.com:80/RBXVT/CJYFR/242045.ts
 
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN
-http://home-playtv.com:8080/OlgerAlvarado/KWWGT/456662
+
 
 
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN USA
-http://home-playtv.com:8080/OlgerAlvarado/KWWGT/456664
+
 
 
 
