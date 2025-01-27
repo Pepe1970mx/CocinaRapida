@@ -182,7 +182,7 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u
 
 
 #EXTINF:-1 tvg-id"" group-title="Internacional", Unimas
-http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASEAST&calidad=sd&.m3u8
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=sd&.ts
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Teleonce Univision PR
 
