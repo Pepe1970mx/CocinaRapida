@@ -281,6 +281,9 @@ https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" group-title="ENTRETENIMIENTO" , ATV PE
 http://bantel-cdn1.iptvperu.tv:1935/cdnecl/ATV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ATV.pe" group-title="ENTRETENIMIENTO" , America TV
+https://us-b4-p-e-cg11.cdn.mdstrm.com/live-stream-dai/6099b04d9418ac082441dd74/d302a65b304245a1a63015260288df35/f624fec49dadc88894ebeff1d974eab019af7757/session/62b4b5ca-a3f2-49b0-86c6-8f1f12eedefe/media.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=8vnaz24SAy2M9mVbVAf1DQ7sjX3y8tYM&sid=etVdIx5NmVjvz1lNdMWgj3gOPlX0zRdh&pid=5MN31cRfnalW3rhVIdqJ5BvXlnsUszxP&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&listenerid=&dnt=true&access_token=O29vz2TLLfpHCqAN82OHxk0mGmxc0XiAwJvTK42RxWJgu9458ix7yLJJ1Rc1bPjWnLukIh8QSOY&es=us-b4-p-e-ja16.cdn.mdstrm.com&ote=1738041877938&ot=s-SBN1-zz_OVrVxvwgN0wA&proto=https&pz=us
+
 #EXTINF:-1 tvg-id="UnitelSantaCruz.bo" group-title="ENTRETENIMIENTO" , Unitel BO
 
 EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="ENTRETENIMIENTO", Ciudad Magica AR
