@@ -49,17 +49,15 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="A Mas" group-title="NACIONAL", A Mas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="NACIONAL",  TV 6.4
+#EXTINF:-1 tvg-id="" group-title="NACIONAL",  Popcorn central
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="NACIONAL", Free TV 8.3
 
 
 #EXTINF:-1 tvg-id="El Nueve" group-title="NACIONAL", El Nueve
-http://vp-txpro.com:80/nsNvUZumRLXE/aXKFbmCk7YCM/53978
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/GALAVISION/40-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-id="El Heraldo TV" group-title="NACIONAL" , Heraldo TV
-https://ythls.armelin.one/channel/UC7E9Dj_lmrJdDrH2Bg7rNqQ.m3u8
+
 
 #EXTINF:-1 tvg-id="TeleFormula.mx" group-title="NACIONAL" , Teleformula
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
@@ -141,7 +139,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e
 http://weib-tv.com:80/pacha1968/joasa2717/575738.ts
 
 #EXTINF:-1 tvg-id="" group-title="Comedia" , Locos ADamsy
-http://weib-tv.com:80/pacha1968/joasa2717/575795.ts
+
 
 
 
@@ -166,10 +164,10 @@ https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 
 
 #EXTINF:-1 tvg-id="Telemundo(Spanish).us" group-title="Internacional", Telemundo 
-https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
+
 
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
-http://home-playtv.com:8080/OlgerAlvarado/KWWGT/185096
+
 
 #EXTINF:-1 tvg-id="Telemundo Puerto Rico" group-title="Internacional", Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
@@ -178,7 +176,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
 #EXTINF:-1 tvg-id"" group-title="Internacional",  Univision
-http://23.237.66.106:25461/now_160322/now2.php id=UNIVISIONEAST&calidad=sd&.m3u8
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
 
 #EXTINF:-1 tvg-id"" group-title="Internacional",  Univision Latinoamérica 
 
@@ -190,7 +188,7 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASEAST&calidad=sd&.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Galavision
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/GALAVISION/40-hls/live-media.m3u8
+
 
 #EXTINF:-1 tvg-id="USBA300040WR" group-title="Internacional", ESTRELLA TV
 https://jmp2.uk/sam-USBA300040WR.m3u8
@@ -201,7 +199,8 @@ https://jmp2.uk/sam-USBC39000080S.m3u8
 
 EXTINF:-1  tvg-id="WAPA TV"  group-title="Internacional" , Wapa
 
-#EXTINF:-1  tvg-id="America TV"  group-title="Internacional" , America TV
+
+#EXTINF:-1  tvg-id="America TV"  group-title="Internacional" , America Teve
 https://live.gideo.video/americateve2/master.m3u8
 
 
@@ -603,7 +602,7 @@ EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network
 
 
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
-http://weib-tv.com:80/pacha1968/joasa2717/46189.ts
+
 
 #EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT HD
 
@@ -612,16 +611,16 @@ http://weib-tv.com:80/pacha1968/joasa2717/46189.ts
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Space.sur" group-title="De Paga", Space HD
-http://home-playtv.com:8080/OlgerAlvarado/KWWGT/54168
+
 
 #EXTINF:-1 tvg-id="FX.sur" group-title="De Paga", FX
 https://streamer1.nexgen.bz/FX/index.m3u8
 
 #EXTINF:-1 tvg-id="Warner" group-title="De Paga", Warner 
-http://home-playtv.com:8080/OlgerAlvarado/KWWGT/53040
+
 
 #EXTINF:-1 tvg-id="Sony" group-title="De Paga", Sony Channels 
-http://home-playtv.com:8080/OlgerAlvarado/KWWGT/439783
+
 
 #EXTINF:-1 tvg-id="USA" group-title="De Paga", USA
 http://200.115.120.1:8000/play/ca125/index.m3u8
@@ -630,7 +629,13 @@ http://200.115.120.1:8000/play/ca125/index.m3u8
 
 
 #EXTINF:-1 tvg-id="AXN" group-title="De Paga", AXN
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AXN/40-hls/live-media.m3u8
+
 https://streamer1.nexgen.bz/AXN/index.m3u8
+
+#EXTINF:-1 tvg-id=" " group-title="De Paga",SYFY
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/SYFY/20-hls/live-media.m3u8
+
 
 #EXTINF:-1 tvg-id="Paramount Channel" group-title="De Paga", Paramount 
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/53938
