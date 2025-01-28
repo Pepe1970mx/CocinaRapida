@@ -252,7 +252,7 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 http://weib-tv.com:80/pacha1968/joasa2717/11941.ts
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Adult Swin
-http://home-playtv.com:8080/OlgerAlvarado/KWWGT/19466
+http://redima.pro:8880/1311617953/1311617953/385
 
 #EXTINF:-1 tvg-id="VTV" group-title="ENTRETENIMIENTO" , TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8
