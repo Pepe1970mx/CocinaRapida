@@ -198,9 +198,13 @@ https://jmp2.uk/sam-USBC39000080S.m3u8
 
 
 EXTINF:-1  tvg-id="WAPA TV"  group-title="Internacional" , Wapa
-
+http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/611461
 
 #EXTINF:-1  tvg-id="America TV"  group-title="Internacional" , America Teve
+https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-dai/6099b04d9418ac082441dd74/d302a65b304245a1a63015260288df35/f624fec49dadc88894ebeff1d974eab019af7757/session/fdb10c29-7f0b-4154-8844-de75dd416073/media.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=8vnaz24SAy2M9mVbVAf1DQ7sjX3y8tYM&sid=janj4caDHds9ZoUcx9WJbmY8l4BCgj15&pid=q4wo9kdvBdVHr913kWUj9qdDA0UFD5YV&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&listenerid=&dnt=true&access_token=8Z29YFqOtp0EJnwdjW7oEkVQ0T8uQL2A2oo5DcUh6sRqdu618uqt8cj8cDPiFh42D6p2UKPL5W3&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1738122546963&ot=0qAXPbhN6ARDLBGuEkXX8g&proto=https&pz=us
+
+
+
 https://live.gideo.video/americateve2/master.m3u8
 
 
@@ -569,22 +573,11 @@ http://spacetvplay.com:80/RBXVT/CJYFR/242045.ts
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN USA
 
 
-
-
 #EXTINF:-1 tvg-id="" group-title="Sports", Futbol Network 
 https://live.relentlessinnovations.net:1936/futbolnetwork/futbolnetwork/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Fubo Sport Network 
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fubo.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports", Movistar Liga de Campeones
-http://881166186915246282.ofd0711.xyz:80/play/JC8L3TCSVE/GJrYUvREHSY/246282.ts
-
-#EXTINF:-1 tvg-id="" group-title="Sports", Movistar La Liga
-http://823791426715165392.ofgd919.xyz:80/play/vi120237/kpmkHcrCj@/165392.ts
-
-#EXTINF:-1 tvg-id="" group-title="Sports", Amazon Prime
-
 
 #EXTINF:-1 tvg-id="63f7e3f9dff38e00082a57af" group-title="Sports", ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
@@ -593,12 +586,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 
 #EXTINF:-1 tvg-id="WAPADT2.pr" group-title="Sports", Wapa Deportes
-https://live.field59.com/wapa/wapa2/.m3u8
-
-#EXTINF:-1 tvg-id="64b79c057d934100080b3583" group-title="Sports", Dazn Internacional Futbol
+http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/611459
 
 
-EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network 
+
+
+
 
 
 
