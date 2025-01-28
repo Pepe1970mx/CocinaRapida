@@ -127,16 +127,15 @@ https://jmp2.uk/sam-USBC2100010OS.m3u8
 
 
 #EXTINF:-1 tvg-id="Sony Comedia" group-title="Comedia" , Sony Comedia
-https://jmp2.uk/sam-USAJ22000057N.m3u8
+
 
 #EXTINF:-1 tvg-id="Chespirito" group-title="Comedia" , Chespirito 
 http://weib-tv.com:80/pacha1968/joasa2717/575625.ts
 
 #EXTINF:-1 tvg-id="Chespirito" group-title="Comedia" , Los Tres Chiflados
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="" group-title="Comedia" , Loney Tones
-http://weib-tv.com:80/pacha1968/joasa2717/575738.ts
+
 
 #EXTINF:-1 tvg-id="" group-title="Comedia" , Locos ADamsy
 
@@ -598,7 +597,7 @@ http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/611459
 
 
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
-
+http://redima.pro:8880/1311617953/1311617953/343
 
 #EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT HD
 
@@ -719,84 +718,6 @@ EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="Kids", Los Tres Chiflad
 
 
 
-#EXTINF:-1 tvg-id="" group-title="Movies", Free TV
-https://freetv.stream.olympusatmedia.com/index.m3u8
-
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6018913ea15130002b28418f" group-title="Movies", Free TV Live
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6018913ea15130002b28418f.m3u8
-
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291" group-title="Movies", Free TV Accion
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-
-EXTINF:-1 tvg-id="ESBA3300039ZX" group-title="Movies", Free TV Estelar
-https://i.mjh.nz/SamsungTVPlus/ESBA3300039ZX.m3u8
-
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6018913fa15130002b284197" group-title="Movies", Free TV Sureño
-https://amg01024-olympusat-cinesurenope-lgpe-brjfx.amagi.tv/playlist/amg01024-olympusat-cinesurenope-lgpe/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Acción Mexicana" group-title="Movies", Acción Mexicana
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
-
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b" group-title="Movies", Free TV Horror
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfyco-lgco/playlist.m3u8
-
-EXTINF:-1 tvg-id="canela-horror" group-title="Movies", Canela Horror
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
-
-EXTINF:-1 tvg-id="" group-title="Movies", Runtime Espanto
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
-
-
-EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-60240f57676235002df19f49" group-title="Movies", Free TV Familia
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntosco-lgco/playlist.m3u8
-
-EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" group-title="Movies",Cine Premiere 
-https://r.mjh.nz/PlutoTV/5cf968040ab7d8f181e6a68b-alt.m3u8
-
-#EXTINF:-1 tvg-id="65f8123025e21c0013fadeb0" group-title="Movies", Pluto TV Noches de Acción 
-https://jmp2.uk/PlutoTV/65f8123025e21c0013fadeb0-alt.m3u8
-
-EXTINF:-1 tvg-id="canela-cinema-0" group-title="Movies", Canela Cinema
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgmx/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ESAJ45000181E" group-title="Movies" , Accion Rakuten 
-https://jmp2.uk/SamsungTVPlus/ESAJ45000181E.m3u8
-
-#EXTINF:-1 tvg-id="ESBD80000288" group-title="Movies", Runtime Accion
-https://jmp2.uk/SamsungTVPlus/ESBD80000288.m3u8
-
-EXTINF:-1 tvg-id="ESBA3300017FA" group-title="Movies", Familiares-Rakuten
-https://i.mjh.nz/SamsungTVPlus/ESBA3300017FA.m3u8
-
-#EXTINF:-1 tvg-id="65786888b228b7000843ad9a" group-title="Movies", Pluto TV Zombies
-https://jmp2.uk/PlutoTV/65786888b228b7000843ad9a-alt.m3u8
-
-#EXTINF:-1 tvg-id="5dcb62e63d4d8f0009f36881" group-title="Movies" , Pluto TV Cine Acción 
-https://jmp2.uk/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8
-
-#EXTINF:-1 tvg-id="5e972a21ad709d00074195ba" group-title="Movies" , Pluto TV Estrellas En Accion
-https://jmp2.uk/PlutoTV/5e972a21ad709d00074195ba-alt.m3u8
-
-EXTINF:-1 tvg-id="6532e7b290a74c00084a3bb6" group-title="Movies" , Hallmark en Español 
-https://r.mjh.nz/PlutoTV/6532e7b290a74c00084a3bb6-alt.m3u8
-
-EXTINF:-1 tvg-id="5dcde437229eff00091b6c30" group-title="Movies" , Pluto TV Cine Estelar
-https://r.mjh.nz/PlutoTV/5dcde437229eff00091b6c30-alt.m3u8
-
-#EXTINF:-1 tvg-id="5f2817d3d7573a00080f9175" group-title="Movies",Pluto TV Sci-Fi 
-https://jmp2.uk/PlutoTV/5f2817d3d7573a00080f9175-alt.m3u8
-
-#EXTINF:-1 tvg-id="65ddec1ef7f0af0008be4b65" group-title="Movies",Pluto TV Series Sci-Fi
-https://jmp2.uk/PlutoTV/65ddec1ef7f0af0008be4b65-alt.m3u8
-
-EXTINF:-1 tvg-id="624af40c004f8000079b784d" group-title="Movies", Pluto TV Cine Crimen
-https://r.mjh.nz/PlutoTV/624af40c004f8000079b784d-alt.m3u8
-
-#EXTINF:-1 tvg-id="5dcddf1ed95e740009fef7ab" group title="Movies" , Pluto TV Terror
-https://r.mjh.nz/PlutoTV/5dcddf1ed95e740009fef7ab-alt.m3u8
-
-#EXTINF:-1 tvg-id="ESBC2700002LO" group-title="Movies" , Grjngo-Peliculas del Oeste
-https://i.mjh.nz/SamsungTVPlus/ESBC2700002LO.m3u8
 
 
 
