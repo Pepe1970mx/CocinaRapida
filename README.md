@@ -158,7 +158,7 @@ https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 
 
 #EXTINF:-1 tvg-id="Telemundo(Spanish).us" group-title="Internacional", Telemundo 
-
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
 
