@@ -191,7 +191,7 @@ https://jmp2.uk/sam-USBA300040WR.m3u8
 https://jmp2.uk/sam-USBC39000080S.m3u8
 
 
-EXTINF:-1  tvg-id="WAPA TV"  group-title="Internacional" , Wapa
+#EXTINF:-1  tvg-id="WAPA TV"  group-title="Internacional" , Wapa
 http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/611461
 
 #EXTINF:-1  tvg-id="America TV"  group-title="Internacional" , America Teve
@@ -292,35 +292,30 @@ EXTINF:-1 tvg-id="CiudadMagazine.ar" group-title="ENTRETENIMIENTO", Ciudad Magaz
 EXTINF:-1 tvg-id="RetroX TV" group-title="ENTRETENIMIENTO", Retro X
 https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
 
-EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , Retro TV
+#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , Retro TV
 https://ssh101-fl.bozztv.com/ssh101/retrotvcr/index.m3u8
 
-EXTINF:-1 tvg-id="Dreiko TV" group-title="ENTRETENIMIENTO" , Dreiko TV 
+#EXTINF:-1 tvg-id="Dreiko TV" group-title="ENTRETENIMIENTO" , Dreiko TV 
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
-EXTINF:-1 tvg-id="Teleclasica" group-title="ENTRETENIMIENTO" , Teleclasica 
+#EXTINF:-1 tvg-id="Teleclasica" group-title="ENTRETENIMIENTO" , Teleclasica 
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
-EXTINF:-1 tvg-id="ACS Network TV" group-title="ENTRETENIMIENTO", ACS Network
+#EXTINF:-1 tvg-id="ACS Network TV" group-title="ENTRETENIMIENTO", ACS Network
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w910290755.m3u8
 
-EXTINF:-1 tvg-id="Telesistema" group-title="ENTRETENIMIENTO", Telesistema 
+#EXTINF:-1 tvg-id="Telesistema" group-title="ENTRETENIMIENTO", Telesistema 
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 
-EXTINF:-1 tvg-id="Tv Retro Palmares" group-title="ENTRETENIMIENTO", TV Palmares TV
+#EXTINF:-1 tvg-id="Tv Retro Palmares" group-title="ENTRETENIMIENTO", TV Palmares TV
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 
 EXTINF:-1 tvg-id="Magic Kids Tv" group-title="ENTRETENIMIENTO", Magic Kids TV
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
-EXTINF:-1 tvg-id="Mi TV Television Clasica" group-title="ENTRETENIMIENTO", Mi TV televisión Clasica
+#EXTINF:-1 tvg-id="Mi TV Television Clasica" group-title="ENTRETENIMIENTO", Mi TV televisión Clasica
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 
-EXTINF:-1 tvg-id="EnerGeek Retro" group-title="ENTRETENIMIENTO", Energeek
-https://wifispeed.trapemn.tv:1936/energeek/canal-1p/playlist.m3u8
-
-EXTINF:-1 tvg-id="Fanpop" group-title="ENTRETENIMIENTO", Fanpop TV
-https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
 
 
 
@@ -342,10 +337,10 @@ EXTINF:-1 tvg-id="62c5d80dc6de440007e033eb" group-title="ENTRETENIMIENTO", Runti
 #EXTINF:-1 tvg-id="ESBC4100002AG" group-title="España" , La 2 ES
 
 #EXTINF:-1 tvg-id="La Otra" group-title="España" , La Otra
-https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:3_HD.smil/.m3u8
+
 
 #EXTINF:-1 tvg-id="Neox" group-title="España" , Neox
-http://hls.webredirect.org/61048/mp_9367.php/https://atres-live.atresmedia.com/1ca750fca1f8df10b0d985d329c5c8f5a5c20409_ES_1731160754_1731189494/h264leg/live/neox/bitrate_2.m3u8
+
 
 #EXTINF:-1 tvg-id="" group-title="España" ,
 
@@ -363,7 +358,7 @@ https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 
 
 #EXTINF:-1 tvg-id="M Accion" group-title="España", M+ Accion HD
-http://895845416218321306.ofdgk1124.xyz:80/live/wa812936/5mEyjyh4QQ/321306.ts
+
 
 #EXTINF:-1 tvg-id="M Estrenos" group-title="España", M Estrenos
 
@@ -372,7 +367,7 @@ http://895845416218321306.ofdgk1124.xyz:80/live/wa812936/5mEyjyh4QQ/321306.ts
 
 
 #EXTINF:-1 tvg-id="Neox" group-title="España", Neox
-http://895845416218321376.ofdgk1124.xyz:80/live/wa812936/5mEyjyh4QQ/321376.ts
+
 
 #EXTINF:-1 tvg-id="" group-title="España" , Warner
 
