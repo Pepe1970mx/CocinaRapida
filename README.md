@@ -40,8 +40,6 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="Azteca 7" group-title="NACIONAL", Azteca 7
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AZTECA7/40-hls/live-media.m3u8
 
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-
 #EXTINF:-1 tvg-id="A Mas" group-title="NACIONAL", A Mas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
@@ -153,7 +151,7 @@ https://jmp2.uk/PlutoTV/619d59b7cbef25000728221c-alt.m3u8
 #EXTINF:-1 tvg-id="" group-title="NOTICIAS", France Español 
 https://s5.mexside.net:1936/france24/france24/playlist.m3u8
 
-#EXTINF:-1 tvg-id"CNN en Español" group-title="NOTICIAS" , CNN en Español 
+#EXTINF:-1 tvg-id"CNN en Español" group-title="NOTICIAS", CNN en Español 
 https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 
 
@@ -169,13 +167,13 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-id="Punto 2" group-title="Internacional", Punto2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
-#EXTINF:-1 tvg-id"" group-title="Internacional",  Univision
+#EXTINF:-1 tvg-id="" group-title="Internacional", Univision
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
 
-#EXTINF:-1 tvg-id"" group-title="Internacional",  Univision Latinoamérica 
+#EXTINF:-1 tvg-id="" group-title="Internacional",  Univision Latinoamérica 
 
 
-#EXTINF:-1 tvg-id"" group-title="Internacional", Unimas
+#EXTINF:-1 tvg-id="" group-title="Internacional", Unimas
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=sd&.ts
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Teleonce Univision PR
@@ -195,10 +193,6 @@ https://jmp2.uk/sam-USBC39000080S.m3u8
 http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/611461
 
 #EXTINF:-1  tvg-id="America TV"  group-title="Internacional" , America Teve
-https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-dai/6099b04d9418ac082441dd74/d302a65b304245a1a63015260288df35/f624fec49dadc88894ebeff1d974eab019af7757/session/fdb10c29-7f0b-4154-8844-de75dd416073/media.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=8vnaz24SAy2M9mVbVAf1DQ7sjX3y8tYM&sid=janj4caDHds9ZoUcx9WJbmY8l4BCgj15&pid=q4wo9kdvBdVHr913kWUj9qdDA0UFD5YV&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&listenerid=&dnt=true&access_token=8Z29YFqOtp0EJnwdjW7oEkVQ0T8uQL2A2oo5DcUh6sRqdu618uqt8cj8cDPiFh42D6p2UKPL5W3&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1738122546963&ot=0qAXPbhN6ARDLBGuEkXX8g&proto=https&pz=us
-
-
-
 https://live.gideo.video/americateve2/master.m3u8
 
 
@@ -242,7 +236,7 @@ https://s2.tvdatta.com:3753/hybrid/play.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id"TOONCAST" group-title="ENTRETENIMIENTO" , Tooncast
+#EXTINF:-1 tvg-id="TOONCAST" group-title="ENTRETENIMIENTO" , Tooncast
 http://weib-tv.com:80/pacha1968/joasa2717/11941.ts
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Adult Swin
@@ -267,11 +261,6 @@ https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 
 #EXTINF:-1 tvg-id="gt#teleonce-canal-11" group-title="ENTRETENIMIENTO", Canal 11 - Teleonce
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="ATVSur.pe" group-title="ENTRETENIMIENTO" , ATV Sur PE
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
