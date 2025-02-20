@@ -20,7 +20,7 @@ EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/FOROTV/20-hls/live-media.m3u8
 
 #EXTINF:-1 tvg-id="Canal 5" group-title="NACIONAL", Canal 5
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/CANAL5/40-hls/live-media.m3u8
+http://181.78.105.146:2000/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 MX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
