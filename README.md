@@ -16,8 +16,11 @@ https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/IMAGEN/40-hls/live-media.m3u8
 EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
 
 
-#EXTINF:-1 tvg-id="Foro TV" group-title="NACIONAL", Foro TV 
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/FOROTV/20-hls/live-media.m3u8
+#EXTINF:-1 tvg-id="Foro TV" group-title="NACIONAL", Foro TV 4.1
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
+
+#EXTINF:-1 tvg-id="Foro TV" group-title="NACIONAL", Foro TV 4.2
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel04secure-notusa.akamaized.net/hls/live/2029754/event01/index_6.m3u8&redirect=true
 
 #EXTINF:-1 tvg-id="Canal 5" group-title="NACIONAL", Canal 5
 http://181.78.105.146:2000/play/a038/index.m3u8
@@ -34,7 +37,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 #EXTINF:-1 tvg-id="MVSTV.mx" group-title="NACIONAL", MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
-#EXTINF:-1 tvg-id="Teleritmo" group-title="NACIONAL", Teleritmo
+#EXTINF:-1 tvg-id="EXATV" group-title="NACIONAL", EXA TV
+https://mvs.daioncdn.net:443/exatv/exatv_1080p.m3u8?&sid=76arxwhpzqio&app=188fff62-593e-43fb-8604-34d30d693c1e&ce=2
+
+#EXTINF:-1 tvg-id="Teleritmo" group-title="NACIONAL", Teleritmo 
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 tvg-id="Azteca 7" group-title="NACIONAL", Azteca 7
@@ -159,7 +165,10 @@ https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
+http://belami.top/DATAS/arm/plays.php?ch=96&f=.m3u8
 
+#EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo Puerto Rico" group-title="Internacional", Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
