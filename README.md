@@ -1,5 +1,5 @@
 #EXTM3U 
-x-tvg-url="https://raw.githubusercontent.com/Mcarv00/gatotv/master/guide.xml, 000693"
+x-tvg-url="https://raw.githubusercontent.com/Mcarv00/gatotv/master/guide.xml"
 
 #EXTINF:-1 tvg-id="Azteca Uno" group-title="NACIONAL", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
@@ -216,21 +216,32 @@ https://glb.bozztv.com/glb/ssh101/mascineclasico/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Chinola
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , HD Pelis
-
-
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Imagen Universa
-https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Global Televisión 
-
-
 #EXTINF:-1 tvg-id="Moni TV" group-title="ENTRETENIMIENTO" , Moni TV
-https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , Retro TV
+https://ssh101-fl.bozztv.com/ssh101/retrotvcr/index.m3u8
+
+#EXTINF:-1 tvg-id="Dreiko TV" group-title="ENTRETENIMIENTO" , Dreiko TV 
+
+
+#EXTINF:-1 tvg-id="Teleclasica" group-title="ENTRETENIMIENTO" , Teleclasica 
+https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ACS Network TV" group-title="ENTRETENIMIENTO", ACS Network
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w910290755.m3u8
+
+#EXTINF:-1 tvg-id="Telesistema" group-title="ENTRETENIMIENTO", Telesistema 
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tv Retro Palmares" group-title="ENTRETENIMIENTO", TV Palmares TV
+https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mi TV Television Clasica" group-title="ENTRETENIMIENTO", Mi TV televisión Clasica
+https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , FMH Kids
-http://bantel-cdn1.iptvperu.tv:1935/cdnijc/FMH_Kids/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistASTRAL
@@ -246,10 +257,10 @@ https://s2.tvdatta.com:3753/hybrid/play.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TOONCAST" group-title="ENTRETENIMIENTO" , Tooncast
-http://weib-tv.com:80/pacha1968/joasa2717/11941.ts
+
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Adult Swin
-http://redima.pro:8880/1311617953/1311617953/385
+
 
 #EXTINF:-1 tvg-id="VTV" group-title="ENTRETENIMIENTO" , TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8
@@ -285,34 +296,8 @@ https://us-b4-p-e-cg11.cdn.mdstrm.com/live-stream-dai/6099b04d9418ac082441dd74/d
 EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="ENTRETENIMIENTO", Ciudad Magica AR
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
-EXTINF:-1 tvg-id="CiudadMagazine.ar" group-title="ENTRETENIMIENTO", Ciudad Magazine
 
-EXTINF:-1 tvg-id="RetroX TV" group-title="ENTRETENIMIENTO", Retro X
-https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , Retro TV
-https://ssh101-fl.bozztv.com/ssh101/retrotvcr/index.m3u8
-
-#EXTINF:-1 tvg-id="Dreiko TV" group-title="ENTRETENIMIENTO" , Dreiko TV 
-https://cloudvideo.servers10.com:8081/8138/index.m3u8
-
-#EXTINF:-1 tvg-id="Teleclasica" group-title="ENTRETENIMIENTO" , Teleclasica 
-https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ACS Network TV" group-title="ENTRETENIMIENTO", ACS Network
-https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w910290755.m3u8
-
-#EXTINF:-1 tvg-id="Telesistema" group-title="ENTRETENIMIENTO", Telesistema 
-https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tv Retro Palmares" group-title="ENTRETENIMIENTO", TV Palmares TV
-https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
-
-EXTINF:-1 tvg-id="Magic Kids Tv" group-title="ENTRETENIMIENTO", Magic Kids TV
-https://magicstream.ddns.net/magicstream/stream.m3u8
-
-#EXTINF:-1 tvg-id="Mi TV Television Clasica" group-title="ENTRETENIMIENTO", Mi TV televisión Clasica
-https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 
 
 
