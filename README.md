@@ -65,6 +65,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 #EXTINF:-1 tvg-id="Canal Once" group-title="NACIONAL", Canal Once
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b1431072.m3u8
 
+#EXTINF:-1 tvg-id="Once Niños" group-title="NACIONAL", Once Niños
+http://181.78.105.146:2000/play/a04f/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" group-title="NACIONAL", Canal 13
 
 
