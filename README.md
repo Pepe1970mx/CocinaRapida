@@ -472,8 +472,8 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,b
 #EXTINF:-1 tvg-id="6320d2755e54db000783fd87" group-title="Sports", Claro Sports México
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports", Claro Sports 2
-
+#EXTINF:-1 tvg-id="Fox Sports en español" group-title="Sports", Fox Sports en español 
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
 #EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" group-title="Sports", Azteca Deportes Premium
 https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=310a09e6-6fd5-11ef-b1af-be21e08b28a0
@@ -482,25 +482,16 @@ https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u
 http://spacetvplay.com:80/RBXVT/CJYFR/558709.ts
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
-http://spacetvplay.com:80/RBXVT/CJYFR/54533.ts
+
 
 #EXTINF:-1 tvg-id="ESPN MX" group-title="Sports", Espn HD
-http://spacetvplay.com:80/RBXVT/CJYFR/9380.ts
+http://181.78.105.146:2000/play/a064/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2 MX" group-title="Sports", Espn 2 HD
-http://spacetvplay.com:80/RBXVT/CJYFR/36391.ts
+http://181.78.105.146:2000/play/a063/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3 MX" group-title="Sports", Espn 3 HD
-http://spacetvplay.com:80/RBXVT/CJYFR/9530.ts
-
-#EXTINF:-1 tvg-id="" group-title="Sports", Espn Sur
-
-
-#EXTINF:-1 tvg-id="" group-title="Sports", Espn 2 Sur
-
-
-#EXTINF:-1 tvg-id="" group-title="Sports", Espn 3 Sur
-
+http://181.78.105.146:2000/play/a03n/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Espn 4 Sur
 
@@ -516,10 +507,8 @@ http://spacetvplay.com:80/RBXVT/CJYFR/9530.ts
 #EXTINF:-1 tvg-id="" group-title="Sports", Espn 7 Sur
 
 
-#EXTINF:-1 tvg-id="Fox Sports en español" group-title="Sports", Fox Sports en español 
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
-group-title="Sports", Fox Deportes
+
 
 
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes 
