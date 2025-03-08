@@ -479,7 +479,10 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,F
 https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=310a09e6-6fd5-11ef-b1af-be21e08b28a0
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Caliente TV
-http://spacetvplay.com:80/RBXVT/CJYFR/558709.ts
+
+
+
+
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
 
@@ -512,25 +515,25 @@ http://181.78.105.146:2000/play/a03n/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes 
-http://spacetvplay.com:80/RBXVT/CJYFR/36396.ts
+
 
 #EXTINF:-1 tvg-id="Fox Sports Premium" group-title="Sports", Fox Sports Premium HD
 
 
 #EXTINF:-1 tvg-id="Fox Sports MX" group-title="Sports", Fox Sport HD
-http://spacetvplay.com:80/RBXVT/CJYFR/19632.ts
+
 
 #EXTINF:-1 tvg-id="Fox Sports 2 MX" group-title="Sports", Fox sport 2 HD
-http://spacetvplay.com:80/RBXVT/CJYFR/19495.ts
+
 
 #EXTINF:-1 tvg-id="Fox Sports 3 MX" group-title="Sports", Fox sport 3 HD
-http://spacetvplay.com:80/RBXVT/CJYFR/19496.ts
+
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
-http://spacetvplay.com:80/RBXVT/CJYFR/456663.ts
+
 
 #EXTINF:-1 tvg-id="TUDN.us" group-title="Sports", TUDN USA
-http://spacetvplay.com:80/RBXVT/CJYFR/242045.ts
+http://bedroombullyonline.com:3050/live/mary1724@yahoo.com/LryCbvt5Dm/613319.m3u8
 
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN
 
