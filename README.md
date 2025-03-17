@@ -118,8 +118,6 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 #EXTINF:-1 tvg-id="La Rosa" group-title="Drama" , La Rosa de Guadalupe
 
 
-#EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" group-title="Drama" , Pluto TV Series Latinas
-https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=310a09e6-6fd5-11ef-b1af-be21e08b28a0
 
 #EXTINF:-1 tvg-id="USBD2700004ME" group-title="Drama" , Como Dice el Dicho 
 https://jmp2.uk/sam-USBD2700004ME.m3u8
@@ -196,9 +194,6 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=sd&.ts
 #EXTINF:-1 tvg-id="" group-title="Internacional", Galavision
 
 
-#EXTINF:-1 tvg-id="USBA300040WR" group-title="Internacional", ESTRELLA TV
-https://jmp2.uk/sam-USBA300040WR.m3u8
-
 #EXTINF:-1 tvg-id="USBC39000080S" group-title="Internacional", Canela TV
 https://jmp2.uk/sam-USBC39000080S.m3u8
 
@@ -207,10 +202,6 @@ https://jmp2.uk/sam-USBC39000080S.m3u8
 http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/611461
 
 #EXTINF:-1  tvg-id="America TV"  group-title="Internacional" , America Teve
-https://live.gideo.video/americateve2/master.m3u8
-
-
-
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
@@ -311,11 +302,6 @@ https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 EXTINF:-1 tvg-id="USBD7000017L" group-title="Internacional", AMC en Español
 https://jmp2.uk/Sam-USBD7000017L.m3u8
 
-#EXTINF:-1 tvg-id="60fb3087fbbc120007fc46be" group-title="Internacional", Series con Ñ
-
-
-EXTINF:-1 tvg-id="62c5d80dc6de440007e033eb" group-title="ENTRETENIMIENTO", Runtime
-
 
 
 
@@ -351,13 +337,6 @@ https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 #EXTINF:-1 tvg-id="M Estrenos" group-title="España", M Estrenos
 
 
-#EXTINF:-1 tvg-id="" group-title="España" , Star Channel
-
-
-#EXTINF:-1 tvg-id="Neox" group-title="España", Neox
-
-
-#EXTINF:-1 tvg-id="" group-title="España" , Warner
 
 
 
@@ -465,13 +444,6 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jhHRHRUqc6S2jzMEWq_b_7oqSZl1eoQ
 EXTINF:-1 tvg-id="Canal Telesistema 11 (República Dominicana).do" group-title="ENTRETENIMIENTO", Telesistema
 
 
-
-#EXTINF:-1 tvg-id="60492fdd9989d30007ccd30a" group-title="Sports", beIN Sport Xtra en Español
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,beIN-Espanol.m3u8
-
-#EXTINF:-1 tvg-id="6320d2755e54db000783fd87" group-title="Sports", Claro Sports México
-https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
-
 #EXTINF:-1 tvg-id="Fox Sports en español" group-title="Sports", Fox Sports en español 
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
@@ -479,9 +451,6 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,F
 https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=310a09e6-6fd5-11ef-b1af-be21e08b28a0
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Caliente TV
-
-
-
 
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
@@ -556,12 +525,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 
 #EXTINF:-1 tvg-id="WAPADT2.pr" group-title="Sports", Wapa Deportes
 http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/611459
-
-
-
-
-
-
 
 
 
@@ -657,40 +620,6 @@ http://weib-tv.com:80/pacha1968/joasa2717/11926.ts
 
 
 #EXTINF:-1 tvg-id="5d8d08395f39465da6fb3ec4" group-title="Kids", Nickelodeon en español 
-
-
-#EXTINF:-1 tvg-id="5fab09a8749b1a00077d35d2" group-title="Kids", Nick Teen
-http://weib-tv.com:80/pacha1968/joasa2717/11935.ts
-
-#EXTINF:-1 tvg-id="609e7e423e9173000706a681" group-title="Kids", Pluto TV toons Clasico
-
-
-#EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="Kids", Nickelodeon Clasico
-
-
-#EXTINF:-1 tvg-id="60142258a54aeb0007751c15" group-title="Kids", Pluto TV Retro Cartoons
-
-
-#EXTINF:-1 tvg-id="5fcea93ffcf94500071c4b2f" group-title="Kids", Kenan y Kel
-
-
-#EXTINF:-1 tvg-id="6254598f5083f800076d8563" group-title="Kids", Bob Espoja Psntalones Cuadrados
-
-
-#EXTINF:-1 tvg-id="6322099c822bbc00074857db" group-title="Kids", Los Padrinos Magicos
-
-
-#EXTINF:-1 tvg-id="63dd5d7a4e83e700088fbca8" group-title="Kids", Las Tortugas Ninja
-
-
-EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="Kids", Los Tres Chiflados
-
-
-
-
-
-
-
 
 
 
