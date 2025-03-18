@@ -180,13 +180,13 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Univision
-http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
+
 
 #EXTINF:-1 tvg-id="" group-title="Internacional",  Univision Latinoamérica 
-
+http://bedroombullyonline.com:3050/live/mary1724@yahoo.com/LryCbvt5Dm/509148.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Unimas
-http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=sd&.ts
+http://bedroombullyonline.com:3050/live/mary1724@yahoo.com/LryCbvt5Dm/509219.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Teleonce Univision PR
 
@@ -454,7 +454,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u
 
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
-
+http://bedroombullyonline.com:3050/live/mary1724@yahoo.com/LryCbvt5Dm/509171.m3u8
 
 #EXTINF:-1 tvg-id="ESPN MX" group-title="Sports", Espn HD
 http://181.78.105.146:2000/play/a064/index.m3u8
@@ -484,7 +484,7 @@ http://181.78.105.146:2000/play/a03n/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes 
-
+http://bedroombullyonline.com:3050/live/mary1724@yahoo.com/LryCbvt5Dm/509175.m3u8
 
 #EXTINF:-1 tvg-id="Fox Sports Premium" group-title="Sports", Fox Sports Premium HD
 
