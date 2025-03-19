@@ -578,11 +578,11 @@ http://vegafibratv.com:8085/AMC/index.m3u8
 #EXTINF:-1 tvg-id="HBO" group-title="De Paga" , HBO 
 
 
-#EXTINF:-1 tvg-id="HBO" group-title="De Paga" , HBO 2
-
+#EXTINF:-1 tvg-id="HBO Plus" group-title="De Paga" , HBO Plus
+https://streamer1.nexgen.bz/HBO_PLUS/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family" group-title="De Paga" , HBO Family
-
+https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="De Paga", Starz Cinema En español
 
