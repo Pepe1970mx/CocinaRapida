@@ -54,7 +54,7 @@ https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 
 
 #EXTINF:-1 tvg-id="El Nueve" group-title="NACIONAL", El Nueve
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/GALAVISION/40-hls/live-media.m3u8
+
 
 #EXTINF:-1 tvg-id="El Heraldo TV" group-title="NACIONAL" , Heraldo TV
 
@@ -83,11 +83,11 @@ https://video.cdmx.gob.mx/redes/stream.m3u8
 #EXTINF:-1 tvg-id="22 de Mexico" group-title="NACIONAL" , CANAL 22 
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MX NUESTRO CINE" group-title="NACIONAL" , CANAL 22.2 MX Nuestro Cine
+#EXTINF:-1 tvg-id="MX NUESTRO CINE" group-title="NACIONAL" , MX Nuestro Cine
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV UNAM" group-title="NACIONAL" , TV UNAM
-https://s5.mexside.net:1936/tvunam/tvunam/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Canal del Congreso" group-title="NACIONAL" , Canal del Congreso
 https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
@@ -96,7 +96,7 @@ https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telever" group-title="NACIONAL", Telever
-https://ythls.armelin.one/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
+
 
 #EXTINF:-1 tvg-id="Meganoticias MX" group-title="NACIONAL", Meganoticias MX
 
