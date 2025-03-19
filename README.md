@@ -70,8 +70,8 @@ http://181.78.105.146:2000/play/a04f/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" group-title="NACIONAL", Canal 13
-
+#EXTINF:-1 tvg-id="" group-title="NACIONAL", Canal 13 Tabasco
+https://stream-207963.castr.net/65313d270e749722b6474684/live_185f5f10888711ee83e2f144889e3879/index.fmp4.m3u8
 
 
 #EXTINF:-1 tvg-id="14 de Mexico" group-title="NACIONAL" , Canal 14 
@@ -165,7 +165,7 @@ https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 
 
 #EXTINF:-1 tvg-id="Telemundo(Spanish).us" group-title="Internacional", Telemundo 
-https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
+
 
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
 http://belami.top/DATAS/arm/plays.php?ch=96&f=.m3u8
@@ -192,7 +192,7 @@ http://bedroombullyonline.com:3050/live/mary1724@yahoo.com/LryCbvt5Dm/509219.m3u
 
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Galavision
-
+http://bedroombullyonline.com:3050/live/mary1724@yahoo.com/LryCbvt5Dm/509177.m3u8
 
 #EXTINF:-1 tvg-id="USBC39000080S" group-title="Internacional", Canela TV
 https://jmp2.uk/sam-USBC39000080S.m3u8
@@ -502,7 +502,7 @@ http://bedroombullyonline.com:3050/live/mary1724@yahoo.com/LryCbvt5Dm/509175.m3u
 
 
 #EXTINF:-1 tvg-id="TUDN.us" group-title="Sports", TUDN USA
-http://bedroombullyonline.com:3050/live/mary1724@yahoo.com/LryCbvt5Dm/613319.m3u8
+http://bedroombullyonline.com:3050/live/mary1724@yahoo.com/LryCbvt5Dm/509213.m3u8
 
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN
 
