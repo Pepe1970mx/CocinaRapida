@@ -165,7 +165,7 @@ https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 
 
 #EXTINF:-1 tvg-id="Telemundo(Spanish).us" group-title="Internacional", Telemundo 
-
+http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
 http://belami.top/DATAS/arm/plays.php?ch=96&f=.m3u8
@@ -178,9 +178,6 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 
 #EXTINF:-1 tvg-id="Punto 2" group-title="Internacional", Punto2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Internacional", Univision
-
 
 #EXTINF:-1 tvg-id="" group-title="Internacional",  Univision Latinoamérica 
 http://bedroombullyonline.com:3050/live/mary1724@yahoo.com/LryCbvt5Dm/509148.m3u8
@@ -206,11 +203,8 @@ http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/611461
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , + Cine
-https://glb.bozztv.com/glb/ssh101/mascineclasico/playlist.m3u8
-
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Chinola
-https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+
 
 #EXTINF:-1 tvg-id="Moni TV" group-title="ENTRETENIMIENTO" , Moni TV
 
@@ -224,7 +218,7 @@ https://ssh101-fl.bozztv.com/ssh101/retrotvcr/index.m3u8
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ACS Network TV" group-title="ENTRETENIMIENTO", ACS Network
-https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w910290755.m3u8
+
 
 #EXTINF:-1 tvg-id="Telesistema" group-title="ENTRETENIMIENTO", Telesistema 
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
@@ -234,7 +228,6 @@ https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mi TV Television Clasica" group-title="ENTRETENIMIENTO", Mi TV televisión Clasica
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , FMH Kids
 
@@ -531,6 +524,9 @@ http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/611459
 
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
 http://redima.pro:8880/1311617953/1311617953/343
+
+#EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
+https://streamer1.nexgen.bz/STAR/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT HD
 
