@@ -522,7 +522,7 @@ http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/611459
 
 
 
-#EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
+
 http://redima.pro:8880/1311617953/1311617953/343
 
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
@@ -553,45 +553,45 @@ http://200.115.120.1:8000/play/ca125/index.m3u8
 
 
 #EXTINF:-1 tvg-id="AXN" group-title="De Paga", AXN
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AXN/40-hls/live-media.m3u8
-
 https://streamer1.nexgen.bz/AXN/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id=" " group-title="De Paga",SYFY
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/SYFY/20-hls/live-media.m3u8
 
 
-#EXTINF:-1 tvg-id="Paramount Channel" group-title="De Paga", Paramount 
-http://rasaiptv.com:8080/amartinez/s1stemas.13579/53938
+#EXTINF:-1 tvg-id="Paramount Channel" group-title="De Paga", Paramount España
+http://185.189.225.150:85/Paramount/index.m3u8
 
 #EXTINF:-1 tvg-id="Universal Premier" group-title="De Paga" , Universal Premier
-http://rasaiptv.com:8080/amartinez/s1stemas.13579/111419
 
-#EXTINF:-1 tvg-id="amc_mexico" group-title="De Paga", AMC 
-http://rasaiptv.com:8080/amartinez/s1stemas.13579/1284
+
+#EXTINF:-1 tvg-id="amc_mexico" group-title="De Paga", AMC España
+http://vegafibratv.com:8085/AMC/index.m3u8
 
 #EXTINF:-1 tvg-id="Golden Premier" group-title="De Paga" ,Golden Premier 
 
 #EXTINF:-1 tvg-id="HBO Latino" group-title="De Paga" , HBO Latino
-http://pro.royal8080.com:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=270276&extension=ts
+
 
 #EXTINF:-1 tvg-id="HBO" group-title="De Paga" , HBO 
-http://895845416218977664.ofdgk1124.xyz:80/live/wa812936/5mEyjyh4QQ/977664.ts
+
 
 #EXTINF:-1 tvg-id="HBO" group-title="De Paga" , HBO 2
-http://895845416218955080.ofdgk1124.xyz:80/live/wa812936/5mEyjyh4QQ/955080.ts
+
 
 #EXTINF:-1 tvg-id="HBO Family" group-title="De Paga" , HBO Family
-http://895845416218955081.ofdgk1124.xyz:80/live/wa812936/5mEyjyh4QQ/955081.ts
+
 
 #EXTINF:-1 tvg-id="" group-title="De Paga", Starz Cinema En español
-http://895845416218955125.ofdgk1124.xyz:80/live/wa812936/5mEyjyh4QQ/955125.ts
+
 
 #EXTINF:-1 tvg-id="" group-title="De Paga", Starz Encore Family & Kids
-http://895845416218971950.ofdgk1124.xyz:80/live/wa812936/5mEyjyh4QQ/971950.ts
+
 
 #EXTINF:-1 tvg-id="" group-title="De Paga", Cine Starz
-http://895845416218974127.ofdgk1124.xyz:80/live/wa812936/5mEyjyh4QQ/974127.ts
+
 
 
 #EXTINF:-1 tvg-id="Boing Espana" group-title="Kids", Boing
