@@ -168,7 +168,6 @@ https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
-http://belami.top/DATAS/arm/plays.php?ch=96&f=.m3u8
 
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
@@ -179,17 +178,21 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-id="Punto 2" group-title="Internacional", Punto2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Internacional",  Univision Latinoamérica 
+#EXTINF:-1 tvg-id="Univision" group-title="Internacional",  Univision Latinoamérica 
 http://bedroombullyonline.com:3050/live/mary1724@yahoo.com/LryCbvt5Dm/509148.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Internacional", Unimas
+#EXTINF:-1 tvg-id="Unimas" group-title="Internacional", Unimas
 http://bedroombullyonline.com:3050/live/mary1724@yahoo.com/LryCbvt5Dm/509219.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Teleonce Univision PR
 
 
-#EXTINF:-1 tvg-id="" group-title="Internacional", Galavision
+#EXTINF:-1 tvg-id="Galavision" group-title="Internacional", Galavision
 http://bedroombullyonline.com:3050/live/mary1724@yahoo.com/LryCbvt5Dm/509177.m3u8
+
+#EXTINF:-1 tvg-id="TCS+" group-title="Internacional" , TCS+
+https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8
+
 
 #EXTINF:-1 tvg-id="USBC39000080S" group-title="Internacional", Canela TV
 https://jmp2.uk/sam-USBC39000080S.m3u8
@@ -251,8 +254,7 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Adult Swin
 
 
-#EXTINF:-1 tvg-id="VTV" group-title="ENTRETENIMIENTO" , TCS+
-https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8
+
 
 #EXTINF:-1 tvg-id="VTV.hn" group-title="ENTRETENIMIENTO", VTV HN
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
