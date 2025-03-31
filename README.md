@@ -451,13 +451,13 @@ https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
 http://bedroombullyonline.com:3050/live/mary1724@yahoo.com/LryCbvt5Dm/509171.m3u8
 
-#EXTINF:-1 tvg-id="ESPN MX" group-title="Sports", Espn HD
+#EXTINF:-1 tvg-id="ESPN" group-title="Sports", Espn HD
 http://181.78.105.146:2000/play/a064/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 2 MX" group-title="Sports", Espn 2 HD
+#EXTINF:-1 tvg-id="ESPN 2" group-title="Sports", Espn 2 HD
 http://181.78.105.146:2000/play/a063/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 3 MX" group-title="Sports", Espn 3 HD
+#EXTINF:-1 tvg-id="ESPN 3" group-title="Sports", Espn 3 HD
 http://181.78.105.146:2000/play/a03n/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Espn 4 Sur
