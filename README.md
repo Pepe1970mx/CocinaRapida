@@ -528,13 +528,21 @@ http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/611459
 http://redima.pro:8880/1311617953/1311617953/343
 
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
+http://redima.pro:8880/1311617953/1311617953/343
+
 https://streamer1.nexgen.bz/STAR/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT HD
-
+#EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT
+http://redima.pro:8880/1311617953/1311617953/364
 
 #EXTINF:-1 tvg-id="Sony Cine" group-title="De Paga", Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Multicinema" group-title="De Paga", Multicinema
+http://redima.pro:8880/1311617953/1311617953/381
+
+#EXTINF:-1 tvg-id="Multipremier" group-title="De Paga", Multipremier
+http://redima.pro:8880/1311617953/1311617953/379
 
 #EXTINF:-1 tvg-id="Space.sur" group-title="De Paga", Space HD
 
@@ -572,7 +580,11 @@ http://185.189.225.150:85/Paramount/index.m3u8
 #EXTINF:-1 tvg-id="amc_mexico" group-title="De Paga", AMC España
 http://vegafibratv.com:8085/AMC/index.m3u8
 
-#EXTINF:-1 tvg-id="Golden Premier" group-title="De Paga" ,Golden Premier 
+#EXTINF:-1 tvg-id="AMC" group-title="De Paga" ,AMC
+http://redima.pro:8880/1311617953/1311617953/384
+
+
+
 
 #EXTINF:-1 tvg-id="HBO Latino" group-title="De Paga" , HBO Latino
 
@@ -584,6 +596,8 @@ http://vegafibratv.com:8085/AMC/index.m3u8
 https://streamer1.nexgen.bz/HBO_PLUS/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family" group-title="De Paga" , HBO Family
+http://redima.pro:8880/1311617953/1311617953/443
+
 https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="De Paga", Starz Cinema En español
