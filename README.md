@@ -165,12 +165,12 @@ https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 
 
 #EXTINF:-1 tvg-id="Telemundo(Spanish).us" group-title="Internacional", Telemundo 
-http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
+http://fortv.cc:8080/VYWj8G/998528/120691
 
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
 
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
-http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Telemundo Puerto Rico" group-title="Internacional", Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
@@ -179,10 +179,10 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
 #EXTINF:-1 tvg-id="Univision" group-title="Internacional",  Univision Latinoamérica 
-http://bedroombullyonline.com:3050/live/mary1724@yahoo.com/LryCbvt5Dm/509148.m3u8
+http://fortv.cc:8080/VYWj8G/998528/15336
 
 #EXTINF:-1 tvg-id="Unimas" group-title="Internacional", Unimas
-http://bedroombullyonline.com:3050/live/mary1724@yahoo.com/LryCbvt5Dm/509219.m3u8
+http://fortv.cc:8080/VYWj8G/998528/57969
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Teleonce Univision PR
 
@@ -497,7 +497,7 @@ http://bedroombullyonline.com:3050/live/mary1724@yahoo.com/LryCbvt5Dm/509175.m3u
 
 
 #EXTINF:-1 tvg-id="TUDN.us" group-title="Sports", TUDN USA
-http://bedroombullyonline.com:3050/live/mary1724@yahoo.com/LryCbvt5Dm/509213.m3u8
+http://fortv.cc:8080/VYWj8G/998528/11885
 
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN
 
