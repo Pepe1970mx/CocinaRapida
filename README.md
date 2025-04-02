@@ -165,7 +165,7 @@ https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 
 
 #EXTINF:-1 tvg-id="Telemundo(Spanish).us" group-title="Internacional", Telemundo 
-http://fortv.cc:8080/VYWj8G/998528/120691
+
 
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
 
@@ -179,10 +179,10 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
 #EXTINF:-1 tvg-id="Univision" group-title="Internacional",  Univision Latinoamérica 
-http://fortv.cc:8080/VYWj8G/998528/15336
+
 
 #EXTINF:-1 tvg-id="Unimas" group-title="Internacional", Unimas
-http://fortv.cc:8080/VYWj8G/998528/57969
+
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Teleonce Univision PR
 
@@ -212,7 +212,7 @@ https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 tvg-id="Moni TV" group-title="ENTRETENIMIENTO" , Moni TV
 
 #EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , Retro TV
-https://ssh101-fl.bozztv.com/ssh101/retrotvcr/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Dreiko TV" group-title="ENTRETENIMIENTO" , Dreiko TV 
 
@@ -224,7 +224,7 @@ https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Telesistema" group-title="ENTRETENIMIENTO", Telesistema 
-https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Tv Retro Palmares" group-title="ENTRETENIMIENTO", TV Palmares TV
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
@@ -235,7 +235,7 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , FMH Kids
 
 
-#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , Retro Cartoon
+#EXTINF:-1 tvg-id="Retro Cartoon" group-title="ENTRETENIMIENTO" , Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistASTRAL
 
 #EXTINF:-1 tvg-id="Frecuencia Musical TV" group-title="ENTRETENIMIENTO", FM TV
@@ -280,7 +280,7 @@ https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnecl/ATV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ATV.pe" group-title="ENTRETENIMIENTO" , America TV
-https://us-b4-p-e-cg11.cdn.mdstrm.com/live-stream-dai/6099b04d9418ac082441dd74/d302a65b304245a1a63015260288df35/f624fec49dadc88894ebeff1d974eab019af7757/session/62b4b5ca-a3f2-49b0-86c6-8f1f12eedefe/media.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=8vnaz24SAy2M9mVbVAf1DQ7sjX3y8tYM&sid=etVdIx5NmVjvz1lNdMWgj3gOPlX0zRdh&pid=5MN31cRfnalW3rhVIdqJ5BvXlnsUszxP&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&listenerid=&dnt=true&access_token=O29vz2TLLfpHCqAN82OHxk0mGmxc0XiAwJvTK42RxWJgu9458ix7yLJJ1Rc1bPjWnLukIh8QSOY&es=us-b4-p-e-ja16.cdn.mdstrm.com&ote=1738041877938&ot=s-SBN1-zz_OVrVxvwgN0wA&proto=https&pz=us
+
 
 #EXTINF:-1 tvg-id="UnitelSantaCruz.bo" group-title="ENTRETENIMIENTO" , Unitel BO
 
@@ -288,16 +288,8 @@ EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="ENTRETENIMIENTO", Ciudad Magica
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
 
-
-
-
-
-
-
 EXTINF:-1 tvg-id="USBD7000017L" group-title="Internacional", AMC en Español
 https://jmp2.uk/Sam-USBD7000017L.m3u8
-
-
 
 
 #EXTINF:-1 tvg-id="ESBC4100001NZ" group-title="España" , La 1 ES
