@@ -520,12 +520,12 @@ http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/611459
 http://redima.pro:8880/1311617953/1311617953/343
 
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
-http://redima.pro:8880/1311617953/1311617953/343
 
-https://streamer1.nexgen.bz/STAR/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT
-http://redima.pro:8880/1311617953/1311617953/364
+http://181.78.105.146:2000/play/a018/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony Cine" group-title="De Paga", Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
@@ -536,31 +536,30 @@ http://redima.pro:8880/1311617953/1311617953/381
 #EXTINF:-1 tvg-id="Multipremier" group-title="De Paga", Multipremier
 http://redima.pro:8880/1311617953/1311617953/379
 
-#EXTINF:-1 tvg-id="Space.sur" group-title="De Paga", Space HD
+#EXTINF:-1 tvg-id="Space" group-title="De Paga", Space HD
+http://181.78.105.146:2000/play/a04x/index.m3u8
 
-
-#EXTINF:-1 tvg-id="FX.sur" group-title="De Paga", FX
-https://streamer1.nexgen.bz/FX/index.m3u8
+#EXTINF:-1 tvg-id="FX" group-title="De Paga", FX
+http://181.78.105.146:2000/play/a05z/index.m3u8
 
 #EXTINF:-1 tvg-id="Warner" group-title="De Paga", Warner 
-
+http://181.78.105.146:2000/play/a01f/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony" group-title="De Paga", Sony Channels 
-
+http://181.78.105.146:2000/play/a002/index.m3u8
 
 #EXTINF:-1 tvg-id="USA" group-title="De Paga", USA
-http://200.115.120.1:8000/play/ca125/index.m3u8
+
 
 #EXTINF:-1 tvg-id="UniversalTV.mx" group-title="De Paga", Universal Channel
 
 
 #EXTINF:-1 tvg-id="AXN" group-title="De Paga", AXN
-https://streamer1.nexgen.bz/AXN/index.m3u8
-
+http://181.78.105.146:2000/play/a05y/index.m3u8
 
 
 #EXTINF:-1 tvg-id=" " group-title="De Paga",SYFY
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/SYFY/20-hls/live-media.m3u8
+
 
 
 #EXTINF:-1 tvg-id="Paramount Channel" group-title="De Paga", Paramount España
@@ -569,14 +568,11 @@ http://185.189.225.150:85/Paramount/index.m3u8
 #EXTINF:-1 tvg-id="Universal Premier" group-title="De Paga" , Universal Premier
 
 
-#EXTINF:-1 tvg-id="amc_mexico" group-title="De Paga", AMC España
+#EXTINF:-1 tvg-id="amc_españa" group-title="De Paga", AMC España
 http://vegafibratv.com:8085/AMC/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC" group-title="De Paga" ,AMC
 http://redima.pro:8880/1311617953/1311617953/384
-
-
-
 
 #EXTINF:-1 tvg-id="HBO Latino" group-title="De Paga" , HBO Latino
 
@@ -585,12 +581,10 @@ http://redima.pro:8880/1311617953/1311617953/384
 
 
 #EXTINF:-1 tvg-id="HBO Plus" group-title="De Paga" , HBO Plus
-https://streamer1.nexgen.bz/HBO_PLUS/tracks-v1a2/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="HBO Family" group-title="De Paga" , HBO Family
 http://redima.pro:8880/1311617953/1311617953/443
-
-https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="De Paga", Starz Cinema En español
 
@@ -603,19 +597,19 @@ https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="Boing Espana" group-title="Kids", Boing
-https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ESBC4100003WE" group-title="Kids" , Clan
-https://jmp2.uk/SamsungTVPlus/ESBC4100003WE.m3u8
+
 
 #EXTINF:-1 tvg-id="" group-title="Kids" , Dreamworks 
-http://weib-tv.com:80/pacha1968/joasa2717/319635.ts
+
 
 #EXTINF:-1 tvg-id="Cartoon Network Norte" group-title="Kids", Cartoon Network 4K
-http://weib-tv.com:80/pacha1968/joasa2717/11920.ts
+
 
 #EXTINF:-1 tvg-id="Nick" group-title="Kids", Nick HD
-http://weib-tv.com:80/pacha1968/joasa2717/11939.ts
+
 
 #EXTINF:-1 tvg-id="Disney Channel Espana" group-title="Kids", Disney Channels HD
 http://weib-tv.com:80/pacha1968/joasa2717/11926.ts
