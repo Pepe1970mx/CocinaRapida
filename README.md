@@ -516,16 +516,22 @@ http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/611459
 
 
 
-
+#EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
 http://redima.pro:8880/1311617953/1311617953/343
 
-#EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
-
-
-
-
 #EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT
-http://181.78.105.146:2000/play/a018/index.m3u8
+http://redima.pro:8880/1311617953/1311617953/364
+
+#EXTINF:-1 tvg-id="Warner Channels" group-title="De Paga", Warner 
+http://181.78.105.146:2000/play/a01f/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Space" group-title="De Paga", Space HD
+http://181.78.105.146:2000/play/a04x/index.m3u8
+
+#EXTINF:-1 tvg-id="Sony" group-title="De Paga", Sony Channels 
+http://181.78.105.146:2000/play/a002/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Sony Cine" group-title="De Paga", Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
@@ -536,17 +542,14 @@ http://redima.pro:8880/1311617953/1311617953/381
 #EXTINF:-1 tvg-id="Multipremier" group-title="De Paga", Multipremier
 http://redima.pro:8880/1311617953/1311617953/379
 
-#EXTINF:-1 tvg-id="Space" group-title="De Paga", Space HD
-http://181.78.105.146:2000/play/a04x/index.m3u8
+
 
 #EXTINF:-1 tvg-id="FX" group-title="De Paga", FX
 http://181.78.105.146:2000/play/a05z/index.m3u8
 
-#EXTINF:-1 tvg-id="Warner" group-title="De Paga", Warner 
-http://181.78.105.146:2000/play/a01f/index.m3u8
 
-#EXTINF:-1 tvg-id="Sony" group-title="De Paga", Sony Channels 
-http://181.78.105.146:2000/play/a002/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="USA" group-title="De Paga", USA
 
