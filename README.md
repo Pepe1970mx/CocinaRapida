@@ -178,6 +178,9 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-id="Punto 2" group-title="Internacional", Punto2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
+#EXTINF:-1 tvg-id="Punto 99" group-title="Internacional", Punto 99
+https://stmv5.voxtvhd.com.br/99online/99online/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Univision" group-title="Internacional",  Univision Latinoamérica 
 
 
@@ -440,7 +443,13 @@ https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u
 #EXTINF:-1 tvg-id="" group-title="Sports", Caliente TV
 
 
+#EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
+http://190.92.10.66:4000/play/a003/index.m3u8
+
+
 http://bedroombullyonline.com:3050/live/mary1724@yahoo.com/LryCbvt5Dm/509171.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" group-title="Sports", Espn HD
@@ -452,25 +461,12 @@ http://181.78.105.146:2000/play/a063/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 3" group-title="Sports", Espn 3 HD
 http://181.78.105.146:2000/play/a03n/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Sports", Espn 4 Sur
-
-
-
-
-#EXTINF:-1 tvg-id="" group-title="Sports", Espn 5 Sur
-
-
-#EXTINF:-1 tvg-id="" group-title="Sports", Espn 6 Sur
-
-
-#EXTINF:-1 tvg-id="" group-title="Sports", Espn 7 Sur
 
 
 
 
 
 
-#EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes 
 http://bedroombullyonline.com:3050/live/mary1724@yahoo.com/LryCbvt5Dm/509175.m3u8
 
 #EXTINF:-1 tvg-id="Fox Sports Premium" group-title="Sports", Fox Sports Premium HD
