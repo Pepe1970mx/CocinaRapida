@@ -188,7 +188,7 @@ http://nocable.cc:8080/k4Svp2/645504/15336
 
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Teleonce Univision PR
-
+http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/611458
 
 #EXTINF:-1 tvg-id="Galavision" group-title="Internacional", Galavision
 http://bedroombullyonline.com:3050/live/mary1724@yahoo.com/LryCbvt5Dm/509177.m3u8
@@ -214,11 +214,11 @@ https://live.obslivestream.com/planetatv/index.m3u8
 
 #EXTINF:-1 tvg-id="Moni TV" group-title="ENTRETENIMIENTO" , Moni TV
 
-#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , Retro TV
-
+#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , online 24/7
+http://181.209.96.170:9988/Live/6f34c8899f7044b767aff63819d01e93/online-24-7_480.m3u8
 
 #EXTINF:-1 tvg-id="Dreiko TV" group-title="ENTRETENIMIENTO" , Dreiko TV 
-
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
 #EXTINF:-1 tvg-id="Teleclasica" group-title="ENTRETENIMIENTO" , Teleclasica 
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
@@ -280,7 +280,7 @@ https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV.pe" group-title="ENTRETENIMIENTO" , ATV PE
-
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV.pe" group-title="ENTRETENIMIENTO" , America TV
 
@@ -445,6 +445,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u
 
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+
+#EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes US
+http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/418211
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
 http://nocable.cc:8080/k4Svp2/645504/11885
