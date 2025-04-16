@@ -132,7 +132,7 @@ https://jmp2.uk/sam-USBC2100010OS.m3u8
 
 
 #EXTINF:-1 tvg-id="Chespirito" group-title="Comedia" , Chespirito 
-http://weib-tv.com:80/pacha1968/joasa2717/575625.ts
+
 
 #EXTINF:-1 tvg-id="Chespirito" group-title="Comedia" , Los Tres Chiflados
 
@@ -165,7 +165,7 @@ https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 
 
 #EXTINF:-1 tvg-id="Telemundo(Spanish).us" group-title="Internacional", Telemundo 
-
+http://nocable.cc:8080/k4Svp2/645504/120691
 
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
 
@@ -181,8 +181,8 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 #EXTINF:-1 tvg-id="Punto 99" group-title="Internacional", Punto 99
 https://stmv5.voxtvhd.com.br/99online/99online/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Univision" group-title="Internacional",  Univision Latinoamérica 
-
+#EXTINF:-1 tvg-id="Univision" group-title="Internacional",  Univision
+http://nocable.cc:8080/k4Svp2/645504/15336
 
 #EXTINF:-1 tvg-id="Unimas" group-title="Internacional", Unimas
 
@@ -280,7 +280,7 @@ https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV.pe" group-title="ENTRETENIMIENTO" , ATV PE
-http://bantel-cdn1.iptvperu.tv:1935/cdnecl/ATV/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="ATV.pe" group-title="ENTRETENIMIENTO" , America TV
 
@@ -447,7 +447,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
-http://190.92.10.66:4000/play/a003/index.m3u8
+http://nocable.cc:8080/k4Svp2/645504/11885
 
 
 http://bedroombullyonline.com:3050/live/mary1724@yahoo.com/LryCbvt5Dm/509171.m3u8
@@ -460,12 +460,6 @@ http://181.78.105.146:2000/play/a063/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3" group-title="Sports", Espn 3 HD
 http://181.78.105.146:2000/play/a03n/index.m3u8
-
-
-
-
-
-
 
 http://bedroombullyonline.com:3050/live/mary1724@yahoo.com/LryCbvt5Dm/509175.m3u8
 
@@ -485,7 +479,7 @@ http://bedroombullyonline.com:3050/live/mary1724@yahoo.com/LryCbvt5Dm/509175.m3u
 
 
 #EXTINF:-1 tvg-id="TUDN.us" group-title="Sports", TUDN USA
-http://fortv.cc:8080/VYWj8G/998528/11885
+http://nocable.cc:8080/k4Svp2/645504/11885
 
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN
 
