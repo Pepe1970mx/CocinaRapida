@@ -168,6 +168,8 @@ https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 http://nocable.cc:8080/k4Svp2/645504/120691
 
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
+http://bedroombullyonline.com:3050/mary1724@yahoo.com/LryCbvt5Dm/419367
+
 
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
 
@@ -185,7 +187,7 @@ https://stmv5.voxtvhd.com.br/99online/99online/playlist.m3u8
 http://nocable.cc:8080/k4Svp2/645504/15336
 
 #EXTINF:-1 tvg-id="Unimas" group-title="Internacional", Unimas
-
+http://nocable.cc:8080/k4Svp2/645504/57969
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Teleonce Univision PR
 http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/611458
