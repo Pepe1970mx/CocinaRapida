@@ -522,10 +522,10 @@ http://181.78.105.146:2000/play/a01f/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Space" group-title="De Paga", Space HD
-http://181.78.105.146:2000/play/a04x/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Sony" group-title="De Paga", Sony Channels 
-http://181.78.105.146:2000/play/a002/index.m3u8
+http://redima.pro:8880/1311617953/1311617953/356
 
 
 #EXTINF:-1 tvg-id="Sony Cine" group-title="De Paga", Sony Cine
