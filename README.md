@@ -135,6 +135,8 @@ https://jmp2.uk/sam-USBC2100010OS.m3u8
 
 
 #EXTINF:-1 tvg-id="Chespirito" group-title="Comedia" , Los Tres Chiflados
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
 
 #EXTINF:-1 tvg-id="" group-title="Comedia" , Loney Tones
 
@@ -231,8 +233,12 @@ https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 #EXTINF:-1 tvg-id="ACS Network TV" group-title="ENTRETENIMIENTO", ACS Network
 
 
-#EXTINF:-1 tvg-id="Telesistema" group-title="ENTRETENIMIENTO", Telesistema 
+#EXTINF:-1 tvg-id="Nick en español" group-title="ENTRETENIMIENTO", Nick en español
+http://stitcher-ipv4.pluto.tv:80/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4livestitch/2977920/playlist.m3u8?terminate=false&sid=UNKNOWN-1bf53327-551f-406b-a154-19afad3b8b35&deviceDNT=0&advertisingId=PSID&deviceLat=90&deviceLon=0&deviceModel=unknown&deviceVersion=unknown&deviceId=PSID&appVersion=unknown&deviceType=unknown&deviceMake=unknown&us_privacy=1YNY
 
+#EXTINF:-1 tvg-id="Nick Clasico" group-title="ENTRETENIMIENTO", Nick
+Clasico
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/3321280/playlist.m3u8?terminate=false&sid=UNKNOWN-1bf53327-551f-406b-a154-19afad3b8b35&deviceDNT=0&advertisingId=PSID&deviceLat=90&deviceLon=0&deviceModel=unknown&deviceVersion=unknown&deviceId=PSID&appVersion=unknown&deviceType=unknown&deviceMake=unknown&us_privacy=1YNY
 
 #EXTINF:-1 tvg-id="Tv Retro Palmares" group-title="ENTRETENIMIENTO", TV Palmares TV
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
