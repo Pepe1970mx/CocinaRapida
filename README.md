@@ -439,7 +439,7 @@ http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jhHRHRUqc6S2jzMEWq_b_7oqSZl1eoQ
 EXTINF:-1 tvg-id="Canal Telesistema 11 (República Dominicana).do" group-title="ENTRETENIMIENTO", Telesistema
 
 
-#EXTINF:-1 tvg-id="Fox Sports en español" group-title="Sports", Fox Sports en español 
+#EXTINF:-1 tvg-id="Fox Sport en español" group-title="Sports", Fox Sports en español 
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
 #EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" group-title="Sports", Azteca Deportes Premium
@@ -447,29 +447,20 @@ https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Caliente TV
 
-
-#EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
-
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes US
 http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/418211
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
-http://nocable.cc:8080/k4Svp2/645504/11885
+https://galaxypro.online:2087/gatqJsMRmteq/WDgJLrNJHJSX/283317
 
+#EXTINF:-1 tvg-id="ESPN MX" group-title="Sports", Espn HD
+https://galaxypro.online:2087/gatqJsMRmteq/WDgJLrNJHJSX/690535
 
-http://bedroombullyonline.com:3050/live/mary1724@yahoo.com/LryCbvt5Dm/509171.m3u8
+#EXTINF:-1 tvg-id="ESPN 2 MX" group-title="Sports", Espn 2 HD
+https://galaxypro.online:2087/gatqJsMRmteq/WDgJLrNJHJSX/690529
 
-#EXTINF:-1 tvg-id="ESPN" group-title="Sports", Espn HD
-http://181.78.105.146:2000/play/a064/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 2" group-title="Sports", Espn 2 HD
-http://181.78.105.146:2000/play/a063/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 3" group-title="Sports", Espn 3 HD
-http://181.78.105.146:2000/play/a03n/index.m3u8
-
-http://bedroombullyonline.com:3050/live/mary1724@yahoo.com/LryCbvt5Dm/509175.m3u8
+#EXTINF:-1 tvg-id="ESPN 3 MX" group-title="Sports", Espn 3 HD
+https://galaxypro.online:2087/gatqJsMRmteq/WDgJLrNJHJSX/690527
 
 #EXTINF:-1 tvg-id="Fox Sports Premium" group-title="Sports", Fox Sports Premium HD
 
