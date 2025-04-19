@@ -164,8 +164,11 @@ https://s5.mexside.net:1936/france24/france24/playlist.m3u8
 https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 
 
-#EXTINF:-1 tvg-id="Telemundo(Spanish).us" group-title="Internacional", Telemundo 
+#EXTINF:-1 tvg-id="Telemundo" group-title="Internacional", Telemundo 
 http://nocable.cc:8080/k4Svp2/645504/120691
+
+#EXTINF:-1 tvg-id="Telemundo" group-title="Internacional", Telemundo 
+https://nbculocallive.akamaized.net:443/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
 http://bedroombullyonline.com:3050/mary1724@yahoo.com/LryCbvt5Dm/419367
@@ -174,7 +177,7 @@ http://bedroombullyonline.com:3050/mary1724@yahoo.com/LryCbvt5Dm/419367
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
 
 
-#EXTINF:-1 tvg-id="Telemundo Puerto Rico" group-title="Internacional", Telemundo PR
+#EXTINF:-1 tvg-id="Telemundo PR" group-title="Internacional", Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-id="Punto 2" group-title="Internacional", Punto2
