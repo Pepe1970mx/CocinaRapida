@@ -49,7 +49,7 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="A Mas" group-title="NACIONAL", A Mas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="NACIONAL",  Popcorn central
+#EXTINF:-1 tvg-id="Popcorn central" group-title="NACIONAL",  Popcorn central
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 
 
@@ -77,7 +77,7 @@ https://stream-207963.castr.net/65313d270e749722b6474684/live_185f5f10888711ee83
 #EXTINF:-1 tvg-id="14 de Mexico" group-title="NACIONAL" , Canal 14 
 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="XHCDMTDT.mx" group-title="NACIONAL" , Capital 21
+#EXTINF:-1 tvg-id="Capital 21" group-title="NACIONAL" , Capital 21
 https://video.cdmx.gob.mx/redes/stream.m3u8 
 
 #EXTINF:-1 tvg-id="22 de Mexico" group-title="NACIONAL" , CANAL 22 
