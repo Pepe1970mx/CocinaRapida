@@ -169,12 +169,8 @@ https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 #EXTINF:-1 tvg-id="Telemundo" group-title="Internacional", Telemundo 
 http://nocable.cc:8080/k4Svp2/645504/120691
 
-#EXTINF:-1 tvg-id="Telemundo" group-title="Internacional", Telemundo 
-https://nbculocallive.akamaized.net:443/hls/live/2037499/puertorico/stream1/master_1080.m3u8
-
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
 http://bedroombullyonline.com:3050/mary1724@yahoo.com/LryCbvt5Dm/419367
-
 
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
 
@@ -211,7 +207,6 @@ https://jmp2.uk/sam-USBC39000080S.m3u8
 #EXTINF:-1  tvg-id="WAPA TV"  group-title="Internacional" , Wapa
 http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/611461
 
-#EXTINF:-1  tvg-id="America TV"  group-title="Internacional" , America Teve
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
@@ -232,13 +227,20 @@ https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ACS Network TV" group-title="ENTRETENIMIENTO", ACS Network
 
+#EXTINF:-1 tvg-id="5de802659167b10009e7deba" group-title="ENTRETENIMIENTO", Pluto Series Retro
+https://stitcher.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="Nick en español" group-title="ENTRETENIMIENTO", Nick en español
-http://stitcher-ipv4.pluto.tv:80/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4livestitch/2977920/playlist.m3u8?terminate=false&sid=UNKNOWN-1bf53327-551f-406b-a154-19afad3b8b35&deviceDNT=0&advertisingId=PSID&deviceLat=90&deviceLon=0&deviceModel=unknown&deviceVersion=unknown&deviceId=PSID&appVersion=unknown&deviceType=unknown&deviceMake=unknown&us_privacy=1YNY
 
-#EXTINF:-1 tvg-id="Nick Clasico" group-title="ENTRETENIMIENTO", Nick
+#EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="ENTRETENIMIENTO", Pluto Nick
 Clasico
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/3321280/playlist.m3u8?terminate=false&sid=UNKNOWN-1bf53327-551f-406b-a154-19afad3b8b35&deviceDNT=0&advertisingId=PSID&deviceLat=90&deviceLon=0&deviceModel=unknown&deviceVersion=unknown&deviceId=PSID&appVersion=unknown&deviceType=unknown&deviceMake=unknown&us_privacy=1YNY
+https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="ENTRETENIMIENTO", Nick
+Clasico
+
+#EXTINF:-1 tvg-id="5fab09a8749b1a00077d35d2" group-title="ENTRETENIMIENTO", Nick Teens
+https://stitcher.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c16ba9e4-85a7-11eb-a861-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
 
 #EXTINF:-1 tvg-id="Tv Retro Palmares" group-title="ENTRETENIMIENTO", TV Palmares TV
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
