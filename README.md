@@ -19,11 +19,8 @@ EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
 #EXTINF:-1 tvg-id="Foro TV" group-title="NACIONAL", Foro TV 4.1
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
 
-#EXTINF:-1 tvg-id="Foro TV" group-title="NACIONAL", Foro TV 4.2
-https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel04secure-notusa.akamaized.net/hls/live/2029754/event01/index_6.m3u8&redirect=true
-
 #EXTINF:-1 tvg-id="Canal 5" group-title="NACIONAL", Canal 5
-http://181.78.105.146:2000/play/a038/index.m3u8
+
 
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 MX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
@@ -134,7 +131,7 @@ https://jmp2.uk/sam-USBC2100010OS.m3u8
 #EXTINF:-1 tvg-id="Chespirito" group-title="Comedia" , Chespirito 
 
 
-#EXTINF:-1 tvg-id="Chespirito" group-title="Comedia" , Los Tres Chiflados
+#EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="Comedia" , Los Tres Chiflados
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 
@@ -201,7 +198,7 @@ https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c
 
 
 #EXTINF:-1 tvg-id="USBC39000080S" group-title="Internacional", Canela TV
-https://jmp2.uk/sam-USBC39000080S.m3u8
+
 
 
 #EXTINF:-1  tvg-id="WAPA TV"  group-title="Internacional" , Wapa
@@ -231,12 +228,8 @@ https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 
-#EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="ENTRETENIMIENTO", Pluto Nick
-Clasico
+#EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="ENTRETENIMIENTO", Pluto Nick Clasico
 https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="ENTRETENIMIENTO", Nick
-Clasico
 
 #EXTINF:-1 tvg-id="5fab09a8749b1a00077d35d2" group-title="ENTRETENIMIENTO", Nick Teens
 https://stitcher.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c16ba9e4-85a7-11eb-a861-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
@@ -252,7 +245,7 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Retro Cartoon" group-title="ENTRETENIMIENTO" , Retro Cartoon
-https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistASTRAL
+
 
 #EXTINF:-1 tvg-id="Frecuencia Musical TV" group-title="ENTRETENIMIENTO", FM TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
