@@ -128,21 +128,8 @@ https://jmp2.uk/sam-USBC2100010OS.m3u8
 #EXTINF:-1 tvg-id="Sony Comedia" group-title="Comedia" , Sony Comedia
 
 
-#EXTINF:-1 tvg-id="Chespirito" group-title="Comedia" , Chespirito 
-
-
 #EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="Comedia" , Los Tres Chiflados
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-
-#EXTINF:-1 tvg-id="" group-title="Comedia" , Loney Tones
-
-
-#EXTINF:-1 tvg-id="" group-title="Comedia" , Locos ADamsy
-
-
-
-
 
 #EXTINF:-1 tvg-id="El Financiero Bloomberg" group-title="NOTICIAS", El Financiero - Bloomberg TV
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
@@ -162,20 +149,16 @@ https://s5.mexside.net:1936/france24/france24/playlist.m3u8
 #EXTINF:-1 tvg-id"CNN en Español" group-title="NOTICIAS", CNN en Español 
 https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 
-
 #EXTINF:-1 tvg-id="Telemundo" group-title="Internacional", Telemundo 
 http://nocable.cc:8080/k4Svp2/645504/120691
 
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
 http://bedroombullyonline.com:3050/mary1724@yahoo.com/LryCbvt5Dm/419367
 
-#EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
-
-
 #EXTINF:-1 tvg-id="Telemundo PR" group-title="Internacional", Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-id="Punto 2" group-title="Internacional", Punto2
+#EXTINF:-1 tvg-id="Punto2" group-title="Internacional", Punto 2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
 #EXTINF:-1 tvg-id="Punto 99" group-title="Internacional", Punto 99
@@ -213,7 +196,7 @@ https://live.obslivestream.com/planetatv/index.m3u8
 
 #EXTINF:-1 tvg-id="Moni TV" group-title="ENTRETENIMIENTO" , Moni TV
 
-#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , online 24/7
+#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , Los Simpson 24/7
 http://181.209.96.170:9988/Live/6f34c8899f7044b767aff63819d01e93/online-24-7_480.m3u8
 
 #EXTINF:-1 tvg-id="Dreiko TV" group-title="ENTRETENIMIENTO" , Dreiko TV 
@@ -241,11 +224,6 @@ https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 #EXTINF:-1 tvg-id="Mi TV Television Clasica" group-title="ENTRETENIMIENTO", Mi TV televisión Clasica
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , FMH Kids
-
-
-#EXTINF:-1 tvg-id="Retro Cartoon" group-title="ENTRETENIMIENTO" , Retro Cartoon
-
 
 #EXTINF:-1 tvg-id="Frecuencia Musical TV" group-title="ENTRETENIMIENTO", FM TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
@@ -261,8 +239,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Adult Swin
-
-
 
 
 #EXTINF:-1 tvg-id="VTV.hn" group-title="ENTRETENIMIENTO", VTV HN
@@ -293,11 +269,11 @@ https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="UnitelSantaCruz.bo" group-title="ENTRETENIMIENTO" , Unitel BO
 
-EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="ENTRETENIMIENTO", Ciudad Magica AR
+#EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="ENTRETENIMIENTO", Ciudad Magica AR
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
 
-EXTINF:-1 tvg-id="USBD7000017L" group-title="Internacional", AMC en Español
+#EXTINF:-1 tvg-id="USBD7000017L" group-title="Internacional", AMC en Español
 https://jmp2.uk/Sam-USBD7000017L.m3u8
 
 
@@ -320,11 +296,9 @@ https://jmp2.uk/Sam-USBD7000017L.m3u8
 
 
 #EXTINF:-1 tvg-id="Disney Channel" group-title="España" , Disney Channel
-http://nodep002.service.openstream.es/SVoriginOperatorEdge2/smil:21_HD.smil/.m3u8
+
 
 #EXTINF:-1 tvg-id="Clan" group-title="España" , Clan
-https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
-
 
 
 #EXTINF:-1 tvg-id="M Accion" group-title="España", M+ Accion HD
@@ -333,15 +307,8 @@ https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 #EXTINF:-1 tvg-id="M Estrenos" group-title="España", M Estrenos
 
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="Canal2.sv" group-title="Internacional", Canal 2 SV
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Internacional", Canal 2 CR
 
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Canal 2 NI
@@ -362,13 +329,9 @@ https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 #EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="Internacional", Telecadena 7 y 4
 http://200.52.148.194:8000/play/a04q/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal6.sv" group-title="Internacional", Canal 6 SV
-
 
 #EXTINF:-1 tvg-id="Canal 6 de Costa Rica" group-title="Internacional" , Canal 6 CR
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Internacional", Canal 6 NI
 
 
 #EXTINF:-1 tvg-id"Canal 7 de Costa Rica (Teletica)" group-title="Internacional", Canal 7 Teletica CR
@@ -391,7 +354,6 @@ https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="Canal11.hn" group-title="Internacional", Canal 11 HN
 
 
-EXTINF:-1 tvg-id="" group-title="Internacional", TUTV Canal 11 SV
 
 
 #EXTINF:-1 tvg-id="Canal12.sv" group-title="Internacional", Canal 12 SV
@@ -423,14 +385,11 @@ https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="WillaxTV.pe" group-title="Internacional" , Willax.pe
-https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" group-title="Internacional" , Panamericana 
-https://cdnhd.iblups.com/hls/ptv5.m3u8
+
 
 #EXTINF:-1 tvg-id="telefe_argentina" group-title="Internacional" , Telefe AR
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jhHRHRUqc6S2jzMEWq_b_7oqSZl1eoQ7RwoDGuGu57Bx/ts
-
 
 
 #EXTINF:-1 tvg-id="Telesistema3y7.hn" group-title="Internacional", Telesistema 3y7 HN
@@ -443,7 +402,7 @@ EXTINF:-1 tvg-id="Canal Telesistema 11 (República Dominicana).do" group-title="
 #EXTINF:-1 tvg-id="Fox Sport en español" group-title="Sports", Fox Sports en español 
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
-#EXTINF:-1 tvg-id="63d0269d60bc8f000890facc" group-title="Sports", Fox
+#EXTINF:-1 tvg-id="63d0269d60bc8f000890facc" group-title="Sports", Fox Deportes
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/63d0269d60bc8f000890facc/master.m3u8?advertisingId=&appName=web&appVersion=9.11.0-fd026e7e9714f1e273c3c58069eb9e967f2c7ca8&app_name=web&clientDeviceType=0&clientID=f3e14b8f-76fd-4e7a-9ee6-8a9c1820ba04&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=f3e14b8f-76fd-4e7a-9ee6-8a9c1820ba04&deviceLat=32.4600&deviceLon=-83.7300&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=135.0.7049&marketingRegion=US&serverSideAds=false&sessionID=07747be3-1da3-11f0-bf94-22a0804f198c&sid=07747be3-1da3-11f0-bf94-22a0804f198c&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjJkZDdmMGYzLTFhMDAtNDYxYi1iYjU2LTEwMmQ2Njc3NjcwMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwNzc0N2JlMy0xZGEzLTExZjAtYmY5NC0yMmEwODA0ZjE5OGMiLCJjbGllbnRJUCI6IjY1LjQ5LjY4LjE5NSIsImNpdHkiOiJQZXJyeSIsInBvc3RhbENvZGUiOiIzMTA2OSIsImNvdW50cnkiOiJVUyIsImRtYSI6NTAzLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6MzIuNDU5OTk5MDg0NDcyNjU2LCJkZXZpY2VMb24iOi04My43MzAwMDMzNTY5MzM2LCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMzUuMC43MDQ5IiwiZGV2aWNlTWFrZSI6ImNocm9taXVtLXdlYnZpZXciLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiOS4xMS4wLWZkMDI2ZTdlOTcxNGYxZTI3M2MzYzU4MDY5ZWI5ZTk2N2YyYzdjYTgiLCJjbGllbnRJRCI6ImYzZTE0YjhmLTc2ZmQtNGU3YS05ZWU2LThhOWMxODIwYmEwNCIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL05ld19Zb3JrIiwic2VydmVyU2lkZUFkcyI6ZmFsc2UsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6eyJhZExvYWQiOnsiY29ob3J0IjoiIn0sIm11bHRpQXVkaW8iOnsiZW5hYmxlZCI6dHJ1ZX0sIm11bHRpUG9kQWRzIjp7ImVuYWJsZWQiOnRydWV9LCJzZWFyY2hBUEkiOnsibWF0Y2hFeGFjdEluUGhyYXNlRW5hYmxlZCI6dHJ1ZSwibWF0Y2hJbkFjdG9yc0Jvb3N0IjoyNSwibWF0Y2hJbkFjdG9yc0VkaXREaXN0YW5jZSI6IkFVVE86NSwxMSIsIm1hdGNoSW5BY3RvcnNFbmFibGVkIjp0cnVlLCJtYXRjaEluRGlyZWN0b3JzQm9vc3QiOjI1LCJtYXRjaEluRGlyZWN0b3JzRWRpdERpc3RhbmNlIjoiQVVUTzo1LDExIiwibWF0Y2hJbkRpcmVjdG9yc0VuYWJsZWQiOnRydWUsIm5leHVzVGltZW91dE1zIjo1MDAsInF1ZXJ5U3lub255bXNFbmFibGVkIjp0cnVlLCJxdWVyeVZlcnNpb24iOiJoeWJyaWQiLCJzZWFyY2hQcm94eUVuaGFuY2VtZW50IjpmYWxzZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6ImYzZTE0YjhmLTc2ZmQtNGU3YS05ZWU2LThhOWMxODIwYmEwNCIsImZ3VmNJRDJDb3BwYSI6ImYzZTE0YjhmLTc2ZmQtNGU3YS05ZWU2LThhOWMxODIwYmEwNCIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiZjNlMTRiOGYtNzZmZC00ZTdhLTllZTYtOGE5YzE4MjBiYTA0IiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAwOSJ9fSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlVTOlpqTmxNVFJpT0dZdE56Wm1aQzAwWlRkaExUbGxaVFl0T0dFNVl6RTRNakJpWVRBMCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3NDUyMTEwNDksImlhdCI6MTc0NTEyNDY0OSwianRpIjoiYWNhNGVmNzQtNjJiZi00YjVhLTg4NjQtZWY1YmVmMTI5N2UyIn0.qYQPTqbLjuzKb9zVjHpKgMzGRSGRTuntgBxSTTygfJU&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQEqWDLrMGbQneGNYWo1ivlyKRSXLBf6Ma4poLLzKeE_7Kc78DAJF0xS2V6AGGFmUzAnlx2lniSjQuAN-2nZqsr2A61BLNmTtHCBUdYKsSbxwiGfdHzVToPIPG49_dsFaTw1nYs7O6O85I6H5GF6Dwd7BRBUqNhU_nNn2CktGE9QuQD_RcqOufGzUlQlHZIt4WFgV7awqBt4-63JYPuHJiGR885icPiWWfD7rcK-tWCeIkoK-avd1L0ecPur9-xHZnXqFFLhq8_4p5OfXjTq5FyJP3_KgBW3M2BxotznQcUTqF1eb8BVvqR-nKg8D6BV1Qjk2wfMppZG_nKPBlKZbfoF3nGDiIy4xA9-o2boi9No3Le5Hu8wu_aMZLo4c1fsk1OQpu4lE67hqgVaRQJ-LDSqbrvta6RpbfDrcOqt51-4sAwYJqqoIiUT1WvqBIW8BKTSccw0Y5zJsYTnrmFXQvAtSEYPy2lUYrIA_drJeWl4uwOMxBjlH8DK0M6Si6dV_a5iicqIHA0ZpMUgBPxgLsLIJwHX10Z_DK13W-0ESvS8gWsWBausH-BcIb6vCGySej_WSqwwXmdCD0G_9mhUTrBFyYZZunBdUpYkT_5-P6nlCUabL751fVi4oCl7qggQxg4CpFRjlqr4j8C1jEO-4JlwqGt2LcciLIULmFnhk3D9KdkbL0PxQovg09Z01mOLEIN1Om1irgilq9qqapg-JptUida127gVMasBtQl1fbkFWYKaAxbuqDJak5uFCmkH-RWg1u2p-rQifTq7vEyImqjO-ZvhHTvB5mAkMaUMKHQaQutH9f0xZGCiLFZ7vlsG0YL3KMKxYs8qRpHiPdrejgn1fRZnS_KkLq3DD6Gp5g0d6vKJ__aM3t3Z0Md4Kz_kyzEwM9Ob3cFVis20UlAHA3G8lFBpEK3Jt1nJMUFH6Ymyq4p9knt8JgxjkdNnFGbYoRlamYdNj52qjrWqPywY-180d0Md1WRbWpn92Pl08A7jVrmwfiYGUv28_nGicQ7hmY282F65s6216KcIZswVDOyiEFM2ZR4bAGsg0ciANaz9kRTfgYxvIz_I2_JfV0jbp_LMIUQvCa5vn616yMA8jy0uFM6lIKV0vkIP0ALviFBFqATO9CBUmPe9rRJuTuLkMMzfrQ5q3HxSXK07P7PgwX4b3-pWuquYepPYTyCpIVUwsVd8wLEUOje-RCL6ItZQFZrh-8Utsys5QTfSNbk2JEywz4jC4zuNup8NG8Zl82zb7KMgRDjwgHamz6VZx1kaziO9OXw0SF9Nh9LIsi7yFB0dhlzIlqHPrcdZh_5265frm4yodp7Q4vSNG21b9MttsfXu5t4jxP8YyVELpGI8-txUe3YCHR0VJteUcO0M64evVuZBvqIzFZlqUfTc-fCZVKke0yrP6gAs0qiHHgr1aZZ5lNJB7zhXK7eCJrpag4pXWxIfKxb-Vp8PyOWcwhUQBbUktnCD3FvlhKyB1yVq2JRbFEBs2fCtzyketJe3FJmyt-qyvDlfqvw5Qrtmyb_hqseyessTQ957eh_mMRq7ItLeO3L2A2Ch3GMu2UNWA..&gpp=DBABLA~BVQqAAAAAgA.QA&gpp_sid=7&us_privacy=1YNN&eventVOD=false&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%223c6384c1-cb5a-4de9-86f1-86926208723c%22%2Csu
 
 #EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" group-title="Sports", Azteca Deportes Premium
@@ -451,20 +410,21 @@ https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Caliente TV
 
+
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes US
 http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/418211
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
-https://galaxypro.online:2087/gatqJsMRmteq/WDgJLrNJHJSX/283317
+
 
 #EXTINF:-1 tvg-id="ESPN MX" group-title="Sports", Espn HD
-https://galaxypro.online:2087/gatqJsMRmteq/WDgJLrNJHJSX/690535
+
 
 #EXTINF:-1 tvg-id="ESPN 2 MX" group-title="Sports", Espn 2 HD
-https://galaxypro.online:2087/gatqJsMRmteq/WDgJLrNJHJSX/690529
+
 
 #EXTINF:-1 tvg-id="ESPN 3 MX" group-title="Sports", Espn 3 HD
-https://galaxypro.online:2087/gatqJsMRmteq/WDgJLrNJHJSX/690527
+
 
 #EXTINF:-1 tvg-id="Fox Sports Premium" group-title="Sports", Fox Sports Premium HD
 
@@ -508,7 +468,6 @@ http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/611459
 
 
 
-
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
 http://redima.pro:8880/1311617953/1311617953/343
 
@@ -516,7 +475,7 @@ http://redima.pro:8880/1311617953/1311617953/343
 http://redima.pro:8880/1311617953/1311617953/364
 
 #EXTINF:-1 tvg-id="Warner Channels" group-title="De Paga", Warner 
-http://181.78.105.146:2000/play/a01f/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="Space" group-title="De Paga", Space HD
@@ -538,9 +497,6 @@ http://redima.pro:8880/1311617953/1311617953/379
 
 
 #EXTINF:-1 tvg-id="FX" group-title="De Paga", FX
-http://181.78.105.146:2000/play/a05z/index.m3u8
-
-
 
 
 
