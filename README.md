@@ -407,7 +407,7 @@ EXTINF:-1 tvg-id="Canal Telesistema 11 (República Dominicana).do" group-title="
 https://jmp2.uk/sam-US2700004DX.m3u8
 
 #EXTINF:-1 tvg-id="6320d2755e54db000783fd87" group-title="Sports", Claro Sports
-https://stitcher.pluto.tv/stitch/hls/channel/6320d2755e54db000783fd87/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7961c49f-259d-11f0-870f-2e69ca19bd0b
+https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
 #EXTINF:-1 tvg-id="Fox Sport en español" group-title="Sports", Fox Sports en español 
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
