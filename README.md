@@ -1,5 +1,5 @@
 #EXTM3U 
-x-tvg-url="https://raw.githubusercontent.com/Mcarv00/gatotv/master/guide.xml"
+x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml"
 
 #EXTINF:-1 tvg-id="Azteca Uno" group-title="NACIONAL", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
@@ -188,20 +188,20 @@ https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c
 http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/611461
 
 
-#EXTINF:-1  tvg-id="WAPA TV"  group-title="Internacional" , Canal Vix
+#EXTINF:-1  tvg-id="US2200005Y2"  group-title="Internacional" , Canal Vix
 https://jmp2.uk/sam-US2200005Y2.m3u8
 
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Tu Warner
+#EXTINF:-1 tvg-id="6732497f3a61d400087a53b0" group-title="ENTRETENIMIENTO" , Tu Warner
 https://stitcher.pluto.tv/stitch/hls/channel/6732497f3a61d400087a53b0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=b6ab15df-26a9-11f0-a242-8e1dc8a26264
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , CBS En Español
+#EXTINF:-1 tvg-id="668c5cb4f01dbe0008dd4082" group-title="ENTRETENIMIENTO" , CBS En Español
 https://stitcher.pluto.tv/stitch/hls/channel/668c5cb4f01dbe0008dd4082/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=b6ab15df-26a9-11f0-a242-8e1dc8a26264
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Series con Ñ
+#EXTINF:-1 tvg-id="60fb3087fbbc120007fc46be" group-title="ENTRETENIMIENTO" , Series con Ñ
 https://stitcher.pluto.tv/stitch/hls/channel/60fb3087fbbc120007fc46be/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=b6ab15df-26a9-11f0-a242-8e1dc8a26264
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Chinola
