@@ -265,7 +265,7 @@ https://s2.tvdatta.com:3753/hybrid/play.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TOONCAST" group-title="ENTRETENIMIENTO" , Tooncast
-
+http://170.39.192.130:2095/56986273653playtv/050923playtv/99906
 
 #EXTINF:-1 tvg-id="VTV.hn" group-title="ENTRETENIMIENTO", VTV HN
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
@@ -448,7 +448,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u
 http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/418211
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
-
+http://170.39.192.130:2095/56986273653playtv/050923playtv/322660
 
 #EXTINF:-1 tvg-id="ESPN MX" group-title="Sports", Espn HD
 
