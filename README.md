@@ -507,10 +507,12 @@ http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/611459
 
 
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
+http://170.39.192.130:2095/56986273653playtv/050923playtv/322868
+
 https://streamer1.nexgen.bz/STAR/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT
-
+http://170.39.192.130:2095/56986273653playtv/050923playtv/316836
 
 #EXTINF:-1 tvg-id="Warner Channels" group-title="De Paga", Warner 
 
