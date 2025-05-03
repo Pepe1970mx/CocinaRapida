@@ -128,7 +128,10 @@ https://jmp2.uk/sam-USBC2100010OS.m3u8
 #EXTINF:-1 tvg-id="Sony Comedia" group-title="Comedia" , Sony Comedia
 
 
-#EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="Comedia" , Los Tres Chiflados
+#EXTINF:-1 tvg-id="Los Simpson" group-title="24/7" , Los Simpson 24/7
+http://181.209.96.170:9988/Live/6f34c8899f7044b767aff63819d01e93/online-24-7_480.m3u8
+
+#EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="24/7" , Los Tres Chiflados
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-id="El Financiero Bloomberg" group-title="NOTICIAS", El Financiero - Bloomberg TV
@@ -158,10 +161,10 @@ http://bedroombullyonline.com:3050/mary1724@yahoo.com/LryCbvt5Dm/419367
 #EXTINF:-1 tvg-id="Telemundo PR" group-title="Internacional", Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-id="Punto2" group-title="Internacional", Punto 2
+#EXTINF:-1 tvg-id="Canal Punto2" group-title="Internacional", Punto 2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
-#EXTINF:-1 tvg-id="Punto 99" group-title="Internacional", Punto 99
+#EXTINF:-1 tvg-id="Canal Punto 99" group-title="Internacional", Punto 99
 https://stmv5.voxtvhd.com.br/99online/99online/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Univision" group-title="Internacional",  Univision
@@ -202,6 +205,9 @@ https://jmp2.uk/sam-US2200005Y2.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
 
+#EXTINF:-1 tvg-id="TOONCAST" group-title="ENTRETENIMIENTO" , Tooncast
+http://170.39.192.130:2095/56986273653playtv/050923playtv/99906
+
 #EXTINF:-1 tvg-id="6732497f3a61d400087a53b0" group-title="ENTRETENIMIENTO" , Tu Warner
 https://stitcher.pluto.tv/stitch/hls/channel/6732497f3a61d400087a53b0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=b6ab15df-26a9-11f0-a242-8e1dc8a26264
 
@@ -211,23 +217,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/668c5cb4f01dbe0008dd4082/master.m3u
 #EXTINF:-1 tvg-id="60fb3087fbbc120007fc46be" group-title="ENTRETENIMIENTO" , Series con Ñ
 https://stitcher.pluto.tv/stitch/hls/channel/60fb3087fbbc120007fc46be/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=b6ab15df-26a9-11f0-a242-8e1dc8a26264
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Chinola
-
-
-#EXTINF:-1 tvg-id="Moni TV" group-title="ENTRETENIMIENTO" , Moni TV
-
-#EXTINF:-1 tvg-id="" group-title="ENTRETENIMIENTO" , Los Simpson 24/7
-http://181.209.96.170:9988/Live/6f34c8899f7044b767aff63819d01e93/online-24-7_480.m3u8
-
-#EXTINF:-1 tvg-id="Dreiko TV" group-title="ENTRETENIMIENTO" , Dreiko TV 
-https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
-
-#EXTINF:-1 tvg-id="Teleclasica" group-title="ENTRETENIMIENTO" , Teleclasica 
-https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ACS Network TV" group-title="ENTRETENIMIENTO", ACS Network
-
-#EXTINF:-1 tvg-id="5de802659167b10009e7deba" group-title="ENTRETENIMIENTO", Pluto Series Retro
+id="5de802659167b10009e7deba" group-title="ENTRETENIMIENTO", Pluto Series Retro
 https://stitcher.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 
@@ -247,6 +237,23 @@ https://stitcher.pluto.tv/stitch/hls/channel/645952687cb4b100084ed52e/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ef9650bc-27b5-11f0-a2e1-b28153763643
 
 
+
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Chinola
+
+
+#EXTINF:-1 tvg-id="Moni TV" group-title="ENTRETENIMIENTO" , Moni TV
+
+
+
+#EXTINF:-1 tvg-id="Dreiko TV" group-title="ENTRETENIMIENTO" , Dreiko TV 
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
+#EXTINF:-1 tvg-id="Teleclasica" group-title="ENTRETENIMIENTO" , Teleclasica 
+https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ACS Network TV" group-title="ENTRETENIMIENTO", ACS Network
+
 #EXTINF:-1 tvg-id="Tv Retro Palmares" group-title="ENTRETENIMIENTO", TV Palmares TV
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 
@@ -264,8 +271,7 @@ https://s2.tvdatta.com:3753/hybrid/play.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TOONCAST" group-title="ENTRETENIMIENTO" , Tooncast
-http://170.39.192.130:2095/56986273653playtv/050923playtv/99906
+
 
 #EXTINF:-1 tvg-id="VTV.hn" group-title="ENTRETENIMIENTO", VTV HN
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
@@ -426,7 +432,7 @@ EXTINF:-1 tvg-id="Canal Telesistema 11 (República Dominicana).do" group-title="
 
 
 
-#EXTINF:-1 tvg-id="sam-US2700004DX" group-title="Sports", BeIn Extra en Español
+#EXTINF:-1 tvg-id="US2700004DX" group-title="Sports", BeIn Extra en Español
 https://jmp2.uk/sam-US2700004DX.m3u8
 
 #EXTINF:-1 tvg-id="6320d2755e54db000783fd87" group-title="Sports", Claro Sports
