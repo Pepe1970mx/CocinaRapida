@@ -22,16 +22,19 @@ https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://chann
 #EXTINF:-1 tvg-id="Canal 5" group-title="NACIONAL", Canal 5
 https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
 
+#EXTINF:-1 tvg-id="Telehit" group-title="NACIONAL", 
+https://streamer1.nexgen.bz/TELEHIT/index.m3u8
+
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 MX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
 
 #EXTINF:-1 tvg-id="Milenio TV" group-title="NACIONAL" , Milenio Television
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
 
-#EXTINF:-1 tvg-id="Telediario Now" group-title="NACIONAL", Telediario Now
+#EXTINF:-1 tvg-id="11014" group-title="NACIONAL", Telediario Now
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 
-#EXTINF:-1 tvg-id="MVSTV.mx" group-title="NACIONAL", MVS TV
+#EXTINF:-1 tvg-id="MVSTV" group-title="NACIONAL", MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 #EXTINF:-1 tvg-id="EXATV" group-title="NACIONAL", EXA TV
@@ -56,15 +59,13 @@ https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 #EXTINF:-1 tvg-id="El Heraldo TV" group-title="NACIONAL" , Heraldo TV
 
 
-#EXTINF:-1 tvg-id="TeleFormula.mx" group-title="NACIONAL" , Teleformula
+#EXTINF:-1 tvg-id="TeleFormula" group-title="NACIONAL" , Teleformula
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 
 #EXTINF:-1 tvg-id="Canal Once" group-title="NACIONAL", Canal Once
 https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b2098304.m3u8
 
 #EXTINF:-1 tvg-id="Once Niños" group-title="NACIONAL", Once Niños
-http://181.78.105.146:2000/play/a04f/index.m3u8
-
 
 
 #EXTINF:-1 tvg-id="" group-title="NACIONAL", Canal 13 Tabasco
@@ -74,7 +75,7 @@ https://stream-207963.castr.net/65313d270e749722b6474684/live_185f5f10888711ee83
 #EXTINF:-1 tvg-id="14 de Mexico" group-title="NACIONAL" , Canal 14 
 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Capital 21" group-title="NACIONAL" , Capital 21
+#EXTINF:-1 tvg-id="Capital21" group-title="NACIONAL" , Capital 21
 https://video.cdmx.gob.mx/redes/stream.m3u8 
 
 #EXTINF:-1 tvg-id="22 de Mexico" group-title="NACIONAL" , CANAL 22 
@@ -101,10 +102,10 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-id="QuieroTV.mx" group-title="NACIONAL", QuieroTV
 
 
-#EXTINF:-1 tvg-id="MexiquenseTV.mx" group-title="NACIONAL" , Mexiquense TV 
+#EXTINF:-1 tvg-id="MexiquenseTV" group-title="NACIONAL" , Mexiquense TV 
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
 
-#EXTINF:-1  tvg-id="XHPTDT.mx" group-title="NACIONAL" , 34 Noticias 
+#EXTINF:-1  tvg-id="XHPTDT" group-title="NACIONAL" , 34 Noticias 
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
 
 #EXTINF:-1 tvg-id="Maria Vision" group-title="NACIONAL", Mariavision 
@@ -152,11 +153,14 @@ https://s5.mexside.net:1936/france24/france24/playlist.m3u8
 #EXTINF:-1 tvg-id"CNN en Español" group-title="NOTICIAS", CNN en Español 
 https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 
+#EXTINF:-1  tvg-id="US2200005Y2"  group-title="Internacional" , Canal Vix
+https://jmp2.uk/sam-US2200005Y2.m3u8
+
 #EXTINF:-1 tvg-id="Telemundo" group-title="Internacional", Telemundo 
-http://nocable.cc:8080/k4Svp2/645504/120691
+http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
-http://bedroombullyonline.com:3050/mary1724@yahoo.com/LryCbvt5Dm/419367
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo PR" group-title="Internacional", Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
@@ -183,12 +187,8 @@ http://bedroombullyonline.com:3050/live/mary1724@yahoo.com/LryCbvt5Dm/509177.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ef9650bc-27b5-11f0-a2e1-b28153763643
 
 
-
-
-
 #EXTINF:-1 tvg-id="TCS+" group-title="Internacional" , TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8
-
 
 #EXTINF:-1 tvg-id="USBC39000080S" group-title="Internacional", Canela TV
 
@@ -198,8 +198,7 @@ https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c
 http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/611461
 
 
-#EXTINF:-1  tvg-id="US2200005Y2"  group-title="Internacional" , Canal Vix
-https://jmp2.uk/sam-US2200005Y2.m3u8
+
 
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
@@ -571,7 +570,7 @@ http://vegafibratv.com:8085/AMC/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO Family" group-title="De Paga" , HBO Family
-
+https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="De Paga", Starz Cinema En español
 
