@@ -176,6 +176,13 @@ http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/611458
 #EXTINF:-1 tvg-id="Galavision" group-title="Internacional", Galavision
 http://bedroombullyonline.com:3050/live/mary1724@yahoo.com/LryCbvt5Dm/509177.m3u8
 
+#EXTINF:-1 tvg-id="5cf0622da00ca1e2f6fac712" group-title="Internacional", Estrella TV
+https://stitcher.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ef9650bc-27b5-11f0-a2e1-b28153763643
+
+
+
+
+
 #EXTINF:-1 tvg-id="TCS+" group-title="Internacional" , TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8
 
@@ -235,6 +242,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u
 
 #EXTINF:-1 tvg-id="645952687cb4b100084ed52e" group-title="ENTRETENIMIENTO", Nickelodeon Pluto TV
 https://stitcher.pluto.tv/stitch/hls/channel/645952687cb4b100084ed52e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7961c49f-259d-11f0-870f-2e69ca19bd0b
+
+#EXTINF:-1 tvg-id="5d8d08395f39465da6fb3ec4" group-title="ENTRETENIMIENTO", Nickelodeon en Español
+https://stitcher.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ef9650bc-27b5-11f0-a2e1-b28153763643
 
 
 #EXTINF:-1 tvg-id="Tv Retro Palmares" group-title="ENTRETENIMIENTO", TV Palmares TV
