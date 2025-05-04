@@ -154,6 +154,8 @@ https://s5.mexside.net:1936/france24/france24/playlist.m3u8
 #EXTINF:-1 tvg-id"CNN en Español" group-title="NOTICIAS", CNN en Español 
 https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 
+
+
 #EXTINF:-1  tvg-id="US2200005Y2"  group-title="Internacional" , Canal Vix
 https://jmp2.uk/sam-US2200005Y2.m3u8
 
@@ -193,12 +195,29 @@ https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c
 
 #EXTINF:-1 tvg-id="USBC39000080S" group-title="Internacional", Canela TV
 
-
-
 #EXTINF:-1  tvg-id="WAPA TV"  group-title="Internacional" , Wapa
 http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/611461
 
+#EXTINF:-1 tvg-id="Canal2.sv" group-title="Internacional", Canal 2 SV
+https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 
+
+#EXTINF:-1 tvg-id="Televicentro.hn" group-title="Internacional", Canal 5 HN
+https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
+
+#EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="Internacional", Telecadena 7 y 4
+http://200.52.148.194:8000/play/a04q/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Canal 6 de Costa Rica" group-title="Internacional" , Canal 6 CR
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal12.sv" group-title="Internacional", Canal 12 SV
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+
+
+#EXTINF:-1 tvg-id="13 de Argentina" group-title="Internacional", El trece AR
+https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
 
 
@@ -246,13 +265,10 @@ https://stitcher.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u
 
 
 
-#EXTINF:-1 tvg-id="Dreiko TV" group-title="ENTRETENIMIENTO" , Dreiko TV 
-https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+
 
 #EXTINF:-1 tvg-id="Teleclasica" group-title="ENTRETENIMIENTO" , Teleclasica 
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ACS Network TV" group-title="ENTRETENIMIENTO", ACS Network
 
 #EXTINF:-1 tvg-id="Tv Retro Palmares" group-title="ENTRETENIMIENTO", TV Palmares TV
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
@@ -279,34 +295,27 @@ https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="gt#canal-3" group-title="ENTRETENIMIENTO" , Canal 3 GT
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="gt#canal-3" group-title="ENTRETENIMIENTO" , Canal 3 SV
-https://cloud2.streaminglivehd.com:1936/8048/8048/.m3u8
 
-#EXTINF:-1 tvg-id="gt#televisiete">" group-title="ENTRETENIMIENTO" , Canal 7 - Televisiete
+
+#EXTINF:-1 tvg-id="gt#televisiete" group-title="ENTRETENIMIENTO" , Canal 7 - Televisiete
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="gt#trecevision-canal-13" group-title="ENTRETENIMIENTO", Canal 13 - Trecevisión
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 
-#EXTINF:-1 tvg-id="gt#teleonce-canal-11" group-title="ENTRETENIMIENTO", Canal 11 - Teleonce
 
 #EXTINF:-1 tvg-id="ATVSur.pe" group-title="ENTRETENIMIENTO" , ATV Sur PE
-https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
+https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="ATV.pe" group-title="ENTRETENIMIENTO" , ATV PE
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-id="ATV.pe" group-title="ENTRETENIMIENTO" , America TV
-
-
-#EXTINF:-1 tvg-id="UnitelSantaCruz.bo" group-title="ENTRETENIMIENTO" , Unitel BO
 
 #EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="ENTRETENIMIENTO", Ciudad Magica AR
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
 
 #EXTINF:-1 tvg-id="USBD7000017L" group-title="Internacional", AMC en Español
-https://jmp2.uk/Sam-USBD7000017L.m3u8
+
 
 
 #EXTINF:-1 tvg-id="ESBC4100001NZ" group-title="España" , La 1 ES
@@ -339,96 +348,7 @@ https://jmp2.uk/Sam-USBD7000017L.m3u8
 #EXTINF:-1 tvg-id="M Estrenos" group-title="España", M Estrenos
 
 
-#EXTINF:-1 tvg-id="Canal2.sv" group-title="Internacional", Canal 2 SV
-https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 
-
-#EXTINF:-1 tvg-id="" group-title="Internacional", Canal 2 NI
-
-
-#EXTINF:-1 tvg-id="Canal4.sv" group-title="Internacional", Canal 4 SV
-
-
-#EXTINF:-1 tvg-id="Canal 4 de Costa Rica" group-title="Internacional" , Canal 4 CR
-
-
-#EXTINF:-1 tvg-id="" group-title="Internacional" , Canal 4 NI
-
-
-#EXTINF:-1 tvg-id="Televicentro.hn" group-title="Internacional", Canal 5 HN
-https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
-
-#EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="Internacional", Telecadena 7 y 4
-http://200.52.148.194:8000/play/a04q/index.m3u8
-
-
-#EXTINF:-1 tvg-id="Canal 6 de Costa Rica" group-title="Internacional" , Canal 6 CR
-https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
-
-
-#EXTINF:-1 tvg-id"Canal 7 de Costa Rica (Teletica)" group-title="Internacional", Canal 7 Teletica CR
-
-
-#EXTINF:-1 tvg-id"9_de_honduras_vica" group-title="Internacional", Canal 9 HN
-
-
-#EXTINF:-1 tvg-id"Canal 9 de Costa Rica" group-title="Internacional", Canal 9 CR
-
-#EXTINF:-1 tvg-id="Canal10.sv" group-title="Internacional", Canal 10 SV
-
-
-#EXTINF:-1 tvg-id="" group-title="Internacional", Canal 10 NI
-
-
-#EXTINF:-1 tvg-id="Canal 11 de Costa Rica" group-title="Internacional" , Canal 11 CR
-
-
-#EXTINF:-1 tvg-id="Canal11.hn" group-title="Internacional", Canal 11 HN
-
-
-
-
-#EXTINF:-1 tvg-id="Canal12.sv" group-title="Internacional", Canal 12 SV
-https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Internacional", Canal 12 NI
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jkWzJlR7K7f6E4GdbvymNPmHc5qddNvKvyF34nbGU9y-/ts
-
-#EXTINF:-1 tvg-id="Canal 13 de Costa Rica" group-title="Internacional", Canal 13 CR
-https://live-b.cf.dmcdn.net/sec2(obZNPl_0WVqcLDerZo1vG8PQJULzg5ZYg4UJqbBbDvLPdGeISZ_yU3ax0f8lamlKoXaoQkE3HE9N2QP_4DB6TJdc6EWEs1y8YdKZ1c-V6YM)/dm/3/x7vh8g3/d/live-3.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Internacional", Canal 13 NI
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jjAOulSC4Pj6y6s9TX5nLqKEgzv6E_QJ0eE84f3UWgRe/ts
-
-
-#EXTINF:-1 tvg-id="13_de_guatemala" group-title="Internacional", Canal 13 GT
-
-
-#EXTINF:-1 tvg-id="VivaNicaraguaCanal13.ni" group-title="Internacional", Canal 13 NI
-
-
-#EXTINF:-1 tvg-id="13 de Argentina" group-title="Internacional", El trece AR
-https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="TVMax.pa" group-title="Internacional" , TV Max
-
-
-#EXTINF:-1 tvg-id="Telefuturo.py" group-title="Internacional" , Telefuturo PA
-
-
-#EXTINF:-1 tvg-id="WillaxTV.pe" group-title="Internacional" , Willax.pe
-
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" group-title="Internacional" , Panamericana 
-
-
-#EXTINF:-1 tvg-id="telefe_argentina" group-title="Internacional" , Telefe AR
-
-
-#EXTINF:-1 tvg-id="Telesistema3y7.hn" group-title="Internacional", Telesistema 3y7 HN
-
-
-
-EXTINF:-1 tvg-id="Canal Telesistema 11 (República Dominicana).do" group-title="ENTRETENIMIENTO", Telesistema
 
 
 
