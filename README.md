@@ -127,6 +127,7 @@ https://jmp2.uk/sam-USBC2100010OS.m3u8
 
 
 #EXTINF:-1 tvg-id="Sony Comedia" group-title="Comedia" , Sony Comedia
+https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Los Simpson" group-title="24/7" , Los Simpson 24/7
@@ -574,7 +575,28 @@ http://vegafibratv.com:8085/AMC/index.m3u8
 #EXTINF:-1 tvg-id="HBO Family" group-title="De Paga" , HBO Family
 https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="De Paga", Starz Cinema En español
+#EXTINF:-1 tvg-id="" group-title="CINE y Series" ,Freetv Sureño
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="CINE y Series" , Freetv Familia 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="CINE y Series" , Freetv Accion
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-xiaomi/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="CINE y Series" , Freetv Estelar
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="CINE y Series" ,
+
+
+
+#EXTINF:-1 tvg-id="" group-title="CINE y Series" ,
+
+
+#EXTINF:-1 tvg-id="" group-title="CINE y Series" ,
+
 
 
 #EXTINF:-1 tvg-id="" group-title="De Paga", Starz Encore Family & Kids
@@ -599,7 +621,7 @@ https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="Nick" group-title="Kids", Nick HD
 
 
-#EXTINF:-1 tvg-id="Disney Channel Espana" group-title="Kids", Disney Channels HD
+els HD
 
 
 #EXTINF:-1 tvg-id="645952687cb4b100084ed52e" group-title="Kids", Nickelodeon Pluto TV
@@ -613,14 +635,8 @@ https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="5f98471110cca20007d39f76" group-title="Retro Music", MTV Unplugged
 https://bit.ly/3K2CDBb?profile=corgol.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Retro Music", Best of the 80's
-https://linear-759.frequency.stream/mt/studio/759/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Retro Music", Best of the 90's
-https://linear-762.frequency.stream/mt/studio/762/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="6490254fd2c47c00083a5743" group-title="Retro Music", Now 80s
-http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/19196/index.m3u8
+https://lightning-now80s-xiaomi.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Retro Music", MTV 80's
 http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/6977/index.m3u8
