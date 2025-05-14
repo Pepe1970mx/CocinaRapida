@@ -133,6 +133,9 @@ https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Los Simpson" group-title="24/7" , Los Simpson 24/7
 http://181.209.96.170:9988/Live/6f34c8899f7044b767aff63819d01e93/online-24-7_480.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="24/7" , Charlie
+https://amogonetworx-charlie-1-mx.tcl.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="24/7" , Los Tres Chiflados
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
@@ -494,6 +497,13 @@ http://vegafibratv.com:8085/AMC/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family" group-title="De Paga" , HBO Family
 https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 tvg-id="grjngo" group-title="CINE y Series" ,
+https://amogonetworx-grjngo-2-mx.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="CINE y Series" ,Freetv Live
+https://amg01024-amg01024c17-tcl-us-4518.playouts.now.amagi.tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" group-title="CINE y Series" ,Freetv Sureño
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-xiaomi/playlist.m3u8
