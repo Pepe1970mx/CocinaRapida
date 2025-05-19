@@ -20,7 +20,7 @@ EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
 
 #EXTINF:-1 tvg-id="Canal 5" group-title="NACIONAL", Canal 5
-https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
+http://45.68.35.218:4001/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-id="Telehit" group-title="NACIONAL", 
 https://streamer1.nexgen.bz/TELEHIT/index.m3u8
@@ -31,7 +31,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
 #EXTINF:-1 tvg-id="Milenio TV" group-title="NACIONAL" , Milenio Television
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
 
-#EXTINF:-1 tvg-id="11014" group-title="NACIONAL", Telediario Now
+#EXTINF:-1 tvg-id="Telediario" group-title="NACIONAL", Telediario Now
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 
 #EXTINF:-1 tvg-id="MVSTV" group-title="NACIONAL", MVS TV
@@ -178,7 +178,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 https://stmv5.voxtvhd.com.br/99online/99online/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Univision" group-title="Internacional",  Univision
-http://nocable.cc:8080/k4Svp2/645504/15336
+http://206.212.244.71:8080/Abxc5k/363887/108248
 
 #EXTINF:-1 tvg-id="Unimas" group-title="Internacional", Unimas
 http://nocable.cc:8080/k4Svp2/645504/57969
@@ -187,7 +187,7 @@ http://nocable.cc:8080/k4Svp2/645504/57969
 http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/611458
 
 #EXTINF:-1 tvg-id="Galavision" group-title="Internacional", Galavision
-http://bedroombullyonline.com:3050/live/mary1724@yahoo.com/LryCbvt5Dm/509177.m3u8
+http://206.212.244.71:8080/Abxc5k/363887/58770
 
 #EXTINF:-1 tvg-id="5cf0622da00ca1e2f6fac712" group-title="Internacional", Estrella TV
 https://amg00567-estrellamedia-estrellatv-lgus-1g48u.amagi.tv/playlist/amg00567-estrellamedia-estrellatv-lgus/playlist.m3u8
