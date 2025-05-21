@@ -382,7 +382,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u
 
 
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes US
-http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/418211
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/9571
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
 http://170.39.192.130:2095/56986273653playtv/050923playtv/322660
@@ -409,10 +409,10 @@ http://170.39.192.130:2095/56986273653playtv/050923playtv/322660
 
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
-
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/9603
 
 #EXTINF:-1 tvg-id="TUDN.us" group-title="Sports", TUDN USA
-http://nocable.cc:8080/k4Svp2/645504/11885
+http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/9606
 
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN
 
