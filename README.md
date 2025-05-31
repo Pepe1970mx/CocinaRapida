@@ -1,4 +1,4 @@
-jjj#EXTM3U 
+#EXTM3U 
 x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml"
 
 #EXTINF:-1 tvg-id="Azteca Uno" group-title="NACIONAL", Azteca Uno
@@ -20,7 +20,7 @@ EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
 
 #EXTINF:-1 tvg-id="Canal 5" group-title="NACIONAL", Canal 5
-http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/87597
+http://45.68.35.218:4001/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-id="Telehit" group-title="NACIONAL", 
 https://streamer1.nexgen.bz/TELEHIT/index.m3u8
@@ -409,10 +409,10 @@ http://170.39.192.130:2095/56986273653playtv/050923playtv/322660
 
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
-http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/9603
+
 
 #EXTINF:-1 tvg-id="TUDN.us" group-title="Sports", TUDN USA
-http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/9606
+http://cord-cutter.net:8080/Rme2Fg/183926/11885
 
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN
 
@@ -453,7 +453,7 @@ http://170.39.192.130:2095/56986273653playtv/050923playtv/316836
 
 
 #EXTINF:-1 tvg-id="Sony" group-title="De Paga", Sony Channels 
-
+https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Sony Cine" group-title="De Paga", Sony Cine
@@ -466,7 +466,7 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="FX" group-title="De Paga", FX
-https://streamer1.nexgen.bz/FX/index.m3u8
+https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
 
 
 #EXTINF:-1 tvg-id="USA" group-title="De Paga", USA
