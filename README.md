@@ -13,6 +13,9 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx" group-title="NACIONAL", Imagen TV
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 
+#EXTINF:-1 tvg-id="CGTN en español" group-title="NACIONAL", CGTN En Español
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+
 EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
 
 
@@ -42,6 +45,9 @@ https://mvs.daioncdn.net:443/exatv/exatv_1080p.m3u8?&sid=76arxwhpzqio&app=188fff
 
 #EXTINF:-1 tvg-id="Teleritmo" group-title="NACIONAL", Teleritmo 
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-id=" " group-title="NACIONAL", La Voz Grupera
+https://cloudvideo.servers10.com:8081/8128/index.m3u8
 
 #EXTINF:-1 tvg-id="Azteca 7" group-title="NACIONAL", Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
