@@ -1,5 +1,5 @@
 #EXTM3U 
-x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml"
+x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Roku/all.xml"
 
 #EXTINF:-1 tvg-id="Azteca Uno" group-title="NACIONAL", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
