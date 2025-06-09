@@ -388,16 +388,16 @@ https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u
 
 
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes US
-http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/9571
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319477
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
 http://170.39.192.130:2095/56986273653playtv/050923playtv/322660
 
 #EXTINF:-1 tvg-id="ESPN MX" group-title="Sports", Espn HD
-
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302639
 
 #EXTINF:-1 tvg-id="ESPN 2 MX" group-title="Sports", Espn 2 HD
-
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302639
 
 #EXTINF:-1 tvg-id="ESPN 3 MX" group-title="Sports", Espn 3 HD
 
@@ -418,7 +418,7 @@ http://170.39.192.130:2095/56986273653playtv/050923playtv/322660
 
 
 #EXTINF:-1 tvg-id="TUDN.us" group-title="Sports", TUDN USA
-http://cord-cutter.net:8080/Rme2Fg/183926/11885
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319573
 
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN
 
