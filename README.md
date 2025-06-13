@@ -391,7 +391,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319477
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
-http://170.39.192.130:2095/56986273653playtv/050923playtv/322660
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319471
 
 #EXTINF:-1 tvg-id="ESPN MX" group-title="Sports", Espn HD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302639
@@ -403,13 +403,13 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302639
 
 
 #EXTINF:-1 tvg-id="Fox Sports Premium" group-title="Sports", Fox Sports Premium HD
-
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/304554
 
 #EXTINF:-1 tvg-id="Fox Sports MX" group-title="Sports", Fox Sport HD
-
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302652
 
 #EXTINF:-1 tvg-id="Fox Sports 2 MX" group-title="Sports", Fox sport 2 HD
-
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302653
 
 #EXTINF:-1 tvg-id="Fox Sports 3 MX" group-title="Sports", Fox sport 3 HD
 
