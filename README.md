@@ -79,7 +79,7 @@ https://stream-207963.castr.net/65313d270e749722b6474684/live_185f5f10888711ee83
 
 
 #EXTINF:-1 tvg-id="14 de Mexico" group-title="NACIONAL" , Canal 14 
-https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-id="Capital21" group-title="NACIONAL" , Capital 21
 https://video.cdmx.gob.mx/redes/stream.m3u8 
@@ -138,6 +138,12 @@ https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Los Simpson" group-title="24/7" , Los Simpson 24/7
 http://181.209.96.170:9988/Live/6f34c8899f7044b767aff63819d01e93/online-24-7_480.m3u8
+
+#EXTINF:-1 tvg-id="El Chavo del 8" group-title="24/7" , El Chavo eel 8
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58278
+
+#EXTINF:-1 tvg-id="" group-title="24/7" , Lonney Tunes
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333153
 
 #EXTINF:-1 tvg-id="" group-title="24/7" , Charlie
 https://amogonetworx-charlie-1-mx.tcl.wurl.tv/playlist.m3u8
