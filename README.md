@@ -417,8 +417,8 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302652
 #EXTINF:-1 tvg-id="Fox Sports 2 MX" group-title="Sports", Fox sport 2 HD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302653
 
-#EXTINF:-1 tvg-id="Fox Sports 3 MX" group-title="Sports", Fox sport 3 HD
-
+#EXTINF:-1 tvg-id="TyC" group-title="Sports", TyC
+http://45.235.37.254/tyc/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
 
