@@ -43,6 +43,10 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 tvg-id="EXATV" group-title="NACIONAL", EXA TV
 https://mvs.daioncdn.net:443/exatv/exatv_1080p.m3u8?&sid=76arxwhpzqio&app=188fff62-593e-43fb-8604-34d30d693c1e&ce=2
 
+
+#EXTINF:-1 tvg-id="Nick Music" group-title="NACIONAL", Nick Music
+http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
+
 #EXTINF:-1 tvg-id="Teleritmo" group-title="NACIONAL", Teleritmo 
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
