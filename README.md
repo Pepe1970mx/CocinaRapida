@@ -220,7 +220,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatv-lgmx/
 #EXTINF:-1 tvg-id="TCS+" group-title="Internacional" , TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8
 
-#EXTINF:-1 tvg-id="USBC39000080S" group-title="Internacional", Canela TV
+#EXTINF:-1 tvg-id="Telecinco" group-title="Internacional", Telecinco
+http://185.189.225.150:85/TeleCincoHD/index.m3u8
+
+
 
 #EXTINF:-1  tvg-id="WAPA TV"  group-title="Internacional" , Wapa
 http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/611461
