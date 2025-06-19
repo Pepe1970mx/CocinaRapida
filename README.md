@@ -146,8 +146,14 @@ http://181.209.96.170:9988/Live/6f34c8899f7044b767aff63819d01e93/online-24-7_480
 #EXTINF:-1 tvg-id="El Chavo del 8" group-title="24/7" , El Chavo eel 8
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58278
 
+#EXTINF:-1 tvg-id="Alf" group-title="24/7" , Alf
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333134
+
+#EXTINF:-1 tvg-id="Pajaro Loco" group-title="24/7" , Pajaro Loco
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58086
+
 #EXTINF:-1 tvg-id="" group-title="24/7" , Lonney Tunes
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333153
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58088
 
 #EXTINF:-1 tvg-id="" group-title="24/7" , Charlie
 https://amogonetworx-charlie-1-mx.tcl.wurl.tv/playlist.m3u8
@@ -155,8 +161,7 @@ https://amogonetworx-charlie-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="24/7" , Los Tres Chiflados
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="24/7" , Los locos Addams
-http://tv.masterplaytv.club:8080/ALFREDOSALINAS/730d553fec83/105638
+
 
 
 
@@ -255,7 +260,7 @@ https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 https://live.obslivestream.com/planetatv/index.m3u8
 
 #EXTINF:-1 tvg-id="TOONCAST" group-title="ENTRETENIMIENTO" , Tooncast
-http://170.39.192.130:2095/56986273653playtv/050923playtv/99906
+
 
 #EXTINF:-1 tvg-id="6732497f3a61d400087a53b0" group-title="ENTRETENIMIENTO" , Tu Warner
 https://stitcher.pluto.tv/stitch/hls/channel/6732497f3a61d400087a53b0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=b6ab15df-26a9-11f0-a242-8e1dc8a26264
