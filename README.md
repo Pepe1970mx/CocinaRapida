@@ -298,10 +298,14 @@ https://stitcher.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u
 
 
 #EXTINF:-1 tvg-id="Teleclasica" group-title="ENTRETENIMIENTO" , Teleclasica 
-https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telered" group-title="ENTRETENIMIENTO" , Telered
+https://k20.usastreams.com:8081/telered/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Tv Retro Palmares" group-title="ENTRETENIMIENTO", TV Palmares TV
-https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Mi TV Television Clasica" group-title="ENTRETENIMIENTO", Mi TV televisión Clasica
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
