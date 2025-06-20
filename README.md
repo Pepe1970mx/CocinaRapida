@@ -188,6 +188,77 @@ https://stitcher.pluto.tv/stitch/hls/channel/60142258a54aeb0007751c15/master.m3u
 #EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="Retro", Pluto Nick Clasico
 https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
+#EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
+http://45.235.37.254/starhd/index.m3u8
+
+https://streamer1.nexgen.bz/STAR/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT
+http://45.235.37.254/tnthd/index.m3u8
+
+#EXTINF:-1 tvg-id="Warner Channels" group-title="De Paga", Warner 
+http://45.235.37.254/warnerhd/index.m3u8
+
+#EXTINF:-1 tvg-id="Space" group-title="De Paga", Space HD
+http://45.235.37.254/spacehd/index.m3u8
+
+#EXTINF:-1 tvg-id="Sony" group-title="De Paga", Sony Channels 
+http://45.235.37.254/sonyhd/index.m3u8
+
+
+https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Sony Cine" group-title="De Paga", Sony Cine
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Multicinema" group-title="De Paga", Multicinema
+
+
+#EXTINF:-1 tvg-id="Multipremier" group-title="De Paga", Multipremier
+
+
+#EXTINF:-1 tvg-id="FX" group-title="De Paga", FX
+https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
+
+
+#EXTINF:-1 tvg-id="USA" group-title="De Paga", USA
+
+
+#EXTINF:-1 tvg-id="UniversalTV.mx" group-title="De Paga", Universal Channel
+
+
+#EXTINF:-1 tvg-id="AXN" group-title="De Paga", AXN
+https://streamer1.nexgen.bz/AXN/index.m3u8
+
+#EXTINF:-1 tvg-id=" " group-title="De Paga",SYFY
+
+
+
+#EXTINF:-1 tvg-id="Paramount Channel" group-title="De Paga", Paramount España
+http://185.189.225.150:85/Paramount/index.m3u8
+
+#EXTINF:-1 tvg-id="Universal Premier" group-title="De Paga" , Universal Premier
+
+
+#EXTINF:-1 tvg-id="amc_españa" group-title="De Paga", AMC España
+http://vegafibratv.com:8085/AMC/index.m3u8
+
+#EXTINF:-1 tvg-id="AMC" group-title="De Paga" ,AMC
+
+
+#EXTINF:-1 tvg-id="HBO Latino" group-title="De Paga" , HBO Latino
+
+
+#EXTINF:-1 tvg-id="HBO" group-title="De Paga" , HBO 
+
+
+#EXTINF:-1 tvg-id="HBO Plus" group-title="De Paga" , HBO Plus
+
+
+#EXTINF:-1 tvg-id="HBO Family" group-title="De Paga" , HBO Family
+https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="El Financiero Bloomberg" group-title="NOTICIAS", El Financiero - Bloomberg TV
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
@@ -282,7 +353,7 @@ https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 https://live.obslivestream.com/planetatv/index.m3u8
 
 #EXTINF:-1 tvg-id="TOONCAST" group-title="ENTRETENIMIENTO" , Tooncast
-
+http://45.235.37.254/tooncast/index.m3u8
 
 #EXTINF:-1 tvg-id="6732497f3a61d400087a53b0" group-title="ENTRETENIMIENTO" , Tu Warner
 https://stitcher.pluto.tv/stitch/hls/channel/6732497f3a61d400087a53b0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=b6ab15df-26a9-11f0-a242-8e1dc8a26264
@@ -304,18 +375,10 @@ https://stitcher.pluto.tv/stitch/hls/channel/645952687cb4b100084ed52e/master.m3u
 #EXTINF:-1 tvg-id="5d8d08395f39465da6fb3ec4" group-title="ENTRETENIMIENTO", Nickelodeon en Español
 https://stitcher.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ef9650bc-27b5-11f0-a2e1-b28153763643
 
-
-
-
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Chinola
 
 
 #EXTINF:-1 tvg-id="Moni TV" group-title="ENTRETENIMIENTO" , Moni TV
-
-
-
-
-
 
 
 
@@ -469,76 +532,7 @@ http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/611459
 
 
 
-#EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
-http://45.235.37.254/starhd/index.m3u8
 
-https://streamer1.nexgen.bz/STAR/index.m3u8
-
-#EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT
-http://45.235.37.254/tnthd/index.m3u8
-
-#EXTINF:-1 tvg-id="Warner Channels" group-title="De Paga", Warner 
-http://45.235.37.254/warnerhd/index.m3u8
-
-#EXTINF:-1 tvg-id="Space" group-title="De Paga", Space HD
-http://45.235.37.254/spacehd/index.m3u8
-
-#EXTINF:-1 tvg-id="Sony" group-title="De Paga", Sony Channels 
-http://45.235.37.254/sonyhd/index.m3u8
-
-
-https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-
-
-#EXTINF:-1 tvg-id="Sony Cine" group-title="De Paga", Sony Cine
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Multicinema" group-title="De Paga", Multicinema
-
-
-#EXTINF:-1 tvg-id="Multipremier" group-title="De Paga", Multipremier
-
-
-#EXTINF:-1 tvg-id="FX" group-title="De Paga", FX
-https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
-
-
-#EXTINF:-1 tvg-id="USA" group-title="De Paga", USA
-
-
-#EXTINF:-1 tvg-id="UniversalTV.mx" group-title="De Paga", Universal Channel
-
-
-#EXTINF:-1 tvg-id="AXN" group-title="De Paga", AXN
-https://streamer1.nexgen.bz/AXN/index.m3u8
-
-#EXTINF:-1 tvg-id=" " group-title="De Paga",SYFY
-
-
-
-#EXTINF:-1 tvg-id="Paramount Channel" group-title="De Paga", Paramount España
-http://185.189.225.150:85/Paramount/index.m3u8
-
-#EXTINF:-1 tvg-id="Universal Premier" group-title="De Paga" , Universal Premier
-
-
-#EXTINF:-1 tvg-id="amc_españa" group-title="De Paga", AMC España
-http://vegafibratv.com:8085/AMC/index.m3u8
-
-#EXTINF:-1 tvg-id="AMC" group-title="De Paga" ,AMC
-
-
-#EXTINF:-1 tvg-id="HBO Latino" group-title="De Paga" , HBO Latino
-
-
-#EXTINF:-1 tvg-id="HBO" group-title="De Paga" , HBO 
-
-
-#EXTINF:-1 tvg-id="HBO Plus" group-title="De Paga" , HBO Plus
-
-
-#EXTINF:-1 tvg-id="HBO Family" group-title="De Paga" , HBO Family
-https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="grjngo" group-title="CINE y Series" ,
 https://amogonetworx-grjngo-2-mx.tcl.wurl.tv/playlist.m3u8
