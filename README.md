@@ -470,20 +470,23 @@ http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/611459
 
 
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
-http://170.39.192.130:2095/56986273653playtv/050923playtv/322868
+http://45.235.37.254/starhd/index.m3u8
 
 https://streamer1.nexgen.bz/STAR/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT
-http://170.39.192.130:2095/56986273653playtv/050923playtv/316836
+http://45.235.37.254/tnthd/index.m3u8
 
 #EXTINF:-1 tvg-id="Warner Channels" group-title="De Paga", Warner 
-
+http://45.235.37.254/warnerhd/index.m3u8
 
 #EXTINF:-1 tvg-id="Space" group-title="De Paga", Space HD
-
+http://45.235.37.254/spacehd/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony" group-title="De Paga", Sony Channels 
+http://45.235.37.254/sonyhd/index.m3u8
+
+
 https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
 
