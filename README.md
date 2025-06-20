@@ -1,5 +1,5 @@
 #EXTM3U 
-x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Roku/all.xml"
+x-tvg-url=" "
 
 #EXTINF:-1 tvg-id="Azteca Uno" group-title="NACIONAL", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
@@ -162,6 +162,22 @@ https://amogonetworx-charlie-1-mx.tcl.wurl.tv/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 
+#EXTINF:-1 tvg-id="Canal Punto 99" group-title="Retro", Punto 99
+https://stmv5.voxtvhd.com.br/99online/99online/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Teleclasica" group-title="Retro" , Teleclasica 
+https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telered" group-title="Retro" , Telered
+https://k20.usastreams.com:8081/telered/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Tv Retro Palmares" group-title="Retro", TV Palmares TV
+
+
+#EXTINF:-1 tvg-id="Mi TV Television Clasica" group-title="Retro", Mi TV televisión Clasica
+https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
+
 
 
 
@@ -200,8 +216,6 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-id="Canal Punto2" group-title="Internacional", Punto 2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
-#EXTINF:-1 tvg-id="Canal Punto 99" group-title="Internacional", Punto 99
-https://stmv5.voxtvhd.com.br/99online/99online/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Univision" group-title="Internacional",  Univision
 http://206.212.244.71:8080/Abxc5k/363887/108248
@@ -302,18 +316,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u
 
 
 
-#EXTINF:-1 tvg-id="Teleclasica" group-title="ENTRETENIMIENTO" , Teleclasica 
-https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telered" group-title="ENTRETENIMIENTO" , Telered
-https://k20.usastreams.com:8081/telered/index.m3u8
-
-
-#EXTINF:-1 tvg-id="Tv Retro Palmares" group-title="ENTRETENIMIENTO", TV Palmares TV
-
-
-#EXTINF:-1 tvg-id="Mi TV Television Clasica" group-title="ENTRETENIMIENTO", Mi TV televisión Clasica
-https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Frecuencia Musical TV" group-title="ENTRETENIMIENTO", FM TV
