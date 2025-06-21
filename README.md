@@ -194,13 +194,13 @@ http://45.235.37.254/starhd/index.m3u8
 https://streamer1.nexgen.bz/STAR/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT
-http://45.235.37.254/tnthd/index.m3u8
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302733
 
 #EXTINF:-1 tvg-id="Warner Channels" group-title="De Paga", Warner 
-http://45.235.37.254/warnerhd/index.m3u8
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302746
 
 #EXTINF:-1 tvg-id="Space" group-title="De Paga", Space HD
-http://45.235.37.254/spacehd/index.m3u8
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302719
 
 #EXTINF:-1 tvg-id="Sony" group-title="De Paga", Sony Channels 
 http://45.235.37.254/sonyhd/index.m3u8
