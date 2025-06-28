@@ -311,7 +311,7 @@ http://206.212.244.71:8080/Abxc5k/363887/58770
 #EXTINF:-1 tvg-id="5cf0622da00ca1e2f6fac712" group-title="Internacional", Estrella TV
 https://amg00567-estrellamedia-estrellatv-lgus-1g48u.amagi.tv/playlist/amg00567-estrellamedia-estrellatv-lgus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Internacional", Canela TV
+#EXTINF:-1 tvg-id="Canela TV" group-title="Internacional", Canela TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatv-lgmx/playlist.m3u8
 
 
@@ -534,7 +534,7 @@ http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/611459
 
 
 
-#EXTINF:-1 tvg-id="grjngo" group-title="CINE y Series" ,
+#EXTINF:-1 tvg-id="grjngo" group-title="CINE y Series" , Grjngo
 https://amogonetworx-grjngo-2-mx.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="CINE y Series" ,Freetv Live
@@ -547,7 +547,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-xiaomi/p
 #EXTINF:-1 tvg-id="" group-title="CINE y Series" , Freetv Familia 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="CINE y Series" , Freetv Accion
+#EXTINF:-1 tvg-id="Freetv acción" group-title="CINE y Series" , Freetv Acción
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-xiaomi/playlist.m3u8
 
 
