@@ -23,7 +23,7 @@ EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
 
 #EXTINF:-1 tvg-id="Canal 5" group-title="NACIONAL", Canal 5
-http://45.68.35.218:4001/play/a009/index.m3u8
+https://streams.hyloft.online:443/live/TopMediaV2/MuwpDJdMm1/655
 
 #EXTINF:-1 tvg-id="Telehit" group-title="NACIONAL", 
 https://streamer1.nexgen.bz/TELEHIT/index.m3u8
