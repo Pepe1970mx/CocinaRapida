@@ -240,7 +240,7 @@ https://streamer1.nexgen.bz/AXN/index.m3u8
 http://185.189.225.150:85/Paramount/index.m3u8
 
 #EXTINF:-1 tvg-id="Universal Premier" group-title="De Paga" , Universal Premier
-
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34873
 
 #EXTINF:-1 tvg-id="amc_españa" group-title="De Paga", AMC España
 http://vegafibratv.com:8085/AMC/index.m3u8
