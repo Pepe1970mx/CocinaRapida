@@ -194,22 +194,25 @@ http://45.235.37.254/starhd/index.m3u8
 https://streamer1.nexgen.bz/STAR/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302733
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313063
 
-#EXTINF:-1 tvg-id="Warner Channels" group-title="De Paga", Warner 
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302746
+#EXTINF:-1 tvg-id="Warner" group-title="De Paga", Warner 
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313067
 
 #EXTINF:-1 tvg-id="Space" group-title="De Paga", Space HD
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302719
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313070
 
 #EXTINF:-1 tvg-id="Sony" group-title="De Paga", Sony Channels 
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313069
+
+
 http://45.235.37.254/sonyhd/index.m3u8
 
 
 https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Sony Cine" group-title="De Paga", Sony Cine
+#EXTINF:-1 tvg-id="Sony one cinema" group-title="De Paga", Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Multicinema" group-title="De Paga", Multicinema
@@ -233,8 +236,6 @@ https://streamer1.nexgen.bz/AXN/index.m3u8
 
 #EXTINF:-1 tvg-id=" " group-title="De Paga",SYFY
 
-
-
 #EXTINF:-1 tvg-id="Paramount Channel" group-title="De Paga", Paramount España
 http://185.189.225.150:85/Paramount/index.m3u8
 
@@ -244,19 +245,15 @@ http://185.189.225.150:85/Paramount/index.m3u8
 #EXTINF:-1 tvg-id="amc_españa" group-title="De Paga", AMC España
 http://vegafibratv.com:8085/AMC/index.m3u8
 
-#EXTINF:-1 tvg-id="AMC" group-title="De Paga" ,AMC
-
-
-#EXTINF:-1 tvg-id="HBO Latino" group-title="De Paga" , HBO Latino
-
-
 #EXTINF:-1 tvg-id="HBO" group-title="De Paga" , HBO 
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313095
 
-
-#EXTINF:-1 tvg-id="HBO Plus" group-title="De Paga" , HBO Plus
-
+#EXTINF:-1 tvg-id="HBO Plus" group-title="De Paga" , HBO 2
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34890
 
 #EXTINF:-1 tvg-id="HBO Family" group-title="De Paga" , HBO Family
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313108
+
 https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
 
 
