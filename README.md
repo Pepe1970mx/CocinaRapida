@@ -323,7 +323,7 @@ http://185.189.225.150:85/TeleCincoHD/index.m3u8
 #EXTINF:-1  tvg-id="WAPA TV"  group-title="Internacional" , Wapa
 
 
-#EXTINF:-1 tvg-id="Canal2.sv" group-title="Internacional", Canal 2 SV
+#EXTINF:-1 tvg-id="2 de El Salvador" group-title="Internacional", Canal 2 SV
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 
 
