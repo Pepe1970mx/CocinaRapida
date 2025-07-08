@@ -394,7 +394,7 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="VTV.hn" group-title="ENTRETENIMIENTO", VTV HN
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="gt#canal-3" group-title="ENTRETENIMIENTO" , Canal 3 GT
+#EXTINF:-1 tvg-id="3 de Guatemala" group-title="ENTRETENIMIENTO" , Canal 3 GT
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 
 
