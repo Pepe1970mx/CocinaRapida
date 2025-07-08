@@ -334,10 +334,10 @@ https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 http://200.52.148.194:8000/play/a04q/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Canal 6 de Costa Rica" group-title="Internacional" , Canal 6 CR
+#EXTINF:-1 tvg-id="6 de Costa Rica" group-title="Internacional" , Canal 6 CR
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal12.sv" group-title="Internacional", Canal 12 SV
+#EXTINF:-1 tvg-id="12 de El Salvador" group-title="Internacional", Canal 12 SV
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
 
@@ -399,10 +399,10 @@ https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="gt#televisiete" group-title="ENTRETENIMIENTO" , Canal 7 - Televisiete
+#EXTINF:-1 tvg-id="7 de Guatemala" group-title="ENTRETENIMIENTO" , Canal 7 - Televisiete
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="gt#trecevision-canal-13" group-title="ENTRETENIMIENTO", Canal 13 - Trecevisión
+#EXTINF:-1 tvg-id="13 de Guatemala" group-title="ENTRETENIMIENTO", Canal 13 - Trecevisión
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 
 
