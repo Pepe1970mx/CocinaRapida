@@ -10,7 +10,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="Las Estrellas" group-title="NACIONAL", Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="ImagenTV.mx" group-title="NACIONAL", Imagen TV
+#EXTINF:-1 tvg-id="Imagen TV" group-title="NACIONAL", Imagen TV
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 
 #EXTINF:-1 tvg-id="CGTN en español" group-title="NACIONAL", CGTN En Español
@@ -25,9 +25,6 @@ https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://chann
 #EXTINF:-1 tvg-id="Canal 5 México" group-title="NACIONAL", Canal 5
 https://streams.hyloft.online:443/live/TopMediaV2/MuwpDJdMm1/655
 
-#EXTINF:-1 tvg-id="Telehit" group-title="NACIONAL", 
-https://streamer1.nexgen.bz/TELEHIT/index.m3u8
-
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 MX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
 
@@ -40,9 +37,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 #EXTINF:-1 tvg-id="MVSTV" group-title="NACIONAL", MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
+#EXTINF:-1 tvg-id="Telehit" group-title="NACIONAL", Telehit
+https://streamer1.nexgen.bz/TELEHIT/index.m3u8
+
 #EXTINF:-1 tvg-id="EXATV" group-title="NACIONAL", EXA TV
 https://mvs.daioncdn.net:443/exatv/exatv_1080p.m3u8?&sid=76arxwhpzqio&app=188fff62-593e-43fb-8604-34d30d693c1e&ce=2
-
 
 #EXTINF:-1 tvg-id="Nick Music" group-title="NACIONAL", Nick Music
 http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
@@ -50,10 +49,10 @@ http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:-1 tvg-id="Teleritmo" group-title="NACIONAL", Teleritmo 
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="NACIONAL", La Voz Grupera
+#EXTINF:-1 tvg-id="La Voz Grupera" group-title="NACIONAL", La Voz Grupera
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
 
-#EXTINF:-1 tvg-id="Azteca 7" group-title="NACIONAL", Azteca 7
+#EXTINF:-1 tvg-id="Azteca 7 México" group-title="NACIONAL", Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 tvg-id="A Mas" group-title="NACIONAL", A Mas
@@ -136,7 +135,7 @@ https://jmp2.uk/sam-USBC2100010OS.m3u8
 #EXTINF:-1 tvg-id="Distrito Comedia" group-title="Comedia" , Distrito Comedia
 
 
-#EXTINF:-1 tvg-id="Sony Comedia" group-title="Comedia" , Sony Comedia
+#EXTINF:-1 tvg-id="Sony Comedia Ones" group-title="Comedia" , Sony Comedia
 https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
 
 
@@ -212,7 +211,7 @@ http://45.235.37.254/sonyhd/index.m3u8
 https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Sony one cinema" group-title="De Paga", Sony Cine
+#EXTINF:-1 tvg-id="Sony Cine" group-title="De Paga", Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Multicinema" group-title="De Paga", Multicinema
