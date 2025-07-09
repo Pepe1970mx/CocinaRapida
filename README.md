@@ -478,16 +478,16 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319477
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319471
 
-#EXTINF:-1 tvg-id="ESPN MX" group-title="Sports", Espn HD
+#EXTINF:-1 tvg-id="ESPN México" group-title="Sports", Espn HD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34652
 
-#EXTINF:-1 tvg-id="ESPN 2 MX" group-title="Sports", Espn 2 HD
+#EXTINF:-1 tvg-id="ESPN 2 México" group-title="Sports", Espn 2 HD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302639
 
-#EXTINF:-1 tvg-id="ESPN 3 MX" group-title="Sports", Espn 3 HD
+#EXTINF:-1 tvg-id="ESPN 3 México" group-title="Sports", Espn 3 HD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302640
 
-#EXTINF:-1 tvg-id="Fox Sports Premium" group-title="Sports", Fox Sports Premium HD
+#EXTINF:-1 tvg-id="Fox Sports Premium México" group-title="Sports", Fox Sports Premium HD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/304554
 
 #EXTINF:-1 tvg-id="Fox Sports MX" group-title="Sports", Fox Sport HD
