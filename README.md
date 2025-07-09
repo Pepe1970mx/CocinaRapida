@@ -286,10 +286,10 @@ http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo PR" group-title="Internacional", Telemundo PR
+#EXTINF:-1 tvg-id="Telemundo Puerto Rico" group-title="Internacional", Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-id="Canal Punto2" group-title="Internacional", Punto 2
+#EXTINF:-1 tvg-id="Punto 2 Puerto Rico" group-title="Internacional", Punto 2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
 
@@ -327,7 +327,7 @@ http://185.189.225.150:85/TeleCincoHD/index.m3u8
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 
 
-#EXTINF:-1 tvg-id="Televicentro.hn" group-title="Internacional", Canal 5 HN
+#EXTINF:-1 tvg-id="5 de Honduras" group-title="Internacional", Canal 5 HN
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 
 #EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="Internacional", Telecadena 7 y 4
@@ -406,10 +406,10 @@ https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 
 
-#EXTINF:-1 tvg-id="ATVSur.pe" group-title="ENTRETENIMIENTO" , ATV Sur PE
+#EXTINF:-1 tvg-id="ATV Sur" group-title="ENTRETENIMIENTO" , ATV Sur PE
 https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="ATV.pe" group-title="ENTRETENIMIENTO" , ATV PE
+#EXTINF:-1 tvg-id="ATV" group-title="ENTRETENIMIENTO" , ATV PE
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="ENTRETENIMIENTO", Ciudad Magica AR
@@ -499,10 +499,10 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302653
 #EXTINF:-1 tvg-id="TyC" group-title="Sports", TyC
 http://45.235.37.254/tyc/index.m3u8
 
-#EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
+#EXTINF:-1 tvg-id="TUDN Mexy" group-title="Sports", TUDN MX
 
 
-#EXTINF:-1 tvg-id="TUDN.us" group-title="Sports", TUDN USA
+#EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN USA
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319573
 
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN
@@ -524,7 +524,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0"  group-title="Sports", AyM sports
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 
-#EXTINF:-1 tvg-id="WAPADT2.pr" group-title="Sports", Wapa Deportes
+#EXTINF:-1 tvg-id="WAPA deportes" group-title="Sports", Wapa Deportes
 http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/611459
 
 
