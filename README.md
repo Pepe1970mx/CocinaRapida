@@ -22,7 +22,7 @@ EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
 #EXTINF:-1 tvg-id="Foro TV" group-title="NACIONAL", Foro TV 4.1
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
 
-#EXTINF:-1 tvg-id="Canal 5 México" group-title="NACIONAL", Canal 5
+#EXTINF:-1 tvg-id="5 de México" group-title="NACIONAL", Canal 5
 https://streams.hyloft.online:443/live/TopMediaV2/MuwpDJdMm1/655
 
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 MX
@@ -52,7 +52,7 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="La Voz Grupera" group-title="NACIONAL", La Voz Grupera
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
 
-#EXTINF:-1 tvg-id="Azteca 7 México" group-title="NACIONAL", Azteca 7
+#EXTINF:-1 tvg-id="Azteca 7  México" group-title="NACIONAL", Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 tvg-id="A Mas" group-title="NACIONAL", A Mas
@@ -62,7 +62,7 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 
 
-#EXTINF:-1 tvg-id="El Nueve" group-title="NACIONAL", El Nueve
+#EXTINF:-1 tvg-id="9 de México XEQ-TDT" group-title="NACIONAL", El Nueve
 
 
 #EXTINF:-1 tvg-id="El Heraldo TV" group-title="NACIONAL" , Heraldo TV
@@ -326,7 +326,7 @@ http://185.189.225.150:85/TeleCincoHD/index.m3u8
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 
 
-#EXTINF:-1 tvg-id="5 de Honduras" group-title="Internacional", Canal 5 HN
+#EXTINF:-1 tvg-id="5 El Líder Honduras" group-title="Internacional", Canal 5 HN
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 
 #EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="Internacional", Telecadena 7 y 4
@@ -340,7 +340,7 @@ https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
 
-#EXTINF:-1 tvg-id="13 de Argentina" group-title="Internacional", El trece AR
+#EXTINF:-1 tvg-id="13 de Argentina El Trece" group-title="Internacional", El trece AR
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
 
