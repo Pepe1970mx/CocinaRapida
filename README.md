@@ -55,7 +55,7 @@ https://cloudvideo.servers10.com:8081/8128/index.m3u8
 #EXTINF:-1 tvg-id="Azteca 7  México" group-title="NACIONAL", Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
-#EXTINF:-1 tvg-id="A Mas" group-title="NACIONAL", A Mas
+#EXTINF:-1 tvg-id="a+" group-title="NACIONAL", A Mas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-id="Popcorn central" group-title="NACIONAL",  Popcorn central
@@ -71,7 +71,7 @@ https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 #EXTINF:-1 tvg-id="TeleFormula" group-title="NACIONAL" , Teleformula
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 
-#EXTINF:-1 tvg-id="Canal Once" group-title="NACIONAL", Canal Once
+#EXTINF:-1 tvg-id="11 de México" group-title="NACIONAL", Canal Once
 https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b2098304.m3u8
 
 #EXTINF:-1 tvg-id="Once Niños" group-title="NACIONAL", Once Niños
@@ -81,13 +81,13 @@ https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b2098304.m
 https://stream-207963.castr.net/65313d270e749722b6474684/live_185f5f10888711ee83e2f144889e3879/index.fmp4.m3u8
 
 
-#EXTINF:-1 tvg-id="14 de Mexico" group-title="NACIONAL" , Canal 14 
+#EXTINF:-1 tvg-id="14 de México" group-title="NACIONAL" , Canal 14 
 
 
-#EXTINF:-1 tvg-id="Capital21" group-title="NACIONAL" , Capital 21
+#EXTINF:-1 tvg-id="Capital 21 de México" group-title="NACIONAL" , Capital 21
 https://video.cdmx.gob.mx/redes/stream.m3u8 
 
-#EXTINF:-1 tvg-id="22 de Mexico" group-title="NACIONAL" , CANAL 22 
+#EXTINF:-1 tvg-id="22 de México" group-title="NACIONAL" , CANAL 22 
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MX NUESTRO CINE" group-title="NACIONAL" , MX Nuestro Cine
@@ -108,8 +108,8 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-id="Meganoticias MX" group-title="NACIONAL", Meganoticias MX
 
 
-#EXTINF:-1 tvg-id="QuieroTV.mx" group-title="NACIONAL", QuieroTV
-
+#EXTINF:-1 tvg-id="Quiero TV" group-title="NACIONAL", QuieroTV
+https://d3c8tise3a7ihl.cloudfront.net/out/v1/20a1877171a242298e4df9e05f4c2070/index.m3u8
 
 #EXTINF:-1 tvg-id="MexiquenseTV" group-title="NACIONAL" , Mexiquense TV 
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
