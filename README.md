@@ -333,12 +333,27 @@ http://185.189.225.150:85/TeleCincoHD/index.m3u8
 
 #EXTINF:-1  tvg-id="WAPA TV"  group-title="Internacional" , Wapa
 
+#EXTINF:-1 tvg-id="2 de Costa Rica" group-title="Internacional", Canal 2 CR
+https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="2 de El Salvador" group-title="Internacional", Canal 2 SV
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 
+#EXTINF:-1 tvg-id="2 de Nicaragua" group-title="Internacional", Canal 2 Ni
+
 #EXTINF:-1 tvg-id="3 de Guatemala" group-title="Internacional" , Canal 3 GT
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="4 de Costa Rica" group-title="Internacional" , Canal 4 CR
+
+#EXTINF:-1 tvg-id="4 de Nicaragua" group-title="Internacional" , Canal 4 NI 
+
+#EXTINF:-1 tvg-id="4 de El Salvador" group-title="Internacional" , Canal 4 SV
+
+#EXTINF:-1 tvg-id="6 de Costa Rica" group-title="Internacional" , Canal 6 CR
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="7 de Guatemala" group-title="Internacional" , Canal 7 - Televisiete
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
@@ -359,8 +374,7 @@ https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 http://200.52.148.194:8000/play/a04q/index.m3u8
 
 
-#EXTINF:-1 tvg-id="6 de Costa Rica" group-title="Internacional" , Canal 6 CR
-https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+
 
 #EXTINF:-1 tvg-id="12 de El Salvador" group-title="Internacional", Canal 12 SV
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
