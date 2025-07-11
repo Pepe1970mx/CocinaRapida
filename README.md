@@ -117,7 +117,7 @@ https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649
 #EXTINF:-1  tvg-id="XHPTDT" group-title="NACIONAL" , 34 Noticias 
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
 
-#EXTINF:-1 tvg-id="Maria Vision" group-title="NACIONAL", Mariavision 
+#EXTINF:-1 tvg-id="Monte Maria" group-title="NACIONAL", Mariavision 
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
 
@@ -337,6 +337,25 @@ http://185.189.225.150:85/TeleCincoHD/index.m3u8
 #EXTINF:-1 tvg-id="2 de El Salvador" group-title="Internacional", Canal 2 SV
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
 
+#EXTINF:-1 tvg-id="3 de Guatemala" group-title="Internacional" , Canal 3 GT
+https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="7 de Guatemala" group-title="Internacional" , Canal 7 - Televisiete
+https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="ATV Sur" group-title="Internacional" , ATV Sur PE
+https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="ATV" group-title="Internacional" , ATV PE
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="Internacional", Ciudad Magica AR
+https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
 #EXTINF:-1 tvg-id="5 El Líder Honduras" group-title="Internacional", Canal 5 HN
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
@@ -351,6 +370,11 @@ https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="12 de El Salvador" group-title="Internacional", Canal 12 SV
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
+#EXTINF:-1 tvg-id="13 de Guatemala" group-title="Internacional", Canal 13 - Trecevisión
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
+
+#EXTINF:-1 tvg-id="13 de Costa Rica" group-title="Internacional", Canal 13 CR 
+https://live.eu-north-1a.cf.dmcdn.net/sec2(_MkYHrJFYa8wNSCmjOAqJXS_Bn315mtXlgxP-WZfPJtcI8JlQ6P83tqZ3vJuayD-9fMHFOJAtU6izxtvewgYa6A7MDDGj7nSgyy8IO-vPVR2qnkW8lnXoY-FVQ4P6S2j)/dm/3/x7vh8g3/d/live-720.m3u8
 
 #EXTINF:-1 tvg-id="13 de Argentina El Trece" group-title="Internacional", El trece AR
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
@@ -405,29 +429,7 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="VTV.hn" group-title="ENTRETENIMIENTO", VTV HN
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="3 de Guatemala" group-title="ENTRETENIMIENTO" , Canal 3 GT
-https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 
-
-
-#EXTINF:-1 tvg-id="7 de Guatemala" group-title="ENTRETENIMIENTO" , Canal 7 - Televisiete
-https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-id="13 de Guatemala" group-title="ENTRETENIMIENTO", Canal 13 - Trecevisión
-https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
-
-#EXTINF:-1 tvg-id="13 de Costa Rica" group-title="ENTRETENIMIENTO", Canal 13 CR 
-https://live.eu-north-1a.cf.dmcdn.net/sec2(_MkYHrJFYa8wNSCmjOAqJXS_Bn315mtXlgxP-WZfPJtcI8JlQ6P83tqZ3vJuayD-9fMHFOJAtU6izxtvewgYa6A7MDDGj7nSgyy8IO-vPVR2qnkW8lnXoY-FVQ4P6S2j)/dm/3/x7vh8g3/d/live-720.m3u8
-
-
-#EXTINF:-1 tvg-id="ATV Sur" group-title="ENTRETENIMIENTO" , ATV Sur PE
-https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="ATV" group-title="ENTRETENIMIENTO" , ATV PE
-https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="ENTRETENIMIENTO", Ciudad Magica AR
-https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
 
 #EXTINF:-1 tvg-id="USBD7000017L" group-title="Internacional", AMC en Español
