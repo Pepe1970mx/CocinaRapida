@@ -416,6 +416,9 @@ https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="13 de Guatemala" group-title="ENTRETENIMIENTO", Canal 13 - Trecevisión
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 
+#EXTINF:-1 tvg-id="13 de Costa Rica" group-title="ENTRETENIMIENTO", Canal 13 CR 
+https://live.eu-north-1a.cf.dmcdn.net/sec2(_MkYHrJFYa8wNSCmjOAqJXS_Bn315mtXlgxP-WZfPJtcI8JlQ6P83tqZ3vJuayD-9fMHFOJAtU6izxtvewgYa6A7MDDGj7nSgyy8IO-vPVR2qnkW8lnXoY-FVQ4P6S2j)/dm/3/x7vh8g3/d/live-720.m3u8
+
 
 #EXTINF:-1 tvg-id="ATV Sur" group-title="ENTRETENIMIENTO" , ATV Sur PE
 https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL
