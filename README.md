@@ -205,6 +205,18 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313070
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313069
 
 
+#EXTINF:-1 tvg-id="Sony Action" group-title="De Paga", Sony Action
+https://de9yx47crxs6l.cloudfront.net:443/playlist_7.m3u8
+
+
+#EXTINF:-1 tvg-id="Sony ComedyTV" group-title="De Paga", Sony ComedyTV
+https://d1fhd07bw4d2d6.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sony Threllers" group-title="De Paga", Sony Thrillers
+https://d1wuti7vf6eqt9.cloudfront.net/playlist.m3u8
+
+
+
 http://45.235.37.254/sonyhd/index.m3u8
 
 
