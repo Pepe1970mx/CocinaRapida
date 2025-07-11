@@ -10,7 +10,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="Las Estrellas" group-title="NACIONAL", Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="Imagen TV" group-title="NACIONAL", Imagen TV
+#EXTINF:-1 tvg-id="Imagen TV+" group-title="NACIONAL", Imagen TV
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 
 #EXTINF:-1 tvg-id="CGTN en español" group-title="NACIONAL", CGTN En Español
@@ -43,7 +43,7 @@ https://streamer1.nexgen.bz/TELEHIT/index.m3u8
 #EXTINF:-1 tvg-id="EXATV" group-title="NACIONAL", EXA TV
 https://mvs.daioncdn.net:443/exatv/exatv_1080p.m3u8?&sid=76arxwhpzqio&app=188fff62-593e-43fb-8604-34d30d693c1e&ce=2
 
-#EXTINF:-1 tvg-id="Nick Music" group-title="NACIONAL", Nick Music
+#EXTINF:-1 tvg-id="NickMusic" group-title="NACIONAL", Nick Music
 http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
 
 #EXTINF:-1 tvg-id="Teleritmo" group-title="NACIONAL", Teleritmo 
