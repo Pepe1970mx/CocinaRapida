@@ -358,6 +358,11 @@ https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="7 de Guatemala" group-title="Internacional" , Canal 7 - Televisiete
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 
+#EXTINF:-1 tvg-id="7 de Nicaragua Teletica" group-title="Internacional" , Teletica
+https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
+
+
+
 #EXTINF:-1 tvg-id="ATV Sur" group-title="Internacional" , ATV Sur PE
 https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL
 
