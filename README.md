@@ -192,16 +192,16 @@ http://45.235.37.254/starhd/index.m3u8
 
 https://streamer1.nexgen.bz/STAR/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT
+#EXTINF:-1 tvg-id="TNT México" group-title="De Paga", TNT
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313063
 
-#EXTINF:-1 tvg-id="Warner" group-title="De Paga", Warner 
+#EXTINF:-1 tvg-id="Warner México" group-title="De Paga", Warner 
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313067
 
-#EXTINF:-1 tvg-id="Space" group-title="De Paga", Space HD
+#EXTINF:-1 tvg-id="Space México" group-title="De Paga", Space HD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313070
 
-#EXTINF:-1 tvg-id="Sony" group-title="De Paga", Sony Channels 
+#EXTINF:-1 tvg-id="Sony México" group-title="De Paga", Sony Channels 
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313069
 
 
@@ -223,7 +223,7 @@ http://45.235.37.254/sonyhd/index.m3u8
 https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Sony Cine" group-title="De Paga", Sony Cine
+#EXTINF:-1 tvg-id="Cine Sony" group-title="De Paga", Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Multicinema" group-title="De Paga", Multicinema
@@ -250,7 +250,7 @@ https://streamer1.nexgen.bz/AXN/index.m3u8
 #EXTINF:-1 tvg-id="Paramount Channel" group-title="De Paga", Paramount España
 http://185.189.225.150:85/Paramount/index.m3u8
 
-#EXTINF:-1 tvg-id="Universal Premier" group-title="De Paga" , Universal Premier
+#EXTINF:-1 tvg-id="Universal Premiere" group-title="De Paga" , Universal Premier
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34873
 
 #EXTINF:-1 tvg-id="amc_españa" group-title="De Paga", AMC España
@@ -291,16 +291,16 @@ https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 #EXTINF:-1  tvg-id="US2200005Y2"  group-title="Internacional" , Canal Vix
 https://jmp2.uk/sam-US2200005Y2.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo" group-title="Internacional", Telemundo 
+#EXTINF:-1 tvg-id="Telemundo Panregional" group-title="Internacional", Telemundo 
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo Puerto Rico" group-title="Internacional", Telemundo PR
+#EXTINF:-1 tvg-id="Punto 2 Puerto Rico" group-title="Internacional", Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-id="Punto 2 Puerto Rico" group-title="Internacional", Punto 2
+#EXTINF:-1 tvg-id="Telemundo Puerto Rico" group-title="Internacional", Punto 2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
 
@@ -340,13 +340,8 @@ https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf9
 #EXTINF:-1 tvg-id="3 de Guatemala" group-title="Internacional" , Canal 3 GT
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 
-
-
 #EXTINF:-1 tvg-id="7 de Guatemala" group-title="Internacional" , Canal 7 - Televisiete
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="ATV Sur" group-title="Internacional" , ATV Sur PE
 https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL
@@ -424,13 +419,8 @@ https://s2.tvdatta.com:3753/hybrid/play.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-id="VTV.hn" group-title="ENTRETENIMIENTO", VTV HN
+#EXTINF:-1 tvg-id="VTV Honduras Vica TV" group-title="ENTRETENIMIENTO", VTV HN
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="USBD7000017L" group-title="Internacional", AMC en Español
 
