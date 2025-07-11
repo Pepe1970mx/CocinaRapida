@@ -347,13 +347,15 @@ https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="4 de Costa Rica" group-title="Internacional" , Canal 4 CR
 
 #EXTINF:-1 tvg-id="4 de Nicaragua" group-title="Internacional" , Canal 4 NI 
+https://live.eu-north-1a.cf.dmcdn.net/sec2(2Nmx-Jvu_ZOEsdBQQZ_6wEPDIUuMOGvEchoLFiFz7oCRiFY4k3oHsxr05WxSe-4oOvWiIOKtsI8bhshVIOoBJNsy0ryh-NZujpZcCR7t_5s8Acjd-oyqdZKj3_KcqXBA)/dm/3/x7rwv8c/s/live-480.m3u8
 
 #EXTINF:-1 tvg-id="4 de El Salvador" group-title="Internacional" , Canal 4 SV
 
 #EXTINF:-1 tvg-id="6 de Costa Rica" group-title="Internacional" , Canal 6 CR
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
-
+#EXTINF:-1 tvg-id="6 de Nicaragua" group-title="Internacional" , Canal 6 NI
+https://live.eu-north-1b.cf.dmcdn.net/sec2(yf2fm4SN_0FWV9BD5SAwytBpz5jJ2-J8WNjXfTHZQkecf-Y31eAIejUS3VTiq_KsrG138_jcE89t_73idN3M_xptZdaEgrdJCF8ygQ3OlTm5MWIBlqCa54hp2OjwQTpY)/dm/3/x96x78e/s/live-480.m3u8
 
 #EXTINF:-1 tvg-id="7 de Guatemala" group-title="Internacional" , Canal 7 - Televisiete
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
