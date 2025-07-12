@@ -271,10 +271,10 @@ https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="El Financiero Bloomberg" group-title="NOTICIAS", El Financiero - Bloomberg TV
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
 
-#EXTINF:-1 tvg-id="DWDeutschPlus.de" group-title="NOTICIAS", DW Español 
+#EXTINF:-1 tvg-id="DW Latinoamérica" group-title="NOTICIAS", DW Español 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="gt#russia-today-hd" group-title="NOTICIAS", Russia Today 
+#EXTINF:-1 tvg-id="RT en Español" group-title="NOTICIAS", Russia Today 
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 
 #EXTINF:-1 tvg-id="619d59b7cbef25000728221c" group-title="NOTICIAS", EuroNews en español 
