@@ -188,22 +188,21 @@ https://stitcher.pluto.tv/stitch/hls/channel/60142258a54aeb0007751c15/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
-http://45.235.37.254/starhd/index.m3u8
-
-https://streamer1.nexgen.bz/STAR/index.m3u8
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34928
 
 #EXTINF:-1 tvg-id="TNT México" group-title="De Paga", TNT
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313063
 
-#EXTINF:-1 tvg-id="Warner México" group-title="De Paga", Warner 
+#EXTINF:-1 tvg-id="Warner Channel México" group-title="De Paga", Warner 
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34923
+
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313067
 
 #EXTINF:-1 tvg-id="Space México" group-title="De Paga", Space HD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313070
 
 #EXTINF:-1 tvg-id="Sony México" group-title="De Paga", Sony Channels 
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313069
-
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34936
 
 #EXTINF:-1 tvg-id="Sony Action" group-title="De Paga", Sony Action
 https://de9yx47crxs6l.cloudfront.net:443/playlist_7.m3u8
