@@ -280,7 +280,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-id="619d59b7cbef25000728221c" group-title="NOTICIAS", EuroNews en español 
 https://jmp2.uk/PlutoTV/619d59b7cbef25000728221c-alt.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="NOTICIAS", France Español 
+#EXTINF:-1 tvg-id="France 24 Español" group-title="NOTICIAS", France Español 
 https://s5.mexside.net:1936/france24/france24/playlist.m3u8
 
 #EXTINF:-1 tvg-id"CNN en Español" group-title="NOTICIAS", CNN en Español 
@@ -291,7 +291,7 @@ https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 #EXTINF:-1  tvg-id="US2200005Y2"  group-title="Internacional" , Canal Vix
 https://jmp2.uk/sam-US2200005Y2.m3u8
 
-#EXTINF:-1 tvg-id="Telemundo Panregional" group-title="Internacional", Telemundo 
+#EXTINF:-1 tvg-id="Telemundo Satellite Feed" group-title="Internacional", Telemundo 
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/35097
 
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
