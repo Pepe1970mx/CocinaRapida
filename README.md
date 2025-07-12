@@ -292,10 +292,10 @@ https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 https://jmp2.uk/sam-US2200005Y2.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo Panregional" group-title="Internacional", Telemundo 
-http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/35097
 
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
-http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319509
 
 #EXTINF:-1 tvg-id="Punto 2 Puerto Rico" group-title="Internacional", Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
@@ -308,10 +308,10 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 http://206.212.244.71:8080/Abxc5k/363887/108248
 
 #EXTINF:-1 tvg-id="Unimas" group-title="Internacional", Unimas
-http://nocable.cc:8080/k4Svp2/645504/57969
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/35108
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Teleonce Univision PR
-http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/611458
+
 
 #EXTINF:-1 tvg-id="Galavision" group-title="Internacional", Galavision
 http://206.212.244.71:8080/Abxc5k/363887/58770
