@@ -133,7 +133,7 @@ https://jmp2.uk/sam-USBD2700004ME.m3u8
 https://jmp2.uk/sam-USBC2100010OS.m3u8
 
 #EXTINF:-1 tvg-id="Distrito Comedia" group-title="Comedia" , Distrito Comedia
-
+http://latinostvhd.club:25461/4045736232/bac8716039/77091
 
 #EXTINF:-1 tvg-id="Sony Comedia Ones" group-title="Comedia" , Sony Comedia
 https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
