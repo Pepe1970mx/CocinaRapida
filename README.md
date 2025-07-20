@@ -23,7 +23,7 @@ EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
 
 #EXTINF:-1 tvg-id="5 de México" group-title="NACIONAL", Canal 5
-https://streams.hyloft.online:443/live/TopMediaV2/MuwpDJdMm1/655
+http://latinostvhd.club:25461/9092860122/b9de7ec22d7b/134290
 
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 MX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
@@ -505,19 +505,22 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319477
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319471
 
 #EXTINF:-1 tvg-id="ESPN México" group-title="Sports", Espn HD
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34652
+http://latinostvhd.club:25461/9092860122/b9de7ec22d7b/31122
 
 #EXTINF:-1 tvg-id="ESPN 2 México" group-title="Sports", Espn 2 HD
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302639
+http://latinostvhd.club:25461/9092860122/b9de7ec22d7b/31123
 
 #EXTINF:-1 tvg-id="ESPN 3 México" group-title="Sports", Espn 3 HD
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302640
+http://latinostvhd.club:25461/9092860122/b9de7ec22d7b/31124
+
+#EXTINF:-1 tvg-id="ESPN 4 México" group-title="Sports", Espn 4 HD
+http://latinostvhd.club:25461/9092860122/b9de7ec22d7b/134294
 
 #EXTINF:-1 tvg-id="Fox Sports Premium Cono Norte" group-title="Sports", Fox Sports Premium HD
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/304554
+
 
 #EXTINF:-1 tvg-id="Fox Sports Cono Norte" group-title="Sports", Fox Sport HD
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302652
+
 
 #EXTINF:-1 tvg-id="Fox Sports 2 Cono Norte" group-title="Sports", Fox sport 2 HD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302653
@@ -526,13 +529,13 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302653
 http://45.235.37.254/tyc/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN Mexy" group-title="Sports", TUDN MX
-
+http://latinostvhd.club:25461/9092860122/b9de7ec22d7b/134311
 
 #EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN USA
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319573
 
-#EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN
 
+#EXTINF:-1 tvg-id="TVC Deportes" group-title="Sports", TVC Deportes
+http://latinostvhd.club:25461/9092860122/b9de7ec22d7b/134328
 
 
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN USA
