@@ -426,7 +426,10 @@ https://stitcher.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u
 
 
 #EXTINF:-1 tvg-id="Moni TV" group-title="ENTRETENIMIENTO" , Moni TV
+https://tv.arkeo.cl:19360/8134/8134.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="RetroplusTV" group-title="ENTRETENIMIENTO" , RetroPlusTV
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-id="Frecuencia Musical TV" group-title="ENTRETENIMIENTO", FM TV
