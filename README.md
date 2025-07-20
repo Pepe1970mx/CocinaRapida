@@ -291,10 +291,10 @@ https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 https://jmp2.uk/sam-US2200005Y2.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo Satellite Feed" group-title="Internacional", Telemundo 
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/35097
+http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/319509
+
 
 #EXTINF:-1 tvg-id="Punto 2 Puerto Rico" group-title="Internacional", Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
