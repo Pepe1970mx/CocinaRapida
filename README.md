@@ -157,12 +157,19 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58088
 #EXTINF:-1 tvg-id="" group-title="24/7" , Charlie
 https://amogonetworx-charlie-1-mx.tcl.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="24/7" , Los Tres Chiflados
+#EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="RETRO" , Los Tres Chiflados
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 
 #EXTINF:-1 tvg-id="Canal Punto 99" group-title="Retro", Punto 99
 https://stmv5.voxtvhd.com.br/99online/99online/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LMS" group-title="RETRO" , LMS
+https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dreiko TV" group-title="RETRO" , DREIKO TV
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
+
 
 #EXTINF:-1 tvg-id="Teleclasica" group-title="Retro" , Teleclasica 
 https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
