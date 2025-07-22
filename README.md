@@ -82,10 +82,13 @@ https://stream-207963.castr.net/65313d270e749722b6474684/live_185f5f10888711ee83
 
 
 #EXTINF:-1 tvg-id="14 de México" group-title="NACIONAL" , Canal 14 
-
+https://mexside-stream.b-cdn.net/canal14/canal14/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Capital 21 de México" group-title="NACIONAL" , Capital 21
 https://video.cdmx.gob.mx/redes/stream.m3u8 
+
+#EXTINF:-1 tvg-id="TV UNAM" group-title="NACIONAL" , TV UNAM
+https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-id="22 de México" group-title="NACIONAL" , CANAL 22 
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
