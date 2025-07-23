@@ -173,6 +173,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
 #EXTINF:-1 tvg-id="Dreiko TV" group-title="RETRO" , DREIKO TV
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
+#EXTINF:-1 tvg-id="EnerGeek Pop" group-title="RETRO" , EnerGeek Pop
+https://backend.energeek.cl/webtv/egpopweb/index.m3u8?token=dEmoweBeneRGEek2025
 
 #EXTINF:-1 tvg-id="Teleclasica" group-title="Retro" , Teleclasica 
 https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
