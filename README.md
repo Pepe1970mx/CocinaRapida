@@ -176,6 +176,10 @@ https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1 tvg-id="EnerGeek Pop" group-title="RETRO" , EnerGeek Pop
 https://backend.energeek.cl/webtv/egpopweb/index.m3u8?token=dEmoweBeneRGEek2025
 
+#EXTINF:-1 tvg-id="Tigueritos TV" group-title="RETRO" , Tigueritos
+https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="Teleclasica" group-title="Retro" , Teleclasica 
 https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
 
