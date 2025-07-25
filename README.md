@@ -208,21 +208,21 @@ https://stitcher.pluto.tv/stitch/hls/channel/60142258a54aeb0007751c15/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34928
+
 
 #EXTINF:-1 tvg-id="TNT México" group-title="De Paga", TNT
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313063
+
 
 #EXTINF:-1 tvg-id="Warner Channel México" group-title="De Paga", Warner 
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34923
+
 
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313067
 
 #EXTINF:-1 tvg-id="Space México" group-title="De Paga", Space HD
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313070
+
 
 #EXTINF:-1 tvg-id="Sony México" group-title="De Paga", Sony Channels 
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34936
+
 
 #EXTINF:-1 tvg-id="Sony Action" group-title="De Paga", Sony Action
 https://de9yx47crxs6l.cloudfront.net:443/playlist_7.m3u8
@@ -270,20 +270,18 @@ https://streamer1.nexgen.bz/AXN/index.m3u8
 http://185.189.225.150:85/Paramount/index.m3u8
 
 #EXTINF:-1 tvg-id="Universal Premiere" group-title="De Paga" , Universal Premier
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34873
+
 
 #EXTINF:-1 tvg-id="amc_españa" group-title="De Paga", AMC España
 http://vegafibratv.com:8085/AMC/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO" group-title="De Paga" , HBO 
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313095
+
 
 #EXTINF:-1 tvg-id="HBO Plus" group-title="De Paga" , HBO 2
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34890
+
 
 #EXTINF:-1 tvg-id="HBO Family" group-title="De Paga" , HBO Family
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313108
-
 https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
 
 
@@ -311,7 +309,7 @@ https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 https://jmp2.uk/sam-US2200005Y2.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo Satellite Feed" group-title="Internacional", Telemundo 
-http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
+http://nocable.cc:8080/k4Svp2/645504/120691
 
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
 
@@ -326,8 +324,11 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 #EXTINF:-1 tvg-id="Univision" group-title="Internacional",  Univision
 http://206.212.244.71:8080/Abxc5k/363887/108248
 
+#EXTINF:-1 tvg-id="Univision" group-title="Internacional",  Univision 2
+http://nocable.cc:8080/k4Svp2/645504/15336
+
 #EXTINF:-1 tvg-id="Unimas" group-title="Internacional", Unimas
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/35108
+
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Teleonce Univision PR
 
@@ -558,7 +559,7 @@ http://45.235.37.254/tyc/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN USA
-
+http://nocable.cc:8080/k4Svp2/645504/11885
 
 #EXTINF:-1 tvg-id="TVC Deportes" group-title="Sports", TVC Deportes
 
