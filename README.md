@@ -531,16 +531,16 @@ http://latinostvhd.club:25461/9092860122/b9de7ec22d7b/130357
 http://latinostvhd.club:25461/9092860122/b9de7ec22d7b/39734
 
 #EXTINF:-1 tvg-id="ESPN México" group-title="Sports", Espn HD
-http://latinostvhd.club:25461/9092860122/b9de7ec22d7b/31122
+
 
 #EXTINF:-1 tvg-id="ESPN 2 México" group-title="Sports", Espn 2 HD
-http://latinostvhd.club:25461/9092860122/b9de7ec22d7b/31123
+http://38.180.133.31:8000/play/a0w4
 
 #EXTINF:-1 tvg-id="ESPN 3 México" group-title="Sports", Espn 3 HD
-http://latinostvhd.club:25461/9092860122/b9de7ec22d7b/31124
+http://181.78.82.6:46090/play/a00v
 
 #EXTINF:-1 tvg-id="ESPN 4 México" group-title="Sports", Espn 4 HD
-http://latinostvhd.club:25461/9092860122/b9de7ec22d7b/134294
+http://38.180.133.31:8000/play/a0wd
 
 #EXTINF:-1 tvg-id="Fox Sports Premium Cono Norte" group-title="Sports", Fox Sports Premium HD
 
@@ -549,19 +549,19 @@ http://latinostvhd.club:25461/9092860122/b9de7ec22d7b/134294
 
 
 #EXTINF:-1 tvg-id="Fox Sports 2 Cono Norte" group-title="Sports", Fox sport 2 HD
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/302653
+
 
 #EXTINF:-1 tvg-id="TyC" group-title="Sports", TyC
 http://45.235.37.254/tyc/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN Mexy" group-title="Sports", TUDN MX
-http://latinostvhd.club:25461/9092860122/b9de7ec22d7b/134311
+
 
 #EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN USA
 
 
 #EXTINF:-1 tvg-id="TVC Deportes" group-title="Sports", TVC Deportes
-http://latinostvhd.club:25461/9092860122/b9de7ec22d7b/134328
+
 
 
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN USA
