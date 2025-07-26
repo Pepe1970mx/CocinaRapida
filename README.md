@@ -526,10 +526,10 @@ https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u
 
 
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes US
-http://latinostvhd.club:25461/9092860122/b9de7ec22d7b/130357
+
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
-http://latinostvhd.club:25461/9092860122/b9de7ec22d7b/39734
+http://190.92.10.66:4000/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN México" group-title="Sports", Espn HD
 
