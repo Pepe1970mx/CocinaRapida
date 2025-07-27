@@ -23,7 +23,7 @@ EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
 
 #EXTINF:-1 tvg-id="5 de México" group-title="NACIONAL", Canal 5
-http://galaxypro.online:8080/selvin2020/tango2020/709555
+https://live2.saohgdasregions.fun:9091/2_/tracks-v1a1/mono.ts.m3u8?remote=201.174.235.194&token=b2d9cb3fcd487ac30cfd3e494d2dcd014f2f8643-8c97f057db54d61f65cd116094f7edd5-1753601885-1753580285
 
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 MX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
