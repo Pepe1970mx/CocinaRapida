@@ -526,13 +526,15 @@ https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u
 
 
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes US
-
+http://galaxypro.online:8080/selvin2020/tango2020/383997
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
+http://galaxypro.online:8080/selvin2020/tango2020/283317
+
 http://190.92.10.66:4000/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN México" group-title="Sports", Espn HD
-
+http://galaxypro.online:8080/selvin2020/tango2020/704352
 
 #EXTINF:-1 tvg-id="ESPN 2 México" group-title="Sports", Espn 2 HD
 http://38.180.133.31:8000/play/a0w4
@@ -559,6 +561,8 @@ http://45.235.37.254/tyc/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN USA
+http://galaxypro.online:8080/selvin2020/tango2020/685976
+
 http://nocable.cc:8080/k4Svp2/645504/11885
 
 #EXTINF:-1 tvg-id="TVC Deportes" group-title="Sports", TVC Deportes
