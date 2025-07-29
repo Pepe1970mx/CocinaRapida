@@ -533,13 +533,17 @@ http://galaxypro.online:8080/selvin2020/tango2020/283317
 
 http://190.92.10.66:4000/play/a003/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN México" group-title="Sports", Espn HD
+#EXTINF:-1 tvg-id="ESPN Norte" group-title="Sports", Espn HD
 http://galaxypro.online:8080/selvin2020/tango2020/704352
 
 #EXTINF:-1 tvg-id="ESPN 2 México" group-title="Sports", Espn 2 HD
 http://38.180.133.31:8000/play/a0w4
 
-#EXTINF:-1 tvg-id="ESPN 3 México" group-title="Sports", Espn 3 HD
+#EXTINF:-1 tvg-id="ESPN 3 Norte" group-title="Sports", Espn 3 HD
+http://181.78.82.6:46090/play/a00v
+
+
+#EXTINF:-1 tvg-id="ESPN 3 Sur " group-title="Sports", Espn 3 HD
 http://181.78.82.6:46090/play/a00v
 
 #EXTINF:-1 tvg-id="ESPN 4 México" group-title="Sports", Espn 4 HD
@@ -555,7 +559,7 @@ http://38.180.133.31:8000/play/a0wd
 
 
 #EXTINF:-1 tvg-id="TyC" group-title="Sports", TyC
-http://45.235.37.254/tyc/index.m3u8
+
 
 #EXTINF:-1 tvg-id="TUDN Mexy" group-title="Sports", TUDN MX
 
