@@ -315,7 +315,7 @@ http://nocable.cc:8080/k4Svp2/645504/120691
 
 
 #EXTINF:-1 tvg-id="Punto 2 Puerto Rico" group-title="Internacional", Telemundo PR
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo Puerto Rico" group-title="Internacional", Punto 2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
@@ -358,6 +358,7 @@ https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="2 de El Salvador" group-title="Internacional", Canal 2 SV
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
+
 
 #EXTINF:-1 tvg-id="2 de Nicaragua" group-title="Internacional", Canal 2 Ni
 
