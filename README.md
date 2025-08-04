@@ -312,7 +312,7 @@ https://jmp2.uk/sam-US2200005Y2.m3u8
 http://nocable.cc:8080/k4Svp2/645504/120691
 
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
-
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Punto 2 Puerto Rico" group-title="Internacional", Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
