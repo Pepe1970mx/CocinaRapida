@@ -31,7 +31,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7blivestitch" group-title="NACIONAL" ,
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dcaf7blivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-
+#EXTINF:-1 tvg-id="HTV" group-title="NACIONAL", HTV
 #EXTINF:-1 tvg-id="Milenio TV" group-title="NACIONAL" , Milenio Television
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
 
@@ -43,6 +43,9 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 #EXTINF:-1 tvg-id="Telehit" group-title="NACIONAL", Telehit
 https://streamer1.nexgen.bz/TELEHIT/index.m3u8
+
+
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8
 
 #EXTINF:-1 tvg-id="EXATV" group-title="NACIONAL", EXA TV
 https://mvs.daioncdn.net:443/exatv/exatv_1080p.m3u8?&sid=76arxwhpzqio&app=188fff62-593e-43fb-8604-34d30d693c1e&ce=2
