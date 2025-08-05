@@ -44,7 +44,7 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 tvg-id="Telehit" group-title="NACIONAL", Telehit
 https://streamer1.nexgen.bz/TELEHIT/index.m3u8
 
-
+#EXTINF:-1 tvg-id="HTV" group-title="NACIONAL", HTV
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8
 
 #EXTINF:-1 tvg-id="EXATV" group-title="NACIONAL", EXA TV
