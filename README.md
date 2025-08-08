@@ -23,13 +23,10 @@ EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
 
 #EXTINF:-1 tvg-id="5 de México" group-title="NACIONAL", Canal 5
-https://live2.saohgdasregions.fun:9091/2_/tracks-v1a1/mono.ts.m3u8?remote=201.174.235.194&token=b2d9cb3fcd487ac30cfd3e494d2dcd014f2f8643-8c97f057db54d61f65cd116094f7edd5-1753601885-1753580285
+
 
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 MX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
-
-#EXTINF:-1 tvg-id="652e91fd6208700008dcaf7blivestitch" group-title="NACIONAL" ,
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dcaf7blivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
 #EXTINF:-1 tvg-id="HTV" group-title="NACIONAL", HTV
 #EXTINF:-1 tvg-id="Milenio TV" group-title="NACIONAL" , Milenio Television
@@ -145,7 +142,7 @@ https://jmp2.uk/sam-USBC2100010OS.m3u8
 #EXTINF:-1 tvg-id="Distrito Comedia" group-title="Comedia" , Distrito Comedia
 http://latinostvhd.club:25461/4045736232/bac8716039/77091
 
-#EXTINF:-1 tvg-id="Sony Comedia Ones" group-title="Comedia" , Sony Comedia
+#EXTINF:-1 tvg-id="Sony Comedia" group-title="Comedia" , Sony Comedia
 https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
 
 
@@ -341,6 +338,10 @@ http://nocable.cc:8080/k4Svp2/645504/15336
 
 #EXTINF:-1 tvg-id="Galavision" group-title="Internacional", Galavision
 http://206.212.244.71:8080/Abxc5k/363887/58770
+
+#EXTINF:-1 tvg-id="Wapa" group-title="Internacional", Wapa
+https://live.field59.com/t/1754618340_8a3c97c246b8ab872807ef305305d1011c909bb6_1754622300/wapa/wapa1/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="5cf0622da00ca1e2f6fac712" group-title="Internacional", Estrella TV
 https://amg00567-estrellamedia-estrellatv-lgus-1g48u.amagi.tv/playlist/amg00567-estrellamedia-estrellatv-lgus/playlist.m3u8
