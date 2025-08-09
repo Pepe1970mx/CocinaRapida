@@ -340,7 +340,7 @@ http://nocable.cc:8080/k4Svp2/645504/15336
 http://206.212.244.71:8080/Abxc5k/363887/58770
 
 #EXTINF:-1 tvg-id="Wapa" group-title="Internacional", Wapa
-https://live.field59.com/t/1754618340_8a3c97c246b8ab872807ef305305d1011c909bb6_1754622300/wapa/wapa1/playlist.m3u8
+https://live.field59.com/t/1754708340_1ce3f347a80872c23b920c5501bab33aae769d65_1754710260/wapa/wapa1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="5cf0622da00ca1e2f6fac712" group-title="Internacional", Estrella TV
