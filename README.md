@@ -334,7 +334,7 @@ http://nocable.cc:8080/k4Svp2/645504/15336
 
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Teleonce Univision PR
-
+https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiIzZTkzNDczN2NkM2RiNjkxZmU5NGM0ZDdhM2UzOTc4OCIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzU0NzUzMzUyLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.CPq6Xlv9FChwgaPrkPDW2UP_dVPIO00vPMU0wwvHP3q1UWr3VUatEM-23p9ri70di7i4Wms0tC6M_yHJ66T_dH276P9l-yikN4Mg0hZC6KQkGHE5fe6_fa5ycqM-wFpxrOTqvdtiLWtc772N2X0E1xwEn0DZjHObobBnWQ91VX2wD_x8OYE__m0FtiGfQeR_RE7y5s7DXAcDUxdh6nl6ofDWt2pSmy39w-Cnw7Jjhfc6-QmmpU9fTImKjYKPguwYR1W9MOwXMX0MhiT35FLwjfOqh34bdanDiMcx2esNHVgP31i93Zv3wHzQAMUrOA5Uk9cVz4py8oSfKNUr-ghFVA/manifest/stream_t1c2f6f0b53fc2ee2b875d0d3091e81e1_r1157779437.m3u8?llhlsHBs=0.5&CMCD=cid%3D%221754710151961%22%2Cmtp%3D1200%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22e69eb3f2-3266-44c9-8d7e-d13093110bb2%22%2Csu
 
 #EXTINF:-1 tvg-id="Galavision" group-title="Internacional", Galavision
 http://206.212.244.71:8080/Abxc5k/363887/58770
