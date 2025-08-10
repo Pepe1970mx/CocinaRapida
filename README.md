@@ -168,7 +168,7 @@ https://amogonetworx-charlie-1-mx.tcl.wurl.tv/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 
-#EXTINF:-1 tvg-id="Canal Punto 99" group-title="Retro", Punto 99
+#EXTINF:-1 tvg-id="Canal Punto 99" group-title="RETRO", Punto 99
 https://stmv5.voxtvhd.com.br/99online/99online/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal LMS" group-title="RETRO" , LMS
@@ -187,27 +187,27 @@ https://backend.energeek.cl/webtv/egpopweb/index.m3u8?token=dEmoweBeneRGEek2025
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Teleclasica" group-title="Retro" , Teleclasica 
+#EXTINF:-1 tvg-id="Teleclasica" group-title="RETRO" , Teleclasica 
 https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telered" group-title="Retro" , Telered
+#EXTINF:-1 tvg-id="Telered" group-title="RETRO" , Telered
 https://k20.usastreams.com:8081/telered/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Tv Retro Palmares" group-title="Retro", TV Palmares TV
+#EXTINF:-1 tvg-id="Tv Retro Palmares" group-title="RETRO", TV Palmares TV
 
 
-#EXTINF:-1 tvg-id="Mi TV Television Clasica" group-title="Retro", Mi TV televisión Clasica
+#EXTINF:-1 tvg-id="Mi TV Television Clasica" group-title="RETRO", Mi TV televisión Clasica
 https://5aa8c7549bfa9.streamlock.net/live/livestream123/playlist.m3u8
 
-EXTINF:-1 tvg-id="5de802659167b10009e7deba" group-title="Retro", Pluto Series Retro
+EXTINF:-1 tvg-id="5de802659167b10009e7deba" group-title="RETRO", Pluto Series Retro
 https://stitcher.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 
-#EXTINF:-1 tvg-id="60142258a54aeb0007751c15" group-title="Retro", Pluto Retro Cartoons
+#EXTINF:-1 tvg-id="60142258a54aeb0007751c15" group-title="RETRO", Pluto Retro Cartoons
 https://stitcher.pluto.tv/stitch/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7961c49f-259d-11f0-870f-2e69ca19bd0b
 
-#EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="Retro", Pluto Nick Clasico
+#EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="RETRO", Pluto Nick Clasico
 https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
