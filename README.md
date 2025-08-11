@@ -272,8 +272,8 @@ https://streamer1.nexgen.bz/AXN/index.m3u8
 #EXTINF:-1 tvg-id="Paramount Channel" group-title="De Paga", Paramount España
 http://185.189.225.150:85/Paramount/index.m3u8
 
-#EXTINF:-1 tvg-id="Universal Premiere" group-title="De Paga" , Universal Premier
-
+#EXTINF:-1 tvg-id="Movistar Estreno" group-title="De Paga" , Movistar Estreno
+http://1djin5bz.otttv.pw/iptv/T3QNN5USCUQ4NP/6078/index.m3u8
 
 #EXTINF:-1 tvg-id="amc_españa" group-title="De Paga", AMC España
 http://vegafibratv.com:8085/AMC/index.m3u8
