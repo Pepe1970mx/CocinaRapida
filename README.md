@@ -373,6 +373,7 @@ https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf9
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="4 de Costa Rica" group-title="Internacional" , Canal 4 CR
+https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="4 de Nicaragua" group-title="Internacional" , Canal 4 NI 
 https://live.eu-north-1a.cf.dmcdn.net/sec2(2Nmx-Jvu_ZOEsdBQQZ_6wEPDIUuMOGvEchoLFiFz7oCRiFY4k3oHsxr05WxSe-4oOvWiIOKtsI8bhshVIOoBJNsy0ryh-NZujpZcCR7t_5s8Acjd-oyqdZKj3_KcqXBA)/dm/3/x7rwv8c/s/live-480.m3u8
@@ -390,7 +391,6 @@ https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="7 de Nicaragua Teletica" group-title="Internacional" , Teletica
 https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
-
 
 
 #EXTINF:-1 tvg-id="ATV Sur" group-title="Internacional" , ATV Sur PE
@@ -411,17 +411,20 @@ http://200.52.148.194:8000/play/a04q/index.m3u8
 #EXTINF:-1 tvg-id="Canal 11 NI" group-title="Internacional", Canal 11
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
 
+
+
 #EXTINF:-1 tvg-id="12 de El Salvador" group-title="Internacional", Canal 12 SV
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="13 de Guatemala" group-title="Internacional", Canal 13 - Trecevisión
-https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
+
 
 #EXTINF:-1 tvg-id="Canal 13 Esquipula" group-title="Internacional", Canal 13 Esquipulas
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 
 #EXTINF:-1 tvg-id="13 de Costa Rica" group-title="Internacional", Canal 13 CR 
-https://live.eu-north-1a.cf.dmcdn.net/sec2(_MkYHrJFYa8wNSCmjOAqJXS_Bn315mtXlgxP-WZfPJtcI8JlQ6P83tqZ3vJuayD-9fMHFOJAtU6izxtvewgYa6A7MDDGj7nSgyy8IO-vPVR2qnkW8lnXoY-FVQ4P6S2j)/dm/3/x7vh8g3/d/live-720.m3u8
+https://live.eu-north-1a.cf.dmcdn.net/sec2(H2S5_PVpP0GpKx3TNG10MSBI-yrhtGoCu5evyKmIXYz9T-mb-HGs8OrtcyPTGpJ5vWXVAVxgbaisSo-ahfhE7dm-9ZwCztOSVzfQ3W6RVMFTcVNDQcGTgKG117mabQgo)/dm/3/x7vh8g3/d/live-720.m3u8
+
 
 #EXTINF:-1 tvg-id="13 de Argentina El Trece" group-title="Internacional", El trece AR
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
@@ -464,8 +467,11 @@ https://tv.arkeo.cl:19360/8134/8134.m3u8?PlaylistM3UCL
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-id="Frecuencia Musical TV" group-title="ENTRETENIMIENTO", FM TV
+#EXTINF:-1 tvg-id="Frecuencia Musical TV" group-title="ENTRETENIMIENTO", FM TV 1
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="Frecuencia Musical TV" group-title="ENTRETENIMIENTO", FM TV
+https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 
 #EXTINF:-1 tvg-id="Infinita TV" group-title="ENTRETENIMIENTO", Infinita TV
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
