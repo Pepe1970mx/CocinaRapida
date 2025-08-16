@@ -219,13 +219,11 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u
 #EXTINF:-1 tvg-id="Warner Channel México" group-title="De Paga", Warner 
 
 
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/313067
-
 #EXTINF:-1 tvg-id="Space México" group-title="De Paga", Space HD
 
 
 #EXTINF:-1 tvg-id="Sony México" group-title="De Paga", Sony Channels 
-
+https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony Action" group-title="De Paga", Sony Action
 https://de9yx47crxs6l.cloudfront.net:443/playlist_7.m3u8
@@ -237,13 +235,8 @@ https://d1fhd07bw4d2d6.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="Sony Threllers" group-title="De Paga", Sony Thrillers
 https://d1wuti7vf6eqt9.cloudfront.net/playlist.m3u8
 
-
-
-http://45.235.37.254/sonyhd/index.m3u8
-
-
+#EXTINF:-1 tvg-id="Sony Movies" group-title="De Paga", Sony Movies
 https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-
 
 #EXTINF:-1 tvg-id="Cine Sony" group-title="De Paga", Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
