@@ -305,6 +305,9 @@ https://jmp2.uk/sam-US2200005Y2.m3u8
 #EXTINF:-1 tvg-id="Telemundo Satellite Feed" group-title="Internacional", Telemundo 
 http://nocable.cc:8080/k4Svp2/645504/120691
 
+#EXTINF:-1 tvg-id="Telemundo Satellite Feed" group-title="Internacional", Telemundo 
+http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 
