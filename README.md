@@ -568,8 +568,8 @@ http://38.180.133.31:8000/play/a0wd
 #EXTINF:-1 tvg-id="Fox Sports 2 Cono Norte" group-title="Sports", Fox sport 2 HD
 
 
-#EXTINF:-1 tvg-id="TyC" group-title="Sports", TyC
-
+#EXTINF:-1 tvg-id="FutGo" group-title="Sports", FutGo
+https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="TUDN Mexy" group-title="Sports", TUDN MX
 
