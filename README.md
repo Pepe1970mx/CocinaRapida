@@ -4,6 +4,10 @@ x-tvg-url=" "
 #EXTINF:-1 tvg-id="Azteca Uno" group-title="NACIONAL", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
+
+https://ch1-tva.duin.dev/hls/stream.m3u8
+
+
 #EXTINF:-1 tvg-id="646ccd3681844c000974d6f4" group-title="NACIONAL", ADN 40 
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
@@ -61,6 +65,10 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 tvg-id="a+" group-title="NACIONAL", A Mas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
+#EXTINF:-1 tvg-id="a+" group-title="NACIONAL", A Mas G
+https://videos.radiozona3.com/A-Mas-Guatemala/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Popcorn central" group-title="NACIONAL",  Popcorn central
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
