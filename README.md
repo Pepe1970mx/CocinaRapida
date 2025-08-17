@@ -395,6 +395,9 @@ https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="Internacional", Ciudad Magica AR
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
+#EXTINF:-1 tvg-id="Ciudad Magacine" group-title="Internacional", Ciudad Magazine AR
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+
 #EXTINF:-1 tvg-id="5 El Líder Honduras" group-title="Internacional", Canal 5 HN
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 
