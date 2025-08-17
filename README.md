@@ -4,7 +4,7 @@ x-tvg-url=" "
 #EXTINF:-1 tvg-id="Azteca Uno" group-title="NACIONAL", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-id="Azteca Guatemala" group-title="NACIONAL", Azteca Gu
+#EXTINF:-1 tvg-id="Azteca Guatemala" group-title="NACIONAL", Azteca Guatemala 
 https://ch1-tva.duin.dev/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Azteca Internacional" group-title="NACIONAL", Azteca Internacional 
@@ -69,7 +69,7 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="a+" group-title="NACIONAL", A Mas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 tvg-id="a+" group-title="NACIONAL", A Mas G
+#EXTINF:-1 tvg-id="a+ Guatemala" group-title="NACIONAL", A Mas Guatemala 
 https://videos.radiozona3.com/A-Mas-Guatemala/index.m3u8
 
 
