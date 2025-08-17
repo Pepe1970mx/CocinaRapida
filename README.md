@@ -180,8 +180,8 @@ https://tvstream.alojawebgt.net:3358/live/comoantestvlive.m3u8
 #EXTINF:-1 tvg-id="Dreiko TV" group-title="RETRO" , DREIKO TV
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
-#EXTINF:-1 tvg-id="EnerGeek Pop" group-title="RETRO" , EnerGeek Pop
-https://backend.energeek.cl/webtv/egpopweb/index.m3u8?token=dEmoweBeneRGEek2025
+#EXTINF:-1 tvg-id="TeleSur" group-title="RETRO" , Telesur CR
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 
 #EXTINF:-1 tvg-id="Tigueritos TV" group-title="RETRO" , Tigueritos
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
