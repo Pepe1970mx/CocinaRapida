@@ -4,8 +4,11 @@ x-tvg-url=" "
 #EXTINF:-1 tvg-id="Azteca Uno" group-title="NACIONAL", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-
+#EXTINF:-1 tvg-id="Azteca Guatemala" group-title="NACIONAL", Azteca Gu
 https://ch1-tva.duin.dev/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Azteca Internacional" group-title="NACIONAL", Azteca Internacional 
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 
 #EXTINF:-1 tvg-id="646ccd3681844c000974d6f4" group-title="NACIONAL", ADN 40 
