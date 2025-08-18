@@ -387,9 +387,9 @@ https://cloud2.streaminglivehd.com:1936/8048/8048/.m3u8
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="4 de Nicaragua" group-title="Internacional" , Canal 4 NI 
-https://live.eu-north-1a.cf.dmcdn.net/sec2(2Nmx-Jvu_ZOEsdBQQZ_6wEPDIUuMOGvEchoLFiFz7oCRiFY4k3oHsxr05WxSe-4oOvWiIOKtsI8bhshVIOoBJNsy0ryh-NZujpZcCR7t_5s8Acjd-oyqdZKj3_KcqXBA)/dm/3/x7rwv8c/s/live-480.m3u8
 
 #EXTINF:-1 tvg-id="4 de El Salvador" group-title="Internacional" , Canal 4 SV
+http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/50474
 
 #EXTINF:-1 tvg-id="5 El Líder Honduras" group-title="Internacional", Canal 5 HN
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
@@ -398,7 +398,10 @@ https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="6 de Nicaragua" group-title="Internacional" , Canal 6 NI
-https://live.eu-north-1b.cf.dmcdn.net/sec2(yf2fm4SN_0FWV9BD5SAwytBpz5jJ2-J8WNjXfTHZQkecf-Y31eAIejUS3VTiq_KsrG138_jcE89t_73idN3M_xptZdaEgrdJCF8ygQ3OlTm5MWIBlqCa54hp2OjwQTpY)/dm/3/x96x78e/s/live-480.m3u8
+
+#EXTINF:-1 tvg-id="6 de Salvador" group-title="Internacional" , Canal 6 SV
+http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/428
+
 
 #EXTINF:-1 tvg-id="7 de Guatemala" group-title="Internacional" , Canal 7 - Televisiete
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
