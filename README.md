@@ -538,7 +538,7 @@ https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 
 
 #EXTINF:-1 tvg-id="US2700004DX" group-title="Sports", BeIn Extra en Español
-https://live-ak.vimeocdn.com/exp=1755661735~acl=%2F17be16bf-3895-47a0-bfee-75d3bb331c63_fmp4%2F%2A~hmac=de0c6dbf67c542a23e582d6d01da9f7b8bd956920e2b4ea7873964b80089809c/17be16bf-3895-47a0-bfee-75d3bb331c63_fmp4/aac/128000/chunklist.m3u8
+https://live-ak.vimeocdn.com/exp=1755662728~acl=%2F17be16bf-3895-47a0-bfee-75d3bb331c63_fmp4%2F%2A~hmac=d69814206e30a41954cdde9799f56345d2029aa1517aa6229e0689e5ff85a7fc/17be16bf-3895-47a0-bfee-75d3bb331c63_fmp4/aac/128000/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Claro Sports" group-title="Sports", Claro Sports
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
