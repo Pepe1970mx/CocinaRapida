@@ -166,8 +166,8 @@ https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Alf" group-title="24/7" , Alf
 
 
-#EXTINF:-1 tvg-id="Pajaro Loco" group-title="24/7" , Pajaro Loco
-
+#EXTINF:-1 tvg-id="Pantera Rosa te te" group-title="24/7" , Pantera Rosa
+https://linear-1069.frequency.stream/mt/plex/1069/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="24/7" , Lonney Tunes
 
