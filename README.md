@@ -237,6 +237,9 @@ http://galaxypro.online:8080/selvin2020/tango2020/94132
 http://galaxypro.online:8080/selvin2020/tango2020/94127
 
 
+#EXTINF:-1 tvg-id="Sony Exitos" group-title="De Paga", Sony Exitos
+https://d1hcj42s7cseno.cloudfront.net/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Sony Action" group-title="De Paga", Sony Action
 https://de9yx47crxs6l.cloudfront.net:443/playlist_7.m3u8
 
