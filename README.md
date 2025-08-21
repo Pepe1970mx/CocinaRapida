@@ -175,9 +175,13 @@ https://linear-1069.frequency.stream/mt/plex/1069/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="24/7" , Charlie
 https://amogonetworx-charlie-1-mx.tcl.wurl.tv/playlist.m3u8
 
+
+
+#EXTINF:-1 tvg-id="TOONCAST" group-title="RETRO" , Tooncast
+http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/132704
+
 #EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="RETRO" , Los Tres Chiflados
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
 
 #EXTINF:-1 tvg-id="Canal Punto 99" group-title="RETRO", Punto 99
 https://stmv5.voxtvhd.com.br/99online/99online/playlist.m3u8
@@ -185,7 +189,7 @@ https://stmv5.voxtvhd.com.br/99online/99online/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal LMS" group-title="RETRO" , LMS
 https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal LMS" group-title="RETRO" , como antes TV
+#EXTINF:-1 tvg-id="Como Antes TV" group-title="RETRO" , como antes TV
 https://tvstream.alojawebgt.net:3358/live/comoantestvlive.m3u8
 
 EXTINF:-1 tvg-id="Central TV" group-title="RETRO" , Central TV
@@ -452,9 +456,6 @@ http://200.52.148.194:8000/play/a04q/index.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
-
-#EXTINF:-1 tvg-id="TOONCAST" group-title="ENTRETENIMIENTO" , Tooncast
-http://45.235.37.254/tooncast/index.m3u8
 
 #EXTINF:-1 tvg-id="6732497f3a61d400087a53b0" group-title="ENTRETENIMIENTO" , Tu Warner
 https://stitcher.pluto.tv/stitch/hls/channel/6732497f3a61d400087a53b0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=b6ab15df-26a9-11f0-a242-8e1dc8a26264
