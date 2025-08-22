@@ -212,11 +212,11 @@ https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
 https://k20.usastreams.com:8081/telered/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Tv Retro Palmares" group-title="RETRO", TV Palmares TV
-
+#EXTINF:-1 tvg-id="Tv Retro Palmares" group-title="RETRO", Retro X TV
+https://tvservices.fullhd-streaming.com:3953/live/retroxtvlive.m3u8
 
 #EXTINF:-1 tvg-id="Mi TV Television Clasica" group-title="RETRO", Mi TV televisión Clasica
-https://5aa8c7549bfa9.streamlock.net/live/livestream123/playlist.m3u8
+https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
 
 EXTINF:-1 tvg-id="5de802659167b10009e7deba" group-title="RETRO", Pluto Series Retro
 https://stitcher.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
