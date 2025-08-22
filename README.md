@@ -35,6 +35,9 @@ http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/315082
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 MX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
 
+#EXTINF:-1 tvg-id=" " group-title="NACIONAL" Canal 6 
+https://5f1af61612fb5.streamlock.net/canal6mich2/videocanal6mich2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI1IDM6MTc6MjUgQU0maGFzaF92YWx1ZT15T1RML3hMQ2RiQ2N3NlV6TTFZL2tnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
+
 #EXTINF:-1 tvg-id="HTV" group-title="NACIONAL", HTV
 #EXTINF:-1 tvg-id="Milenio TV" group-title="NACIONAL" , Milenio Television
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
