@@ -209,6 +209,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
 #EXTINF:-1 tvg-id="Telered" group-title="RETRO" , Telered
 https://k20.usastreams.com:8081/telered/index.m3u8
 
+#EXTINF:-1 tvg-id="Toonami TV" group-title="RETRO" , Toonami TV
+https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/chunks.m3u8
+
 #EXTINF:-1 tvg-id="Tv Retro X TV" group-title="RETRO", Retro X TV
 https://tvservices.fullhd-streaming.com:3953/live/retroxtvlive.m3u8
 
