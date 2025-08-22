@@ -191,7 +191,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
 #EXTINF:-1 tvg-id="Como Antes TV" group-title="RETRO" , como antes TV
 https://tvstream.alojawebgt.net:3358/live/comoantestvlive.m3u8
 
-EXTINF:-1 tvg-id="Central TV" group-title="RETRO" , Central TV
+#EXTINF:-1 tvg-id="Central TV" group-title="RETRO" , Central TV
 https://freya.mivideo.pro/centraltv/video.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Dreiko TV" group-title="RETRO" , DREIKO TV
