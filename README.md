@@ -203,7 +203,6 @@ https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 #EXTINF:-1 tvg-id="Tigueritos TV" group-title="RETRO" , Tigueritos
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="Teleclasica" group-title="RETRO" , Teleclasica 
 https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
 
@@ -211,8 +210,11 @@ https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
 https://k20.usastreams.com:8081/telered/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Tv Retro Palmares" group-title="RETRO", Retro X TV
+#EXTINF:-1 tvg-id="Tv Retro X TV" group-title="RETRO", Retro X TV
 https://tvservices.fullhd-streaming.com:3953/live/retroxtvlive.m3u8
+
+EXTINF:-1 tvg-id="Tv Retro Big TV" group-title="RETRO", Retro Big TV
+https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Mi TV Television Clasica" group-title="RETRO", Mi TV televisión Clasica
 https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
