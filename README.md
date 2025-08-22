@@ -419,8 +419,9 @@ http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/428
 #EXTINF:-1 tvg-id="7 de Guatemala" group-title="Internacional" , Canal 7 - Televisiete
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="7 de Nicaragua Teletica" group-title="Internacional" , Teletica
-https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="7 de Nicaragua Teletica" group-title="Internacional" , Ticavisio 
+https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/chunklist_w189730781.m3u8
+
 
 #EXTINF:-1 tvg-id="Canal 11 NI" group-title="Internacional", Canal 11
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
