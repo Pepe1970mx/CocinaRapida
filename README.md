@@ -70,8 +70,7 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-id="a+ Guatemala" group-title="NACIONAL", A Mas Guatemala 
-https://videos.radiozona3.com/A-Mas-Guatemala/index.m3u8
-
+https://ch2-tva.duin.dev/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="Popcorn central" group-title="NACIONAL",  Popcorn central
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
