@@ -548,7 +548,7 @@ https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="US2700004DX" group-title="Sports", BeIn Extra en Español
+#EXTINF:-1 tvg-id="BeIn Extra en Español" group-title="Sports", BeIn Extra en Español
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-tcl/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Claro Sports" group-title="Sports", Claro Sports
@@ -566,12 +566,14 @@ https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u
 #EXTINF:-1 tvg-id="" group-title="Sports", Caliente TV
 
 
-#EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes US
-http://galaxypro.online:8080/selvin2020/tango2020/383997
+#EXTINF:-1 tvg-id="FS1" group-title="Sports", Fox Sport 1
+https://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
+
+#EXTINF:-1 tvg-id="FS2" group-title="Sports", Fox Sport 2
+http://23.237.104.106:8080/USA_FS2/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
-http://galaxypro.online:8080/selvin2020/tango2020/283317
-
 http://190.92.10.66:4000/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Norte" group-title="Sports", Espn HD
