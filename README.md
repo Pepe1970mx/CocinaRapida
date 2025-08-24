@@ -551,6 +551,10 @@ https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="BeIn Extra en Español" group-title="Sports", BeIn Extra en Español
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-tcl/playlist.m3u8
 
+#EXTINF:-1 tvg-id="BeIn Sports" group-title="Sports", BeIn Sports
+http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
+
+
 #EXTINF:-1 tvg-id="Claro Sports" group-title="Sports", Claro Sports
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
