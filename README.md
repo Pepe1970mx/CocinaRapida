@@ -237,6 +237,26 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
 http://galaxypro.online:8080/selvin2020/tango2020/282694
 
+#EXTINF:-1 tvg-id="Sony Movies" group-title="De Paga", Sony Movies
+https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+
+#EXTINF:-1 tvg-id="Cine Sony" group-title="De Paga", Sony Cine
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sony Exitos" group-title="De Paga", Sony Exitos
+https://d1hcj42s7cseno.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sony Action" group-title="De Paga", Sony Action
+https://de9yx47crxs6l.cloudfront.net:443/playlist_7.m3u8
+
+#EXTINF:-1 tvg-id="Sony ComedyTV" group-title="De Paga", Sony ComedyTV
+https://d1fhd07bw4d2d6.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sony Threllers" group-title="De Paga", Sony Thrillers
+https://d1wuti7vf6eqt9.cloudfront.net/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="TNT México" group-title="De Paga", TNT
 http://galaxypro.online:8080/selvin2020/tango2020/94130
 
@@ -247,24 +267,8 @@ http://galaxypro.online:8080/selvin2020/tango2020/94132
 http://galaxypro.online:8080/selvin2020/tango2020/94127
 
 
-#EXTINF:-1 tvg-id="Sony Exitos" group-title="De Paga", Sony Exitos
-https://d1hcj42s7cseno.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sony Action" group-title="De Paga", Sony Action
-https://de9yx47crxs6l.cloudfront.net:443/playlist_7.m3u8
 
 
-#EXTINF:-1 tvg-id="Sony ComedyTV" group-title="De Paga", Sony ComedyTV
-https://d1fhd07bw4d2d6.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sony Threllers" group-title="De Paga", Sony Thrillers
-https://d1wuti7vf6eqt9.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sony Movies" group-title="De Paga", Sony Movies
-https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-
-#EXTINF:-1 tvg-id="Cine Sony" group-title="De Paga", Sony Cine
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Multicinema" group-title="De Paga", Multicinema
 
