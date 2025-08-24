@@ -331,7 +331,7 @@ https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 
 
 #EXTINF:-1  tvg-id="US2200005Y2"  group-title="Internacional" , Canal Vix
-https://jmp2.uk/sam-US2200005Y2.m3u8
+https://jmp2.uk/stvp-US2200005Y2
 
 #EXTINF:-1 tvg-id="Telemundo Satellite Feed" group-title="Internacional", Telemundo 
 http://nocable.cc:8080/k4Svp2/645504/120691
