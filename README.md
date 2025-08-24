@@ -402,6 +402,9 @@ https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="4 de El Salvador" group-title="Internacional" , Canal 4 SV
 http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/50474
 
+#EXTINF:-1 tvg-id="Telemicro 5" group-title="Internacional", telemicro 5
+https://live4.telemicro.com.do/live/55/playlist.m3u8
+
 #EXTINF:-1 tvg-id="5 El Líder Honduras" group-title="Internacional", Canal 5 HN
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 
@@ -432,6 +435,9 @@ https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 
 #EXTINF:-1 tvg-id="13 de Costa Rica" group-title="Internacional", Canal 13 CR 
+
+#EXTINF:-1 tvg-id="Telecentro 13" group-title="Internacional", Telecentro 13
+https://live4.telemicro.com.do/live/13/playlist.m3u8
 
 #EXTINF:-1 tvg-id="13 de Argentina El Trece" group-title="Internacional", El trece AR
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
