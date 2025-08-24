@@ -480,8 +480,8 @@ https://s2.tvdatta.com:3753/hybrid/play.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Chinola
-
+#EXTINF:-1 tvg-id="Moni TV" group-title="ENTRETENIMIENTO" , Chinola
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 
 #EXTINF:-1 tvg-id="Moni TV" group-title="ENTRETENIMIENTO" , Moni TV
 https://tv.arkeo.cl:19360/8134/8134.m3u8?PlaylistM3UCL
