@@ -376,8 +376,6 @@ https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c
 #EXTINF:-1 tvg-id="Telecinco" group-title="Internacional", Telecinco
 http://185.189.225.150:85/TeleCincoHD/index.m3u8
 
-
-
 #EXTINF:-1  tvg-id="WAPA TV"  group-title="Internacional" , Wapa
 
 #EXTINF:-1 tvg-id="2 de Costa Rica" group-title="Internacional", Canal 2 CR
@@ -422,7 +420,6 @@ https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="7 de Nicaragua Teletica" group-title="Internacional" , Ticavisio 
 https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/chunklist_w189730781.m3u8
 
-
 #EXTINF:-1 tvg-id="Canal 11 NI" group-title="Internacional", Canal 11
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
 
@@ -455,44 +452,15 @@ https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 #EXTINF:-1 tvg-id="Ciudad Magacine" group-title="Internacional", Ciudad Magazine AR
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
+#EXTINF:-1 tvg-id="VTV Honduras Vica TV" group-title="ENTRETENIMIENTO", VTV HN
+https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="Internacional", Telecadena 7 y 4
 http://200.52.148.194:8000/play/a04q/index.m3u8
 
-
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
-
-#EXTINF:-1 tvg-id="6732497f3a61d400087a53b0" group-title="ENTRETENIMIENTO" , Tu Warner
-https://stitcher.pluto.tv/stitch/hls/channel/6732497f3a61d400087a53b0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=b6ab15df-26a9-11f0-a242-8e1dc8a26264
-
-#EXTINF:-1 tvg-id="668c5cb4f01dbe0008dd4082" group-title="ENTRETENIMIENTO" , CBS En Español
-https://stitcher.pluto.tv/stitch/hls/channel/668c5cb4f01dbe0008dd4082/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=b6ab15df-26a9-11f0-a242-8e1dc8a26264
-
-#EXTINF:-1 tvg-id="60fb3087fbbc120007fc46be" group-title="ENTRETENIMIENTO" , Series con Ñ
-https://stitcher.pluto.tv/stitch/hls/channel/60fb3087fbbc120007fc46be/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=b6ab15df-26a9-11f0-a242-8e1dc8a26264
-
-
-
-#EXTINF:-1 tvg-id="5fab09a8749b1a00077d35d2" group-title="ENTRETENIMIENTO", Nick Teens
-https://stitcher.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c16ba9e4-85a7-11eb-a861-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="645952687cb4b100084ed52e" group-title="ENTRETENIMIENTO", Nickelodeon Pluto TV
-https://stitcher.pluto.tv/stitch/hls/channel/645952687cb4b100084ed52e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7961c49f-259d-11f0-870f-2e69ca19bd0b
-
-#EXTINF:-1 tvg-id="5d8d08395f39465da6fb3ec4" group-title="ENTRETENIMIENTO", Nickelodeon en Español
-https://stitcher.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ef9650bc-27b5-11f0-a2e1-b28153763643
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Chinola
-
-
-#EXTINF:-1 tvg-id="Moni TV" group-title="ENTRETENIMIENTO" , Moni TV
-https://tv.arkeo.cl:19360/8134/8134.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="RetroplusTV" group-title="ENTRETENIMIENTO" , RetroPlusTV
-https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
-
 
 #EXTINF:-1 tvg-id="Frecuencia Musical TV" group-title="ENTRETENIMIENTO", FM TV 1
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
@@ -503,12 +471,36 @@ https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 #EXTINF:-1 tvg-id="Infinita TV" group-title="ENTRETENIMIENTO", Infinita TV
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 
-
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VTV Honduras Vica TV" group-title="ENTRETENIMIENTO", VTV HN
-https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Chinola
+
+
+#EXTINF:-1 tvg-id="Moni TV" group-title="ENTRETENIMIENTO" , Moni TV
+https://tv.arkeo.cl:19360/8134/8134.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="RetroplusTV" group-title="ENTRETENIMIENTO" , RetroPlusTV
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="6732497f3a61d400087a53b0" group-title="ENTRETENIMIENTO" , Tu Warner
+https://stitcher.pluto.tv/stitch/hls/channel/6732497f3a61d400087a53b0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=b6ab15df-26a9-11f0-a242-8e1dc8a26264
+
+#EXTINF:-1 tvg-id="668c5cb4f01dbe0008dd4082" group-title="ENTRETENIMIENTO" , CBS En Español
+https://stitcher.pluto.tv/stitch/hls/channel/668c5cb4f01dbe0008dd4082/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=b6ab15df-26a9-11f0-a242-8e1dc8a26264
+
+#EXTINF:-1 tvg-id="60fb3087fbbc120007fc46be" group-title="ENTRETENIMIENTO" , Series con Ñ
+https://stitcher.pluto.tv/stitch/hls/channel/60fb3087fbbc120007fc46be/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=b6ab15df-26a9-11f0-a242-8e1dc8a26264
+
+#EXTINF:-1 tvg-id="5fab09a8749b1a00077d35d2" group-title="ENTRETENIMIENTO", Nick Teens
+https://stitcher.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c16ba9e4-85a7-11eb-a861-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="645952687cb4b100084ed52e" group-title="ENTRETENIMIENTO", Nickelodeon Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/645952687cb4b100084ed52e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7961c49f-259d-11f0-870f-2e69ca19bd0b
+
+#EXTINF:-1 tvg-id="5d8d08395f39465da6fb3ec4" group-title="ENTRETENIMIENTO", Nickelodeon en Español
+https://stitcher.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ef9650bc-27b5-11f0-a2e1-b28153763643
+
 
 #EXTINF:-1 tvg-id="USBD7000017L" group-title="Internacional", AMC en Español
 
