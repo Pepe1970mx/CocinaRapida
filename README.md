@@ -714,11 +714,15 @@ https://bit.ly/3K2CDBb?profile=corgol.m3u8
 #EXTINF:-1 tvg-id="6490254fd2c47c00083a5743" group-title="Retro Music", Now 80s
 https://lightning-now80s-xiaomi.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Now Rock" group-title="Retro Music", Now Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="" group-title="Retro Music", MTV 80's
 http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/6977/index.m3u8
 
-#EXTINF:-1 tvg-id="6076cd1df8576d0007c82193" group-title="Retro Music", VH1 Classic
-http://daleplay.club:80/play/UJYqQ-6bdbTBKzlMCSK0jinOrOfJYH2FNVyXzjigPktA9eLNVHrZt-zUBId5zxOD/ts
+#EXTINF:-1 tvg-id="Vevo Rock" group-title="Retro Music", Vevo Rock
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce917-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5b34f49b-bb11-47dd-b65b-7c5074a9925c
 
 #EXTINF:-1 tvg-id="635bfb89b5cd9b0007ca9d63" group-title="Retro Music", MTV Classic
 http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/19148/index.m3u8
