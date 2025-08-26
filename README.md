@@ -469,6 +469,10 @@ https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="Internacional", Telecadena 7 y 4
 http://200.52.148.194:8000/play/a04q/index.m3u8
 
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , +Cine
+https://tv.arkeo.cl:19360/8128/8128.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
 
