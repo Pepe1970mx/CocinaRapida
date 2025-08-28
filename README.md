@@ -188,6 +188,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11e
 #EXTINF:-1 tvg-id="Canal Punto 99" group-title="RETRO", Punto 99
 https://stmv5.voxtvhd.com.br/99online/99online/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="RETRO", Best Clasicos TV
+https://acceso.radiosportstv.online:3102/live/telemascrlive.m3u8
+
 #EXTINF:-1 tvg-id="Canal LMS" group-title="RETRO" , LMS
 https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
 
