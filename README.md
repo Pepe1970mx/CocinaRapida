@@ -110,6 +110,9 @@ https://s5.mexside.net:1936/respaldo/respaldo/playlist.m3u8
 #EXTINF:-1 tvg-id="22 de México" group-title="NACIONAL" , CANAL 22 
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
+EXTINF:-1 tvg-id="28 de México" group-title="NACIONAL" , CANAL 28 Nuevo Leon
+https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MX NUESTRO CINE" group-title="NACIONAL" , MX Nuestro Cine
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
 
