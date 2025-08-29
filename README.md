@@ -240,6 +240,16 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
 http://galaxypro.online:8080/selvin2020/tango2020/282694
 
+#EXTINF:-1 tvg-id="Cinecanal" group-title="De Paga", Cinecanal
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT México" group-title="De Paga", TNT
+http://galaxypro.online:8080/selvin2020/tango2020/94130
+
+#EXTINF:-1 tvg-id="AXN" group-title="De Paga", AXN
+https://streamer1.nexgen.bz/AXN/index.m3u8
+
+
 #EXTINF:-1 tvg-id="Sony Movies" group-title="De Paga", Sony Movies
 https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
@@ -257,11 +267,6 @@ https://d1fhd07bw4d2d6.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sony Threllers" group-title="De Paga", Sony Thrillers
 https://d1wuti7vf6eqt9.cloudfront.net/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="TNT México" group-title="De Paga", TNT
-http://galaxypro.online:8080/selvin2020/tango2020/94130
 
 #EXTINF:-1 tvg-id="Warner Channel México" group-title="De Paga", Warner 
 http://galaxypro.online:8080/selvin2020/tango2020/94132
@@ -289,8 +294,7 @@ https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:-1 tvg-id="UniversalTV.mx" group-title="De Paga", Universal Channel
 
 
-#EXTINF:-1 tvg-id="AXN" group-title="De Paga", AXN
-https://streamer1.nexgen.bz/AXN/index.m3u8
+
 
 #EXTINF:-1 tvg-id=" " group-title="De Paga",SYFY
 
