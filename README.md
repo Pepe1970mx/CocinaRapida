@@ -243,6 +243,9 @@ http://galaxypro.online:8080/selvin2020/tango2020/282694
 #EXTINF:-1 tvg-id="Cinecanal" group-title="De Paga", Cinecanal
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 
+#EXTINF:-1 tvg-id="Studio Universal" group-title="De Paga", Studio Universal 
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
+
 #EXTINF:-1 tvg-id="TNT México" group-title="De Paga", TNT
 http://galaxypro.online:8080/selvin2020/tango2020/94130
 
