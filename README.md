@@ -166,7 +166,7 @@ https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="El Chavo" group-title="24/7" , El Chavo del 8
-https://dcs-live.mp.lura.live/server/play/A6gYgJsl13QdFlwj/manifest.m3u8?encp=7rEc8YJiazZT1kY1z09Eaw:as2ucI6c4fTf--Nxm3Kfin_-Ve5vU8ITpIrqpVWB2S7cB5G6tM_KoXrqEV_CG_8ItnnTIYbutyC4Ioau5Fe-SlMho7lzN4qSbYoNV5QH91BBi0vncB31hi692CncRQ-nmWzbJnd6cDA3s9XHtaKmUqCdc0zeACB4c5kOsUdaCIFcHvv7KBCDEjJqj4_pcLVuPLDXr-Gxmhv7tqNAw4M-7gW8MDMRMy6X7gQqUozRQM6dCQugTbAujUDWCsTf_TJLgJdtSpOxBTuMV2bg8knf6pHcX-R0jXJkCYOse6fXdFdUNYg6_p-y2SfWVfqkb6tZp2MN1iUNaf_iU7XQPZGK-slAta8bnMMPaz2Db2w4vPR7SoGySteaNwrVQsN56ba6lDXtncn727K2NMePgyML6J0LvXko2j54vzKFy3JNrnbDZADPr68rXm7mMgTBcbr0b1VWcQoa6mo6dyxp6eb18X0VjwS1s90kO34G-El9jn6Q7NHd3GTOlGd78Qcw3-zjNLlqWCHyUy4I-ramexm7fUNLZiQlNyOwViLrWAcNLOfkaAATjw54fN5v8g5-c6HeKLxOw8HKMteqNjhM-GzLFAlJKhuvOaNOWzIvaNryP48gbPZ0xXvFWj-UB4Y7efvy25eFMxgDVgZFI2yQWL6gxmk_XviROzDh_obS1rcK04yld1Mf0Y1Ynvf3SZw9R142Y53Yqo0vDEpo45GmRbz6wCvoeGlDKY3G-kYTnJ3VyXM&anvtrid=0d139e567c0803d0814eda204e527bae&anvauth=tb=0~te=1755661945~sgn=aaec5755382c566b1c57071fa50376c84006760bee47eafe07ca66c0b1ef2f58&t=1755661855
+
 
 #EXTINF:-1 tvg-id="Alf" group-title="24/7" , Alf
 
@@ -180,8 +180,6 @@ https://linear-1069.frequency.stream/mt/plex/1069/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="24/7" , Charlie
 https://amogonetworx-charlie-1-mx.tcl.wurl.tv/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-id="TOONCAST" group-title="RETRO" , Tooncast
 http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/132704
 
@@ -189,7 +187,6 @@ http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/132704
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-id="Canal Punto 99" group-title="RETRO", Punto 99
-https://stmv5.voxtvhd.com.br/99online/99online/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="RETRO", Best Clasicos TV
 https://acceso.radiosportstv.online:3102/live/telemascrlive.m3u8
@@ -201,7 +198,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
 https://tvstream.alojawebgt.net:3358/live/comoantestvlive.m3u8
 
 #EXTINF:-1 tvg-id="Central TV" group-title="RETRO" , Central TV
-https://freya.mivideo.pro/centraltv/video.m3u8?PlaylistM3UCL
+https://freya.mivideo.pro/centraltv/video.m3u8
 
 #EXTINF:-1 tvg-id="Dreiko TV" group-title="RETRO" , DREIKO TV
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
@@ -255,7 +252,6 @@ http://galaxypro.online:8080/selvin2020/tango2020/94130
 #EXTINF:-1 tvg-id="AXN" group-title="De Paga", AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
 
-
 #EXTINF:-1 tvg-id="Sony Movies" group-title="De Paga", Sony Movies
 https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
@@ -268,7 +264,7 @@ https://d1hcj42s7cseno.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="Sony Action" group-title="De Paga", Sony Action
 https://de9yx47crxs6l.cloudfront.net:443/playlist_7.m3u8
 
-#EXTINF:-1 tvg-id="Sony ComedyTV" group-title="De Paga", Sony ComedyTV
+#EXTINF:-1 tvg-id="Sony Comedy" group-title="De Paga", Sony ComedyTV
 https://d1fhd07bw4d2d6.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sony Threllers" group-title="De Paga", Sony Thrillers
@@ -279,10 +275,6 @@ http://galaxypro.online:8080/selvin2020/tango2020/94132
 
 #EXTINF:-1 tvg-id="Space México" group-title="De Paga", Space HD
 http://galaxypro.online:8080/selvin2020/tango2020/94127
-
-
-
-
 
 #EXTINF:-1 tvg-id="Multicinema" group-title="De Paga", Multicinema
 
@@ -298,8 +290,6 @@ https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
 
 
 #EXTINF:-1 tvg-id="UniversalTV.mx" group-title="De Paga", Universal Channel
-
-
 
 
 #EXTINF:-1 tvg-id=" " group-title="De Paga",SYFY
@@ -341,8 +331,6 @@ https://s5.mexside.net:1936/france24/france24/playlist.m3u8
 #EXTINF:-1 tvg-id"CNN en Español" group-title="NOTICIAS", CNN en Español 
 https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 
-
-
 #EXTINF:-1  tvg-id="US2200005Y2"  group-title="Internacional" , Canal Vix
 https://jmp2.uk/stvp-US2200005Y2
 
@@ -361,11 +349,10 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 #EXTINF:-1 tvg-id="Telemundo Puerto Rico" group-title="Internacional", Punto 2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
-
 #EXTINF:-1 tvg-id="Univision" group-title="Internacional",  Univision
 http://206.212.244.71:8080/Abxc5k/363887/108248
 
-#EXTINF:-1 tvg-id="Univision" group-title="Internacional",  Univision 2
+#EXTINF:-1 tvg-id="Univision" group-title="Internacional",  Univision 
 http://e7077d31.ottrast.com/iptv/NH36DFEWS8W4U8/1099/index.m3u8
 
 #EXTINF:-1 tvg-id="Unimas" group-title="Internacional", Unimas
@@ -475,7 +462,7 @@ https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 #EXTINF:-1 tvg-id="Ciudad Magacine" group-title="Internacional", Ciudad Magazine AR
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
-#EXTINF:-1 tvg-id="VTV Honduras Vica TV" group-title="ENTRETENIMIENTO", VTV HN
+#EXTINF:-1 tvg-id="VTV Honduras Vica TV" group-title="Internacional", VTV HN
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 
 
@@ -573,7 +560,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol
 #EXTINF:-1 tvg-id="BeIn Sports" group-title="Sports", BeIn Sports
 http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
-
 #EXTINF:-1 tvg-id="Claro Sports" group-title="Sports", Claro Sports
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
@@ -616,7 +602,7 @@ http://181.78.82.6:46090/play/a00v
 http://38.180.133.31:8000/play/a0wd
 
 #EXTINF:-1 tvg-id="Fox Sports Premium Cono Norte" group-title="Sports", Fox Sports Premium HD
-
+https://live20.bozztv.com/akamaissh101/ssh101/foxsports/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fox Sports Cono Norte" group-title="Sports", Fox Sport HD
 
