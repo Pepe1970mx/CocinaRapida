@@ -434,6 +434,7 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="13 de Guatemala" group-title="Internacional", Canal 13 - Trecevisión
+http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/223643
 
 #EXTINF:-1 tvg-id="Canal 13 Esquipula" group-title="Internacional", Canal 13 Esquipulas
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
