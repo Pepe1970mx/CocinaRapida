@@ -581,6 +581,8 @@ https://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="FS2" group-title="Sports", Fox Sport 2
 http://23.237.104.106:8080/USA_FS2/index.m3u8
 
+#EXTINF:-1 tvg-id="CBD SPORTS" group-title="Sports", CBS Sports
+https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
 http://190.92.10.66:4000/play/a003/index.m3u8
