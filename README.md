@@ -716,6 +716,9 @@ els HD
 #EXTINF:-1 tvg-id="5f98471110cca20007d39f76" group-title="Retro Music", MTV Unplugged
 https://bit.ly/3K2CDBb?profile=corgol.m3u8
 
+#EXTINF:-1 tvg-id=" " group-title="Retro Music", Retro Music Television
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="6490254fd2c47c00083a5743" group-title="Retro Music", Now 80s
 https://lightning-now80s-xiaomi.amagi.tv/playlist.m3u8
 
@@ -735,8 +738,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/19148/index.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Retro Music", MTV U
 http://823791426715912170.ofgd919.xyz:80/play/vi120237/kpmkHcrCj@/912170.ts
 
-#EXTINF:-1 tvg-id=" " group-title="Retro Music", Retro Music TV
-http://881166186915276235.ofd0711.xyz:80/play/JC8L3TCSVE/GJrYUvREHSY/276235.ts
+
 
 #EXTINF:-1 tvg-id=" " group-title="Retro Music", BET Jams
 http://823791426715915613.ofgd919.xyz:80/play/vi120237/kpmkHcrCj@/915613.ts
