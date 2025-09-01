@@ -11,7 +11,7 @@ https://ch1-tva.duin.dev/hls/stream.m3u8
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 
-#EXTINF:-1 tvg-id="646ccd3681844c000974d6f4" group-title="NACIONAL", ADN 40 
+#EXTINF:-1 tvg-id="ADN 40.mx" group-title="NACIONAL", ADN 40 
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-id="Las Estrellas" group-title="NACIONAL", Las Estrellas
@@ -66,7 +66,7 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="La Voz Grupera" group-title="NACIONAL", La Voz Grupera
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
 
-#EXTINF:-1 tvg-id="Azteca 7  México" group-title="NACIONAL", Azteca 7
+#EXTINF:-1 tvg-id="Azteca 7 Mexico" group-title="NACIONAL", Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 tvg-id="a+" group-title="NACIONAL", A Mas
@@ -113,7 +113,7 @@ https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 EXTINF:-1 tvg-id="28 de México" group-title="NACIONAL" , CANAL 28 Nuevo Leon
 https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MX NUESTRO CINE" group-title="NACIONAL" , MX Nuestro Cine
+#EXTINF:-1 tvg-id="MX NUESTRO CINE.mx" group-title="NACIONAL" , MX Nuestro Cine
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV UNAM" group-title="NACIONAL" , TV UNAM
@@ -370,7 +370,7 @@ http://206.212.244.71:8080/Abxc5k/363887/58770
 #EXTINF:-1 tvg-id="5cf0622da00ca1e2f6fac712" group-title="Internacional", Estrella TV
 https://amg00567-estrellamedia-estrellatv-lgus-1g48u.amagi.tv/playlist/amg00567-estrellamedia-estrellatv-lgus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canela TV" group-title="Internacional", Canela TV
+#EXTINF:-1 tvg-id="Canela.TV" group-title="Internacional", Canela TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatv-lgmx/playlist.m3u8
 
 
