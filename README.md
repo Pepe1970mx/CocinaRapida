@@ -270,6 +270,14 @@ https://d1fhd07bw4d2d6.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="Sony Threllers" group-title="De Paga", Sony Thrillers
 https://d1wuti7vf6eqt9.cloudfront.net/playlist.m3u8
 
+#EXTINF:-1 tvg-id="6479ff1c17f5e10008ad2797" group-title="De Paga", Pluto TV Series de Acción 
+https://stitcher.pluto.tv/stitch/hls/channel/6479ff1c17f5e10008ad2797/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4d2ea70d-8794-11f0-8f1d-72e01dbf2a46
+
+#EXTINF:-1 tvg-id="65662f8a2c46f300088a84cc" group-title="De Paga", Pluto TV Series de Sci-Fi
+https://stitcher.pluto.tv/stitch/hls/channel/65662f8a2c46f300088a84cc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4d2ea70d-8794-11f0-8f1d-72e01dbf2a46
+
+
+
 #EXTINF:-1 tvg-id="Warner Channel México" group-title="De Paga", Warner 
 http://galaxypro.online:8080/selvin2020/tango2020/94132
 
