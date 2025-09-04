@@ -602,9 +602,8 @@ http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/315234
 #EXTINF:-1 tvg-id="ESPN 2 México" group-title="Sports", Espn 2 HD
 http://38.180.133.31:8000/play/a0w4
 
-#EXTINF:-1 tvg-id="ESPN 3 Norte" group-title="Sports", Espn 3 HD
-http://181.78.82.6:46090/play/a00v
-
+#EXTINF:-1 tvg-id="ESPN 2 Norte" group-title="Sports", Espn 2 HD
+http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/315234
 
 #EXTINF:-1 tvg-id="ESPN 3 Sur " group-title="Sports", Espn 3 HD
 http://181.78.82.6:46090/play/a00v
