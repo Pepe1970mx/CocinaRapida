@@ -594,7 +594,7 @@ http://23.237.104.106:8080/USA_FS2/index.m3u8
 https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
-http://190.92.10.66:4000/play/a003/index.m3u8
+http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/111534
 
 #EXTINF:-1 tvg-id="ESPN Norte" group-title="Sports", Espn HD
 http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/315234
