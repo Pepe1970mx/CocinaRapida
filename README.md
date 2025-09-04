@@ -597,7 +597,7 @@ https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 http://190.92.10.66:4000/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Norte" group-title="Sports", Espn HD
-http://galaxypro.online:8080/selvin2020/tango2020/704352
+http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/315234
 
 #EXTINF:-1 tvg-id="ESPN 2 México" group-title="Sports", Espn 2 HD
 http://38.180.133.31:8000/play/a0w4
