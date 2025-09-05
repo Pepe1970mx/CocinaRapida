@@ -624,12 +624,14 @@ https://live20.bozztv.com/akamaissh101/ssh101/foxsports/playlist.m3u8
 https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="TUDN Mexy" group-title="Sports", TUDN MX
-
+http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/306297
 
 #EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN USA
+http://nocable.cc:8080/k4Svp2/645504/11885
+
 http://galaxypro.online:8080/selvin2020/tango2020/685976
 
-http://nocable.cc:8080/k4Svp2/645504/11885
+
 
 #EXTINF:-1 tvg-id="TVC Deportes" group-title="Sports", TVC Deportes
 
