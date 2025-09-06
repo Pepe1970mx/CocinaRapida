@@ -593,8 +593,12 @@ https://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="FS2" group-title="Sports", Fox Sport 2
 http://23.237.104.106:8080/USA_FS2/index.m3u8
 
-#EXTINF:-1 tvg-id="CBD SPORTS" group-title="Sports", CBS Sports
+#EXTINF:-1 tvg-id="CBS Sports Network" group-title="Sports", CBS Sports
 https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="Golazo Network" group-title="Sports", Golazo Network
+https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1489fe1a-8afc-11f0-a08f-d2161128e34e
+
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
 http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/111534
