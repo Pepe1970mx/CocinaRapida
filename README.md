@@ -385,6 +385,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatv-lgmx/
 #EXTINF:-1 tvg-id="TCS+" group-title="Internacional" , TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8
 
+#EXTINF:-1 tvg-id="Latina TV" group-title="Internacional" , Latina TV
+https://jireh-6-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?dpssid=b2170327254268bc24a5f249f&sid=ba5t1l1xb2194594206468bc271a06b9e&ndvc=0
+
 #EXTINF:-1 tvg-id="Telecinco" group-title="Internacional", Telecinco
 http://185.189.225.150:85/TeleCincoHD/index.m3u8
 
