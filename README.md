@@ -174,17 +174,21 @@ https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Pantera Rosa te te" group-title="24/7" , Pantera Rosa
 https://linear-1069.frequency.stream/mt/plex/1069/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="24/7" , Lonney Tunes
+#EXTINF:-1 tvg-id="La Familia Adams" group-title="24/7" , La familia Adams
+http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/105638
 
 
-#EXTINF:-1 tvg-id="" group-title="24/7" , Charlie
-https://amogonetworx-charlie-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Familia Mounsters" group-title="24/7" , Familia Mounsters
+http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/96780
+
+#EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="24/7" , Los Tres Chiflados
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
 
 #EXTINF:-1 tvg-id="TOONCAST" group-title="RETRO" , Tooncast
 http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/132704
 
-#EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="RETRO" , Los Tres Chiflados
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
 
 #EXTINF:-1 tvg-id="Canal Punto 99" group-title="RETRO", Punto 99
 
