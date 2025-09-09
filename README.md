@@ -265,7 +265,7 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ES300003D4" group-title="De Paga", Sony One Exitos
 https://d1hcj42s7cseno.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sony Action" group-title="De Paga", Sony Action
+#EXTINF:-1 tvg-id="ES300006QJ" group-title="De Paga", Sony One Exitos
 https://de9yx47crxs6l.cloudfront.net:443/playlist_7.m3u8
 
 #EXTINF:-1 tvg-id="ES300003D4" group-title="De Paga", Sony One Comedy
