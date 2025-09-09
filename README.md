@@ -268,10 +268,10 @@ https://d1hcj42s7cseno.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="Sony Action" group-title="De Paga", Sony Action
 https://de9yx47crxs6l.cloudfront.net:443/playlist_7.m3u8
 
-#EXTINF:-1 tvg-id="Sony Comedy" group-title="De Paga", Sony ComedyTV
+#EXTINF:-1 tvg-id="ES300003D4" group-title="De Paga", Sony One Comedy
 https://d1fhd07bw4d2d6.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ES300002Y6" group-title="De Paga", Sony Series Thrillers
+#EXTINF:-1 tvg-id="ES300002Y6" group-title="De Paga", Sony One Series Thrillers
 https://d1wuti7vf6eqt9.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6479ff1c17f5e10008ad2797" group-title="De Paga", Pluto TV Series de Acción 
