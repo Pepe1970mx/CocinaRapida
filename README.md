@@ -615,6 +615,10 @@ http://nocable.cc:8080/k4Svp2/645504/120901
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
 http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/111534
 
+
+EXTINF:-1 tvg-id="ESPN .mx" group-title="Sports", Espn 
+http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9523
+
 #EXTINF:-1 tvg-id="ESPN 2.mx" group-title="Sports", Espn 2
 http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/315234
 
