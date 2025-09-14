@@ -597,13 +597,13 @@ https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u
 
 
 #EXTINF:-1 tvg-id="FS1" group-title="Sports", Fox Sport 1
-https://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8
+http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/10814
 
 #EXTINF:-1 tvg-id="FS2" group-title="Sports", Fox Sport 2
 http://23.237.104.106:8080/USA_FS2/index.m3u8
 
 #EXTINF:-1 tvg-id="CBS Sports Network" group-title="Sports", CBS Sports
-https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
 
 #EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1489fe1a-8afc-11f0-a08f-d2161128e34e
