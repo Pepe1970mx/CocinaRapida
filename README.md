@@ -587,7 +587,7 @@ https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 #EXTINF:-1 tvg-id="Fox Sport en español" group-title="Sports", Fox Sports en español 
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
-#EXTINF:-1 tvg-id="id="63d0269d60bc8f000890facc" group-title="Sports", Fox Deportes Pluto
+#EXTINF:-1 tvg-id="63d0269d60bc8f000890facc" group-title="Sports", Fox Deportes Pluto
 https://stitcher.pluto.tv/stitch/hls/channel/63d0269d60bc8f000890facc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7e86f426-259d-11f0-8032-12b21974fd42
 
 #EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" group-title="Sports", Azteca Deportes Premium
@@ -605,7 +605,7 @@ http://23.237.104.106:8080/USA_FS2/index.m3u8
 #EXTINF:-1 tvg-id="CBS Sports Network" group-title="Sports", CBS Sports
 https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="Golazo Network" group-title="Sports", Golazo Network
+#EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1489fe1a-8afc-11f0-a08f-d2161128e34e
 
 #EXTINF:-1 tvg-id="MLB" group-title="Sports", MLB
@@ -615,19 +615,19 @@ http://nocable.cc:8080/k4Svp2/645504/120901
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
 http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/111534
 
-#EXTINF:-1 tvg-id="ESPN Norte" group-title="Sports", Espn HD
+#EXTINF:-1 tvg-id="ESPN 2.mx" group-title="Sports", Espn 2
 http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/315234
 
 #EXTINF:-1 tvg-id="ESPN 2 México" group-title="Sports", Espn 2 HD
 http://38.180.133.31:8000/play/a0w4
 
-#EXTINF:-1 tvg-id="ESPN 2 Norte" group-title="Sports", Espn 2 HD
+#EXTINF:-1 tvg-id="ESPN 3.mx" group-title="Sports", Espn 2 HD
 http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/315234
 
 #EXTINF:-1 tvg-id="ESPN 3 Sur " group-title="Sports", Espn 3 HD
 http://181.78.82.6:46090/play/a00v
 
-#EXTINF:-1 tvg-id="ESPN 4 México" group-title="Sports", Espn 4 HD
+#EXTINF:-1 tvg-id="ESPN 4.mx" group-title="Sports", Espn 4 HD
 http://38.180.133.31:8000/play/a0wd
 
 #EXTINF:-1 tvg-id="Fox Sports Premium Cono Norte" group-title="Sports", Fox Sports Premium HD
@@ -642,7 +642,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/foxsports/playlist.m3u8
 #EXTINF:-1 tvg-id="FutGo" group-title="Sports", FutGo
 https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="TUDN Mexy" group-title="Sports", TUDN MX
+#EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
 http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/306297
 
 #EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN USA
