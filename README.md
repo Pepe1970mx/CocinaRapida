@@ -1,7 +1,7 @@
 #EXTM3U 
 x-tvg-url=" "
 
-#EXTINF:-1 tvg-id="Azteca Uno" group-title="NACIONAL", Azteca Uno
+#EXTINF:-1 tvg-id="AZTECA UNO.mx" group-title="NACIONAL", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 tvg-id="Azteca Guatemala" group-title="NACIONAL", Azteca Guatemala 
@@ -14,7 +14,7 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="ADN 40.mx" group-title="NACIONAL", ADN 40 
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 tvg-id="Las Estrellas" group-title="NACIONAL", Las Estrellas
+#EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS.mx" group-title="NACIONAL", Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="Imagen TV HD" group-title="NACIONAL", Imagen TV
@@ -29,7 +29,7 @@ EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
 #EXTINF:-1 tvg-id="Foro TV" group-title="NACIONAL", Foro TV 4.1
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
 
-#EXTINF:-1 tvg-id="5 de México" group-title="NACIONAL", Canal 5
+#EXTINF:-1 tvg-id="CANAL 5.mx" group-title="NACIONAL", Canal 5
 http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/315082
 
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 MX
@@ -66,7 +66,7 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="La Voz Grupera" group-title="NACIONAL", La Voz Grupera
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
 
-#EXTINF:-1 tvg-id="Azteca 7 Mexico" group-title="NACIONAL", Azteca 7
+#EXTINF:-1 tvg-id="AZTECA 7.mx" group-title="NACIONAL", Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 tvg-id="a+" group-title="NACIONAL", A Mas
@@ -88,7 +88,7 @@ https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 #EXTINF:-1 tvg-id="TeleFormula" group-title="NACIONAL" , Teleformula
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 
-#EXTINF:-1 tvg-id="11 de México" group-title="NACIONAL", Canal Once
+#EXTINF:-1 tvg-id="CANAL 11.mx" group-title="NACIONAL", Canal Once
 https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b2098304.m3u8
 
 #EXTINF:-1 tvg-id="Once Niños" group-title="NACIONAL", Once Niños
@@ -98,7 +98,7 @@ https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b2098304.m
 https://stream-207963.castr.net/65313d270e749722b6474684/live_185f5f10888711ee83e2f144889e3879/index.fmp4.m3u8
 
 
-#EXTINF:-1 tvg-id="14 de México" group-title="NACIONAL" , Canal 14 
+#EXTINF:-1 tvg-id="CANAL CATORCE.mx" group-title="NACIONAL" , Canal 14 
 https://mexside-stream.b-cdn.net/canal14/canal14/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV UNAM" group-title="NACIONAL" , TV UNAM
@@ -107,7 +107,7 @@ https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="Canal 21 de México" group-title="NACIONAL" , Capital 21
 https://s5.mexside.net:1936/respaldo/respaldo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="22 de México" group-title="NACIONAL" , CANAL 22 
+#EXTINF:-1 tvg-id="CANAL 22 CONACULTA.mx" group-title="NACIONAL" , CANAL 22 
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
 EXTINF:-1 tvg-id="28 de México" group-title="NACIONAL" , CANAL 28 Nuevo Leon
@@ -119,7 +119,7 @@ https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TV UNAM" group-title="NACIONAL" , TV UNAM
 
 
-#EXTINF:-1 tvg-id="Canal del Congreso" group-title="NACIONAL" , Canal del Congreso
+#EXTINF:-1 tvg-id="CANAL DEL CONGRESO.mx" group-title="NACIONAL" , Canal del Congreso
 https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="I503.36479.schedulesdirect.org" group-title="NACIONAL", Radio y Television de Veracruz (RTV) 
@@ -330,7 +330,7 @@ http://vegafibratv.com:8085/AMC/index.m3u8
 https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
 
 
-#EXTINF:-1 tvg-id="El Financiero Bloomberg" group-title="NOTICIAS", El Financiero - Bloomberg TV
+#EXTINF:-1 tvg-id="EL FINANCIERO.mx" group-title="NOTICIAS", El Financiero - Bloomberg TV
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
 
 #EXTINF:-1 tvg-id="DW Latinoamérica" group-title="NOTICIAS", DW Español 
@@ -345,7 +345,7 @@ https://jmp2.uk/PlutoTV/619d59b7cbef25000728221c-alt.m3u8
 #EXTINF:-1 tvg-id="France 24 Español" group-title="NOTICIAS", France Español 
 https://s5.mexside.net:1936/france24/france24/playlist.m3u8
 
-#EXTINF:-1 tvg-id"CNN en Español" group-title="NOTICIAS", CNN en Español 
+#EXTINF:-1 tvg-id"CNN EN ESPAÃOL.mx" group-title="NOTICIAS", CNN en Español 
 https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 
 #EXTINF:-1  tvg-id="US2200005Y2"  group-title="Internacional" , Canal Vix
@@ -581,7 +581,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol
 #EXTINF:-1 tvg-id="BeIn Sports" group-title="Sports", BeIn Sports
 http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
-#EXTINF:-1 tvg-id="Claro Sports" group-title="Sports", Claro Sports
+#EXTINF:-1 tvg-id="CLAROSPORTS.mx" group-title="Sports", Claro Sports
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
 #EXTINF:-1 tvg-id="Fox Sport en español" group-title="Sports", Fox Sports en español 
