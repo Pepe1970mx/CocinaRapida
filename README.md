@@ -162,14 +162,14 @@ http://galaxypro.online:8080/selvin2020/tango2020/103867
 https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Los Simpson" group-title="24/7" , Los Simpson 24/7
-
+#EXTINF:-1 tvg-id="" group-title="24/7" , Los Años Maravillosos
+http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/96782
 
 #EXTINF:-1 tvg-id="El Chavo" group-title="24/7" , El Chavo del 8
-
+http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/94852
 
 #EXTINF:-1 tvg-id="Alf" group-title="24/7" , Alf
-
+http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/96690
 
 #EXTINF:-1 tvg-id="Pantera Rosa te te" group-title="24/7" , Pantera Rosa
 https://linear-1069.frequency.stream/mt/plex/1069/hls/master/playlist.m3u8
