@@ -185,10 +185,8 @@ http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/96780
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 
-#EXTINF:-1 tvg-id="TOONCAST" group-title="RETRO" , Tooncast
+#EXTINF:-1 tvg-id="Tooncast" group-title="RETRO" , Tooncast
 http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/132704
-
-
 
 #EXTINF:-1 tvg-id="Canal Punto 99" group-title="RETRO", Punto 99
 
