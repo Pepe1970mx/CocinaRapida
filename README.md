@@ -422,7 +422,7 @@ https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="4 de El Salvador" group-title="Internacional" , Canal 4 SV
 http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/50474
 
-#EXTINF:-1 tvg-id="Telemicro 5" group-title="Internacional", telemicro 5
+#EXTINF:-1 tvg-id="5 de Republica Dominicana Telemicro" group-title="Internacional", telemicro 5
 https://live4.telemicro.com.do/live/55/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5 El Líder Honduras" group-title="Internacional", Canal 5 HN
