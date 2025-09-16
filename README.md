@@ -255,8 +255,8 @@ http://galaxypro.online:8080/selvin2020/tango2020/94130
 #EXTINF:-1 tvg-id="AXN" group-title="De Paga", AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
 
-#EXTINF:-1 tvg-id="Sony Movies" group-title="De Paga", Sony Movies
-https://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+#EXTINF:-1 tvg-id="Sony.mx" group-title="De Paga", Sony Movies
+https://fl4.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="Cine Sony" group-title="De Paga", Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
@@ -598,7 +598,7 @@ http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/10814
 http://23.237.104.106:8080/USA_FS2/index.m3u8
 
 #EXTINF:-1 tvg-id="CBS Sports Network" group-title="Sports", CBS Sports
-
+https://fl4.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1489fe1a-8afc-11f0-a08f-d2161128e34e
