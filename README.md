@@ -149,17 +149,19 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
 
 #EXTINF:-1 tvg-id="USBD2700004ME" group-title="Drama" , Como Dice el Dicho 
-https://jmp2.uk/sam-USBD2700004ME.m3u8
+https://jmp2.uk/stvp-USBD2700004ME
 
 #EXTINF:-1 tvg-id="USBC2100010OS" group-title="Comedia" , ViX Jajaja 
-https://jmp2.uk/sam-USBC2100010OS.m3u8
+https://jmp2.uk/stvp-USBC2100010OS
+
+https://jmp2.uk/stvp-
+
 
 #EXTINF:-1 tvg-id="Distrito Comedia" group-title="Comedia" , Distrito Comedia
 http://galaxypro.online:8080/selvin2020/tango2020/103867
 
 #EXTINF:-1 tvg-id="Sony Comedia" group-title="Comedia" , Sony Comedia
 https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="" group-title="24/7" , Los Años Maravillosos
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/96782
@@ -385,9 +387,8 @@ http://206.212.244.71:8080/Abxc5k/363887/58770
 #EXTINF:-1 tvg-id="5cf0622da00ca1e2f6fac712" group-title="Internacional", Estrella TV
 https://amg00567-estrellamedia-estrellatv-lgus-1g48u.amagi.tv/playlist/amg00567-estrellamedia-estrellatv-lgus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canela.TV" group-title="Internacional", Canela TV
+#EXTINF:-1 tvg-id="USBC39000080S" group-title="Internacional", Canela TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatv-lgmx/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="TCS+" group-title="Internacional" , TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8
@@ -569,11 +570,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u
 #EXTINF:-1 tvg-id="M Estrenos" group-title="España", M Estrenos
 
 
-
-
-
-
-#EXTINF:-1 tvg-id="BeIn Extra en Español" group-title="Sports", BeIn Extra en Español
+#EXTINF:-1 tvg-id="US2700004DX" group-title="Sports", BeIn Extra en Español
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-tcl/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BeIn Sports" group-title="Sports", BeIn Sports
