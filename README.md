@@ -7,9 +7,8 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="Azteca Guatemala" group-title="NACIONAL", Azteca Guatemala 
 https://ch1-tva.duin.dev/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="Azteca Internacional" group-title="NACIONAL", Azteca Internacional 
+#EXTINF:-1 tvg-id="ESBD1300004IG" group-title="NACIONAL", Azteca Internacional 
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-
 
 #EXTINF:-1 tvg-id="ADN 40.mx" group-title="NACIONAL", ADN 40 
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
@@ -266,7 +265,7 @@ https://d1hcj42s7cseno.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="ES300006QJ" group-title="De Paga", Sony One Hits Acción 
 https://de9yx47crxs6l.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="De Paga", Sony One Hits Comedia
+#EXTINF:-1 tvg-id="ES30000145" group-title="De Paga", Sony One Hits Comedia
 https://d3m8rnla2v9m5d.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ES300003D4" group-title="De Paga", Sony One Series Comedia
