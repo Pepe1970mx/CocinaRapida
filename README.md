@@ -215,16 +215,13 @@ https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleclasica" group-title="RETRO" , Teleclasica 
 https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telered" group-title="RETRO" , Telered
+#EXTINF:-1 tvg-id="TeleRed" group-title="RETRO" , Telered
 https://k20.usastreams.com:8081/telered/index.m3u8
 
-#EXTINF:-1 tvg-id="Toonami TV" group-title="RETRO" , Toonami TV
-https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Tv Retro X TV" group-title="RETRO", Retro X TV
+#EXTINF:-1 tvg-id="RetroX TV" group-title="RETRO", Retro X TV
 https://tvservices.fullhd-streaming.com:3953/live/retroxtvlive.m3u8
 
-#EXTINF:-1 tvg-id="Tv Retro Big TV" group-title="RETRO", Retro Big TV
+#EXTINF:-1 tvg-id="Big TV" group-title="RETRO", Retro Big TV
 https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Mi TV Television Clasica" group-title="RETRO", Mi TV televisión Clasica
