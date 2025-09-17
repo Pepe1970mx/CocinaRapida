@@ -234,10 +234,10 @@ https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 
-#EXTINF:-1 tvg-id="60142258a54aeb0007751c15" group-title="RETRO", Pluto Retro Cartoons
+#EXTINF:-1 tvg-id="5de802659167b10009e7deba" group-title="RETRO", Pluto Retro Cartoons
 https://stitcher.pluto.tv/stitch/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7961c49f-259d-11f0-870f-2e69ca19bd0b
 
-#EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="RETRO", Pluto Nick Clasico
+#EXTINF:-1 tvg-id="6824cda00101510f9eeaa011" group-title="RETRO", Pluto Nick Clasico
 https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
