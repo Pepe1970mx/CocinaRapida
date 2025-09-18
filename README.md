@@ -608,26 +608,29 @@ http://nocable.cc:8080/k4Svp2/645504/120901
 http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/111534
 
 
-EXTINF:-1 tvg-id="ESPN .mx" group-title="Sports", Espn 
+#EXTINF:-1 tvg-id="ESPN.mx" group-title="Sports", Espn 
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9523
 
 #EXTINF:-1 tvg-id="ESPN 2.mx" group-title="Sports", Espn 2
 http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/315234
 
-#EXTINF:-1 tvg-id="ESPN 2 México" group-title="Sports", Espn 2 HD
-http://38.180.133.31:8000/play/a0w4
+#EXTINF:-1 tvg-id="ESPN 2.mx" group-title="Sports", Espn 2 
+http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9530
 
-#EXTINF:-1 tvg-id="ESPN 3.mx" group-title="Sports", Espn 2 HD
+#EXTINF:-1 tvg-id="ESPN 3.mx" group-title="Sports", Espn 3 HD
 http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/315234
 
-#EXTINF:-1 tvg-id="ESPN 3 Sur " group-title="Sports", Espn 3 HD
+#EXTINF:-1 tvg-id="ESPN 3 Sur" group-title="Sports", Espn 3 HD
 http://181.78.82.6:46090/play/a00v
+
+#EXTINF:-1 tvg-id="ESPN 3 " group-title="Sports", Espn 3 HD
+http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9535
 
 #EXTINF:-1 tvg-id="ESPN 4.mx" group-title="Sports", Espn 4 HD
 http://38.180.133.31:8000/play/a0wd
 
 #EXTINF:-1 tvg-id="Fox Sports Premium Cono Norte" group-title="Sports", Fox Sports Premium HD
-https://live20.bozztv.com/akamaissh101/ssh101/foxsports/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Fox Sports Cono Norte" group-title="Sports", Fox Sport HD
 
@@ -644,9 +647,6 @@ http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9605
 #EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN USA
 http://nocable.cc:8080/k4Svp2/645504/11885
 
-http://galaxypro.online:8080/selvin2020/tango2020/685976
-
-
 
 #EXTINF:-1 tvg-id="TVC Deportes" group-title="Sports", TVC Deportes
 
@@ -659,7 +659,7 @@ http://galaxypro.online:8080/selvin2020/tango2020/685976
 https://live.relentlessinnovations.net:1936/futbolnetwork/futbolnetwork/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Fubo Sport Network 
-https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fubo.m3u8
+
 
 #EXTINF:-1 tvg-id="63f7e3f9dff38e00082a57af" group-title="Sports", ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
@@ -668,7 +668,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 
 #EXTINF:-1 tvg-id="WAPA deportes" group-title="Sports", Wapa Deportes
-http://defaultgen.com:3050/brandy.r.lipscomb@gmail.com/37cup8kNjp/611459
+
 
 
 
