@@ -16,7 +16,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS.mx" group-title="NACIONAL", Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="64e35aff6b1fdb0008ea8441" group-title="NACIONAL", Imagen TV
+#EXTINF:-1 tvg-id="Imagen TV" group-title="NACIONAL", Imagen TV
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 
 #EXTINF:-1 tvg-id="CGTN En Español" group-title="NACIONAL", CGTN En Español
