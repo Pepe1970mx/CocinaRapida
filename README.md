@@ -53,7 +53,7 @@ https://streamer1.nexgen.bz/TELEHIT/index.m3u8
 #EXTINF:-1 tvg-id="HTV" group-title="NACIONAL", HTV
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8
 
-#EXTINF:-1 tvg-id="EXATV" group-title="NACIONAL", EXA TV
+#EXTINF:-1 tvg-id="Exa TV" group-title="NACIONAL", EXA TV
 https://mvs.daioncdn.net:443/exatv/exatv_1080p.m3u8?&sid=76arxwhpzqio&app=188fff62-593e-43fb-8604-34d30d693c1e&ce=2
 
 #EXTINF:-1 tvg-id="NickMusic" group-title="NACIONAL", Nick Music
@@ -74,7 +74,7 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-id="a+ Guatemala" group-title="NACIONAL", A Mas Guatemala 
 https://ch2-tva.duin.dev/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="Popcorn central" group-title="NACIONAL",  Popcorn central
+#EXTINF:-1 tvg-id="POPCORN.mx" group-title="NACIONAL",  Popcorn central
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 
 
