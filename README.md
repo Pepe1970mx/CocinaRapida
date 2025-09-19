@@ -570,7 +570,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u
 #EXTINF:-1 tvg-id="US2700004DX" group-title="Sports", BeIn Extra en Español
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-tcl/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BeIn Sports" group-title="Sports", BeIn Sports
+#EXTINF:-1 tvg-id="BeIn Sports" group-title="Sports", BeIn Sports FR
+http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/2499/index.m3u8
+
 http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="CLAROSPORTS.mx" group-title="Sports", Claro Sports
