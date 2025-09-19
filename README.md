@@ -617,20 +617,19 @@ http://nocable.cc:8080/k4Svp2/645504/120901
 
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
-http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/111534
 
 
 #EXTINF:-1 tvg-id="ESPN.mx" group-title="Sports", Espn 
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9523
 
 #EXTINF:-1 tvg-id="ESPN 2.mx" group-title="Sports", Espn 2
-http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/315234
+
 
 #EXTINF:-1 tvg-id="ESPN 2.mx" group-title="Sports", Espn 2 
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9530
 
 #EXTINF:-1 tvg-id="ESPN 3.mx" group-title="Sports", Espn 3 HD
-http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/315234
+
 
 #EXTINF:-1 tvg-id="ESPN 3 Sur" group-title="Sports", Espn 3 HD
 http://181.78.82.6:46090/play/a00v
@@ -641,6 +640,9 @@ http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9535
 #EXTINF:-1 tvg-id="ESPN 4.mx" group-title="Sports", Espn 4 HD
 http://38.180.133.31:8000/play/a0wd
 
+#EXTINF:-1 tvg-id="ESPN 5" group-title="Sports", Espn 5
+http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/19166/index.m3u8
+
 #EXTINF:-1 tvg-id="Fox Sports Premium Cono Norte" group-title="Sports", Fox Sports Premium HD
 
 
@@ -650,8 +652,6 @@ http://38.180.133.31:8000/play/a0wd
 #EXTINF:-1 tvg-id="Fox Sports 2 Cono Norte" group-title="Sports", Fox sport 2 HD
 
 
-#EXTINF:-1 tvg-id="FutGo" group-title="Sports", FutGo
-https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9605
