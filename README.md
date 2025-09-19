@@ -594,8 +594,18 @@ http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/10814
 #EXTINF:-1 tvg-id="FS2" group-title="Sports", Fox Sport 2
 http://23.237.104.106:8080/USA_FS2/index.m3u8
 
+#EXTINF:-1 tvg-id="TNT Sports 1" group-title="Sports", TNT Sport 1 UK
+http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/2505/index.m3u8
+
 #EXTINF:-1 tvg-id="CBS Sports Network" group-title="Sports", CBS Sports
+http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/7324/index.m3u8
+
 https://fl4.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="MLB" group-title="Sports", Sky Sports Main 
+http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/7337/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1489fe1a-8afc-11f0-a08f-d2161128e34e
