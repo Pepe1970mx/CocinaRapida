@@ -74,7 +74,7 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-id="a+ Guatemala" group-title="NACIONAL", A Mas Guatemala 
 https://ch2-tva.duin.dev/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="POPCORN.mx" group-title="NACIONAL",  Popcorn central
+#EXTINF:-1 tvg-id="POPCORN.mx" group-title="NACIONAL",  Popcorn
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 
 
@@ -84,7 +84,7 @@ https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 #EXTINF:-1 tvg-id="El Heraldo TV" group-title="NACIONAL" , Heraldo TV
 
 
-#EXTINF:-1 tvg-id="TeleFormula" group-title="NACIONAL" , Teleformula
+#EXTINF:-1 tvg-id="TELEFORMULA.mx" group-title="NACIONAL" , Teleformula
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 
 #EXTINF:-1 tvg-id="CANAL 11.mx" group-title="NACIONAL", Canal Once
