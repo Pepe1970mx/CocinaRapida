@@ -351,11 +351,16 @@ https://jmp2.uk/stvp-US2200005Y2
 #EXTINF:-1 tvg-id="Telemundo Satellite Feed" group-title="Internacional", Telemundo 
 http://nocable.cc:8080/k4Svp2/645504/120691
 
-#EXTINF:-1 tvg-id="Telemundo Satellite Feed" group-title="Internacional", Telemundo 
+#EXTINF:-1 tvg-id="Telemundo Satellite Feed" group-title="Internacional", Telemundo 1
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
+
+EXTINF:-1 tvg-id="Telemundo Satellite Feed" group-title="Internacional", Telemundo 2
+http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/1080/index.m3u8
 
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="Punto 2 Puerto Rico" group-title="Internacional", Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
@@ -578,8 +583,8 @@ http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="CLAROSPORTS.mx" group-title="Sports", Claro Sports
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
-#EXTINF:-1 tvg-id="Fox Sport en español" group-title="Sports", Fox Sports en español 
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+#EXTINF:-1 tvg-id="Fox Sport en español" group-title="Sports", Fox Deportes
+http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/30075/index.m3u8
 
 #EXTINF:-1 tvg-id="63d0269d60bc8f000890facc" group-title="Sports", Fox Deportes Pluto
 https://stitcher.pluto.tv/stitch/hls/channel/63d0269d60bc8f000890facc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7e86f426-259d-11f0-8032-12b21974fd42
@@ -617,7 +622,7 @@ http://nocable.cc:8080/k4Svp2/645504/120901
 
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
-
+http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/30063/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.mx" group-title="Sports", Espn 
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9523
