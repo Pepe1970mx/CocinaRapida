@@ -351,10 +351,7 @@ https://jmp2.uk/stvp-US2200005Y2
 #EXTINF:-1 tvg-id="Telemundo Satellite Feed" group-title="Internacional", Telemundo 
 http://nocable.cc:8080/k4Svp2/645504/120691
 
-#EXTINF:-1 tvg-id="Telemundo Satellite Feed" group-title="Internacional", Telemundo 1
-http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Telemundo Satellite Feed" group-title="Internacional", Telemundo 2
+#EXTINF:-1 tvg-id="Telemundo" group-title="Internacional", Telemundo 
 http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/1080/index.m3u8
 
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
@@ -374,8 +371,14 @@ http://206.212.244.71:8080/Abxc5k/363887/108248
 #EXTINF:-1 tvg-id="Univision" group-title="Internacional",  Univision 
 http://e7077d31.ottrast.com/iptv/NH36DFEWS8W4U8/1099/index.m3u8
 
+#EXTINF:-1 tvg-id="Univision" group-title="Internacional",  Univision 
+http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/1099/index.m3u8
+
 #EXTINF:-1 tvg-id="Unimas" group-title="Internacional", Unimas
 http://e7077d31.ottrast.com/iptv/NH36DFEWS8W4U8/1100/index.m3u8
+
+#EXTINF:-1 tvg-id="Unimas" group-title="Internacional", Unimas
+http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/1100/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Teleonce Univision PR
 
@@ -575,6 +578,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u
 #EXTINF:-1 tvg-id="US2700004DX" group-title="Sports", BeIn Extra en Español
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-tcl/playlist.m3u8
 
+#EXTINF:-1 tvg-id="BeIn Sports" group-title="Sports", BeIn Sports US
+http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/31048/index.m3u8
+
 #EXTINF:-1 tvg-id="BeIn Sports" group-title="Sports", BeIn Sports FR
 http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/2499/index.m3u8
 
@@ -655,6 +661,9 @@ http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/19166/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Fox Sports 2 Cono Norte" group-title="Sports", Fox sport 2 HD
+
+#EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN USA
+http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/31103/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9605
