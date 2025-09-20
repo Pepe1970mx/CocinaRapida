@@ -354,7 +354,7 @@ http://nocable.cc:8080/k4Svp2/645504/120691
 #EXTINF:-1 tvg-id="Telemundo Satellite Feed" group-title="Internacional", Telemundo 1
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
-EXTINF:-1 tvg-id="Telemundo Satellite Feed" group-title="Internacional", Telemundo 2
+#EXTINF:-1 tvg-id="Telemundo Satellite Feed" group-title="Internacional", Telemundo 2
 http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/1080/index.m3u8
 
 #EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
