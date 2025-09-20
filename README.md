@@ -763,7 +763,7 @@ els HD
 
 
 #EXTINF:-1 tvg-id="5f98471110cca20007d39f76" group-title="Retro Music", MTV Unplugged
-https://bit.ly/3K2CDBb?profile=corgol.m3u8
+
 
 #EXTINF:-1 tvg-id=" " group-title="Retro Music", Retro Music Television
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
@@ -771,8 +771,15 @@ https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="6490254fd2c47c00083a5743" group-title="Retro Music", Now 80s
 https://lightning-now80s-xiaomi.amagi.tv/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="66a11a21a79dea0008aa90ca" group-title="Retro Music", MTV Classic
+https://stitcher.pluto.tv/stitch/hls/channel/66a11a21a79dea0008aa90ca/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dbff02a1-9660-11f0-8b7c-6ef31b586aee
+
 #EXTINF:-1 tvg-id="Now Rock" group-title="Retro Music", Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="66a11a21a79dea0008aa90ca" group-title="Retro Music", MTV Rock
+https://stitcher.pluto.tv/stitch/hls/channel/66a01b52a4ee27000808ea36/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dbff02a1-9660-11f0-8b7c-6ef31b586aee
 
 #EXTINF:-1 tvg-id="VH1+ Music Legends" group-title="Retro Music",
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e8cc10ca869f00078efca8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
