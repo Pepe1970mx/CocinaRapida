@@ -775,6 +775,9 @@ https://lightning-now80s-xiaomi.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="66a11a21a79dea0008aa90ca" group-title="Retro Music", MTV Classic
 https://stitcher.pluto.tv/stitch/hls/channel/66a11a21a79dea0008aa90ca/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dbff02a1-9660-11f0-8b7c-6ef31b586aee
 
+#EXTINF:-1 tvg-id="ESBD230000289" group-title="Retro Music", Vevo Retro
+https://jmp2.uk/stvp-ESBD230000289
+
 #EXTINF:-1 tvg-id="Now Rock" group-title="Retro Music", Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
@@ -856,15 +859,13 @@ https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 
 
 #EXTINF:-1 tvg-id="CABD1200038NZ" group-title="MUSIC", XITE Hits
-https://jmp2.uk/sam-USBD3300004RH.m3u8
+https://jmp2.uk/stvp-USBD3300004RH
 
 #EXTINF:-1 tvg-id="ESBA330004064" group-title="MUSIC", Free TV Hits
 
 
-
-
-#EXTINF:-1 tvg-id="5d93b635b43dd1a399b39eee" group-title="MUSIC", Vevo Pop
-https://jmp2.uk/sam-USBC3600008WY.m3u8
+#EXTINF:-1 tvg-id="USBC3600008WY" group-title="MUSIC", Vevo Pop
+https://jmp2.uk/stvp-USBC3600008WY
 
 #EXTINF:-1 tvg-id="5d14fd1a252d35decbc4080c" group-title="MUSIC", MTV Biggest pop
 
