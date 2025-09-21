@@ -366,7 +366,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 #EXTINF:-1 tvg-id="Univision" group-title="Internacional",  Univision
 http://206.212.244.71:8080/Abxc5k/363887/108248
 
-#EXTINF:-1 tvg-id="Univision" group-title="Internacional",  Univision 1
+#EXTINF:-1 tvg-id="Univision" group-title="Internacional",Univision 1
 http://e7077d31.ottrast.com/iptv/NH36DFEWS8W4U8/1099/index.m3u8
 
 #EXTINF:-1 tvg-id="Univision" group-title="Internacional",  Univision 2
