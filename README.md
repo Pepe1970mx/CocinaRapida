@@ -660,7 +660,7 @@ http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/19166/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox Sports 2 Cono Norte" group-title="Sports", Fox sport 2 HD
 
-#EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN USA
+#EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN 
 http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/31103/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
