@@ -270,7 +270,7 @@ https://d3m8rnla2v9m5d.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="ES300003D4" group-title="De Paga", Sony One Series Comedia
 https://d1fhd07bw4d2d6.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ES300007KS" group-title="De Paga", Sony One Series Comedia
+#EXTINF:-1 tvg-id="ES30000145" group-title="De Paga", Sony One Series Comedia
 https://d1fhd07bw4d2d6.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ES300002Y6" group-title="De Paga", Sony One Series Thrillers
