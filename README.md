@@ -1,7 +1,7 @@
 #EXTM3U 
 x-tvg-url=" "
 
-#EXTINF:-1 tvg-id="AZTECA UNO.mx" group-title="NACIONAL", Azteca Uno
+#EXTINF:-1 tvg-id="AZTECA UNO" group-title="NACIONAL", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 tvg-id="Azteca Guatemala" group-title="NACIONAL", Azteca Guatemala 
@@ -91,6 +91,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b2098304.m3u8
 
 #EXTINF:-1 tvg-id="Once Niños" group-title="NACIONAL", Once Niños
+
+#EXTINF:-1 tvg-id="Di+ TV" group-title="NACIONAL", Di+ TV
+https://live-us-cdn-1.tvstartupengine.com/live/playlist-prod-95aa6fb6-67ee-45c5-b42c-07ca4d4d6096/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="NACIONAL", Canal 13 Tabasco
