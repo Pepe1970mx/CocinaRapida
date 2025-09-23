@@ -19,7 +19,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="Imagen TV" group-title="NACIONAL", Imagen TV
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 
-#EXTINF:-1 tvg-id="CGTN En Espanol" group-title="NACIONAL", CGTN En Español
+#EXTINF:-1 tvg-id="CGTN Español" group-title="NACIONAL", CGTN En Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
 EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
@@ -34,7 +34,7 @@ http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/87598
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 MX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
 
-#EXTINF:-1 tvg-id=" " group-title="NACIONAL", Canal 6 
+#EXTINF:-1 tvg-id=Canal 6" group-title="NACIONAL", Canal 6 
 https://5f1af61612fb5.streamlock.net/canal6mich2/videocanal6mich2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI1IDM6MTc6MjUgQU0maGFzaF92YWx1ZT15T1RML3hMQ2RiQ2N3NlV6TTFZL2tnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
 
 #EXTINF:-1 tvg-id="HTV" group-title="NACIONAL", HTV
