@@ -1,7 +1,7 @@
 #EXTM3U 
 x-tvg-url=" "
 
-#EXTINF:-1 tvg-id="AZTECA UNO" group-title="NACIONAL", Azteca Uno
+#EXTINF:-1 tvg-id="AZTECA UNO.mx" group-title="NACIONAL", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 tvg-id="Azteca Guatemala" group-title="NACIONAL", Azteca Guatemala 
