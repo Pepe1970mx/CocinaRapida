@@ -371,7 +371,7 @@ http://nocable.cc:8080/k4Svp2/645504/120691
 #EXTINF:-1 tvg-id="Telemundo" group-title="Internacional", Telemundo 1
 http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/1080/index.m3u8
 
-#EXTINF:-1 tvg-id="Universo" group-title="Internacional", NBC Universo
+#EXTINF:-1 tvg-id="UNIVERSO" group-title="Internacional", NBC Universo
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Punto 2 Puerto Rico" group-title="Internacional", Telemundo PR
@@ -386,13 +386,13 @@ http://206.212.244.71:8080/Abxc5k/363887/108248
 #EXTINF:-1 tvg-id="Univision" group-title="Internacional",Univision 1
 http://e7077d31.ottrast.com/iptv/NH36DFEWS8W4U8/1099/index.m3u8
 
-#EXTINF:-1 tvg-id="Univision" group-title="Internacional",  Univision 2
+#EXTINF:-1 tvg-id="Univision West" group-title="Internacional",  Univision 2
 http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/1099/index.m3u8
 
 #EXTINF:-1 tvg-id="Unimas" group-title="Internacional", Unimas
 http://e7077d31.ottrast.com/iptv/NH36DFEWS8W4U8/1100/index.m3u8
 
-#EXTINF:-1 tvg-id="Unimas" group-title="Internacional", Unimas 1
+#EXTINF:-1 tvg-id="UNIMAS" group-title="Internacional", Unimas 1
 http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/1100/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Teleonce Univision PR
