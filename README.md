@@ -383,16 +383,16 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 #EXTINF:-1 tvg-id="Univision" group-title="Internacional",  Univision
 http://206.212.244.71:8080/Abxc5k/363887/108248
 
-#EXTINF:-1 tvg-id="Univision" group-title="Internacional",Univision 1
+#EXTINF:-1 tvg-id="Univision" group-title="Internacional",Univision
 http://e7077d31.ottrast.com/iptv/NH36DFEWS8W4U8/1099/index.m3u8
 
 #EXTINF:-1 tvg-id="Univision West" group-title="Internacional",  Univision West
 http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/1099/index.m3u8
 
-#EXTINF:-1 tvg-id="Unimas" group-title="Internacional", UNIMAS
+#EXTINF:-1 tvg-id="Unimas HD" group-title="Internacional", Unimas HD
 http://e7077d31.ottrast.com/iptv/NH36DFEWS8W4U8/1100/index.m3u8
 
-#EXTINF:-1 tvg-id="UNIMAS" group-title="Internacional", Unimas 1
+#EXTINF:-1 tvg-id="UNIMAS" group-title="Internacional", UNIMAS
 http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/1100/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Teleonce Univision PR
