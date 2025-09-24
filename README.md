@@ -14,9 +14,11 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS.mx" group-title="NACIONAL", Las Estrellas
+http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/87594
+
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/87594
+
 
 
 #EXTINF:-1 tvg-id="Imagen Television" group-title="NACIONAL", Imagen TV
@@ -73,9 +75,11 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
 
 #EXTINF:-1 tvg-id="AZTECA 7.mx" group-title="NACIONAL", Azteca 7
+http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/87571
+
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
-http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/87571
+
 
 
 #EXTINF:-1 tvg-id="a+" group-title="NACIONAL", A Mas
