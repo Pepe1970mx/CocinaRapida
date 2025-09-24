@@ -389,7 +389,7 @@ http://e7077d31.ottrast.com/iptv/NH36DFEWS8W4U8/1099/index.m3u8
 #EXTINF:-1 tvg-id="Univision West" group-title="Internacional",  Univision West
 http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/1099/index.m3u8
 
-#EXTINF:-1 tvg-id="Unimas" group-title="Internacional", Unimas
+#EXTINF:-1 tvg-id="Unimas" group-title="Internacional", UNIMAS
 http://e7077d31.ottrast.com/iptv/NH36DFEWS8W4U8/1100/index.m3u8
 
 #EXTINF:-1 tvg-id="UNIMAS" group-title="Internacional", Unimas 1
