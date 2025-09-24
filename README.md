@@ -16,7 +16,12 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS.mx" group-title="NACIONAL", Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="Imagen TV" group-title="NACIONAL", Imagen TV
+http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/87594
+
+
+#EXTINF:-1 tvg-id="Imagen Television" group-title="NACIONAL", Imagen TV
+http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/87616
+
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 
 #EXTINF:-1 tvg-id="CGTN Español" group-title="NACIONAL", CGTN En Español
@@ -29,12 +34,14 @@ EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
 
 #EXTINF:-1 tvg-id="CANAL 5.mx" group-title="NACIONAL", Canal 5
+http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/114854
+
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/87598
 
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 MX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
 
-#EXTINF:-1 tvg-id=Canal 6" group-title="NACIONAL", Canal 6 
+#EXTINF:-1 tvg-id=Canal 6" grouphttp://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/114854-title="NACIONAL", Canal 6 
 https://5f1af61612fb5.streamlock.net/canal6mich2/videocanal6mich2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI1IDM6MTc6MjUgQU0maGFzaF92YWx1ZT15T1RML3hMQ2RiQ2N3NlV6TTFZL2tnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
 
 #EXTINF:-1 tvg-id="HTV" group-title="NACIONAL", HTV
@@ -67,6 +74,9 @@ https://cloudvideo.servers10.com:8081/8128/index.m3u8
 
 #EXTINF:-1 tvg-id="AZTECA 7.mx" group-title="NACIONAL", Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+
+http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/87571
+
 
 #EXTINF:-1 tvg-id="a+" group-title="NACIONAL", A Mas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
@@ -579,6 +589,21 @@ https://stitcher.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u
 #EXTINF:-1 tvg-id="US2700004DX" group-title="Sports", BeIn Extra en Español
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-tcl/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CLAROSPORTS.mx" group-title="Sports", Claro Sports
+https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
+
+#EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
+http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/30063/index.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sport en español" group-title="Sports", Fox Deportes
+http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/30075/index.m3u8
+
+#EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN 
+http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/31103/index.m3u8
+
+#EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" group-title="Sports", Azteca Deportes Premium
+https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=310a09e6-6fd5-11ef-b1af-be21e08b28a0
+
 #EXTINF:-1 tvg-id="BeIn Sports" group-title="Sports", BeIn Sports US
 http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/31048/index.m3u8
 
@@ -587,20 +612,10 @@ http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/2499/index.m3u8
 
 http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
-#EXTINF:-1 tvg-id="CLAROSPORTS.mx" group-title="Sports", Claro Sports
-https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
-
-#EXTINF:-1 tvg-id="Fox Sport en español" group-title="Sports", Fox Deportes
-http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/30075/index.m3u8
-
 #EXTINF:-1 tvg-id="63d0269d60bc8f000890facc" group-title="Sports", Fox Deportes Pluto
 https://stitcher.pluto.tv/stitch/hls/channel/63d0269d60bc8f000890facc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7e86f426-259d-11f0-8032-12b21974fd42
 
-#EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" group-title="Sports", Azteca Deportes Premium
-https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=310a09e6-6fd5-11ef-b1af-be21e08b28a0
-
 #EXTINF:-1 tvg-id="" group-title="Sports", Caliente TV
-
 
 #EXTINF:-1 tvg-id="FS1" group-title="Sports", Fox Sport 1
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/10814
@@ -628,8 +643,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u
 http://nocable.cc:8080/k4Svp2/645504/120901
 
 
-#EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
-http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/30063/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.mx" group-title="Sports", Espn 
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9523
@@ -657,14 +670,12 @@ http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/19166/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox Sports Premium Cono Norte" group-title="Sports", Fox Sports Premium HD
 
-
-#EXTINF:-1 tvg-id="Fox Sports Cono Norte" group-title="Sports", Fox Sport HD
-
+#EXTINF:-1 tvg-id="Fox Sports Cono Premium" group-title="Sports", Fox Sport Premium
+http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9593
 
 #EXTINF:-1 tvg-id="Fox Sports 2 Cono Norte" group-title="Sports", Fox sport 2 HD
 
-#EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN 
-http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/31103/index.m3u8
+
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9605
