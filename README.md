@@ -16,14 +16,13 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS.mx" group-title="NACIONAL", Las Estrellas
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/87594
 
+#EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS.mx" group-title="NACIONAL", Las Estrellas 
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="Imagen Television" group-title="NACIONAL", Imagen TV
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/87616
 
+#EXTINF:-1 tvg-id="Imagen Television" group-title="NACIONAL", Imagen TV -1
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 
 #EXTINF:-1 tvg-id="CGTN Español" group-title="NACIONAL", CGTN En Español
@@ -38,15 +37,13 @@ https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://chann
 #EXTINF:-1 tvg-id="CANAL 5.mx" group-title="NACIONAL", Canal 5
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/114854
 
-#EXTINF:-1 tvg-id="CANAL 5.mx" group-title="NACIONAL", Canal 5
+#EXTINF:-1 tvg-id="CANAL 5.mx" group-title="NACIONAL", Canal 5 IZZI
 https://live1-ott.izzigo.tv/12/out/u/dash/CANAL-5-HD/default.mpd
-
-http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/87598
 
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 MX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
 
-#EXTINF:-1 tvg-id=Canal 6" grouphttp://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/114854-title="NACIONAL", Canal 6 
+#EXTINF:-1 tvg-id=Canal 6" grouphttp://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/114854-title="NACIONAL", Canal 6 Mich.
 https://5f1af61612fb5.streamlock.net/canal6mich2/videocanal6mich2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI1IDM6MTc6MjUgQU0maGFzaF92YWx1ZT15T1RML3hMQ2RiQ2N3NlV6TTFZL2tnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
 
 #EXTINF:-1 tvg-id="HTV" group-title="NACIONAL", HTV
@@ -57,7 +54,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 
 #EXTINF:-1 tvg-id="MVSTV" group-title="NACIONAL", MVS TV
-https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+http://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 #EXTINF:-1 tvg-id="Telehit" group-title="NACIONAL", Telehit
 https://streamer1.nexgen.bz/TELEHIT/index.m3u8
@@ -80,10 +77,8 @@ https://cloudvideo.servers10.com:8081/8128/index.m3u8
 #EXTINF:-1 tvg-id="AZTECA 7.mx" group-title="NACIONAL", Azteca 7
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/87571
 
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-
-
-
+#EXTINF:-1 tvg-id="AZTECA 7.mx" group-title="NACIONAL", Azteca 7
+http://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 tvg-id="a+" group-title="NACIONAL", A Mas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
