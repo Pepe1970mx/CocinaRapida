@@ -594,6 +594,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol
 #EXTINF:-1 tvg-id="CLAROSPORTS.mx" group-title="Sports", Claro Sports
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
+
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
 http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/30063/index.m3u8
 
@@ -603,16 +604,20 @@ http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/30075/index.m3u8
 #EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN 
 http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/31103/index.m3u8
 
+#EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
+http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9605
+
+#EXTINF:-1 tvg-id="TUDN.US" group-title="Sports", TUDN USA
+http://nocable.cc:8080/k4Svp2/645504/11885
+
 #EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" group-title="Sports", Azteca Deportes Premium
 https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=310a09e6-6fd5-11ef-b1af-be21e08b28a0
 
-#EXTINF:-1 tvg-id="BeIn Sports" group-title="Sports", BeIn Sports US
+#EXTINF:-1 tvg-id="BeIn Sports US" group-title="Sports", BeIn Sports US
 http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/31048/index.m3u8
 
-#EXTINF:-1 tvg-id="BeIn Sports" group-title="Sports", BeIn Sports FR
+#EXTINF:-1 tvg-id="BeIn Sports FR" group-title="Sports", BeIn Sports FR
 http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/2499/index.m3u8
-
-http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="63d0269d60bc8f000890facc" group-title="Sports", Fox Deportes Pluto
 https://stitcher.pluto.tv/stitch/hls/channel/63d0269d60bc8f000890facc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7e86f426-259d-11f0-8032-12b21974fd42
@@ -631,12 +636,8 @@ http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/2505/index.m3u8
 #EXTINF:-1 tvg-id="CBS Sports Network" group-title="Sports", CBS Sports
 http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/7324/index.m3u8
 
-https://fl4.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="MLB" group-title="Sports", Sky Sports Main 
+#EXTINF:-1 tvg-id="Sky Sports Main" group-title="Sports", Sky Sports Main 
 http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/7337/index.m3u8
-
-
 
 #EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1489fe1a-8afc-11f0-a08f-d2161128e34e
@@ -679,11 +680,7 @@ http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9593
 
 
 
-#EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
-http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9605
 
-#EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN USA
-http://nocable.cc:8080/k4Svp2/645504/11885
 
 
 #EXTINF:-1 tvg-id="TVC Deportes" group-title="Sports", TVC Deportes
