@@ -38,7 +38,7 @@ https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://chann
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/114854
 
 #EXTINF:-1 tvg-id="CANAL 5.mx" group-title="NACIONAL", Canal 5 IZZI
-https://live1-ott.izzigo.tv/12/out/u/dash/CANAL-5-HD/default.mpd
+http://104.238.205.28:8989/278329_.m3u8
 
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 MX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
