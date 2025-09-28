@@ -37,7 +37,7 @@ https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://chann
 #EXTINF:-1 tvg-id="CANAL 5.mx" group-title="NACIONAL", Canal 5
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/114854
 
-#EXTINF:-1 tvg-id="CANAL 5.mx" group-title="NACIONAL", Canal 5 IZZI
+#EXTINF:-1 tvg-id="CANAL 5.mx" group-title="NACIONAL", Canal 5 
 http://104.238.205.28:8989/278329_.m3u8
 
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 MX
@@ -54,7 +54,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 
 #EXTINF:-1 tvg-id="MVSTV" group-title="NACIONAL", MVS TV
-http://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 #EXTINF:-1 tvg-id="Telehit" group-title="NACIONAL", Telehit
 https://streamer1.nexgen.bz/TELEHIT/index.m3u8
