@@ -616,8 +616,14 @@ http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9605
 #EXTINF:-1 tvg-id="TUDN.US" group-title="Sports", TUDN USA
 http://nocable.cc:8080/k4Svp2/645504/11885
 
+#EXTINF:-1 tvg-id="Fox Sports Cono Norte" group-title="Sports", Fox sport 1
+http://8flthmdy.ottclub.xyz/iptv/49M5L79Y8FBXL9/19139/index.m3u8
+
 #EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" group-title="Sports", Azteca Deportes Premium
 https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=310a09e6-6fd5-11ef-b1af-be21e08b28a0
+
+#EXTINF:-1 tvg-id="DAZN 1" group-title="Sports", DAZN 1
+http://8flthmdy.ottclub.xyz/iptv/49M5L79Y8FBXL9/19158/index.m3u8
 
 #EXTINF:-1 tvg-id="BeIn Sports US" group-title="Sports", BeIn Sports US
 http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/31048/index.m3u8
