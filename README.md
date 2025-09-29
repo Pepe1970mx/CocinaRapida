@@ -620,13 +620,13 @@ http://8flthmdy.ottclub.xyz/iptv/49M5L79Y8FBXL9/19139/index.m3u8
 #EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" group-title="Sports", Azteca Deportes Premium
 https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=310a09e6-6fd5-11ef-b1af-be21e08b28a0
 
-#EXTINF:-1 tvg-id="DAZN 1" group-title="Sports", DAZN 1
+#EXTINF:-1 tvg-id="DAZN 1 HD" group-title="Sports", DAZN 1
 http://8flthmdy.ottclub.xyz/iptv/49M5L79Y8FBXL9/19158/index.m3u8
 
-#EXTINF:-1 tvg-id="BeIn Sports US" group-title="Sports", BeIn Sports US
+#EXTINF:-1 tvg-id="beIN Sports US" group-title="Sports", BeIn Sports US
 http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/31048/index.m3u8
 
-#EXTINF:-1 tvg-id="BeIn Sports FR" group-title="Sports", BeIn Sports FR
+#EXTINF:-1 tvg-id="beIN Sports FR" group-title="Sports", BeIn Sports FR
 http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/2499/index.m3u8
 
 #EXTINF:-1 tvg-id="63d0269d60bc8f000890facc" group-title="Sports", Fox Deportes Pluto
@@ -634,10 +634,10 @@ https://stitcher.pluto.tv/stitch/hls/channel/63d0269d60bc8f000890facc/master.m3u
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Caliente TV
 
-#EXTINF:-1 tvg-id="FS1" group-title="Sports", Fox Sport 1
+#EXTINF:-1 tvg-id="Fox Sports 1 US" group-title="Sports", Fox Sport 1
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/10814
 
-#EXTINF:-1 tvg-id="FS2" group-title="Sports", Fox Sport 2
+#EXTINF:-1 tvg-id="Fox Sports 2 US" group-title="Sports", Fox Sport 2
 http://23.237.104.106:8080/USA_FS2/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports 1" group-title="Sports", TNT Sport 1 UK
