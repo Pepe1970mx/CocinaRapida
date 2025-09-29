@@ -190,8 +190,8 @@ http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/96690
 #EXTINF:-1 tvg-id="Pantera Rosa te te" group-title="24/7" , Pantera Rosa
 https://linear-1069.frequency.stream/mt/plex/1069/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="La Familia Adams" group-title="24/7" , La familia Adams
-http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/105638
+#EXTINF:-1 tvg-id="Bonanza" group-title="24/7" , Bonanza
+http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/96692
 
 
 #EXTINF:-1 tvg-id="Familia Mounsters" group-title="24/7" , Familia Mounsters
@@ -202,21 +202,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11e
 
 
 #EXTINF:-1 tvg-id="Tooncast" group-title="RETRO" , Tooncast
-http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/132704
 
 #EXTINF:-1 tvg-id="Canal Punto 99" group-title="RETRO", Punto 99
 
-#EXTINF:-1 tvg-id="" group-title="RETRO", Best Clasicos TV
-https://acceso.radiosportstv.online:3102/live/telemascrlive.m3u8
 
 #EXTINF:-1 tvg-id="Canal LMS" group-title="RETRO" , LMS
 https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Como Antes TV" group-title="RETRO" , como antes TV
-https://tvstream.alojawebgt.net:3358/live/comoantestvlive.m3u8
-
-#EXTINF:-1 tvg-id="Central TV" group-title="RETRO" , Central TV
-https://freya.mivideo.pro/centraltv/video.m3u8
 
 #EXTINF:-1 tvg-id="Dreiko TV" group-title="RETRO" , DREIKO TV
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
@@ -246,29 +237,29 @@ https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 
-#EXTINF:-1 tvg-id="5de802659167b10009e7deba" group-title="RETRO", Pluto Retro Cartoons
+#EXTINF:-1 tvg-id="60142258a54aeb0007751c15" group-title="RETRO", Pluto Retro Cartoons
 https://stitcher.pluto.tv/stitch/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7961c49f-259d-11f0-870f-2e69ca19bd0b
 
-#EXTINF:-1 tvg-id="6824cda00101510f9eeaa011" group-title="RETRO", Pluto Nick Clasico
+#EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="RETRO", Pluto Nick Clasico
 https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
+
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
-http://galaxypro.online:8080/selvin2020/tango2020/282694
+
 
 #EXTINF:-1 tvg-id="Cinecanal" group-title="De Paga", Cinecanal
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 
 #EXTINF:-1 tvg-id="Studio Universal" group-title="De Paga", Studio Universal 
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
+
 
 #EXTINF:-1 tvg-id="TNT México" group-title="De Paga", TNT
-http://galaxypro.online:8080/selvin2020/tango2020/94130
+
 
 #EXTINF:-1 tvg-id="AXN" group-title="De Paga", AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony.mx" group-title="De Paga", Sony Movies
-https://fl4.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="Cine Sony" group-title="De Paga", Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
