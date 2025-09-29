@@ -611,7 +611,9 @@ http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/31103/index.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9605
 
-#EXTINF:-1 tvg-id="TUDN.US" group-title="Sports", TUDN USA
+#EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
+http://195.66.210.10:80/EmersonZea/ATNKS/456663
+
 http://nocable.cc:8080/k4Svp2/645504/11885
 
 #EXTINF:-1 tvg-id="Fox Sports Cono Norte" group-title="Sports", Fox sport 1
