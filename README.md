@@ -4,6 +4,9 @@ x-tvg-url=" "
 #EXTINF:-1 tvg-id="AZTECA UNO.mx" group-title="NACIONAL", Azteca Uno
 http://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
+#EXTINF:-1 tvg-id="AZTECA UNO.mx" group-title="NACIONAL", Azteca Uno apk
+http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/87576
+
 #EXTINF:-1 tvg-id="Azteca Guatemala" group-title="NACIONAL", Azteca Guatemala 
 
 
@@ -13,14 +16,15 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="ADN 40.mx" group-title="NACIONAL", ADN 40 
 http://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
+
 #EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS.mx" group-title="NACIONAL", Las Estrellas
 http://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS.mx" group-title="NACIONAL", Las Estrellas 
+#EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS.mx" group-title="NACIONAL", Las Estrellas apk
+http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/87579
 
-
-#EXTINF:-1 tvg-id="Imagen Television" group-title="NACIONAL", Imagen TV
-
+#EXTINF:-1 tvg-id="Imagen Television" group-title="NACIONAL", Imagen TV apk
+http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/87616
 
 #EXTINF:-1 tvg-id="Imagen Television" group-title="NACIONAL", Imagen TV -1
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
@@ -34,8 +38,8 @@ EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
 #EXTINF:-1 tvg-id="Foro TV" group-title="NACIONAL", Foro TV 4.1
 http://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
 
-#EXTINF:-1 tvg-id="CANAL 5.mx" group-title="NACIONAL", Canal 5
-
+#EXTINF:-1 tvg-id="CANAL 5.mx" group-title="NACIONAL", Canal 5 apk
+http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/87597
 
 #EXTINF:-1 tvg-id="CANAL 5.mx" group-title="NACIONAL", Canal 5 
 http://104.238.205.28:8989/278329_.m3u8
