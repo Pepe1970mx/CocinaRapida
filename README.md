@@ -2,25 +2,25 @@
 x-tvg-url=" "
 
 #EXTINF:-1 tvg-id="AZTECA UNO.mx" group-title="NACIONAL", Azteca Uno
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+http://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 tvg-id="Azteca Guatemala" group-title="NACIONAL", Azteca Guatemala 
-https://ch1-tva.duin.dev/hls/stream.m3u8
+
 
 #EXTINF:-1 tvg-id="ESBD1300004IG" group-title="NACIONAL", Azteca Internacional 
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 #EXTINF:-1 tvg-id="ADN 40.mx" group-title="NACIONAL", ADN 40 
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+http://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS.mx" group-title="NACIONAL", Las Estrellas
-http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/87594
+http://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS.mx" group-title="NACIONAL", Las Estrellas 
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Imagen Television" group-title="NACIONAL", Imagen TV
-http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/87616
+
 
 #EXTINF:-1 tvg-id="Imagen Television" group-title="NACIONAL", Imagen TV -1
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
@@ -32,10 +32,10 @@ EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
 
 
 #EXTINF:-1 tvg-id="Foro TV" group-title="NACIONAL", Foro TV 4.1
-https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
+http://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
 
 #EXTINF:-1 tvg-id="CANAL 5.mx" group-title="NACIONAL", Canal 5
-http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/114854
+
 
 #EXTINF:-1 tvg-id="CANAL 5.mx" group-title="NACIONAL", Canal 5 
 http://104.238.205.28:8989/278329_.m3u8
@@ -54,7 +54,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 
 #EXTINF:-1 tvg-id="MVSTV" group-title="NACIONAL", MVS TV
-https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+http://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 #EXTINF:-1 tvg-id="Telehit" group-title="NACIONAL", Telehit
 https://streamer1.nexgen.bz/TELEHIT/index.m3u8
@@ -81,7 +81,7 @@ http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/87571
 http://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 tvg-id="a+" group-title="NACIONAL", A Mas
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+http://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-id="a+ Guatemala" group-title="NACIONAL", A Mas Guatemala 
 https://ch2-tva.duin.dev/hls/stream.m3u8
