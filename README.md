@@ -39,6 +39,8 @@ EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
 http://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
 
 #EXTINF:-1 tvg-id="CANAL 5.mx" group-title="NACIONAL", Canal 5 apk
+http://195.66.210.10:80/EmersonZea/ATNKS/241991
+
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/87597
 
 #EXTINF:-1 tvg-id="CANAL 5.mx" group-title="NACIONAL", Canal 5 
@@ -95,7 +97,7 @@ https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 
 
 #EXTINF:-1 tvg-id="9 de México XEQ-TDT" group-title="NACIONAL", El Nueve
-
+http://195.66.210.10:80/EmersonZea/ATNKS/415388
 
 #EXTINF:-1 tvg-id="El Heraldo TV" group-title="NACIONAL" , Heraldo TV
 
@@ -209,6 +211,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11e
 
 
 #EXTINF:-1 tvg-id="Tooncast" group-title="RETRO" , Tooncast
+http://195.66.210.10:80/EmersonZea/ATNKS/19567
 
 #EXTINF:-1 tvg-id="Canal Punto 99" group-title="RETRO", Punto 99
 
@@ -769,10 +772,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-xiaomi/
 
 
 #EXTINF:-1 tvg-id="Cartoon Network Norte" group-title="Kids", Cartoon Network 4K
-
+http://195.66.210.10:80/EmersonZea/ATNKS/54404
 
 #EXTINF:-1 tvg-id="Nick" group-title="Kids", Nick HD
-
+http://195.66.210.10:80/EmersonZea/ATNKS/9424
 
 els HD
 
