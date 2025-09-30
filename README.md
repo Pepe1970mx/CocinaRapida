@@ -16,6 +16,10 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="ADN 40.mx" group-title="NACIONAL", ADN 40 
 http://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
+#EXTINF:-1 tvg-id="ADN 40.mx" group-title="NACIONAL", ADN 40
+https://stitcher.pluto.tv/stitch/hls/channel/646ccd3681844c000974d6f4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e5ae804d-9d94-11f0-9627-3afd2422fb08
+
+
 
 #EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS.mx" group-title="NACIONAL", Las Estrellas
 http://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
