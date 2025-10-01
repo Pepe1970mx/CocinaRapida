@@ -629,7 +629,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u
 #EXTINF:-1 tvg-id="DAZN 1 HD" group-title="Sports", DAZN 1
 http://8flthmdy.ottclub.xyz/iptv/49M5L79Y8FBXL9/19158/index.m3u8
 
-#EXTINF:-1 tvg-id="beIN Sports US" group-title="Sports", BeIn Sports US
+#EXTINF:-1 tvg-id="Bein Sports US" group-title="Sports", BeIn Sports US
 http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/31048/index.m3u8
 
 #EXTINF:-1 tvg-id="beIN Sports FR" group-title="Sports", BeIn Sports FR
