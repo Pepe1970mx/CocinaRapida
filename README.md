@@ -644,6 +644,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/63d0269d60bc8f000890facc/master.m3u
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/10814
 
 #EXTINF:-1 tvg-id="Fox Sports 2 US" group-title="Sports", Fox Sport 2
+http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/7323/index.m3u8
+
 http://23.237.104.106:8080/USA_FS2/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports 1" group-title="Sports", TNT Sport 1 UK
