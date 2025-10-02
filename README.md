@@ -5,7 +5,7 @@ x-tvg-url=" "
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
 #EXTINF:-1 tvg-id="AZTECA UNO.mx" group-title="NACIONAL", Azteca Uno apk
-https://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/87576
+http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/87576
 
 #EXTINF:-1 tvg-id="Azteca Guatemala" group-title="NACIONAL", Azteca Guatemala 
 
@@ -18,8 +18,6 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-id="ADN 40.mx" group-title="NACIONAL", ADN 40
 https://stitcher.pluto.tv/stitch/hls/channel/646ccd3681844c000974d6f4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e5ae804d-9d94-11f0-9627-3afd2422fb08
-
-
 
 #EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS.mx" group-title="NACIONAL", Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
@@ -40,7 +38,7 @@ EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
 
 
 #EXTINF:-1 tvg-id="Foro TV" group-title="NACIONAL", Foro TV 4.1
-http://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
 
 #EXTINF:-1 tvg-id="CANAL 5.mx" group-title="NACIONAL", Canal 5 apk
 http://195.66.210.10:80/EmersonZea/ATNKS/241991
@@ -53,10 +51,9 @@ http://104.238.205.28:8989/278329_.m3u8
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 MX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
 
-#EXTINF:-1 tvg-id=Canal 6" grouphttp://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/114854-title="NACIONAL", Canal 6 Mich.
+#EXTINF:-1 tvg-id=Canal 6" group-title="NACIONAL", Canal 6 Mich.
 https://5f1af61612fb5.streamlock.net/canal6mich2/videocanal6mich2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI1IDM6MTc6MjUgQU0maGFzaF92YWx1ZT15T1RML3hMQ2RiQ2N3NlV6TTFZL2tnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
 
-#EXTINF:-1 tvg-id="HTV" group-title="NACIONAL", HTV
 #EXTINF:-1 tvg-id="Milenio TV" group-title="NACIONAL" , Milenio Television
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
 
@@ -64,7 +61,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 
 #EXTINF:-1 tvg-id="MVSTV" group-title="NACIONAL", MVS TV
-http://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 #EXTINF:-1 tvg-id="Telehit" group-title="NACIONAL", Telehit
 https://streamer1.nexgen.bz/TELEHIT/index.m3u8
@@ -76,7 +73,7 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8
 https://mvs.daioncdn.net:443/exatv/exatv_1080p.m3u8?&sid=76arxwhpzqio&app=188fff62-593e-43fb-8604-34d30d693c1e&ce=2
 
 #EXTINF:-1 tvg-id="NickMusic" group-title="NACIONAL", Nick Music
-http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Teleritmo" group-title="NACIONAL", Teleritmo 
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
@@ -88,10 +85,10 @@ https://cloudvideo.servers10.com:8081/8128/index.m3u8
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/87571
 
 #EXTINF:-1 tvg-id="AZTECA 7.mx" group-title="NACIONAL", Azteca 7
-http://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 tvg-id="a+" group-title="NACIONAL", A Mas
-http://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-id="a+ Guatemala" group-title="NACIONAL", A Mas Guatemala 
 https://ch2-tva.duin.dev/hls/stream.m3u8
