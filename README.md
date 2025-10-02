@@ -620,8 +620,21 @@ http://195.66.210.10:80/EmersonZea/ATNKS/456663
 
 http://nocable.cc:8080/k4Svp2/645504/11885
 
-#EXTINF:-1 tvg-id="Fox Sports Cono Norte" group-title="Sports", Fox sport 1
-http://8flthmdy.ottclub.xyz/iptv/49M5L79Y8FBXL9/19139/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.mx" group-title="Sports", Espn 
+http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9523
+
+#EXTINF:-1 tvg-id="ESPN 2.mx" group-title="Sports", Espn 2 
+http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9530
+
+#EXTINF:-1 tvg-id="ESPN 3 Sur" group-title="Sports", Espn 3 HD
+http://181.78.82.6:46090/play/a00v
+
+#EXTINF:-1 tvg-id="ESPN 3 " group-title="Sports", Espn 3 HD
+http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9535
+
+#EXTINF:-1 tvg-id="ESPN 4.mx" group-title="Sports", Espn 4 HD
+
+
 
 #EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" group-title="Sports", Azteca Deportes Premium
 https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=310a09e6-6fd5-11ef-b1af-be21e08b28a0
@@ -629,7 +642,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u
 #EXTINF:-1 tvg-id="DAZN 1 HD" group-title="Sports", DAZN 1
 http://8flthmdy.ottclub.xyz/iptv/49M5L79Y8FBXL9/19158/index.m3u8
 
-#EXTINF:-1 tvg-id="Bein Sports US" group-title="Sports", BeIn Sports US
+#EXTINF:-1 tvg-id="beIN Sports US" group-title="Sports", BeIn Sports US
 http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/31048/index.m3u8
 
 #EXTINF:-1 tvg-id="beIN Sports FR" group-title="Sports", BeIn Sports FR
@@ -646,8 +659,6 @@ http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/10814
 #EXTINF:-1 tvg-id="Fox Sports 2 US" group-title="Sports", Fox Sport 2
 http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/7323/index.m3u8
 
-http://23.237.104.106:8080/USA_FS2/index.m3u8
-
 #EXTINF:-1 tvg-id="TNT Sports 1" group-title="Sports", TNT Sport 1 UK
 http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/2505/index.m3u8
 
@@ -660,31 +671,10 @@ http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/7337/index.m3u8
 #EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1489fe1a-8afc-11f0-a08f-d2161128e34e
 
-#EXTINF:-1 tvg-id="MLB" group-title="Sports", MLB
+#EXTINF:-1 tvg-id="FOX" group-title="Sports", FOX
 http://nocable.cc:8080/k4Svp2/645504/120901
 
 
-
-#EXTINF:-1 tvg-id="ESPN.mx" group-title="Sports", Espn 
-http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9523
-
-#EXTINF:-1 tvg-id="ESPN 2.mx" group-title="Sports", Espn 2
-
-
-#EXTINF:-1 tvg-id="ESPN 2.mx" group-title="Sports", Espn 2 
-http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9530
-
-#EXTINF:-1 tvg-id="ESPN 3.mx" group-title="Sports", Espn 3 HD
-
-
-#EXTINF:-1 tvg-id="ESPN 3 Sur" group-title="Sports", Espn 3 HD
-http://181.78.82.6:46090/play/a00v
-
-#EXTINF:-1 tvg-id="ESPN 3 " group-title="Sports", Espn 3 HD
-http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9535
-
-#EXTINF:-1 tvg-id="ESPN 4.mx" group-title="Sports", Espn 4 HD
-http://38.180.133.31:8000/play/a0wd
 
 #EXTINF:-1 tvg-id="ESPN 5" group-title="Sports", Espn 5
 http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/19166/index.m3u8
