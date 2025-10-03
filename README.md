@@ -641,10 +641,10 @@ http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/2499/index.m3u8
 http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/19042/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Fox Sports 1 US" group-title="Sports", Fox Sport 1
+#EXTINF:-1 tvg-id="Fox Sports 1 US" group-title="Sports", Fox Sport 1 US
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/10814
 
-#EXTINF:-1 tvg-id="Fox Sports 2 US" group-title="Sports", Fox Sport 2 US
+#EXTINF:-1 tvg-id="FS 2" group-title="Sports", Fox Sport 2 US
 http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/7323/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports 1" group-title="Sports", TNT Sport 1 UK
