@@ -595,21 +595,10 @@ https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-tcl/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CLAROSPORTS.mx" group-title="Sports", Claro Sports
-
-
-
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
 
-#EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
-http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/30063/index.m3u8
 
-#EXTINF:-1 tvg-id="Fox Sport en español" group-title="Sports", Fox Deportes
-http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/30075/index.m3u8
-
-
-#EXTINF:-1 tvg-id="Espn US" group-title="Sports", 
-http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/19156/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN 
@@ -623,11 +612,16 @@ http://195.66.210.10:80/EmersonZea/ATNKS/456663
 
 http://nocable.cc:8080/k4Svp2/645504/11885
 
-#EXTINF:-1 tvg-id="ESPN.mx" group-title="Sports", Espn 
-http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9523
+#EXTINF:-1 tvg-id="Espn US" group-title="Sports", ESPN US
+http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/19156/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 2.mx" group-title="Sports", Espn 2 
-http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9530
+
+#EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
+http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/30063/index.m3u8
+
+#EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes
+http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/30075/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ESPN 3 Sur" group-title="Sports", Espn 3 HD
 http://181.78.82.6:46090/play/a00v
