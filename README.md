@@ -597,10 +597,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol
 #EXTINF:-1 tvg-id="CLAROSPORTS.mx" group-title="Sports", Claro Sports
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN 
 http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/31103/index.m3u8
 
@@ -609,6 +605,9 @@ http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9605
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
 http://195.66.210.10:80/EmersonZea/ATNKS/456663
+
+#EXTINF:-1 tvg-id="" group-title="Sports", Caliente TV
+http://195.66.210.10:80/EmersonZea/ATNKS/558709
 
 http://nocable.cc:8080/k4Svp2/645504/11885
 
@@ -642,12 +641,6 @@ http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/2499/index.m3u8
 http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/19042/index.m3u8
 
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="" group-title="Sports", Caliente TV
 
 #EXTINF:-1 tvg-id="Fox Sports 1 US" group-title="Sports", Fox Sport 1
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/10814
