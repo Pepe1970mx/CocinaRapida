@@ -606,7 +606,7 @@ http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9605
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
 http://195.66.210.10:80/EmersonZea/ATNKS/456663
 
-#EXTINF:-1 tvg-id="" group-title="Sports", Caliente TV
+#EXTINF:-1 tvg-id="CalienteTV.mx" group-title="Sports", Caliente TV
 http://195.66.210.10:80/EmersonZea/ATNKS/558709
 
 http://nocable.cc:8080/k4Svp2/645504/11885
@@ -653,7 +653,7 @@ http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/2505/index.m3u8
 #EXTINF:-1 tvg-id="CBS Sports Network" group-title="Sports", CBS Sports
 http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/7324/index.m3u8
 
-#EXTINF:-1 tvg-id="Sky Sports Main" group-title="Sports", Sky Sports Main 
+#EXTINF:-1 tvg-id="Sky Sports Main Event HD UK" group-title="Sports", Sky Sports Main 
 http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/7337/index.m3u8
 
 #EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network
