@@ -631,7 +631,7 @@ http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9535
 #EXTINF:-1 tvg-id="ESPN 4.mx" group-title="Sports", Espn 4 HD
 
 
-#EXTINF:-1 tvg-id="392 Bein Sports US" group-title="Sports", BeIn Sports US
+#EXTINF:-1 tvg-id="392" group-title="Sports", Bein Sports US
 http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/31048/index.m3u8
 
 #EXTINF:-1 tvg-id="Bein Sports FR" group-title="Sports", BeIn Sports FR
