@@ -625,7 +625,7 @@ http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/30075/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 3 Sur" group-title="Sports", Espn 3 HD
 http://181.78.82.6:46090/play/a00v
 
-#EXTINF:-1 tvg-id="ESPN 3 " group-title="Sports", Espn 3 HD
+#EXTINF:-1 tvg-id="ESPN 3.mx" group-title="Sports", Espn 3 HD
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9535
 
 #EXTINF:-1 tvg-id="ESPN 4.mx" group-title="Sports", Espn 4 HD
@@ -644,7 +644,7 @@ http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/19042/index.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 1 US" group-title="Sports", Fox Sport 1 US
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/10814
 
-#EXTINF:-1 tvg-id="FS 2" group-title="Sports", Fox Sport 2 US
+#EXTINF:-1 tvg-id="618 Fox Sports 2 US" group-title="Sports", Fox Sport 2 US
 http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/7323/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports 1" group-title="Sports", TNT Sport 1 UK
