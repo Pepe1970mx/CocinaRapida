@@ -640,9 +640,6 @@ http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/2499/index.m3u8
 #EXTINF:-1 tvg-id="DAZN 1 HD" group-title="Sports", DAZN 1
 http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/19042/index.m3u8
 
-
-
-
 #EXTINF:-1 tvg-id="Fox Sports 1 US" group-title="Sports", Fox Sport 1 US
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/10814
 
@@ -665,20 +662,12 @@ https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u
 http://nocable.cc:8080/k4Svp2/645504/120901
 
 
-
 #EXTINF:-1 tvg-id="ESPN 5" group-title="Sports", Espn 5
 
-
-#EXTINF:-1 tvg-id="Fox Sports Premium Cono Norte" group-title="Sports", Fox Sports Premium HD
-
-#EXTINF:-1 tvg-id="Fox Sports " group-title="Sports", Fox Sport Premium
+#EXTINF:-1 tvg-id="Fox Sports Premium" group-title="Sports", Fox Sport Premium
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9593
 
 #EXTINF:-1 tvg-id="Fox Sports 2 Cono Norte" group-title="Sports", Fox sport 2 HD
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="TVC Deportes" group-title="Sports", TVC Deportes
