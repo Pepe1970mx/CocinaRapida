@@ -614,16 +614,11 @@ http://195.66.210.10:80/EmersonZea/ATNKS/558709
 
 http://nocable.cc:8080/k4Svp2/645504/11885
 
-#EXTINF:-1 tvg-id="ESPN US" group-title="Sports", ESPN US
-http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/19156/index.m3u8
-
-
-#EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
-http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/30063/index.m3u8
-
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes
 http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/30075/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
+http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/30063/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3 Sur" group-title="Sports", Espn 3 HD
 http://181.78.82.6:46090/play/a00v
@@ -633,6 +628,8 @@ http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9535
 
 #EXTINF:-1 tvg-id="ESPN 4.mx" group-title="Sports", Espn 4 HD
 
+#EXTINF:-1 tvg-id="ESPN US" group-title="Sports", ESPN US
+http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/19156/index.m3u8
 
 #EXTINF:-1 tvg-id="Bein Sports US" group-title="Sports", Bein Sports US
 http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/31048/index.m3u8
@@ -644,6 +641,8 @@ http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/2499/index.m3u8
 http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/19042/index.m3u8
 
 
+
+
 #EXTINF:-1 tvg-id="Fox Sports 1 US" group-title="Sports", Fox Sport 1 US
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/10814
 
@@ -653,11 +652,11 @@ http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/7323/index.m3u8
 #EXTINF:-1 tvg-id="TNT Sports 1" group-title="Sports", TNT Sport 1 UK
 http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/2505/index.m3u8
 
-#EXTINF:-1 tvg-id="CBS Sports Network" group-title="Sports", CBS Sports
-http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/7324/index.m3u8
-
 #EXTINF:-1 tvg-id="Sky Sports Main Event HD UK" group-title="Sports", Sky Sports Main 
 http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/7337/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS Sports Network" group-title="Sports", CBS Sports
+http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/7324/index.m3u8
 
 #EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1489fe1a-8afc-11f0-a08f-d2161128e34e
@@ -668,11 +667,11 @@ http://nocable.cc:8080/k4Svp2/645504/120901
 
 
 #EXTINF:-1 tvg-id="ESPN 5" group-title="Sports", Espn 5
-http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/19166/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Fox Sports Premium Cono Norte" group-title="Sports", Fox Sports Premium HD
 
-#EXTINF:-1 tvg-id="Fox Sports Cono Premium" group-title="Sports", Fox Sport Premium
+#EXTINF:-1 tvg-id="Fox Sports " group-title="Sports", Fox Sport Premium
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9593
 
 #EXTINF:-1 tvg-id="Fox Sports 2 Cono Norte" group-title="Sports", Fox sport 2 HD
