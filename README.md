@@ -638,8 +638,6 @@ http://195.66.210.10:80/EmersonZea/ATNKS/588144
 #EXTINF:-1 tvg-id="Fox Sports Premium" group-title="Sports", Fox Sport Premium
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9593
 
-#EXTINF:-1 tvg-id="Fox Sports Premium" group-title="Sports", Fox Sport Premium
-http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9593
 
 
 #EXTINF:-1 tvg-id="ESPN US" group-title="Sports", ESPN US
@@ -682,13 +680,6 @@ http://nocable.cc:8080/k4Svp2/645504/120901
 
 #EXTINF:-1 tvg-id="Fox Sports Premium" group-title="Sports", Fox Sport Premium
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9593
-
-#EXTINF:-1 tvg-id="Fox Sports 2 Cono Norte" group-title="Sports", Fox sport 2 HD
-
-
-#EXTINF:-1 tvg-id="TVC Deportes" group-title="Sports", TVC Deportes
-
-
 
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN USA
 
