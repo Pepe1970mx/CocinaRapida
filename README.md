@@ -771,8 +771,8 @@ els HD
 
 
 
-#EXTINF:-1 tvg-id="5f98471110cca20007d39f76" group-title="Retro Music", MTV Unplugged
-
+#EXTINF:-1 tvg-id="61c09489197fe600073c0570" group-title="Retro Music", MTV Unplugged
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61c09489197fe600073c0570/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-id=" " group-title="Retro Music", Retro Music Television
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
@@ -793,9 +793,8 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="66a11a21a79dea0008aa90ca" group-title="Retro Music", MTV Rock
 https://stitcher.pluto.tv/stitch/hls/channel/66a01b52a4ee27000808ea36/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dbff02a1-9660-11f0-8b7c-6ef31b586aee
 
-#EXTINF:-1 tvg-id="VH1+ Music Legends" group-title="Retro Music",
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e8cc10ca869f00078efca8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
+#EXTINF:-1 tvg-id="625e79fe9b586d000785e330" group-title="Retro Music", HIP HOP CLASSIC
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625e79fe9b586d000785e330/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-id="" group-title="Retro Music", MTV 80's
 http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/6977/index.m3u8
@@ -854,12 +853,16 @@ https://jmp2.uk/sam-USBD3000145P.m3u8
 
 
 
+#EXTINF:-1 tvg-id="6245d15062cd1f00070a2338" group-title="MUSIC", MTV Music
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6245d15062cd1f00070a2338/3321280/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-b3548874-0c5c-4bd9-ba71-589e36bd214b&deviceDNT=0&advertisingId=PSID&deviceLat=90&deviceLon=0&deviceModel=unknown&deviceVersion=unknown&deviceId=PSID&appVersion=unknown&deviceType=unknown&deviceMake=unknown&us_privacy=1YNY
+
+
+
 
 #EXTINF:-1 tvg-id="" group-title="MUSIC", Mix Music Channel
-https://cdamix.streaming.ws/mixmusic/live/playlist.m3u8  
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV Live
-https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV Hits
 
