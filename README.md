@@ -61,6 +61,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 
 #EXTINF:-1 tvg-id="MVSTV" group-title="NACIONAL", MVS TV
+https://mvs.daioncdn.net/mvstv/mvstv.m3u8?app=web
+
+
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 #EXTINF:-1 tvg-id="Telehit" group-title="NACIONAL", Telehit
@@ -602,6 +605,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u
 
 #EXTINF:-1 tvg-id="US2700004DX" group-title="Sports", BeIn Extra en Español
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-tcl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DitecTV Sports" group-title="Sports", DSports
+http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:-1 tvg-id="CLAROSPORTS.mx" group-title="Sports", Claro Sports
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
