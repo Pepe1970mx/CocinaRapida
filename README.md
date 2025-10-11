@@ -252,6 +252,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
 http://181.188.216.5:18000/play/a0pm/index.m3u8
 
+#EXTINF:-1 tvg-id="Canal Claro" group-title="De Paga", Canal Claro
+http://181.188.216.5:18000/play/a09l/index.m3u8
+
 #EXTINF:-1 tvg-id="Cinecanal" group-title="De Paga", Cinecanal
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 
