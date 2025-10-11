@@ -384,16 +384,20 @@ http://e7077d31.ottrast.com/iptv/NH36DFEWS8W4U8/1099/index.m3u8
 http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/1099/index.m3u8
 
 #EXTINF:-1 tvg-id="UniMAS" group-title="Internacional", Unimas
+http://195.66.210.10:80/EmersonZea/ATNKS/53742
+
 http://e7077d31.ottrast.com/iptv/NH36DFEWS8W4U8/1100/index.m3u8
 
-#EXTINF:-1 tvg-id="741 UNIMAS" group-title="Internacional", UNIMAS
+#EXTINF:-1 tvg-id="741 UniMAS" group-title="Internacional", UNIMAS 1
 http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/1100/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Teleonce Univision PR
 
-
 #EXTINF:-1 tvg-id="Galavision" group-title="Internacional", Galavision
+http://195.66.210.10:80/EmersonZea/ATNKS/53754
+
+#EXTINF:-1 tvg-id="Galavision" group-title="Internacional", Galavision 1
 http://206.212.244.71:8080/Abxc5k/363887/58770
 
 #EXTINF:-1 tvg-id="Wapa" group-title="Internacional", Wapa
