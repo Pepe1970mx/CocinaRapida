@@ -250,7 +250,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u
 
 
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
-http://195.66.210.10:80/EmersonZea/ATNKS/198735
+http://181.188.216.5:18000/play/a0pm/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal" group-title="De Paga", Cinecanal
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
@@ -265,6 +265,7 @@ http://195.66.210.10:80/EmersonZea/ATNKS/439741
 https://streamer1.nexgen.bz/AXN/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony.mx" group-title="De Paga", Sony Movies
+https://fl7.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="Cine Sony" group-title="De Paga", Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
