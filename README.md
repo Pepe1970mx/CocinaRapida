@@ -45,7 +45,7 @@ http://195.66.210.10:80/EmersonZea/ATNKS/241991
 
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/87597
 
-#EXTINF:-1 tvg-id="CANAL 5.mx" group-title="NACIONAL", Canal 5 
+#EXTINF:-1 tvg-id="CANAL 5.mx" group-title="NACIONAL", Canal 5
 http://104.238.205.28:8989/278329_.m3u8
 
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 MX
