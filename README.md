@@ -260,7 +260,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u
 http://181.188.216.5:18000/play/a0pm/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal Claro" group-title="De Paga", Canal Claro
-https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5eab427a-a6e1-11f0-8dde-36a1e79edff9
+https://stitcher.pluto.tv:443/stitch/hls/channel/68224482c5d53e1351aaf2f2livestitch/master.m3u8?deviceType=web&appVersion=1&deviceDNT=0&deviceMake=safari&deviceModel=web&deviceVersion=1&deviceId=spencer&servertSideAds=false&sid=5eab427a-a6e1-11f0-8dde-36a1e79edff9&profilesFromStream=true
 
 http://181.188.216.5:18000/play/a09l/index.m3u8
 
