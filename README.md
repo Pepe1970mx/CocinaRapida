@@ -176,6 +176,10 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 #EXTINF:-1 tvg-id="USBD2700004ME" group-title="Drama" , Como Dice el Dicho 
 https://jmp2.uk/stvp-USBD2700004ME
 
+#EXTINF:-1 tvg-id="5dd837642c6e9300098ad484" group-title="Drama" , Pluto TV Series Latinas
+https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5eab427a-a6e1-11f0-8dde-36a1e79edff9
+
+
 #EXTINF:-1 tvg-id="USBC2100010OS" group-title="Comedia" , ViX Jajaja 
 https://jmp2.uk/stvp-USBC2100010OS
 
@@ -256,6 +260,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u
 http://181.188.216.5:18000/play/a0pm/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal Claro" group-title="De Paga", Canal Claro
+https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5eab427a-a6e1-11f0-8dde-36a1e79edff9
+
 http://181.188.216.5:18000/play/a09l/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal" group-title="De Paga", Cinecanal
