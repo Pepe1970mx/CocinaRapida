@@ -262,7 +262,7 @@ http://181.188.216.5:18000/play/a09l/index.m3u8
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 
 #EXTINF:-1 tvg-id="Studio Universal" group-title="De Paga", Studio Universal 
-
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT México" group-title="De Paga", TNT
 http://195.66.210.10:80/EmersonZea/ATNKS/439741
