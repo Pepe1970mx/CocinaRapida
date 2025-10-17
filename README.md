@@ -84,7 +84,7 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="La Voz Grupera" group-title="NACIONAL", La Voz Grupera
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
 
-#EXTINF:-1 tvg-id="AZTECA 7.mx" group-title="NACIONAL", Azteca 7
+#EXTINF:-1 tvg-id="AZTECA 7.mx" group-title="NACIONAL", Azteca 7 apk
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/87571
 
 #EXTINF:-1 tvg-id="AZTECA 7.mx" group-title="NACIONAL", Azteca 7
@@ -187,9 +187,9 @@ https://jmp2.uk/stvp-
 
 
 #EXTINF:-1 tvg-id="Distrito Comedia" group-title="Comedia" , Distrito Comedia
-http://galaxypro.online:8080/selvin2020/tango2020/103867
+http://195.66.210.10:80/EmersonZea/ATNKS/9412
 
-#EXTINF:-1 tvg-id="Sony Comedia" group-title="Comedia" , Sony Comedia
+#EXTINF:-1 tvg-id="Sony Comedia" group-title="Comedia" , Sony One Cinema
 https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="24/7" , Los Años Maravillosos
@@ -199,7 +199,7 @@ http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/96782
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/94852
 
 #EXTINF:-1 tvg-id="Alf" group-title="24/7" , Alf
-http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/96690
+
 
 #EXTINF:-1 tvg-id="Pantera Rosa te te" group-title="24/7" , Pantera Rosa
 https://linear-1069.frequency.stream/mt/plex/1069/hls/master/playlist.m3u8
@@ -219,7 +219,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11e
 
 
 #EXTINF:-1 tvg-id="Tooncast" group-title="RETRO" , Tooncast
-http://195.66.210.10:80/EmersonZea/ATNKS/19567
+
 
 #EXTINF:-1 tvg-id="Canal Punto 99" group-title="RETRO", Punto 99
 
@@ -618,10 +618,12 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 #EXTINF:-1 tvg-id="CLAROSPORTS.mx" group-title="Sports", Claro Sports
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
-#EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN 
+#EXTINF:-1 tvg-id="TUDN " group-title="Sports", TUDN 
+http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/31103/index.m3u8
+
+
 http://195.66.210.10:80/EmersonZea/ATNKS/242045
 
-http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/31103/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9605
