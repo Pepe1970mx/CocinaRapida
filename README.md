@@ -639,6 +639,9 @@ http://nocable.cc:8080/k4Svp2/645504/11885
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes
 http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/30075/index.m3u8
 
+#EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes
+http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/30075/index.m3u8
+
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
 http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/30063/index.m3u8
 
