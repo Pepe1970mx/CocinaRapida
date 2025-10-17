@@ -25,7 +25,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS.mx" group-title="NACIONAL", Las Estrellas apk
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/87579
 
-#EXTINF:-1 tvg-id="Imagen Television" group-title="NACIONAL", Imagen TV apk
+#EXTINF:-1 tvg-id="Imagen TV" group-title="NACIONAL", Imagen TV apk
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/87616
 
 #EXTINF:-1 tvg-id="Imagen Television" group-title="NACIONAL", Imagen TV -1
@@ -259,7 +259,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
 http://181.188.216.5:18000/play/a0pm/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal Claro" group-title="De Paga", Canal Claro
+#EXTINF:-1 tvg-id="Claro TV" group-title="De Paga", Canal Claro
 https://stitcher.pluto.tv:443/stitch/hls/channel/68224482c5d53e1351aaf2f2livestitch/master.m3u8?deviceType=web&appVersion=1&deviceDNT=0&deviceMake=safari&deviceModel=web&deviceVersion=1&deviceId=spencer&servertSideAds=false&sid=5eab427a-a6e1-11f0-8dde-36a1e79edff9&profilesFromStream=true
 
 http://181.188.216.5:18000/play/a09l/index.m3u8
