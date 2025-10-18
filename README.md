@@ -624,7 +624,9 @@ http://195.66.210.10:80/EmersonZea/ATNKS/166029
 http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/31103/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN US
-http://195.66.210.10:80/EmersonZea/ATNKS/242045
+http://200.115.120.1:8000/play/ca039/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9605
