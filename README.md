@@ -618,32 +618,30 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 #EXTINF:-1 tvg-id="CLAROSPORTS.mx" group-title="Sports", Claro Sports
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
-#EXTINF:-1 tvg-id="TUDN " group-title="Sports", TUDN 
+#EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN SD
+http://195.66.210.10:80/EmersonZea/ATNKS/166029
+
 http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/31103/index.m3u8
 
-
+#EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN US
 http://195.66.210.10:80/EmersonZea/ATNKS/242045
-
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9605
 
-#EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
+#EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN HD
 http://195.66.210.10:80/EmersonZea/ATNKS/456663
 
 #EXTINF:-1 tvg-id="CalienteTV.mx" group-title="Sports", Caliente TV
 http://195.66.210.10:80/EmersonZea/ATNKS/558709
 
-http://nocable.cc:8080/k4Svp2/645504/11885
-
-#EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes
-http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/30075/index.m3u8
-
-#EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes
+#EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes HD
 http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/30075/index.m3u8
 
+#EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes
+
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
-http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/30063/index.m3u8
+http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/30063/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.mx" group-title="Sports", Espn
 http://195.66.210.10:80/EmersonZea/ATNKS/588125
