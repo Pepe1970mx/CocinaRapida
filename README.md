@@ -673,7 +673,7 @@ http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/2499/index.m3u8
 http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/19042/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox Sports 1 US" group-title="Sports", Fox Sport 1 US
-https://tvpass.org/live/FoxSports1/sd
+https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
 
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/10814
 
