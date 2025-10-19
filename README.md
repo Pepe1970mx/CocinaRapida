@@ -43,8 +43,6 @@ https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://chann
 #EXTINF:-1 tvg-id="CANAL 5.mx" group-title="NACIONAL", Canal 5 apk
 http://195.66.210.10:80/EmersonZea/ATNKS/241991
 
-http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/87597
-
 #EXTINF:-1 tvg-id="CANAL 5.mx" group-title="NACIONAL", Canal 5
 http://104.238.205.28:8989/278329_.m3u8
 
@@ -84,11 +82,11 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="La Voz Grupera" group-title="NACIONAL", La Voz Grupera
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
 
-#EXTINF:-1 tvg-id="AZTECA 7.mx" group-title="NACIONAL", Azteca 7 apk
-http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/87571
-
 #EXTINF:-1 tvg-id="AZTECA 7.mx" group-title="NACIONAL", Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+
+#EXTINF:-1 tvg-id="AZTECA 7.mx" group-title="NACIONAL", Azteca 7 apk
+http://195.66.210.10:80/EmersonZea/ATNKS/576509
 
 #EXTINF:-1 tvg-id="a+" group-title="NACIONAL", A Mas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
@@ -183,11 +181,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u
 #EXTINF:-1 tvg-id="USBC2100010OS" group-title="Comedia" , ViX Jajaja 
 https://jmp2.uk/stvp-USBC2100010OS
 
-https://jmp2.uk/stvp-
-
-
 #EXTINF:-1 tvg-id="Distrito Comedia" group-title="Comedia" , Distrito Comedia
-http://195.66.210.10:80/EmersonZea/ATNKS/9412
+http://195.66.210.10:80/EmersonZea/ATNKS/576521
 
 #EXTINF:-1 tvg-id="Sony Comedia" group-title="Comedia" , Sony One Cinema
 https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
