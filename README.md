@@ -35,7 +35,7 @@ https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
 EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
-
+http://195.66.210.10:80/EmersonZea/ATNKS/56215
 
 #EXTINF:-1 tvg-id="Foro TV" group-title="NACIONAL", Foro TV 4.1
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
