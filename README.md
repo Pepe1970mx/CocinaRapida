@@ -73,6 +73,9 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8
 #EXTINF:-1 tvg-id="Exa TV" group-title="NACIONAL", EXA TV
 https://mvs.daioncdn.net:443/exatv/exatv_1080p.m3u8?&sid=76arxwhpzqio&app=188fff62-593e-43fb-8604-34d30d693c1e&ce=2
 
+#EXTINF:-1 tvg-id="6868152657543d1f8be4ece3" group-title="NACIONAL", Concert Channels
+https://stitcher.pluto.tv/stitch/hls/channel/6868152657543d1f8be4ece3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6197527c-ae15-11f0-8917-d68048b50b75
+
 #EXTINF:-1 tvg-id="NickMusic" group-title="NACIONAL", Nick Music
 
 
