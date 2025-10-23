@@ -190,11 +190,14 @@ http://195.66.210.10:80/EmersonZea/ATNKS/576521
 #EXTINF:-1 tvg-id="Sony Comedia" group-title="Comedia" , Sony One Cinema
 https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="" group-title="24/7" , Los Simpson
+https://live20.bozztv.com/akamaissh101/ssh101/simgit/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="24/7" , Los Años Maravillosos
-http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/96782
+96782
 
 #EXTINF:-1 tvg-id="El Chavo" group-title="24/7" , El Chavo del 8
-http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/94852
 
 #EXTINF:-1 tvg-id="Alf" group-title="24/7" , Alf
 
@@ -203,17 +206,19 @@ http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/94852
 https://linear-1069.frequency.stream/mt/plex/1069/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bonanza" group-title="24/7" , Bonanza
-http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/96692
+
 
 
 #EXTINF:-1 tvg-id="Familia Mounsters" group-title="24/7" , Familia Mounsters
-http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/96780
+
 
 #EXTINF:-1 tvg-id="Los Locos Adams" group-title="24/7" , Los Locos Adams
-http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/96777
+
 
 #EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="24/7" , Los Tres Chiflados
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
+
 
 
 #EXTINF:-1 tvg-id="Tooncast" group-title="RETRO" , Tooncast
