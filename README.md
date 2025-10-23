@@ -222,9 +222,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11e
 
 
 #EXTINF:-1 tvg-id="Tooncast" group-title="RETRO" , Tooncast
+https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="Canal Punto 99" group-title="RETRO", Punto 99
+#EXTINF:-1 tvg-id="Retro Magico" group-title="RETRO", Retro Magico
 
 
 #EXTINF:-1 tvg-id="Canal LMS" group-title="RETRO" , LMS
