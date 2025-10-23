@@ -394,6 +394,9 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
 
 #EXTINF:-1 tvg-id="Univision" group-title="Internacional",Univision
+http://nocable.cc:8080/k4Svp2/645504/15336
+
+
 http://e7077d31.ottrast.com/iptv/NH36DFEWS8W4U8/1099/index.m3u8
 
 #EXTINF:-1 tvg-id="Univision West" group-title="Internacional",  Univision West
@@ -632,7 +635,7 @@ http://200.115.120.1:8000/play/ca039/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
-http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9605
+http://nocable.cc:8080/k4Svp2/645504/11885
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN HD
 http://195.66.210.10:80/EmersonZea/ATNKS/456663
