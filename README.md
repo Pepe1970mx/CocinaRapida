@@ -62,7 +62,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 https://mvs.daioncdn.net/mvstv/mvstv.m3u8?app=web
 
 
-https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
 #EXTINF:-1 tvg-id="Telehit" group-title="NACIONAL", Telehit
 https://streamer1.nexgen.bz/TELEHIT/index.m3u8
@@ -100,6 +99,8 @@ https://ch2-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-id="POPCORN.mx" group-title="NACIONAL",  Popcorn
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8?&url=freetv.com&genre=Originales%20de%20FreeTV&us_privacy=1---&coppa=0&c_lang=es&app_bundle=&app_name=FreeTV&app_store_url=&did=4e2ed8b7707ef916f978eb577b2345e2&dnt=0&app_provider=ottera&did_type=sessionid&is_lat=0&content_custom_1_param=internal&ic=IAB-1&custom_6=2612&paln=APP_nonce&wta=API_wta
 
+#EXTINF:-1 tvg-id="Claro TV" group-title="NACIONAL", Canal Claro
+https://stitcher.pluto.tv:443/stitch/hls/channel/68224482c5d53e1351aaf2f2livestitch/master.m3u8?deviceType=web&appVersion=1&deviceDNT=0&deviceMake=safari&deviceModel=web&deviceVersion=1&deviceId=spencer&servertSideAds=false&sid=5eab427a-a6e1-11f0-8dde-36a1e79edff9&profilesFromStream=true
 
 #EXTINF:-1 tvg-id="9 de México XEQ-TDT" group-title="NACIONAL", El Nueve
 http://195.66.210.10:80/EmersonZea/ATNKS/415388
@@ -262,8 +263,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
 http://181.188.216.5:18000/play/a0pm/index.m3u8
 
-#EXTINF:-1 tvg-id="Claro TV" group-title="De Paga", Canal Claro
-https://stitcher.pluto.tv:443/stitch/hls/channel/68224482c5d53e1351aaf2f2livestitch/master.m3u8?deviceType=web&appVersion=1&deviceDNT=0&deviceMake=safari&deviceModel=web&deviceVersion=1&deviceId=spencer&servertSideAds=false&sid=5eab427a-a6e1-11f0-8dde-36a1e79edff9&profilesFromStream=true
+
 
 http://181.188.216.5:18000/play/a09l/index.m3u8
 
