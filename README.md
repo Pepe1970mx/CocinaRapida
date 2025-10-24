@@ -98,7 +98,7 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 https://ch2-tva.duin.dev/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="POPCORN.mx" group-title="NACIONAL",  Popcorn
-https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8?&url=freetv.com&genre=Originales%20de%20FreeTV&us_privacy=1---&coppa=0&c_lang=es&app_bundle=&app_name=FreeTV&app_store_url=&did=4e2ed8b7707ef916f978eb577b2345e2&dnt=0&app_provider=ottera&did_type=sessionid&is_lat=0&content_custom_1_param=internal&ic=IAB-1&custom_6=2612&paln=APP_nonce&wta=API_wta
 
 
 #EXTINF:-1 tvg-id="9 de México XEQ-TDT" group-title="NACIONAL", El Nueve
