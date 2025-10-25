@@ -114,7 +114,7 @@ http://195.66.210.10:80/EmersonZea/ATNKS/415388
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 
 #EXTINF:-1 tvg-id="CANAL 11.mx" group-title="NACIONAL", Canal Once
-https://vivo.canaloncelive.tv:443/alivepkgr3/ngrp:cepro_all/chunklist_b2098304.m3u8
+https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Once Niños" group-title="NACIONAL", Once Niños
 
