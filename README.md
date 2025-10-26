@@ -221,6 +221,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11e
 
 #EXTINF:-1 tvg-id="Tooncast" group-title="RETRO" , Tooncast
 
+#EXTINF:-1 tvg-id="" group-title="RETRO", Epic Toon
+https://sc1.wasidata.com/CartoonsPrime/video.m3u8?token=vibra060425&PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Retro Magico" group-title="RETRO", Retro Magico
 https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/playlist.m3u8
