@@ -439,6 +439,7 @@ http://185.189.225.150:85/TeleCincoHD/index.m3u8
 
 #EXTINF:-1  tvg-id="WAPA TV"  group-title="Internacional" , Wapa
 
+
 #EXTINF:-1 tvg-id="2 de Costa Rica" group-title="Internacional", Canal 2 CR
 https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
 
@@ -452,7 +453,7 @@ https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf9
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="3 de Salvador" group-title="Internacional" , Canal 3 SV
-https://cloud2.streaminglivehd.com:1936/8048/8048/.m3u8
+
 
 
 #EXTINF:-1 tvg-id="4 de Costa Rica" group-title="Internacional" , Canal 4 CR
@@ -461,10 +462,10 @@ https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="4 de Nicaragua" group-title="Internacional" , Canal 4 NI 
 
 #EXTINF:-1 tvg-id="4 de El Salvador" group-title="Internacional" , Canal 4 SV
-http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/50474
+
 
 #EXTINF:-1 tvg-id="5 de Republica Dominicana Telemicro" group-title="Internacional", telemicro 5
-https://live4.telemicro.com.do/live/55/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="5 El Líder Honduras" group-title="Internacional", Canal 5 HN
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
@@ -475,7 +476,8 @@ https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="6 de Nicaragua" group-title="Internacional" , Canal 6 NI
 
 #EXTINF:-1 tvg-id="6 de Salvador" group-title="Internacional" , Canal 6 SV
-http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/428
+https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live-video=729984.m3u8
+
 
 
 #EXTINF:-1 tvg-id="7 de Guatemala" group-title="Internacional" , Canal 7 - Televisiete
@@ -484,6 +486,9 @@ https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="7 de Nicaragua Teletica" group-title="Internacional" , Ticavisio 
 https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/chunklist_w189730781.m3u8
 
+#EXTINF:-1 tvg-id="10 de El Salvador" group-title="Internacional", Canal 10 SV
+https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Canal 11 NI" group-title="Internacional", Canal 11
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
 
@@ -491,7 +496,7 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="13 de Guatemala" group-title="Internacional", Canal 13 - Trecevisión
-http://classic.wolddress.com:8080/737474ndbfvvd/73737bdbrbf73/223643
+
 
 #EXTINF:-1 tvg-id="Canal 13 Esquipula" group-title="Internacional", Canal 13 Esquipulas
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
@@ -499,7 +504,7 @@ https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 #EXTINF:-1 tvg-id="13 de Costa Rica" group-title="Internacional", Canal 13 CR 
 
 #EXTINF:-1 tvg-id="Telecentro 13" group-title="Internacional", Telecentro 13
-https://live4.telemicro.com.do/live/13/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="13 de Argentina El Trece" group-title="Internacional", El trece AR
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
@@ -525,7 +530,7 @@ https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="Internacional", Telecadena 7 y 4
-http://200.52.148.194:8000/play/a04q/index.m3u8
+https://dvrfl03.bozztv.com/hondu-telecadena/index.m3u8
 
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , +Cine
