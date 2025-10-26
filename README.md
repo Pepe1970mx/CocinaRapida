@@ -37,8 +37,6 @@ http://195.66.210.10:80/EmersonZea/ATNKS/56215
 #EXTINF:-1 tvg-id="CGTN Español" group-title="NACIONAL", CGTN En Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-id="Foro TV" group-title="NACIONAL", Foro TV 4.1
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index_6.m3u8&redirect=true
 
@@ -62,8 +60,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 
 #EXTINF:-1 tvg-id="MVSTV" group-title="NACIONAL", MVS TV
 https://mvs.daioncdn.net/mvstv/mvstv.m3u8?app=web
-
-
 
 #EXTINF:-1 tvg-id="Telehit" group-title="NACIONAL", Telehit
 https://streamer1.nexgen.bz/TELEHIT/index.m3u8
@@ -259,6 +255,74 @@ https://stitcher.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u
 
 #EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="RETRO", Pluto Nick Clasico
 https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9593
+
+
+
+#EXTINF:-1 tvg-id="ESPN US" group-title="Sports", ESPN US
+http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/19156/index.m3u8
+
+#EXTINF:-1 tvg-id="Bein Sports US" group-title="Sports", Bein Sports US
+http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/31048/index.m3u8
+
+#EXTINF:-1 tvg-id="1412 beIN Sports" group-title="Sports", BeIn Sports FR
+http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/2499/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN 1 HD" group-title="Sports", DAZN 1
+http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/19042/index.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sports 1 US" group-title="Sports", Fox Sport 1 US
+https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
+
+http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/10814
+
+#EXTINF:-1 tvg-id="618 Fox Sports 2 US" group-title="Sports", Fox Sport 2 US
+https://tvpass.org/live/FoxSports2/sd
+
+
+http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/7323/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="TNT Sports 1" group-title="Sports", TNT Sport 1 UK
+http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/2505/index.m3u8
+
+#EXTINF:-1 tvg-id="Sky Sports Main Event HD UK" group-title="Sports", Sky Sports Main 
+http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/7337/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS Sports Network" group-title="Sports", CBS Sports
+http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/7324/index.m3u8
+
+#EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network
+https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1489fe1a-8afc-11f0-a08f-d2161128e34e
+
+#EXTINF:-1 tvg-id="FOX" group-title="Sports", FOX
+http://nocable.cc:8080/k4Svp2/645504/120901
+
+
+#EXTINF:-1 tvg-id="ESPN 5" group-title="Sports", Espn 5
+
+#EXTINF:-1 tvg-id="Fox Sports Premium" group-title="Sports", Fox Sport Premium
+http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9593
+
+#EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN USA
+
+
+#EXTINF:-1 tvg-id="" group-title="Sports", Futbol Network 
+https://live.relentlessinnovations.net:1936/futbolnetwork/futbolnetwork/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports", Fubo Sport Network 
+
+
+#EXTINF:-1 tvg-id="63f7e3f9dff38e00082a57af" group-title="Sports", ITV Deportes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
+
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0"  group-title="Sports", AyM sports
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
+
+#EXTINF:-1 tvg-id="WAPA deportes" group-title="Sports", Wapa Deportes
+
 
 
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
@@ -672,72 +736,6 @@ http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9535
 http://195.66.210.10:80/EmersonZea/ATNKS/588144
 
 #EXTINF:-1 tvg-id="Fox Sports Premium" group-title="Sports", Fox Sport Premium
-http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9593
-
-
-
-#EXTINF:-1 tvg-id="ESPN US" group-title="Sports", ESPN US
-http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/19156/index.m3u8
-
-#EXTINF:-1 tvg-id="Bein Sports US" group-title="Sports", Bein Sports US
-http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/31048/index.m3u8
-
-#EXTINF:-1 tvg-id="1412 beIN Sports" group-title="Sports", BeIn Sports FR
-http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/2499/index.m3u8
-
-#EXTINF:-1 tvg-id="DAZN 1 HD" group-title="Sports", DAZN 1
-http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/19042/index.m3u8
-
-#EXTINF:-1 tvg-id="Fox Sports 1 US" group-title="Sports", Fox Sport 1 US
-https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
-
-http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/10814
-
-#EXTINF:-1 tvg-id="618 Fox Sports 2 US" group-title="Sports", Fox Sport 2 US
-https://tvpass.org/live/FoxSports2/sd
-
-
-http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/7323/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="TNT Sports 1" group-title="Sports", TNT Sport 1 UK
-http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/2505/index.m3u8
-
-#EXTINF:-1 tvg-id="Sky Sports Main Event HD UK" group-title="Sports", Sky Sports Main 
-http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/7337/index.m3u8
-
-#EXTINF:-1 tvg-id="CBS Sports Network" group-title="Sports", CBS Sports
-http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/7324/index.m3u8
-
-#EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network
-https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1489fe1a-8afc-11f0-a08f-d2161128e34e
-
-#EXTINF:-1 tvg-id="FOX" group-title="Sports", FOX
-http://nocable.cc:8080/k4Svp2/645504/120901
-
-
-#EXTINF:-1 tvg-id="ESPN 5" group-title="Sports", Espn 5
-
-#EXTINF:-1 tvg-id="Fox Sports Premium" group-title="Sports", Fox Sport Premium
-http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9593
-
-#EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN USA
-
-
-#EXTINF:-1 tvg-id="" group-title="Sports", Futbol Network 
-https://live.relentlessinnovations.net:1936/futbolnetwork/futbolnetwork/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports", Fubo Sport Network 
-
-
-#EXTINF:-1 tvg-id="63f7e3f9dff38e00082a57af" group-title="Sports", ITV Deportes
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
-
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0"  group-title="Sports", AyM sports
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
-
-#EXTINF:-1 tvg-id="WAPA deportes" group-title="Sports", Wapa Deportes
 
 
 
