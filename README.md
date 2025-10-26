@@ -498,6 +498,12 @@ https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/
 #EXTINF:-1 tvg-id="TCS+" group-title="Internacional" , TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8
 
+#EXTINF:-1 tvg-id="ATV" group-title="Internacional" , ATV PE
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV Honduras Vica TV" group-title="Internacional", VTV HN
+https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
+
 #EXTINF:-1 tvg-id="Latina TV" group-title="Internacional" , Latina TV
 https://jireh-6-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?dpssid=b2170327254268bc24a5f249f&sid=ba5t1l1xb2194594206468bc271a06b9e&ndvc=0
 
@@ -517,6 +523,8 @@ https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf9
 #EXTINF:-1 tvg-id="2 de Nicaragua" group-title="Internacional", Canal 2 Ni
 
 #EXTINF:-1 tvg-id="3 de Guatemala" group-title="Internacional" , Canal 3 GT
+https://d2qsan2ut81n2k.cloudfront.net/live/6b4f0a21-94d5-4fb6-9742-0f78923723cd/ts:abr.m3u8
+
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="3 de Salvador" group-title="Internacional" , Canal 3 SV
@@ -583,8 +591,7 @@ https://videos.radiozona3.com/Guatevision/index.m3u8
 #EXTINF:-1 tvg-id="ATV Sur" group-title="Internacional" , ATV Sur PE
 https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="ATV" group-title="Internacional" , ATV PE
-https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="Internacional", Ciudad Magica AR
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
@@ -592,8 +599,7 @@ https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 #EXTINF:-1 tvg-id="Ciudad Magacine" group-title="Internacional", Ciudad Magazine AR
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
-#EXTINF:-1 tvg-id="VTV Honduras Vica TV" group-title="Internacional", VTV HN
-https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="Internacional", Telecadena 7 y 4
