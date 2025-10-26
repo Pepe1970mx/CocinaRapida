@@ -190,8 +190,7 @@ https://jmp2.uk/stvp-USBC2100010OS
 #EXTINF:-1 tvg-id="Distrito Comedia" group-title="Comedia" , Distrito Comedia
 http://195.66.210.10:80/EmersonZea/ATNKS/576521
 
-#EXTINF:-1 tvg-id="Sony Comedia" group-title="Comedia" , Sony One Cinema
-https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" group-title="24/7" , Los Simpson
@@ -263,29 +262,28 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u
 
 
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
-http://181.188.216.5:18000/play/a0pm/index.m3u8
 
-
-
-http://181.188.216.5:18000/play/a09l/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal" group-title="De Paga", Cinecanal
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Studio Universal" group-title="De Paga", Studio Universal 
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
+https://streamer1.nexgen.bz/SONY/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT México" group-title="De Paga", TNT
-http://195.66.210.10:80/EmersonZea/ATNKS/439741
+https://streamer1.nexgen.bz/TNT/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" group-title="De Paga", AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony.mx" group-title="De Paga", Sony Movies
-https://fl7.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Cine Sony" group-title="De Paga", Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sony Comedia" group-title="De Paga", Sony One Cinema
+https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ES300003D4" group-title="De Paga", Sony One Series Exitos
 https://d1hcj42s7cseno.cloudfront.net/playlist.m3u8
