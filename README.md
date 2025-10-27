@@ -754,21 +754,21 @@ http://195.66.210.10:80/EmersonZea/ATNKS/588144
 #EXTINF:-1 tvg-id="grjngo" group-title="CINE y Series" , Grjngo
 https://amogonetworx-grjngo-2-mx.tcl.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="CINE y Series" ,Freetv Live
+#EXTINF:-1 tvg-id="FreeTV Live" group-title="CINE y Series" ,Freetv Live
 https://amg01024-amg01024c17-tcl-us-4518.playouts.now.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" group-title="CINE y Series" ,Freetv Sureño
+#EXTINF:-1 tvg-id="FreeTV Sureño" group-title="CINE y Series" ,Freetv Sureño
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="CINE y Series" , Freetv Familia 
+#EXTINF:-1 tvg-id="FreeTV Familia" group-title="CINE y Series" , Freetv Familia 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Freetv acción" group-title="CINE y Series" , Freetv Acción
+#EXTINF:-1 tvg-id="FreeTV Acción" group-title="CINE y Series" , Freetv Acción
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-xiaomi/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" group-title="CINE y Series" , Freetv Estelar
+#EXTINF:-1 tvg-id="FreeTV Estelar" group-title="CINE y Series" , Freetv Estelar
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="CINE y Series" ,
