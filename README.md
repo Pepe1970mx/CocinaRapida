@@ -278,26 +278,23 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
 #EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN SD
-http://195.66.210.10:80/EmersonZea/ATNKS/166029
 
-http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/31103/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN US
 http://200.115.120.1:8000/play/ca039/index.m3u8
-
 
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
 http://nocable.cc:8080/k4Svp2/645504/11885
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN HD
-http://195.66.210.10:80/EmersonZea/ATNKS/456663
+
 
 #EXTINF:-1 tvg-id="CalienteTV.mx" group-title="Sports", Caliente TV
 http://195.66.210.10:80/EmersonZea/ATNKS/558709
 
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes HD
-
+http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/30075/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes
 
@@ -322,7 +319,7 @@ http://181.78.82.6:46090/play/a00v
 #EXTINF:-1 tvg-id="Fox Sports Premium" group-title="Sports", Fox Sport Premium
 
 #EXTINF:-1 tvg-id="ESPN US" group-title="Sports", ESPN US
-
+http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/19156/index.m3u8
 
 #EXTINF:-1 tvg-id="Bein Sports US" group-title="Sports", Bein Sports US
 http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/31048/index.m3u8
