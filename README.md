@@ -261,23 +261,80 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u
 http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9593
 
 
+#EXTINF:-1 tvg-id="63d0269d60bc8f000890facc" group-title="Sports", Fox Deportes Pluto
+https://stitcher.pluto.tv/stitch/hls/channel/63d0269d60bc8f000890facc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7e86f426-259d-11f0-8032-12b21974fd42
+
+#EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" group-title="Sports", Azteca Deportes Premium
+https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=310a09e6-6fd5-11ef-b1af-be21e08b28a0
+
+
+#EXTINF:-1 tvg-id="US2700004DX" group-title="Sports", BeIn Extra en Español
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-tcl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DitecTV Sports" group-title="Sports", DSports
+http://38.183.182.166:8000/play/a125/index.m3u8
+
+#EXTINF:-1 tvg-id="CLAROSPORTS.mx" group-title="Sports", Claro Sports
+https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
+
+#EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN SD
+http://195.66.210.10:80/EmersonZea/ATNKS/166029
+
+http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/31103/index.m3u8
+
+#EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN US
+http://200.115.120.1:8000/play/ca039/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
+http://nocable.cc:8080/k4Svp2/645504/11885
+
+#EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN HD
+http://195.66.210.10:80/EmersonZea/ATNKS/456663
+
+#EXTINF:-1 tvg-id="CalienteTV.mx" group-title="Sports", Caliente TV
+http://195.66.210.10:80/EmersonZea/ATNKS/558709
+
+#EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes HD
+
+
+#EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes
+
+#EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
+http://mundod.ddns.me:2082/stellar341/rodrigo341/53387
+
+#EXTINF:-1 tvg-id="ESPN.mx" group-title="Sports", Espn
+
+
+#EXTINF:-1 tvg-id="ESPN 2.mx" group-title="Sports", Espn 2
+588130
+
+#EXTINF:-1 tvg-id="ESPN 3 Sur" group-title="Sports", Espn 3 HD
+http://181.78.82.6:46090/play/a00v
+
+#EXTINF:-1 tvg-id="ESPN 3.mx" group-title="Sports", Espn 3 HD
+
+
+#EXTINF:-1 tvg-id="ESPN 4.mx" group-title="Sports", Espn 4 HD
+
+
+#EXTINF:-1 tvg-id="Fox Sports Premium" group-title="Sports", Fox Sport Premium
 
 #EXTINF:-1 tvg-id="ESPN US" group-title="Sports", ESPN US
-http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/19156/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Bein Sports US" group-title="Sports", Bein Sports US
-http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/31048/index.m3u8
+http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/31048/index.m3u8
 
 #EXTINF:-1 tvg-id="1412 beIN Sports" group-title="Sports", BeIn Sports FR
-http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/2499/index.m3u8
+
 
 #EXTINF:-1 tvg-id="DAZN 1 HD" group-title="Sports", DAZN 1
-http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/19042/index.m3u8
+http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/19042/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox Sports 1 US" group-title="Sports", Fox Sport 1 US
-https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
-
-http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/10814
+http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/7322/index.m3u8
 
 #EXTINF:-1 tvg-id="618 Fox Sports 2 US" group-title="Sports", Fox Sport 2 US
 https://tvpass.org/live/FoxSports2/sd
@@ -288,13 +345,13 @@ http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/7323/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TNT Sports 1" group-title="Sports", TNT Sport 1 UK
-http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/2505/index.m3u8
+http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/6566/index.m3u8
 
 #EXTINF:-1 tvg-id="Sky Sports Main Event HD UK" group-title="Sports", Sky Sports Main 
-http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/7337/index.m3u8
+http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/9289/index.m3u8
 
 #EXTINF:-1 tvg-id="CBS Sports Network" group-title="Sports", CBS Sports
-http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/7324/index.m3u8
+
 
 #EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1489fe1a-8afc-11f0-a08f-d2161128e34e
@@ -686,65 +743,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u
 #EXTINF:-1 tvg-id="M Estrenos" group-title="España", M Estrenos
 
 
-#EXTINF:-1 tvg-id="63d0269d60bc8f000890facc" group-title="Sports", Fox Deportes Pluto
-https://stitcher.pluto.tv/stitch/hls/channel/63d0269d60bc8f000890facc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7e86f426-259d-11f0-8032-12b21974fd42
-
-#EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" group-title="Sports", Azteca Deportes Premium
-https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=310a09e6-6fd5-11ef-b1af-be21e08b28a0
-
-
-#EXTINF:-1 tvg-id="US2700004DX" group-title="Sports", BeIn Extra en Español
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-tcl/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DitecTV Sports" group-title="Sports", DSports
-http://38.183.182.166:8000/play/a125/index.m3u8
-
-#EXTINF:-1 tvg-id="CLAROSPORTS.mx" group-title="Sports", Claro Sports
-https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
-
-#EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN SD
-http://195.66.210.10:80/EmersonZea/ATNKS/166029
-
-http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/31103/index.m3u8
-
-#EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN US
-http://200.115.120.1:8000/play/ca039/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
-http://nocable.cc:8080/k4Svp2/645504/11885
-
-#EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN HD
-http://195.66.210.10:80/EmersonZea/ATNKS/456663
-
-#EXTINF:-1 tvg-id="CalienteTV.mx" group-title="Sports", Caliente TV
-http://195.66.210.10:80/EmersonZea/ATNKS/558709
-
-#EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes HD
-http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/30075/index.m3u8
-
-#EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes
-
-#EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
-http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/30063/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN.mx" group-title="Sports", Espn
-http://195.66.210.10:80/EmersonZea/ATNKS/588125
-
-#EXTINF:-1 tvg-id="ESPN 2.mx" group-title="Sports", Espn 2
-http://195.66.210.10:80/EmersonZea/ATNKS/588130
-
-#EXTINF:-1 tvg-id="ESPN 3 Sur" group-title="Sports", Espn 3 HD
-http://181.78.82.6:46090/play/a00v
-
-#EXTINF:-1 tvg-id="ESPN 3.mx" group-title="Sports", Espn 3 HD
-http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9535
-
-#EXTINF:-1 tvg-id="ESPN 4.mx" group-title="Sports", Espn 4 HD
-http://195.66.210.10:80/EmersonZea/ATNKS/588144
-
-#EXTINF:-1 tvg-id="Fox Sports Premium" group-title="Sports", Fox Sport Premium
 
 
 
