@@ -318,7 +318,7 @@ http://181.78.82.6:46090/play/a00v
 
 #EXTINF:-1 tvg-id="Fox Sports Premium" group-title="Sports", Fox Sport Premium
 
-#EXTINF:-1 tvg-id="ESPN US" group-title="Sports", ESPN US
+#EXTINF:-1 tvg-id="ESPN USA" group-title="Sports", ESPN US
 http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/19156/index.m3u8
 
 #EXTINF:-1 tvg-id="Bein Sports US" group-title="Sports", Bein Sports US
