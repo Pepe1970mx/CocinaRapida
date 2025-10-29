@@ -353,7 +353,7 @@ http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/9308/index.m3u8
 http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/9289/index.m3u8
 
 #EXTINF:-1 tvg-id="CBS Sports Network" group-title="Sports", CBS Sports
-
+http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/7324/index.m3u8
 
 #EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1489fe1a-8afc-11f0-a08f-d2161128e34e
