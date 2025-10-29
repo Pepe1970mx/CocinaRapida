@@ -346,7 +346,10 @@ http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/7323/index.m3u8
 #EXTINF:-1 tvg-id="TNT Sports 1" group-title="Sports", TNT Sport 1 UK
 http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/6566/index.m3u8
 
-#EXTINF:-1 tvg-id="Sky Sports Main Event HD UK" group-title="Sports", Sky Sports Main 
+#EXTINF:-1 tvg-id="Sky Sports Main Event HD 50 UK" group-title="Sports", Sky Sports Main 
+http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/9308/index.m3u8
+
+#EXTINF:-1 tvg-id="Sky Sports Football HD 50 UK" group-title="Sports", Sky Sports Football HD
 http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/9289/index.m3u8
 
 #EXTINF:-1 tvg-id="CBS Sports Network" group-title="Sports", CBS Sports
