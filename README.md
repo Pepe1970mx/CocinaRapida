@@ -26,9 +26,9 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Imagen TV" group-title="NACIONAL", Imagen TV apk
+http://mundod.ddns.me:2082/stellar341/rodrigo341/2554
 
-
-#EXTINF:-1 tvg-id="Imagen Television" group-title="NACIONAL", Imagen TV -1
+#EXTINF:-1 tvg-id="Imagen TV+" group-title="NACIONAL", Imagen TV -1
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 
 #EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
