@@ -305,7 +305,7 @@ http://mundod.ddns.me:2082/stellar341/rodrigo341/53387
 
 
 #EXTINF:-1 tvg-id="ESPN 2.mx" group-title="Sports", Espn 2
-588130
+http://mundod.ddns.me:2082/stellar341/rodrigo341/56936
 
 #EXTINF:-1 tvg-id="ESPN 3 Sur" group-title="Sports", Espn 3 HD
 http://181.78.82.6:46090/play/a00v
