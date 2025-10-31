@@ -189,8 +189,7 @@ http://195.66.210.10:80/EmersonZea/ATNKS/576521
 
 
 
-#EXTINF:-1 tvg-id="" group-title="24/7" , Los Simpson
-https://live20.bozztv.com/akamaissh101/ssh101/simgit/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" group-title="24/7" , Los Años Maravillosos
 96782
@@ -200,8 +199,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/simgit/playlist.m3u8
 #EXTINF:-1 tvg-id="Alf" group-title="24/7" , Alf
 
 
-#EXTINF:-1 tvg-id="Pantera Rosa te te" group-title="24/7" , Pantera Rosa
-https://linear-1069.frequency.stream/mt/plex/1069/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bonanza" group-title="24/7" , Bonanza
 
@@ -227,6 +224,16 @@ https://sc1.wasidata.com/CartoonsPrime/video.m3u8?token=vibra060425&PlaylistM3UC
 #EXTINF:-1 tvg-id="Retro Magico" group-title="RETRO", Retro Magico
 https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="RETRO" , Los Simpson
+https://live20.bozztv.com/akamaissh101/ssh101/simgit/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Pantera Rosa te te" group-title="RETRO" , Pantera Rosa
+https://linear-1069.frequency.stream/mt/plex/1069/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mi TV Television Clasica" group-title="RETRO", Mi TV televisión Clasica
+https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
+
 #EXTINF:-1 tvg-id="Canal LMS" group-title="RETRO" , LMS
 https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
 
@@ -245,8 +252,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleRed" group-title="RETRO" , Telered
 https://k20.usastreams.com:8081/telered/index.m3u8
 
-#EXTINF:-1 tvg-id="Mi TV Television Clasica" group-title="RETRO", Mi TV televisión Clasica
-https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
+
 
 #EXTINF:-1 tvg-id="5de802659167b10009e7deba" group-title="RETRO", Pluto Series Retro
 https://stitcher.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
