@@ -226,11 +226,14 @@ https://sc1.wasidata.com/CartoonsPrime/video.m3u8?token=vibra060425&PlaylistM3UC
 #EXTINF:-1 tvg-id="Retro Magico" group-title="RETRO", Retro Magico
 https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="RETRO" , Los Simpson
+#EXTINF:-1 tvg-id="Los Simpson" group-title="RETRO" , Los Simpson
 https://live20.bozztv.com/akamaissh101/ssh101/simgit/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="RETRO" , Tom y Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Pantera Rosa te te" group-title="RETRO" , Pantera Rosa
+
+#EXTINF:-1 tvg-id="La Pantera Rosa" group-title="RETRO" , Pantera Rosa
 https://linear-1069.frequency.stream/mt/plex/1069/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mi TV Television Clasica" group-title="RETRO", Mi TV televisión Clasica
