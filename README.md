@@ -545,6 +545,7 @@ http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/1100/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Teleonce Univision PR
+https://bk7l2zwglx53-hls-live.5centscdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/TeleOnce/EnVivo4/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Galavision" group-title="Internacional", Galavision
 http://195.66.210.10:80/EmersonZea/ATNKS/53754
