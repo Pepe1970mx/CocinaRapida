@@ -520,7 +520,7 @@ http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/1080/index.m3u8
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Punto 2 Puerto Rico" group-title="Internacional", Telemundo PR
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo Puerto Rico" group-title="Internacional", Punto 2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
