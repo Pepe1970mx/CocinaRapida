@@ -95,7 +95,9 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 https://ch2-tva.duin.dev/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="POPCORN.mx" group-title="NACIONAL",  Popcorn
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8?&url=freetv.com&genre=Originales%20de%20FreeTV&us_privacy=1---&coppa=0&c_lang=es&app_bundle=&app_name=FreeTV&app_store_url=&did=4e2ed8b7707ef916f978eb577b2345e2&dnt=0&app_provider=ottera&did_type=sessionid&is_lat=0&content_custom_1_param=internal&ic=IAB-1&custom_6=2612&paln=APP_nonce&wta=API_wta
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16333&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1---&did=948ef29c2686a78ad1e1f64adedd313f&ifa_type=sessionid&app_bundle=&app_store_url=&app_domain=freetv.com&app_name=freetv&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=freetv&content_network=freetv&partner_domain=freetv.com&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&country=mx&country_region=tamaulipas&postal_code=88736&gender=not_specified&yob=0&site_page=https%253A%252F%252Fwww.freetv.com%252Fes%252Flinear%252Fpopcorn-central-0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web
+
+
 
 #EXTINF:-1 tvg-id="Claro TV" group-title="NACIONAL", Canal Claro
 https://stitcher.pluto.tv:443/stitch/hls/channel/68224482c5d53e1351aaf2f2livestitch/master.m3u8?deviceType=web&appVersion=1&deviceDNT=0&deviceMake=safari&deviceModel=web&deviceVersion=1&deviceId=spencer&servertSideAds=false&sid=5eab427a-a6e1-11f0-8dde-36a1e79edff9&profilesFromStream=true
