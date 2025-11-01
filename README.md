@@ -309,10 +309,10 @@ http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/30075/index.m3u8
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
 http://mundod.ddns.me:2082/stellar341/rodrigo341/53387
 
-#EXTINF:-1 tvg-id="ESPN.mx" group-title="Sports", Espn
+#EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes 2
+https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
-
-#EXTINF:-1 tvg-id="ESPN 2.mx" group-title="Sports", Espn 2
+#EXTINF:-1 tvg-id="ESPN 2 Sur" group-title="Sports", Espn 2
 http://mundod.ddns.me:2082/stellar341/rodrigo341/56936
 
 #EXTINF:-1 tvg-id="ESPN 3 Sur" group-title="Sports", Espn 3 HD
@@ -361,6 +361,8 @@ http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/9308/index.m3u8
 http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/9289/index.m3u8
 
 #EXTINF:-1 tvg-id="CBS Sports Network" group-title="Sports", CBS Sports
+https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
 http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/7324/index.m3u8
 
 #EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network
