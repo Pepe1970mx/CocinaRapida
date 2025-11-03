@@ -212,8 +212,7 @@ http://195.66.210.10:80/EmersonZea/ATNKS/576521
 #EXTINF:-1 tvg-id="Los Locos Adams" group-title="24/7" , Los Locos Adams
 
 
-#EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="24/7" , Los Tres Chiflados
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
 
 
 
@@ -226,6 +225,10 @@ https://sc1.wasidata.com/CartoonsPrime/video.m3u8?token=vibra060425&PlaylistM3UC
 #EXTINF:-1 tvg-id="Retro Magico" group-title="RETRO", Retro Magico
 https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/playlist.m3u8
 
+#EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="RETRO" , Los Tres Chiflados
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
+
 #EXTINF:-1 tvg-id="Los Simpson" group-title="RETRO" , Los Simpson
 https://live20.bozztv.com/akamaissh101/ssh101/simgit/playlist.m3u8
 
@@ -235,6 +238,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
 #EXTINF:-1 tvg-id="La Pantera Rosa" group-title="RETRO" , Pantera Rosa
 https://linear-1069.frequency.stream/mt/plex/1069/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="RETRO" , Retro Club
+https://video08.logicahost.com.br/retroclub/retroclub/playlist.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-id="Mi TV Television Clasica" group-title="RETRO", Mi TV televisión Clasica
 https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
@@ -256,8 +262,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TeleRed" group-title="RETRO" , Telered
 https://k20.usastreams.com:8081/telered/index.m3u8
-
-
 
 #EXTINF:-1 tvg-id="5de802659167b10009e7deba" group-title="RETRO", Pluto Series Retro
 https://stitcher.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
