@@ -556,7 +556,7 @@ http://195.66.210.10:80/EmersonZea/ATNKS/53754
 http://206.212.244.71:8080/Abxc5k/363887/58770
 
 #EXTINF:-1 tvg-id="Wapa" group-title="Internacional", Wapa
-
+http://mundod.ddns.me:2082/stellar341/rodrigo341/7098
 
 #EXTINF:-1 tvg-id="5cf0622da00ca1e2f6fac712" group-title="Internacional", Estrella TV
 https://amg00567-estrellamedia-estrellatv-lgus-1g48u.amagi.tv/playlist/amg00567-estrellamedia-estrellatv-lgus/playlist.m3u8
