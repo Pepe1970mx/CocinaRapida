@@ -269,9 +269,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u
 #EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="RETRO", Pluto Nick Clasico
 https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
-http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9593
-
-
 #EXTINF:-1 tvg-id="63d0269d60bc8f000890facc" group-title="Sports", Fox Deportes Pluto
 https://stitcher.pluto.tv/stitch/hls/channel/63d0269d60bc8f000890facc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7e86f426-259d-11f0-8032-12b21974fd42
 
@@ -580,8 +577,8 @@ https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="Latina TV" group-title="Internacional" , Latina TV
 https://jireh-6-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?dpssid=b2170327254268bc24a5f249f&sid=ba5t1l1xb2194594206468bc271a06b9e&ndvc=0
 
-#EXTINF:-1 tvg-id="Telecinco" group-title="Internacional", Telecinco
-http://185.189.225.150:85/TeleCincoHD/index.m3u8
+#EXTINF:-1 tvg-id="TVMAX" group-title="Internacional", TVMAX
+http://mundod.ddns.me:2082/stellar341/rodrigo341/52717
 
 #EXTINF:-1  tvg-id="WAPA TV"  group-title="Internacional" , Wapa
 
