@@ -182,17 +182,6 @@ https://jmp2.uk/stvp-USBD2700004ME
 https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5eab427a-a6e1-11f0-8dde-36a1e79edff9
 
 
-#EXTINF:-1 tvg-id="USBC2100010OS" group-title="Comedia" , ViX Jajaja 
-https://jmp2.uk/stvp-USBC2100010OS
-
-#EXTINF:-1 tvg-id="Distrito Comedia" group-title="Comedia" , Distrito Comedia
-http://195.66.210.10:80/EmersonZea/ATNKS/576521
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" group-title="24/7" , Los Años Maravillosos
 96782
 
@@ -510,6 +499,13 @@ https://s5.mexside.net:1936/france24/france24/playlist.m3u8
 
 #EXTINF:-1 tvg-id"CNN EN ESPAÃOL.mx" group-title="NOTICIAS", CNN en Español 
 https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
+
+
+#EXTINF:-1 tvg-id="USBC2100010OS" group-title="Internacional" , ViX Jajaja 
+https://jmp2.uk/stvp-USBC2100010OS
+
+#EXTINF:-1 tvg-id="Distrito Comedia" group-title="Internacional" , Distrito Comedia
+http://mundod.ddns.me:2082/stellar341/rodrigo341/7104
 
 #EXTINF:-1  tvg-id="US2200005Y2"  group-title="Internacional" , Canal Vix
 https://jmp2.uk/stvp-US2200005Y2
