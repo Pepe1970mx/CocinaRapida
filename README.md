@@ -396,7 +396,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 
 
 #EXTINF:-1 tvg-id="Studio Universal" group-title="De Paga", Studio Universal 
-https://streamer1.nexgen.bz/SONY/index.m3u8
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
+
 
 #EXTINF:-1 tvg-id="TNT México" group-title="De Paga", TNT
 https://streamer1.nexgen.bz/TNT/index.m3u8
@@ -405,7 +406,7 @@ https://streamer1.nexgen.bz/TNT/index.m3u8
 https://streamer1.nexgen.bz/AXN/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony.mx" group-title="De Paga", Sony Movies
-
+https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="Cine Sony" group-title="De Paga", Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
