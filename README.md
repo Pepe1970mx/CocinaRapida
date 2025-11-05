@@ -74,7 +74,7 @@ https://mvs.daioncdn.net:443/exatv/exatv_1080p.m3u8?&sid=76arxwhpzqio&app=188fff
 https://stitcher.pluto.tv/stitch/hls/channel/6868152657543d1f8be4ece3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6197527c-ae15-11f0-8917-d68048b50b75
 
 #EXTINF:-1 tvg-id="NickMusic" group-title="NACIONAL", Nick Music
-
+https://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8
 
 #EXTINF:-1 tvg-id="Teleritmo" group-title="NACIONAL", Teleritmo 
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
