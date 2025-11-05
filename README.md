@@ -814,13 +814,13 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-xiaomi/
 http://195.66.210.10:80/EmersonZea/ATNKS/54404
 
 #EXTINF:-1 tvg-id="Nick" group-title="Kids", Nick HD
-http://195.66.210.10:80/EmersonZea/ATNKS/9424
-
-els HD
 
 
-#EXTINF:-1 tvg-id="Dosney Channel" group-title="Kids", Disney Channel
+#EXTINF:-1 tvg-id="Disney Channel" group-title="Kids", Disney Channel
 http://201.230.121.186:8000/play/a0fb/index.m3u8
+
+#EXTINF:-1 tvg-id="Disney Jr." group-title="Kids", Disney Jr.
+http://38.183.182.166:8000/play/a0j9/index.m3u8
 
 #EXTINF:-1 tvg-id="5d8d08395f39465da6fb3ec4" group-title="Kids", Nickelodeon en español 
 
