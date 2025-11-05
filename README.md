@@ -819,8 +819,8 @@ http://195.66.210.10:80/EmersonZea/ATNKS/9424
 els HD
 
 
-#EXTINF:-1 tvg-id="645952687cb4b100084ed52e" group-title="Kids", Nickelodeon Pluto TV
-
+#EXTINF:-1 tvg-id="Dosney Channel" group-title="Kids", Disney Channel
+http://201.230.121.186:8000/play/a0fb/index.m3u8
 
 #EXTINF:-1 tvg-id="5d8d08395f39465da6fb3ec4" group-title="Kids", Nickelodeon en español 
 
