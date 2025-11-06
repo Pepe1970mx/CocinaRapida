@@ -391,7 +391,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 
 
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
-
+http://mundod.ddns.me:2082/stellar341/rodrigo341/7015
 
 #EXTINF:-1 tvg-id="Cinecanal" group-title="De Paga", Cinecanal
 
@@ -401,7 +401,7 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.
 
 
 #EXTINF:-1 tvg-id="TNT México" group-title="De Paga", TNT
-https://streamer1.nexgen.bz/TNT/index.m3u8
+
 
 #EXTINF:-1 tvg-id="AXN" group-title="De Paga", AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
@@ -443,6 +443,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/65662f8a2c46f300088a84cc/master.m3u
 
 
 #EXTINF:-1 tvg-id="Warner Channel México" group-title="De Paga", Warner 
+http://mundod.ddns.me:2082/stellar341/rodrigo341/7049
+
 
 #EXTINF:-1 tvg-id="Space México" group-title="De Paga", Space HD
 http://195.66.210.10:80/EmersonZea/ATNKS/54168
