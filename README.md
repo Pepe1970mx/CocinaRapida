@@ -393,6 +393,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
 http://mundod.ddns.me:2082/stellar341/rodrigo341/7015
 
+#EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", FM Frecuencia Musical
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13014
+
 #EXTINF:-1 tvg-id="Cinecanal" group-title="De Paga", Cinecanal
 
 
