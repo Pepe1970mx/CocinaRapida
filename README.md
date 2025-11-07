@@ -209,6 +209,10 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u
 #EXTINF:-1 tvg-id="Tooncast" group-title="RETRO" , Tooncast
 http://mundod.ddns.me:2082/stellar341/rodrigo341/2482
 
+#EXTINF:-1 tvg-id=" " group-title="RETRO" , Canal Clasicos Animadas
+https://live20.bozztv.com/giatvplayout7/giatv-209599/index.m3u8
+
+
 #EXTINF:-1 tvg-id="" group-title="RETRO", Epic Toon
 https://sc1.wasidata.com/CartoonsPrime/video.m3u8?token=vibra060425&PlaylistM3UCL
 
