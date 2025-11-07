@@ -612,6 +612,7 @@ https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="4 de Nicaragua" group-title="Internacional" , Canal 4 NI 
+https://www.dailymotion.com/cdn/live/video/x7rwv8c.m3u8?sec=QXeJlyXPksogJGbVBKhAwj4FfP4k4Ech2BfGF2S1zTDXhRCItNcRoiEiUmYtR2-kSqU03DNoOayxjDcu8xYLiA&dmTs=258755&dmV1st=37648451-4e63-4615-8520-270d54921eef
 
 #EXTINF:-1 tvg-id="4 de El Salvador" group-title="Internacional" , Canal 4 SV
 
