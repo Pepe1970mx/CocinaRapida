@@ -212,6 +212,11 @@ http://mundod.ddns.me:2082/stellar341/rodrigo341/2482
 #EXTINF:-1 tvg-id=" " group-title="RETRO" , Canal Clasicos Animadas
 https://live20.bozztv.com/giatvplayout7/giatv-209599/index.m3u8
 
+#EXTINF:-1 tvg-id="Retrotoons" group-title="RETRO" , Retro Toons
+https://live20.bozztv.com/akamaissh101/ssh101/retrotoons/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal Family" group-title="RETRO" , Canal Family
+https://live20.bozztv.com/giatvplayout7/giatv-209633/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="RETRO", Epic Toon
 https://sc1.wasidata.com/CartoonsPrime/video.m3u8?token=vibra060425&PlaylistM3UCL
