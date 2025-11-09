@@ -405,8 +405,8 @@ http://mundod.ddns.me:2082/stellar341/rodrigo341/7015
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", FM Frecuencia Musical
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13014
 
-#EXTINF:-1 tvg-id="Cinecanal" group-title="De Paga", Cinecanal
-
+#EXTINF:-1 tvg-id="WOW TV" group-title="De Paga", WOW TV
+https://cdn-startv.cef-technology.com/wow/wow_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Studio Universal" group-title="De Paga", Studio Universal 
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
