@@ -310,6 +310,8 @@ http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/30075/index.m3u8
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
+https://e1.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8?token=1k1UYzV3fMExdT6InezeXg&expires=1762746978&user_id=b29VZlVjUUE1UFZwYUptaHhFODZQOWJkdVFvQWdYWlR1QklkSmZiSQ==
+
 http://mundod.ddns.me:2082/stellar341/rodrigo341/53387
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes 2
@@ -332,6 +334,8 @@ http://181.78.82.6:46090/play/a00v
 http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/19201/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN US" group-title="Sports", ESPN US
+https://v12.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=_qLnwoHyaW77tGS9m1QcFw&expires=1762747188&user_id=b29VZlVjUUE1UFZwYUptaHhFODZQOWJkdVFvQWdYWlR1QklkSmZiSQ==
+
 http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/19156/index.m3u8
 
 #EXTINF:-1 tvg-id="Bein Sports US" group-title="Sports", Bein Sports US
