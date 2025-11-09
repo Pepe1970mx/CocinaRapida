@@ -530,7 +530,7 @@ https://jmp2.uk/stvp-US2200005Y2
 http://nocable.cc:8080/k4Svp2/645504/120691
 
 #EXTINF:-1 tvg-id="Telemundo" group-title="Internacional", Telemundo 1
-http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/1080/index.m3u8
+https://v14.thetvapp.to/hls/TelemundoEast/tracks-v1a1/mono.m3u8?token=CMNZjGaG-kmp7X6zfTUSFw&expires=1762723352&user_id=bUlHQTh1YVhSMGtTNnZzYzFZanBudFE2RXFRV0xxUlk3WWQweWJ5MQ==
 
 #EXTINF:-1 tvg-id="UNIVERSO" group-title="Internacional", UNIVERSO
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
@@ -547,6 +547,8 @@ http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
 #EXTINF:-1 tvg-id="Univision" group-title="Internacional",Univision
 http://nocable.cc:8080/k4Svp2/645504/15336
 
+#EXTINF:-1 tvg-id="Univision" group-title="Internacional",Univision 2
+https://v16.thetvapp.to/hls/UnivisionEast/tracks-v1a1/mono.m3u8?token=_F0Gn7Kn-WWzzyDuwdywEw&expires=1762723512&user_id=bUlHQTh1YVhSMGtTNnZzYzFZanBudFE2RXFRV0xxUlk3WWQweWJ5MQ==
 
 http://e7077d31.ottrast.com/iptv/NH36DFEWS8W4U8/1099/index.m3u8
 
