@@ -103,7 +103,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16333&avod=1&coppa=0&is_la
 https://stitcher.pluto.tv:443/stitch/hls/channel/68224482c5d53e1351aaf2f2livestitch/master.m3u8?deviceType=web&appVersion=1&deviceDNT=0&deviceMake=safari&deviceModel=web&deviceVersion=1&deviceId=spencer&servertSideAds=false&sid=5eab427a-a6e1-11f0-8dde-36a1e79edff9&profilesFromStream=true
 
 #EXTINF:-1 tvg-id="9 de México XEQ-TDT" group-title="NACIONAL", El Nueve
-http://195.66.210.10:80/EmersonZea/ATNKS/415388
+
 
 #EXTINF:-1 tvg-id="El Heraldo TV" group-title="NACIONAL" , Heraldo TV
 
@@ -207,7 +207,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u
 
 
 #EXTINF:-1 tvg-id="Tooncast" group-title="RETRO" , Tooncast
-http://mundod.ddns.me:2082/stellar341/rodrigo341/2482
 
 #EXTINF:-1 tvg-id=" " group-title="RETRO" , Canal Clasicos Animadas
 https://live20.bozztv.com/giatvplayout7/giatv-209599/index.m3u8
