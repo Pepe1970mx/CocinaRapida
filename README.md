@@ -423,12 +423,14 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.
 https://streamer1.nexgen.bz/AXN/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony.mx" group-title="De Paga", Sony Movies
+http://38.183.182.166:8000/play/a0vg/index.m3u8
+
 https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="Cine Sony" group-title="De Paga", Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sony Comedia" group-title="De Paga", Sony One Cinema
+#EXTINF:-1 tvg-id="Sony One Cinema" group-title="De Paga", Sony One Cinema
 https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ES300003D4" group-title="De Paga", Sony One Series Exitos
@@ -439,9 +441,6 @@ https://de9yx47crxs6l.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ES30000145" group-title="De Paga", Sony One Hits Comedia
 https://d3m8rnla2v9m5d.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ES300003D4" group-title="De Paga", Sony One Series Comedia
-https://d1fhd07bw4d2d6.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ES30000145" group-title="De Paga", Sony One Series Comedia
 https://d1fhd07bw4d2d6.cloudfront.net/playlist.m3u8
@@ -459,11 +458,11 @@ https://stitcher.pluto.tv/stitch/hls/channel/65662f8a2c46f300088a84cc/master.m3u
 
 
 #EXTINF:-1 tvg-id="Warner Channel México" group-title="De Paga", Warner 
-http://mundod.ddns.me:2082/stellar341/rodrigo341/7049
+
 
 
 #EXTINF:-1 tvg-id="Space México" group-title="De Paga", Space HD
-http://195.66.210.10:80/EmersonZea/ATNKS/54168
+
 
 #EXTINF:-1 tvg-id="Multicinema" group-title="De Paga", Multicinema
 
@@ -472,7 +471,7 @@ http://195.66.210.10:80/EmersonZea/ATNKS/54168
 
 
 #EXTINF:-1 tvg-id="FX" group-title="De Paga", FX
-https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="USA" group-title="De Paga", USA
@@ -484,10 +483,10 @@ https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:-1 tvg-id=" " group-title="De Paga",SYFY
 
 #EXTINF:-1 tvg-id="Paramount Channel" group-title="De Paga", Paramount España
-http://185.189.225.150:85/Paramount/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Movistar Estreno" group-title="De Paga" , Movistar Estreno
-http://1djin5bz.otttv.pw/iptv/T3QNN5USCUQ4NP/6078/index.m3u8
+
 
 #EXTINF:-1 tvg-id="amc_españa" group-title="De Paga", AMC España
 http://vegafibratv.com:8085/AMC/index.m3u8
