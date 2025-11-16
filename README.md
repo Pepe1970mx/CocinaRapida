@@ -94,13 +94,17 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-id="a+ Guatemala" group-title="NACIONAL", A Mas Guatemala 
 https://ch2-tva.duin.dev/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="Claro TV" group-title="NACIONAL", Canal Claro
+https://stitcher.pluto.tv:443/stitch/hls/channel/68224482c5d53e1351aaf2f2livestitch/master.m3u8?deviceType=web&appVersion=1&deviceDNT=0&deviceMake=safari&deviceModel=web&deviceVersion=1&deviceId=spencer&servertSideAds=false&sid=5eab427a-a6e1-11f0-8dde-36a1e79edff9&profilesFromStream=true
+
+
+
+
 #EXTINF:-1 tvg-id="POPCORN.mx" group-title="NACIONAL",  Popcorn
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16333&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1---&did=948ef29c2686a78ad1e1f64adedd313f&ifa_type=sessionid&app_bundle=&app_store_url=&app_domain=freetv.com&app_name=freetv&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=freetv&content_network=freetv&partner_domain=freetv.com&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&country=mx&country_region=tamaulipas&postal_code=88736&gender=not_specified&yob=0&site_page=https%253A%252F%252Fwww.freetv.com%252Fes%252Flinear%252Fpopcorn-central-0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web
 
 
 
-#EXTINF:-1 tvg-id="Claro TV" group-title="NACIONAL", Canal Claro
-https://stitcher.pluto.tv:443/stitch/hls/channel/68224482c5d53e1351aaf2f2livestitch/master.m3u8?deviceType=web&appVersion=1&deviceDNT=0&deviceMake=safari&deviceModel=web&deviceVersion=1&deviceId=spencer&servertSideAds=false&sid=5eab427a-a6e1-11f0-8dde-36a1e79edff9&profilesFromStream=true
 
 #EXTINF:-1 tvg-id="9 de México XEQ-TDT" group-title="NACIONAL", El Nueve
 
@@ -281,34 +285,34 @@ https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u
 #EXTINF:-1 tvg-id="US2700004DX" group-title="Sports", BeIn Extra en Español
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-tcl/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DIRECTV Sports MixHD" group-title="Sports", DSports MixHD
+#EXTINF:-1 tvg-id="DIRECTV Sports MixHD" group-title="Sports", DSports
 http://38.183.182.166:8000/play/a125/index.m3u8
 
 #EXTINF:-1 tvg-id="CLAROSPORTS.mx" group-title="Sports", Claro Sports
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
 #EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN SD
-
+http://nocable.cc:8080/k4Svp2/645504/11885
 
 #EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN US
-http://200.115.120.1:8000/play/ca039/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
-http://nocable.cc:8080/k4Svp2/645504/11885
+http://200.115.120.1:8000/play/ca039/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN HD
 
 
 #EXTINF:-1 tvg-id="CalienteTV.mx" group-title="Sports", Caliente TV
-http://195.66.210.10:80/EmersonZea/ATNKS/558709
+
 
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes HD
 http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/30075/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes
 
-#EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
+EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
 https://e1.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8?token=1k1UYzV3fMExdT6InezeXg&expires=1762746978&user_id=b29VZlVjUUE1UFZwYUptaHhFODZQOWJkdVFvQWdYWlR1QklkSmZiSQ==
 
 http://mundod.ddns.me:2082/stellar341/rodrigo341/53387
@@ -336,6 +340,10 @@ http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/19201/index.m3u8
 https://v12.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=_qLnwoHyaW77tGS9m1QcFw&expires=1762747188&user_id=b29VZlVjUUE1UFZwYUptaHhFODZQOWJkdVFvQWdYWlR1QklkSmZiSQ==
 
 http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/19156/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2" group-title="Sports", ESPN2
+https://e1.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=pXtzbDCw3v-z7p0F56uIcg&expires=1763348211&user_id=TGxrZ3lWVjZGVTNMYWJlbWlwN09mRXo1bE52RE5OYzA3MHBEeTlaQQ==
+
 
 #EXTINF:-1 tvg-id="Bein Sports US" group-title="Sports", Bein Sports US
 http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/31048/index.m3u8
