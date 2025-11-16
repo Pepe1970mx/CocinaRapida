@@ -206,16 +206,16 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u
 
 
 
+#EXTINF:-1 tvg-id="Clan" group-title="RETRO y ENTRETENIMIENTO" , Clan
+https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
 
-
-
-#EXTINF:-1 tvg-id="Nickelodeon Mexico" group-title="RETRO" , Nickelodeon 
+#EXTINF:-1 tvg-id="Nickelodeon Mexico" group-title="RETRO y ENTRETENIMIENTO" , Nickelodeon 
 http://179.51.136.19:8000/play/a0q4/index.m3u8
 
-#EXTINF:-1 tvg-id="5de802659167b10009e7deba" group-title="RETRO", Pluto Series Retro
+#EXTINF:-1 tvg-id="5de802659167b10009e7deba" group-title="RETRO y ENTRETENIMIENTO", Pluto Series Retro
 https://stitcher.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="RETRO", Pluto Nick Clasico
+#EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="RETRO y ENTRETENIMIENTO", Pluto Nick Clasico
 https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="Tooncast" group-title="RETRO" , Tooncast
