@@ -209,6 +209,14 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u
 
 
 
+#EXTINF:-1 tvg-id="Nickelodeon Mexico" group-title="RETRO" , Nickelodeon 
+http://179.51.136.19:8000/play/a0q4/index.m3u8
+
+#EXTINF:-1 tvg-id="5de802659167b10009e7deba" group-title="RETRO", Pluto Series Retro
+https://stitcher.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="RETRO", Pluto Nick Clasico
+https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="Tooncast" group-title="RETRO" , Tooncast
 
@@ -265,15 +273,13 @@ https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleRed" group-title="RETRO" , Telered
 https://k20.usastreams.com:8081/telered/index.m3u8
 
-#EXTINF:-1 tvg-id="5de802659167b10009e7deba" group-title="RETRO", Pluto Series Retro
-https://stitcher.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
 
 
 #EXTINF:-1 tvg-id="60142258a54aeb0007751c15" group-title="RETRO", Pluto Retro Cartoons
 
 
-#EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="RETRO", Pluto Nick Clasico
-https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
 
 #EXTINF:-1 tvg-id="63d0269d60bc8f000890facc" group-title="Sports", Fox Deportes Pluto
 https://stitcher.pluto.tv/stitch/hls/channel/63d0269d60bc8f000890facc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7e86f426-259d-11f0-8032-12b21974fd42
@@ -422,9 +428,8 @@ https://cdn-startv.cef-technology.com/wow/wow_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Studio Universal" group-title="De Paga", Studio Universal 
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
 
-
-#EXTINF:-1 tvg-id="TNT México" group-title="De Paga", TNT
-
+#EXTINF:-1 tvg-id="Cinecanal México" group-title="De Paga", Cinecanal
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" group-title="De Paga", AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
@@ -432,6 +437,7 @@ https://streamer1.nexgen.bz/AXN/index.m3u8
 #EXTINF:-1 tvg-id="Sony.mx" group-title="De Paga", Sony Movies
 http://38.183.182.166:8000/play/a0vg/index.m3u8
 
+#EXTINF:-1 tvg-id="Sony.mx" group-title="De Paga", Sony Movies
 https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="Cine Sony" group-title="De Paga", Sony Cine
