@@ -550,9 +550,9 @@ http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
 http://nocable.cc:8080/k4Svp2/645504/15336
 
 #EXTINF:-1 tvg-id="Univision" group-title="Internacional",Univision 2
-https://v16.thetvapp.to/hls/UnivisionEast/tracks-v1a1/mono.m3u8?token=_F0Gn7Kn-WWzzyDuwdywEw&expires=1762723512&user_id=bUlHQTh1YVhSMGtTNnZzYzFZanBudFE2RXFRV0xxUlk3WWQweWJ5MQ==
+https://e2.thetvapp.to/hls/UnivisionEast/tracks-v1a1/mono.m3u8?token=3-qCgFNFM2EcV2tuD7pKvA&expires=1763333677&user_id=VGpJU2ZDMThpV0kxS0hidmt3R0JFU2xFOVBraGJUQVllOU5xWWp0MQ==
 
-http://e7077d31.ottrast.com/iptv/NH36DFEWS8W4U8/1099/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Univision West" group-title="Internacional",  Univision West
 http://206.212.244.71:8080/Abxc5k/363887/108248
