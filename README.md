@@ -367,7 +367,7 @@ http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/9308/index.m3u8
 http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/9289/index.m3u8
 
 #EXTINF:-1 tvg-id="CBS Sports Network" group-title="Sports", CBS Sports
-https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+https://v5.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v1a1/mono.m3u8?token=S0wTW71uJlMw6q4IAL-sxQ&expires=1763333049&user_id=VGpJU2ZDMThpV0kxS0hidmt3R0JFU2xFOVBraGJUQVllOU5xWWp0MQ==
 
 http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/7324/index.m3u8
 
