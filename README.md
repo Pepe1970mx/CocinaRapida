@@ -348,8 +348,8 @@ https://e1.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=pXtzbDCw3v-z7p0F56
 #EXTINF:-1 tvg-id="Bein Sports US" group-title="Sports", Bein Sports US
 http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/31048/index.m3u8
 
-#EXTINF:-1 tvg-id="1412 beIN Sports" group-title="Sports", BeIn Sports FR
-
+#EXTINF:-1 tvg-id="1412 beIN Sports" group-title="Sports", Fubo Sports Network 
+https://livetv-fa.tubi.video/fubo/master.m3u8
 
 #EXTINF:-1 tvg-id="DAZN 1 HD" group-title="Sports", DAZN 1
 http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/19042/index.m3u8
