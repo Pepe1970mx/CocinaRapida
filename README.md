@@ -310,9 +310,6 @@ http://200.115.120.1:8000/play/ca039/index.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN HD
 
 
-#EXTINF:-1 tvg-id="CalienteTV.mx" group-title="Sports", Caliente TV
-
-
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes HD
 http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/30075/index.m3u8
 
@@ -321,23 +318,11 @@ http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/30075/index.m3u8
 EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
 https://e1.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8?token=1k1UYzV3fMExdT6InezeXg&expires=1762746978&user_id=b29VZlVjUUE1UFZwYUptaHhFODZQOWJkdVFvQWdYWlR1QklkSmZiSQ==
 
-http://mundod.ddns.me:2082/stellar341/rodrigo341/53387
-
-#EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes 2
+#EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes 
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 2 Sur" group-title="Sports", Espn 2
-http://mundod.ddns.me:2082/stellar341/rodrigo341/56936
 
 #EXTINF:-1 tvg-id="ESPN 3 Sur" group-title="Sports", Espn 3 HD
 http://181.78.82.6:46090/play/a00v
-
-#EXTINF:-1 tvg-id="ESPN 3.mx" group-title="Sports", Espn 3 HD
-
-#EXTINF:-1 tvg-id="ESPN 4.mx" group-title="Sports", Espn 4 HD
-
-
-#EXTINF:-1 tvg-id="Fox Sports Premium" group-title="Sports", Fox Sport Premium
 
 #EXTINF:-1 tvg-id="ESPN 1 HD NL" group-title="Sports", ESPN 1 HD NL
 http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/19201/index.m3u8
@@ -345,16 +330,10 @@ http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/19201/index.m3u8
 #EXTINF:-1 tvg-id="ESPN US" group-title="Sports", ESPN US
 https://v12.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=_qLnwoHyaW77tGS9m1QcFw&expires=1762747188&user_id=b29VZlVjUUE1UFZwYUptaHhFODZQOWJkdVFvQWdYWlR1QklkSmZiSQ==
 
-http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/19156/index.m3u8
-
 #EXTINF:-1 tvg-id="ESPN2" group-title="Sports", ESPN2
 https://e1.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=pXtzbDCw3v-z7p0F56uIcg&expires=1763348211&user_id=TGxrZ3lWVjZGVTNMYWJlbWlwN09mRXo1bE52RE5OYzA3MHBEeTlaQQ==
 
-
-#EXTINF:-1 tvg-id="Bein Sports US" group-title="Sports", Bein Sports US
-http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/31048/index.m3u8
-
-#EXTINF:-1 tvg-id="1412 beIN Sports" group-title="Sports", Fubo Sports Network 
+#EXTINF:-1 tvg-id="Fubo Sports Network" group-title="Sports", Fubo Sports Network 
 https://livetv-fa.tubi.video/fubo/master.m3u8
 
 #EXTINF:-1 tvg-id="DAZN 1 HD" group-title="Sports", DAZN 1
@@ -366,10 +345,17 @@ http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/7322/index.m3u8
 #EXTINF:-1 tvg-id="618 Fox Sports 2 US" group-title="Sports", Fox Sport 2 US
 https://tvpass.org/live/FoxSports2/sd
 
+#EXTINF:-1 tvg-id="CBS Sports Network" group-title="Sports", CBS Sports
+https://v5.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v1a1/mono.m3u8?token=S0wTW71uJlMw6q4IAL-sxQ&expires=1763333049&user_id=VGpJU2ZDMThpV0kxS0hidmt3R0JFU2xFOVBraGJUQVllOU5xWWp0MQ==
 
-http://4ee19c42.ucomist.net/iptv/HW2USPFUYN593P/7323/index.m3u8
+#EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network
+https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1489fe1a-8afc-11f0-a08f-d2161128e34e
 
+#EXTINF:-1 tvg-id="FOX" group-title="Sports", FOX
+http://nocable.cc:8080/k4Svp2/645504/120901
 
+#EXTINF:-1 tvg-id="Bein Sports US" group-title="Sports", Bein Sports US
+http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/31048/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT Sports 1" group-title="Sports", TNT Sport 1 UK
 http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/6566/index.m3u8
@@ -380,16 +366,7 @@ http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/9308/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sports Football HD 50 UK" group-title="Sports", Sky Sports Football HD
 http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/9289/index.m3u8
 
-#EXTINF:-1 tvg-id="CBS Sports Network" group-title="Sports", CBS Sports
-https://v5.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v1a1/mono.m3u8?token=S0wTW71uJlMw6q4IAL-sxQ&expires=1763333049&user_id=VGpJU2ZDMThpV0kxS0hidmt3R0JFU2xFOVBraGJUQVllOU5xWWp0MQ==
 
-http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/7324/index.m3u8
-
-#EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network
-https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1489fe1a-8afc-11f0-a08f-d2161128e34e
-
-#EXTINF:-1 tvg-id="FOX" group-title="Sports", FOX
-http://nocable.cc:8080/k4Svp2/645504/120901
 
 
 #EXTINF:-1 tvg-id="ESPN 5" group-title="Sports", Espn 5
