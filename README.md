@@ -301,7 +301,7 @@ https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 http://nocable.cc:8080/k4Svp2/645504/11885
 
 #EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN US
-
+http://2c885aed.rossteleccom.net/iptv/WWEX4VRHZ4XEK4/31103/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
@@ -309,13 +309,12 @@ http://200.115.120.1:8000/play/ca039/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN HD
 
-
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes HD
-http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/30075/index.m3u8
+http://2c885aed.rossteleccom.net/iptv/WWEX4VRHZ4XEK4/30075/index.m3u8
 
-#EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes
+EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes
 
-EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
+#EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
 https://e1.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8?token=1k1UYzV3fMExdT6InezeXg&expires=1762746978&user_id=b29VZlVjUUE1UFZwYUptaHhFODZQOWJkdVFvQWdYWlR1QklkSmZiSQ==
 
 
@@ -329,10 +328,10 @@ http://181.78.82.6:46090/play/a00v
 http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/19201/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN US" group-title="Sports", ESPN US
-https://v12.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=_qLnwoHyaW77tGS9m1QcFw&expires=1762747188&user_id=b29VZlVjUUE1UFZwYUptaHhFODZQOWJkdVFvQWdYWlR1QklkSmZiSQ==
+https://v18.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=FVytGqPiIrD-I_MrfFr8aw&expires=1763415505&user_id=OG5lczZ6RGQ2T0lmNVIycGtWb2hlNWxHa1lhZWVoVFZoV0xwZEkzUg==
 
 #EXTINF:-1 tvg-id="ESPN2" group-title="Sports", ESPN2
-https://e1.thetvapp.to/hls/fallback/tracks-v1/mono.m3u8?token=pXtzbDCw3v-z7p0F56uIcg&expires=1763348211&user_id=TGxrZ3lWVjZGVTNMYWJlbWlwN09mRXo1bE52RE5OYzA3MHBEeTlaQQ==
+https://v15.thetvapp.to/hls/ESPN2/tracks-v1a1/mono.m3u8?token=r_7aZ7myoXrXyQofPV_Tfg&expires=1763415386&user_id=OG5lczZ6RGQ2T0lmNVIycGtWb2hlNWxHa1lhZWVoVFZoV0xwZEkzUg==
 
 #EXTINF:-1 tvg-id="Fubo Sports Network" group-title="Sports", Fubo Sports Network 
 https://livetv-fa.tubi.video/fubo/master.m3u8
