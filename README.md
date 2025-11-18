@@ -340,18 +340,18 @@ https://livetv-fa.tubi.video/fubo/master.m3u8
 http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/19042/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox Sports 1 US" group-title="Sports", Fox Sport 1 US
-http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/7322/index.m3u8
+https://v4.thetvapp.to/hls/FoxSports1/tracks-v1a1/mono.m3u8?token=EyMcmiiQJgZ5ftwnBxMFlg&expires=1763449848&user_id=clNzQzlyb05WT1B5TWdtSHB4dkpHRGFaa1FXRU9RMXkwRFpsWERJUg==
 
 #EXTINF:-1 tvg-id="618 Fox Sports 2 US" group-title="Sports", Fox Sport 2 US
 https://tvpass.org/live/FoxSports2/sd
 
 #EXTINF:-1 tvg-id="CBS Sports Network" group-title="Sports", CBS Sports
-https://v5.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v1a1/mono.m3u8?token=S0wTW71uJlMw6q4IAL-sxQ&expires=1763333049&user_id=VGpJU2ZDMThpV0kxS0hidmt3R0JFU2xFOVBraGJUQVllOU5xWWp0MQ==
+https://v16.thetvapp.to/hls/CBSSportsNetworkUSA/tracks-v1a1/mono.m3u8?token=Y02iH9CBB11rnUo11BtZZQ&expires=1763449780&user_id=clNzQzlyb05WT1B5TWdtSHB4dkpHRGFaa1FXRU9RMXkwRFpsWERJUg==
 
 #EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1489fe1a-8afc-11f0-a08f-d2161128e34e
 
-#EXTINF:-1 tvg-id="FOX" group-title="Sports", FOX
+#EXTINF:-1 tvg-id="FOX 17" group-title="Sports", FOX
 http://nocable.cc:8080/k4Svp2/645504/120901
 
 #EXTINF:-1 tvg-id="Bein Sports US" group-title="Sports", Bein Sports US
@@ -371,8 +371,6 @@ http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/9289/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 5" group-title="Sports", Espn 5
 
-#EXTINF:-1 tvg-id="Fox Sports Premium" group-title="Sports", Fox Sport Premium
-http://tv.masterplaytv.club:8080/JorTar11162022/3f762b6882d8/9593
 
 #EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN USA
 
@@ -523,7 +521,7 @@ https://jmp2.uk/stvp-US2200005Y2
 http://nocable.cc:8080/k4Svp2/645504/120691
 
 #EXTINF:-1 tvg-id="Telemundo" group-title="Internacional", Telemundo 1
-https://v14.thetvapp.to/hls/TelemundoEast/tracks-v1a1/mono.m3u8?token=CMNZjGaG-kmp7X6zfTUSFw&expires=1762723352&user_id=bUlHQTh1YVhSMGtTNnZzYzFZanBudFE2RXFRV0xxUlk3WWQweWJ5MQ==
+https://v17.thetvapp.to/hls/TelemundoEast/tracks-v1a1/mono.m3u8?token=pWm3WhdHDOZ_KnNygKYaPg&expires=1763449335&user_id=clNzQzlyb05WT1B5TWdtSHB4dkpHRGFaa1FXRU9RMXkwRFpsWERJUg==
 
 #EXTINF:-1 tvg-id="UNIVERSO" group-title="Internacional", UNIVERSO
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
@@ -543,15 +541,11 @@ http://nocable.cc:8080/k4Svp2/645504/15336
 #EXTINF:-1 tvg-id="Univision" group-title="Internacional",Univision 2
 https://e2.thetvapp.to/hls/UnivisionEast/tracks-v1a1/mono.m3u8?token=3-qCgFNFM2EcV2tuD7pKvA&expires=1763333677&user_id=VGpJU2ZDMThpV0kxS0hidmt3R0JFU2xFOVBraGJUQVllOU5xWWp0MQ==
 
-
-
 #EXTINF:-1 tvg-id="Univision West" group-title="Internacional",  Univision West
 http://206.212.244.71:8080/Abxc5k/363887/108248
 
 #EXTINF:-1 tvg-id="UniMAS" group-title="Internacional", Unimas
-http://195.66.210.10:80/EmersonZea/ATNKS/53742
 
-http://e7077d31.ottrast.com/iptv/NH36DFEWS8W4U8/1100/index.m3u8
 
 #EXTINF:-1 tvg-id="741 UniMAS" group-title="Internacional", UNIMAS 1
 http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/1100/index.m3u8
