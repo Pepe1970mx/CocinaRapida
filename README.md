@@ -531,7 +531,7 @@ https://e2.thetvapp.to/hls/UnivisionEast/tracks-v1a1/mono.m3u8?token=3-qCgFNFM2E
 http://206.212.244.71:8080/Abxc5k/363887/108248
 
 #EXTINF:-1 tvg-id="UniMAS" group-title="Internacional", Unimas
-
+https://epicplay247.cfd/?url=aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTMzL21vbm8ubTN1OCZkYXRhPVQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQT09&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
 
 #EXTINF:-1 tvg-id="741 UniMAS" group-title="Internacional", UNIMAS 1
 http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/1100/index.m3u8
