@@ -301,6 +301,9 @@ https://epicplay247.cfd/?url=aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTM
 http://2c885aed.rossteleccom.net/iptv/WWEX4VRHZ4XEK4/30075/index.m3u8
 
 EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes
+https://epicplay247.cfd/?url=aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQzL21vbm8ubTN1OCZkYXRhPVQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQT09&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+
+
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
 https://e1.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8?token=1k1UYzV3fMExdT6InezeXg&expires=1762746978&user_id=b29VZlVjUUE1UFZwYUptaHhFODZQOWJkdVFvQWdYWlR1QklkSmZiSQ==
