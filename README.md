@@ -321,10 +321,12 @@ http://181.78.82.6:46090/play/a00v
 http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/19201/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN US" group-title="Sports", ESPN
-http://2c885aed.rossteleccom.net/iptv/WWEX4VRHZ4XEK4/19156/index.m3u8
+http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/19156/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2" group-title="Sports", ESPN2
-http://2c885aed.rossteleccom.net/iptv/WWEX4VRHZ4XEK4/19155/index.m3u8
+http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/19155/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="Fubo Sports Network" group-title="Sports", Fubo Sports Network 
 https://livetv-fa.tubi.video/fubo/master.m3u8
