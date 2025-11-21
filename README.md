@@ -509,8 +509,8 @@ https://jmp2.uk/stvp-US2200005Y2
 #EXTINF:-1 tvg-id="Telemundo Satellite Feed" group-title="Internacional", Telemundo 
 http://nocable.cc:8080/k4Svp2/645504/120691
 
-#EXTINF:-1 tvg-id="Telemundo" group-title="Internacional", Telemundo 1
-https://v17.thetvapp.to/hls/TelemundoEast/tracks-v1a1/mono.m3u8?token=pWm3WhdHDOZ_KnNygKYaPg&expires=1763449335&user_id=clNzQzlyb05WT1B5TWdtSHB4dkpHRGFaa1FXRU9RMXkwRFpsWERJUg==
+#EXTINF:-1 tvg-id="Telemundo" group-title="Internacional", Telemundo 
+https://v15.thetvapp.to/hls/TelemundoEast/tracks-v1a1/mono.m3u8?token=Y10CFbpCUK_EZ1asifLXbw&expires=1763708688&user_id=aXIzMFU3TUR3UmpOdWFSS3RJcUVETWRTV243TW03QUV5MzdiVVFvZg==
 
 #EXTINF:-1 tvg-id="UNIVERSO" group-title="Internacional", UNIVERSO
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
