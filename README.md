@@ -302,7 +302,7 @@ https://epicplay247.cfd/?url=aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTM
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes HD
 http://2c885aed.rossteleccom.net/iptv/WWEX4VRHZ4XEK4/30075/index.m3u8
 
-EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes
+#EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes
 https://epicplay247.cfd/?url=aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQzL21vbm8ubTN1OCZkYXRhPVQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQT09&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
 
 
