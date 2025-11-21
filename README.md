@@ -342,6 +342,9 @@ https://epicplay247.cfd/?url=aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0
 #EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1489fe1a-8afc-11f0-a08f-d2161128e34e
 
+#EXTINF:-1 tvg-id="SKY Sports+ HD UK" group-title="Sports", SKY Sports+ HD
+http://2c885aed.rossteleccom.net/iptv/WWEX4VRHZ4XEK4/9248/index.m3u8
+
 #EXTINF:-1 tvg-id="FOX 17" group-title="Sports", FOX
 http://nocable.cc:8080/k4Svp2/645504/120901
 
@@ -351,8 +354,6 @@ http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/31048/index.m3u8
 #EXTINF:-1 tvg-id="TNT Sports 1" group-title="Sports", TNT Sport 1 UK
 http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/6566/index.m3u8
 
-#EXTINF:-1 tvg-id="Sky Sports Main Event HD 50 UK" group-title="Sports", Sky Sports Main 
-http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/9308/index.m3u8
 
 #EXTINF:-1 tvg-id="Sky Sports Football HD 50 UK" group-title="Sports", Sky Sports Football HD
 http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/9289/index.m3u8
