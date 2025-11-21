@@ -473,8 +473,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/65662f8a2c46f300088a84cc/master.m3u
 #EXTINF:-1 tvg-id="amc_españa" group-title="De Paga", AMC España
 http://vegafibratv.com:8085/AMC/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO" group-title="De Paga" , HBO 
-
+#EXTINF:-1 tvg-id="HBO Latino" group-title="De Paga" , HBO Latino
+https://epicplay247.cfd/?url=aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNjkyL21vbm8ubTN1OCZkYXRhPVQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQT09&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
 
 #EXTINF:-1 tvg-id="HBO Plus" group-title="De Paga" , HBO 2
 
