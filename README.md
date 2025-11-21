@@ -288,11 +288,11 @@ https://epicplay247.cfd/?url=aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTM
 
 http://nocable.cc:8080/k4Svp2/645504/11885
 
-#EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN US
+EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN US
 http://2c885aed.rossteleccom.net/iptv/WWEX4VRHZ4XEK4/31103/index.m3u8
 
 
-#EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
+EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
 http://200.115.120.1:8000/play/ca039/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN HD
@@ -441,8 +441,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/65662f8a2c46f300088a84cc/master.m3u
 
 
 
-#EXTINF:-1 tvg-id="Warner Channel México" group-title="De Paga", Warner 
-
+#EXTINF:-1 tvg-id="SKY Vinema uno" group-title="De Paga", SKY Cinema Uno 
+http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/19095/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Space México" group-title="De Paga", Space HD
@@ -473,7 +473,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/65662f8a2c46f300088a84cc/master.m3u
 
 
 #EXTINF:-1 tvg-id="amc_españa" group-title="De Paga", AMC España
-http://vegafibratv.com:8085/AMC/index.m3u8
+
 
 #EXTINF:-1 tvg-id="HBO Latino" group-title="De Paga" , HBO Latino
 https://epicplay247.cfd/?url=aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNjkyL21vbm8ubTN1OCZkYXRhPVQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQT09&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
