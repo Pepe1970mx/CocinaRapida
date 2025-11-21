@@ -318,18 +318,17 @@ http://181.78.82.6:46090/play/a00v
 #EXTINF:-1 tvg-id="ESPN 1 HD NL" group-title="Sports", ESPN 1 HD NL
 http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/19201/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN US" group-title="Sports", ESPN US
-https://v12.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=25FxbkGQv1K7XhqqYJyKaw&expires=1763708256&user_id=aXIzMFU3TUR3UmpOdWFSS3RJcUVETWRTV243TW03QUV5MzdiVVFvZg==
-
+#EXTINF:-1 tvg-id="ESPN US" group-title="Sports", ESPN
+http://2c885aed.rossteleccom.net/iptv/WWEX4VRHZ4XEK4/19156/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2" group-title="Sports", ESPN2
-https://v18.thetvapp.to/hls/ESPN2/tracks-v1a1/mono.m3u8?token=U_asbXnBWlJTkkSOVG0CsQ&expires=1763708428&user_id=aXIzMFU3TUR3UmpOdWFSS3RJcUVETWRTV243TW03QUV5MzdiVVFvZg==
+http://2c885aed.rossteleccom.net/iptv/WWEX4VRHZ4XEK4/19155/index.m3u8
 
 #EXTINF:-1 tvg-id="Fubo Sports Network" group-title="Sports", Fubo Sports Network 
 https://livetv-fa.tubi.video/fubo/master.m3u8
 
 #EXTINF:-1 tvg-id="DAZN 1 HD" group-title="Sports", DAZN 1
-http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/19042/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Fox Sports 1 US" group-title="Sports", Fox Sport 1 US
 https://epicplay247.cfd/?url=aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zOS9tb25vLm0zdTgmZGF0YT1UM0pwWjJsdVBXaDBkSEJ6T2k4dlpYQnBZM0JzWVhsd2JHRjVMbU5tWkE9PQ==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
