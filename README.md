@@ -86,7 +86,6 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="La Voz Grupera" group-title="NACIONAL", La Voz Grupera
 
 
-#EXTINF:-1 tvg-id="CANAL 5.mx" group-
 
 #EXTINF:-1 tvg-id="9 de México XEQ-TDT" group-title="NACIONAL", El Nueve
 
@@ -111,7 +110,8 @@ https://stream-207963.castr.net/65313d270e749722b6474684/live_185f5f10888711ee83
 
 
 #EXTINF:-1 tvg-id="CANAL CATORCE.mx" group-title="NACIONAL" , Canal 14 
-https://www.dailymotion.com/cdn/live/video/x9s6osc.m3u8?sec=D0Tc89WaYkk-1pT_hdVZ5SAUFqCPK-1AQc0K_dchFuE4hjfb-aHr-M2biO4dz1NL
+
+
 
 #EXTINF:-1 tvg-id="TV UNAM" group-title="NACIONAL" , TV UNAM
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
