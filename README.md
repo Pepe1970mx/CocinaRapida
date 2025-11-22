@@ -22,7 +22,7 @@ http://mundod.ddns.me:2082/stellar341/rodrigo341/2554
 #EXTINF:-1 tvg-id="Imagen TV+" group-title="NACIONAL", Imagen TV -1
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 
-title="NACIONAL", Canal 5
+EXTINF:-1 tvg-id="Canal 5.mx" group-title="NACIONAL", Canal 5
 http://104.238.205.28:8989/278329_.m3u8
 
 #EXTINF:-1 tvg-id="AZTECA 7.mx" group-title="NACIONAL", Azteca 7
