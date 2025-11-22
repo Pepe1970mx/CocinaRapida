@@ -306,8 +306,12 @@ https://e1.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8?token=1k1UYzV3fME
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes 
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 3 Sur" group-title="Sports", Espn 3 HD
-http://181.78.82.6:46090/play/a00v
+#EXTINF:-1 tvg-id="ESPN 4" group-title="Sports", Espn 4 
+https://epicplay247.cfd/?url=aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTI4L21vbm8ubTN1OCZkYXRhPVQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQT09&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+
+
+#EXTINF:-1 tvg-id="TNT SPORTS " group-title="Sports", TNT Sports
+https://epicplay247.cfd/?url=aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0zODgvbW9uby5tM3U4JmRhdGE9VDNKcFoybHVQV2gwZEhCek9pOHZaWEJwWTNCc1lYbHdiR0Y1TG1ObVpBPT0=&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
 
 #EXTINF:-1 tvg-id="ESPN 1 HD NL" group-title="Sports", ESPN 1 HD NL
 http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/19201/index.m3u8
