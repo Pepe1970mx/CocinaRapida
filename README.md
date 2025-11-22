@@ -141,7 +141,7 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Meganoticias MX" group-title="NACIONAL", Meganoticias MX
-
+http://104.238.205.28:8989/278371_.m3u8
 
 #EXTINF:-1 tvg-id="Quiero Tv" group-title="NACIONAL", Quiero TV
 https://d3c8tise3a7ihl.cloudfront.net/out/v1/20a1877171a242298e4df9e05f4c2070/index.m3u8
