@@ -88,7 +88,7 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 
 #EXTINF:-1 tvg-id="9 de México XEQ-TDT" group-title="NACIONAL", El Nueve
-
+http://104.238.205.28:8989/278360_.m3u8
 
 #EXTINF:-1 tvg-id="El Heraldo TV" group-title="NACIONAL" , Heraldo TV
 
