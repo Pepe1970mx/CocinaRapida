@@ -16,6 +16,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/646ccd3681844c000974d6f4/master.m3u
 #EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS.mx" group-title="NACIONAL", Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
+#EXTINF:-1 tvg-id="Foro TV" group-title="NACIONAL", Foro TV 4.1
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secyushirovix1kq1@vix.comt01/index_6.m3u8&redirect=true
+
 #EXTINF:-1 tvg-id="Imagen TV" group-title="NACIONAL", Imagen TV apk
 http://mundod.ddns.me:2082/stellar341/rodrigo341/2554
 
@@ -25,11 +28,17 @@ https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 EXTINF:-1 tvg-id="Canal 5.mx" group-title="NACIONAL", Canal 5
 http://104.238.205.28:8989/278329_.m3u8
 
+#EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 MX
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
+
 #EXTINF:-1 tvg-id="AZTECA 7.mx" group-title="NACIONAL", Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 tvg-id="a+" group-title="NACIONAL", A Mas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
+#EXTINF:-1 tvg-id="9 de México XEQ-TDT" group-title="NACIONAL", El Nueve
+http://104.238.205.28:8989/278360_.m3u8
 
 #EXTINF:-1 tvg-id="MVSTV" group-title="NACIONAL", MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
@@ -46,18 +55,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16333&avod=1&coppa=0&is_la
 
 #EXTINF:-1 tvg-id="CGTN Español" group-title="NACIONAL", CGTN En Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Foro TV" group-title="NACIONAL", Foro TV 4.1
-https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secyushirovix1kq1@vix.comt01/index_6.m3u8&redirect=true
-
-
-
-
-#EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 MX
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
-
-#EXTINF:-1 tvg-id=Canal 6" group-title="NACIONAL", Canal 6 Mich.
-https://5f1af61612fb5.streamlock.net/canal6mich2/videocanal6mich2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI1IDM6MTc6MjUgQU0maGFzaF92YWx1ZT15T1RML3hMQ2RiQ2N3NlV6TTFZL2tnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
 
 #EXTINF:-1 tvg-id="Milenio TV" group-title="NACIONAL" , Milenio Television
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
@@ -87,8 +84,7 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 
 
-#EXTINF:-1 tvg-id="9 de México XEQ-TDT" group-title="NACIONAL", El Nueve
-http://104.238.205.28:8989/278360_.m3u8
+
 
 #EXTINF:-1 tvg-id="El Heraldo TV" group-title="NACIONAL" , Heraldo TV
 
