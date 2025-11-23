@@ -417,7 +417,7 @@ http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/19095/index.m3u8
 
 
 #EXTINF:-1 tvg-id="FX" group-title="De Paga", FX
-
+http://104.238.205.28:8989/278427_.m3u8
 
 
 #EXTINF:-1 tvg-id="USA" group-title="De Paga", USA
