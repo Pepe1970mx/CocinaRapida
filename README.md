@@ -776,8 +776,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-xiaomi/
 #EXTINF:-1 tvg-id="ESBC4100003WE" group-title="Kids" , Clan
 
 
-#EXTINF:-1 tvg-id="" group-title="Kids" , Dreamworks 
-
+#EXTINF:-1 tvg-id="Seing " group-title="Kids" , Swing 
+http://104.238.205.28:8989/278391_.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network Norte" group-title="Kids", Cartoon Network 4K
 http://195.66.210.10:80/EmersonZea/ATNKS/54404
