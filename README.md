@@ -62,6 +62,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
 #EXTINF:-1 tvg-id="Telediario" group-title="NACIONAL", Telediario Now
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 
+#EXTINF:-1 tvg-id="TELEFORMULA.mx" group-title="NACIONAL" , Teleformula
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
+
+#EXTINF:-1 tvg-id="CANAL 11.mx" group-title="NACIONAL", Canal Once
+https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="Telehit" group-title="NACIONAL", Telehit
 https://streamer1.nexgen.bz/TELEHIT/index.m3u8
 
@@ -89,11 +96,6 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="El Heraldo TV" group-title="NACIONAL" , Heraldo TV
 
 
-#EXTINF:-1 tvg-id="TELEFORMULA.mx" group-title="NACIONAL" , Teleformula
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
-
-#EXTINF:-1 tvg-id="CANAL 11.mx" group-title="NACIONAL", Canal Once
-https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Once Niños" group-title="NACIONAL", Once Niños
 
@@ -164,23 +166,27 @@ https://jmp2.uk/stvp-USBD2700004ME
 https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5eab427a-a6e1-11f0-8dde-36a1e79edff9
 
 
-#EXTINF:-1 tvg-id="" group-title="24/7" , Los Años Maravillosos
-96782
 
-#EXTINF:-1 tvg-id="El Chavo" group-title="24/7" , El Chavo del 8
+#EXTINF:-1 tvg-id=" " group-title="RETRO" , Canal Clasicos Animadas
+https://live20.bozztv.com/giatvplayout7/giatv-209599/index.m3u8
 
-#EXTINF:-1 tvg-id="Alf" group-title="24/7" , Alf
+#EXTINF:-1 tvg-id="" group-title="RETRO" , Tom y Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
+#EXTINF:-1 tvg-id="La Pantera Rosa" group-title="RETRO" , Pantera Rosa
+https://linear-1069.frequency.stream/mt/plex/1069/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Mi TV Television Clasica" group-title="RETRO", Mi TV televisión Clasica
+https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
 
-#EXTINF:-1 tvg-id="Bonanza" group-title="24/7" , Bonanza
+#EXTINF:-1 tvg-id="Canal LMS" group-title="RETRO" , LMS
+https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Teleclasica" group-title="RETRO" , Teleclasica 
+https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="Familia Mounsters" group-title="24/7" , Familia Mounsters
-
-
-#EXTINF:-1 tvg-id="Los Locos Adams" group-title="24/7" , Los Locos Adams
+#EXTINF:-1 tvg-id="Dreiko TV" group-title="RETRO" , DREIKO TV
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
 
 
@@ -198,11 +204,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u
 
 #EXTINF:-1 tvg-id="Tooncast" group-title="RETRO" , Tooncast
 
-#EXTINF:-1 tvg-id=" " group-title="RETRO" , Canal Clasicos Animadas
-https://live20.bozztv.com/giatvplayout7/giatv-209599/index.m3u8
 
-#EXTINF:-1 tvg-id="Retrotoons" group-title="RETRO" , Retro Toons
-https://live20.bozztv.com/akamaissh101/ssh101/retrotoons/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Canal Family" group-title="RETRO" , Canal Family
 https://live20.bozztv.com/giatvplayout7/giatv-209633/tracks-v1a1/mono.ts.m3u8
@@ -213,39 +216,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209633/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="RETRO" , Los Tres Chiflados
 
 
-#EXTINF:-1 tvg-id="Los Simpson" group-title="RETRO" , Los Simpson
-https://live20.bozztv.com/akamaissh101/ssh101/simgit/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="RETRO" , Tom y Jerry
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="La Pantera Rosa" group-title="RETRO" , Pantera Rosa
-https://linear-1069.frequency.stream/mt/plex/1069/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="RETRO" , Retro Club
-https://video08.logicahost.com.br/retroclub/retroclub/playlist.m3u8?WebM3UCL
-
-#EXTINF:-1 tvg-id="Mi TV Television Clasica" group-title="RETRO", Mi TV televisión Clasica
-https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
-
-#EXTINF:-1 tvg-id="Canal LMS" group-title="RETRO" , LMS
-https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dreiko TV" group-title="RETRO" , DREIKO TV
-https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
-
-#EXTINF:-1 tvg-id="TeleSur" group-title="RETRO" , Telesur CR
-https://s1.tvdatta.com:3582/live/telesurlive.m3u8
-
-#EXTINF:-1 tvg-id="Tigueritos TV" group-title="RETRO" , Tigueritos
-https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Teleclasica" group-title="RETRO" , Teleclasica 
-https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TeleRed" group-title="RETRO" , Telered
-https://k20.usastreams.com:8081/telered/index.m3u8
 
 
 
