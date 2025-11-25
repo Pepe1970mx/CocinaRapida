@@ -17,12 +17,12 @@ https://stitcher.pluto.tv/stitch/hls/channel/646ccd3681844c000974d6f4/master.m3u
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-id="Foro TV" group-title="NACIONAL", Foro TV 4.1
-https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secyushirovix1kq1@vix.comt01/index_6.m3u8&redirect=true
+
 
 #EXTINF:-1 tvg-id="Imagen TV" group-title="NACIONAL", Imagen TV apk
-http://mundod.ddns.me:2082/stellar341/rodrigo341/2554
 
-#EXTINF:-1 tvg-id="Imagen TV+" group-title="NACIONAL", Imagen TV -1
+
+#EXTINF:-1 tvg-id="Imagen TV+" group-titleL", Imagen TV -1
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 
 EXTINF:-1 tvg-id="Canal 5.mx" group-title="NACIONAL", Canal 5
@@ -325,18 +325,8 @@ http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/6566/index.m3u8
 http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/9289/index.m3u8
 
 
-
-
-#EXTINF:-1 tvg-id="ESPN 5" group-title="Sports", Espn 5
-
-
-#EXTINF:-1 tvg-id="USBD1700016X9" group-title="Sports", Zona TUDN USA
-
-
 #EXTINF:-1 tvg-id="" group-title="Sports", Futbol Network 
 https://live.relentlessinnovations.net:1936/futbolnetwork/futbolnetwork/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Sports", Fubo Sport Network 
 
 
 #EXTINF:-1 tvg-id="63f7e3f9dff38e00082a57af" group-title="Sports", ITV Deportes
@@ -350,12 +340,36 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 
 
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
-http://mundod.ddns.me:2082/stellar341/rodrigo341/7015
 
-#EXTINF:-1 tvg-id="Frecuencia Musical" group-title="De Paga", FM Frecuencia Musical
+
+#EXTINF:-1 tvg-id="Frecuencia Musical" group-title="ENTRETENIMIENTO", FM Frecuencia Musical
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13014
 
-#EXTINF:-1 tvg-id="WOW TV" group-title="De Paga", WOW TV
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
+https://live.obslivestream.com/planetatv/index.m3u8
+
+#EXTINF:-1 tvg-id="Frecuencia Musical TV" group-title="ENTRETENIMIENTO", FM TV 1
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="Frecuencia Musical TV" group-title="ENTRETENIMIENTO", FM TV
+https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
+
+#EXTINF:-1 tvg-id="Infinita TV" group-title="ENTRETENIMIENTO", Infinita TV
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Moni TV" group-title="ENTRETENIMIENTO" , Chinola
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+
+#EXTINF:-1 tvg-id="Moni TV" group-title="ENTRETENIMIENTO" , Moni TV
+https://tv.arkeo.cl:19360/8134/8134.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="RetroplusTV" group-title="ENTRETENIMIENTO" , RetroPlusTV
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="WOW TV" group-title="ENTRETENIMIENTO", WOW TV
 https://cdn-startv.cef-technology.com/wow/wow_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Studio Universal" group-title="De Paga", Studio Universal 
@@ -649,29 +663,7 @@ https://dvrfl03.bozztv.com/hondu-telecadena/index.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , +Cine
 https://tv.arkeo.cl:19360/8128/8128.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
-https://live.obslivestream.com/planetatv/index.m3u8
 
-#EXTINF:-1 tvg-id="Frecuencia Musical TV" group-title="ENTRETENIMIENTO", FM TV 1
-https://s2.tvdatta.com:3307/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-id="Frecuencia Musical TV" group-title="ENTRETENIMIENTO", FM TV
-https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
-
-#EXTINF:-1 tvg-id="Infinita TV" group-title="ENTRETENIMIENTO", Infinita TV
-https://s2.tvdatta.com:3753/hybrid/play.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Moni TV" group-title="ENTRETENIMIENTO" , Chinola
-https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
-
-#EXTINF:-1 tvg-id="Moni TV" group-title="ENTRETENIMIENTO" , Moni TV
-https://tv.arkeo.cl:19360/8134/8134.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="RetroplusTV" group-title="ENTRETENIMIENTO" , RetroPlusTV
-https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="6732497f3a61d400087a53b0" group-title="ENTRETENIMIENTO" , Tu Warner
 https://stitcher.pluto.tv/stitch/hls/channel/6732497f3a61d400087a53b0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=b6ab15df-26a9-11f0-a242-8e1dc8a26264
