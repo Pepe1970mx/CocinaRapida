@@ -424,10 +424,10 @@ http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/19095/index.m3u8
 #EXTINF:-1 tvg-id="Space México" group-title="De Paga", Space HD
 
 
-#EXTINF:-1 tvg-id="Multicinema" group-title="De Paga", Multicinema
+#EXTINF:-1 tvg-id="Warner" group-title="De Paga", Warner
+http://104.238.205.28:8989/278453_.m3u8
 
-
-#EXTINF:-1 tvg-id="Multipremier" group-title="De Paga", Multipremier
+#EXTINF:-1 tvg-id="Mul" group-title="De Paga", Multipremier
 
 
 #EXTINF:-1 tvg-id="FX" group-title="De Paga", FX
@@ -435,7 +435,7 @@ http://104.238.205.28:8989/278427_.m3u8
 
 
 #EXTINF:-1 tvg-id="USA" group-title="De Paga", USA
-
+http://104.238.205.28:8989/278423_.m3u8
 
 #EXTINF:-1 tvg-id="UniversalTV.mx" group-title="De Paga", Universal Channel
 
