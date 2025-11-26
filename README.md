@@ -442,8 +442,8 @@ http://104.238.205.28:8989/278423_.m3u8
 
 #EXTINF:-1 tvg-id=" " group-title="De Paga",SYFY
 
-#EXTINF:-1 tvg-id="Paramount Channel" group-title="De Paga", Paramount España
-
+#EXTINF:-1 tvg-id="Paramount Channel" group-title="De Paga", Paramount
+https://live.saohgdasregions.fun:9092/MjAxLjE3NC4yMzUuMTk0/62_.m3u8?token=MeUxiosZ3Nxh29TAtYoFpA&expires=1764146212
 
 #EXTINF:-1 tvg-id="Movistar Estreno" group-title="De Paga" , Movistar Estreno
 
