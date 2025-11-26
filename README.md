@@ -226,7 +226,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209633/tracks-v1a1/mono.ts.m3u8
 
 
 
-#EXTINF:-1 tvg-id="63d0269d60bc8f000890facc" group-title="Sports", Fox Deportes Pluto
+#EXTINF:-1 tvg-id="FOX Deportes" group-title="Sports", Fox Deportes Pluto
 https://stitcher.pluto.tv/stitch/hls/channel/63d0269d60bc8f000890facc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7e86f426-259d-11f0-8032-12b21974fd42
 
 #EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" group-title="Sports", Azteca Deportes Premium
@@ -272,11 +272,11 @@ https://e1.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8?token=1k1UYzV3fME
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes 
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 4" group-title="Sports", Espn 4 
+#EXTINF:-1 tvg-id="ESPN4.mx" group-title="Sports", Espn 4 
 https://epicplay247.cfd/?url=aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTI4L21vbm8ubTN1OCZkYXRhPVQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQT09&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
 
 
-#EXTINF:-1 tvg-id="TNT SPORTS " group-title="Sports", TNT Sports
+#EXTINF:-1 tvg-id="TNT Sur" group-title="Sports", TNT Sports
 https://epicplay247.cfd/?url=aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0zODgvbW9uby5tM3U4JmRhdGE9VDNKcFoybHVQV2gwZEhCek9pOHZaWEJwWTNCc1lYbHdiR0Y1TG1ObVpBPT0=&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
 
 #EXTINF:-1 tvg-id="ESPN 1 HD NL" group-title="Sports", ESPN 1 HD NL
@@ -287,8 +287,6 @@ http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/19156/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2" group-title="Sports", ESPN2
 http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/19155/index.m3u8
-
-
 
 #EXTINF:-1 tvg-id="Fubo Sports Network" group-title="Sports", Fubo Sports Network 
 https://livetv-fa.tubi.video/fubo/master.m3u8
