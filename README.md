@@ -43,7 +43,7 @@ http://104.238.205.28:8989/278360_.m3u8
 #EXTINF:-1 tvg-id="MVSTV" group-title="NACIONAL", MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
-#EXTINF:-1 tvg-id="Claro TV" group-title="NACIONAL", Canal Claro
+#EXTINF:-1 tvg-id="Canal Claro" group-title="NACIONAL", Canal Claro
 https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f1346bbd-b0b3-11f0-ab21-da2bce2249f9
 
 #EXTINF:-1 tvg-id="POPCORN.mx" group-title="NACIONAL",  Popcorn
