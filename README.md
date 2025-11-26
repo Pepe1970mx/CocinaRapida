@@ -37,7 +37,7 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="a+" group-title="NACIONAL", A Mas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 tvg-id="9 de México XEQ-TDT" group-title="NACIONAL", El Nueve
+#EXTINF:-1 tvg-id="El Nu9ve" group-title="NACIONAL", El Nueve
 http://104.238.205.28:8989/278360_.m3u8
 
 #EXTINF:-1 tvg-id="MVSTV" group-title="NACIONAL", MVS TV
