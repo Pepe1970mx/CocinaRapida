@@ -338,7 +338,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 
 
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
+https://live.saohgdasregions.fun:9092/MjAxLjE3NC4yMzUuMTk0/54_.m3u8?token=tIQq2R6cUlY9CVzu8ONKwQ&expires=1764151213
 
+#EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
+https://live.saohgdasregions.fun:9092/MjAxLjE3NC4yMzUuMTk0/54_.m3u8?token=LLa5QftWnXnrDHz94ut56w&expires=1764151135
 
 #EXTINF:-1 tvg-id="Frecuencia Musical" group-title="ENTRETENIMIENTO", FM Frecuencia Musical
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13014
