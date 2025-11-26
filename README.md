@@ -22,7 +22,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="Imagen TV" group-title="NACIONAL", Imagen TV apk
 
 
-#EXTINF:-1 tvg-id="Imagen TV+" group-titleL", Imagen TV -1
+#EXTINF:-1 tvg-id="ImagenTV+" group-title="NACIONAL", Imagen TV+
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 
 EXTINF:-1 tvg-id="Canal 5.mx" group-title="NACIONAL", Canal 5
