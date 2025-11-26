@@ -25,7 +25,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="ImagenTV+" group-title="NACIONAL", Imagen TV+
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 
-EXTINF:-1 tvg-id="Canal 5.mx" group-title="NACIONAL", Canal 5
+#EXTINF:-1 tvg-id="Canal 5.mx" group-title="NACIONAL", Canal 5
 http://104.238.205.28:8989/278329_.m3u8
 
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 MX
