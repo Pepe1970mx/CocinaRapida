@@ -247,11 +247,11 @@ https://epicplay247.cfd/?url=aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTM
 
 http://nocable.cc:8080/k4Svp2/645504/11885
 
-EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN US
+#EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN US
 http://2c885aed.rossteleccom.net/iptv/WWEX4VRHZ4XEK4/31103/index.m3u8
 
 
-EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
+#EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
 http://200.115.120.1:8000/play/ca039/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN HD
