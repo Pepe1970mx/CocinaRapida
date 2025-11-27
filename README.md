@@ -437,7 +437,7 @@ http://104.238.205.28:8989/278427_.m3u8
 
 
 #EXTINF:-1 tvg-id="USA" group-title="De Paga", USA
-http://104.238.205.28:8989/278423_.m3u8
+http://104.238.205.28:8989/278452_.m3u8
 
 #EXTINF:-1 tvg-id="UniversalTV.mx" group-title="De Paga", Universal Channel
 
