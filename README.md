@@ -760,7 +760,7 @@ http://104.238.205.28:8989/278524_.m3u8
 
 
 #EXTINF:-1 tvg-id="Nick" group-title="Kids", Nick HD
-
+http://104.238.205.28:8989/278544_.m3u8
 
 #EXTINF:-1 tvg-id="Disney Channel" group-title="Kids", Disney Channel
 http://201.230.121.186:8000/play/a0fb/index.m3u8
