@@ -423,14 +423,17 @@ https://stitcher.pluto.tv/stitch/hls/channel/65662f8a2c46f300088a84cc/master.m3u
 http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/19095/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Space México" group-title="De Paga", Space HD
+#EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT
+http://104.238.205.28:8989/278540_.m3u8
 
+#EXTINF:-1 tvg-id="Space México" group-title="De Paga", Space HD
+http://104.238.205.28:8989/278520_.m3u8
 
 #EXTINF:-1 tvg-id="Warner" group-title="De Paga", Warner
 http://104.238.205.28:8989/278453_.m3u8
 
-#EXTINF:-1 tvg-id="Mul" group-title="De Paga", Multipremier
-
+#EXTINF:-1 tvg-id="MC" group-title="De Paga", MC
+http://104.238.205.28:8989/278509_.m3u8
 
 #EXTINF:-1 tvg-id="FX" group-title="De Paga", FX
 http://104.238.205.28:8989/278427_.m3u8
@@ -705,27 +708,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u
 
 #EXTINF:-1 tvg-id="" group-title="España" ,
 
-#EXTINF:-1 tvg-id="Nickelodeon" group-title="España" , Nickelodeon 
-
-
-#EXTINF:-1 tvg-id="Disney Channel" group-title="España" , Disney Channel
-
-
-#EXTINF:-1 tvg-id="Clan" group-title="España" , Clan
-
-
-#EXTINF:-1 tvg-id="M Accion" group-title="España", M+ Accion HD
-
-
-#EXTINF:-1 tvg-id="M Estrenos" group-title="España", M Estrenos
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="grjngo" group-title="CINE y Series" , Grjngo
 https://amogonetworx-grjngo-2-mx.tcl.wurl.tv/playlist.m3u8
 
@@ -774,7 +756,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-xiaomi/
 http://104.238.205.28:8989/278391_.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network Norte" group-title="Kids", Cartoon Network 4K
-http://195.66.210.10:80/EmersonZea/ATNKS/54404
+http://104.238.205.28:8989/278524_.m3u8
+
 
 #EXTINF:-1 tvg-id="Nick" group-title="Kids", Nick HD
 
