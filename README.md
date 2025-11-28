@@ -59,8 +59,8 @@ https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649
 https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="ExcelsiorTV.mx" group-title="NACIONAL",  Exelsior TV
-
+#EXTINF:-1 tvg-id="" group-title="NACIONAL",  Once Niños y Niñas
+http://104.238.205.28:8989/278549_.m3u8
 
 #EXTINF:-1 tvg-id="Meganoticias MX" group-title="NACIONAL", Meganoticias MX
 http://104.238.205.28:8989/278371_.m3u8
