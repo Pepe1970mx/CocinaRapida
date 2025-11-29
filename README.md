@@ -425,17 +425,17 @@ https://stitcher.pluto.tv/stitch/hls/channel/65662f8a2c46f300088a84cc/master.m3u
 
 
 
-#EXTINF:-1 tvg-id="SKY Vinema uno" group-title="De Paga", SKY Cinema Uno 
+#EXTINF:-1 tvg-id="SKY Cinema uno" group-title="De Paga", SKY Cinema Uno 
 http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/19095/index.m3u8
 
 
-#EXTINF:-1 tvg-id="TNT" group-title="De Paga", TNT
+#EXTINF:-1 tvg-id="TNT.mx" group-title="De Paga", TNT
 http://104.238.205.28:8989/278540_.m3u8
 
-#EXTINF:-1 tvg-id="Space México" group-title="De Paga", Space HD
+#EXTINF:-1 tvg-id="SPACE.mx" group-title="De Paga", Space HD
 http://104.238.205.28:8989/278520_.m3u8
 
-#EXTINF:-1 tvg-id="Warner" group-title="De Paga", Warner
+#EXTINF:-1 tvg-id="WARNER.mx" group-title="De Paga", Warner
 http://104.238.205.28:8989/278453_.m3u8
 
 #EXTINF:-1 tvg-id="MC" group-title="De Paga", MC
