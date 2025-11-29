@@ -514,10 +514,7 @@ http://190.11.225.124:5000/live/telemundo_sd/playlist.m3u8
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSO" group-title="Internacional", UNIVERSO
-https://cfcdn.sbs/?url=aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtODQ1L21vbm8uY3NzJmRhdGE9VDNKcFoybHVQV2gwZEhCek9pOHZaWEJwWTNCc1lYbHdiR0Y1TG1ObVpBPT0%3D&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
-
-
-https://kciwjj.5606087801.art:8443/hls/eflb8gathr4gtu.m3u8?s=w3EVD9sJ43D0_Gt-jPQ9Tg&e=1763888020
+http://190.11.225.124:5000/live/universo_sd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Punto 2 Puerto Rico" group-title="Internacional", Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
@@ -532,7 +529,7 @@ http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
 http://nocable.cc:8080/k4Svp2/645504/15336
 
 #EXTINF:-1 tvg-id="Univision" group-title="Internacional",Univision 2
-https://e2.thetvapp.to/hls/UnivisionEast/tracks-v1a1/mono.m3u8?token=3-qCgFNFM2EcV2tuD7pKvA&expires=1763333677&user_id=VGpJU2ZDMThpV0kxS0hidmt3R0JFU2xFOVBraGJUQVllOU5xWWp0MQ==
+
 
 #EXTINF:-1 tvg-id="Univision West" group-title="Internacional",  Univision West
 http://206.212.244.71:8080/Abxc5k/363887/108248
