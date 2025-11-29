@@ -253,15 +253,15 @@ https://epicplay247.cfd/?url=aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTM
 
 http://nocable.cc:8080/k4Svp2/645504/11885
 
-#EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN US
-http://2c885aed.rossteleccom.net/iptv/WWEX4VRHZ4XEK4/31103/index.m3u8
+#EXTINF:-1 tvg-id="TVC Deportes" group-title="Sports", TVC Deportes 
+http://104.238.205.28:8989/278560_.m3u8
 
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
 http://200.115.120.1:8000/play/ca039/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN HD
-https://bgfuzq.fubohd.com/tudn/mono.m3u8?token=339f700b1f9e06f37386fa86878559c6739ed993-e1-1763882876-1763864876
+http://104.238.205.28:8989/278571_.m3u8
 
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes HD
 http://2c885aed.rossteleccom.net/iptv/WWEX4VRHZ4XEK4/30075/index.m3u8
