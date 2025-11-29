@@ -110,6 +110,7 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 tvg-id="Once Niños" group-title="NACIONAL", Once Niños
 
+
 #EXTINF:-1 tvg-id="Di+ TV" group-title="NACIONAL", Di+ TV
 https://live-us-cdn-1.tvstartupengine.com/live/playlist-prod-95aa6fb6-67ee-45c5-b42c-07ca4d4d6096/index.m3u8
 
@@ -758,10 +759,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-xiaomi/
 #EXTINF:-1 tvg-id="Boing Espana" group-title="Kids", Boing
 
 
-#EXTINF:-1 tvg-id="ESBC4100003WE" group-title="Kids" , Clan
+#EXTINF:-1 tvg-id="Tooncast" group-title="Kids" , Tooncast
+http://104.238.205.28:8989/278550_.m3u8
 
-
-#EXTINF:-1 tvg-id="Seing " group-title="Kids" , Swing 
+#EXTINF:-1 tvg-id="Adult Swing" group-title="Kids" , Adult Swing 
 http://104.238.205.28:8989/278391_.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network Norte" group-title="Kids", Cartoon Network 4K
@@ -770,6 +771,9 @@ http://104.238.205.28:8989/278524_.m3u8
 
 #EXTINF:-1 tvg-id="Nick" group-title="Kids", Nick HD
 http://104.238.205.28:8989/278544_.m3u8
+
+#EXTINF:-1 tvg-id="Teennick" group-title="Kids", Teennick
+http://104.238.205.28:8989/278550_.m3u8
 
 #EXTINF:-1 tvg-id="Disney Channel" group-title="Kids", Disney Channel
 http://201.230.121.186:8000/play/a0fb/index.m3u8
