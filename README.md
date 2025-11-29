@@ -504,10 +504,10 @@ https://jmp2.uk/stvp-US2200005Y2
 http://nocable.cc:8080/k4Svp2/645504/120691
 
 #EXTINF:-1 tvg-id="Telemundo" group-title="Internacional", Telemundo 
-https://live.saohgdasregions.fun:9092/MjAxLjE3NC4yMzUuMTk0/6_.m3u8?token=Jc2TqV61YzKZqa9tHHdYiA&expires=1764315237
+http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo" group-title="Internacional", Telemundo 
-https://live.saohgdasregions.fun:9092/MjAxLjE3NC4yMzUuMTk0/6_.m3u8?token=dGF_Rs8tIXlIQbUnIkek_w&expires=1764315286
+http://190.11.225.124:5000/live/telemundo_sd/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="UNIVERSO" group-title="Internacional", UNIVERSO
