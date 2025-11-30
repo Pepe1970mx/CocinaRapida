@@ -389,31 +389,31 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 #EXTINF:-1 tvg-id="AXN" group-title="De Paga", AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
 
-#EXTINF:-1 tvg-id="Sony.mx" group-title="De Paga", Sony Movies
+#EXTINF:-1 tvg-id="Sony.mx" group-title="SONY", Sony Movies
 http://38.183.182.166:8000/play/a0vg/index.m3u8
 
-#EXTINF:-1 tvg-id="Sony.mx" group-title="De Paga", Sony Movies
+#EXTINF:-1 tvg-id="Sony.mx" group-title="SONY", Sony Movies
 https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
-#EXTINF:-1 tvg-id="Cine Sony" group-title="De Paga", Sony Cine
+#EXTINF:-1 tvg-id="Cine Sony" group-title="SONY", Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sony One Cinema" group-title="De Paga", Sony One Cinema
+#EXTINF:-1 tvg-id="Sony One Cinema" group-title="SONY", Sony One Cinema
 https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ES300003D4" group-title="De Paga", Sony One Series Exitos
+#EXTINF:-1 tvg-id="ES300003D4" group-title="SONY", Sony One Series Exitos
 https://d1hcj42s7cseno.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ES300006QJ" group-title="De Paga", Sony One Hits Acción 
+#EXTINF:-1 tvg-id="ES300006QJ" group-title="SONY", Sony One Hits Acción 
 https://de9yx47crxs6l.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ES30000145" group-title="De Paga", Sony One Hits Comedia
+#EXTINF:-1 tvg-id="ES30000145" group-title="SONY", Sony One Hits Comedia
 https://d3m8rnla2v9m5d.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ES30000145" group-title="De Paga", Sony One Series Comedia
+#EXTINF:-1 tvg-id="Sony One Series Comedia" group-title="SONY", Sony One Series Comedia
 https://d1fhd07bw4d2d6.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ES300002Y6" group-title="De Paga", Sony One Series Thrillers
+#EXTINF:-1 tvg-id="ES300002Y6" group-title="SONY", Sony One Series Thrillers
 https://d1wuti7vf6eqt9.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6479ff1c17f5e10008ad2797" group-title="De Paga", Pluto TV Series de Acción 
@@ -447,6 +447,9 @@ http://104.238.205.28:8989/278427_.m3u8
 
 #EXTINF:-1 tvg-id="USA" group-title="De Paga", USA
 http://104.238.205.28:8989/278452_.m3u8
+
+#EXTINF:-1 tvg-id="USA" group-title="De Paga", USA
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
 
 #EXTINF:-1 tvg-id="UniversalTV.mx" group-title="De Paga", Universal Channel
 
