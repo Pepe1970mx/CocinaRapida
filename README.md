@@ -149,10 +149,6 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telever" group-title="NACIONAL", Telever
 
-
-
-
-
 #EXTINF:-1  tvg-id="XHPTDT" group-title="NACIONAL" , 34 Noticias 
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
 
@@ -345,10 +341,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 
 
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
-https://live.saohgdasregions.fun:9092/MjAxLjE3NC4yMzUuMTk0/54_.m3u8?token=tIQq2R6cUlY9CVzu8ONKwQ&expires=1764151213
 
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
-https://live.saohgdasregions.fun:9092/MjAxLjE3NC4yMzUuMTk0/54_.m3u8?token=LLa5QftWnXnrDHz94ut56w&expires=1764151135
+
 
 #EXTINF:-1 tvg-id="Frecuencia Musical" group-title="ENTRETENIMIENTO", FM Frecuencia Musical
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13014
@@ -356,38 +351,63 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13014
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
 
-#EXTINF:-1 tvg-id="Frecuencia Musical TV" group-title="ENTRETENIMIENTO", FM TV 1
-https://s2.tvdatta.com:3307/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-id="Frecuencia Musical TV" group-title="ENTRETENIMIENTO", FM TV
-https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
-
 #EXTINF:-1 tvg-id="Infinita TV" group-title="ENTRETENIMIENTO", Infinita TV
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Moni TV" group-title="ENTRETENIMIENTO" , Chinola
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 
 #EXTINF:-1 tvg-id="Moni TV" group-title="ENTRETENIMIENTO" , Moni TV
-https://tv.arkeo.cl:19360/8134/8134.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 tvg-id="RetroplusTV" group-title="ENTRETENIMIENTO" , RetroPlusTV
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="WOW TV" group-title="ENTRETENIMIENTO", WOW TV
-https://cdn-startv.cef-technology.com/wow/wow_tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Studio Universal" group-title="De Paga", Studio Universal 
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
 
-#EXTINF:-1 tvg-id="Cinecanal México" group-title="De Paga", Cinecanal
+#EXTINF:-1 tvg-id="Cinecanal.mx" group-title="De Paga", Cinecanal
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 
-#EXTINF:-1 tvg-id="AXN" group-title="De Paga", AXN
+#EXTINF:-1 tvg-id="AXN.mx" group-title="De Paga", AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT.mx" group-title="De Paga", TNT
+http://104.238.205.28:8989/278540_.m3u8
+
+#EXTINF:-1 tvg-id="SPACE.mx" group-title="De Paga", Space HD
+http://104.238.205.28:8989/278520_.m3u8
+
+#EXTINF:-1 tvg-id="WARNER.mx" group-title="De Paga", Warner
+http://104.238.205.28:8989/278453_.m3u8
+
+#EXTINF:-1 tvg-id="MC" group-title="De Paga", MC
+http://104.238.205.28:8989/278509_.m3u8
+
+#EXTINF:-1 tvg-id="FX.mx" group-title="De Paga", FX
+http://104.238.205.28:8989/278427_.m3u8
+
+
+#EXTINF:-1 tvg-id="USA.mx" group-title="De Paga", USA
+http://104.238.205.28:8989/278452_.m3u8
+
+#EXTINF:-1 tvg-id="USA.mx" group-title="De Paga", USA
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
+
+
+#EXTINF:-1 tvg-id="HBO Latino" group-title="De Paga" , HBO Latino
+https://epicplay247.cfd/?url=aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNjkyL21vbm8ubTN1OCZkYXRhPVQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQT09&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+
+#EXTINF:-1 tvg-id="HBO Plus" group-title="De Paga" , HBO 2
+https://streamer1.nexgen.bz/HBO2/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 tvg-id="HBO Family" group-title="De Paga" , HBO Family
+https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
+
+
 
 #EXTINF:-1 tvg-id="Sony.mx" group-title="SONY", Sony Movies
 http://38.183.182.166:8000/play/a0vg/index.m3u8
@@ -423,56 +443,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/6479ff1c17f5e10008ad2797/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/65662f8a2c46f300088a84cc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4d2ea70d-8794-11f0-8f1d-72e01dbf2a46
 
 
-
-
-#EXTINF:-1 tvg-id="SKY Cinema uno" group-title="De Paga", SKY Cinema Uno 
-http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/19095/index.m3u8
-
-
-#EXTINF:-1 tvg-id="TNT.mx" group-title="De Paga", TNT
-http://104.238.205.28:8989/278540_.m3u8
-
-#EXTINF:-1 tvg-id="SPACE.mx" group-title="De Paga", Space HD
-http://104.238.205.28:8989/278520_.m3u8
-
-#EXTINF:-1 tvg-id="WARNER.mx" group-title="De Paga", Warner
-http://104.238.205.28:8989/278453_.m3u8
-
-#EXTINF:-1 tvg-id="MC" group-title="De Paga", MC
-http://104.238.205.28:8989/278509_.m3u8
-
-#EXTINF:-1 tvg-id="FX" group-title="De Paga", FX
-http://104.238.205.28:8989/278427_.m3u8
-
-
-#EXTINF:-1 tvg-id="USA" group-title="De Paga", USA
-http://104.238.205.28:8989/278452_.m3u8
-
-#EXTINF:-1 tvg-id="USA" group-title="De Paga", USA
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
-
-#EXTINF:-1 tvg-id="UniversalTV.mx" group-title="De Paga", Universal Channel
-
-
-#EXTINF:-1 tvg-id=" " group-title="De Paga",SYFY
-
-#EXTINF:-1 tvg-id="Paramount Channel" group-title="De Paga", Paramount
-https://live.saohgdasregions.fun:9092/MjAxLjE3NC4yMzUuMTk0/62_.m3u8?token=MeUxiosZ3Nxh29TAtYoFpA&expires=1764146212
-
-#EXTINF:-1 tvg-id="Movistar Estreno" group-title="De Paga" , Movistar Estreno
-
-
-#EXTINF:-1 tvg-id="amc_españa" group-title="De Paga", AMC España
-
-
-#EXTINF:-1 tvg-id="HBO Latino" group-title="De Paga" , HBO Latino
-https://epicplay247.cfd/?url=aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNjkyL21vbm8ubTN1OCZkYXRhPVQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQT09&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
-
-#EXTINF:-1 tvg-id="HBO Plus" group-title="De Paga" , HBO 2
-https://streamer1.nexgen.bz/HBO2/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 tvg-id="HBO Family" group-title="De Paga" , HBO Family
-https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="EL FINANCIERO.mx" group-title="NOTICIAS", El Financiero - Bloomberg TV
