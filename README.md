@@ -58,9 +58,37 @@ https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649
 #EXTINF:-1 tvg-id="CANAL 11.mx" group-title="NACIONAL", Canal Once
 https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="Once Ninos" group-title="NACIONAL",  Once Niños y Niñas
 http://104.238.205.28:8989/278549_.m3u8
+
+#EXTINF:-1 tvg-id="CANAL CATORCE.mx" group-title="NACIONAL" , Canal 14 
+https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Canal 21 de México" group-title="NACIONAL" , Capital 21
+https://s5.mexside.net:1936/respaldo/respaldo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CANAL 22 CONACULTA.mx" group-title="NACIONAL" , CANAL 22 
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
+
+EXTINF:-1 tvg-id="28 de México" group-title="NACIONAL" , CANAL 28 Nuevo Leon
+https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
+
+#EXTINF:-1 tvg-id="I503.36479.schedulesdirect.org" group-title="NACIONAL", Radio y Television de Veracruz (RTV) 
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV UNAM" group-title="NACIONAL" , TV UNAM
+https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="MX NUESTRO CINE.mx" group-title="NACIONAL" , MX Nuestro Cine
+https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CANAL DEL CONGRESO.mx" group-title="NACIONAL" , Canal del Congreso
+
+
+
+
+#EXTINF:-1 tvg-id="Telever" group-title="NACIONAL", Telever
+
 
 #EXTINF:-1 tvg-id="Meganoticias MX" group-title="NACIONAL", Meganoticias MX
 http://104.238.205.28:8989/278371_.m3u8
@@ -76,9 +104,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 
 #EXTINF:-1 tvg-id="TELEFORMULA.mx" group-title="NACIONAL" , Teleformula
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
-
-
-
 
 #EXTINF:-1 tvg-id="Telehit" group-title="NACIONAL", Telehit
 https://streamer1.nexgen.bz/TELEHIT/index.m3u8
@@ -101,14 +126,8 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="La Voz Grupera" group-title="NACIONAL", La Voz Grupera
 
 
-
-
-
 #EXTINF:-1 tvg-id="El Heraldo TV" group-title="NACIONAL" , Heraldo TV
 
-
-
-#EXTINF:-1 tvg-id="Once Niños" group-title="NACIONAL", Once Niños
 
 
 #EXTINF:-1 tvg-id="Di+ TV" group-title="NACIONAL", Di+ TV
@@ -119,47 +138,19 @@ https://live-us-cdn-1.tvstartupengine.com/live/playlist-prod-95aa6fb6-67ee-45c5-
 https://stream-207963.castr.net/65313d270e749722b6474684/live_185f5f10888711ee83e2f144889e3879/index.fmp4.m3u8
 
 
-#EXTINF:-1 tvg-id="CANAL CATORCE.mx" group-title="NACIONAL" , Canal 14 
 
 
 
-#EXTINF:-1 tvg-id="TV UNAM" group-title="NACIONAL" , TV UNAM
-https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
-
-#EXTINF:-1 tvg-id="Canal 21 de México" group-title="NACIONAL" , Capital 21
-https://s5.mexside.net:1936/respaldo/respaldo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CANAL 22 CONACULTA.mx" group-title="NACIONAL" , CANAL 22 
-https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
-
-EXTINF:-1 tvg-id="28 de México" group-title="NACIONAL" , CANAL 28 Nuevo Leon
-https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MX NUESTRO CINE.mx" group-title="NACIONAL" , MX Nuestro Cine
-https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TV UNAM" group-title="NACIONAL" , TV UNAM
 
 
-#EXTINF:-1 tvg-id="CANAL DEL CONGRESO.mx" group-title="NACIONAL" , Canal del Congreso
-https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="I503.36479.schedulesdirect.org" group-title="NACIONAL", Radio y Television de Veracruz (RTV) 
-https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telever" group-title="NACIONAL", Telever
 
-#EXTINF:-1  tvg-id="XHPTDT" group-title="NACIONAL" , 34 Noticias 
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
 
-#EXTINF:-1 tvg-id="Monte Maria" group-title="NACIONAL", Mariavision 
+#EXTINF:-1 tvg-id="Drama" group-title="NACIONAL", Mariavision 
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
-
-
 #EXTINF:-1 tvg-id="La Rosa" group-title="Drama" , La Rosa de Guadalupe
-
-
 
 #EXTINF:-1 tvg-id="USBD2700004ME" group-title="Drama" , Como Dice el Dicho 
 https://jmp2.uk/stvp-USBD2700004ME
