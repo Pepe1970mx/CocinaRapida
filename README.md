@@ -399,10 +399,10 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO Latino" group-title="De Paga" , HBO Latino
-https://epicplay247.cfd/?url=aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtNjkyL21vbm8ubTN1OCZkYXRhPVQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQT09&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+https://streamer1.nexgen.bz/HBO_LATINO/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="HBO Plus" group-title="De Paga" , HBO 2
-https://streamer1.nexgen.bz/HBO2/tracks-v1a2/mono.m3u8
+https://streamer1.nexgen.bz/HBO_2/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family" group-title="De Paga" , HBO Family
 https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
@@ -688,7 +688,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u
 
 #EXTINF:-1 tvg-id="" group-title="España" ,
 
-#EXTINF:-1 tvg-id="grjngo" group-title="CINE y Series" , Grjngo
+#EXTINF:-1 tvg-id="ESBC2700002LO" group-title="CINE y Series" , Grjngo
 https://amogonetworx-grjngo-2-mx.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FreeTV Live" group-title="CINE y Series" ,Freetv Live
@@ -705,12 +705,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-xiaomi/playl
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-xiaomi/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="FreeTV Estelar" group-title="CINE y Series" , Freetv Estelar
+#EXTINF:-1 tvg-id="ESBA3300039ZX" group-title="CINE y Series" , Freetv Estelar
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-xiaomi/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="CINE y Series" ,
-
-
 
 #EXTINF:-1 tvg-id="" group-title="CINE y Series" ,
 
