@@ -241,7 +241,7 @@ https://epicplay247.cfd/?url=aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTM
 http://nocable.cc:8080/k4Svp2/645504/11885
 
 #EXTINF:-1 tvg-id="TVC Deportes" group-title="Sports", TVC Deportes 
-http://104.238.205.28:8989/278560_.m3u8
+
 
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
@@ -501,10 +501,10 @@ http://nocable.cc:8080/k4Svp2/645504/15336
 http://206.212.244.71:8080/Abxc5k/363887/108248
 
 #EXTINF:-1 tvg-id="UniMAS" group-title="Internacional", Unimas
-https://epicplay247.cfd/?url=aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMTMzL21vbm8ubTN1OCZkYXRhPVQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQT09&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+
 
 #EXTINF:-1 tvg-id="741 UniMAS" group-title="Internacional", UNIMAS 1
-http://08ff696c.edmonst.net/iptv/EEW6UXHXRZXG85/1100/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" group-title="Internacional", Teleonce Univision PR
