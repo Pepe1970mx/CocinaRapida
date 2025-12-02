@@ -178,6 +178,10 @@ https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleclasica" group-title="RETRO" , Teleclasica 
 https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Gogoplay" group-title="RETRO" , Gogoplay
+https://live21.bozztv.com/akamaissh101/ssh101/gogoplay/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="Dreiko TV" group-title="RETRO" , DREIKO TV
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
@@ -346,7 +350,7 @@ https://live.obslivestream.com/planetatv/index.m3u8
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
-
+https://live21.bozztv.com/akamaissh101/ssh101/wowchannelsd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Moni TV" group-title="ENTRETENIMIENTO" , Chinola
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
