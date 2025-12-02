@@ -175,6 +175,10 @@ https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
 #EXTINF:-1 tvg-id="Canal LMS" group-title="RETRO" , LMS
 https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="RETRO" , Big Channel
+https://live21.bozztv.com/akamaissh101/ssh101/bigchannel/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="Teleclasica" group-title="RETRO" , Teleclasica 
 https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
 
@@ -182,10 +186,22 @@ https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
 https://live21.bozztv.com/akamaissh101/ssh101/gogoplay/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="" group-title="RETRO" , Pantalla Clasics
+https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="RETRO" , ToonChannels
+https://live21.bozztv.com/akamaissh101/ssh101/toonchannelph/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="RETRO" , RetroToons
+https://live21.bozztv.com/akamaissh101/ssh101/retrotoons/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="Dreiko TV" group-title="RETRO" , DREIKO TV
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
 
+#EXTINF:-1 tvg-id="MoniTV" group-title="RETRO y ENTRETENIMIENTO" , Moni TV
+https://live21.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Clan" group-title="RETRO y ENTRETENIMIENTO" , Clan
 https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
