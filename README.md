@@ -478,14 +478,12 @@ https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 
 
 #EXTINF:-1 tvg-id="USBC2100010OS" group-title="Internacional" , ViX Jajaja 
-https://jmp2.uk/stvp-USBC2100010OS
+https://jmp2.uk/stvp-US2100010OS
 
 #EXTINF:-1 tvg-id="Distrito Comedia" group-title="Internacional" , Distrito Comedia
 
 
 #EXTINF:-1  tvg-id="US2200005Y2"  group-title="Internacional" , Canal Vix
-https://dcs4-live.mp.lura.live/server/podserve2/0yQkQ2Tr5awnszM0/manifest.mpd?gam_stream_id=0bd7fa25-9b55-477d-a164-dc6f2e78ddd5:CHS&encp=zuvPJYoOOdEMDNF2j2mvmg:cGjMq-mF9PkXfOY10Pkem2EABOH6QLlDIAGMHzeEcMPXwl_J04K6f8bPQzXfv1bAMTH_SVRKzOwqqBptBJwarZ-w_TGUc3iRv7iU736CHhy-GgSRD0XBnj1Sl__JYKvJadqnCaTk5Cod63quSZHwJsBeogMBnPToPNv2RCGFNWC1IlOZFnrv81k77c8UIgLWWsgoLgSLOaLDfBgmaRDnyrRsOpsRR07jcIGOoygD1UUdrnfEXc4u_Ipn1oMAF4vbE9QbKQSFve00QWN7nAevFbd9JZb2l_lo6jvSbUu0jks&anvauth=tb=0~te=1764480028~sgn=023070a73e6a24be4e3e8fd977a0109269860a436a789dbf265ed8845fb0d736&t=1764479128&lura_pal_nonce=AQzzBGQEgU9NpmbNYLywbQU6SPleC2hQiDc0hi-x2bmI54YFmmmj_4oal7LGSbvWFYd0aMq2Pz-zb4DHQNEbJ1Jg-NlcqhF5S9zsToiwZo7F2rckzv1Ut67p3cKjCMCJ15ct-Pg-g4W4HYXZ-EtXO1P3LdmnuKnHeU_pWKbpuB0Fba1X98heicQZikT4VIl1tAWcnhjylHteVDr6Fp5Se_T2mT6WmA3Oxc8t-W4eolMSxAu0EeYbsVeTDYoPPN48xtxHodYnY8YrpzvPGMotMNd4jzFn_ISUZUNBxJXowr4I20ou_bSHtRhawdMDJ4n9AwwtBr3636tlGD_BFi9aUWwNaGlvb8zKLzsBO3Mg82UMOMeZVze4aG2r16CgbY8kvOwmEM5I6JtmtAfDb4OzA4eYkw-SHk-5GGQ11rDMsOud8jqxmc2MsncHpGfUc103CX_eZpSKrT421t2x6tyMD33_8Fuoyn4Ynrnq553DvRkmfk758PLQ873uNEwrH7DJy-NVRKy-YIeIqxSEqh_PXVJiMwwBexEPUzy0UGiUljOW9v5vAbbRHDj3LFNSLH_Q5e0AA_wHsu91qIcHo39OvrDS0GkjoVdvIfzNvV_GLbRvV_0UW0MjMndizIXyWn3SOfYc8l3oZQk8nsNWect48YSFOmtbOOYtbw9F3hLbisRAJkjg0Bpz2-5K4vkOiJTyGfoMFtfkv1dlc2l2FOFA5qZN1yPIzl3KGsrObJpgAzuA0f2mrXCwllu3CzmMYlDWHgpPSwvf4NSPDKGcPzb7WTwPD0wEvVyODRdjDepLUTlVIRKrvQ7HvSoloOGo7c-h8lMPcfdz-Fh49gUS1HJc1B9aWEsnDIcGvbjwgqMj9fJ651CJxGfhUCSqWNF_uA4zN4vVszj2bk1d_88luFRMiFMT00P-5T2Y2xUSiCqzCXxMuu-tetq0Y_psfFB9PGO9K6d-nzSjL3-HuqHIo_ivVgdysjPt5OMwivqOrhfwMk9n8o-pp77DotiUFWUuCEVdLu_ryk-Va7ZqqDTsSTSxigkmz1s7ecm6lMvQ0xxRag2XyCe0vNZ0BRav-2JkZM1TFJR6RwNClnLvybTEe0SDo-CntmmsMDOKAhEuyBWOJHuQqi_pogiHJYXXGAmR4qw16UBnxpEM6_EcWOsVCrVMj9wIrzFy-ksWWmvJqeInqlbWnocnndp9WbgmkusIhtDsdAg89ZZNSN5jG6cZJqBGYINX57_RBT-kym21NG5gzvspVnWEpKqrMpRh2tkeJg..&session_id=02f02de2ca-6132-45fb-a538-a97dc3f88133~0_168427546
-
 https://jmp2.uk/stvp-US2200005Y2
 
 #EXTINF:-1 tvg-id="Telemundo Satellite Feed" group-title="Internacional", Telemundo 
@@ -502,7 +500,7 @@ http://190.11.225.124:5000/live/telemundo_sd/playlist.m3u8
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSO" group-title="Internacional", UNIVERSO
-http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Punto 2 Puerto Rico" group-title="Internacional", Telemundo PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
