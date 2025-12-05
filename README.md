@@ -289,11 +289,10 @@ https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 https://epicplay247.cfd/?url=aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTI4L21vbm8ubTN1OCZkYXRhPVQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQT09&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
 
 #EXTINF:-1 tvg-id="Fox Sports Premium" group-title="Sports", Fox Sports Premium
-https://epicplay247.cfd/?url=aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW04MzAvbW9uby5jc3MmZGF0YT1UM0pwWjJsdVBXaDBkSEJ6T2k4dlpYQnBZM0JzWVhsd2JHRjVMbU5tWkE9PQ==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
 
 
 #EXTINF:-1 tvg-id="TNT Sur" group-title="Sports", TNT Sports
-https://epicplay247.cfd/?url=aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0zODgvbW9uby5tM3U4JmRhdGE9VDNKcFoybHVQV2gwZEhCek9pOHZaWEJwWTNCc1lYbHdiR0Y1TG1ObVpBPT0=&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+
 
 #EXTINF:-1 tvg-id="ESPN 1 HD NL" group-title="Sports", ESPN 1 HD NL
 http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/19201/index.m3u8
@@ -311,13 +310,14 @@ https://livetv-fa.tubi.video/fubo/master.m3u8
 
 
 #EXTINF:-1 tvg-id="Fox Sports 1 US" group-title="Sports", Fox Sport 1 US
-https://epicplay247.cfd/?url=aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zOS9tb25vLm0zdTgmZGF0YT1UM0pwWjJsdVBXaDBkSEJ6T2k4dlpYQnBZM0JzWVhsd2JHRjVMbU5tWkE9PQ==&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15948.ts
+
 
 #EXTINF:-1 tvg-id="618 Fox Sports 2 US" group-title="Sports", Fox Sport 2 US
 https://tvpass.org/live/FoxSports2/sd
 
 #EXTINF:-1 tvg-id="CBS Sports Network" group-title="Sports", CBS Sports
-https://epicplay247.cfd/?url=aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zMDgvbW9uby5tM3U4JmRhdGE9VDNKcFoybHVQV2gwZEhCek9pOHZaWEJwWTNCc1lYbHdiR0Y1TG1ObVpBPT0=&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15944.ts
 
 #EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1489fe1a-8afc-11f0-a08f-d2161128e34e
