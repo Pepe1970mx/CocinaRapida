@@ -265,6 +265,8 @@ http://nocable.cc:8080/k4Svp2/645504/11885
 
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
+http://104.238.205.28:8989/278570_.m3u8
+
 http://200.115.120.1:8000/play/ca039/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN HD
