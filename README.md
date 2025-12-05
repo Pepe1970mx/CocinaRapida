@@ -297,11 +297,11 @@ https://epicplay247.cfd/?url=aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTI
 #EXTINF:-1 tvg-id="ESPN 1 HD NL" group-title="Sports", ESPN 1 HD NL
 http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/19201/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN US" group-title="Sports", ESPN
-http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/19156/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" group-title="Sports", ESPN
+http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15951.ts
 
 #EXTINF:-1 tvg-id="ESPN2" group-title="Sports", ESPN2
-http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/19155/index.m3u8
+http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15950.ts
 
 #EXTINF:-1 tvg-id="Fubo Sports Network" group-title="Sports", Fubo Sports Network 
 https://livetv-fa.tubi.video/fubo/master.m3u8
