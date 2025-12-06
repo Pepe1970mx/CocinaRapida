@@ -790,8 +790,14 @@ https://stitcher.pluto.tv/stitch/hls/channel/66a01b52a4ee27000808ea36/master.m3u
 #EXTINF:-1 tvg-id="625e79fe9b586d000785e330" group-title="Retro Music", HIP HOP CLASSIC
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625e79fe9b586d000785e330/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
+#EXTINF:-1 tvg-id="" group-title="Retro Music", Deluxe Rap
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="Retro Music", MTV 80's
-http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/6977/index.m3u8
+https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Retro Music", Dance Hits 80
+http://dancehits80.denvs.ru:8080/index.m3u8
 
 #EXTINF:-1 tvg-id="Vevo Rock" group-title="Retro Music", Vevo Rock
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce917-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5b34f49b-bb11-47dd-b65b-7c5074a9925c
