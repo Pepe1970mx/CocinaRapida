@@ -506,7 +506,7 @@ http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
 http://nocable.cc:8080/k4Svp2/645504/15336
 
 #EXTINF:-1 tvg-id="Univision" group-title="Internacional",Univision 2
-
+https://e2.thetvapp.to/hls/UnivisionEast/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Univision West" group-title="Internacional",  Univision West
 http://206.212.244.71:8080/Abxc5k/363887/108248
