@@ -277,7 +277,7 @@ https://e1.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8?token=1k1UYzV3fME
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN4.mx" group-title="Sports", Espn 4 
-https://epicplay247.cfd/?url=aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTI4L21vbm8ubTN1OCZkYXRhPVQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQT09&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/19139/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox Sports Premium" group-title="Sports", Fox Sports Premium
 
