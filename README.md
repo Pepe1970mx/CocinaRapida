@@ -247,8 +247,6 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
 #EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN 
-https://epicplay247.cfd/?url=aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtOTM1L21vbm8ubTN1OCZkYXRhPVQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQT09&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
-
 http://nocable.cc:8080/k4Svp2/645504/11885
 
 #EXTINF:-1 tvg-id="TVC Deportes" group-title="Sports", TVC Deportes 
@@ -265,7 +263,7 @@ https://kciwjj.5606087801.art:8443/hls/6jrv3g9o9.m3u8?s=25ApBZ-DG9iF8GtBEG7stA&e
 http://2c885aed.rossteleccom.net/iptv/WWEX4VRHZ4XEK4/30075/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes
-https://epicplay247.cfd/?url=aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQzL21vbm8ubTN1OCZkYXRhPVQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQT09&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
+
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
 https://e1.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8
@@ -316,10 +314,9 @@ http://2c885aed.rossteleccom.net/iptv/WWEX4VRHZ4XEK4/9248/index.m3u8
 http://nocable.cc:8080/k4Svp2/645504/120901
 
 #EXTINF:-1 tvg-id="Bein Sports US" group-title="Sports", Bein Sports US
-http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/31048/index.m3u8
+
 
 #EXTINF:-1 tvg-id="TNT Sports 1" group-title="Sports", TNT Sport 1 UK
-http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/6566/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Sky Sports Football HD 50 UK" group-title="Sports", Sky Sports Football HD
@@ -331,7 +328,7 @@ https://live.relentlessinnovations.net:1936/futbolnetwork/futbolnetwork/playlist
 
 
 #EXTINF:-1 tvg-id="63f7e3f9dff38e00082a57af" group-title="Sports", ITV Deportes
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0"  group-title="Sports", AyM sports
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
@@ -476,7 +473,9 @@ https://jmp2.uk/stvp-US2200005Y2
 #EXTINF:-1 tvg-id="Telemundo Satellite Feed" group-title="Internacional", Telemundo 
 http://nocable.cc:8080/k4Svp2/645504/120691
 
-#EXTINF:-1 tvg-id="Telemundo" group-title="Internacional", Telemundo 
+#EXTINF:-1 tvg-id="Telemundo" group-title="Internacional", Telemundo
+https://v1.thetvapp.to/hls/TelemundoEast/tracks-v1a1/mono.m3u8
+
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo" group-title="Internacional", Telemundo 
