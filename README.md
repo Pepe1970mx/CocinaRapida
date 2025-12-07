@@ -256,12 +256,10 @@ http://nocable.cc:8080/k4Svp2/645504/11885
 
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
-http://104.238.205.28:8989/278570_.m3u8
-
 http://200.115.120.1:8000/play/ca039/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN HD
-http://104.238.205.28:8989/278571_.m3u8
+https://kciwjj.5606087801.art:8443/hls/6jrv3g9o9.m3u8?s=25ApBZ-DG9iF8GtBEG7stA&e=1765103818
 
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes HD
 http://2c885aed.rossteleccom.net/iptv/WWEX4VRHZ4XEK4/30075/index.m3u8
@@ -270,13 +268,12 @@ http://2c885aed.rossteleccom.net/iptv/WWEX4VRHZ4XEK4/30075/index.m3u8
 https://epicplay247.cfd/?url=aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQzL21vbm8ubTN1OCZkYXRhPVQzSnBaMmx1UFdoMGRIQnpPaTh2WlhCcFkzQnNZWGx3YkdGNUxtTm1aQT09&headers=eyJSZWZlcmVyIjoiaHR0cHM6Ly9lcGljcGxheXBsYXkuY2ZkLyJ9
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
-https://e1.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8?token=1k1UYzV3fMExdT6InezeXg&expires=1762746978&user_id=b29VZlVjUUE1UFZwYUptaHhFODZQOWJkdVFvQWdYWlR1QklkSmZiSQ==
-
+https://e1.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes 
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN4.mx" group-title="Sports", Espn 4 
+#EXTINF:-1 tvg-id="ESPN.mx" group-title="Sports", Espn 
 http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/19139/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox Sports Premium" group-title="Sports", Fox Sports Premium
@@ -286,9 +283,8 @@ http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/19139/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ESPN 1 HD NL" group-title="Sports", ESPN 1 HD NL
-http://dc1e95c5.ottrast.com/iptv/DSKBMV9WH9MKSH/19201/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" group-title="Sports", ESPN
+#EXTINF:-1 tvg-id="ESPN US" group-title="Sports", ESPN
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15951.ts
 
 #EXTINF:-1 tvg-id="ESPN2" group-title="Sports", ESPN2
