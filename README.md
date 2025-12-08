@@ -153,7 +153,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u
 https://jmp2.uk/stvp-US2100010OS
 
 #EXTINF:-1 tvg-id="Distrito Comedia" group-title="Internacional" , Distrito Comedia
-http://200.115.120.1:8000/play/ca100/index.m3u8
+
 
 #EXTINF:-1  tvg-id="US2200005Y2"  group-title="Internacional" , Canal Vix
 https://jmp2.uk/stvp-US2200005Y2
@@ -217,7 +217,120 @@ https://amg00567-estrellamedia-estrellatv-lgus-1g48u.amagi.tv/playlist/amg00567-
 
 
 
+#EXTINF:-1 tvg-id="TCS+" group-title="Internacional" , TCS+
+https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8
 
+#EXTINF:-1 tvg-id="ATV" group-title="Internacional" , ATV PE
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV Honduras Vica TV" group-title="Internacional", VTV HN
+https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="Latina TV" group-title="Internacional" , Latina TV
+https://jireh-6-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?dpssid=b2170327254268bc24a5f249f&sid=ba5t1l1xb2194594206468bc271a06b9e&ndvc=0
+
+#EXTINF:-1 tvg-id="TVMAX" group-title="Internacional", TVMAX
+http://mundod.ddns.me:2082/stellar341/rodrigo341/52717
+
+#EXTINF:-1  tvg-id="WAPA TV"  group-title="Internacional" , Wapa
+
+
+#EXTINF:-1 tvg-id="2 de Costa Rica" group-title="Internacional", Canal 2 CR
+https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="2 de El Salvador" group-title="Internacional", Canal 2 SV
+https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
+
+
+#EXTINF:-1 tvg-id="2 de Nicaragua" group-title="Internacional", Canal 2 Ni
+
+#EXTINF:-1 tvg-id="3 de Guatemala" group-title="Internacional" , Canal 3 GT
+https://d2qsan2ut81n2k.cloudfront.net/live/6b4f0a21-94d5-4fb6-9742-0f78923723cd/ts:abr.m3u8
+
+https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="3 de Salvador" group-title="Internacional" , Canal 3 SV
+
+
+
+#EXTINF:-1 tvg-id="4 de Costa Rica" group-title="Internacional" , Canal 4 CR
+https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="4 de Nicaragua" group-title="Internacional" , Canal 4 NI 
+
+
+#EXTINF:-1 tvg-id="4 de El Salvador" group-title="Internacional" , Canal 4 SV
+http://200.115.120.1:8000/play/ca100/index.m3u8
+
+
+#EXTINF:-1 tvg-id="5 de Republica Dominicana Telemicro" group-title="Internacional", telemicro 5
+
+
+#EXTINF:-1 tvg-id="5 El Líder Honduras" group-title="Internacional", Canal 5 HN
+https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="6 de Costa Rica" group-title="Internacional" , Canal 6 CR
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="6 de Nicaragua" group-title="Internacional" , Canal 6 NI
+
+#EXTINF:-1 tvg-id="6 de Salvador" group-title="Internacional" , Canal 6 SV
+https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live-video=729984.m3u8
+
+
+
+#EXTINF:-1 tvg-id="7 de Guatemala" group-title="Internacional" , Canal 7 - Televisiete
+https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="7 de Nicaragua Teletica" group-title="Internacional" , Ticavisio 
+https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/chunklist_w189730781.m3u8
+
+#EXTINF:-1 tvg-id="10 de El Salvador" group-title="Internacional", Canal 10 SV
+https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal 11 NI" group-title="Internacional", Canal 11
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="12 de El Salvador" group-title="Internacional", Canal 12 SV
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="13 de Guatemala" group-title="Internacional", Canal 13 - Trecevisión
+
+
+#EXTINF:-1 tvg-id="Canal 13 Esquipula" group-title="Internacional", Canal 13 Esquipulas
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
+
+#EXTINF:-1 tvg-id="13 de Costa Rica" group-title="Internacional", Canal 13 CR 
+
+#EXTINF:-1 tvg-id="Telecentro 13" group-title="Internacional", Telecentro 13
+
+
+#EXTINF:-1 tvg-id="13 de Argentina El Trece" group-title="Internacional", El trece AR
+https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Guatevision" group-title="Internacional" , Guatevision
+https://videos.radiozona3.com/Guatevision/index.m3u8
+
+
+#EXTINF:-1 tvg-id="ATV Sur" group-title="Internacional" , ATV Sur PE
+https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="Internacional", Ciudad Magica AR
+https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
+
+#EXTINF:-1 tvg-id="Ciudad Magacine" group-title="Internacional", Ciudad Magazine AR
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="Internacional", Telecadena 7 y 4
+https://dvrfl03.bozztv.com/hondu-telecadena/index.m3u8
 
 
 
@@ -536,117 +649,6 @@ https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 #EXTINF:-1 tvg-id="USBC39000080S" group-title="Internacional", Canela TV
 https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/cb553e1e7a6c64899ed43d65d5ef41a9df24f0b02a6f9e6c33f6058870df1f499dc0a89da803e4782dc14b9c3e5339415c64c009dc7e01c0df7baf23540b0706dfc1ee2fc6fd7208c3c60d282ab5781a4ffe0f11db35146490a93b189531b04e0011c3007a1967deea47ae7042ddfb72ef025597bd813862284a28ca0e06bab94ec5aaa31e1c8732beb50248855c1da5dd1f9ccb1dbf81ca5b8044857ff10a9495e0f68c42dbdac473ca06e4351b516d28cad737c09f1ff28ac86c38ce202b475357b4f2cbb31f6d80170e5efcfc9ff236fe4b9ddd70d66533ee01c115ee5ae96fa41dd58224c1fde1aa282c38b4d4647233aff7a5b5ee273fcf0291c0c7fc2917f395187553bb09b2400519ca93a1768dc067fedc45ac954b4c7597cb3af1f7a790d0a09f438a24c9de86e9572d4076080eb948b1a57dc920cb79abd74956362240a88c5cc783e652316c48938159d1617fd3b98e90857e51a2691d5bd774c04b001ea85e0e52c47780f0566d993635872033ff5430f22996d12ff4a9dee90775a1c89d2e950aecba1ac2f770ca075d0958fe984f5b4c480f9684225463789141b0d69dac205d03edba99aec40175066e47564189e1be2399dcc679444295041487157a66fefb45fabe7a2b2d168b78fea9117d860953558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c75d6d95e065d7ff3ecf3d5270754e814d122b3aa8ec2398f6fdc4b4fa04fa9d69ab2d6e1d73c4e35d2663372b3b5ccfc03a9036e6e2b968d5c49fadb5ad6bb8f4f97ea0fba670961dd9e084d5460c91e57a187396de28d77c3efda8b5414ab35dd7aa5c0a103d0f1d8cde14b773b0d18fdf70da0da34b1171e37cfbcdb0e8963404b7c61b62642b65303f70632500bc95e154515aa2ee75b60bb4bf1bf91300687f50c8cb407f96f87b19ab307c4bacb484defe9d4d439c2ebc5ee1542e8a1b4d22e8c73daaa4b7f0f188261436dca4b845b4afc7d582868a057619633d9e8e0e01269676bedb54b8fd5325b8c9a6ead8679b70a206ba82b73ced73f598eb40fdc6ef93911036505e45f3c8f388768aef700cd11cee432616939dea8e13dcdfb2026ae35ea0a4096abc317759899ffa06c42eaca45f1ee685655cc17e5190b3acc67d58d9318754f98a7db125dc26b34c831f410d348199/133/1280x720_3849560/index.m3u8
 
-
-#EXTINF:-1 tvg-id="TCS+" group-title="Internacional" , TCS+
-https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8
-
-#EXTINF:-1 tvg-id="ATV" group-title="Internacional" , ATV PE
-https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-id="VTV Honduras Vica TV" group-title="Internacional", VTV HN
-https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-id="Latina TV" group-title="Internacional" , Latina TV
-https://jireh-6-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?dpssid=b2170327254268bc24a5f249f&sid=ba5t1l1xb2194594206468bc271a06b9e&ndvc=0
-
-#EXTINF:-1 tvg-id="TVMAX" group-title="Internacional", TVMAX
-http://mundod.ddns.me:2082/stellar341/rodrigo341/52717
-
-#EXTINF:-1  tvg-id="WAPA TV"  group-title="Internacional" , Wapa
-
-
-#EXTINF:-1 tvg-id="2 de Costa Rica" group-title="Internacional", Canal 2 CR
-https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-id="2 de El Salvador" group-title="Internacional", Canal 2 SV
-https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
-
-
-#EXTINF:-1 tvg-id="2 de Nicaragua" group-title="Internacional", Canal 2 Ni
-
-#EXTINF:-1 tvg-id="3 de Guatemala" group-title="Internacional" , Canal 3 GT
-https://d2qsan2ut81n2k.cloudfront.net/live/6b4f0a21-94d5-4fb6-9742-0f78923723cd/ts:abr.m3u8
-
-https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-id="3 de Salvador" group-title="Internacional" , Canal 3 SV
-
-
-
-#EXTINF:-1 tvg-id="4 de Costa Rica" group-title="Internacional" , Canal 4 CR
-https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-id="4 de Nicaragua" group-title="Internacional" , Canal 4 NI 
-https://www.dailymotion.com/cdn/live/video/x7rwv8c.m3u8?sec=QXeJlyXPksogJGbVBKhAwj4FfP4k4Ech2BfGF2S1zTDXhRCItNcRoiEiUmYtR2-kSqU03DNoOayxjDcu8xYLiA&dmTs=258755&dmV1st=37648451-4e63-4615-8520-270d54921eef
-
-#EXTINF:-1 tvg-id="4 de El Salvador" group-title="Internacional" , Canal 4 SV
-
-
-#EXTINF:-1 tvg-id="5 de Republica Dominicana Telemicro" group-title="Internacional", telemicro 5
-
-
-#EXTINF:-1 tvg-id="5 El Líder Honduras" group-title="Internacional", Canal 5 HN
-https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
-
-#EXTINF:-1 tvg-id="6 de Costa Rica" group-title="Internacional" , Canal 6 CR
-https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-id="6 de Nicaragua" group-title="Internacional" , Canal 6 NI
-
-#EXTINF:-1 tvg-id="6 de Salvador" group-title="Internacional" , Canal 6 SV
-https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live-video=729984.m3u8
-
-
-
-#EXTINF:-1 tvg-id="7 de Guatemala" group-title="Internacional" , Canal 7 - Televisiete
-https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-id="7 de Nicaragua Teletica" group-title="Internacional" , Ticavisio 
-https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/chunklist_w189730781.m3u8
-
-#EXTINF:-1 tvg-id="10 de El Salvador" group-title="Internacional", Canal 10 SV
-https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal 11 NI" group-title="Internacional", Canal 11
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="12 de El Salvador" group-title="Internacional", Canal 12 SV
-https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-id="13 de Guatemala" group-title="Internacional", Canal 13 - Trecevisión
-
-
-#EXTINF:-1 tvg-id="Canal 13 Esquipula" group-title="Internacional", Canal 13 Esquipulas
-https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
-
-#EXTINF:-1 tvg-id="13 de Costa Rica" group-title="Internacional", Canal 13 CR 
-
-#EXTINF:-1 tvg-id="Telecentro 13" group-title="Internacional", Telecentro 13
-
-
-#EXTINF:-1 tvg-id="13 de Argentina El Trece" group-title="Internacional", El trece AR
-https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Guatevision" group-title="Internacional" , Guatevision
-https://videos.radiozona3.com/Guatevision/index.m3u8
-
-
-#EXTINF:-1 tvg-id="ATV Sur" group-title="Internacional" , ATV Sur PE
-https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL
-
-
-
-#EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="Internacional", Ciudad Magica AR
-https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
-
-#EXTINF:-1 tvg-id="Ciudad Magacine" group-title="Internacional", Ciudad Magazine AR
-https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="Internacional", Telecadena 7 y 4
-https://dvrfl03.bozztv.com/hondu-telecadena/index.m3u8
 
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , +Cine
