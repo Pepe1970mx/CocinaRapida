@@ -158,12 +158,10 @@ http://200.115.120.1:8000/play/ca100/index.m3u8
 #EXTINF:-1  tvg-id="US2200005Y2"  group-title="Internacional" , Canal Vix
 https://jmp2.uk/stvp-US2200005Y2
 
-#EXTINF:-1 tvg-id="Telemundo Satellite Feed" group-title="Internacional", Telemundo 
+EXTINF:-1 tvg-id="Telemundo Satellite Feed" group-title="Internacional", Telemundo 
 http://nocable.cc:8080/k4Svp2/645504/120691
 
 #EXTINF:-1 tvg-id="Telemundo" group-title="Internacional", Telemundo
-https://v1.thetvapp.to/hls/TelemundoEast/tracks-v1a1/mono.m3u8
-
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo" group-title="Internacional", Telemundo 
@@ -183,17 +181,15 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
 #EXTINF:-1 tvg-id="Univision" group-title="Internacional",  Univision
-http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
 
-#EXTINF:-1 tvg-id="Univision" group-title="Internacional",Univision
+
+EXTINF:-1 tvg-id="Univision" group-title="Internacional",Univision
 http://nocable.cc:8080/k4Svp2/645504/15336
 
 #EXTINF:-1 tvg-id="Univision" group-title="Internacional",Univision 2
 https://e2.thetvapp.to/hls/UnivisionEast/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Univision West" group-title="Internacional",  Univision West
-
-
 http://206.212.244.71:8080/Abxc5k/363887/108248
 
 #EXTINF:-1 tvg-id="UniMAS" group-title="Internacional", Unimas
@@ -213,7 +209,7 @@ http://104.238.205.28:8989/278705_.m3u8
 http://206.212.244.71:8080/Abxc5k/363887/58770
 
 #EXTINF:-1 tvg-id="Wapa" group-title="Internacional", Wapa
-http://mundod.ddns.me:2082/stellar341/rodrigo341/7098
+
 
 #EXTINF:-1 tvg-id="5cf0622da00ca1e2f6fac712" group-title="Internacional", Estrella TV
 https://amg00567-estrellamedia-estrellatv-lgus-1g48u.amagi.tv/playlist/amg00567-estrellamedia-estrellatv-lgus/playlist.m3u8
