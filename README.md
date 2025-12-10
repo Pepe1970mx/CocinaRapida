@@ -412,6 +412,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-209633/tracks-v1a1/mono.ts.m3u8
 
 
 
+#EXTINF:-1 tvg-id="FIFA+" group-title="Sports", FIFA+
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FOX Deportes" group-title="Sports", Fox Deportes Pluto
 https://stitcher.pluto.tv/stitch/hls/channel/63d0269d60bc8f000890facc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7e86f426-259d-11f0-8032-12b21974fd42
