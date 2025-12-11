@@ -4,26 +4,14 @@ x-tvg-url=" "
 #EXTINF:-1 tvg-id="AZTECA UNO.mx" group-title="NACIONAL", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
-#EXTINF:-1 tvg-id="ESBD1300004IG" group-title="NACIONAL", Azteca Internacional 
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-
-#EXTINF:-1 tvg-id="ADN 40.mx" group-title="NACIONAL", ADN 40 
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-
-EXTINF:-1 tvg-id="ADN 40.mx" group-title="NACIONAL", ADN 40
-https://stitcher.pluto.tv/stitch/hls/channel/646ccd3681844c000974d6f4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e5ae804d-9d94-11f0-9627-3afd2422fb08
-
 #EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS.mx" group-title="NACIONAL", Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
+#EXTINF:-1 tvg-id="ImagenTV+" group-title="NACIONAL", Canal 3.1 Imagen TV
+https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
+
 #EXTINF:-1 tvg-id="Foro TV" group-title="NACIONAL", Foro TV 4.1
 
-
-#EXTINF:-1 tvg-id="Imagen TV" group-title="NACIONAL", Imagen TV apk
-
-
-#EXTINF:-1 tvg-id="ImagenTV+" group-title="NACIONAL", Imagen TV+
-https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 
 #EXTINF:-1 tvg-id="Canal 5.mx" group-title="NACIONAL", Canal 5
 http://104.238.205.28:8989/278330_.m3u8
@@ -40,6 +28,32 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-id="El Nu9ve" group-title="NACIONAL", El Nu9ve
 http://104.238.205.28:8989/278360_.m3u8
 
+
+#EXTINF:-1 tvg-id="CANAL 11.mx" group-title="NACIONAL", Canal Once
+https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="ESBD1300004IG" group-title="NACIONAL", Azteca Internacional 
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
+#EXTINF:-1 tvg-id="ADN 40.mx" group-title="NACIONAL", ADN 40 
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+EXTINF:-1 tvg-id="ADN 40.mx" group-title="NACIONAL", ADN 40
+https://stitcher.pluto.tv/stitch/hls/channel/646ccd3681844c000974d6f4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e5ae804d-9d94-11f0-9627-3afd2422fb08
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="MVSTV" group-title="NACIONAL", MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
@@ -55,8 +69,7 @@ https://d3c8tise3a7ihl.cloudfront.net/out/v1/20a1877171a242298e4df9e05f4c2070/in
 #EXTINF:-1 tvg-id="MexiquenseTV" group-title="NACIONAL" , Mexiquense TV 
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
 
-#EXTINF:-1 tvg-id="CANAL 11.mx" group-title="NACIONAL", Canal Once
-https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Once Ninos" group-title="NACIONAL",  Once Niños y Niñas
 http://104.238.205.28:8989/278549_.m3u8
