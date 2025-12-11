@@ -14,7 +14,8 @@ https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 
 
 #EXTINF:-1 tvg-id="Canal 5.mx" group-title="NACIONAL", Canal 5
-http://104.238.205.28:8989/278330_.m3u8
+https://lb1.tvportalmx.com/auth/7MhGsOYA-JpDBIXaRpMB8YLYa6fyMG27Em5PVZKMzp9o9PCQcuuwwZWPUPto5kHzjTkoMiqzVH6qhfTIICvqwMXOo_I85_zYK3Gxkrhr5D_BTGTMcd7GVw5bN8qnIGT4lSIp6u1067Emq6fjuIlPwXyC04ouc8_XpE-vJVZCUN7_MYAuNfl0dDkW1JGdhMFFtLuIXE7VTs5aiFByxXqdBU7klYB098P7RnysKpzBqTrCZbdE-h5YQKA6SlV7uPj2Q3FKLZ0GXxwCHXquVUQzPzA8MJwIdLR3bAFTRhhbI5glhQbO9w-YWC03a7NpvZB3CcaQEfyHznZvzrRbvb8NnJ8QMUJtIxwTSROENOd5qrER0u-qyBkt3AwySGYk7Uq-acHzzp1JKb6vbgw3pB5rfo3HbODN2xMJyi5MIbrr6OzZntplU7AvGHnWEjil1PVSAkUglkkvHERtarywG3AtcjyrtTcX9vHmnTOBOdJrjLFqaa5yRFBcrmOKzhheQcUFNFhKHcU4MF-H4_PyH6EOJnXNbsOXHIg47XXA7YOX3rlUUjXzYe_Wt5p_R4iUNfsbgipxdQqfJ3-wGTpsGoGBUilLzDgItIKdb8wSuM94vZk
+
 
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 MX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
