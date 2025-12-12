@@ -64,27 +64,30 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="Milenio TV" group-title="NACIONAL" , Milenio Television
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
 
-#EXTINF:-1 tvg-id="Telediario" group-title="NACIONAL", Telediario Now
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
-
-#EXTINF:-1 tvg-id="TELEFORMULA.mx" group-title="NACIONAL" , Teleformula
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
-
-#EXTINF:-1 tvg-id="Once Ninos" group-title="NACIONAL",  Once Niños y Niñas
-http://104.238.205.28:8989/278549_.m3u8
-
-
 #EXTINF:-1 tvg-id="Canal 21 de México" group-title="NACIONAL" , Capital 21
 https://s5.mexside.net:1936/respaldo/respaldo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CANAL 22 CONACULTA.mx" group-title="NACIONAL" , CANAL 22 
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 
-EXTINF:-1 tvg-id="28 de México" group-title="NACIONAL" , CANAL 28 Nuevo Leon
-https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
+#EXTINF:-1 tvg-id="TELEFORMULA.mx" group-title="NACIONAL" , Teleformula
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
+
+#EXTINF:-1 tvg-id="Telediario" group-title="NACIONAL", Telediario Now
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
+
+
+
+#EXTINF:-1 tvg-id="Once Ninos" group-title="NACIONAL",  Once Niños y Niñas
+http://104.238.205.28:8989/278549_.m3u8
 
 #EXTINF:-1 tvg-id="I503.36479.schedulesdirect.org" group-title="NACIONAL", Radio y Television de Veracruz (RTV) 
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+
+EXTINF:-1 tvg-id="28 de México" group-title="NACIONAL" , CANAL 28 Nuevo Leon
+https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="TV UNAM" group-title="NACIONAL" , TV UNAM
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
@@ -159,7 +162,7 @@ https://jmp2.uk/stvp-US2100010OS
 #EXTINF:-1  tvg-id="US2200005Y2"  group-title="Internacional" , Canal Vix
 https://jmp2.uk/stvp-US2200005Y2
 
-EXTINF:-1 tvg-id="Telemundo Satellite Feed" group-title="Internacional", Telemundo 
+#EXTINF:-1 tvg-id="Telemundo Satellite Feed" group-title="Internacional", Telemundo 
 http://nocable.cc:8080/k4Svp2/645504/120691
 
 #EXTINF:-1 tvg-id="Telemundo" group-title="Internacional", Telemundo
@@ -173,6 +176,7 @@ http://190.11.225.124:5000/live/telemundo_sd/playlist.m3u8
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSO" group-title="Internacional", UNIVERSO
+
 
 
 #EXTINF:-1 tvg-id="Punto 2 Puerto Rico" group-title="Internacional", Telemundo PR
