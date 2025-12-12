@@ -14,15 +14,13 @@ https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8?hdnea=exp=1765501704~acl=/*~hmac=9a0c807302e7f5f73bd28c67024ca814346b757c18ce2d643ca6310fc096d306
 
 #EXTINF:-1 tvg-id="Canal 5.mx" group-title="NACIONAL", Canal 5
-https://lb1.tvportalmx.com/auth/7MhGsOYA-JpDBIXaRpMB8YLYa6fyMG27Em5PVZKMzp9o9PCQcuuwwZWPUPto5kHzjTkoMiqzVH6qhfTIICvqwMXOo_I85_zYK3Gxkrhr5D_BTGTMcd7GVw5bN8qnIGT4lSIp6u1067Emq6fjuIlPwXyC04ouc8_XpE-vJVZCUN7_MYAuNfl0dDkW1JGdhMFFtLuIXE7VTs5aiFByxXqdBU7klYB098P7RnysKpzBqTrCZbdE-h5YQKA6SlV7uPj2Q3FKLZ0GXxwCHXquVUQzPzA8MJwIdLR3bAFTRhhbI5glhQbO9w-YWC03a7NpvZB3CcaQEfyHznZvzrRbvb8NnJ8QMUJtIxwTSROENOd5qrER0u-qyBkt3AwySGYk7Uq-acHzzp1JKb6vbgw3pB5rfo3HbODN2xMJyi5MIbrr6OzZntplU7AvGHnWEjil1PVSAkUglkkvHERtarywG3AtcjyrtTcX9vHmnTOBOdJrjLFqaa5yRFBcrmOKzhheQcUFNFhKHcU4MF-H4_PyH6EOJnXNbsOXHIg47XXA7YOX3rlUUjXzYe_Wt5p_R4iUNfsbgipxdQqfJ3-wGTpsGoGBUilLzDgItIKdb8wSuM94vZk
+
 
 
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 MX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
 
 #EXTINF:-1 tvg-id="AZTECA 7.mx" group-title="NACIONAL", Azteca 7
-https://us-b4-p-e-mg17.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/PNEbbcJZRAaP4wDlQMW2LA/stream/596523c1-d278-4160-91a2-22624bd97148:CHS/variant/993f6326354af989084062cfab46c32a/bandwidth/1623600.m3u8?aid=5fea09a071a9945deebf5f7c&uid=i1hP3PLf6qAOxNEM6Psew4fz61EMI2pn&sid=MG61ApapSxu7sThMFvjPmOSqOa6xcJaY&pid=wPMvpZ86tlWtvDBn1GqnUZ6aB4fb6hsL&pid_dvr=G5FvTmNmaQ1e9gdZDdjS4xq0O9DWmdpt&ref=&without_cookies=false&listenerid=&dnt=true&adInsertionGoogleStreamId=596523c1-d278-4160-91a2-22624bd97148%3ACHS&CMCD=cid%3D%22609ad46a7a441137107d7a81%22%2Cmtp%3D2400%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22wPMvpZ86tlWtvDBn1GqnUZ6aB4fb6hsL%22&es=us-b4-p-e-mg17.cdn.mdstrm.com&ote=1765510411397&ot=-JRgT8FaFGeYEQn2vbfqBg&proto=https&pz=us
-
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 tvg-id="a+" group-title="NACIONAL", A Mas
