@@ -11,7 +11,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 
 #EXTINF:-1 tvg-id="Foro TV" group-title="NACIONAL", Foro TV 4.1
-
+https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8?hdnea=exp=1765501704~acl=/*~hmac=9a0c807302e7f5f73bd28c67024ca814346b757c18ce2d643ca6310fc096d306
 
 #EXTINF:-1 tvg-id="Canal 5.mx" group-title="NACIONAL", Canal 5
 https://lb1.tvportalmx.com/auth/7MhGsOYA-JpDBIXaRpMB8YLYa6fyMG27Em5PVZKMzp9o9PCQcuuwwZWPUPto5kHzjTkoMiqzVH6qhfTIICvqwMXOo_I85_zYK3Gxkrhr5D_BTGTMcd7GVw5bN8qnIGT4lSIp6u1067Emq6fjuIlPwXyC04ouc8_XpE-vJVZCUN7_MYAuNfl0dDkW1JGdhMFFtLuIXE7VTs5aiFByxXqdBU7klYB098P7RnysKpzBqTrCZbdE-h5YQKA6SlV7uPj2Q3FKLZ0GXxwCHXquVUQzPzA8MJwIdLR3bAFTRhhbI5glhQbO9w-YWC03a7NpvZB3CcaQEfyHznZvzrRbvb8NnJ8QMUJtIxwTSROENOd5qrER0u-qyBkt3AwySGYk7Uq-acHzzp1JKb6vbgw3pB5rfo3HbODN2xMJyi5MIbrr6OzZntplU7AvGHnWEjil1PVSAkUglkkvHERtarywG3AtcjyrtTcX9vHmnTOBOdJrjLFqaa5yRFBcrmOKzhheQcUFNFhKHcU4MF-H4_PyH6EOJnXNbsOXHIg47XXA7YOX3rlUUjXzYe_Wt5p_R4iUNfsbgipxdQqfJ3-wGTpsGoGBUilLzDgItIKdb8wSuM94vZk
@@ -31,6 +31,9 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-id="El Nu9ve" group-title="NACIONAL", El Nu9ve
 http://104.238.205.28:8989/278360_.m3u8
 
+#EXTINF:-1 tvg-id="Quiero Tv" group-title="NACIONAL", Quiero TV
+https://d3c8tise3a7ihl.cloudfront.net/out/v1/20a1877171a242298e4df9e05f4c2070/index.m3u8
+
 
 #EXTINF:-1 tvg-id="CANAL 11.mx" group-title="NACIONAL", Canal Once
 https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8
@@ -39,22 +42,18 @@ https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8
 #EXTINF:-1 tvg-id="ESBD1300004IG" group-title="NACIONAL", Azteca Internacional 
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="NACIONAL", Canal 13 Tabasco
+https://stream-207963.castr.net/65313d270e749722b6474684/live_185f5f10888711ee83e2f144889e3879/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="CANAL CATORCE.mx" group-title="NACIONAL" , Canal 14 
+https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
+
+
 #EXTINF:-1 tvg-id="ADN 40.mx" group-title="NACIONAL", ADN 40 
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 EXTINF:-1 tvg-id="ADN 40.mx" group-title="NACIONAL", ADN 40
 https://stitcher.pluto.tv/stitch/hls/channel/646ccd3681844c000974d6f4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e5ae804d-9d94-11f0-9627-3afd2422fb08
-
-
-
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="MVSTV" group-title="NACIONAL", MVS TV
@@ -66,8 +65,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u
 #EXTINF:-1 tvg-id="POPCORN.mx" group-title="NACIONAL",  Popcorn
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16333&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1---&did=948ef29c2686a78ad1e1f64adedd313f&ifa_type=sessionid&app_bundle=&app_store_url=&app_domain=freetv.com&app_name=freetv&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=freetv&content_network=freetv&partner_domain=freetv.com&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&country=mx&country_region=tamaulipas&postal_code=88736&gender=not_specified&yob=0&site_page=https%253A%252F%252Fwww.freetv.com%252Fes%252Flinear%252Fpopcorn-central-0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web
 
-#EXTINF:-1 tvg-id="Quiero Tv" group-title="NACIONAL", Quiero TV
-https://d3c8tise3a7ihl.cloudfront.net/out/v1/20a1877171a242298e4df9e05f4c2070/index.m3u8
+
 
 #EXTINF:-1 tvg-id="MexiquenseTV" group-title="NACIONAL" , Mexiquense TV 
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
@@ -77,8 +75,6 @@ https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649
 #EXTINF:-1 tvg-id="Once Ninos" group-title="NACIONAL",  Once Niños y Niñas
 http://104.238.205.28:8989/278549_.m3u8
 
-#EXTINF:-1 tvg-id="CANAL CATORCE.mx" group-title="NACIONAL" , Canal 14 
-https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Canal 21 de México" group-title="NACIONAL" , Capital 21
 https://s5.mexside.net:1936/respaldo/respaldo/playlist.m3u8
@@ -150,8 +146,6 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 https://live-us-cdn-1.tvstartupengine.com/live/playlist-prod-95aa6fb6-67ee-45c5-b42c-07ca4d4d6096/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" group-title="NACIONAL", Canal 13 Tabasco
-https://stream-207963.castr.net/65313d270e749722b6474684/live_185f5f10888711ee83e2f144889e3879/index.fmp4.m3u8
 
 
 #EXTINF:-1 tvg-id="Drama" group-title="NACIONAL", Mariavision 
