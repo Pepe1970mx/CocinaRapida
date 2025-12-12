@@ -774,6 +774,12 @@ https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="6490254fd2c47c00083a5743" group-title="Retro Music", Now 80s
 https://lightning-now80s-xiaomi.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Ocko Star" group-title="Retro Music", Ocko Star
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+
+
+#EXTINF:-1 tvg-id="MTV Classic" group-title="Retro Music", MTV Classic
+https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
 
 #EXTINF:-1 tvg-id="66a11a21a79dea0008aa90ca" group-title="Retro Music", MTV Classic
 https://stitcher.pluto.tv/stitch/hls/channel/66a11a21a79dea0008aa90ca/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dbff02a1-9660-11f0-8b7c-6ef31b586aee
