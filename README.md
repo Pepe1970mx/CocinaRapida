@@ -444,10 +444,10 @@ http://nocable.cc:8080/k4Svp2/645504/11885
 
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
-http://200.115.120.1:8000/play/ca039/index.m3u8
+http://200.115.96.61:9090/play/a07u/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN HD
-https://kciwjj.5606087801.art:8443/hls/6jrv3g9o9.m3u8?s=25ApBZ-DG9iF8GtBEG7stA&e=1765103818
+http://200.115.120.1:8000/play/ca039/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes HD
 http://2c885aed.rossteleccom.net/iptv/WWEX4VRHZ4XEK4/30075/index.m3u8
