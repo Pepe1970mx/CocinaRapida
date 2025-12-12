@@ -48,14 +48,6 @@ https://stream-207963.castr.net/65313d270e749722b6474684/live_185f5f10888711ee83
 #EXTINF:-1 tvg-id="CANAL CATORCE.mx" group-title="NACIONAL" , Canal 14 
 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 
-
-#EXTINF:-1 tvg-id="ADN 40.mx" group-title="NACIONAL", ADN 40 
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-
-EXTINF:-1 tvg-id="ADN 40.mx" group-title="NACIONAL", ADN 40
-https://stitcher.pluto.tv/stitch/hls/channel/646ccd3681844c000974d6f4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e5ae804d-9d94-11f0-9627-3afd2422fb08
-
-
 #EXTINF:-1 tvg-id="MVSTV" group-title="NACIONAL", MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 
@@ -65,12 +57,20 @@ https://stitcher.pluto.tv/stitch/hls/channel/68224482c5d53e1351aaf2f2/master.m3u
 #EXTINF:-1 tvg-id="POPCORN.mx" group-title="NACIONAL",  Popcorn
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16333&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1---&did=948ef29c2686a78ad1e1f64adedd313f&ifa_type=sessionid&app_bundle=&app_store_url=&app_domain=freetv.com&app_name=freetv&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=freetv&content_network=freetv&partner_domain=freetv.com&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&country=mx&country_region=tamaulipas&postal_code=88736&gender=not_specified&yob=0&site_page=https%253A%252F%252Fwww.freetv.com%252Fes%252Flinear%252Fpopcorn-central-0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web
 
-
-
 #EXTINF:-1 tvg-id="MexiquenseTV" group-title="NACIONAL" , Mexiquense TV 
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
 
+#EXTINF:-1 tvg-id="ADN 40.mx" group-title="NACIONAL", ADN 40 
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
+#EXTINF:-1 tvg-id="Milenio TV" group-title="NACIONAL" , Milenio Television
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
+
+#EXTINF:-1 tvg-id="Telediario" group-title="NACIONAL", Telediario Now
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
+
+#EXTINF:-1 tvg-id="TELEFORMULA.mx" group-title="NACIONAL" , Teleformula
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 
 #EXTINF:-1 tvg-id="Once Ninos" group-title="NACIONAL",  Once Niños y Niñas
 http://104.238.205.28:8989/278549_.m3u8
@@ -108,14 +108,7 @@ http://104.238.205.28:8989/278371_.m3u8
 #EXTINF:-1 tvg-id="CGTN Español" group-title="NACIONAL", CGTN En Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Milenio TV" group-title="NACIONAL" , Milenio Television
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
 
-#EXTINF:-1 tvg-id="Telediario" group-title="NACIONAL", Telediario Now
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
-
-#EXTINF:-1 tvg-id="TELEFORMULA.mx" group-title="NACIONAL" , Teleformula
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 
 #EXTINF:-1 tvg-id="Telehit" group-title="NACIONAL", Telehit
 https://streamer1.nexgen.bz/TELEHIT/index.m3u8
