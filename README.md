@@ -439,21 +439,19 @@ https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 #EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN 
 http://nocable.cc:8080/k4Svp2/645504/11885
 
-#EXTINF:-1 tvg-id="TVC Deportes" group-title="Sports", TVC Deportes 
-
-
+#EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
+http://70a055e6.edemist.com/iptv/8855G6D98KGPCC/31103/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
 http://200.115.96.61:9090/play/a07u/index.m3u8
 
-#EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN HD
 http://200.115.120.1:8000/play/ca039/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes HD
 http://2c885aed.rossteleccom.net/iptv/WWEX4VRHZ4XEK4/30075/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes
-
+http://70a055e6.edemist.com/iptv/8855G6D98KGPCC/30075/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
 https://e1.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8
