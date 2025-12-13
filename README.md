@@ -104,7 +104,7 @@ https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Meganoticias MX" group-title="NACIONAL", Meganoticias MX
-http://104.238.205.28:8989/278371_.m3u8
+
 
 #EXTINF:-1 tvg-id="CGTN Español" group-title="NACIONAL", CGTN En Español
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
@@ -128,6 +128,8 @@ https://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8
 
 #EXTINF:-1 tvg-id="Teleritmo" group-title="NACIONAL", Teleritmo 
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+
 
 #EXTINF:-1 tvg-id="La Voz Grupera" group-title="NACIONAL", La Voz Grupera
 
@@ -909,7 +911,7 @@ https://r.mjh.nz/PlutoTV/64dab5fe35425100080e2991-alt.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-623954128ed2b3b15baecb2c" group-title="MUSICA REGIONAL", Free TV Banda
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-623954128ed2b3b15baecb2c.m3u8
 
-#EXTINF:-1 tvg-id="Videorola" group-title="MUSICA REGIONAL", Video Rola https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_2.m3u8
+
 
 
 
