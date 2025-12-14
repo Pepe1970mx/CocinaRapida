@@ -559,24 +559,24 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 #EXTINF:-1 tvg-id="AXN.mx" group-title="De Paga", AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT.mx" group-title="De Paga", TNT
-http://104.238.205.28:8989/278540_.m3u8
+#EXTINF:-1 tvg-id="TCM.mx" group-title="De Paga", TCM
+http://45.5.117.99:8000/play/a0jw/index.m3u8
 
 #EXTINF:-1 tvg-id="SPACE.mx" group-title="De Paga", Space HD
-http://104.238.205.28:8989/278520_.m3u8
+
 
 #EXTINF:-1 tvg-id="WARNER.mx" group-title="De Paga", Warner
-http://104.238.205.28:8989/278453_.m3u8
+
 
 #EXTINF:-1 tvg-id="MC" group-title="De Paga", MC
 http://200.92.227.238:8000/play/a0sk/index.m3u8
 
 #EXTINF:-1 tvg-id="FX.mx" group-title="De Paga", FX
-http://104.238.205.28:8989/278427_.m3u8
+
 
 
 #EXTINF:-1 tvg-id="USA.mx" group-title="De Paga", USA
-http://104.238.205.28:8989/278452_.m3u8
+
 
 #EXTINF:-1 tvg-id="USA.mx" group-title="De Paga", USA
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
