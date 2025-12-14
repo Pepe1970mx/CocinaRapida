@@ -459,19 +459,17 @@ http://2c885aed.rossteleccom.net/iptv/WWEX4VRHZ4XEK4/30075/index.m3u8
 http://70a055e6.edemist.com/iptv/8855G6D98KGPCC/30075/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
-https://e1.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes 
-https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+m3u8
 
 #EXTINF:-1 tvg-id="ESPN.mx" group-title="Sports", Espn 
 http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/19139/index.m3u8
 
-#EXTINF:-1 tvg-id="Fox Sports Premium" group-title="Sports", Fox Sports Premium
 
-
-#EXTINF:-1 tvg-id="TNT Sur" group-title="Sports", TNT Sports
-
+#EXTINF:-1 tvg-id="Sony Sports" group-title="Sports", Sony Sports
+http://87.255.35.150:18927
 
 #EXTINF:-1 tvg-id="ESPN 1 HD NL" group-title="Sports", ESPN 1 HD NL
 
@@ -506,10 +504,6 @@ http://2c885aed.rossteleccom.net/iptv/WWEX4VRHZ4XEK4/9248/index.m3u8
 #EXTINF:-1 tvg-id="FOX 17" group-title="Sports", FOX
 http://nocable.cc:8080/k4Svp2/645504/120901
 
-#EXTINF:-1 tvg-id="Bein Sports US" group-title="Sports", Bein Sports US
-
-
-#EXTINF:-1 tvg-id="TNT Sports 1" group-title="Sports", TNT Sport 1 UK
 
 
 #EXTINF:-1 tvg-id="Sky Sports Football HD 50 UK" group-title="Sports", Sky Sports Football HD
