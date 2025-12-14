@@ -225,6 +225,9 @@ https://amg00567-estrellamedia-estrellatv-lgus-1g48u.amagi.tv/playlist/amg00567-
 
 
 #EXTINF:-1 tvg-id="TCS+" group-title="Internacional" , TCS+
+http://200.92.227.238:8000/play/a0sf/index.m3u8
+
+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8
 
 #EXTINF:-1 tvg-id="ATV" group-title="Internacional" , ATV PE
@@ -243,7 +246,7 @@ http://mundod.ddns.me:2082/stellar341/rodrigo341/52717
 
 
 #EXTINF:-1 tvg-id="2 de Costa Rica" group-title="Internacional", Canal 2 CR
-https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
+http://200.92.227.238:8000/play/a0sm/index.m3u8
 
 #EXTINF:-1 tvg-id="2 de El Salvador" group-title="Internacional", Canal 2 SV
 https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
@@ -572,7 +575,7 @@ http://104.238.205.28:8989/278520_.m3u8
 http://104.238.205.28:8989/278453_.m3u8
 
 #EXTINF:-1 tvg-id="MC" group-title="De Paga", MC
-http://104.238.205.28:8989/278509_.m3u8
+http://200.92.227.238:8000/play/a0sk/index.m3u8
 
 #EXTINF:-1 tvg-id="FX.mx" group-title="De Paga", FX
 http://104.238.205.28:8989/278427_.m3u8
