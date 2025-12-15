@@ -79,7 +79,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 
 
 #EXTINF:-1 tvg-id="Once Ninos" group-title="NACIONAL",  Once Niños y Niñas
-http://104.238.205.28:8989/278549_.m3u8
+
 
 #EXTINF:-1 tvg-id="I503.36479.schedulesdirect.org" group-title="NACIONAL", Radio y Television de Veracruz (RTV) 
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
@@ -301,8 +301,12 @@ https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/chunklist_w189730781.
 #EXTINF:-1 tvg-id="10 de El Salvador" group-title="Internacional", Canal 10 SV
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal 11 NI" group-title="Internacional", Canal 11
+#EXTINF:-1 tvg-id="Canal 11 HN" group-title="Internacional", Canal 11 HN
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal 11 CR" group-title="Internacional", Canal 11 CR
+https://d2qsan2ut81n2k.cloudfront.net/live/67efd9e7-d51f-40a9-b532-056669bd160a/ts:abr.m3u8
+
 
 #EXTINF:-1 tvg-id="12 de El Salvador" group-title="Internacional", Canal 12 SV
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
