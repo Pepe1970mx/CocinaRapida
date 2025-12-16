@@ -734,17 +734,17 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-xiaomi/
 
 
 #EXTINF:-1 tvg-id="Tooncast" group-title="Kids" , Tooncast
-http://104.238.205.28:8989/278550_.m3u8
+
 
 #EXTINF:-1 tvg-id="Adult Swing" group-title="Kids" , Adult Swing 
-http://104.238.205.28:8989/278391_.m3u8
+
 
 #EXTINF:-1 tvg-id="Cartoon Network Norte" group-title="Kids", Cartoon Network 4K
-http://104.238.205.28:8989/278524_.m3u8
+
 
 
 #EXTINF:-1 tvg-id="Nick" group-title="Kids", Nick HD
-http://104.238.205.28:8989/278544_.m3u8
+http://45.228.234.30:16000/play/a01t/index.m3u8
 
 #EXTINF:-1 tvg-id="Teennick" group-title="Kids", Teennick
 http://104.238.205.28:8989/278550_.m3u8
