@@ -444,6 +444,8 @@ http://nocable.cc:8080/k4Svp2/645504/11885
 http://70a055e6.edemist.com/iptv/8855G6D98KGPCC/31103/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
+http://45.228.234.30:16000/play/a03h/index.m3u8
+
 http://200.115.96.61:9090/play/a07u/index.m3u8
 
 http://200.115.120.1:8000/play/ca039/index.m3u8
@@ -561,7 +563,7 @@ https://streamer1.nexgen.bz/AXN/index.m3u8
 http://45.5.117.99:8000/play/a0jw/index.m3u8
 
 #EXTINF:-1 tvg-id="SPACE.mx" group-title="De Paga", Space HD
-
+http://45.228.234.30:16000/play/a02e/index.m3u8
 
 #EXTINF:-1 tvg-id="WARNER.mx" group-title="De Paga", Warner
 http://45.228.234.30:16000/play/a01o/index.m3u8
@@ -747,7 +749,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-xiaomi/
 http://45.228.234.30:16000/play/a01t/index.m3u8
 
 #EXTINF:-1 tvg-id="Teennick" group-title="Kids", Teennick
-http://104.238.205.28:8989/278550_.m3u8
+
 
 #EXTINF:-1 tvg-id="Disney Channel" group-title="Kids", Disney Channel
 http://201.230.121.186:8000/play/a0fb/index.m3u8
