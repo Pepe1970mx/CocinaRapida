@@ -457,8 +457,12 @@ http://70a055e6.edemist.com/iptv/8855G6D98KGPCC/30075/index.m3u8
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
 
 
-#EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes 
-m3u8
+#EXTINF:-1 tvg-id="ESPN" group-title="Sports", Espn 
+http://45.228.234.30:16000/play/a01l/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" group-title="Sports", Espn
+http://45.228.234.30:16000/play/a01k/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ESPN.mx" group-title="Sports", Espn 
 http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/19139/index.m3u8
@@ -521,9 +525,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 
 
 #EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
-
-#EXTINF:-1 tvg-id="Star Channel" group-title="De Paga", Star Channel HD
-
+http://45.228.234.30:16000/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-id="Frecuencia Musical" group-title="ENTRETENIMIENTO", FM Frecuencia Musical
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13014
@@ -562,7 +564,7 @@ http://45.5.117.99:8000/play/a0jw/index.m3u8
 
 
 #EXTINF:-1 tvg-id="WARNER.mx" group-title="De Paga", Warner
-
+http://45.228.234.30:16000/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-id="MC" group-title="De Paga", MC
 http://200.92.227.238:8000/play/a0sk/index.m3u8
@@ -590,7 +592,7 @@ https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="Sony.mx" group-title="SONY", Sony Movies
-http://38.183.182.166:8000/play/a0vg/index.m3u8
+http://45.228.234.30:16000/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony.mx" group-title="SONY", Sony Movies
 https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
