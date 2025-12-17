@@ -444,6 +444,8 @@ http://nocable.cc:8080/k4Svp2/645504/11885
 http://70a055e6.edemist.com/iptv/8855G6D98KGPCC/31103/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
+http://45.228.234.30:16000/play/a02x/index.m3u8
+
 
 http://200.115.96.61:9090/play/a07u/index.m3u8
 
@@ -479,6 +481,9 @@ http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15951.ts
 
 #EXTINF:-1 tvg-id="ESPN2" group-title="Sports", ESPN2
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15950.ts
+
+#EXTINF:-1 tvg-id="ESPN5" group-title="Sports", ESPN 5
+http://45.228.234.30:16000/play/a02o/index.m3u8
 
 #EXTINF:-1 tvg-id="Fubo Sports Network" group-title="Sports", Fubo Sports Network 
 https://livetv-fa.tubi.video/fubo/master.m3u8
@@ -553,7 +558,7 @@ https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.mx" group-title="De Paga", Cinecanal
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
+http://45.228.234.30:16000/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN.mx" group-title="De Paga", AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
