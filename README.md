@@ -437,6 +437,9 @@ http://38.183.182.166:8000/play/a125/index.m3u8
 #EXTINF:-1 tvg-id="CLAROSPORTS.mx" group-title="Sports", Claro Sports
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
+#EXTINF:-1 tvg-id="CLAROSPORTS.mx" group-title="Sports", Claro Sports 2
+http://45.228.234.30:16000/play/a03t/index.m3u8
+
 #EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN 
 http://nocable.cc:8080/k4Svp2/645504/11885
 
@@ -749,7 +752,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-xiaomi/
 
 
 #EXTINF:-1 tvg-id="Cartoon Network Norte" group-title="Kids", Cartoon Network 4K
-
+http://45.228.234.30:16000/play/a03u/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Nick" group-title="Kids", Nick HD
