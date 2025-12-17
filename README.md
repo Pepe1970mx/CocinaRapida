@@ -444,7 +444,6 @@ http://nocable.cc:8080/k4Svp2/645504/11885
 http://70a055e6.edemist.com/iptv/8855G6D98KGPCC/31103/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.mx" group-title="Sports", TUDN MX
-http://45.228.234.30:16000/play/a03h/index.m3u8
 
 http://200.115.96.61:9090/play/a07u/index.m3u8
 
@@ -465,15 +464,15 @@ http://45.228.234.30:16000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" group-title="Sports", Espn
 http://45.228.234.30:16000/play/a01k/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPN" group-title="Sports", Espn
+http://45.228.234.30:16000/play/a03h/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.mx" group-title="Sports", Espn 
+#EXTINF:-1 tvg-id="" group-title="Sports", Deportes
 http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/19139/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Sony Sports" group-title="Sports", Sony Sports
-http://87.255.35.150:18927
-
-#EXTINF:-1 tvg-id="ESPN 1 HD NL" group-title="Sports", ESPN 1 HD NL
+#EXTINF:-1 tvg-id="Sony Sports" group-title="Sports", Sky Sports La liga
+http://45.228.234.30:16000/play/a03q/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN US" group-title="Sports", ESPN
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15951.ts
