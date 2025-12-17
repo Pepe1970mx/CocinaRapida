@@ -466,6 +466,9 @@ http://45.228.234.30:16000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" group-title="Sports", Espn 2
 http://45.228.234.30:16000/play/a01l/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPN 5" group-title="Sports", Espn 5
+http://45.228.234.30:16000/play/a03i/index.m3u8
+
 #EXTINF:-1 tvg-id="ESPN" group-title="Sports", Espn
 http://45.228.234.30:16000/play/a03h/index.m3u8
 
