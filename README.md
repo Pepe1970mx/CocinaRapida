@@ -572,7 +572,7 @@ https://streamer1.nexgen.bz/AXN/index.m3u8
 #EXTINF:-1 tvg-id="TCM.mx" group-title="De Paga", TCM
 http://45.5.117.99:8000/play/a0jw/index.m3u8
 
-#EXTINF:-1 tvg-id="SPACE.mx" group-title="De Paga", Space HD
+#EXTINF:-1 tvg-id="SPACE SUR" group-title="De Paga", Space HD
 http://45.228.234.30:16000/play/a02e/index.m3u8
 
 #EXTINF:-1 tvg-id="WARNER.mx" group-title="De Paga", Warner
