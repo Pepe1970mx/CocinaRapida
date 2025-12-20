@@ -600,9 +600,12 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
 https://streamer1.nexgen.bz/HBO_LATINO/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="HBO Plus" group-title="De Paga" , HBO 2
-https://streamer1.nexgen.bz/HBO_2/tracks-v1a2/mono.m3u8
+http://45.228.234.30:16000/play/a00a/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family" group-title="De Paga" , HBO Family
+http://45.228.234.30:16000/play/a00b/index.m3u8
+
+
 https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
 
 
@@ -756,6 +759,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-xiaomi/
 
 
 #EXTINF:-1 tvg-id="Cartoon Network Norte" group-title="Kids", Cartoon Network 4K
+http://45.228.234.30:16000/play/a00f/index.m3u8
+
 http://45.228.234.30:16000/play/a03u/index.m3u8
 
 
