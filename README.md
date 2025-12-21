@@ -579,7 +579,8 @@ http://45.5.117.99:8000/play/a0jw/index.m3u8
 http://45.228.234.30:16000/play/a02e/index.m3u8
 
 #EXTINF:-1 tvg-id="WARNER.mx" group-title="De Paga", Warner
-http://45.228.234.30:16000/play/a01o/index.m3u8
+http://168.196.127.18:6001/play/a07v/index.m3u8
+
 
 #EXTINF:-1 tvg-id="MC" group-title="De Paga", MC
 http://200.92.227.238:8000/play/a0sk/index.m3u8
