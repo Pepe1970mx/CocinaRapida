@@ -471,6 +471,8 @@ http://168.196.127.18:6001/play/a07s/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 5" group-title="Sports", Espn 5
 http://168.196.127.18:6001/play/a03i/index.m3u8
 
+http://168.196.127.18:6001/play/a08j/index.m3u8
+
 #EXTINF:-1 tvg-id="ESPN" group-title="Sports", Espn
 
 
