@@ -536,20 +536,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 #EXTINF:-1 tvg-id="WAPA deportes" group-title="Sports", Wapa Deportes
 
 
-
-#EXTINF:-1 tvg-id="Star Channel Centro" group-title="De Paga", Star Channel HD
-http://45.228.234.30:16000/play/a01n/index.m3u8
-
-#EXTINF:-1 tvg-id="TNT Pacífico" group-title="De Paga", TNT 
-http://45.228.234.30:16000/play/a00v/index.m3u8
-
-#EXTINF:-1 tvg-id="Cinemax" group-title="De Paga", Cinemax
-http://168.196.127.18:6001/play/a08p/index.m3u8
-
-
-#EXTINF:-1 tvg-id="Frecuencia Musical" group-title="ENTRETENIMIENTO", FM Frecuencia Musical
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13014
-
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
 
@@ -567,6 +553,23 @@ https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 
 #EXTINF:-1 tvg-id="RetroplusTV" group-title="ENTRETENIMIENTO" , RetroPlusTV
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="Star Channel Centro" group-title="De Paga", Star Channel HD
+http://45.228.234.30:16000/play/a01n/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT Pacífico" group-title="De Paga", TNT 
+http://45.228.234.30:16000/play/a00v/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax" group-title="De Paga", Cinemax
+http://168.196.127.18:6001/play/a08p/index.m3u8
+
+#EXTINF:-1 tvg-id="Studio Universal" group-title="De Paga", Studio Universal 
+http://168.196.127.18:6001/play/a08q/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Frecuencia Musical" group-title="ENTRETENIMIENTO", FM Frecuencia Musical
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13014
 
 #EXTINF:-1 tvg-id="Studio Universal" group-title="De Paga", Studio Universal 
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
