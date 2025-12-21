@@ -543,6 +543,9 @@ http://45.228.234.30:16000/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="TNT Pacífico" group-title="De Paga", TNT 
 http://45.228.234.30:16000/play/a00v/index.m3u8
 
+#EXTINF:-1 tvg-id="Cinemax" group-title="De Paga", Cinemax
+http://168.196.127.18:6001/play/a08p/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Frecuencia Musical" group-title="ENTRETENIMIENTO", FM Frecuencia Musical
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13014
