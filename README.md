@@ -463,16 +463,16 @@ http://70a055e6.edemist.com/iptv/8855G6D98KGPCC/30075/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ESPN" group-title="Sports", Espn
-http://45.228.234.30:16000/play/a01k/index.m3u8
+http://168.196.127.18:6001/play/a07r/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" group-title="Sports", Espn 2
-http://45.228.234.30:16000/play/a01l/index.m3u8
+http://168.196.127.18:6001/play/a07s/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 5" group-title="Sports", Espn 5
-http://45.228.234.30:16000/play/a03i/index.m3u8
+http://168.196.127.18:6001/play/a03i/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" group-title="Sports", Espn
-http://45.228.234.30:16000/play/a03h/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Deportes
 http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/19139/index.m3u8
