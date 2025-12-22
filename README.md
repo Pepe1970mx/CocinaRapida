@@ -272,7 +272,7 @@ http://200.115.120.1:8000/play/ca100/index.m3u8
 
 
 #EXTINF:-1 tvg-id="5 de Republica Dominicana Telemicro" group-title="LATINOS", telemicro 5
-http://181.119.108.27:8000/play/a04b/index.m3u8
+
 
 #EXTINF:-1 tvg-id="5 El Líder Honduras" group-title="LATINOS", Canal 5 HN
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
@@ -325,24 +325,18 @@ https://videos.radiozona3.com/Guatevision/index.m3u8
 #EXTINF:-1 tvg-id="ATV Sur" group-title="Internacional" , ATV Sur PE
 https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL
 
-
-
 #EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="Internacional", Ciudad Magica AR
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
 #EXTINF:-1 tvg-id="Ciudad Magacine" group-title="Internacional", Ciudad Magazine AR
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
-
-
-
 #EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="Internacional", Telecadena 7 y 4
 https://dvrfl03.bozztv.com/hondu-telecadena/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id=" " group-title="RETRO" , Canal Clasicos Animadas
-https://live20.bozztv.com/giatvplayout7/giatv-209599/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" group-title="RETRO" , Tom y Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
@@ -356,30 +350,11 @@ https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
 #EXTINF:-1 tvg-id="Canal LMS" group-title="RETRO" , LMS
 https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="RETRO" , Big Channel
-https://live21.bozztv.com/akamaissh101/ssh101/bigchannel/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="Teleclasica" group-title="RETRO" , Teleclasica 
-https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Gogoplay" group-title="RETRO" , Gogoplay
-https://live21.bozztv.com/akamaissh101/ssh101/gogoplay/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" group-title="RETRO" , Pantalla Clasics
-https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="RETRO" , ToonChannels
-https://live21.bozztv.com/akamaissh101/ssh101/toonchannelph/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="RETRO" , RetroToons
-https://live21.bozztv.com/akamaissh101/ssh101/retrotoons/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="Dreiko TV" group-title="RETRO" , DREIKO TV
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
-
 
 #EXTINF:-1 tvg-id="MoniTV" group-title="RETRO y ENTRETENIMIENTO" , Moni TV
 https://live21.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
