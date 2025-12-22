@@ -336,6 +336,10 @@ https://dvrfl03.bozztv.com/hondu-telecadena/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="Tooncast" group-title="RETRO" , Tooncast
+http://168.196.127.18:6001/play/a07f/index.m3u8
+
+#EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="RETRO" , Los Tres Chiflados
 
 
 #EXTINF:-1 tvg-id="" group-title="RETRO" , Tom y Jerry
@@ -356,6 +360,25 @@ https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
 #EXTINF:-1 tvg-id="Dreiko TV" group-title="RETRO" , DREIKO TV
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
+https://live.obslivestream.com/planetatv/index.m3u8
+
+#EXTINF:-1 tvg-id="Infinita TV" group-title="ENTRETENIMIENTO", Infinita TV
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
+https://live21.bozztv.com/akamaissh101/ssh101/wowchannelsd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Moni TV" group-title="ENTRETENIMIENTO" , Chinola
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+
+#EXTINF:-1 tvg-id="Moni TV" group-title="ENTRETENIMIENTO" , Moni TV
+
+
+#EXTINF:-1 tvg-id="RetroplusTV" group-title="ENTRETENIMIENTO" , RetroPlusTV
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
+
+
 #EXTINF:-1 tvg-id="MoniTV" group-title="RETRO y ENTRETENIMIENTO" , Moni TV
 https://live21.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
 
@@ -370,26 +393,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u
 
 #EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="RETRO y ENTRETENIMIENTO", Pluto Nick Clasico
 https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="Tooncast" group-title="RETRO" , Tooncast
-http://168.196.127.18:6001/play/a07f/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal Family" group-title="RETRO" , Canal Family
-https://live20.bozztv.com/giatvplayout7/giatv-209633/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="RETRO", Epic Toon
-
-
-#EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="RETRO" , Los Tres Chiflados
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="60142258a54aeb0007751c15" group-title="RETRO", Pluto Retro Cartoons
-
 
 
 #EXTINF:-1 tvg-id="FIFA+" group-title="Sports", FIFA+
@@ -511,23 +514,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 #EXTINF:-1 tvg-id="WAPA deportes" group-title="Sports", Wapa Deportes
 
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
-https://live.obslivestream.com/planetatv/index.m3u8
 
-#EXTINF:-1 tvg-id="Infinita TV" group-title="ENTRETENIMIENTO", Infinita TV
-https://s2.tvdatta.com:3753/hybrid/play.m3u8
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
-https://live21.bozztv.com/akamaissh101/ssh101/wowchannelsd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Moni TV" group-title="ENTRETENIMIENTO" , Chinola
-https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
-
-#EXTINF:-1 tvg-id="Moni TV" group-title="ENTRETENIMIENTO" , Moni TV
-
-
-#EXTINF:-1 tvg-id="RetroplusTV" group-title="ENTRETENIMIENTO" , RetroPlusTV
-https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-id="Star Channel Centro" group-title="De Paga", Star Channel HD
