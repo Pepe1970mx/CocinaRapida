@@ -516,9 +516,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 
 
 
+#EXTINF:-1 tvg-id=" " group-title="De Paga", FMH Family
+http://160.20.165.246:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-id="Star Channel Centro" group-title="De Paga", Star Channel HD
-http://45.228.234.30:16000/play/a01n/index.m3u8
+http://160.20.165.246:8000/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT Pacífico" group-title="De Paga", TNT 
 http://45.228.234.30:16000/play/a00v/index.m3u8
