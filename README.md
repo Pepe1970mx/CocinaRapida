@@ -462,6 +462,9 @@ http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/19139/index.m3u8
 #EXTINF:-1 tvg-id="Sony Sports" group-title="Sports", Sky Sports La liga
 http://45.228.234.30:16000/play/a03q/index.m3u8
 
+#EXTINF:-1 tvg-id="Sony Sports" group-title="Sports", Sky Sports
+http://45.228.234.30:16000/play/a03y/index.m3u8
+
 #EXTINF:-1 tvg-id="ESPN US" group-title="Sports", ESPN
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15951.ts
 
