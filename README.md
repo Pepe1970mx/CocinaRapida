@@ -447,7 +447,8 @@ http://168.196.127.18:6001/play/a07r/index.m3u8
 http://168.196.127.18:6001/play/a07s/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 5" group-title="Sports", Espn 5
-http://168.196.127.18:6001/play/a03i/index.m3u8
+http://45.228.234.30:16000/play/a02o/index.m3u8
+
 
 http://168.196.127.18:6001/play/a08j/index.m3u8
 
@@ -468,7 +469,7 @@ http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15951.ts
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15950.ts
 
 #EXTINF:-1 tvg-id="ESPN5" group-title="Sports", ESPN 5
-http://45.228.234.30:16000/play/a02o/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Fubo Sports Network" group-title="Sports", Fubo Sports Network 
 https://livetv-fa.tubi.video/fubo/master.m3u8
@@ -548,7 +549,8 @@ https://streamer1.nexgen.bz/AXN/index.m3u8
 http://45.5.117.99:8000/play/a0jw/index.m3u8
 
 #EXTINF:-1 tvg-id="Space Sur" group-title="De Paga", Space HD
-http://168.196.127.18:6001/play/a08w/index.m3u8
+http://45.228.234.30:16000/play/a02e/index.m3u8
+
 
 #EXTINF:-1 tvg-id="WARNER.mx" group-title="De Paga", Warner
 http://168.196.127.18:6001/play/a07v/index.m3u8
