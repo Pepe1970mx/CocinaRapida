@@ -577,13 +577,15 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
 https://streamer1.nexgen.bz/HBO_LATINO/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="HBO Plus" group-title="De Paga" , HBO 2
-http://45.228.234.30:16000/play/a00a/index.m3u8
+http://200.92.227.238:8000/play/a0qj/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family" group-title="De Paga" , HBO Family
+https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
+
 http://45.228.234.30:16000/play/a00b/index.m3u8
 
 
-https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
+
 
 
 
