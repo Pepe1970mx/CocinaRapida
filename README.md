@@ -453,11 +453,14 @@ http://200.92.227.238:8000/play/a0tf/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 4" group-title="Sports", Espn 4
 http://45.228.234.30:16000/play/a03i/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPN 4" group-title="Sports", Espn 4
+http://200.92.227.238:8000/play/a0th/index.m3u8
+
 #EXTINF:-1 tvg-id="ESPN 5" group-title="Sports", Espn 5
 http://45.228.234.30:16000/play/a02o/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" group-title="Sports", Espn
-
+#EXTINF:-1 tvg-id="ESPN 6" group-title="Sports", Espn 6
+http://200.92.227.238:8000/play/a0th/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Deportes
 http://q1jtamwf.ottclub.xyz/iptv/25A2M6BEBCY8WR/19139/index.m3u8
