@@ -446,6 +446,10 @@ http://168.196.127.18:6001/play/a07r/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 2" group-title="Sports", Espn 2
 http://168.196.127.18:6001/play/a07s/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPN 3" group-title="Sports", ESPN 3
+http://200.92.227.238:8000/play/a0tf/index.m3u8
+
+
 #EXTINF:-1 tvg-id="ESPN 4" group-title="Sports", Espn 4
 http://45.228.234.30:16000/play/a03i/index.m3u8
 
@@ -470,9 +474,6 @@ http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15951.ts
 
 #EXTINF:-1 tvg-id="ESPN2" group-title="Sports", ESPN2
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15950.ts
-
-#EXTINF:-1 tvg-id="ESPN5" group-title="Sports", ESPN 5
-
 
 #EXTINF:-1 tvg-id="Fubo Sports Network" group-title="Sports", Fubo Sports Network 
 https://livetv-fa.tubi.video/fubo/master.m3u8
@@ -735,13 +736,12 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-xiaomi/
 
 
 #EXTINF:-1 tvg-id="Adult Swing" group-title="Kids" , Adult Swing 
-
+http://200.92.227.238:8000/play/a0tc/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network Norte" group-title="Kids", Cartoon Network 4K
-http://45.228.234.30:16000/play/a00f/index.m3u8
-
 http://45.228.234.30:16000/play/a03u/index.m3u8
 
+http://45.228.234.30:16000/play/a00f/index.m3u8
 
 #EXTINF:-1 tvg-id="Nick" group-title="Kids", Nick HD
 http://45.228.234.30:16000/play/a01t/index.m3u8
