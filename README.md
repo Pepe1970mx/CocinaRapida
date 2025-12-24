@@ -444,9 +444,13 @@ http://70a055e6.edemist.com/iptv/8855G6D98KGPCC/30075/index.m3u8
 http://168.196.127.18:6001/play/a07r/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" group-title="Sports", Espn 2
+http://200.92.227.238:8000/play/a0tk/index.m3u8
+
 http://168.196.127.18:6001/play/a07s/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3" group-title="Sports", ESPN 3
+http://200.92.227.238:8000/play/a0tl/index.m3u8
+
 http://200.92.227.238:8000/play/a0tf/index.m3u8
 
 
