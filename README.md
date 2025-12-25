@@ -511,23 +511,16 @@ https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u
 #EXTINF:-1 tvg-id="FOX 17" group-title="Sports", FOX
 http://nocable.cc:8080/k4Svp2/645504/120901
 
-
-
 #EXTINF:-1 tvg-id="" group-title="Sports", Futbol Network 
 https://live.relentlessinnovations.net:1936/futbolnetwork/futbolnetwork/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="WAPA deportes" group-title="Sports", Wapa Deportes
-
-
 
 
 #EXTINF:-1 tvg-id=" " group-title="De Paga", FMH Family
 http://160.20.165.246:8000/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-id="Star Channel Centro" group-title="De Paga", Star Channel HD
+http://200.92.227.238:8000/play/a0oa/index.m3u8
+
 http://160.20.165.246:8000/play/a01n/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT Pacífico" group-title="De Paga", TNT 
