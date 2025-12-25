@@ -364,6 +364,9 @@ https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , Planeta TV
 https://live.obslivestream.com/planetatv/index.m3u8
 
+#EXTINF:-1 tvg-id="Frecuencia Musical" group-title="ENTRETENIMIENTO", FM Frecuencia Musical
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13014
+
 #EXTINF:-1 tvg-id="Infinita TV" group-title="ENTRETENIMIENTO", Infinita TV
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 
@@ -533,8 +536,14 @@ http://168.196.127.18:6001/play/a08p/index.m3u8
 http://168.196.127.18:6001/play/a08q/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Frecuencia Musical" group-title="ENTRETENIMIENTO", FM Frecuencia Musical
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=13014
+#EXTINF:-1 tvg-id="Universal Premiere" group-title="De Paga", Universal Premiere
+http://200.92.227.238:8000/play/a0oq/index.m3u8
+
+#EXTINF:-1 tvg-id="Universal Plus" group-title="De Paga", Universal Premiere
+http://200.92.227.238:8000/play/a0or/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="Studio Universal" group-title="De Paga", Studio Universal 
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
@@ -563,8 +572,7 @@ http://200.92.227.238:8000/play/a0sk/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Universal Premiere .mx" group-title="De Paga", Universal Premiere
-http://200.92.227.238:8000/play/a0oq/index.m3u8
+
 
 #EXTINF:-1 tvg-id="USA.mx" group-title="De Paga", USA
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
