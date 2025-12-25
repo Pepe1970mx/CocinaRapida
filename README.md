@@ -415,13 +415,10 @@ https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u
 #EXTINF:-1 tvg-id="US2700004DX" group-title="Sports", BeIn Extra en Español
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-tcl/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DIRECTV Sports MixHD" group-title="Sports", DSports
-http://38.183.182.166:8000/play/a125/index.m3u8
-
-#EXTINF:-1 tvg-id="CLAROSPORTS.mx" group-title="Sports", Claro Sports
+#EXTINF:-1 tvg-id="CLAROSPORTS" group-title="Sports", Claro Sports
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 
-#EXTINF:-1 tvg-id="CLAROSPORTS.mx" group-title="Sports", Claro Sports 2
+#EXTINF:-1 tvg-id="CLAROSPORTS 2" group-title="Sports", Claro Sports 2
 http://45.228.234.30:16000/play/a03t/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN Estados Unidos" group-title="Sports", TUDN 
@@ -451,6 +448,9 @@ http://200.92.227.238:8000/play/a0uy/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ESPN" group-title="Sports", Espn
+http://200.92.227.238:8000/play/a0tj/index.m3u8
+
+
 http://168.196.127.18:6001/play/a07r/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" group-title="Sports", Espn 2
