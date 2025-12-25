@@ -15,7 +15,7 @@ https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8?hdnea=exp=1765501704~acl=/*~hmac=9a0c807302e7f5f73bd28c67024ca814346b757c18ce2d643ca6310fc096d306
 
 #EXTINF:-1 tvg-id="Canal 5.mx" group-title="NACIONAL", Canal 5
-
+http://200.92.227.238:8000/play/a0uu/index.m3u8
 
 
 #EXTINF:-1 tvg-id="652e91fd6208700008dcaf7b" group-title="NACIONAL" , Canal 6 MX
@@ -28,7 +28,8 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
 #EXTINF:-1 tvg-id="El Nu9ve" group-title="NACIONAL", El Nu9ve
-http://104.238.205.28:8989/278360_.m3u8
+
+
 
 #EXTINF:-1 tvg-id="Quiero Tv" group-title="NACIONAL", Quiero TV
 https://d3c8tise3a7ihl.cloudfront.net/out/v1/20a1877171a242298e4df9e05f4c2070/index.m3u8
