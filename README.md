@@ -399,6 +399,12 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u
 #EXTINF:-1 tvg-id="FIFA+" group-title="Sports", FIFA+
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 
+#EXTINF:-1 tvg-id="63f7e3f9dff38e00082a57af" group-title="Sports", ITV Deportes
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+
+#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0"  group-title="Sports", AyM sports
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
+
 #EXTINF:-1 tvg-id="FOX Deportes" group-title="Sports", Fox Deportes Pluto
 https://stitcher.pluto.tv/stitch/hls/channel/63d0269d60bc8f000890facc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7e86f426-259d-11f0-8032-12b21974fd42
 
@@ -437,6 +443,9 @@ http://2c885aed.rossteleccom.net/iptv/WWEX4VRHZ4XEK4/30075/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox Deportes" group-title="Sports", Fox Deportes
 http://70a055e6.edemist.com/iptv/8855G6D98KGPCC/30075/index.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sports Premium" group-title="Sports", Fox Sports Premium
+http://200.92.227.238:8000/play/a0uy/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
 
@@ -486,15 +495,12 @@ http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15950.ts
 #EXTINF:-1 tvg-id="Fubo Sports Network" group-title="Sports", Fubo Sports Network 
 https://livetv-fa.tubi.video/fubo/master.m3u8
 
-#EXTINF:-1 tvg-id="DAZN 1 HD" group-title="Sports", DAZN 1
-
 
 #EXTINF:-1 tvg-id="Fox Sports 1 US" group-title="Sports", Fox Sport 1 US
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15948.ts
 
 
 #EXTINF:-1 tvg-id="618 Fox Sports 2 US" group-title="Sports", Fox Sport 2 US
-https://tvpass.org/live/FoxSports2/sd
 
 #EXTINF:-1 tvg-id="CBS Sports Network" group-title="Sports", CBS Sports
 http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15944.ts
@@ -502,27 +508,16 @@ http://kstv.us:8080/live/BWxD9XBSgz/2859225324/15944.ts
 #EXTINF:-1 tvg-id="63a0e33a45264d000850ed7e" group-title="Sports", Golazo Network
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=1489fe1a-8afc-11f0-a08f-d2161128e34e
 
-#EXTINF:-1 tvg-id="SKY Sports+ HD UK" group-title="Sports", SKY Sports+ HD
-http://2c885aed.rossteleccom.net/iptv/WWEX4VRHZ4XEK4/9248/index.m3u8
-
 #EXTINF:-1 tvg-id="FOX 17" group-title="Sports", FOX
 http://nocable.cc:8080/k4Svp2/645504/120901
 
-
-
-#EXTINF:-1 tvg-id="Sky Sports Football HD 50 UK" group-title="Sports", Sky Sports Football HD
-http://93c26364.rostelekom.xyz/iptv/SSUVM49FQ2Y69CMAT2GMAUTD/9289/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="Sports", Futbol Network 
 https://live.relentlessinnovations.net:1936/futbolnetwork/futbolnetwork/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="63f7e3f9dff38e00082a57af" group-title="Sports", ITV Deportes
-https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0"  group-title="Sports", AyM sports
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 
 #EXTINF:-1 tvg-id="WAPA deportes" group-title="Sports", Wapa Deportes
 
