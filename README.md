@@ -164,6 +164,8 @@ https://jmp2.uk/stvp-US2100010OS
 
 
 #EXTINF:-1  tvg-id="US2200005Y2"  group-title="Internacional" , Canal Vix
+
+
 https://jmp2.uk/stvp-US2200005Y2
 
 #EXTINF:-1 tvg-id="Galavision" group-title="Internacional", Galavision 1
@@ -197,7 +199,7 @@ EXTINF:-1 tvg-id="Univision" group-title="Internacional",Univision
 http://nocable.cc:8080/k4Svp2/645504/15336
 
 #EXTINF:-1 tvg-id="Univision" group-title="Internacional",Univision 2
-https://e2.thetvapp.to/hls/UnivisionEast/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="Univision West" group-title="Internacional",  Univision West
 http://206.212.244.71:8080/Abxc5k/363887/108248
@@ -518,6 +520,9 @@ http://nocable.cc:8080/k4Svp2/645504/120901
 https://live.relentlessinnovations.net:1936/futbolnetwork/futbolnetwork/playlist.m3u8
 
 
+
+
+
 #EXTINF:-1 tvg-id=" " group-title="De Paga", FMH Family
 http://160.20.165.246:8000/play/a01j/index.m3u8
 
@@ -532,22 +537,6 @@ http://45.228.234.30:16000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax" group-title="De Paga", Cinemax
 http://168.196.127.18:6001/play/a08p/index.m3u8
 
-#EXTINF:-1 tvg-id="Studio Universal" group-title="De Paga", Studio Universal 
-http://168.196.127.18:6001/play/a08q/index.m3u8
-
-
-#EXTINF:-1 tvg-id="Universal Premiere" group-title="De Paga", Universal Premiere
-http://200.92.227.238:8000/play/a0oq/index.m3u8
-
-#EXTINF:-1 tvg-id="Universal Plus" group-title="De Paga", Universal Premiere
-http://200.92.227.238:8000/play/a0or/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="Studio Universal" group-title="De Paga", Studio Universal 
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
-
 #EXTINF:-1 tvg-id="Cinecanal.mx" group-title="De Paga", Cinecanal
 http://45.228.234.30:16000/play/a01q/index.m3u8
 
@@ -560,10 +549,8 @@ http://45.5.117.99:8000/play/a0jw/index.m3u8
 #EXTINF:-1 tvg-id="Space Sur" group-title="De Paga", Space HD
 http://45.228.234.30:16000/play/a02e/index.m3u8
 
-
 #EXTINF:-1 tvg-id="WARNER.mx" group-title="De Paga", Warner
 http://168.196.127.18:6001/play/a07v/index.m3u8
-
 
 #EXTINF:-1 tvg-id="MC" group-title="De Paga", MC
 http://200.92.227.238:8000/play/a0sk/index.m3u8
@@ -571,23 +558,33 @@ http://200.92.227.238:8000/play/a0sk/index.m3u8
 #EXTINF:-1 tvg-id="FX.mx" group-title="De Paga", FX
 
 
-
-
-
 #EXTINF:-1 tvg-id="USA.mx" group-title="De Paga", USA
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
 
 
-#EXTINF:-1 tvg-id="HBO Latino" group-title="De Paga" , HBO Latino
-
+#EXTINF:-1 tvg-id="HBO 2" group-title="De Paga" , HBO Latino
+http://200.92.227.238:8000/play/a0qj/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Plus" group-title="De Paga" , HBO +
-http://200.92.227.238:8000/play/a0qj/index.m3u8
+http://45.228.234.30:16000/play/a00a/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family" group-title="De Paga" , HBO Family
 https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
 
 http://45.228.234.30:16000/play/a00b/index.m3u8
+
+#EXTINF:-1 tvg-id="Studio Universal" group-title="De Paga", Studio Universal 
+http://168.196.127.18:6001/play/a08q/index.m3u8
+
+#EXTINF:-1 tvg-id="Universal Premiere" group-title="De Paga", Universal Premiere
+http://200.92.227.238:8000/play/a0oq/index.m3u8
+
+#EXTINF:-1 tvg-id="Universal Plus" group-title="De Paga", Universal Premiere
+http://200.92.227.238:8000/play/a0or/index.m3u8
+
+#EXTINF:-1 tvg-id="Studio Universal" group-title="De Paga", Studio Universal 
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
+
 
 
 
@@ -651,13 +648,9 @@ https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="USBC39000080S" group-title="Internacional", Canela TV
 https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/cb553e1e7a6c64899ed43d65d5ef41a9df24f0b02a6f9e6c33f6058870df1f499dc0a89da803e4782dc14b9c3e5339415c64c009dc7e01c0df7baf23540b0706dfc1ee2fc6fd7208c3c60d282ab5781a4ffe0f11db35146490a93b189531b04e0011c3007a1967deea47ae7042ddfb72ef025597bd813862284a28ca0e06bab94ec5aaa31e1c8732beb50248855c1da5dd1f9ccb1dbf81ca5b8044857ff10a9495e0f68c42dbdac473ca06e4351b516d28cad737c09f1ff28ac86c38ce202b475357b4f2cbb31f6d80170e5efcfc9ff236fe4b9ddd70d66533ee01c115ee5ae96fa41dd58224c1fde1aa282c38b4d4647233aff7a5b5ee273fcf0291c0c7fc2917f395187553bb09b2400519ca93a1768dc067fedc45ac954b4c7597cb3af1f7a790d0a09f438a24c9de86e9572d4076080eb948b1a57dc920cb79abd74956362240a88c5cc783e652316c48938159d1617fd3b98e90857e51a2691d5bd774c04b001ea85e0e52c47780f0566d993635872033ff5430f22996d12ff4a9dee90775a1c89d2e950aecba1ac2f770ca075d0958fe984f5b4c480f9684225463789141b0d69dac205d03edba99aec40175066e47564189e1be2399dcc679444295041487157a66fefb45fabe7a2b2d168b78fea9117d860953558cc5117c2aa11255d3fbeaf8c556a17793eef03c3d325a62c75d6d95e065d7ff3ecf3d5270754e814d122b3aa8ec2398f6fdc4b4fa04fa9d69ab2d6e1d73c4e35d2663372b3b5ccfc03a9036e6e2b968d5c49fadb5ad6bb8f4f97ea0fba670961dd9e084d5460c91e57a187396de28d77c3efda8b5414ab35dd7aa5c0a103d0f1d8cde14b773b0d18fdf70da0da34b1171e37cfbcdb0e8963404b7c61b62642b65303f70632500bc95e154515aa2ee75b60bb4bf1bf91300687f50c8cb407f96f87b19ab307c4bacb484defe9d4d439c2ebc5ee1542e8a1b4d22e8c73daaa4b7f0f188261436dca4b845b4afc7d582868a057619633d9e8e0e01269676bedb54b8fd5325b8c9a6ead8679b70a206ba82b73ced73f598eb40fdc6ef93911036505e45f3c8f388768aef700cd11cee432616939dea8e13dcdfb2026ae35ea0a4096abc317759899ffa06c42eaca45f1ee685655cc17e5190b3acc67d58d9318754f98a7db125dc26b34c831f410d348199/133/1280x720_3849560/index.m3u8
-
-
-
-#EXTINF:-1 group-title="ENTRETENIMIENTO" , +Cine
-https://tv.arkeo.cl:19360/8128/8128.m3u8?PlaylistM3UCL
 
 
 
