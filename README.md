@@ -563,17 +563,17 @@ http://200.92.227.238:8000/play/a0sk/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="USA.mx" group-title="De Paga", USA
-
+#EXTINF:-1 tvg-id="Universal Premiere .mx" group-title="De Paga", Universal Premiere
+http://200.92.227.238:8000/play/a0oq/index.m3u8
 
 #EXTINF:-1 tvg-id="USA.mx" group-title="De Paga", USA
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO Latino" group-title="De Paga" , HBO Latino
-https://streamer1.nexgen.bz/HBO_LATINO/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1 tvg-id="HBO Plus" group-title="De Paga" , HBO 2
+
+#EXTINF:-1 tvg-id="HBO Plus" group-title="De Paga" , HBO +
 http://200.92.227.238:8000/play/a0qj/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Family" group-title="De Paga" , HBO Family
