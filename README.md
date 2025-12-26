@@ -237,7 +237,7 @@ https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="VTV Honduras Vica TV" group-title="LATINOS", VTV HN
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="La Tele" group-title="LATINOS",
+#EXTINF:-1 tvg-id="La Tele" group-title="LATINOS", La Tele
 https://rds3tf.desdeparaguay.net/latele/latele_int_baja/playlist.m3u8?k=0bd7f9a9b71ea85ee01b92e2c464c0606f850a7133b1e62fac9471e24943a900&exp=1766719933
 
 #EXTINF:-1 tvg-id="Latina TV" group-title="LATINOS" , Latina TV
