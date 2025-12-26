@@ -193,7 +193,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
 #EXTINF:-1 tvg-id="Univision" group-title="Internacional",  Univision
-
+http://nocable.cc:8080/k4Svp2/645504/108248
 
 EXTINF:-1 tvg-id="Univision" group-title="Internacional",Univision
 http://nocable.cc:8080/k4Svp2/645504/15336
@@ -236,6 +236,9 @@ https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="VTV Honduras Vica TV" group-title="LATINOS", VTV HN
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-id="La Tele" group-title="LATINOS",
+https://rds3tf.desdeparaguay.net/latele/latele_int_baja/playlist.m3u8?k=0bd7f9a9b71ea85ee01b92e2c464c0606f850a7133b1e62fac9471e24943a900&exp=1766719933
 
 #EXTINF:-1 tvg-id="Latina TV" group-title="LATINOS" , Latina TV
 https://jireh-6-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?dpssid=b2170327254268bc24a5f249f&sid=ba5t1l1xb2194594206468bc271a06b9e&ndvc=0
