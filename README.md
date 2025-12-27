@@ -174,7 +174,7 @@ http://206.212.244.71:8080/Abxc5k/363887/58770
 #EXTINF:-1 tvg-id="Telemundo Satellite Feed" group-title="Internacional", Telemundo 
 http://nocable.cc:8080/k4Svp2/645504/120691
 
-#EXTINF:-1 tvg-id="Telemundo" group-title="Internacional", Telemundo
+#EXTINF:-1 tvg-id="Telemundo Chicago" group-title="Internacional", Telemundo
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Telemundo" group-title="Internacional", Telemundo 
@@ -735,7 +735,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-xiaomi/
 #EXTINF:-1 tvg-id="Tooncast" group-title="Kids" , Tooncast
 
 
-#EXTINF:-1 tvg-id="Adult Swing" group-title="Kids" , Adult Swing 
+#EXTINF:-1 tvg-id="Adult Swim Latam" group-title="Kids" , Adult Swing 
 http://200.92.227.238:8000/play/a0tc/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network Norte" group-title="Kids", Cartoon Network 4K
