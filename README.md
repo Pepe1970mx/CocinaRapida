@@ -8,11 +8,13 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS.mx" group-title="NACIONAL", Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="ImagenTV+" group-title="NACIONAL", Canal 3.1 Imagen TV
+#EXTINF:-1 tvg-id="ImagenTelevision" group-title="NACIONAL", Canal 3.1 Imagen TV
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 
 #EXTINF:-1 tvg-id="Foro TV" group-title="NACIONAL", Foro TV 4.1
-https://channel02dai-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8?hdnea=st=1766719724~exp=1766720024~acl=*~id=376d7f06-a69f-462a-b2e4-71cae3c977e2~hmac=a3dda133517f450bee5a5211ac947661cd6b49f8a86259a6577ed1d42ca03c9d&originpath=/linear/hls/pa/event/02DzjYAJRCeAE9uB8o3ivg/stream/3387a545-6004-4948-bc84-3c6d705e1938:CHS/master.m3u8
+https://channel08-onlymex.akamaized.net/hls/live/2037034/event01/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="Canal 5.mx" group-title="NACIONAL", Canal 5
 http://200.92.227.238:8000/play/a0uu/index.m3u8
@@ -22,7 +24,7 @@ http://200.92.227.238:8000/play/a0uu/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
 
 #EXTINF:-1 tvg-id="AZTECA 7.mx" group-title="NACIONAL", Azteca 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 
 #EXTINF:-1 tvg-id="a+" group-title="NACIONAL", A Mas
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
