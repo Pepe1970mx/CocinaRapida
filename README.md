@@ -454,6 +454,12 @@ http://70a055e6.edemist.com/iptv/8855G6D98KGPCC/30075/index.m3u8
 #EXTINF:-1 tvg-id="Fox Sports Premium" group-title="Sports", Fox Sports Premium
 http://200.92.227.238:8000/play/a0uy/index.m3u8
 
+#EXTINF:-1 tvg-id="Fox Sports" group-title="Sports", Fox Sports
+http://45.167.255.254:8010/play/a045/index.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sports 2" group-title="Sports", Fox Sports 2
+http://45.167.255.254:8010/play/a046/index.m3u8
+
 #EXTINF:-1 tvg-id="ESPN Deportes" group-title="Sports", Espn Deportes
 
 
