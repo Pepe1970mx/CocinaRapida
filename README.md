@@ -380,30 +380,34 @@ https://s2.tvdatta.com:3753/hybrid/play.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" , WOW TV 
 https://live21.bozztv.com/akamaissh101/ssh101/wowchannelsd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Moni TV" group-title="ENTRETENIMIENTO" , Chinola
+#EXTINF:-1 tvg-id="Chinola" group-title="ENTRETENIMIENTO" , Chinola
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 
 #EXTINF:-1 tvg-id="Moni TV" group-title="ENTRETENIMIENTO" , Moni TV
-
+https://live21.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RetroplusTV" group-title="ENTRETENIMIENTO" , RetroPlusTV
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
 
-
-#EXTINF:-1 tvg-id="MoniTV" group-title="RETRO y ENTRETENIMIENTO" , Moni TV
-https://live21.bozztv.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Clan" group-title="RETRO y ENTRETENIMIENTO" , Clan
+#EXTINF:-1 tvg-id="Clan" group-title="ENTRETENIMIENTO" , Clan
 https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon Mexico" group-title="RETRO y ENTRETENIMIENTO" , Nickelodeon 
+#EXTINF:-1 tvg-id="Nickelodeon Mexico" group-title="ENTRETENIMIENTO" , Nickelodeon 
 http://179.51.136.19:8000/play/a0q4/index.m3u8
 
-#EXTINF:-1 tvg-id="5de802659167b10009e7deba" group-title="RETRO y ENTRETENIMIENTO", Pluto Series Retro
+#EXTINF:-1 tvg-id="5de802659167b10009e7deba" group-title="ENTRETENIMIENTO", Pluto Series Retro
 https://stitcher.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=b5de4d35-806f-11eb-b224-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="RETRO y ENTRETENIMIENTO", Pluto Nick Clasico
+#EXTINF:-1 tvg-id="5ddd7c348520b40009c347e2" group-title="ENTRETENIMIENTO", Pluto Nick Clasico
 https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="6479ff1c17f5e10008ad2797" group-title="ENTRETENIMIENTO", Pluto TV Series de Acción 
+https://stitcher.pluto.tv/stitch/hls/channel/6479ff1c17f5e10008ad2797/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4d2ea70d-8794-11f0-8f1d-72e01dbf2a46
+
+#EXTINF:-1 tvg-id="65662f8a2c46f300088a84cc" group-title="ENTRETENIMIENTO", Pluto TV Series de Sci-Fi
+https://stitcher.pluto.tv/stitch/hls/channel/65662f8a2c46f300088a84cc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4d2ea70d-8794-11f0-8f1d-72e01dbf2a46
+
+
 
 
 #EXTINF:-1 tvg-id="FIFA+" group-title="Sports", FIFA+
@@ -629,11 +633,7 @@ https://d1fhd07bw4d2d6.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="ES300002Y6" group-title="SONY", Sony One Series Thrillers
 https://d1wuti7vf6eqt9.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6479ff1c17f5e10008ad2797" group-title="De Paga", Pluto TV Series de Acción 
-https://stitcher.pluto.tv/stitch/hls/channel/6479ff1c17f5e10008ad2797/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4d2ea70d-8794-11f0-8f1d-72e01dbf2a46
 
-#EXTINF:-1 tvg-id="65662f8a2c46f300088a84cc" group-title="De Paga", Pluto TV Series de Sci-Fi
-https://stitcher.pluto.tv/stitch/hls/channel/65662f8a2c46f300088a84cc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4d2ea70d-8794-11f0-8f1d-72e01dbf2a46
 
 
 
@@ -665,14 +665,10 @@ https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/
 
 
 
-#EXTINF:-1 tvg-id="6732497f3a61d400087a53b0" group-title="ENTRETENIMIENTO" , Tu Warner
-https://stitcher.pluto.tv/stitch/hls/channel/6732497f3a61d400087a53b0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=b6ab15df-26a9-11f0-a242-8e1dc8a26264
+
 
 #EXTINF:-1 tvg-id="668c5cb4f01dbe0008dd4082" group-title="ENTRETENIMIENTO" , CBS En Español
 https://stitcher.pluto.tv/stitch/hls/channel/668c5cb4f01dbe0008dd4082/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=b6ab15df-26a9-11f0-a242-8e1dc8a26264
-
-#EXTINF:-1 tvg-id="60fb3087fbbc120007fc46be" group-title="ENTRETENIMIENTO" , Series con Ñ
-https://stitcher.pluto.tv/stitch/hls/channel/60fb3087fbbc120007fc46be/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=b6ab15df-26a9-11f0-a242-8e1dc8a26264
 
 #EXTINF:-1 tvg-id="5fab09a8749b1a00077d35d2" group-title="ENTRETENIMIENTO", Nick Teens
 https://stitcher.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=c16ba9e4-85a7-11eb-a861-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
