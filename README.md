@@ -212,14 +212,6 @@ http://206.212.244.71:8080/Abxc5k/363887/108248
 #EXTINF:-1 tvg-id="741 UniMAS" group-title="Internacional", UNIMAS 1
 
 
-#EXTINF:-1 tvg-id="Galavision" group-title="Internacional", Galavision
-
-
-
-
-#EXTINF:-1 tvg-id="Wapa" group-title="Internacional", Wapa
-
-
 #EXTINF:-1 tvg-id="5cf0622da00ca1e2f6fac712" group-title="Internacional", Estrella TV
 https://amg00567-estrellamedia-estrellatv-lgus-1g48u.amagi.tv/playlist/amg00567-estrellamedia-estrellatv-lgus/playlist.m3u8
 
@@ -312,11 +304,6 @@ https://d2qsan2ut81n2k.cloudfront.net/live/67efd9e7-d51f-40a9-b532-056669bd160a/
 #EXTINF:-1 tvg-id="12 de El Salvador" group-title="LATINOS", Canal 12 SV
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="13 de Guatemala" group-title="Internacional", Canal 13 - Trecevisión
-
-
-#EXTINF:-1 tvg-id="Canal 13 Esquipula" group-title="LATINOS", Canal 13 Esquipulas
-https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 
 #EXTINF:-1 tvg-id="13 de Costa Rica" group-title="Internacional", Canal 13 CR 
 
@@ -326,20 +313,17 @@ https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 #EXTINF:-1 tvg-id="13 de Argentina El Trece" group-title="LATINOS", El trece AR
 https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Guatevision" group-title="Internacional" , Guatevision
-https://videos.radiozona3.com/Guatevision/index.m3u8
 
-
-#EXTINF:-1 tvg-id="ATV Sur" group-title="Internacional" , ATV Sur PE
+#EXTINF:-1 tvg-id="ATV Sur" group-title="LATINOS" , ATV Sur PE
 https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="Internacional", Ciudad Magica AR
+#EXTINF:-1 tvg-id="Ciudad Magica Tv" group-title="LATINOS", Ciudad Magica AR
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 
-#EXTINF:-1 tvg-id="Ciudad Magacine" group-title="Internacional", Ciudad Magazine AR
+#EXTINF:-1 tvg-id="Ciudad Magacine" group-title="LATINOS", Ciudad Magazine AR
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
-#EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="Internacional", Telecadena 7 y 4
+#EXTINF:-1 tvg-id="Telecadena7y4.hn" group-title="LATINOS", Telecadena 7 y 4
 https://dvrfl03.bozztv.com/hondu-telecadena/index.m3u8
 
 
