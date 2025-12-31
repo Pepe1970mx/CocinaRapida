@@ -8,7 +8,7 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="CANAL DE LAS ESTRELLAS.mx" group-title="NACIONAL", Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="ImagenTelevision" group-title="NACIONAL", Canal 3.1 Imagen TV
+#EXTINF:-1 tvg-id="Imagen TV" group-title="NACIONAL", Imagen TV
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 
 #EXTINF:-1 tvg-id="Foro TV" group-title="NACIONAL", Foro TV 4.1
