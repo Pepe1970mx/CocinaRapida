@@ -282,7 +282,7 @@ https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="6 de Nicaragua" group-title="LATINOS" , Canal 6 NI
 
-#EXTINF:-1 tvg-id="6 de Salvador" group-title="LATINOS" , Canal 6 SV
+#EXTINF:-1 tvg-id="6 de El Salvador" group-title="LATINOS" , Canal 6 SV
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live-video=729984.m3u8
 
 #EXTINF:-1 tvg-id="7 de Guatemala" group-title="LATINOS" , Canal 7 - Televisiete
@@ -297,7 +297,7 @@ https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal 11 HN" group-title="LATINOS", Canal 11 HN
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal 11 CR" group-title="LATINOS", Canal 11 CR
+#EXTINF:-1 tvg-id="Canal 11 de Costa Rica" group-title="LATINOS", Canal 11 CR
 https://d2qsan2ut81n2k.cloudfront.net/live/67efd9e7-d51f-40a9-b532-056669bd160a/ts:abr.m3u8
 
 
