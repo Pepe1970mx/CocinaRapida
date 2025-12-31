@@ -703,30 +703,18 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-xiaomi
 #EXTINF:-1 tvg-id="ESBA3300039ZX" group-title="CINE y Series" , Freetv Estelar
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="CINE y Series" ,
-
-
-#EXTINF:-1 tvg-id="" group-title="CINE y Series" ,
-
-
-
-#EXTINF:-1 tvg-id="" group-title="De Paga", Starz Encore Family & Kids
-
-
-#EXTINF:-1 tvg-id="" group-title="De Paga", Cine Starz
-
-
+#EXTINF:-1 tvg-id="" group-title="CINE 
 
 #EXTINF:-1 tvg-id="Boing Espana" group-title="Kids", Boing
 
 
-#EXTINF:-1 tvg-id="Tooncast" group-title="Kids" , Tooncast
+
 
 
 #EXTINF:-1 tvg-id="Adult Swim Latam" group-title="Kids" , Adult Swing 
 http://200.92.227.238:8000/play/a0tc/index.m3u8
 
-#EXTINF:-1 tvg-id="Cartoon Network Norte" group-title="Kids", Cartoon Network 4K
+#EXTINF:-1 tvg-id="Cartoon Network" group-title="Kids", Cartoon Network
 http://45.228.234.30:16000/play/a03u/index.m3u8
 
 http://45.228.234.30:16000/play/a00f/index.m3u8
@@ -739,6 +727,7 @@ http://45.228.234.30:16000/play/a01t/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney Channel" group-title="Kids", Disney Channel
 http://201.230.121.186:8000/play/a0fb/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Disney Jr." group-title="Kids", Disney Jr.
 http://38.183.182.166:8000/play/a0j9/index.m3u8
