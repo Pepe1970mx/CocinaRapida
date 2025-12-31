@@ -1,6 +1,8 @@
 #EXTM3U 
 x-tvg-url=" "
 
+http://201.230.121.186:8000/play/a0fe/index.m3u8
+
 
 #EXTINF:-1 tvg-id="AZTECA UNO.mx" group-title="NACIONAL", Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
