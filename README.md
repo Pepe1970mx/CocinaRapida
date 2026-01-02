@@ -279,6 +279,10 @@ http://200.115.120.1:8000/play/ca100/index.m3u8
 #EXTINF:-1 tvg-id="5 El Líder Honduras" group-title="LATINOS", Canal 5 HN
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
 
+#EXTINF:-1 tvg-id="Antena Seis" group-title="LATINOS", Antena Seis
+https://video1.azulstream.com:8081/antenaseistv/index.m3u8
+
+
 #EXTINF:-1 tvg-id="6 de Costa Rica" group-title="LATINOS" , Canal 6 CR
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
