@@ -339,6 +339,14 @@ http://168.196.127.18:6001/play/a07f/index.m3u8
 
 #EXTINF:-1 tvg-id="5f85f1dc1418bd0007e11eb9" group-title="RETRO" , Los Tres Chiflados
 
+#EXTINF:-1 tvg-id="" group-title="RETRO" , SAS TV
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="RETRO" , R&E TV
+https://live.ryetv.net/livelan/stream.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="RETRO" , Super Cable
+http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="RETRO" , Tom y Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
